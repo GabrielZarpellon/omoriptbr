@@ -1,0 +1,19 @@
+# =========================================================================================
+# Event: BATTLE BOOK
+# =========================================================================================
+
+message_0:
+      text: Um livro entitulado \c[4]TUDO SOBRE BATALHAS\c[0].\!<br>Você provavelmente deveria ler isso.
+
+message_1:
+      text: Você gostaria de dar uma olhada?
+
+message_2:
+      text: Qual capítulo você gostaria de ler?
+
+# =========================================================================================
+# Cutscene: HIDE AND SEEK
+# =========================================================================================
+
+message_10:
+      text:

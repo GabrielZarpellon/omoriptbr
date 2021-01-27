@@ -1,0 +1,338 @@
+# =========================================================================================
+# Cutscene: Halt, Children!
+# =========================================================================================
+
+#Trigger: Go up to Space boyfriends house
+
+message_0:
+      text: \Com[2]Parem, crianças!\!<br>Você agora está entrando na residência de...\spg
+
+message_1:
+      text: O capitão dos PIRATAS ESPACIAIS...\!<br>O mestre do SISTEMA SOLAR...\!<br>O príncipe do universo...\spg
+
+message_2:
+      text: O primeiro e único CAPITÃO SPACE-\! Quero dizer...\! Err...\!<br>Você está entrando na casa de... \!CAPITÃO...\! NAMORADO.\spg
+
+message_3:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19
+      text: Uau, o capitão dos PIRATAS ESPACIAIS?\!<br>\{ISSO É INCRÍVEL!!\}\kel
+
+message_4:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: Eu quero ser um pirata espacial!\kel
+
+message_5:
+      text: É, bem...\! Eu também queria...\! uma vez.\spg
+
+message_6:
+      text: CAPITÃO NAMORADO não tem feito muito recentemente, então a maioria dos PIRATAS ESPACIAIS se cansaram e saiaram da nave.\spg
+
+message_7:
+      text: É só a gente vagabundiando por aí fazendo as tarefas do CAPITÃO NAMORADO e tudo mais.\spg
+
+message_8:
+      text: Ontem, eu e o pessoal passamos o dia inteiro limpando e jogando o lixo dele...\spg
+
+message_9:
+      text: Aff...\! Eu não saí do meu trabalho antigo pra isso...\!<br>Eu não sou uma babá!\spg
+
+message_10:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: Ahhh, Me desculpa... Isso parece terrível.\!<br>Talvez a gente possa falar um pouco com ele.\aub
+
+message_11:
+      text: Oh, Eu não faria isso se fosse você.\! CAPITÃO SPACE-<br>Quero dizer...\! CAPITÃO NAMORADO tem duas caras, entende.\spg
+
+message_12:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: A gente devia pelo menos tentar!\! Você nunca sabe...\!<br>Talvez ele possa saber algo que nos ajude a achar o BASIL!\her
+
+message_13:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 17
+      text: Ou talvez ele saiba onde achar o meu pet drito, O \c[13]HECTOR\c[0]!\kel
+
+message_14:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 47
+      text: É c-claro, isso também.\her
+
+message_15:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19
+      text: O que nós estamos esperando? Vamos lá ver ele logo!\kel
+
+message_16:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: Desculpe pelo seu trabalho, senhor.\aub
+
+message_17:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 0
+      text: Ele vai melhorar em breve, Eu prometo!\aub
+
+message_18:
+      text: Aah...\! Obrigado mocinha.\! Assim espero também.\spg
+
+# =========================================================================================
+# Cutscene: Blackletter here
+# =========================================================================================
+
+#message_40:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 48
+#      text: \fn<OMORI_GAME>Whoa...\! Anyone feel that?\her
+
+#message_41:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 28
+#      text: Yeah...\! My head was all fuzzy for a second...<br>There must be a MISSING LETTER somewhere in here!\kel
+
+# =========================================================================================
+# Cutscene: Space boyfriend is sick
+# =========================================================================================
+
+#Trigger: Talk to Space boyfriend in bed
+
+
+message_51:
+      text: Coff...\! Coff, coff...\sbf
+
+message_52:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 40
+      text: Uh-oh...\! CAPITÃO SPACE-\!<br>Quero dizer, CAPITÃO NAMORADO não parece tão bem.\her
+
+message_53:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 16
+      text: Não se preocupe, Eu cuido disso!\kel
+
+message_54:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 17
+      text: \{\{EI, \Com[2]CAPITÃO NAMORADO!!\kel
+
+message_55:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: \{\{\{ACORDAAA!!!\kel
+
+message_56:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 43
+      text: KEL!\her
+
+message_57:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 16
+      text: O que?\kel
+
+message_58:
+      text: \}\quake[1]Cough...\! Ughhh...\! Coff, coff...\! Aaah...\!<br>Minha... Preciosa...\! SWEETHEART...\sbf\quake[0]
+
+message_59:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: Ahh... Ele parece tão triste.\!<br>Deve ter alguma maneira de ajudá-lo.\aub
+
+message_60:
+      text: \}\quake[1]Cough, cough...\! Cough...\! Oh, minha SWEETHEART...\!<br>Para onde é que você se foi agora?\sbf\quake[0]
+
+#SPACE PIRATE GUY walks in and walks to SPACE BOYFRIEND.
+
+message_61:
+      text: Oh não... De novo não...\!<br>CAPITÃO NAMORADO tá na bad.\spg
+
+message_62:
+      text: Aqui, meu chapa. Isso vai te alegrar.\spg
+
+#SPACE PIRATE GUY walks to the CASSETTE PLAYER.
+#SPACE PIRATE GUY is surprised and confused.
+
+message_63:
+      text: Ahn?\! Por que não tá tocando nada?\spg
+
+#SPACE PIRATE GUY starts sweating.
+
+message_64:
+      text: Oh não...\! A caixa de som...\! Tá vazia!\!<br>Ele nunca vai acordar agora!\! Ou pior...\!<br>Ele vai acordar...nervoso.\spg
+
+message_65:
+      text: Ah, puxa... que puxa...\!<br>Onde aquela \c[4]MIXTAPE ESPECIAL\c[0] poderia estar?\spg
+
+#SPACE PIRATE guy has an idea.
+
+message_66:
+      text: Alguém deve ter jogado a \c[4]MIXTAPE ESPECIAL\c[0] dele enquanto estavamos limpando!\spg
+
+message_67:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 28
+      text: Qual é o problema? É só uma fita cassete, certo?\kel
+
+message_68:
+      text: Bem, entenda...\! Sempre que o CAPITÃO NAMORADO está longe da SWEETHEART, ele fica muito triste e se deita na cama o dia inteiro.\spg
+
+message_69:
+      text: O único jeito de tirar ele disso é tocando sua \c[4]MIXTAPE ESPECIAL\c[0].\! Há apenas uma no universo que nem aquela.\spg
+
+message_70:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: Oh, Entendo...\! CAPITÃO NAMORADO não tá doente...\!<br>Ele tá... doente de amor...\aub
+
+message_71:
+      text: Aff...\! se o CAPITÃO NAMORADO continuar assim, a outrora grande aliança entre os PIRATAS ESPACIAIS vai ser perdida para todo sempre...\spg
+
+message_72:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 28
+      text: Ah...\! cara...\! Que ruim.\kel
+
+message_73:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 16
+      text: Bem... vamos lá!\kel
+
+#KEL attempts to leave.
+
+message_74:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: Espera! O que você tá fazendo? Nós devemos ajudá-lo!\!<br>Você deve saber o quão ruim é perder alguém importante para você..\aub
+
+message_75:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 30
+      text: Não ouse trazer o \c[13]HECTOR\c[0] nessa conversa!\kel
+
+message_76:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: Eu tô falando de quando você roubou o meu \c[13]BICHINHO DE PELÚCIA!\c[0]\aub
+
+message_77:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 16
+      text: Ahn?\! Eu não me lembro de nada desse tipo.\kel
+
+message_78:
+      text: Tem um \c[11]FERRO-VELHO\c[0] não muito longe daqui, mas o lugar é enorme!\! Vai ser bem difícil encontrar algo ali.\spg
+
+message_79:
+      text: \Com[2]Coff, coff!\sbf
+
+#Everyone turns to the bed
+
+message_80:
+      text: \quake[1]\}Oh... SWEETHEART...\! Minha deusa perfeita...\sbf\quake[0]
+
+message_81:
+      text: \quake[1]\}Coff...\! Minha doce...\! rosquinha recheiada... de geleia...\sbf\quake[0]
+
+#AUBREY looks at Space Boyfriend.
+
+message_82:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 5
+      text: Eu acho que ele tá piorando...\aub
+
+#HERO looks at Aubrey.
+
+message_83:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: O que devemos fazer, OMORI? Nós vamos ajudar?\aub
+
+#[Nod (Yes) / Shake (No)]
+
+message_84:
+      text: Obrigado, minha gente... Eu aprecio muito sua atitude.\!<br>Aqui, tome isso.\spg
+
+message_85:
+      text: Você conseguiu a \c[4]CHAVE DO FERRO-VELHO\c[0].
+
+message_86:
+      text: Essa chave libera o \c[11]FERRO-VELHO\c[0].<br>\!A \c[4]MIXTAPE ESPECIAL\c[0] deve estar em algum lá dentro.\spg
+
+message_87:
+      text: Você pode ir para lá por essa passagem secreta até o quintal do CAPITÃO NAMORADO.\! Bem conveniente, não?\spg
+
+message_88:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: \aubOh, por favor \n[1]! Eu acho que ele precisa muito da nossa ajuda. \!Se você estivesse de cama, você gostaria de alguém para te ajudar, não é?
+
+message_89:
+      text: Eu espero que o CAPITÃO melhore em breve...\spg
+
+
+# =========================================================================================
+# Cutscene: Missing Pluto
+# =========================================================================================
+
+
+message_110:
+      text: Aff...\! A gente errou feio agora, mano...\spd
+
+message_111:
+      text: Eu espero que o CAPITÃO não fique tão mal quando contarmos à ele que seu planeta favorito está sumido.\! Você sabe como ele fica quando tá nervoso.\spd
+
+message_112:
+      text: Amigão, ele não é só nosso CAPITÃO agora.\!<br>Você deve chamá-lo de CAPITÃO NAMORADO, lembra?\spb
+
+message_113:
+      text: Ah sim, tá certo...\spd
+
+message_114:
+      text: Urg... \!\{\quake[1]AAAA\{ARRRRR\{RRRRG!!!\spd\}
+
+message_115:
+      text: Sabe cara...\! Às vezes eu me pergunto se ainda somos PIRATAS ESPACIAIS.\spd
+
+message_116:
+      text: Depois que aquela SWEETHEART veio, nós não temos feito nada de legal!\! A gente deveria procurar por trabalhos de verdade mesmo.\spd
+
+message_117:
+      text: Não fale bobagens, amigão!\!<br>O que é a vida para nós se não a de um PIRATA ESPACIAL?\spb
+
+message_118:
+      text: Eu tenho certeza que o CAPITÃO de verdade vai voltar um dia e voaremos de novo.\! Nós só temos que acreditar nele!\spb
+
+message_119:
+      text: Aaah...\! Obrigado, mano.\! Você sempre tá aqui quando eu preciso de você.\spd
+
+# =========================================================================================
+# Cutscene: Pluto Behind a Tree
+# =========================================================================================
+
+#BEFORE BATTLE
+
+message_130:
+    text: Esse cara parece ser bem intimidador...\!<br>Você quer perturbá-lo?
+
+#BEFORE BATTLE
+
+message_131:
+    text: \quem...\! Hm.\! Nada mal.
+
+# =========================================================================================
+# Misc
+# =========================================================================================
+
+message_150:
+      text: \quake[1]\}Coff...\! coff...\sbf\quake[0]
+
+message_160:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: Espere, OMORI!\! A gente devia checar o CAPITÃO SPACEB-\!<br>Quero dizer, CAPITÃO NAMORADO primeiro.\aub
+
+message_161:
+      text: Você usou a \c[4]CHAVE DO FERRO-VELHO\c[0].

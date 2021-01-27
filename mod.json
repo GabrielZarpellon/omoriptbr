@@ -1,0 +1,26 @@
+{
+  "id": "omoriptbr",
+  "name": "Tradução em PTBR",
+  "description": "Tradução em PTBR",
+  "version": "0.1.5",
+  "files": {
+    "plugins": [
+	  "js/"
+	],
+    "text": [
+	  "scripts/"
+	],
+    "data": [
+	  "data/"
+	],
+    "maps": [],
+    "assets": [
+	  "img/atlases/",
+	  "img/pictures/",
+	  "img/system/"
+	],
+    "exec": []
+  }
+}
+
+
