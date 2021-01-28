@@ -6,7 +6,7 @@
 #Talk to Mr DUCKIE
 
 message_0:
-      text: \n<SR. PATINHO>Eu não queria te incomodar, mas você viu o meu filho em algum lugar?\! Nos distraímos por um segundo e ele já fugiu de novo!
+      text: \n<SR. PATINHO>Eu não queria te incomodar, Mas você viu o meu filho em algum lugar?\! Nos distraímos por um segundo, e ele já fugiu de novo!
 message_1:
       text: \n<SR. PATINHO>Você poderia ficar de olho por mim?\!<br>Você vai reconhecê-lo quando o encontrar.\! Ele é igual a mim! Haha!
 
@@ -19,7 +19,7 @@ message_3:
       text: \n<PATINHO JR.>Lá no meu planeta, mal dava para ver as estrelas...
 
 message_4:
-      text: \n<PATINHO JR.>Quando eu crescer, eu quero ser um CAPITÃO ESPACIAL!\!<br>Então eu sempre terei uma vista das estrelas!
+      text: \n<PATINHO JR.>Quando eu crescer, eu quero ser um CAPITÃO ESPACIAL!\!<br>Aí eu sempre terei uma vista das estrelas!
 
 message_5:
       text: \n<PATINHO JR.>Oh, caramba...\! Por quanto tempo eu estive aqui?
@@ -57,7 +57,7 @@ message_15:
       text: \n<PATINHO JR.>Não...
 
 message_16:
-      text: \n<SR. PATINHO>Ótimo! Isso quer dizer que podemos aproveitar o dia como uma família!\! Agora vá até sua mãe.
+      text: \n<SR. PATINHO>Ótimo! Isso quer dizer que podemos aproveitar o dia como uma família!\! Agora, vá até sua mãe.
 
 message_21:
       text: \n<SR. PATINHO>Finalmente, juntos como uma família!
@@ -72,7 +72,7 @@ message_17:
       text: \n<PATINHO JR.>Mãe, posso ir observar as estrelas depois?
 
 message_18:
-      text: \n<SRA. PATINHO>Claro que pode, querido.\!<br>Eu tenho certeza que o seu pai e eu queremos ir com você.
+      text: \n<SRA. PATINHO>Claro que pode, querido.\!<br>Eu tenho certeza que o seu pai e eu queremos ir junto com você.
 
 message_19:
       text: \n<PATINHO JR.>Oba!
