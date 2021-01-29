@@ -57,7 +57,7 @@ Window_BattleLog.prototype.makeCustomActionText = function(subject, target, item
       if(tname === "OMORI") {return "OMORI não pode ficar amedrontado!\r\n"}
       return target.name() + " não pode ficar amedrontado!\r\n";
     }
-    let finalString = `${tname} não pode ficar ${em}`;
+    let finalString = `${tname} não pode ficar \r\n ${em}`;
     if(finalString.length >= 40) {
       let voinIndex = 0;
       for(let i = 40; i >= 0; i--) {
@@ -86,9 +86,9 @@ if (hpDam != 0) {
     hpDamageText = '...Foi um ataque fraco.\r\n' + hpDamageText;
   }
 } else if (result.isHit() === true) {
-  var hpDamageText = "O Ataque de " + user.name() + " não fez nada.";
+  var hpDamageText = 'O Ataque de \r\n' + user.name() + " não fez nada.";
 } else {
-  var hpDamageText = "O Ataque de " + user.name() + " falhou!";
+  var hpDamageText = 'O Ataque de \r\n' + user.name() + " falhou!";
 }
 
 if (critical) {
@@ -779,20 +779,21 @@ if (mpDam > 0) {
 
     //SPROUT MOLE//
     case 'SPROUT ATTACK':  // SPROUT MOLE ATTACK
-      text = user.name() + ' esbarra em ' + target.name() + '!\r\n';
+      text = user.name() + ' esbarra em \r\n' 
+      text += target.name() + '!\r\n';
       text += hpDamageText;
       break;
 
-    case 'SPROUT NOTHING':  // SPROUT NOTHING
-      text = user.name() + ' está rolando por aí.';
+      case 'SPROUT NOTHING':  // SPROUT NOTHING
+      text = user.name() + " rola por aí.";
       break;
 
     case 'RUN AROUND':  // RUN AROUND
-      text = user.name() + ' corre por aí!';
+      text = user.name() + " corre por aí!";
       break;
 
     case 'HAPPY RUN AROUND': //HAPPY RUN AROUND
-      text = user.name() + ' corre alegremente por aí!';
+      text = user.name() + " corre energicamente!";
        break;
 
     //MOON BUNNY//
@@ -1998,7 +1999,7 @@ if (mpDam > 0) {
 
     //YE OLD MOLE//
     case 'YE OLD ROLL OVER': //MEGA SPROUT MOLE ROLL OVER
-      text = user.name() + ' rola por cima de todo mundo!';
+      text = user.name() + ' rola por cima!';
       text += hpDamageText;
       break;
 
