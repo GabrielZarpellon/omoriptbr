@@ -1110,7 +1110,7 @@ message_234:
 message_235:
     faceset: MainCharacters_DreamWorld
     faceindex: 31
-    text: \kel\Com[2]\{AHHHHHHHHHH, HELP!!\!\}<br>É uma plantinha feia!
+    text: \kel\Com[2]\{AHHHHHHHHHH, SOCORRO!!\!\}<br>É uma plantinha feia!
 
 message_236:
     text: \n<BROTOPEIRA>Com licença!\! Eu não sou nehuma plantinha feia!\!<br>Eu sou uma BROTOPEIRA, uma criatura muito inteligente e altamente qualificada.
