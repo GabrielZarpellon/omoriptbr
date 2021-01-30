@@ -1,0 +1,60 @@
+# =========================================================================================
+# Delivery for Brother
+# ========================================================================================
+#Talk to Family Mole 1
+
+message_1:
+      text: \n<IRMÃO BROTOPEIRA>Ei, você aí!\! Vocês parecem ser viajantes de longa data...\! Poderiam me fazer um favor?\! Meu irmão vive na \c[11]COLÔNIA BROTOPEIRA\c[0] em \c[11]O OUTRO-MUNDO\c[0].
+
+message_2:
+      text: \n<IRMÃO BROTOPEIRA>Eu quero enviar para ele um \c[4]PACOTE DE AJUDA\c[0], mas...\! tenho medo que o pacote se perca.\! Vocês poderiam entregar esse pacote para ele?
+
+#[Nod/Shake]
+#[Nod]
+message_3:
+      text: \n<IRMÃO BROTOPEIRA>Obrigado, criaturas estranhas!\!<br>Tenho certeza que ele vai aproveitar muito bem.\! Aqui está.
+
+message_4:
+      text: Você recebeu um \c[4]PACOTE DE AJUDA\c[0].
+
+message_16:
+      text: \n<IRMÃO BROTOPEIRA>Façam questão de que chegue até ele em segurança!
+
+#[Shake]
+message_5:
+      text: \n<IRMÃO BROTOPEIRA>Oh, entendo...\! Ok então...
+
+#Talk to Sprout Mole 1
+
+message_6:
+      text: \n<IRMÃO BROTOPEIRA>Huh?\! O que é isso?\! Um pacote para mim?
+
+message_7:
+      text: Você entregou o \c[4]PACOTE DE AJUDA\c[0] para o IRMÃO BROTOPEIRA.
+
+message_8:
+      text: \n<IRMÃO BROTOPEIRA>...\! Ei, isso é do meu irmão!\!<br>Uau, tem 99 \c[3]TOFUS\c[0] aqui dentro! Esse é o melhor presente de todos!\!<br>Sniff... Ele me conhece tão bem...
+
+message_9:
+      text: \n<IRMÃO BROTOPEIRA>Obrigado por fazer a entrega!\!<br>Sabe, eu estava guardando isso para um dia chuvoso...\! mas agora que eu tenho o meu \c[4]PACOTE DE AJUDA\c[0], não preciso mais.
+
+message_10:
+      text: Você recebeu uma \c[3]GELEIA VITAL\c[0].
+
+message_11:
+      text: \n<IRMÃO BROTOPEIRA>Mmm...\! Slurp...\! \c[3]TOFU\c[0]...\! Tão...\! saboroso...
+
+#Quest complete
+
+#After quest dialogue:
+
+#Talk to Family Mole 1
+message_12:
+      text: \n<IRMÃO BROTOPEIRA>Você entregou o pacote?<br>\!Tem um ano de \c[3]TOFU\c[0] dentro!\!<br>Tenho certeza que ele vai adorar.\! Cara, sinto falta dele...
+
+#Talk to Sprout Mole 1
+message_13:
+      text: \n<IRMÃO BROTOPEIRA>Mmm...\! Slurp...\! \c[3]TOFU\c[0]...\! Tão bom...
+
+message_15:
+      text: \n<IRMÃO BROTOPEIRA>Acabou todo o meu \c[3]TOFU\c[0].
