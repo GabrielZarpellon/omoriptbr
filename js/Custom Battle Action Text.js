@@ -742,16 +742,16 @@ if (mpDam > 0) {
       break;
 
     case 'BUNNY NOTHING': // BUNNY DO NOTHING
-      text = user.name() + ' está pulando por aí!';
+      text = user.name() + ' está pulando \r\npor aí!';
       break;
 
     case 'BE CUTE':  // BE CUTE
-      text = user.name() + ' pisca para ' + target.name() + '!\r\n';
+      text = user.name() + ' pisca \r\npara ' + target.name() + '!\r\n';
       text += target.name() + ' perdeu ATAQUE...';
       break;
 
     case 'SAD EYES': //SAD EYES
-      text = user.name() + ' olha tristemente para ' + target.name() + '.\r\n';
+      text = user.name() + ' olha \r\ntristemente para ' + target.name() + '.\r\n';
       if(!target._noEffectMessage) {text += target.name() + ' se sentiu TRISTE.';}
       else {text += parseNoEffectEmotion(target.name(), "mais TRISTE!")}
       break;
@@ -763,16 +763,16 @@ if (mpDam > 0) {
       break;
 
     case 'BUNNY NOTHING2':  // BUNNY? DO NOTHING
-      text = user.name() + ' está pulando por aí?';
+      text = user.name() + ' está pulando \r\npor aí?';
       break;
 
     case 'BUNNY CUTE2':  // BE CUTE?
-      text = user.name() + ' pisca para ' + target.name() + '?\r\n';
+      text = user.name() + ' pisca \r\npara ' + target.name() + '?\r\n';
       text += target.name() + 'perdeu ATAQUE?';
       break;
 
     case 'SAD EYES2': // SAD EYES?
-      text = user.name() + ' olha tristemente para ' + target.name() + '...\r\n';
+      text = user.name() + ' olha \r\ntristemente para ' + target.name() + '...\r\n';
       if(!target._noEffectMessage) {text += target.name() + ' se sentiu TRISTE?';}
       else {text += parseNoEffectEmotion(target.name(), "mais TRISTE!")}
       break;
