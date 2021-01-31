@@ -2414,27 +2414,27 @@ message_596:
 message_700:
       faceset: MainCharacters_DreamWorld
       faceindex: 20
-      text: \kelHmmm...\! I don't know, guys...\! I don't think BASIL is in this forest.
+      text: \kelHmmm...\! Eu não sei, pessoal...\! Eu não acho que o BASIL tá nessa floresta.
 
 message_701:
       faceset: MainCharacters_DreamWorld
       faceindex: 4
-      text: \aubBut we haven't even searched the whole forest yet!\! We can't stop now!
+      text: \aubMas a gente nem vasculhou por completo!\! Não podemos parar agora!
 
 message_702:
       faceset: MainCharacters_DreamWorld
       faceindex: 40
-      text: \herIf we don't find BASIL soon, maybe we should meet up with MARI at the playground and figure out what to do from there.
+      text: \herSe não encontramos o BASIL logo, talvez deveriamos falar com a MARI no parquinho e ver o que podemos fazer.
 
 message_708:
       faceset: MainCharacters_DreamWorld
       faceindex: 36
-      text: \herCheer up, AUBREY.\! We'll keep searching until we find him.
+      text: \herSe anima, AUBREY.\! Nós vamos continuar procurando por ele.
 
 message_710:
       faceset: MainCharacters_DreamWorld
       faceindex: 40
-      text: \herBASIL has got to be around here somewhere.
+      text: \herO BASIL tem que tá por aqui em algum lugar.
 
 #--------
 #After wandering through Vast Forest
@@ -2442,48 +2442,48 @@ message_710:
 message_703:
       faceset: MainCharacters_DreamWorld
       faceindex: 19
-      text: \kelHey! Do you think BASIL could be somewhere in this part of the forest?
+      text: \kelEi! Vocês acham que o BASIL pode tá em alguma parte dessa floresta?
 
 #hero shakes
 message_704:
       faceset: MainCharacters_DreamWorld
       faceindex: 4
-      text: \aubIsn't this place filled with bugs and stuff?\! OMORI and HERO don't do well with spiders...
+      text: \aubMas esse lugar não é cheio de insetos e bichos?\! O OMORI e o HERO não lidam bem com aranhas...
 
 #hero shakes
 
 message_705:
       faceset: MainCharacters_DreamWorld
       faceindex: 48
-      text: \herUgh...\! \quake[1]Spiders...\quake[0]
+      text: \herUgh...\! \quake[1]Aranhas...\quake[0]
 
 message_706:
       faceset: MainCharacters_DreamWorld
       faceindex: 28
-      text: Yo HERO, are you okay?\kel
+      text: Ei HERO, cê tá bem?\kel
 
 message_707:
       faceset: MainCharacters_DreamWorld
       faceindex: 46
-      text: Huh? O-Oh, I'm just fine!\! Let's uh...\! Let's go see what MARI thinks first!\her
+      text: Huh? O-Oh, Sim estou!\! Vamos uh...\! Ver o que a MARI acha primeiro!\her
 
 
 message_1000:
       faceset: MainCharacter_Basil
       faceindex: 2
-      text: \basHey, OMORI...\! Thanks for always being there for me.\!<br>Here's something I made for you!
+      text: \basEi, OMORI...\! Obrigado por sempre estar aqui comigo.\!<br>Olha só o que eu fiz para você!
 
 message_1001:
-      text: You got a \c[13]FLOWER CROWN\c[0].
+      text: Você conseguiu uma \c[13]TIARA DE FLORES\c[0].
 
 message_1002:
       faceset: MainCharacter_Basil
       faceindex: 1
-      text: \basI hope it fits okay.\! I can always adjust it if it doesn't.
+      text: \basEu espero que lhe sirva.\! Eu sempre posso ajustar se não der.
 
 #JUNKYARD CONVEYOR
 
 message_1012:
       faceset: MainCharacters_DreamWorld
       faceindex: 49
-      text: \herWhy thank you, kind sir!\! Your assistance is greatly appreciated.
+      text: \herMuito obrigado, caro senhor!\! Sua ajduda é muito apreciada.
