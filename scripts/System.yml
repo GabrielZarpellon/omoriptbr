@@ -46,7 +46,7 @@ terms:
     message:
         actionFailure: "Não teve efeito em %1!"
         actorDamage: "%1 levou %2 de dano!"
-        actorDrain: "%1 was drained of %3 %2!"
+        actorDrain: "%1 foi drenado de %3 %2!"
         actorGain: "%1 ganhou %3 %2!"
         actorLoss: "%1 perdeu %3 %2!"
         actorNoDamage: "%1 não levou dano!"
@@ -63,7 +63,7 @@ terms:
         criticalToEnemy: "ACERTOU BEM NO CORAÇÃO!"
         debuffAdd: "%1's %2 went down!"
         defeat: "%1 foi derrotado..."
-        emerge: "%1 emerged!"
+        emerge: "%1 emergiu!"
         enemyDamage: "%1 levou %2 de dano!"
         enemyDrain: "%1 foi drenado de %3 %2!"
         enemyGain: "%1 ganhou %3 %2!"
@@ -495,89 +495,89 @@ InputNames:
 plugins:
   mainMenu:
     commands:
-      - ['???', 'TAG', 'STAB']
-      - EQUIP
-      - POCKET
-      - SKILLS
-      - OPTIONS
+      - ['???', 'PASSAR', 'ESFAQUEAR']
+      - EQUIPAR
+      - BOLSO
+      - DONS
+      - OPÇÕES
     status:
-      tag: TAG WHO?
-      select: SELECT WHO?
-      stab: STAB WHO?
+      tag: PASSAR PARA QUEM?
+      select: SELECIONAR QUEM?
+      stab: ESFAQUEAR QUEM?
 
   equipMenu:
-    weapon: WEAPON
-    charm: CHARM
-    replace: REPLACE WITH?
+    weapon: ARMA
+    charm: AMULETO
+    replace: TROCAR POR?
 
   skillMenu:
-    skills: SKILLS
-    replace: REPLACE WITH?
+    skills: DONS
+    replace: TROCAR POR?
 
   itemMenu:
     categories:
-      - SNACKS
-      - TOYS
-      - IMPORTANT
+      - LANCHES
+      - COISAS
+      - VALIOSOS
     itemUse:
       commands:
-        - [USE, OPEN, DRINK, EAT]
-        - TRASH
+        - [USAR, ABRIR, BEBER, COMER]
+        - LIXO
 
       confirm:
         single:
-          - USE ON WHO?
+          - USAR EM QUEM?
           -
-          - GIVE TO WHO?
-          - GIVE TO WHO?
+          - DAR PRA QUEM?
+          - DAR PRA QUEM?
 
         all:
-          - USE ON ALL?
+          - USAR EM TODOS?
           -
-          - GIVE TO WHO?
-          - GIVE TO WHO?
+          - DAR PRA QUEM?
+          - DAR PRA QUEM?
 
     itemTrash:
-        text: 'ARE YOU SURE?'
-        commands: [YES, NO]
+        text: 'TEM CERTEZA?'
+        commands: [SIM, NÃO]
 
 
 
   optionsMenu:
     alertMessages:
-      restoreGeneral: Default configuration has been restored. Do you want to recover global.rpgsave?
+      restoreGeneral: Configuração padrão foi restaurada. Você deseja recuperar global.rpgsave?
     buttonHints:
-      confirm: CONFIRM
-      cancel: CANCEL
+      confirm: CONFIRMAR
+      cancel: CANCELAR
     inputWarning:
-      keyboardMessage: "You can't edit KEYBOARD inputs using your GAMEPAD!"
-      gamepadMessage: "You can't edit GAMEPAD inputs using your KEYBOARD!"
-      gamepadNotDetected: "No compatible GAMEPADs detected."
+      keyboardMessage: "Você não pode editar o TECLADO usando seu CONTROLE!"
+      gamepadMessage: "Você não pode editar o CONTROLE usando seu TECLADO!"
+      gamepadNotDetected: "Nenhum CONTROLE compatível detectado."
     general:
       screenResolution:
-        text: SCREEN RESOLUTION
+        text: RESOLUÇÃO DA TELA
         options: ['X1', 'X2']
-        help: Change the resolution of the screen.
+        help: Mudar resolução da tela.
         spacing: 80
 
       fullScreen:
-        text: FULLSCREEN
+        text: TELA CHEIA
         options: ['ON', 'OFF']
-        help: Make the game fullscreen.
+        help: Deixa o jogo em tela cheia.
         boolIndex: true
         spacing: 80
 
       gamepadTips:
-        text: GAME INPUT TYPE
-        options: ['KEYBOARD', 'GAMEPAD']
-        help: Show gamepad or keyboard input icons.
+        text: TIPO DE ENTRADA DE JOGO
+        options: ['TECLADO', 'CONTROLE']
+        help: Mostra os ícones de teclado ou controle.
         boolIndex: false
         spacing: 150
 
       textSkip:
-        text: TEXT SKIP
+        text: PULAR TEXTO
         options: ["ON", "OFF"]
-        help: Fast-forward text by pressing or holding CONFIRM or CANCEL.
+        help: Avance o texto pressionando ou segurando CONFIRMAR ou CANCELAR.
         boolIndex: true
         spacing: 80
 
@@ -595,73 +595,73 @@ plugins:
   #      spacing: 130
 
       battleLogSpeed:
-        text: BATTLE TEXT
-        options: ['FAST', 'MEDIUM', 'SLOW']
-        help: Change the battle text display speed.
+        text: TEXTO DE BATALHA
+        options: ['RÁPIDO', 'MÉDIO', 'DEVAGAR']
+        help: Altera a velocidade de exibição do texto da batalha.
         spacing: 130
 
       alwaysDash:
-        text: CHARACTER MOVEMENT
-        options: ['DASH', 'WALK']
-        help: Toggle the default move speed between dashing and walking.
+        text: MOVIMENTO DE PERSONAGEM
+        options: ['CORRER', 'ANDAR']
+        help: Alterne a velocidade de movimento padrão entre correr e andar.
         boolIndex: true
         spacing: 130
 
     audio:
       bgmVolume:
-        text: BGM VOLUME
-        help: Change the volume of the background music.
+        text: VOLUME BGM
+        help: Mude o volume da música.
 
       bgsVolume:
-        text: BGS VOLUME
-        help: Change the volume of the background ambience.
+        text: VOLUME BGS
+        help: Mude o volume dos sons de fundo.
 
       meVolume:
-        text: ME VOLUME
-        help: Change the volume of the musical effects.
+        text: VOLUME ME
+        help: Mude o volume dos efeitos musicais.
 
       seVolume:
-        text: SE VOLUME
-        help: Change the volume of the sound effects.
+        text: VOLUME SE
+        help: Mude o volume dos efeitos sonoros.
 
     controls:
-      keyboardHeader: KEYBOARD
-      gamepadHeader: GAMEPAD
-      pressKeyPrompt: PRESS A KEY
-      resetAll: RESET ALL
-      help: Press a key to change the input.
+      keyboardHeader: TECLADO
+      gamepadHeader: CONTROLE
+      pressKeyPrompt: PRESSIONE UMA TECLA
+      resetAll: RESETAR TUDO
+      help: Pressione uma tecla para mudar a entrada.
       inputNames:
-        up: UP (↑)
-        down: DOWN (↓)
-        left: LEFT (←)
-        right: RIGHT (→)
-        ok: CONFIRM
-        escape: CANCEL/MENU
-        shift: RUN
-        tag: TAG
+        up: CIMA (↑)
+        down: BAIXO (↓)
+        left: ESQUERDA (←)
+        right: DIREITA (→)
+        ok: CONFIRMAR
+        escape: CANCELAR/MENU
+        shift: CORRER
+        tag: PASSAR
 #        tab: STRAFE
         pageup: LB
         pagedown: RB
 
     system:
       restoreConfig:
-        text: RESTORE DEFAULT SETTINGS
-        help: Restore default game settings and recover global.rpgsave.
+        text: RESTAURAR CONFIGURAÇÕES ORIGINAIS
+        help: Restaura as configurações padrão do jogo e recupere global.rpgsave.
       load:
-        text: LOAD SAVE FILE
-        help: Load a save file.
+        text: CARREGAR ARQUIVO SALVO
+        help: Carrega um arquivo salvo.
       toTitleScreen:
-        text: GO TO TITLE SCREEN
-        help: Return to the title screen.
+        text: IR PARA TELA INICIAL
+        help: Retornar para a tela inicial
       toTitleScreenPrompt:
-        text: Return to the title screen?
-        commands: [YES, NO]
+        text: Retornar para a tela inicial?
+        commands: [SIM, NÃO]
       exit:
-        text: EXIT GAME
-        help: Exit the game.
+        text: SAIR DO JOGO
+        help: Fecha o jogo.
       exitPrompt:
-        text: Do you want to quit?
-        commands: [YES, NO]
+        text: Você deseja desistir?
+        commands: [SIM, NÃO]
 
 
 
