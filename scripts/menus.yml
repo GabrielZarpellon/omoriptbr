@@ -30,7 +30,7 @@ plugins:
   pocketMenu:
     consumables: CONSUMÍVEIS
     toys: COISAS
-    important: IMPORTANTE
+    important: VALIOSOS
     trash: LIXO
     use: USAR
     sure: TEM CERTEZA?
@@ -46,27 +46,27 @@ plugins:
 
       fullScreen:
         text: TELA CHEIA
-        options: ['LIGADO', 'DESLIGADO']
+        options: ['ON', 'OFF']
         help: Deixa o jogo em tela cheia.
         boolIndex: true
         spacing: 80
 
       commandRemember:
         text: LEMBRAR COMANDOS SELECIONADOS
-        options: ['LIGADO', 'DESLIGADO']
+        options: ['ON', 'OFF']
         help: Lembrar os comandos selecionados na batalha.
         boolIndex: true
         spacing: 80
 
       battleAnimations:
         text: ANIMAÇÕES DA BATALHA
-        options: ['LIGADO', 'DESLIGADO']
+        options: ['ON', 'OFF']
         help: TEXTO DE AJUDA
         boolIndex: true
         spacing: 80
 
       battleAnimationSpeed:
-        text: VELOCIDADE DA BATALHA
+        text: TEXTO DE BATALHA
         options: ['NORMAL', 'RÁPIDO', 'MAIS RÁPIDO', 'VELOZ']
         help: HELP TEXT
         spacing: 130
@@ -78,7 +78,7 @@ plugins:
         spacing: 130
 
       alwaysDash:
-        text: MOVIMENTAÇÃO
+        text: MOVIMENTO DE PERSONAGEM
         options: ['CORRER', 'ANDAR']
         help: TEXTO DE AJUDA
         boolIndex: true
@@ -102,11 +102,11 @@ plugins:
         help: Mude o volume dos efeitos sonoros.
 
     controls:
-      keyboardHeader: TELCADO
-      gamepadHeader: GAMEPAD
+      keyboardHeader: TECLADO
+      gamepadHeader: CONTROLE
       pressKeyPrompt: PRESSIONE UMA TECLA
-      resetAll: RESETE TUDO
-      help: Pressione uma tecla para mudar o input.
+      resetAll: RESETAR TUDO
+      help: Pressione uma tecla para mudar a entrada.
       inputNames:
         up: CIMA (↑)
         down: BAIXO (↓)
