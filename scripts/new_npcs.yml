@@ -16,7 +16,7 @@ message_1:
 message_2:
       text: \n<NEREENE>Nossa! Já faz um bom tempo desde que vi vocês quatro.\! Tramando algo, posso presumir?
 message_3:
-      text: \n<NEREENE>Aprenderam a lição depois de se aventurarem saíndo dos túneis?\! Da próxima vez não terão tanta sorte!
+      text: \n<NEREENE>Aprenderam a lição depois de se aventurarem saindo dos túneis?\! Da próxima vez não terão tanta sorte!
 
 message_4:
       text:
@@ -95,7 +95,7 @@ message_21:
 #Albacore
 #Location: Underwater Highway Cave
 message_22:
-      text: \n<ALBACORE>Você está aqui por que não quis pagar o pedagio?\! Já é o terceiro grupo fazendo isso essa semana!
+      text: \n<ALBACORE>Você está aqui por que não quis pagar o pedágio?\! Já é o terceiro grupo fazendo isso essa semana!
 
 message_23:
       text: \n<ALBACORE>Ir por esse caminho é bem inconveniente, mas pelo menos você não precisa gastar as doces, doces CONCHAS...\! Mas o último pedágio vocês vão querer pagar.\! Confia!
