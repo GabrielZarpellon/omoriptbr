@@ -1,0 +1,85 @@
+
+# =========================================================================================
+# FARAWAY TOWN Object Flavor Text
+# =========================================================================================
+
+# Gino's Dinner
+
+#Dining tables:
+message_1:
+      text: Essa mesa é meio grudenta.
+
+
+# Consumable items
+
+# Donut
+message_100:
+      text: A \c[3]ROSQUINHA\c[0] tem uma textura suave e fofa, além de que ser muito açucarada.
+
+# Candy
+message_101:
+      text: O \c[3]DOCE\c[0] é bem mastigável e com sabor de frutas.
+
+# Salad
+message_102:
+      text: A \c[3]SALADA\c[0] tem gosto de grama.
+
+# Bread
+message_103:
+      text: O \c[3]PÃO\c[0] é cheiroso e crocante... e também viciante...?
+
+# Chocolate
+message_104:
+      text: O \c[3]CHOCOLATE\c[0] é cremoso e possui nozes. Ele derrete na boca.
+
+# Pizza Slice
+message_105:
+      text: A \c[3]FATIA DE PIZZA\c[0] é quente e repleta de queijo. Você queria que tivesse mais...
+
+# Hero Sandwich
+message_106:
+      text: O \c[3]SANDUÍCHE HEROICO\c[0] esbanja a combinação perfeita entre carnes e vegetais. Uau...
+
+# Caramel Apple
+message_107:
+      text: A \c[3]MAÇÃ DO AMOR\c[0] é grudenta e doce, e ao mesmo tempo crocante e azeda.
+
+# Whole Pizza
+message_108:
+      text: A \c[3]PIZZA INTEIRA\c[0] é quente e repleta de queijo. Essa é a quantidade perfeita.
+
+# Pie
+message_109:
+      text: A \c[3]TORTA\c[0] tem uma crosta amanteigada que complementa perfeitamente o recheio de frutas.
+
+# Big Bag of Candy
+#message_110:
+#      text: Tinham tantos \c[3]DOCES\c[0], mal couberam em sua boca.
+
+# Slice of Cake
+message_111:
+      text: A \c[3]FATIA DE BOLO\c[0] é pequena e modesta, mas rica em sabor.
+
+# Hamburger
+message_112:
+      text: O \c[3]HAMBURGUER\c[0] possui ingredientes combinados perfeitamente. Só faltou o queijo.
+
+# Tasty Soda
+message_113:
+      text: O \c[3]REFRI SABOROSO\c[0] tem um sabor efervescente e nostálgico que se encheu em sua boca.
+
+# Orange Joe
+message_114:
+      text: O \c[3]SUCO DE LARANJA\c[0] misturado com \c[3]CAFÉ\c[0] criou um sabor questionável.
+
+# Apple Juice
+message_115:
+      text: O \c[3]SUCO DE MAÇÃ\c[0] foi realmente feito com as mais maduras maçãs.
+
+# Orange Juice
+message_116:
+      text: O \c[3]SUCO DE MAÇÃ\c[0] foi realmente feito com as mais frescas laranjas.
+
+# Coffee
+message_117:
+      text: O \c[3]CAFÉ\c[0] é quente e amargo, como o esperado. Você não entende por que as pessoas bebem isso.

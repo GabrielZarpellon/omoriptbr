@@ -57,7 +57,7 @@ Window_BattleLog.prototype.makeCustomActionText = function(subject, target, item
       if(tname === "OMORI") {return "OMORI não pode ficar amedrontado!\r\n"}
       return target.name() + " não pode ficar amedrontado!\r\n";
     }
-    let finalString = `${tname} não pode ficar ${em}`;
+    let finalString = `${tname} não pode ficar \r\n ${em}`;
     if(finalString.length >= 40) {
       let voinIndex = 0;
       for(let i = 40; i >= 0; i--) {
@@ -86,9 +86,9 @@ if (hpDam != 0) {
     hpDamageText = '...Foi um ataque fraco.\r\n' + hpDamageText;
   }
 } else if (result.isHit() === true) {
-  var hpDamageText = "O Ataque de " + user.name() + " não fez nada.";
+  var hpDamageText = 'O Ataque de ' + user.name() + '\r\n' + "não fez nada.";
 } else {
-  var hpDamageText = "O Ataque de " + user.name() + " falhou!";
+  var hpDamageText = 'O Ataque de ' + user.name() + '\r\n' + "falhou!";
 }
 
 if (critical) {
@@ -152,7 +152,7 @@ if (mpDam > 0) {
   case 'TRICK':  // TRICK
     text = user.name() + ' enganou ' + target.name() + '.\r\n';
     if(target.isEmotionAffected("happy")) {
-      if(!target._noStateMessage) {text += target.name() + '\' teve a VELOCIDADE diminuída!\r\n';}
+      if(!target._noStateMessage) {text += target.name() + ' perder VELOCIDADE!\r\n';}
       else {text += parseNoStateChange(target.name(), "VELOCIDADE ", "diminuiu!\r\n")}
     }
     text += hpDamageText;
@@ -161,7 +161,7 @@ if (mpDam > 0) {
   case 'SHUN': // SHUN
     text = user.name() + ' ignorou ' + target.name() + '.\r\n';
     if(target.isEmotionAffected("sad")) {
-      if(!target._noStateMessage) {text += target.name() + '\' teve a DEFESA diminuída.\r\n';}
+      if(!target._noStateMessage) {text += target.name() + ' perdeu DEFESA.\r\n';}
       else {text += parseNoStateChange(target.name(), "DEFESA ", "diminuiu!\r\n")}
     }
     text += hpDamageText;
@@ -247,14 +247,14 @@ if (mpDam > 0) {
 
   case 'TRIP':  // TRIP
     text = user.name() + ' derrubou ' + target.name() + '!\r\n';
-    if(!target._noStateMessage) {text += target.name() + ' teve a VELOCIDADE diminuída!\r\n';}
+    if(!target._noStateMessage) {text += target.name() + ' perdeu VELOCIDADE!\r\n';}
     else {text += parseNoStateChange(target.name(), "VELOCIDADE", "diminuiu!\r\n")}
     text += hpDamageText;
     break;
 
     case 'TRIP 2':  // TRIP 2
       text = user.name() + ' derrubou ' + target.name() + '!\r\n';
-      if(!target._noStateMessage) {text += target.name() + ' teve a VELOCIDADE diminuída!\r\n';}
+      if(!target._noStateMessage) {text += target.name() + ' perdeu VELOCIDADE!\r\n';}
       else {text += parseNoStateChange(target.name(), "VELOCIDADE", "diminuiu!\r\n")}
       if(!target._noEffectMessage) {text += target.name() + ' se sentiu TRISTE.\r\n';}
       else {text += parseNoEffectEmotion(target.name(), "mais TRISTE!\r\n")}
@@ -317,11 +317,11 @@ if (mpDam > 0) {
     else {text += parseNoEffectEmotion(target.name(), "mais FELIZ!\r\n")}
 
     if(!user._noEffectMessage) {
-      if(user.isStateAffected(8)) {text += user.name() + ' feels MANIC!!!';}
-      else if(user.isStateAffected(7)) {text += user.name() + ' feels ECSTATIC!!';}
-      else if(user.isStateAffected(6)) {text += user.name() + ' feels HAPPY!';}
+      if(user.isStateAffected(8)) {text += user.name() + ` se sentiu MANÍAC${pronome1}!!!`;}
+      else if(user.isStateAffected(7)) {text += user.name() + ` se sentiu EXTÁTIC${pronome1}!!`;}
+      else if(user.isStateAffected(6)) {text += user.name() + ' se sentiu ALEGRE!';}
     }
-    else {text += parseNoEffectEmotion(user.name(), "HAPPIER!\r\n")}
+    else {text += parseNoEffectEmotion(user.name(), "mais FELIZ!\r\n")}
     break;
 
   case 'HEADBUTT':  // HEADBUTT
@@ -341,7 +341,7 @@ if (mpDam > 0) {
 
   case 'POWER HIT': //Power Hit
     text = user.name() + ' esmaga ' + target.name() + '!\r\n';
-    if(!target._noStateMessage) {text += target.name() + ' teve sua DEFESA diminuída.\r\n';}
+    if(!target._noStateMessage) {text += target.name() + ' perdeu DEFESA.\r\n';}
     else {text += parseNoStateChange(target.name(), "DEFESA", "diminuiu!\r\n")}
     text += hpDamageText;
     break;
@@ -384,7 +384,7 @@ if (mpDam > 0) {
 
   case 'LOOK KEL 1':  // Look at Kel 1
     text = 'KEL enche o saco da AUBREY!\r\n';
-    text += target.name() + " se sente NERVOSA!";
+    text += target.name() + " se sentiu NERVOSA!";
     break;
 
   case 'LOOK KEL 2': // Look at Kel 2
@@ -394,12 +394,12 @@ if (mpDam > 0) {
    var KEL = $gameActors.actor(3);
    if(AUBREY.isStateAffected(14) && KEL.isStateAffected(14)) {text += 'KEL e AUBREY se sentem NERVOSOS!';}
    else if(AUBREY.isStateAffected(14) && KEL.isStateAffected(15)) {
-    text += 'KEL se sente ENFURECIDO!!\r\n';
-    text += 'AUBREY se sente NERVOSA!';
+    text += 'KEL se sentiu ENFURECIDO!!\r\n';
+    text += 'AUBREY se sentiu NERVOSA!';
    }
    else if(AUBREY.isStateAffected(15) && KEL.isStateAffected(14)) {
-    text += 'KEL se sente NERVOSO!\r\n';
-    text += 'AUBREY se sente ENFURECIDA!!';
+    text += 'KEL se sentiu NERVOSO!\r\n';
+    text += 'AUBREY se sentiu ENFURECIDA!!';
    }
    else if(AUBREY.isStateAffected(15) && KEL.isStateAffected(15)) {text += 'KEL e AUBREY se sentem ENFURECIDOS!!';}
    else {text += 'KEL e AUBREY se sentem NERVOSOS!';}
@@ -407,23 +407,23 @@ if (mpDam > 0) {
 
   case 'LOOK HERO':  // LOOK AT HERO 1
     text = 'HERO diz para AUBREY focar!\r\n';
-    if(target.isStateAffected(6)) {text += target.name() + " se sente FELIZ!\r\n"}
-    else if(target.isStateAffected(7)) {text += target.name() + " se sente EXTÁTICA!!\r\n"}
-    text += user.name() + ' teve a DEFESA aumentada!!';
+    if(target.isStateAffected(6)) {text += target.name() + " se sentiu FELIZ!\r\n"}
+    else if(target.isStateAffected(7)) {text += target.name() + " se sentiu EXTÁTICA!!\r\n"}
+    text += user.name() + ' ganhou DEFESA!!';
     break;
 
   case 'LOOK HERO 2': // LOOK AT HERO 2
     text = 'HERO alegra AUBREY!\r\n';
     text += 'A DEFESA da AUBREY aumentou!!\r\n';
-    if(target.isStateAffected(6)) {text += target.name() + " feels HAPPY!\r\n"}
-    else if(target.isStateAffected(7)) {text += target.name() + " feels ECSTATIC!!\r\n"}
+    if(target.isStateAffected(6)) {text += target.name() + " se sentiu FELIZ!\r\n"}
+    else if(target.isStateAffected(7)) {text += target.name() + " se sentiu EXTÁTICA!!\r\n"}
     if(!!$gameTemp._statsState[0]) {
       var absHp = Math.abs($gameTemp._statsState[0] - $gameActors.actor(2).hp);
-      if(absHp > 0) {text += `AUBREY recovers ${absHp} HEART!\r\n`;}
+      if(absHp > 0) {text += `AUBREY recupera ${absHp} de CORAÇÃO!\r\n`;}
     }
     if(!!$gameTemp._statsState[1]) {
       var absMp = Math.abs($gameTemp._statsState[1] - $gameActors.actor(2).mp);
-      if(absMp > 0) {text += `AUBREY recovers ${absMp} JUICE...`;}
+      if(absMp > 0) {text += `AUBREY recupera ${absMp} de SUCO...`;}
     }
     $gameTemp._statsState = undefined;
     break;
@@ -445,70 +445,70 @@ if (mpDam > 0) {
       break;
 
     case 'REBOUND':  // REBOUND
-      text = user.name() + '\'s ball ricochets everywhere!';
+      text = 'A bola de' + user.name() + 'ricocheteia para todo lado!';
       break;
 
     case 'FLEX':  // FLEX
-      text = user.name() + ' flexes and feels his best!\r\n';
-      text += user.name() + " HIT RATE rose!\r\n"
+      text = user.name() + ' flexiona e se sente fortão!\r\n';
+      text += user.name() + " ganhou TAXA DE ACERTO!\r\n"
       break;
 
     case 'JUICE ME': // JUICE ME
-      text = user.name() + ' passes the COCONUT to ' + target.name() + '!\r\n'
+      text = user.name() + ' passa o COCO para ' + target.name() + '!\r\n'
       var absMp = Math.abs(mpDam);
       if(absMp > 0) {
-        text += `${target.name()} recovers ${absMp} JUICE...\r\n`
+        text += `${target.name()} recupera ${absMp} de SUCO...\r\n`
       }
       text += hpDamageText;
       break;
 
     case 'RALLY': // RALLY
-      text = user.name() + ' gets everyone pumped up!\r\n';
-      if(user.isStateAffected(7)) {text += user.name() + " feels ECSTATIC!!\r\n"}
-      else if(user.isStateAffected(6)) {text += user.name() + " feels HAPPY!\r\n"}
-      text += "Everyone gains ENERGY!\r\n"
+      text = user.name() + ' deixa todo mundo empolgado!\r\n';
+      if(user.isStateAffected(7)) {text += user.name() + ` se sentiu EXTÁTIC${pronome1}\r\n`}
+      else if(user.isStateAffected(6)) {text += user.name() + " se sentiu FELIZ!\r\n"}
+      text += "Todo mundo ganhou ENERGIA!\r\n"
       for(let actor of $gameParty.members()) {
         if(actor.name() === "KEL") {continue;}
         var result = actor.result();
         if(result.mpDamage >= 0) {continue;}
         var absMp = Math.abs(result.mpDamage);
-        text += `${actor.name()} recovers ${absMp} JUICE...\r\n`
+        text += `${actor.name()} recuperou ${absMp} de SUCO...\r\n`
       }
       break;
 
     case 'SNOWBALL': // SNOWBALL
-      text = user.name() + ' throws a SNOWBALL at\r\n';
+      text = user.name() + ' jogou uma bola de neve em\r\n';
       text += target.name() + '!\r\n';
-      if(!target._noEffectMessage) {text += target.name() + " feels SAD.\r\n"}
-      else {text += parseNoEffectEmotion(target.name(), "SADDER!\r\n")}
+      if(!target._noEffectMessage) {text += target.name() + " se sentiu TRISTE.\r\n"}
+      else {text += parseNoEffectEmotion(target.name(), "mais TRISTE!\r\n")}
       text += hpDamageText;
       break;
 
     case 'TICKLE': // TICKLE
-      text = user.name() + ' tickles ' + target.name() + '!\r\n'
-      text += `${target.name()} let their guard down!`
+      text = user.name() + ' fez cócegas em ' + target.name() + '!\r\n'
+      text += `${target.name()} baixou a guarda!`
       break;
 
     case 'RICOCHET': // RICOCHET
-     text = user.name() + ' does a fancy ball trick!\r\n';
+     text = user.name() + ' faz um truque extravagante com a bola!\r\n';
      text += hpDamageText;
      break;
 
     case 'CURVEBALL': // CURVEBALL
-     text = user.name() + ' throws a curveball...\r\n';
-     text += target.name() + ' is thrown for a loop.\r\n';
+     text = user.name() + ' joga uma bola curva...\r\n';
+     text += target.name() + ' é jogado em um loop.\r\n';
      switch($gameTemp._randomState) {
        case 6:
-         if(!target._noEffectMessage) {text += target.name() + " feels HAPPY!\r\n"}
-         else {text += parseNoEffectEmotion(target.name(), "HAPPIER!\r\n")}
+         if(!target._noEffectMessage) {text += target.name() + " se sentiu FELIZ!\r\n"}
+         else {text += parseNoEffectEmotion(target.name(), "mais FELIZ!\r\n")}
          break;
       case 14:
-        if(!target._noEffectMessage) {text += target.name() + " feels ANGRY!\r\n"}
-        else {text += parseNoEffectEmotion(target.name(), "ANGRIER!\r\n")}
+        if(!target._noEffectMessage) {text += target.name() + " se sentiu NERVOSO!\r\n"}
+        else {text += parseNoEffectEmotion(target.name(), "mais NERVOSO!\r\n")}
         break;
       case 10:
-        if(!target._noEffectMessage) {text += target.name() + " feels SAD.\r\n"}
-        else {text += parseNoEffectEmotion(target.name(), "SADDER!\r\n")}
+        if(!target._noEffectMessage) {text += target.name() + " se sentiu TRISTE.\r\n"}
+        else {text += parseNoEffectEmotion(target.name(), "mais TRISTE!\r\n")}
         break;
 
      }
@@ -516,42 +516,42 @@ if (mpDam > 0) {
      break;
 
     case 'MEGAPHONE': // MEGAPHONE
-      if(target.index() <= unitLowestIndex) {text = user.name() + ' runs around and annoys everyone!\r\n';}
-      if(target.isStateAffected(16)) {text += target.name() + ' feels FURIOUS!!!\r\n'}
-      else if(target.isStateAffected(15)) {text += target.name() + ' feels ENRAGED!!\r\n'}
-      else if(target.isStateAffected(14)) {text += target.name() + ' feels ANGRY!\r\n'}
+      if(target.index() <= unitLowestIndex) {text = user.name() + ' corre por aí irritando todo mundo!\r\n';}
+      if(target.isStateAffected(16)) {text += target.name() + ' se sentiu FURIOSO!!!\r\n'}
+      else if(target.isStateAffected(15)) {text += target.name() + ' se sentiu ENFURECIDO!!\r\n'}
+      else if(target.isStateAffected(14)) {text += target.name() + ' se sentiu NERVOSO!\r\n'}
       break;
 
     case 'DODGE ATTACK': // DODGE ATTACK
-      text = user.name() + ' gets ready to dodge!';
+      text = user.name() + ' se prepara para desviar!';
       break;
 
     case 'DODGE ANNOY': // DODGE ANNOY
-      text = user.name() + ' starts teasing the foes!';
+      text = user.name() + ' começa a importunar os inimigos!';
       break;
 
     case 'DODGE TAUNT': // DODGE TAUNT
-      text = user.name() + ' starts taunting the foes!\r\n';
-      text += "All foes' HIT RATE fell for the turn!"
+      text = user.name() + ' começa a provocar os inimigos!\r\n';
+      text += "A TAXA DE ACERTO de todos os inimigos caiu no turno!"
       break;
 
     case 'PASS OMORI':  // KEL PASS OMORI
-      text = 'OMORI não estava olhando e foi acertado!\r\n';
+      text = 'OMORI não estava olhando\r\ne foi acertado!\r\n';
       text += 'OMORI levou 1 de dano!';
       break;
 
     case 'PASS OMORI 2': //KEL PASS OMORI 2
-      text = 'OMORI catches KEL\'s ball!\r\n';
-      text += 'OMORI throws the ball at\r\n';
+      text = 'OMORI pegou a bola do KEL!\r\n';
+      text += 'OMORI arremeça a bola em\r\n';
       text += target.name() + '!\r\n';
       var OMORI = $gameActors.actor(1);
-      if(OMORI.isStateAffected(6)) {text += "OMORI feels HAPPY!\r\n"}
-      else if(OMORI.isStateAffected(7)) {text += "OMORI feels ECSTATIC!!\r\n"}
+      if(OMORI.isStateAffected(6)) {text += "OMORI se sentiu FELIZ!\r\n"}
+      else if(OMORI.isStateAffected(7)) {text += "OMORI se sentiu EXTÁTICO!!\r\n"}
       text += hpDamageText;
       break;
 
     case 'PASS AUBREY':  // KEL PASS AUBREY
-      text = 'AUBREY chutou a bola para fora do parque!\r\n';
+      text = 'AUBREY chutou a bola para\r\nfora do parque!\r\n';
       text += hpDamageText;
       break;
 
@@ -562,8 +562,8 @@ if (mpDam > 0) {
 
     case 'PASS HERO 2':  // KEL PASS HERO
       if(target.index() <= unitLowestIndex) {
-        text = user.name() + '  dunks on the foes with style!\r\n';
-        text += "All foes' ATTACK fell!\r\n";
+        text = user.name() + '  dá uma enterrada nos inimigos com estilo!\r\n';
+        text += "O ATAQUE de todos os inimigos caiu!\r\n";
       }
       text += hpDamageText;
       break;
@@ -582,87 +582,87 @@ if (mpDam > 0) {
       break;
 
     case 'FAST FOOD': //FAST FOOD
-      text = user.name() + ' prepares a quick meal for ' + target.name() + '.';
+      text = user.name() + ' preparou um lanche rápido para ' + target.name() + '.';
       break;
 
     case 'JUICE': // JUICE
-      text = user.name() + ' makes a refreshment for ' + target.name() + '.';
+      text = user.name() + ' fez um refresco para ' + target.name() + '.';
       break;
 
     case 'SMILE':  // SMILE
-      text = user.name() + ' smiles at ' + target.name() + '!\r\n';
-      if(!target._noStateMessage) {text += target.name() + '\'s ATTACK fell.';}
-      else {text += parseNoStateChange(target.name(), "ATTACK", "lower!\r\n")}
+      text = user.name() + ' sorriu para ' + target.name() + '!\r\n';
+      if(!target._noStateMessage) {text += target.name() + ' perdeu ATAQUE.';}
+      else {text += parseNoStateChange(target.name(), "ATAQUE", "diminuiu!\r\n")}
       break;
 
     case 'DAZZLE':
-      text = user.name() + ' smiles at ' + target.name() + '!\r\n';
-      if(!target._noStateMessage) {text += target.name() + '\'s ATTACK fell.\r\n';}
-      else {text += parseNoStateChange(target.name(), "ATTACK", "lower!\r\n")}
+      text = user.name() + ' sorriu para ' + target.name() + '!\r\n';
+      if(!target._noStateMessage) {text += target.name() + 'perdeu ATAQUE.\r\n';}
+      else {text += parseNoStateChange(target.name(), "ATAQUE", "diminuiu!\r\n")}
       if(!target._noEffectMessage) {
-        text += target.name() + ' feels HAPPY!';
+        text += target.name() + ' se sentiu FELIZ!';
       }
-      else {text += parseNoEffectEmotion(target.name(), "HAPPIER!")}
+      else {text += parseNoEffectEmotion(target.name(), "mais FELIZ!")}
       break;
     case 'TENDERIZE': // TENDERIZE
-      text = user.name() + ' intensely massages\r\n';
+      text = user.name() + ' massageia intensamente\r\n';
       text += target.name() + '!\r\n';
-      if(!target._noStateMessage) {text += target.name() + '\'s DEFENSE fell!\r\n';}
-      else {text += parseNoStateChange(target.name(), "DEFENSE", "lower!\r\n")}
+      if(!target._noStateMessage) {text += target.name() + 'perdeu DEFESA!\r\n';}
+      else {text += parseNoStateChange(target.name(), "DEFESA", "diminuiu!\r\n")}
       text += hpDamageText;
       break;
 
     case 'SNACK TIME':  // SNACK TIME
-      text = user.name() + ' makes cookies for everyone!';
+      text = user.name() + ' cozinhou biscoitos para todo mundo!';
       break;
 
     case 'TEA TIME': // TEA TIME
-      text = user.name() + ' brings out some tea for a break.\r\n';
-      text += target.name() + ' feels refreshed!\r\n';
+      text = user.name() + ' trouxe um pouco de chá para relaxar.\r\n';
+      text += target.name() + ` se sentiu refrescad${pronome1}!\r\n`;
       if(result.hpDamage < 0) {
         var absHp = Math.abs(result.hpDamage);
-        text += `${target.name()} recovers ${absHp} HEART!\r\n`
+        text += `${target.name()} recuperou ${absHp} de CORAÇÃO!\r\n`
       }
       if(result.mpDamage < 0) {
         var absMp = Math.abs(result.mpDamage);
-        text += `${target.name()} recovers ${absMp} JUICE...\r\n`
+        text += `${target.name()} recuperou ${absMp} de SUCO...\r\n`
       }
       break;
 
     case 'SPICY FOOD': // SPICY FOOD
-      text = user.name() + ' cooks some spicy food!\r\n';
+      text = user.name() + ' cozinhou uma comida apimentada!\r\n';
       text += hpDamageText;
       break;
 
     case 'SINGLE TAUNT': // SINGLE TAUNT
-      text = user.name() + ' draws ' + target.name() + '\'s\r\n';
-      text += 'attention.';
+      text = user.name() + ' chamou a atenção de\r\n';
+      text += target.name()
       break;
 
     case 'TAUNT':  // TAUNT
-      text = user.name() + ' draws the foe\'s attention.';
+      text = user.name() + ' chamou a atenção dos inimigos.';
       break;
 
     case 'SUPER TAUNT': // SUPER TAUNT
-      text = user.name() + ' draws the foe\'s attention.\r\n';
-      text += user.name() + ' prepares to block enemy attacks.';
+      text = user.name() + ' chamou a atenção dos inimigos.\r\n';
+      text += user.name() + ' se prepara para bloquear os ataques.';
       break;
 
     case 'ENCHANT':  // ENCHANT
-      text = user.name() + ' draws the foe\'s attention\r\n';
-      text += 'with a smile.\r\n';
-      if(!target._noEffectMessage) {text += target.name() + " feels HAPPY!";}
-      else {text += parseNoEffectEmotion(target.name(), "HAPPIER!")}
+      text = user.name() + ' chama a atenção dos inimigos\r\n';
+      text += 'com um sorriso.\r\n';
+      if(!target._noEffectMessage) {text += target.name() + " se sentiu FELIZ!";}
+      else {text += parseNoEffectEmotion(target.name(), "mais FELIZ!")}
       break;
 
     case 'MENDING': //MENDING
-      text = user.name() + ' caters to ' + target.name() + '.\r\n';
-      text += user.name() + ' is now ' + target.name() + '\'s personal chef!';
+      text = user.name() + ' serviu ao ' + target.name() + '.\r\n';
+      text += user.name() + ' é agora o chef pessoal do ' + target.name();
       break;
 
     case 'SHARE FOOD': //SHARE FOOD
       if(target.name() !== user.name()) {
-        text = user.name() + ' shares food with ' + target.name() + '!'
+        text = user.name() + ' compartilhou comida com ' + target.name() + '!'
       }
       break;
 
@@ -728,11 +728,11 @@ if (mpDam > 0) {
       break;
 
     case 'PROTECT':  // PROTECT
-      text = user.name() + ' stands in front of ' + target.name() + '!';
+      text = user.name() + ' fica na frente de ' + target.name() + '!';
       break;
 
     case 'GAURD': // GAURD
-      text = user.name() + ' prepares to block attacks.';
+      text = user.name() + ' prepara-se para bloquear ataques.';
       break;
 
   //FOREST BUNNY//
@@ -742,17 +742,17 @@ if (mpDam > 0) {
       break;
 
     case 'BUNNY NOTHING': // BUNNY DO NOTHING
-      text = user.name() + ' está pulando por aí!';
+      text = user.name() + ' está pulando \r\npor aí!';
       break;
 
     case 'BE CUTE':  // BE CUTE
-      text = user.name() + ' pisca para ' + target.name() + '!\r\n';
-      text += target.name() + ' teve o ataque diminuído...';
+      text = user.name() + ' pisca \r\npara ' + target.name() + '!\r\n';
+      text += target.name() + ' perdeu ATAQUE...';
       break;
 
     case 'SAD EYES': //SAD EYES
-      text = user.name() + ' olha tristemente para ' + target.name() + '.\r\n';
-      if(!target._noEffectMessage) {text += target.name() + ' se sente TRISTE.';}
+      text = user.name() + ' olha \r\ntristemente para ' + target.name() + '.\r\n';
+      if(!target._noEffectMessage) {text += target.name() + ' se sentiu TRISTE.';}
       else {text += parseNoEffectEmotion(target.name(), "mais TRISTE!")}
       break;
 
@@ -763,36 +763,37 @@ if (mpDam > 0) {
       break;
 
     case 'BUNNY NOTHING2':  // BUNNY? DO NOTHING
-      text = user.name() + ' está pulando por aí?';
+      text = user.name() + ' está pulando \r\npor aí?';
       break;
 
     case 'BUNNY CUTE2':  // BE CUTE?
-      text = user.name() + ' pisca para ' + target.name() + '?\r\n';
-      text += target.name() + 'teve o ataque diminuído?';
+      text = user.name() + ' pisca \r\npara ' + target.name() + '?\r\n';
+      text += target.name() + 'perdeu ATAQUE?';
       break;
 
     case 'SAD EYES2': // SAD EYES?
-      text = user.name() + ' olha tristemente para ' + target.name() + '...\r\n';
-      if(!target._noEffectMessage) {text += target.name() + ' se sente TRISTE?';}
+      text = user.name() + ' olha \r\ntristemente para ' + target.name() + '...\r\n';
+      if(!target._noEffectMessage) {text += target.name() + ' se sentiu TRISTE?';}
       else {text += parseNoEffectEmotion(target.name(), "mais TRISTE!")}
       break;
 
     //SPROUT MOLE//
     case 'SPROUT ATTACK':  // SPROUT MOLE ATTACK
-      text = user.name() + ' esbarra em ' + target.name() + '!\r\n';
+      text = user.name() + ' esbarra\r\n' 
+      text += 'em ' + target.name() + '!\r\n';
       text += hpDamageText;
       break;
 
-    case 'SPROUT NOTHING':  // SPROUT NOTHING
-      text = user.name() + ' está rolando por aí.';
+      case 'SPROUT NOTHING':  // SPROUT NOTHING
+      text = user.name() + " rola por aí.";
       break;
 
     case 'RUN AROUND':  // RUN AROUND
-      text = user.name() + ' corre por aí!';
+      text = user.name() + " corre por aí!";
       break;
 
     case 'HAPPY RUN AROUND': //HAPPY RUN AROUND
-      text = user.name() + ' corre alegremente por aí!';
+      text = user.name() + " corre energicamente!";
        break;
 
     //MOON BUNNY//
@@ -812,8 +813,8 @@ if (mpDam > 0) {
 
     //DUST BUNNY//
     case 'DUST NOTHING':  // DUST NOTHING
-      text = user.name() + ' está tentando se manter\r\n';
-      text += 'controlado.';
+      text = user.name() + ' está tentando\r\n';
+      text += ' se manter controlado.';
       break;
 
     case 'DUST SCATTER':  // DUST SCATTER
@@ -881,7 +882,7 @@ if (mpDam > 0) {
 
     case 'TANGLE':  // TANGLE
       text = target.name() + ' ficou preso em ' + user.name() + '!\r\n';
-      text += target.name() + 'teve o ATAQUE diminuído...';
+      text += target.name() + ' perdeu ATAQUE...';
       break;
 
     //DIAL-UP//
@@ -927,7 +928,7 @@ if (mpDam > 0) {
     case 'OVERCLOCK ENGINE':  // OVERCLOCK ENGINE
       text = user.name() + ' rotaciona sua engrenagem!\r\n';
       if(!target._noStateMessage) {
-        text += user.name() + ' teve sua VELOCIDADE aumentada!';
+        text += user.name() + ' ganhou VELOCIDADE!';
       }
       else {text += parseNoStateChange(user.name(), "VELOCIDADE", "aumentou!")}
       break;
@@ -954,341 +955,341 @@ if (mpDam > 0) {
 
     //SNOW ANGEL//
     case 'SNOW ANGEL ATTACK': //SNOW ANGEL ATTACK
-      text = user.name() + ' touches ' + target.name() + '\r\n';
-      text += 'with its cold hands.\r\n';
+      text = user.name() + ' encosta em ' + target.name() + '\r\n';
+      text += 'com suas mãos geladas.\r\n';
       text += hpDamageText;
       break;
 
     case 'UPLIFTING HYMN': //UPLIFTING HYMN
       if(target.index() <= unitLowestIndex) {
-        text = user.name() + ' sings a beautiful song...\r\n';
-        text += 'Everyone feels HAPPY!';
+        text = user.name() + ' canta uma linda canção...\r\n';
+        text += 'Todo mundo se sentiu FELIZ!';
       }
       target._noEffectMessage = undefined;
       break;
 
     case 'PIERCE HEART': //PIERCE HEART
-      text = user.name() + ' pierces ' + target.name() + '\'s HEART.\r\n';
+      text = user.name() + ' perfura o CORAÇÃO de ' + target.name() + '\r\n';
       text += hpDamageText;
       break;
 
     //SNOW PILE//
     case 'SNOW PILE ATTACK': //SNOW PILE ATTACK
-      text = user.name() + ' throws snow at ' + target.name() + '!\r\n';
+      text = user.name() + ' joga neve em ' + target.name() + '!\r\n';
       text += hpDamageText;
       break;
 
     case 'SNOW PILE NOTHING': //SNOW PILE NOTHING
-      text = user.name() + ' is feeling frosty.';
+      text = user.name() + ' se sentiu congelado.';
       break;
 
     case 'SNOW PILE ENGULF': //SNOW PILE ENGULF
-      text = user.name() + ' engulfs ' + target.name() + ' in snow!\r\n';
-      text += user.name() + '\'s SPEED fell.\r\n';
-      text += user.name() + '\'s DEFENSE fell.';
+      text = user.name() + ' engolfa ' + target.name() + ' em neve!\r\n';
+      text += user.name() + ' perdeu VELOCIDADE.\r\n';
+      text += user.name() + ' perdeu DEFESA.';
       break;
 
     case 'SNOW PILE MORE SNOW': //SNOW PILE MORE SNOW
-      text = user.name() + ' piles snow on itself!\r\n';
-      text += user.name() + '\'s ATTACK rose!\r\n';
-      text += user.name() + '\'s DEFENSE rose!';
+      text = user.name() + ' empilha neve em si mesmo!\r\n';
+      text += user.name() + ' ganhouu ATAQUE!\r\n';
+      text += user.name() + ' ganhou DEFESA!';
       break;
 
     //CUPCAKE BUNNY//
     case 'CCB ATTACK': //CUP CAKE BUNNY ATTACK
-      text = user.name() + ' bumps into ' + target.name() + '.\r\n';
+      text = user.name() + ' esbarra em ' + target.name() + '.\r\n';
       text += hpDamageText;
       break;
 
     case 'CCB NOTHING': //CUP CAKE BUNNY NOTHING
-      text = user.name() + ' hops in place.';
+      text = user.name() + ' pula no lugar.';
       break;
 
     case 'CCB SPRINKLES': //CUP CAKE BUNNY SPRINKLES
-      text = user.name() + ' covers ' + target.name() + '\r\n';
-      text += 'in sprinkles.\r\n';
-      if(!target._noEffectMessage) {text += target.name() + ' feels HAPPY!\r\n';}
-      else {text += parseNoEffectEmotion(target.name(), "HAPPIER!\r\n")}
-      text += target.name() + "'s STATS rose!"
+      text = user.name() + ' cobre ' + target.name() + '\r\n';
+      text += 'em granulado.\r\n';
+      if(!target._noEffectMessage) {text += target.name() + ' se sentiu FELIZ!\r\n';}
+      else {text += parseNoEffectEmotion(target.name(), "mais FELIZ!\r\n")}
+      text += target.name() + " aumentou os STATUS!"
       break;
 
     //MILKSHAKE BUNNY//
     case 'MSB ATTACK': //MILKSHAKE BUNNY ATTACK
-      text = user.name() + ' spills milkshake on ' + target.name() + '.\r\n';
+      text = user.name() + ' derrame milkshake em ' + target.name() + '.\r\n';
       text += hpDamageText;
       break;
 
     case 'MSB NOTHING': //MILKSHAKE BUNNY NOTHING
-      text = user.name() + ' spins in a circle.';
+      text = user.name() + ' gira em círculos.';
       break;
 
     case 'MSB SHAKE': //MILKSHAKE BUNNY SHAKE
-      text = user.name() + ' begins shaking furiously!\r\n';
-      text += 'Milkshake flies everywhere!';
+      text = user.name() + ' começa a sacudir furiosamente!\r\n';
+      text += 'Milkshake voa para todo lado!';
       break;
 
     //PANCAKE BUNNY//
     case 'PAN ATTACK': //PANCAKE BUNNY ATTACK
-      text = user.name() + ' nibbles on ' + target.name() + '.\r\n';
+      text = user.name() + ' mordisca ' + target.name() + '.\r\n';
       text += hpDamageText;
       break;
 
     case 'PAN NOTHING': //PANCAKE BUNNY NOTHING
-      text = user.name() + ' does a flip!\r\n';
-      text += 'So talented!';
+      text = user.name() + ' faz um mortal!\r\n';
+      text += 'Tão talentoso!';
       break;
 
     //STRAWBERRY SHORT SNAKE//
     case 'SSS ATTACK': //STRAWBERRY SHORT SNAKE ATTACK
-      text = user.name() + ' sinks its fangs into ' + target.name() + '.\r\n';
+      text = user.name() + ' enfia seus dentes em ' + target.name() + '.\r\n';
       text += hpDamageText;
       break;
 
     case 'SSS NOTHING': //STRAWBERRY SHORT SNAKE NOTHING
-      text = user.name() + ' hisses.';
+      text = user.name() + ' rosna.';
       break;
 
     case 'SSS SLITHER': //STRAWBERRY SHORT SNAKE SLITHER
-      text = user.name() + ' slithers around gleefully!\r\n';
-      if(!user._noEffectMessage) {text += user.name() + ' feels HAPPY!';}
-      else {text += parseNoEffectEmotion(user.name(), "HAPPIER!")}
+      text = user.name() + ' escorrega por aí alegremente!\r\n';
+      if(!user._noEffectMessage) {text += user.name() + ' se sentiu FELIZ!';}
+      else {text += parseNoEffectEmotion(user.name(), "mais FELIZ!")}
       break;
 
     //PORCUPIE//
     case 'PORCUPIE ATTACK': //PORCUPIE ATTACK
-      text = user.name() + ' pokes ' + target.name() + '.\r\n';
+      text = user.name() + ' cutuca ' + target.name() + '.\r\n';
       text += hpDamageText;
       break;
 
     case 'PORCUPIE NOTHING': //PORCUPIE NOTHING
-      text = user.name() + ' sniffs around.';
+      text = user.name() + ' fareja.';
       break;
 
     case 'PORCUPIE PIERCE': //PORCUPIE PIERCE
-      text = user.name() + ' impales ' + target.name() + '!\r\n';
+      text = user.name() + ' empala ' + target.name() + '!\r\n';
       text += hpDamageText;
       break;
 
     //BUN BUNNY//
     case 'BUN ATTACK': //BUN ATTACK
-      text = user.name() + ' bumps buns with ' + target.name() + '!\r\n';
+      text = user.name() + ' bate os pãezinhos ' + target.name() + '!\r\n';
       text += hpDamageText;
       break;
 
     case 'BUN NOTHING': //BUN NOTHING
-      text = user.name() + ' is loafing around.';
+      text = user.name() + ' está vadiando por aí.';
       break;
 
     case 'BUN HIDE': //BUN HIDE
-      text = user.name() + ' hides in its bun.';
+      text = user.name() + ' se esconde em um pãozinho.';
       break;
 
     //TOASTY//
     case 'TOASTY ATTACK': //TOASTY ATTACK
-      text = user.name() + ' charges into ' + target.name() + '.\r\n';
+      text = user.name() + ' agride ' + target.name() + '.\r\n';
       text += hpDamageText;
       break;
 
     case 'TOASTY NOTHING': //TOASTY NOTHING
-      text = user.name() + ' picks its nose.';
+      text = user.name() + ' cutuca o nariz.';
       break;
 
     case 'TOASTY RILE': //TOASTY RILE
       if(target.index() <= unitLowestIndex) {
-        text = user.name() + ' gives a controversial speech!\r\n';
-        text += 'Everyone feels ANGRY!';
+        text = user.name() + ' deu um discurso controverso!\r\n';
+        text += 'Todo mundo se sentiu NERVOSO!';
       }
       target._noEffectMessage = undefined;
       break;
 
     //SOURDOUGH//
     case 'SOUR ATTACK': //SOURDOUGH ATTACK
-      text = user.name() + ' steps on ' + target.name() + '\'s toe!\r\n';
+      text = user.name() + ' pisa no pé de ' + target.name() + '\r\n';
       text += hpDamageText;
       break;
 
     case 'SOUR NOTHING': //SOURDOUGH NOTHING
-      text = user.name() + ' kicks some dirt.';
+      text = user.name() + ' chuta sujeira no chão.';
       break;
 
     case 'SOUR BAD WORD': //SOURDOUGH BAD WORD
-      text = 'Oh no! ' + user.name() + ' says a bad word!\r\n';
+      text = 'Oh não! ' + user.name() + ' diz um palavrão!\r\n';
       text += hpDamageText;
       break;
 
     //SESAME//
     case 'SESAME ATTACK': //SESAME ATTACK
-      text = user.name() + ' throws seeds at ' + target.name() + '.\r\n';
+      text = user.name() + ' arremessa sementes em ' + target.name() + '.\r\n';
       text += hpDamageText;
       break;
 
     case 'SESAME NOTHING': //SESAME Nothing
-      text = user.name() + ' scratches their head.';
+      text = user.name() + ' coça a cabeça.';
       break;
 
     case 'SESAME ROLL': //SESAME BREAD ROLL
       if(target.index() <= unitLowestIndex) {
-        text = user.name() + ' rolls over everyone!\r\n';
+        text = user.name() + ' rola por cima de todos!\r\n';
       }
       text += hpDamageText;
       break;
 
     //CREEPY PASTA//
     case 'CREEPY ATTACK': //CREEPY ATTACK
-      text = user.name() + ' makes ' + target.name() + ' feel\r\n';
-      text += 'uncomfortable.\r\n';
+      text = user.name() + ' faz ' + target.name() + ' se sentir\r\n';
+      text += 'desconfortável.\r\n';
       text += hpDamageText;
       break;
 
     case 'CREEPY NOTHING': //CREEPY NOTHING
-      text = user.name() + ' does nothing... menacingly!';
+      text = user.name() + ' faz nada... ameaçadoramente!';
       break;
 
     case 'CREEPY SCARE': //CREEPY SCARE
-      text = user.name() + ' shows everyone their worst\r\n';
-      text += 'nightmares!';
+      text = user.name() + ' mostra à todos seus piores\r\n';
+      text += 'pesadelos!';
       break;
 
     //COPY PASTA//
     case 'COPY ATTACK': //COPY ATTACK
-      text = user.name() + ' bops ' + target.name() + '!\r\n';
+      text = user.name() + ' dá uma pancada em ' + target.name() + '!\r\n';
       text += hpDamageText;
       break;
 
     case 'DUPLICATE': //DUPLICATE
-      text = user.name() + ' copies itself! ';
+      text = user.name() + ' duplica ele mesmo! ';
       break;
 
     //HUSH PUPPY//
     case 'HUSH ATTACK': //HUSH ATTACK
-      text = user.name() + ' rams into ' + target.name() + '!\r\n';
+      text = user.name() + ' corre e atropela ' + target.name() + '!\r\n';
       text += hpDamageText;
       break;
 
     case 'HUSH NOTHING': //HUSH NOTHING
-      text = user.name() + ' tries to bark...\r\n';
-      text += 'But nothing happened...';
+      text = user.name() + ' tenta latir...\r\n';
+      text += 'Mas nada acontece...';
       break;
 
     case 'MUFFLED SCREAMS': //MUFFLED SCREAMS
-      text = user.name() + ' starts screaming!\r\n';
+      text = user.name() + ' começa a gritar!\r\n';
       if(!target._noEffectMessage && target.name() !== "OMORI") {
-        text += target.name() + ' feels AFRAID.';
+        text += target.name() + ' se sentiu ASSUSTADO.';
       }
-      else {text += parseNoEffectEmotion(target.name(), "AFRAID")}
+      else {text += parseNoEffectEmotion(target.name(), "ASSUSTADO")}
       break;
 
     //GINGER DEAD MAN//
     case 'GINGER DEAD ATTACK': //GINGER DEAD MAN ATTACK
-      text = user.name() + ' stabs ' + target.name() + '!\r\n';
+      text = user.name() + ' esfaqueia ' + target.name() + '!\r\n';
       text += hpDamageText;
       break;
 
     case 'GINGER DEAD NOTHING': //GINGER DEAD MAN DO NOTHING
-      text = user.name() + '\'s head falls off...\r\n';
-      text += user.name() + ' puts it back on.';
+      text = user.name() + ' deixou a cabeça cair...\r\n';
+      text += user.name() + ' coloca de volta a cabeça.';
       break;
 
     case 'GINGER DEAD THROW HEAD': //GINGER DEAD MAN THROW HEAD
-      text = user.name() + ' throws his head at\r\n';
+      text = user.name() + ' arremessa sua cabeça em\r\n';
       text +=  target.name() + '!\r\n';
       text += hpDamageText;
       break;
 
     //LIVING BREAD//
     case 'LIVING BREAD ATTACK': //LIVING BREAD ATTACK
-      text = user.name() + ' swipes at ' + target.name() + '!\r\n';
+      text = user.name() + ' desliza em ' + target.name() + '!\r\n';
       text += hpDamageText;
       break;
 
     case 'LIVING BREAD NOTHING': //LIVING BREAD ATTACK
-      text = user.name() + ' slowly inches toward\r\n';
+      text = user.name() + ' se arrasta devagar em direção a\r\n';
       text += target.name() + '!';
       break;
 
     case 'LIVING BREAD BITE': //LIVING BREAD BITE
-      text = user.name() + ' bites ' + target.name() + '!\r\n';
+      text = user.name() + ' morde ' + target.name() + '!\r\n';
       text += hpDamageText;
       break;
 
     case 'LIVING BREAD BAD SMELL': //LIVING BREAD BAD SMELL
-      text = user.name() + ' smells bad!\r\n';
-      text += target.name() + '\'s DEFENSE went down!';
+      text = user.name() + ' fede!\r\n';
+      text += target.name() + ' perdeu DEFESA!';
       break;
 
     //Bug Bunny//
     case 'BUG BUN ATTACK': //Bug Bun Attack
-     text = user.name() + ' swipes at ' + target.name() + '!\r\n';
+     text = user.name() + ' desliza em ' + target.name() + '!\r\n';
      text += hpDamageText;
      break;
 
     case 'BUG BUN NOTHING': //Bug Bun Nothing
-      text = user.name() + ' tries to balance on its head. ';
+      text = user.name() + ' tenta se esquilibrar em sua cabeça. ';
       break;
 
     case 'SUDDEN JUMP': //SUDDEN JUMP
-      text = user.name() + ' suddenly lunges at ' + target.name() + '!\r\n';
+      text = user.name() + ' de repente ataca ' + target.name() + '!\r\n';
       text += hpDamageText;
       break;
 
     case 'SCUTTLE': //Bug Bun Scuttle
-      text = user.name() + ' happily scuttles around.\r\n';
-      text += 'It was really cute!\r\n';
-      if(!user._noEffectMessage) {text += user.name() + ' feels HAPPY!';}
-      else {text += parseNoEffectEmotion(user.name(), "HAPPIER!")}
+      text = user.name() + ' corre alegremente por aí.\r\n';
+      text += 'Foi muito fofo!\r\n';
+      if(!user._noEffectMessage) {text += user.name() + ' se sentiu FELIZ!';}
+      else {text += parseNoEffectEmotion(user.name(), "mais FELIZ!")}
       break;
 
     //RARE BEAR//
     case 'BEAR ATTACK': //BEAR ATTACK
-      text = user.name() + ' slashes at ' + target.name() + '!\r\n';
+      text = user.name() + ' dá uma patada em ' + target.name() + '!\r\n';
       text += hpDamageText;
       break;
 
     case 'BEAR HUG': //BEAR HUG
-      text = user.name() + ' hugs ' + target.name() + '!\r\n';
-      text += target.name() + '\'s SPEED fell!\r\n';
+      text = user.name() + ' abraça ' + target.name() + '!\r\n';
+      text += target.name() + ' perdeu VELOCIDADE!\r\n';
       text += hpDamageText;
       break;
 
     case 'ROAR': //ROAR
-      text = user.name() + ' lets out a huge roar!\r\n';
-      if(!user._noEffectMessage) {text += user.name() + ' feels ANGRY!';}
-      else {text += parseNoEffectEmotion(user.name(), "ANGRIER!")}
+      text = user.name() + ' solta um rugido enorme!\r\n';
+      if(!user._noEffectMessage) {text += user.name() + ' se sentiu NERVOSO!';}
+      else {text += parseNoEffectEmotion(user.name(), "mais NERVOSO!")}
       break;
 
     //POTTED PALM//
     case 'PALM ATTACK': //PALM ATTACK
-      text = user.name() + ' slams into ' + target.name() + '!\r\n';
+      text = user.name() + ' esbarra em ' + target.name() + '!\r\n';
       text += hpDamageText;
       break;
 
     case 'PALM NOTHING': //PALM NOTHING
-      text = user.name() + ' is resting in its pot. ';
+      text = user.name() + ' está descansando em seu pote. ';
       break;
 
     case 'PALM TRIP': //PALM TRIP
-      text = target.name() + ' trips on ' + user.name() + '\'s roots.\r\n';
+      text = target.name() + ' tropeça nas raízes de ' + user.name() + '\r\n';
       text += hpDamageText + '.\r\n';
-      text += target.name() + '\'s SPEED fell.';
+      text += target.name() + ' perdeu VELOCIDADE.';
       break;
 
     case 'PALM EXPLOSION': //PALM EXPLOSION
-      text = user.name() + ' explodes!';
+      text = user.name() + ' explode!';
       break;
 
     //SPIDER CAT//
     case  'SPIDER ATTACK': //SPIDER ATTACK
-      text = user.name() + ' bites ' + target.name() + '!\r\n';
+      text = user.name() + ' morde ' + target.name() + '!\r\n';
       text += hpDamageText;
       break;
 
     case 'SPIDER NOTHING': //SPIDER NOTHING
-      text = user.name() + ' coughs up a web ball.';
+      text = user.name() + ' vomita uma bola de teia.';
       break;
 
     case 'SPIN WEB': //SPIN WEB
-       text = user.name() + ' shoots webs at ' + target.name() + '!\r\n';
-       text += target.name() + '\'s SPEED fell.';
+       text = user.name() + ' atira teia em ' + target.name() + '!\r\n';
+       text += target.name() + ' perdeu VELOCIDADE.';
        break;
 
     //SPROUT MOLE?//
@@ -1307,260 +1308,260 @@ if (mpDam > 0) {
 
     //HAROLD//
     case 'HAROLD ATTACK': //HAROLD ATTACK
-      text = user.name() + ' swings his sword at ' + target.name() + '!\r\n';
+      text = user.name() + ' acerta sua espada em ' + target.name() + '!\r\n';
       text += hpDamageText;
       break;
 
     case 'HAROLD NOTHING': // HAROLD NOTHING
-      text = user.name() + ' adjusts his helmet.';
+      text = user.name() + ' arruma seu elmo.';
       break;
 
     case 'HAROLD PROTECT': // HAROLD PROTECT
-      text = user.name() + ' protects himself.';
+      text = user.name() + ' se protege.';
       break;
 
     case 'HAROLD WINK': //HAROLD WINK
-      text = user.name() + ' winks at ' + target.name() + '.\r\n';
-      if(!target._noEffectMessage) {text += target.name() + ' feels HAPPY!';}
-      else {text += parseNoEffectEmotion(target.name(), "HAPPIER!")}
+      text = user.name() + ' pisca para ' + target.name() + '.\r\n';
+      if(!target._noEffectMessage) {text += target.name() + ' se sentiu FELIZ!';}
+      else {text += parseNoEffectEmotion(target.name(), "mais FELIZ!")}
       break;
 
     //MARSHA//
     case 'MARSHA ATTACK': //MARSHA ATTACK
-      text = user.name() + ' swings her axe at ' + target.name() + '!\r\n';
+      text = user.name() + ' acerta seu machado em ' + target.name() + '!\r\n';
       text += hpDamageText;
       break;
 
     case 'MARSHA NOTHING': //MARSHA NOTHING
-      text = user.name() + ' falls over. ';
+      text = user.name() + ' cai no chão. ';
       break;
 
     case 'MARSHA SPIN': //MARSHA NOTHING
-      text = user.name() + ' starts spinning at mach speed!\r\n';
+      text = user.name() + ' começa a girar em velocidade máxima!\r\n';
       text += hpDamageText;
       break;
 
     case 'MARSHA CHOP': //MARSHA CHOP
-      text = user.name() + ' slams her axe into ' + target.name() + '!\r\n';
+      text = user.name() + ' bate com seu machado em ' + target.name() + '!\r\n';
       text += hpDamageText;
       break;
 
     //THERESE//
     case 'THERESE ATTACK': //THERESE ATTACK
-      text = user.name() + ' shoots an arrow at ' + target.name() + '!\r\n';
+      text = user.name() + ' arremeça uma flecha em ' + target.name() + '!\r\n';
       text += hpDamageText;
       break;
 
     case 'THERESE NOTHING': //THERESE NOTHING
-      text = user.name() + ' drops an arrow.';
+      text = user.name() + ' larga uma flecha.';
       break;
 
     case 'THERESE SNIPE': //THERESE SNIPE
-      text = user.name() + ' snipes ' + target.name() + '\'s weak point!\r\n';
+      text = user.name() + ' atira no ponto fraco de ' + target.name() + '\r\n';
       text += hpDamageText;
       break;
 
     case 'THERESE INSULT': //THERESE INSULT
-      text = user.name() + ' calls ' + target.name() + ' a poopy head!\r\n';
-      if(!target._noEffectMessage) {text += target.name() + ' feels ANGRY!\r\n';}
-      else {text += parseNoEffectEmotion(target.name(), "ANGRIER!\r\n")}
+      text = user.name() + ' chama ' + target.name() + ' de cabeça oca!\r\n';
+      if(!target._noEffectMessage) {text += target.name() + ' se sentiu NERVOSO!\r\n';}
+      else {text += parseNoEffectEmotion(target.name(), "mais NERVOSO!\r\n")}
       text += hpDamageText;
       break;
 
     case 'DOUBLE SHOT': //THERESE DOUBLE SHOT
-      text = user.name() + ' fires two arrows at once!';
+      text = user.name() + ' atira duas flechas de uma vez!';
       break;
 
     //LUSCIOUS//
     case 'LUSCIOUS ATTACK': //LUSCIOUS ATTACK
-      text = user.name() + ' tries casting a spell...\r\n';
-      text += user.name() + ' did something magical!\r\n';
+      text = user.name() + ' tenta lançar um feitiço...\r\n';
+      text += user.name() + ' fez alguma coisa mágica!\r\n';
       text += hpDamageText;
       break;
 
     case 'LUSCIOUS NOTHING': //LUSCIOUS NOTHING
-      text = user.name() + ' tries casting a spell...\r\n';
-      text += 'But nothing happened...';
+      text = user.name() + ' tenta lançar um feitiço...\r\n';
+      text += 'Mas nada aconteceu...';
       break;
 
     case 'FIRE MAGIC': //FIRE MAGIC
-      text = user.name() + ' tries casting a spell...\r\n';
-      text += user.name() + ' sets the party on fire!\r\n';
+      text = user.name() + ' tenta lançar um feitiço...\r\n';
+      text += user.name() + ' incendeia OMORI e seus amigos!\r\n';
       text += hpDamageText;
       break;
 
     case 'MISFIRE MAGIC': //MISFIRE MAGIC
-      text = user.name() + ' tries casting a spell...\r\n';
-      text += user.name() + ' set the room on fire!!!\r\n';
+      text = user.name() + ' tenta lançar um feitiço...\r\n';
+      text += user.name() + ' taca fogo no lugar inteiro!!!\r\n';
       text += hpDamageText;
       break;
 
     //HORSE HEAD//
     case 'HORSE HEAD ATTACK': //HORSE HEAD ATTACK
-      text = user.name() + ' bites ' + target.name() + '\'s arm.\r\n';
+      text = user.name() + ' morde o braço de ' + target.name() + '\r\n';
       text += hpDamageText;
       break;
 
     case 'HORSE HEAD NOTHING': //HORSE HEAD NOTHING
-      text = user.name() + ' burps.';
+      text = user.name() + ' arrota.';
       break;
 
     case 'HORSE HEAD LICK': //HORSE HEAD LICK
-     text = user.name() + ' licks ' + target.name() + '\'s hair\r\n';
+     text = user.name() + ' lambe o cabelo de ' + target.name() + '\r\n';
      text += hpDamageText + '\r\n';
-     if(!target._noEffectMessage) {text += target.name() + ' feels ANGRY!';}
-     else {text += parseNoEffectEmotion(target.name(), "ANGRIER!")}
+     if(!target._noEffectMessage) {text += target.name() + ' se sentiu NERVOSO!';}
+     else {text += parseNoEffectEmotion(target.name(), "mais NERVOSO!")}
      break;
 
     case 'HORSE HEAD WHINNY': //HORSE HEAD WHINNY
-      text = user.name() + ' whinnies happily!';
+      text = user.name() + ' relincha alegremente!';
       break;
 
     //HORSE BUTT//
     case 'HORSE BUTT ATTACK': //HORSE BUTT ATTACK
-      text = user.name() + ' stomps on ' + target.name() + '!\r\n';
+      text = user.name() + ' pisa em ' + target.name() + '!\r\n';
       text += hpDamageText;
       break;
 
     case 'HORSE BUTT NOTHING': //HORSE BUTT NOTHING
-      text = user.name() + ' farts.';
+      text = user.name() + ' peida.';
       break;
 
     case 'HORSE BUTT KICK': //HORSE BUTT KICK
-      text = user.name() + ' kicks ' + target.name() + '!\r\n';
+      text = user.name() + ' chuta ' + target.name() + '!\r\n';
       text += hpDamageText;
       break;
 
     case 'HORSE BUTT PRANCE': //HORSE BUTT PRANCE
-      text = user.name() + ' prances around.';
+      text = user.name() + ' cavalga por aí.';
       break;
 
     //FISH BUNNY//
     case 'FISH BUNNY ATTACK': //FISH BUNNY ATTACK
-      text = user.name() + ' swims into ' + target.name() + '!\r\n';
+      text = user.name() + ' nada até ' + target.name() + '!\r\n';
       text += hpDamageText;
       break;
 
     case 'FISH BUNNY NOTHING': //FISH BUNNY NOTHING
-      text = user.name() + ' swims in a circle. ';
+      text = user.name() + ' nada em círculos. ';
       break;
 
     case 'SCHOOLING': //SCHOOLING
-      text = user.name() + ' calls for friends! ';
+      text = user.name() + ' chama por seus amigos! ';
       break;
 
     //MAFIA ALLIGATOR//
     case 'MAFIA ATTACK': //MAFIA ATTACK
-      text = user.name() + ' karate chomps ' + target.name() + '!\r\n';
+      text = user.name() + ' dá um golpe de karatê em ' + target.name() + '!\r\n';
       text += hpDamageText;
       break;
 
     case 'MAFIA NOTHING': //MAFIA NOTHING
-      text = user.name() + ' cracks his knuckles.';
+      text = user.name() + ' estala seus dedos.';
       break;
 
     case 'MAFIA ROUGH UP': //MAFIA ROUGH UP
-      text = user.name() + ' roughs up ' + target.name() + '!\r\n';
+      text = user.name() + ' agride ' + target.name() + '!\r\n';
       text += hpDamageText;
       break;
 
     case 'MAFIA BACK UP': //MAFIA ALLIGATOR BACKUP
-      text = user.name() + ' calls for backup!';
+      text = user.name() + ' chama reforço!';
       break;
 
     //MUSSEL//
     case 'MUSSEL ATTACK': //MUSSEL ATTACK
-      text = user.name() + ' punches ' + target.name() + '!\r\n';
+      text = user.name() + ' soca ' + target.name() + '!\r\n';
       text += hpDamageText;
       break;
 
     case 'MUSSEL FLEX': //MUSSEL FLEX
-     text = user.name() + ' flexes and feels its best!\r\n';
-     text += user.name() + " HIT RATE rose!\r\n"
+     text = user.name() + ' flexiona e se sente fortão!\r\n';
+     text += user.name() + " aumentou a TAXA CRÍTICA!\r\n"
      break;
 
     case 'MUSSEL HIDE': //MUSSEL HIDE
-     text = user.name() + ' hides in its shell.';
+     text = user.name() + ' se esconde em sua concha.';
      break;
 
     //REVERSE MERMAID//
     case 'REVERSE ATTACK': //REVERSE ATTACK
-     text = target.name() + ' bumps into ' + user.name() + '!\r\n';
+     text = target.name() + ' esbarra em ' + user.name() + '!\r\n';
      text += hpDamageText;
      break;
 
     case 'REVERSE NOTHING': //REVERSE NOTHING
-     text = user.name() + ' does a backflip!\r\n';
-     text += 'WOW!';
+     text = user.name() + ' faz um mortal!\r\n';
+     text += 'UAU!';
      break;
 
     case 'REVERSE RUN AROUND': //REVERSE RUN AROUND
-      text = 'Everyone runs from ' + user.name() + ',\r\n';
-      text += 'but they run into it instead...\r\n';
+      text = 'Todo mundo corre de ' + user.name() + ',\r\n';
+      text += 'mas acabam correndo na direção dele...\r\n';
       text += hpDamageText;
       break;
 
     //SHARK FIN//
     case 'SHARK FIN ATTACK': //SHARK FIN ATTACK
-      text = user.name() + ' charges at ' + target.name() + '!\r\n';
+      text = user.name() + ' dá uma investida em ' + target.name() + '!\r\n';
       text += hpDamageText;
       break;
 
     case 'SHARK FIN NOTHING': //SHARK FIN NOTHING
-      text = user.name() + ' swims in a circle.';
+      text = user.name() + ' nada em círculos.';
       break;
 
     case 'SHARK FIN BITE': //SHARK FIN BITE
-      text = user.name() + ' chomps ' + target.name() + '!\r\n';
+      text = user.name() + ' morde ' + target.name() + '!\r\n';
       text += hpDamageText;
       break;
 
     case 'SHARK WORK UP': //SHARK FIN WORK UP
-      text = user.name() + ' works itself up!\r\n';
-      text += user.name() + '\'s SPEED increased!\r\n';
+      text = user.name() + ' começa a malhar!\r\n';
+      text += user.name() + ' aumentou a VELOCIDADE!\r\n';
       if(!user._noEffectMessage) {
-        text += user.name() + ' feels ANGRY!';
+        text += user.name() + ' se sentiu NERVOSO!';
       }
-      else {text += parseNoEffectEmotion(user.name(), "ANGRIER!")}
+      else {text += parseNoEffectEmotion(user.name(), "mais NERVOSO!")}
       break;
 
     //ANGLER FISH//
     case 'ANGLER ATTACK': //ANGLER FISH ATTACK
-      text = user.name() + ' bites ' + target.name() + '!\r\n';
+      text = user.name() + ' morde ' + target.name() + '!\r\n';
       text += hpDamageText;
       break;
 
     case 'ANGLER NOTHING': //ANGLER FISH NOTHING
-      text = user.name() + '\'s stomach growls.';
+      text = user.name() + ' sente fome.';
       break;
 
     case 'ANGLER LIGHT OFF': //ANGLER FISH LIGHT OFF
-      text = user.name() + ' turns off its light.\r\n';
-      text += user.name() + ' fades into the darkness.';
+      text = user.name() + ' desliga sua luz.\r\n';
+      text += user.name() + ' desaparece na escuridão.';
       break;
 
     case 'ANGLER BRIGHT LIGHT': //ANGLER FISH BRIGHT LIGHT
-      text = 'Everyone sees their life flash\r\n';
-      text += 'before their eyes!';
+      text = 'Todos vêem suas vidas passar\r\n';
+      text += 'diante de seus olhos!';
       break;
 
     case 'ANGLER CRUNCH': //ANGLER FISH CRUNCH
-      text = user.name() + ' impales ' + target.name() + ' with its teeth!\r\n';
+      text = user.name() + ' empala ' + target.name() + ' com seus dentes!\r\n';
       text += hpDamageText;
       break;
 
     //SLIME BUNNY//
     case 'SLIME BUN ATTACK': //SLIME BUNNY ATTACK
-      text = user.name() + ' nuzzles up against ' + target.name() +'.\r\n';
+      text = user.name() + ' se aconchega em ' + target.name() +'.\r\n';
       text += hpDamageText;
       break;
 
     case 'SLIME BUN NOTHING': //SLIME BUN NOTHING
-      text = user.name() + ' smiles at everyone.\r\n';
+      text = user.name() + ' sorri para todo mundo.\r\n';
       break;
 
     case 'SLIME BUN STICKY': //SLIME BUN STICKY
-      text = user.name() + ' feels lonely and cries.\r\n';
+      text = user.name() + ' se sente sozinho e chora.\r\n';
       if(!target._noStateMessage) {text += target.name() + '\'s SPEED fell!\r\n';}
       else {text += parseNoStateChange(target.name(), "SPEED", "lower!\r\n")}
       text += target.name() + " feels SAD.";
@@ -1944,17 +1945,17 @@ if (mpDam > 0) {
 
     //SPROUT BUNNY//
     case 'SPROUT BUNNY ATTACK': //SPROUT BUNNY ATTACK
-      text = user.name() + ' slaps ' + target.name() + '.\r\n';
+      text = user.name() + ' dá um tapa em ' + target.name() + '.\r\n';
       text += hpDamageText;
       break;
 
     case 'SPROUT BUNNY NOTHING': //SPROUT BUNNY NOTHING
-      text = user.name() + ' nibbles on some grass.';
+      text = user.name() + ' mordisca na grama.';
       break;
 
     case 'SPROUT BUNNY FEED': //SPROUT BUNNY FEED
-      text = user.name() + ' feeds ' + target.name() + '.\r\n';
-      text += `${user.name()} recovers ${Math.abs(hpDam)} HEART!`
+      text = user.name() + ' alimenta ' + target.name() + '.\r\n';
+      text += `${user.name()} recupera ${Math.abs(hpDam)} de CORAÇÃO!`
       break;
 
     //CELERY//
@@ -1998,7 +1999,7 @@ if (mpDam > 0) {
 
     //YE OLD MOLE//
     case 'YE OLD ROLL OVER': //MEGA SPROUT MOLE ROLL OVER
-      text = user.name() + ' rola por cima de todo mundo!';
+      text = user.name() + ' rola por cima!';
       text += hpDamageText;
       break;
 
@@ -2045,14 +2046,14 @@ if (mpDam > 0) {
       break;
 
     case 'PLUTO HEADBUTT':  // PLUTO HEADBUTT
-      text = user.name() + ' se propulsiona para frente e bate em ' + target.name() + '!\r\n';
+      text = user.name() + ' se propulsiona pra frente e bate em ' + target.name() + '!\r\n';
       text += hpDamageText;
       break;
 
     case 'PLUTO BRAG':  // PLUTO BRAG
       text = user.name() + ' se gaba de seus músculos!\r\n';
       if(!user._noEffectMessage) {
-        text += user.name() + ' se sente FELIZ!';
+        text += user.name() + ' se sentiu FELIZ!';
       }
       else {text += parseNoEffectEmotion(user.name(), "mais FELIZ!")}
       break;
@@ -2060,8 +2061,8 @@ if (mpDam > 0) {
     case 'PLUTO EXPAND':  // PLUTO EXPAND
       text = user.name() + ' usou anabolizantes!!\r\n';
       if(!target._noStateMessage) {
-        text += user.name() + ' teve seu ATAQUE e DEFESA aumentados!!\r\n';
-        text += user.name() + ' teve a VELOCIDADE diminuída.';
+        text += user.name() + ' ganhou ATAQUE e DEFESA!!\r\n';
+        text += user.name() + ' perdeu VELOCIDADE.';
       }
       else {
         text += parseNoStateChange(user.name(), "ATAQUE", "aumentou!\r\n")
@@ -2083,7 +2084,7 @@ if (mpDam > 0) {
 
     case 'GRAB':  // GRAB
       text = user.name() + ' agarrou ' + target.name() + '!\r\n';
-      text += target.name() + ' teve sua VELOCIDADE diminuída.\r\n';
+      text += target.name() + ' perdeu VELOCIDADE.\r\n';
       text += hpDamageText;
       break;
 
@@ -2096,9 +2097,9 @@ if (mpDam > 0) {
     case 'POKE':  // POKE
       text = user.name() + ' cutuca ' + target.name() + '!\r\n';
       if(!target._noEffectMessage) {
-        text += target.name() + ` se sente NERVOS${pronome1}!\r\n`;
+        text += target.name() + ` se sentiu NERVOS${pronome1}!\r\n`;
       }
-      else {text += parseNoEffectEmotion(target.name(), "ANGRIER!\r\n")}
+      else {text += parseNoEffectEmotion(target.name(), "mais NERVOSO!\r\n")}
       text += hpDamageText;
       break;
 
@@ -2132,9 +2133,9 @@ if (mpDam > 0) {
 
     case 'ANGSTY SONG':  // ANGSTY SONG
       text = user.name() + ' canta tristemente...\r\n';
-      if(target.isStateAffected(10)) {text += target.name() + ' se sente TRISTE.';}
-      else if(target.isStateAffected(11)) {text += target.name() + ` se sente DEPRIMID${pronome1}..`;}
-      else if(target.isStateAffected(12)) {text += target.name() + ' se sente MISERÁVEL...';}
+      if(target.isStateAffected(10)) {text += target.name() + ' se sentiu TRISTE.';}
+      else if(target.isStateAffected(11)) {text += target.name() + ` se sentiu DEPRIMID${pronome1}..`;}
+      else if(target.isStateAffected(12)) {text += target.name() + ' se sentiu MISERÁVEL...';}
       break;
 
     case 'BIG LASER':  // BIG LASER
@@ -2164,15 +2165,15 @@ if (mpDam > 0) {
 
     case 'EARTH CRUEL':  // EARTH CRUEL
       text = user.name() + ' é cruel com ' + target.name() + '!\r\n';
-      if(target.isStateAffected(10)) {text += target.name() + ' se sente TRISTE.';}
-      else if(target.isStateAffected(11)) {text += target.name() + ` se sente DEPRIMID${pronome1}..`;}
-      else if(target.isStateAffected(12)) {text += target.name() + ' se sente MISERÁVEL...';}
+      if(target.isStateAffected(10)) {text += target.name() + ' se sentiu TRISTE.';}
+      else if(target.isStateAffected(11)) {text += target.name() + ` se sentiu DEPRIMID${pronome1}..`;}
+      else if(target.isStateAffected(12)) {text += target.name() + ' se sentiu MISERÁVEL...';}
       break;
 
     case 'CRUEL EPILOGUE':  // EARTH CRUEL
       if(target.index() <= unitLowestIndex) {
         text = user.name() + " é cruel com todo mundo...\r\n";
-        text += "Todo mundo se sente TRISTE."
+        text += "Todo mundo se sentiu TRISTE."
       }
       break;
 
@@ -2199,7 +2200,7 @@ if (mpDam > 0) {
     case 'SBF ANGRY SONG': //SPACE BOYFRIEND ANGRY SONG
       if(target.index() <= unitLowestIndex) {
         text = user.name() + ' lamenta com toda sua raiva!\r\n';
-        text += "Todo mundo se sente NERVOSO!\r\n";
+        text += "Todo mundo se sentiu NERVOSO!\r\n";
       }
       text += hpDamageText;
       break;
@@ -2208,7 +2209,7 @@ if (mpDam > 0) {
       if(target.index() <= unitLowestIndex) {
         text = user.name() + ' canta com toda a escuridão\r\n';
         text += 'em sua alma!\r\n';
-        text += "Todo mundo se sente TRISTE.\r\n";
+        text += "Todo mundo se sentiu TRISTE.\r\n";
       }
       text += mpDamageText;
       break;
@@ -2217,7 +2218,7 @@ if (mpDam > 0) {
       if(target.index() <= unitLowestIndex) {
         text = user.name() + ' canta com toda a alegria\r\n';
         text += "em seu coração!\r\n"
-        text += "Todo mundo se sente FELIZ!\r\n";
+        text += "Todo mundo se sentiu FELIZ!\r\n";
       }
       text += hpDamageText;
       break;

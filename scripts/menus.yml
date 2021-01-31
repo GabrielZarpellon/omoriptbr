@@ -1,0 +1,126 @@
+ # ===========================================
+ # Menu scenes and translations
+ # ===========================================
+
+plugins:
+  mainMenu:
+    commands:
+      - ['???', 'PASSAR', 'ESFAQUEAR']
+      - EQUIPAR
+      - BOLSO
+      - DONS
+      - OPÇÕES
+    status:
+      tag: PASSAR PARA QUEM?
+      select: SELECIONAR QUEM?
+
+  equipMenu:
+    weapon: ARMA
+    charm: AMULETO
+    replace: TROCAR POR?
+
+  skillMenu:
+    skills: DONS
+    replace: TROCAR POR?
+    DoWhat: FAZER O QUE?
+    use: USAR
+    swap: TROCAR
+    useon: USAR EM QUEM?
+
+  pocketMenu:
+    consumables: CONSUMÍVEIS
+    toys: COISAS
+    important: VALIOSOS
+    trash: LIXO
+    use: USAR
+    sure: TEM CERTEZA?
+    useon: USAR EM QUEM?
+
+  optionsMenu:
+    general:
+      screenResolution:
+        text: RESOLUÇÃO DA TELA
+        options: ['X1', 'X2', X3, X4]
+        help: Mudar resolução da tela.
+        spacing: 80
+
+      fullScreen:
+        text: TELA CHEIA
+        options: ['ON', 'OFF']
+        help: Deixa o jogo em tela cheia.
+        boolIndex: true
+        spacing: 80
+
+      commandRemember:
+        text: LEMBRAR COMANDOS SELECIONADOS
+        options: ['ON', 'OFF']
+        help: Lembrar os comandos selecionados na batalha.
+        boolIndex: true
+        spacing: 80
+
+      battleAnimations:
+        text: ANIMAÇÕES DA BATALHA
+        options: ['ON', 'OFF']
+        help: TEXTO DE AJUDA
+        boolIndex: true
+        spacing: 80
+
+      battleAnimationSpeed:
+        text: TEXTO DE BATALHA
+        options: ['NORMAL', 'RÁPIDO', 'MAIS RÁPIDO', 'VELOZ']
+        help: HELP TEXT
+        spacing: 130
+
+      battleLogSpeed:
+        text: BATTLELOG
+        options: ['NORMAL', 'AUTO']
+        help: TEXTO DE AJUDA
+        spacing: 130
+
+      alwaysDash:
+        text: MOVIMENTO DE PERSONAGEM
+        options: ['CORRER', 'ANDAR']
+        help: TEXTO DE AJUDA
+        boolIndex: true
+        spacing: 130
+
+    audio:
+      bgmVolume:
+        text: VOLUME BGM
+        help: Mude o volume da música.
+
+      bgsVolume:
+        text: VOLUME BGS
+        help: Mude o volume dos sons de fundo.
+
+      meVolume:
+        text: VOLUME ME
+        help: Mude o volume dos efeitos musicais.
+
+      seVolume:
+        text: VOLUME SE
+        help: Mude o volume dos efeitos sonoros.
+
+    controls:
+      keyboardHeader: TECLADO
+      gamepadHeader: CONTROLE
+      pressKeyPrompt: PRESSIONE UMA TECLA
+      resetAll: RESETAR TUDO
+      help: Pressione uma tecla para mudar a entrada.
+      inputNames:
+        up: CIMA (↑)
+        down: BAIXO (↓)
+        left: ESQUERDA (←)
+        right: DIRWEITA (→)
+        ok: CONFIRMAR
+        escape: CANCELAR
+        shift: CORRER
+        tag: PASSAR
+        tab: STRAFE
+        pageup: LB
+        pagedown: RB
+
+    system:
+      load:
+        text: CARREGAR SAVE FILE
+        help: Carrega uma save file.
