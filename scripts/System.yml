@@ -547,7 +547,7 @@ plugins:
     alertMessages:
       restoreGeneral: Configuração padrão foi restaurada. Você deseja recuperar global.rpgsave?
     buttonHints:
-      confirm: CONFIRMAR
+      confirm: OK
       cancel: CANCELAR
     inputWarning:
       keyboardMessage: "Você não pode editar o TECLADO usando seu CONTROLE!"
@@ -800,7 +800,7 @@ plugins:
           itemSellingCancelMessage: 'dreamworld_extras_shop.message_179'
       employee:
         showMailboxShopkeeper: false
-        shopName: YOUR FAVORITE PITSTOP!
+        shopName: SEU PITSTOP FAVORITO!
         buyHeader: O QUE VOCÊ QUER COMPRAR?
         sellHeader: O QUE VOCÊ QUER VENDER?
         texts:
@@ -816,7 +816,7 @@ plugins:
           itemSellingCancelMessage: 'dreamworld_extras_shop.message_151'
       baker:
         showMailboxShopkeeper: false
-        shopName: WE'RE FAMILY-OWNED!
+        shopName: SOMOS UMA LOJA DE FAMÍLIA!
         buyHeader: O QUE VOCÊ QUER COMPRAR?
         sellHeader: O QUE VOCÊ QUER VENDER?
         texts:
@@ -896,7 +896,7 @@ plugins:
           itemSellingCancelMessage: 'farawaytown_extras_shop.message_46'
       ginospizza:
         showMailboxShopkeeper: false
-        shopName: TAKE A LOAD OFF!
+        shopName: RELAXE UM POUCO!
         buyHeader: O QUE VOCÊ QUER COMPRAR?
         sellHeader: O QUE VOCÊ QUER VENDER?
         texts:
@@ -944,7 +944,7 @@ plugins:
           itemSellingCancelMessage: 'farawaytown_extras_shop.message_106'
 
   questMenu:
-    header: CONSELHOS DA MARI
+    header: CONSELHO DA MARI
     questStates:
         - INCOMPLETO
         - COMPLETO
