@@ -1,0 +1,1536 @@
+
+# =========================================================================================
+# Bestiary
+# =========================================================================================
+EmptyEnemyName: 'FATOS DO INIMIGOS!'
+Information:
+
+  19:
+    name: COELHO DA FLORESTA
+    background: {name: 'battleback_vf_default', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'ENEMY_BUNNIES', index: 0}
+    listIndex: 0
+
+    text: |
+        Critaturas fofas e felpudas
+        que podem ou não atacar
+        pessoas desavisadas...
+
+        - OMORI
+
+
+        Eu acho que daria um
+        animal de estimação fofo
+
+        - AUBREY
+
+  23:
+    name: COELHO DA FLORESTA?
+    background: {name: 'battleback_vf_default', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'ENEMY_BUNNIES', index: 0}
+    listIndex: 1
+
+    text: |
+        Um COELHO DA FLORESTA comum,
+        mas de cabeça pra baixo... Por que
+        Ele faz isso? Parece
+        inconveniente...
+
+        - OMORI
+
+
+        Os músculos das orelhas
+        dele devem ser muito fortes!!
+
+        - KEL
+
+  27:
+    name: BROTOPEIRA PERDIDA
+    background: {name: 'battleback_vf_default', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'ENEMY_MOLES', index: 0}
+    listIndex: 2
+
+    text: |
+        Uma perigosa e hostil criatura
+        de planta. É dito que
+        ela é inteligente, Mas não é.
+        Tem cheiro de
+        roupa suja.
+
+        - OMORI
+
+  863:
+    name: ÁRVORE FORTONA
+    background: {name: 'battleback_vf_default', x: 0, y: 0}
+    position: {x: 160, y: 475}
+    character: {name: 'DW_NPC_17', index: 2}
+    listIndex: 3
+
+    text: |
+        Uau! É tão grande e forte!
+
+        - KEL
+
+  44:
+    name: PÓELHO
+    background: {name: 'battleback_bookshelf', x: 0, y: 0}
+    position: {x: 160, y: 300}
+    character: {name: 'ENEMY_BUNNIES', index: 1}
+    listIndex: 4
+
+    text: |
+        O coelho mais espirrável de todos.
+        Gosta de se esconder em estantes
+        e embaixo da cama. Parece
+        um pouco tímido...
+
+        - OMORI
+
+  37:
+    name: COELHO ESPACIAL
+    background: {name: 'battleback_ow_cattail', x: 0, y: 0}
+    position: {x: 160, y: 300}
+    character: {name: 'ENEMY_BUNNIES', index: 6}
+    listIndex: 5
+
+    text: |
+        Um COELHO DA FLORESTA comum
+        com uma bolha em sua cabeça.
+        Isso permite que ele respire
+        no espaço.
+
+        -OMORI
+
+
+        Eu acho que ele fica no
+        mundo da lua? Heh. Sacou?
+
+        -HERO
+
+  45:
+    name: O.A.N.I
+    background: {name: 'battleback_ow_cattail', x: 0, y: 0}
+    position: {x: 160, y: 300}
+    character: {name: 'DW_EN_1', index: 2}
+    listIndex: 6
+
+    text: |
+        Também conhecido como:
+        OBJETO ALARANJADO NÃO
+        IDENTIFICADO, Uma laranja
+        altamente avançada que é
+        vista vagando pela 
+        imensidão do espaço.
+
+        -OMORI
+
+
+        Ainda tem gosto de laranja!
+
+        -KEL
+
+  49:
+    name: MELANCIA CARNÍVORA
+    background: {name: 'battleback_ow_outskirts', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'DW_EN_1', index: 3}
+    listIndex: 7
+
+    text: |
+        A aparência da MELANCIA
+        CARNÍVORA parece muito com
+        a de uma melancia comum. É
+        um traço evolutivo usado para
+        enganar as suas presas.
+
+        -OMORI
+
+
+        Cara, eu tinha certeza
+        de que era uma melancia!
+
+        -KEL
+
+  53:
+    name: BURACO DE MINHOCA
+    background: {name: 'battleback_ow_outskirts', x: 0, y: 0}
+    position: {x: 160, y: 300}
+    character: {name: 'DW_EN_1', index: 4}
+    listIndex: 8
+
+    text: |
+        É dito que eles são capazes
+        de conectar regiões amplamente
+        separadas do espaço e tempo
+        ... mas esse aqui é só
+        uma minhoca mesmo.
+
+        - OMORI
+
+
+        Eu não gosto do jeito que
+        balança...
+
+        -AUBREY
+
+
+  57:
+    name: MIXTAPE
+    background: {name: 'battleback_ow_junkyard', x: 0, y: 0}
+    position: {x: 160, y: 300}
+    character: {name: 'DW_EN_1', index: 1}
+    listIndex: 9
+
+    text: |
+        Uma relíquia do passado...
+        Parece estar muito alegre
+        apesar de sua iminente
+        queda na obscuridade.
+
+        - OMORI
+
+
+        Eu coletava esses à um tempo
+        atrás! Então foi aqui onde tudo
+        foi parar...
+
+        - HERO
+
+  61:
+    name: LINHA-DISCADA
+    background: {name: 'battleback_ow_junkyard', x: 0, y: 0}
+    position: {x: 160, y: 350}
+    character: {name: 'DW_EN_1', index: 0}
+    listIndex: 10
+
+    text: |
+        Um ancião em acessar
+        redes de comunicação.
+        Faz um som terrível
+        quando usado.
+
+        - OMORI
+
+
+        Ah, esse som me lembra
+        dos bons e velhos tempos...
+
+        - HERO
+
+  65:
+    name: RÁDIO DA PERDIÇÃO
+    background: {name: 'battleback_ow_junkyard', x: 0, y: 0}
+    position: {x: 160, y: 300}
+    character: {name: 'DW_EN_7', index: 1}
+    listIndex: 11
+
+    text: |
+        Um espírito revivido de uma
+        CAIXA DE SOM, um objeto capaz
+        de transportar altos sons.
+
+        - OMORI
+
+
+  69:
+    name: TUBARÃO AVIÃO
+    background: {name: 'battleback_ow_junkyard', x: 0, y: 0}
+    position: {x: 200, y: 300}
+    character: {name: 'DW_EN_9', index: 0}
+    listIndex: 12
+
+    text: |
+        Um predador aéreo capaz
+        de caçar passageiros em
+        velocidade extrema.
+        Você nunca sabe seu destino
+        depois que entra em um
+        TUBARÃO AVIÃO...
+
+        - OMORI
+
+  142:
+    name: INSETOELHO
+    background: {name: 'battleback_pf_default', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'ENEMY_BUNNIES_2', index: 2}
+    listIndex: 13
+
+    text: |
+        É um artrópode.
+        Adora temperaturas baixas
+        e rola por colinas íngremes
+        por diversão. O hobby ganhou
+        tanta atenção que atualmente
+        eles fazem uma competição
+        anual de rolagem.
+
+        - OMORI
+
+  146:
+    name: URSO RARO
+    background: {name: 'battleback_pf_default', x: 0, y: 0}
+    position: {x: 160, y: 450}
+    character: {name: 'DW_EN_5', index: 0}
+    listIndex: 14
+
+    text: |
+        Aviso: Não provoque.
+        Não demonstre fraquezas.
+
+        - OMORI
+
+  150:
+    name: VASO DE PLANTA
+    background: {name: 'battleback_pf_default', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'DW_EN_5', index: 1}
+    listIndex: 15
+
+    text: |
+        Aviso: Não provoque.
+        Explode quando encurralada.
+        - OMORI
+
+        Mas...Por que explodem?
+        - KEL
+
+        E quem plantou isso
+        aqui?
+        - AUBREY
+
+  158:
+    name: BROTOPEIRA?
+    background: {name: 'battleback_pf_default', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'ENEMY_MOLES', index: 0}
+    listIndex: 16
+
+    text: |
+        Esta BROTOPEIRA está de cabeça
+        pra baixo ou nós somos os 
+        de cabeça pra baixo?
+
+        - OMORI
+
+  855:
+    name: BOOELHO
+    background: {name: 'battleback_pf_default', x: 0, y: 0}
+    position: {x: 160, y: 300}
+    character: {name: 'ENEMY_BUNNIES_2', index: 0}
+    listIndex: 17
+
+    text: |
+        Espiritos de COELHO hostis,
+        gritando por vingança.
+
+        - OMORI
+
+
+        E ainda continuam fofos
+        ...
+
+        - AUBREY
+
+  168:
+    name: HAROLDO
+    background: {name: 'battleback_sw_default', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'DW_EN_5', index: 2}
+    listIndex: 18
+
+    text: |
+        Um mestre espadachim.
+        Uma brotopeira que
+        estudou a arte do combate
+        por muitos anos em busca de
+        seu título grandioso 
+        de HAROLDO.
+
+        - OMORI
+
+  172:
+    name: MARSHA
+    background: {name: 'battleback_sw_default', x: 0, y: 0}
+    position: {x: 185, y: 450}
+    character: {name: 'DW_EN_5', index: 4}
+    listIndex: 19
+
+    text: |
+        Um mestre do machado.
+        Uma brotopeira que 
+        estudou a arte do combate
+        por muitos anos em busca de
+        seu título grandioso
+        de MARSHA.
+
+        - OMORI
+
+  176:
+    name: TERESA
+    background: {name: 'battleback_sw_default', x: 0, y: 0}
+    position: {x: 180, y: 435}
+    character: {name: 'DW_EN_5', index: 3}
+    listIndex: 20
+
+    text: |
+        Um mestre arqueiro.
+        Uma brotopeira que
+        estudou a arte do combate
+        por muitos anos em busca de
+        seu título grandioso
+        de TERESA.
+
+        - OMORI
+
+  180:
+    name: LÚCIO
+    background: {name: 'battleback_sw_default', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'DW_EN_5', index: 5}
+    listIndex: 21
+
+    text: |
+        Um mestre arcano.
+        Uma brotopeira que
+        estudou a arte do combate
+        por muitos anos em busca de
+        seu título grandioso
+        de LÚCIO.
+
+        - OMORI
+
+  184:
+    name: CABEÇA DE CAVALO
+    background: {name: 'battleback_sw_default', x: 0, y: 0}
+    position: {x: 160, y: 400}
+    character: {name: 'DW_EN_5', index: 6}
+    listIndex: 22
+
+    text: |
+        Uma parte de uma tentativa de
+        se parecer com um cavalo inteiro.
+
+        - OMORI
+
+
+        Bom... Ao menos ele
+        tentou o seu melhor...
+        - AUBREY
+
+  188:
+    name: BUMBUM DE CAVALO
+    background: {name: 'battleback_sw_default', x: 0, y: 0}
+    position: {x: 160, y: 400}
+    character: {name: 'DW_EN_3', index: 3}
+    listIndex: 23
+
+    text: |
+        Esse BROTOPEIRA é um bundão.
+
+        - OMORI
+
+
+        Oh, agora você só tá 
+        tentando ofender ele!
+        - AUBREY
+
+
+
+  97:
+    name: BUN BUNNY
+    background: {name: 'battleback_oo_default', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'ENEMY_BUNNIES', index: 2}
+    listIndex: 24
+
+    text: |
+        É fofo. Talvez seja vegano.
+        - OMORI
+
+        Isso é vegano?
+        - KEL
+
+        Não sei se é vegano.
+        - HERO
+
+        Definitivamente não é vegano...
+        - AUBREY
+
+  839:
+    name: CUPCAKOELHO
+    background: {name: 'battleback_oo_default', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'ENEMY_BUNNIES', index: 4}
+    listIndex: 25
+
+    text: |
+        um CUPCAKE parasita
+        que pegou o corpo de um
+        COELHO DA FLORESTA como
+        seu hospedeiro.
+
+        Os olhos do pobre COELHO
+        estão cheios de desespero.
+
+        - OMORI
+
+  843:
+    name: MILKSHAKOELHO
+    background: {name: 'battleback_oo_default', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'ENEMY_BUNNIES', index: 5}
+    listIndex: 26
+
+    text: |
+        Um COELHO DA FLORESTA
+        com um MILKSHAKE amarrado
+        em suas costas.
+
+        - OMORI
+
+  847:
+    name: PANQUECOELHO
+    background: {name: 'battleback_oo_default', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'ENEMY_BUNNIES', index: 3}
+    listIndex: 27
+
+    text: |
+        Um COELHO DA FLORESTA fofo
+        que ostenta os corpos de
+        seus irmãos como um chapéu.
+
+        - OMORI
+
+  851:
+    name: P.M. COBRA
+    background: {name: 'battleback_excavation_1', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'DW_EN_1', index: 7}
+    listIndex: 28
+
+    text: |
+        A.K.A.
+        PEQUENA MORANGO-COBRA,
+        uma cobrinha com um nome
+        enorme.
+
+        - OMORI
+
+  133:
+    name: TORTAESPINHO
+    background: {name: 'battleback_excavation_1', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'DW_EN_2', index: 1}
+    listIndex: 29
+
+    text: |
+        Uma sobremesa rejeitada condenada
+        a vagar pelo deserto por uma
+        eternidade.
+
+        - OMORI
+
+
+        Será que tem um sabor afiado?
+
+        - HERO
+
+
+  797:
+    name: BROTOELHO
+    background: {name: 'battleback_excavation_2', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'ENEMY_BUNNIES_2', index: 1}
+    listIndex: 30
+
+    text: |
+        É fofo. Talvez seja vegano.
+        - OMORI
+
+        Tenho 100% de certeza que isso 
+        é vegano.
+        - KEL
+
+        Acho que é vegano.
+        - HERO
+
+        Definitivamente não é vegano...
+        - AUBREY
+
+  789:
+    name: CILANTRO
+    background: {name: 'battleback_excavation_2', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'DW_EN_2', index: 2}
+    listIndex: 31
+
+    text: |
+        Nome Científico -
+        Coriandrum sativum
+        Status, por 100 gramas -
+        Energia- 22.71 Calorias
+        Vitamina K - 310 mcg
+        Potássio - 521 mg
+        Ferro - 1.77 mg
+
+        São coentro e coentrão
+        a mesma coisa?
+
+        - KEL
+
+  793:
+    name: GENGIBRE
+    background: {name: 'battleback_excavation_2', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'DW_EN_1', index: 6}
+    listIndex: 32
+
+    text: |
+        Nome científico -
+        Zingiber officinale
+
+        Uma planta com flores cujo
+        rizoma é amplamente utilizado
+        como especiaria 
+        e medicina popular.
+        É uma planta herbácea perene que
+        desenvolve pseudocaules anuais
+        de um metro de altura,
+        apresentando uma lâmina
+        foliar estreita.
+
+        - OMORI
+
+  785:
+    name: AIPO
+    background: {name: 'battleback_excavation_2', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'DW_EN_1', index: 5}
+    listIndex: 33
+
+    text: |
+        Você sabia que comer
+        AIPO queima mais calorias
+        do que você ganha comendo?
+        É porquê você tem que
+        mascar ele!
+
+        - KEL
+
+
+        Todo mundo sabe disso, KEL...
+
+        - AUBREY
+
+  772:
+    name: COELHO
+    background: {name: 'battleback_excavation_3', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'DW_EN_2', index: 0}
+    listIndex: 34
+
+    text: |
+        Uma abominação.
+
+        - OMORI
+
+
+        Realmente terrível.
+
+        - AUBREY
+
+  776:
+    name: GALINHA
+    background: {name: 'battleback_excavation_3', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'DW_EN_4', index: 0}
+    listIndex: 35
+
+    text: |
+        Aves em movimento.
+
+        - HERO
+
+
+        Nada mais que uma
+        asinha de frango!
+
+        - KEL
+
+  198:
+    name: PEIXOELHO
+    background: {name: 'battleback_dw_highway', x: 0, y: 0}
+    position: {x: 160, y: 300}
+    character: {name: 'ENEMY_BUNNIES_2', index: 3}
+    listIndex: 36
+
+    text: |
+        Um COELHO DA FLORESTA que
+        se adaptou ao novo ambiente.
+        Eles viajam em grupos
+        já que não gostam de ficar
+        sozinhos.
+
+        - OMORI
+
+  206:
+    name: MUSCULHÃO
+    background: {name: 'battleback_dw_highway', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'DW_EN_3', index: 6}
+    listIndex: 37
+
+    text: |
+        Um mexilhão muito musculoso.
+        Ele mantém um regime de treino
+        incrivelmente cansativo para
+        manter seu físico sólido.
+
+        - OMORI
+
+  210:
+    name: SEREIA REVERSA
+    background: {name: 'battleback_dw_highway', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'DW_EN_3', index: 5}
+    listIndex: 38
+
+    text: |
+        Peixe um era eu Que,
+        sonhei Eu, sonhei Eu.
+
+        - OMORI
+
+  214:
+    name: BARBATANA
+    background: {name: 'battleback_dw_highway', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'DW_EN_3', index: 4}
+    listIndex: 39
+
+    text: |
+        É exclusivamente a 
+        barbatana dorsal de
+        um tubarão.
+
+        - OMORI
+
+  218:
+    name: SQUIZZARD
+    background: {name: 'battleback_dw_highway', x: 0, y: 0}
+    position: {x: 160, y: 350}
+    character: {name: 'DW_EN_6', index: 0}
+    listIndex: 40
+
+    text: |
+        The most despicable creature
+        on the planet. Has no friends,
+        is never invited to parties,
+        and is terrible at jokes.
+
+        - OMORI
+
+  250:
+    name: SLIME BUNNY
+    background: {name: 'battleback_dw_sglair', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'ENEMY_BUNNIES_2', index: 4}
+    listIndex: 41
+
+    text: |
+      Muito grudento pra abraçar,
+      muito grudento pra amar.
+
+      - OMORI
+
+
+      Deixa gosma na mão...
+      Tem gosto de limão!
+
+      - KEL
+
+  254:
+    name: MELÃOMIMICO
+    background: {name: 'battleback_dw_sglair', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'DW_IMPORTANTOBJ', index: 3}
+    listIndex: 42
+
+    text: |
+        Uma armadilha obviamente falsa que
+        só poderia enganar os individuos
+        de mente mais fraca.
+
+        - OMORI
+
+
+        Catapimbas! Eu tinha certeza que
+        isso era uma melancia!!
+
+        - KEL
+
+  262:
+    name: BOLHA DE MELECA
+    background: {name: 'battleback_dw_sglair', x: 0, y: 0}
+    position: {x: 160, y: 300}
+    character: {name: 'DW_EN_6', index: 1}
+    listIndex: 43
+
+    text: |
+        Um ser frágil com uma vida
+        curta. Leva uma vida de
+        impermanência e tem cheiro 
+        de cachorro molhado.
+
+        - OMORI
+
+  258:
+    name: VERME ROBÔ
+    background: {name: 'battleback_dw_sglair', x: 0, y: 0}
+    position: {x: 160, y: 420}
+    character: {name: 'DW_EN_7', index: 0}
+    listIndex: 44
+
+    text: |
+        Uma minhoca robótica com 
+        dentes de navalha. Sua 
+        comida favorita são cenouras.
+
+        - OMORI
+
+  266:
+    name: RATO DE LABORATÓRIO
+    background: {name: 'battleback_dw_sglair', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'DW_EN_3', index: 7}
+    listIndex: 45
+
+    text: |
+        Um gênio científico 
+        autodenominado. Especializado
+        em quimica teórica, mas
+        sua verdadeira é a
+        tela prata.
+
+        - OMORI
+
+
+        Espero que ele entre de férias
+        algum dia!
+
+        - AUBREY
+
+  270:
+    name: BROTOPEIRA??
+    background: {name: 'battleback_dw_sglair', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'DW_EN_6', index: 2}
+    listIndex: 46
+
+    text: |
+        Um monstro feito de todas as
+        partes mais fortes de todas as
+        BROTOPEIRAS mais fortes.
+
+        - OMORI
+
+
+  881:
+    name: FATIA, SÉSAMO, & FERMENTO
+    background: {name: 'battlebacks_dd_default', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'DW_NPC_17', index: 5}
+    listIndex: 47
+
+    text: |
+        As almas das crianças-pão
+        trazidas de volta à vida
+        por poderes misteriosos.
+        Só aparecem em grupo porque
+        são todos melhores amigos.
+
+        - OMORI
+
+  101:
+    name: CREEPYPASTA
+    background: {name: 'battlebacks_dd_default', x: 0, y: 0}
+    position: {x: 160, y: 400}
+    character: {name: 'DW_EN_2', index: 5}
+    listIndex: 48
+
+    text: |
+        Vou começar dizendo que
+        tudo que você esta prestes 
+        a ouvir é 100% verdade. Tinha
+        uma venda de garagem no último
+        verão. Eu vi um cartucho
+        empoeirado de um jogo que eu 
+        nunca ouvi falar. Eu comprei ele,
+        mas quando eu fui pra casa, não
+        funcionou. Quando fui voltar pra
+        venda de garagem, a casa tinha
+        sido queimada. :O
+
+
+  105:
+    name: COPYPASTA
+    background: {name: 'battlebacks_dd_default', x: 0, y: 0}
+    position: {x: 160, y: 400}
+    character: {name: 'DW_EN_2', index: 5}
+    listIndex: 49
+
+    text: |
+        A COPYPASTA é uma pasta
+        que copia ela mesma.
+        - OMORI
+
+        A COPYPASTA é uma pasta
+        que copia ela mesma.
+        - KEL
+
+        A COPYPASTA é uma pasta
+        que copia ela mesma.
+        - AUBREY
+
+  125:
+    name: PÃO-VIVO
+    background: {name: 'battlebacks_dd_default', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'DW_EN_2', index: 6}
+    listIndex: 50
+
+    text: |
+        Um pão demônio, assado para
+        perfeição. Seu único propósito
+        é consumir GELEIA VITAL.
+
+        - OMORI
+
+
+
+
+        Bleh!!
+
+        - KEL
+
+  129:
+    name: ZUMBISCOITO DE GENGIBRE
+    background: {name: 'battlebacks_dd_default', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'DW_EN_2', index: 4}
+    listIndex: 51
+
+    text: |
+        Talvez esteja meio triste...
+        Mas definitivamente não 
+        está morto.
+
+        - OMORI
+
+        Isso nem rima...
+
+        - AUBREY
+
+  859:
+    name: TORRADA FANTASMA
+    background: {name: 'battlebacks_dd_default', x: 0, y: 0}
+    position: {x: 160, y: 300}
+    character: {name: 'DW_EN_2', index: 7}
+    listIndex: 52
+
+    text: |
+        Uma aparição um pouco fofa que
+        as vezes solta frases sinistras como
+        “Quando não tiver mais espaço
+        no Inferno, os pães deveram caminhar
+        sob a Terra.”
+
+        - OMORI
+
+
+        Esse aqui parece com
+        você, OMORI!
+
+        - AUBREY
+
+  109:
+    name: CASHHORRO
+    background: {name: 'battlebacks_dd_default', x: 0, y: 0}
+    position: {x: 160, y: 300}
+    character: {name: 'DW_EN_2', index: 3}
+    listIndex: 53
+
+    text: |
+        Uma entidade errática que
+        nasceu dos gritos de almas
+        perdidas. Ele grita lentamente
+        até a morte.
+
+        - OMORI
+
+  79:
+    name: NEVOELHO
+    background: {name: 'battleback_ff_default', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'ENEMY_BUNNIES', index: 7}
+    listIndex: 54
+
+    text: |
+        Chuta neve em você quando
+        fica bravo. Capaz de criar
+        a menor nevasca do
+        mundo...
+
+        - OMORI
+
+
+        Será que vai derreter se
+        colocarmos no sol?
+
+        - KEL
+
+  87:
+    name: PILHA DE NEVE
+    background: {name: 'battleback_ff_xsh', x: 0, y: 0}
+    position: {x: 160, y: 450}
+    character: {name: 'DW_EN_4', index: 1}
+    listIndex: 55
+
+    text: |
+        Um pedaço de neve não
+        intencionalmente amaldiçoado.
+        Me pergunto o por que ele esta vivo.
+
+        - OMORI
+
+  83:
+    name: ANJO DE NEVE
+    background: {name: 'battleback_ff_xsh', x: 0, y: 0}
+    position: {x: 160, y: 500}
+    character: {name: 'DW_EN_8', index: 0}
+    listIndex: 56
+
+    text: |
+        Guardiões da MONTANHA
+        GLOBO-DE-NEVE... Seus olhos
+        presenciaram muitas histórias.
+
+        ANJOS DE NEVE são conhecidos
+        por aparecerem para viajantes
+        perdidos e desaparecerem com
+        eles no meio de uma nevasca.
+
+        - OMORI
+
+
+  365:
+    name: CHEFE
+    background: {name: 'battleback_reckut', x: 0, y: 0}
+    position: {x: 160, y: 450}
+    character: {name: 'DW_BOSS', index: 0}
+    listIndex: 57
+
+    text: |
+        Meio rude às vezes. Pode
+        Ser um inimigo... ou amigo.
+
+        - OMORI
+
+  336:
+    name: SINHÔ BROTOPEIRA
+    background: {name: 'battleback_vf_default', x: 0, y: 0}
+    position: {x: 160, y: 450}
+    character: {name: 'DW_NPC_15', index: 1}
+    listIndex: 58
+
+    text: |
+        O avô querido de todas as
+        BROTOPEIRAS. É dito que
+        ele ama toda a vida da 
+        floresta e a maioria delas
+        vem dele.
+
+        Quando não está ocupado
+        mantendo o equilíbrio da
+        floresta, ele gosta de sentar.
+
+        - OMORI
+
+  340:
+    name: GURI DA PIPA
+    background: {name: 'battleback_vf_kitekid', x: 0, y: 0}
+    position: {x: 160, y: 500}
+    character: {name: '$sprite_vf_kite_kid', index: 0}
+    listIndex: 59
+
+    text: |
+        Um garoto misterioso obcecado
+        com o vento. Ele é visto
+        na FLORESTA FLUTUANTE
+        com a sua pipa e
+        resmungando sobre o
+        tempo.
+
+        - OMORI
+
+  344:
+    name: PIPA DO GURI
+    background: {name: 'battleback_vf_kitekid', x: 0, y: 0}
+    position: {x: 160, y: 500}
+    character: {name: '$npc_kite', index: 0}
+    listIndex: 60
+
+    text: |
+        Uma pipa estranha. Parece
+        possuir vida própria.
+
+        - OMORI
+
+  880:
+    name: '???'
+    conditionalNames:
+        - { name: PLUTÃO, switches: [[90, true]] }
+    background: {name: 'battleback_ow_outskirts', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'DW_NPC_15', index: 2}
+    listIndex: 61
+
+    text: |
+        Uma rocha misteriosa e flexível.
+
+        - OMORI
+
+
+        Eu gosto de seus músculos!
+
+        - KEL
+    conditionalText:
+        -
+          switchIds: [15]
+          line: null
+          text: |
+
+            Acontece que... Ele
+            é um cara legal.
+
+            - OMORI
+
+            Adoro ele!
+
+            - KEL
+
+  370:
+    name: TERRA
+    background: {name: 'battleback_ow_outskirts', x: 0, y: 0}
+    position: {x: 160, y: 700}
+    character: {name: 'DW_EN_7', index: 2}
+    listIndex: 62
+
+    text: |
+        O terceiro planeta do sistema
+        solar. Sua superfície é
+        coberta de água e pessoas.
+
+        - OMORI
+
+  388:
+    name: ABA DE DOWNLOAD
+    background: {name: 'battleback_ow_download', x: 0, y: 0}
+    position: {x: 160, y: 325}
+    character: {name: 'DW_NPC_17', index: 4}
+    listIndex: 63
+
+    text: |
+        [ERRO]
+
+  379:
+    name: CAPITÃO EX-NAMORADO
+    background: {name: 'battleback_ow_xsbf', x: 0, y: 0}
+    position: {x: 150, y: 500}
+    character: {name: 'DW_NPC_3', index: 5}
+    listIndex: 64
+
+    text: |
+        O feroz alter ego de 
+        CAP. SPACEBOY, capitão
+        dos PIRATAS ESPECIAIS. Ele vem
+        quando o CAP. SPACEBOY está
+        nervoso. Comanda os planetas
+        do sistema solar, mas
+        o coração de ninguém...
+
+        - OMORI
+
+  424:
+    name: REI RASTEJANTE
+    background: {name: 'battleback_pf_default', x: 0, y: 0}
+    position: {x: 190, y: 490}
+    character: {name: 'DW_EN_6', index: 3}
+    listIndex: 65
+
+    text: |
+        Um parasita desalmado que
+        mata BROTOPEIRAS e colhe
+        suas carcaças para extender
+        seu próprio corpo.
+
+        - OMORI
+
+  451:
+    name: REI CARNIVORO
+    background: {name: 'battleback_sm_default', x: 0, y: 0}
+    position: {x: 160, y: 500}
+    character: {name: 'DW_NPC_18', index: 5}
+    listIndex: 66
+
+    text: |
+        Um dos muitos predadores 
+        de BROTOPEIRAS. O REI 
+        CARNIVORO invade o habitat
+        das BROTOPEIRAS escavando
+        o subsolo. Eles preferem 
+        as suas BROTOPEIRAS quentes
+        e mastigáveis.
+
+        - OMORI
+
+  442:
+    name: BROTOPEIRA SUSPEITA
+    background: {name: 'battleback_sm_default', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'DW_SPRM_3', index: 3}
+    listIndex: 67
+
+    text: |
+        A BROTOPEIRA menos confiável.
+        Não acredite em nada que
+        ele disser.
+
+        - AUBREY
+
+
+  469:
+    name: SIR MAXIMUS
+    background: {name: 'battleback_sw_default', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'DW_EN_5', index: 7}
+    listIndex: 68
+
+    text: |
+        O verdadeiro mestre espadachim.
+        Uma BROTOPEIRA que estudou
+        a arte do combate
+        por centenas de anos com
+        o objetivo de ultrapassar o
+        título de HAROLDO e conquistar
+        o título supremo de MAXIMUS.
+
+        - OMORI
+
+
+  478:
+    name: SIR MAXIMUS II
+    background: {name: 'battleback_sw_default', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'DW_EN_5', index: 7}
+    listIndex: 69
+
+    text: |
+        O verdadeiro mestre espadachim.
+        o filho da BROTOPEIRA que estudou
+        a arte do combate
+        por centenas de anos com
+        o objetivo de ultrapassar o
+        título de HAROLDO e conquistar
+        o título supremo de MAXIMUS.
+
+        - OMORI
+
+  487:
+    name: SIR MAXIMUS III
+    background: {name: 'battleback_sw_default', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'DW_EN_5', index: 7}
+    listIndex: 70
+
+    text: |
+        O verdadeiro mestre espadachim.
+        O neto da BROTOPEIRA que estudou
+        a arte do combate
+        por centenas de anos com
+        o objetivo de ultrapassar o
+        título de HAROLDO e conquistar
+        o título supremo de MAXIMUS.
+
+        - OMORI
+
+  496:
+    name: SWEETHEART
+    background: {name: 'battleback_sw_sweetheart', x: 0, y: 0}
+    position: {x: 175, y: 500}
+    character: {name: 'DW_SH_1', index: 1}
+    listIndex: 71
+
+    text: |
+        A linda e impulsiva duquesa
+        louca que vive em um grande
+        castelo rosa na FLORESTA DOS 
+        FLAMA-LUZES. Adorada por BROTOPEIRAS
+        por todo o mundo. 
+        Ela tem uma quedinha pelo HERO.
+
+        - OMORI
+
+
+        Ei... Não vamos falar sobre isso
+        de novo, OK?
+
+        - HERO
+
+  409:
+    name: O FORNO ABOMINÁVEL
+    background: {name: 'battlebacks_dd_default', x: 0, y: 0}
+    position: {x: 170, y: 500}
+    character: {name: 'DW_NPC_15', index: 6}
+    listIndex: 72
+
+    text: |
+      Uma criatura de outro mundo,
+      Invocado por um prato cheio
+      de cookies.
+      - OMORI
+
+      Realmente mal!
+      - AUBREY
+
+      Covarde!
+      - KEL
+
+      Uma abominação!
+      - HERO
+
+
+  415:
+    name: GÊMEOS PÃO-VIVOS
+    background: {name: 'battlebacks_dd_biscuit_doughie', x: 0, y: 0}
+    position: {x: 210, y: 500}
+    character: {name: 'DW_NPC_17', index: 3}
+    listIndex: 73
+
+    text: |
+         BISCOITA e BOLACHO, os
+         irmãos pão-vivos são de outro
+         mundo e são forçados a 
+         assar e teletransportar pão
+         eternamente pelo círculo
+         de invocação. Ohoooooo...
+
+         - OMORI
+
+  402:
+    name: CAPITÃO EX-MARIDO
+    background: {name: 'battleback_ff_xsh', x: 0, y: 0}
+    position: {x: 172, y: 550}
+    character: {name: 'DW_NPC_14', index: 6}
+    listIndex: 74
+
+    text: |
+        O recém-divorciado CAP.
+        SPACEBOY. Sua alma
+        transcendeu além do espaço
+        e tempo e evoluiu acima
+        das inúteis emoções humanas.
+
+        - OMORI
+
+
+        Pobre, CAP. SPACEBOY...
+        Ninguem merece isso...
+
+        - AUBREY
+
+
+  508:
+    name: SR.MANDIBARÃO
+    background: {name: 'battlebacks_dw_jawsum', x: -90, y: 0}
+    position: {x: 160, y: 525}
+    character: {name: 'DW_jawsum', index: 1}
+    listIndex: 75
+
+    text: |
+        Um tubarão capitalista/
+        empresário / Agiota que é
+        dono de 51% do POÇO SEM FUNDO.
+        Não existe nada que ele acredite
+        mais do que um contrato assinado.
+
+        - OMORI
+
+
+        Ei, ele é o chefão!
+        Amo esse cara!
+
+        -KEL
+
+  202:
+    name: CARA JACARÉ
+    background: {name: 'battleback_dw_lastresort_interior', x: -90, y: 0}
+    position: {x: 175, y: 500}
+    character: {name: 'DW_NPC_GATOR', index: 0}
+    listIndex: 76
+
+    text: |
+        Os capangas fieis e confiáveis
+        do SR. MANDIBARÃO.
+        É bem provável que todos eles
+        tenham assinado contratos 
+        questionáveis com ele.
+
+        Eles preferem falar pelos
+        seus walkie-talkies mesmo
+        que estejam todos na mesma
+        sala.
+
+        - OMORI
+
+  514:
+    name: PLUTÃO (EXPANDIDO)
+    background: {name: 'battleback_dw_pluto', x: 0, y: 0}
+    position: {x: 162, y: 500}
+    character: {name: 'DW_NPC_15', index: 2}
+    listIndex: 77
+
+    text: |
+        A versão expandida 
+        surpreendentemente gloriosa
+        de Plutão, o planeta mais
+        poderoso em todo o cosmos
+        e no universo.
+
+        - OMORI
+
+  541:
+    name: ROBÔ-HEART
+    background: {name: 'battleback_dw_sglair', x: 0, y: 0}
+    position: {x: 160, y: 500}
+    character: {name: 'DW_NPC_14', index: 0}
+    listIndex: 78
+
+    text: |
+        Uma perigosa robô assasina
+        determinada a destruir a vida
+        como conhecemos. Tivemos sorte
+        em vê-la e ainda estarmos
+        vivos.
+
+        - OMORI
+
+  550:
+    name: MUTANTE-HEART
+    background: {name: 'battleback_dw_sglair', x: 0, y: 0}
+    position: {x: 160, y: 500}
+    character: {name: 'DW_NPC_10', index: 7}
+    listIndex: 79
+
+    text: |
+        O experimento falho? da
+        IRMÃ GOSMENTA, MARINA.
+        Faz ruídos estranhos na
+        tentativa de se comunicar.
+        Tem cheiro de morango.
+
+        - OMORI
+
+  559:
+    name: HEART PERFEITA
+    background: {name: 'battleback_dw_perfectheart', x: 0, y: 0}
+    position: {x: 160, y: 500}
+    character: {name: 'DW_NPC_14', index: 1}
+    listIndex: 80
+
+    text: |
+        Uma deusa de poder e equilíbrio
+        incomensuráveis. A luz
+        que ela emite é capaz de
+        causar cegueira agúda, e
+        em alguns casos, a morte.
+
+        - OMORI
+
+  877:
+    name: MARINA
+    background: {name: 'battleback_dw_slimegirls', x: 0, y: 0}
+    position: {x: 180, y: 500}
+    character: {name: 'DW_NPC_10', index: 2}
+    listIndex: 81
+
+    text: |
+        A irmã-do-meio imprudente
+        e precipitada das 
+        IRMÃS GOSMENTAS. Tem um
+        temperamento explosivo.
+        Ama desmontar seres vivos
+        e montá-los novamente,
+        geralmente sem sua permissão...
+
+        - OMORI
+
+  878:
+    name: MOLLY
+    background: {name: 'battleback_dw_slimegirls', x: 0, y: 0}
+    position: {x: 185, y: 500}
+    character: {name: 'DW_NPC_10', index: 1}
+    listIndex: 82
+
+    text: |
+        A astuta e diabólica IRMÃ
+        GOSMENTA mais velha. Consegue
+        se divertir com qualquer coisa.
+        Ela dominou todas as ciências,
+        mas prefere continuar com
+        programação, pois exige
+        o mínimo de seus movimentos.
+
+        Adora salgadinhos
+        de queijo.
+
+        - OMORI
+
+  879:
+    name: MEDUSA
+    background: {name: 'battleback_dw_slimegirls', x: 0, y: 0}
+    position: {x: 170, y: 500}
+    character: {name: 'DW_NPC_10', index: 0}
+    listIndex: 83
+
+    text: |
+        A IRMÃ GOSMENTA mais nova, calma
+        e prática. Lida com elementos
+        líquidos em frascos chiques porque
+        eles são lindos.
+
+        Ela é uma especialista em difusão
+        de situações difíceis, já que
+        suas irmãs gostam de discutir
+        com frequência.
+
+        - OMORI
+
+  577:
+    name: HUMPHREY
+    background: {name: 'battleback_dw_humphrey', x: 0, y: 0}
+    position: {x: 160, y: 500}
+    character: {name: 'DW_SG_Humphrey', index: 0}
+    listIndex: 84
+
+    text: |
+        Puro terror absoluto.
+        - OMORI
+
+        E apertável também! Nyak, nyak!
+        - HUMPHREY
