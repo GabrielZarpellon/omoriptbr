@@ -27,10 +27,10 @@ message_5:
       text: É, bem...\! Eu também queria...\! uma vez.\spg
 
 message_6:
-      text: CAPITÃO NAMORADO não tem feito muito recentemente, então a maioria dos PIRATAS ESPACIAIS se cansaram e saiaram da nave.\spg
+      text: NAMORADO ESPACIAL não tem feito muito recentemente, então a maioria dos PIRATAS ESPACIAIS se cansaram e saiaram da nave.\spg
 
 message_7:
-      text: É só a gente vagabundiando por aí fazendo as tarefas do CAPITÃO NAMORADO e tudo mais.\spg
+      text: É só a gente vagabundiando por aí fazendo as tarefas do NAMORADO ESPACIAL e tudo mais.\spg
 
 message_8:
       text: Ontem, eu e o pessoal passamos o dia inteiro limpando e jogando o lixo dele...\spg
@@ -44,7 +44,7 @@ message_10:
       text: Ahhh, Me desculpa... Isso parece terrível.\!<br>Talvez a gente possa falar um pouco com ele.\aub
 
 message_11:
-      text: Oh, Eu não faria isso se fosse você.\! CAPITÃO SPACE-<br>Quero dizer...\! CAPITÃO NAMORADO tem duas caras, entende.\spg
+      text: Oh, Eu não faria isso se fosse você.\! CAPITÃO SPACE-<br>Quero dizer...\! NAMORADO ESPACIAL tem duas caras, entende.\spg
 
 message_12:
       faceset: MainCharacters_DreamWorld
@@ -106,7 +106,7 @@ message_51:
 message_52:
       faceset: MainCharacters_DreamWorld
       faceindex: 40
-      text: Uh-oh...\! CAPITÃO SPACE-\!<br>Quero dizer, CAPITÃO NAMORADO não parece tão bem.\her
+      text: Uh-oh...\! CAPITÃO SPACE-\!<br>Quero dizer, NAMORADO ESPACIAL não parece tão bem.\her
 
 message_53:
       faceset: MainCharacters_DreamWorld
@@ -116,7 +116,7 @@ message_53:
 message_54:
       faceset: MainCharacters_DreamWorld
       faceindex: 17
-      text: \{\{EI, \Com[2]CAPITÃO NAMORADO!!\kel
+      text: \{\{EI, \Com[2]NAMORADO ESPACIAL!!\kel
 
 message_55:
       faceset: MainCharacters_DreamWorld
@@ -147,7 +147,7 @@ message_60:
 #SPACE PIRATE GUY walks in and walks to SPACE BOYFRIEND.
 
 message_61:
-      text: Oh não... De novo não...\!<br>CAPITÃO NAMORADO tá na bad.\spg
+      text: Oh não... De novo não...\!<br>NAMORADO ESPACIAL tá na bad.\spg
 
 message_62:
       text: Aqui, meu chapa. Isso vai te alegrar.\spg
@@ -177,7 +177,7 @@ message_67:
       text: Qual é o problema? É só uma fita cassete, certo?\kel
 
 message_68:
-      text: Bem, entenda...\! Sempre que o CAPITÃO NAMORADO está longe da SWEETHEART, ele fica muito triste e se deita na cama o dia inteiro.\spg
+      text: Bem, entenda...\! Sempre que o NAMORADO ESPACIAL está longe da SWEETHEART, ele fica muito triste e se deita na cama o dia inteiro.\spg
 
 message_69:
       text: O único jeito de tirar ele disso é tocando sua \c[4]MIXTAPE ESPECIAL\c[0].\! Há apenas uma no universo que nem aquela.\spg
@@ -185,10 +185,10 @@ message_69:
 message_70:
       faceset: MainCharacters_DreamWorld
       faceindex: 4
-      text: Oh, Entendo...\! CAPITÃO NAMORADO não tá doente...\!<br>Ele tá... doente de amor...\aub
+      text: Oh, Entendo...\! NAMORADO ESPACIAL não tá doente...\!<br>Ele tá... doente de amor...\aub
 
 message_71:
-      text: Aff...\! se o CAPITÃO NAMORADO continuar assim, a outrora grande aliança entre os PIRATAS ESPACIAIS vai ser perdida para todo sempre...\spg
+      text: Aff...\! se o NAMORADO ESPACIAL continuar assim, a outrora grande aliança entre os PIRATAS ESPACIAIS vai ser perdida para todo sempre...\spg
 
 message_72:
       faceset: MainCharacters_DreamWorld
@@ -262,7 +262,7 @@ message_86:
       text: Essa chave libera o \c[11]FERRO-VELHO\c[0].<br>\!A \c[4]MIXTAPE ESPECIAL\c[0] deve estar em algum lá dentro.\spg
 
 message_87:
-      text: Você pode ir para lá por essa passagem secreta até o quintal do CAPITÃO NAMORADO.\! Bem conveniente, não?\spg
+      text: Você pode ir para lá por essa passagem secreta até o quintal do NAMORADO ESPACIAL.\! Bem conveniente, não?\spg
 
 message_88:
       faceset: MainCharacters_DreamWorld
@@ -285,7 +285,7 @@ message_111:
       text: Eu espero que o CAPITÃO não fique tão mal quando contarmos à ele que seu planeta favorito está sumido.\! Você sabe como ele fica quando tá nervoso.\spd
 
 message_112:
-      text: Amigão, ele não é só nosso CAPITÃO agora.\!<br>Você deve chamá-lo de CAPITÃO NAMORADO, lembra?\spb
+      text: Amigão, ele não é só nosso CAPITÃO agora.\!<br>Você deve chamá-lo de NAMORADO ESPACIAL, lembra?\spb
 
 message_113:
       text: Ah sim, tá certo...\spd
@@ -332,7 +332,7 @@ message_150:
 message_160:
       faceset: MainCharacters_DreamWorld
       faceindex: 4
-      text: Espere, OMORI!\! A gente devia checar o CAPITÃO SPACEB-\!<br>Quero dizer, CAPITÃO NAMORADO primeiro.\aub
+      text: Espere, OMORI!\! A gente devia checar o CAPITÃO SPACEB-\!<br>Quero dizer, NAMORADO ESPACIAL primeiro.\aub
 
 message_161:
       text: Você usou a \c[4]CHAVE DO FERRO-VELHO\c[0].

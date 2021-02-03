@@ -8,7 +8,7 @@ message_0:
       text: Eita nós! Vocês pirralhos realmente conseguiram!\! Isso tá meio sujo, mas é a nossa \c[4]MIXTAPE ESPECIAL\c[0] com certeza!\!<br>Muito obrigado, carinha.\spg
 
 message_1:
-      text: Com isso nós finalmente vamos conseguir acordar o CAPITÃO NAMORADO!\spg
+      text: Com isso nós finalmente vamos conseguir acordar o NAMORADO ESPACIAL!\spg
 
 #KEL walks up to you.
 
@@ -18,7 +18,7 @@ message_2:
 message_3:
       faceset: MainCharacters_DreamWorld
       faceindex: 4
-      text: Alías, sobre isso...\! Nós talvez tenhamos más noticias.\!<br>Nós ouvimos um rumor que o CAPITÃO NAMORADO e a SWEETHEART...\! Bem...\! Eles terminaram.\aub
+      text: Alías, sobre isso...\! Nós talvez tenhamos más noticias.\!<br>Nós ouvimos um rumor que o NAMORADO ESPACIAL e a SWEETHEART...\! Bem...\! Eles terminaram.\aub
 
 #KEL slowly walks to SPACE BOYFRIEND.
 
@@ -33,7 +33,7 @@ message_5:
 message_6:
       faceset: MainCharacters_DreamWorld
       faceindex: 18
-      text: \Com[2]Ei, CAPITÃO NAMORADO! Nós pegamos sua \c[4]MIXTAPE ESPECIAL\c[0] de volta!\kel
+      text: \Com[2]Ei, NAMORADO ESPACIAL! Nós pegamos sua \c[4]MIXTAPE ESPECIAL\c[0] de volta!\kel
 
 message_7:
       faceset: MainCharacters_DreamWorld
@@ -55,7 +55,7 @@ message_9:
 message_10:
       faceset: MainCharacters_DreamWorld
       faceindex: 1
-      text: Pessoas superam términos todos os dias!\! <br>Eu tenho certeza que o CAPITÃO NAMORADO vai estar melhor rapidinho.\!<br>Ele só precisa de tempo pra se reajustar.\aub
+      text: Pessoas superam términos todos os dias!\! <br>Eu tenho certeza que o NAMORADO ESPACIAL vai estar melhor rapidinho.\!<br>Ele só precisa de tempo pra se reajustar.\aub
 
 #KEL slowly walks to cassette player.
 
@@ -101,7 +101,7 @@ message_17:
 message_18:
       faceset: MainCharacters_DreamWorld
       faceindex: 18
-      text: \SINV[1]\{ACORDA-ACORDA, CAPITÃO NAMORADO!!\kel\}\}\SINV[0]
+      text: \SINV[1]\{ACORDA-ACORDA, NAMORADO ESPACIAL!!\kel\}\}\SINV[0]
 
 #KEL puts the SWEETHEART MIXTAPE in the cassette player.
 #SWEETHEART MIXTAPE song plays.
@@ -174,12 +174,12 @@ message_38:
 message_39:
       faceset: MainCharacters_DreamWorld
       faceindex: 10
-      text: Me desculpe, mas não podemos deixar você fazer isso, CAPITÃO NAMORADO...\!<br>Ou devo dizer...\aub
+      text: Me desculpe, mas não podemos deixar você fazer isso, NAMORADO ESPACIAL...\!<br>Ou devo dizer...\aub
 
 message_40:
       faceset: MainCharacters_DreamWorld
       faceindex: 10
-      text: \{\{\Com[2]CAPITÃO EX-NAMORADO!!\aub
+      text: \{\{\Com[2]EX-NAMORADO ESPACIAL!!\aub
 
 message_41:
       text: Interessante.\! Você está me desafiando?\!<br>\{VOCÊ SE QUER SABEM QUEM EU SOU!?\sxbf
