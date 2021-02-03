@@ -1,0 +1,116 @@
+
+# =========================================================================================
+# Crow Friends
+# ========================================================================================
+
+message_1:
+    text: \n<SR. ESPANTALHO>Ah, um estranho.\!<br>Obrigado por ter tempo para falar comigo...
+
+message_2:
+    text: \n<SR. ESPANTALHO>Me desculpe, mas receio que eu devo lhe entregar o fardo de realizar uma tarefa que eu não tenho como completar com minhas próprias habilidades.
+#original line was about being "in a rut", which means something else entirely
+message_3:
+    text: \n<SR. ESPANTALHO>Bem recentemente e sem aviso, um planeta interestelar caiu do céu em uma velociade alarmante.\! Meus três queridos amigos entraram em pânico e fugiram em direções diferentes...
+
+message_4:
+    text: \n<SR. ESPANTALHO>Meus três amigos são corvos, entenda, e não são as mais amigáveis e receptivas das criaturas.
+
+message_5:
+    text: \n<SR. ESPANTALHO>Eu preciso ser cauteloso ao pedir um favor tão imenso para completos estranhos, mas são poucos os que passam por essa região.
+
+message_6:
+    text: \n<SR. ESPANTALHO>Se poderia fazer uma pergunta...\!<br>Você estaria disposto a me ajudar a encontrar meus queridos amigos?
+
+message_7:
+    text: \n<SR. ESPANTALHO>Oh, obrigado, estranho!\!<br>Palavras não podem expressar o quanto isso significa para mim.
+
+message_8:
+    text: \n<SR. ESPANTALHO>Agora eu devo esperar aqui pelo seu retorno pacientemente.\! Pois como pode ver... \! Sem eles,\! sou apenas um graveto em meio a lama.
+
+message_9:
+    text: \n<SR. ESPANTALHO>Entendo...\! Isso é muito compreensível.\! Receio que esse pedido é algo grande demais para pedir a completos desconhecidos.
+
+# Talking to Crow WITHOUT Hero as Leader
+
+message_10:
+    text: \n<CORVO>...
+
+message_11:
+    text: O CORVO se recusa a falar com você.\!<br>Talvez se você fosse alguém mais...\! charmoso?
+
+message_12:
+    text: O CORVO se recusa a falar com você.\!<br>Talvez se você fosse alguém mais...\! bonito?
+
+message_13:
+    text: O CORVO se recusa a falar com você.\!<br>Talvez se você fosse alguém mais...\! eloquente?
+
+
+# Talking to Crow 1 with Hero as Leader
+
+message_14:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 36
+    text: \herOlá, carinha.\!<br>Seu amigo SR. ESPANTALHO sente muito a sua falta, sabe?\!<br>Eu posso te ajudar a encontrá-lo se quiser.
+
+message_15:
+    text: \n<CORVO>Crá, crá!\!<br>(Por favor, se isso não é um incômodo. Eu também sinto saudade dele!)
+# Crows caw, not squawk
+# Talking to Crow 2 with Hero as Leader
+
+message_16:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 36
+    text: \herEi, amigão.\!<br>Você quer que eu te leve para seu amigo, o SR. ESPANTALHO?
+
+message_17:
+    text: \n<CORVO>Crá!!!!\! (Sim! Sim! Sim! Cadê o meu amigo? Me leve até ele!!)
+
+# Talking to Crow 3 with Hero as Leader
+
+message_18:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 36
+    text: \herSaudações, meu amigo emplumado.\!<br>Você gostaria de voltar para o SR. ESPANTALHO?\!<br>Ele mal pode esperar para te ver novamente.
+message_19:
+    text: \n<CORVO>Crá Crá.\! (Ah, sim. Isso seria imensamente desejável.)
+
+# Talking to MR. SCARECROW before finding his friends
+
+message_20:
+      text: \n<SR. ESPANTALHO>Meus amigos...\! Para onde eles podem ter voado?\!<br>Eu espero que estejam bem...
+
+# Talking to MR. SCARECROW before finding his friends
+
+message_21:
+    text: \n<SR. ESPANTALHO>Oh, obrigado, estranho!\!<br>Palavras ainda não podem expressar o quanto isso significa para mim.
+
+message_22:
+    text: O CORVO se juntou ao seu amigo.
+
+message_23:
+    text: \n<SR. ESPANTALHO>Agora eu devo esperar o retorno dos outros.\!<br>Pois como pode ver...\! Sem eles,\! sou apenas um graveto em meio a lama.
+
+# Talking to MR. SCARECROW after finding his friends
+
+message_24:
+    text: \n<SR. ESPANTALHO>Meus amigos! Todos eles voltaram!
+
+message_25:
+    text: \n<SR. ESPANTALHO>Eu não sei como de agradecer o suficiente pela sua ajuda.\!<br>Agora é a minha hora de ir embora.
+
+message_26:
+    text: \n<SR. ESPANTALHO>Adeus, estranho bondoso.\! Espero que possamos nos encontrar novamente um dia.
+
+message_29:
+    text: Você recebeu um \c[13]TREVO DE 5 FOLHAS\c[0].
+
+# Talking to Crows before Quest is Accepted
+
+
+message_27:
+    text: Um CORVO solitário está bicando a terra.<br>\!Ele não parece perceber a sua presença.
+
+# Talking to Crows at MR. SCARECROW before Quest is Fully Completed
+
+message_28:
+    text: o CORVO parece contente.

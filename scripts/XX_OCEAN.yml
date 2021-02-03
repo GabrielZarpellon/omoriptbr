@@ -1053,17 +1053,17 @@ message_465:
 
 #  Consumables
 message_500:
-    text: You got \c[3]\itemget\c[0]!
+    text: Você pegou \c[3]\itemget\c[0]!
 
 message_501:
-    text: You got \c[3]\itemget\c[0]!
+    text: Você pegou \c[3]\itemget\c[0]!
 
 #  Toys
 message_510:
-    text: You got \c[5]\itemget\c[0]!
+    text: Você pegou \c[5]\itemget\c[0]!
 
 message_511:
-    text: You got \c[5]\itemget\c[0]!
+    text: Você pegou \c[5]\itemget\c[0]!
 
 #  equips
 message_520:
@@ -1074,41 +1074,41 @@ message_521:
 
 #  key items
 message_522:
-    text: You got \c[4]\itemget\c[0]!
+    text: Você pegou \c[4]\itemget\c[0]!
 
 #  Skills
 message_530:
-    text: character learned \c[1]skill\c[0]
+    text: o personagem aprendeu \c[1]skill\c[0]
 
 message_531:
-    text: HERO learned \c[1]TEA TIME\c[0]!
+    text: HERO aprendeu \c[1]HORA DO CHÁ\c[0]!
 
 message_532:
-    text: HERO learned \c[1]REFRESH\c[0]!
+    text: HERO aprendeu \c[1]REFRESCO\c[0]!
 
 message_533:
-    text: HERO learned \c[1]SNACK TIME\c[0]!
+    text: HERO aprendeu \c[1]HORA DO LANCHE\c[0]!
 
 message_534:
-    text: HERO learned \c[1]TENDERIZE\c[0]!
+    text: HERO aprendeu \c[1]AMACIAR\c[0]!
 
 message_535:
-    text: KEL learned \c[1]JUICE ME\c[0]!
+    text: KEL aprendeu \c[1]HIDRATE-ME\c[0]!
 
 message_536:
-    text: KEL learned \c[1]SNOWBALL\c[0]!
+    text: KEL aprendeu \c[1]BOLA DE NEVE\c[0]!
 
 message_540:
-    text: OMORI gained 1 HEART.
+    text: OMORI ganhou 1 CORAÇÃO.
 
 message_541:
-    text: KEL gained 1 HEART.
+    text: KEL ganhou 1 CORAÇÃO.
 
 message_542:
-    text: AUBREY gained 1 HEART.
+    text: AUBREY ganhou 1 CORAÇÃO.
 
 message_543:
-    text: HERO gained 1 HEART.
+    text: HERO ganhou 1 CORAÇÃO.
 
 # Kels mom when POLLY <3 comes over
 

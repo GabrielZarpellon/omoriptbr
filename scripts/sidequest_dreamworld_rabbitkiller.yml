@@ -4,7 +4,7 @@
 # ========================================================================================
 
 message_1:
-      text: \n<FOLHINHA>Você sabe oo que eu odeio mais do que tudo?\!<br>\quake[1]Coelhos.\quake[0]\! Isso mesmo.\! \quake[1]Coelhos.\quake[0]
+      text: \n<FOLHINHA>Você sabe o que eu odeio mais do que tudo?\!<br>\quake[1]Coelhos.\quake[0]\! Isso mesmo.\! \quake[1]Coelhos.\quake[0]
 
 message_2:
       text: \n<FOLHINHA>Eu simplesmente odeio eles.\!<br>Se eu pudesse realizar um desejo, <br>eu iria destruir todos os \quake[1]coelhos.\quake[0]
@@ -12,10 +12,10 @@ message_2:
 #If you killed at least 1 bunny
 
 message_3:
-      text: \n<FOLHINHA>Ei, você tem a cara de que derrotou alguns \quake[1]coelhos!\quake[0]\!<br>Ah, isso mesmo.\! Eu sei quantos \quake[1]coelhos\quake[0] você derrotou só de olhar para você.
+      text: \n<FOLHINHA>Ei, você tem a cara de quem derrotou alguns \quake[1]coelhos!\quake[0]\!<br>Ah, isso mesmo.\! Eu sei quantos \quake[1]coelhos\quake[0] você derrotou só de olhar para você.
 
 message_4:
-      text: \n<FOLHINHA>Pra ver o quanto eu odeio \quake[1]coelhos.\quake[0]
+      text: \n<FOLHINHA>Para ver o quanto eu odeio \quake[1]coelhos.\quake[0]
 
 message_5:
       text: \n<FOLHINHA>Ei, vou te falar.\! Vamos fazer um acordo.\!<br>Se você derrotar pelo menos 5 \quake[1]coelhos,\quake[0] volte aqui e me avise...\! Eu vou te dar algo legal.
@@ -31,15 +31,15 @@ message_7:
       text: \n<FOLHINHA>\Com[2]Esplêndido!\! Consigo ver que você destruiu mais \quake[1]coelhos.\quake[0]\!<br>São \v[615] \quake[0]coelhos obliterados\quake[0]!\!<br>Muito obrigado, odiador de coelhos.
 
 message_8:
-      text: \n<FOLHINHA>Agora...\! se você por acaso puder matar \v[1001] \quake[1]coelhos\quake[0],<br>Eu te daria mais uma recompensa!
+      text: \n<FOLHINHA>Agora...\! se você por acaso puder matar \v[1001] \quake[1]coelhos\quake[0],<br>Eu te darei mais uma recompensa!
 
 #DEFAULT TEXT:
 
 message_9:
-      text: \n<FOLHINHA>Olá, meu colega odiador de coelhos!\!<br>Olhando em seus olhos, eu consigo ver que você matou \v[615] \quake[1]coelhos\quake[0].
+      text: \n<FOLHINHA>Olá, meu colega odiador de coelhos!\!<br>Olhando em seus olhos, eu consigo ver que você matou \v[615] \quake[1]coelho(s)\quake[0].
 
 message_10:
-      text: \n<FOLHINHA>Você tem que matar mais \v[1001]  \quake[1]coelhos\quake[0] para o seu próximo prêmio.\!<br>Agora vá e destrua aqueles \quake[1]coelhos!\quake[0]
+      text: \n<FOLHINHA>Você tem que matar mais \v[1001]  \quake[1]coelho(s)\quake[0] para o seu próximo prêmio.\!<br>Agora vá e destrua aqueles \quake[1]coelhos!\quake[0]
 
 #PRIZES: COTTON BALL, BUNNY EARS, RABBIT FOOT, CONSUMABLES
 
