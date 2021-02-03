@@ -177,7 +177,7 @@ message_29:
 message_30:
     faceset: MainCharacters_DreamWorld
     faceindex: 9
-    text: \aub\}\sinv[1]Shhhhhhh...\sinv[0] Fica quieto!\! Não estamos sozinhos aqui!\! Não estão vendo aquele garoto com uma pipa?\! Ele parece estar muito concentrado...
+    text: \aub\}\sinv[1]Shhhhhhh...\sinv[0] Fica quieto!\! Não estamos sozinhos aqui!\! Não estão vendo aquele guri com uma pipa?\! Ele parece estar muito concentrado...
 
 message_31:
     faceset: MainCharacters_DreamWorld
@@ -547,7 +547,7 @@ message_94:
 message_95:
     faceset: MainCharacters_DreamWorld
     faceindex: 46
-    text: \herQue? Não é\! Então é o que?
+    text: \herQue? Não é?\! Então o que você gosta em mim?
 
 message_96:
     faceset: MainCharacter_Mari
