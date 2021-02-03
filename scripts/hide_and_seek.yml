@@ -131,7 +131,7 @@ message_26:
 # *BERLY goes to tetherball pole*
 
 message_170:
-      text: \berQuando você estiver pronto para jogar, vá até o poste de espirobol e feche os olhos.\! \com[2]Sem bisbilhotar! Se não!
+      text: \berQuando você estiver pronto para jogar, vá até o poste de espirobol e feche os olhos.\! \com[2]Sem bisbilhotar! Senão!
 
 # If you try to leave:
 
@@ -733,29 +733,29 @@ message_309:
 #KEL became toast
 
 message_150:
-      text: \herActually, wait a minute... I think KEL just became TOAST!
+      text: \herNa verdade, espere um pouco... Eu acho que o KEL foi TORRADO!
 
 message_151:
-      text: \aubHuh? Oh, you're right.
+      text: \aubHã? Ah, você tem razão.
 
 message_152:
-      text: \aubUseless as ever, I see.
+      text: \aubInútil como sempre, para variar.
 
 message_153:
-      text: \herThat's not good...\! Does anybody have some \c[3]LIFE JAM\c[0] on hand to-
+      text: \herIsso não é bom...\! Alguém tem um pouco de \c[3]GELEIA VITAL\c[0] sobrando para-
 
 message_154:
-      text: \n<LIFE JAM GUY>\com[2]\{DID SOMEONE SAY \{\c[3]LIFE JAM\c[0]!?
+      text: \n<CARA DA GELEIA VITAL>\com[2]\{ALGUÉM DISSE \{\c[3]GELEIA VITAL\c[0]!?
 
 # -----------------------------------------------------------------------------------------------------------------------------
 
 # LIFE JAM GUY: (Use placeholder graphic)
 
 message_155:
-      text: \n<LIFE JAM GUY>Hey, kids! I'm the \c[3]LIFE JAM\c[0] guy!<br>\!I sell \c[3]LIFE JAM\c[0]!\! It really works!
+      text: \n<CARA DA GELEIA VITAL>Ei, crianças! Eu sou o cara da \c[3]GELEIA VITAL\c[0]!<br>\!Eu vendo \c[3]GELEIA VITAL\c[0]!\! É muito útil!
 
 message_156:
-      text: \n<LIFE JAM GUY>Would you like a free demo?
+      text: \n<CARA DA GELEIA VITAL>Gostariam de uma amostra grátis?
 
 # [YES/NO]
 
@@ -763,51 +763,51 @@ message_156:
 # *fade out of battle*
 
 message_157:
-      text: \n<LIFE JAM GUY>Don't be ridiculous...\! \com[2]Of course you do!
+      text: \n<CARA DA GELEIA VITAL>Não sejam ridículos...\! \com[2]É claro que querem!
 
 message_158:
-      text: \n<LIFE JAM GUY>Very good, yes?<br>\!Now... Would you like to buy some \c[3]LIFE JAM\c[0]?<br>\!It will only cost you 250 CLAMS.\$
+      text: \n<CARA DA GELEIA VITAL>Muito gostosa, não?<br>\!Aagora... Vocês gostariam de comprar um pouco de \c[3]GELEIA VITAL\c[0]?<br>\!Só custa 250 CLAMS.\$
 
 message_159:
-      text: \n<LIFE JAM GUY>Would you like to buy some \c[3]LIFE JAM\c[0]?<br>\!It will only cost you 250 CLAMS.\$
+      text: \n<CARA DA GELEIA VITAL>Voc~es gostariam de comprar um pouco de \c[3]GELEIA VITAL\c[0]?<br>\!Só custa 250 CLAMS.\$
 
 message_160:
-      text: You got \c[3]LIFE JAM\c[0].
+      text: Você ganhou \c[3]GELEIA VITAL\c[0].
 
 message_161:
-      text: \n<LIFE JAM GUY>Hm, you don't have enough CLAMS.<br>\!Come back when you've got more!
+      text: \n<CARA DA GELEIA VITAL>Hm, você não tem CLAMS suficientes.<br>\!Volte quando tiver mais!
 
 message_162:
-      text: \n<LIFE JAM GUY>Haha, that's okay.\! You will need to later.
+      text: \n<CARA DA GELEIA VITAL>Haha, tudo bem.\! Você vai precisar delas depois.
 
 message_163:
-      text: \n<LIFE JAM GUY>\com[2]\c[3]LIFE JAM\c[0]!\! It really works!
+      text: \n<CARA DA GELEIA VITAL>\com[2]\c[3]GELEIA VITAL\c[0]!\! Totalmente funcional!
 
 message_164:
-      text: \n<LIFE JAM GUY>How did you like my free demo?\! Haha, I'm kidding.\!<br>I know you loved it!
+      text: \n<CARA DA GELEIA VITAL>O que acharam da amostra grátis?\! Haha, estou brincando.\!<br>Sei que amaram ela!
 
 message_165:
-      text: \n<LIFE JAM GUY>Oh! I see you are still hurt.\! No worries! I will heal you, haha!
+      text: \n<CARA DA GELEIA VITAL>Ah! Vejo que ainda está machucado.\! Sem problemas! Eu vou te curar, haha!
 
 # Note: He'll probably do something similar later with SUPER LIFE JAM
 
 message_180:
-      text: \basHaha, what a strange person.\!<br>How are you feeling, KEL?
+      text: \basHaha, que pessoa estranha.\!<br>Como você está, KEL?
 
 message_181:
-      text: \kelHm? Why do you ask?
+      text: \kelHm? Por que a pergunta?
 
 message_182:
-      text: \aubYou just got turned into TOAST! Don't you remember?
+      text: \aubVocê acabou de ficar TORRADO! Não se lembra?
 
 message_183:
-      text: \kelI got turned into TOAST? I don't know, that sounds pretty crazy. If something like that happened, I'd definitely remember.
+      text: \kelEu fiquei TORRADO? Não sei, isso parece meio bizarro. Se algo estranho assim tivesse acontecido, eu me lembraria.
 
 message_184:
-      text: \kelWhoa, did you find everybody, OMORI? You're pretty good at hide and seek, huh?
+      text: \kelUau, você achou todo mundo, OMORI? Você é muito bom em esconde-esconde, hein?
 
 message_185:
-      text: \aub... We're going to BASIL's house now.
+      text: \aub... Nó estamos indo para a casa do Basil agora.
 
 # -----------------------------------------------------------------------------------------------------------------------------
 

@@ -1,0 +1,404 @@
+# =========================================================================================
+# PLUTO ON THE RUN
+# =========================================================================================
+
+message_0:
+    text: \n<MANO PIRATA ESPACIAL>\Com[2]\{PARE JÁ AÍ!!
+
+message_1:
+    text: \n<AMIGÃO PIRATA ESPACIAL>Finalmente te encontramos, PLUTÃO!<br>\{NÃO HÁ POR ONDE ESCAPAR!!
+
+#PLUTO runs into snaley and knocks him away
+
+message_2:
+    text: \who\}Oh, não...\! Meus braços e pernas gigantescas e bem definidas, estão cansados.
+
+message_52:
+    text: \whoEu não posso deixar acabar assim.<br>Tenho que encontrar um lugar para me esconder!
+
+#PLUTO looks around in a panic and turns to party
+
+message_3:
+    text: \whoEi, vocês aí!\} Huff... Huff...\!<br>Por favor...\! Me deêm sua ajuda!
+
+message_4:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 46
+    text: \herH-Huh? Ohh... uhh... bem...\! err...
+
+message_5:
+    text: \who\{DEPRESSA! EU NÃO TENHO TEMPO!
+
+message_6:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 19
+    text: \kelVocê precisa de um lugar para se esconder, huh...
+
+#HERO looks around
+#HERO faces away from pluto
+
+message_7:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 18
+    text: \kel\{A-HA! JÁ SEI!!
+
+#HERO turns back to PLUTO
+
+message_8:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 16
+    text: \kelVocê pode se acalmar agora! Tá tudo sobre controle.
+
+# =========================================================================================
+# PLUTO IN HIDING
+# =========================================================================================
+
+#PLUTO is hiding in a crater with plant
+
+message_9:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 17
+    text: \kelOkay, isso deve resolver!
+
+#HERO looks up
+
+message_50:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 46
+    text: \herDroga, eles estão vindo!
+
+#HERO looks at party
+
+message_51:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 46
+    text: \herRápido, pessoal... ajam naturalmente!
+
+#PARTY members surround the crater looking up
+
+#SPACE PIRATES walk in
+
+message_10:
+    text: \n<AMIGÃO PIRATA ESPACIAL>\}Huff... Huff...\! Droga! Perdemos ele!
+
+#SPACE PIRATE turns to party
+
+message_11:
+    text: \n<MANO PIRATA ESPACIAL>Ei, crianças! Estamos procurado um planeta interesterlar de alto nível e refinado chamado PLUTÃO.\! Ele é um cara grade, circular, acinzentado e com grades músculos pretuberantes.
+
+message_12:
+    text: \n<MANO PIRATA ESPACIAL>Meio difícl de passar despercebido...\!<br>Vocês viram ele?
+
+
+message_13:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 0
+    text: \aubU-Ummmmm...
+
+message_14:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 16
+    text: \kelUhhhhh...
+
+message_15:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 47
+    text: \herN-Não? Não podemos dizer que vimos...
+
+message_16:
+    text: \n<MANO PIRATA ESPACIAL>Sério?\! ... ... ... \!Bem, essa é a vida!\!<br>Vamo lá, vamos continuar procurando.\!<br>Encontraremos ele eventualmente!
+
+#SPACE PIRATES leave
+#KEL turns around
+
+message_17:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 18
+    text: \kel\}Okay, senhor... Tá tudo limpo.\{
+
+#PLUTO pops out of crater, potted plant drops
+#PLUTO laugh
+
+message_18:
+    text: \who\Com[2]\sinv[2]\{GWAHA\{HAHA\{HAHAHAHA!!\}
+
+message_19:
+    text: \whoMas que raciocínio rápido! Estou impressionado!
+
+message_20:
+    text: \whoVocês têm minha eterna gratidão.<br>Quais são seus nomes, Se eu posso perguntar?
+
+message_21:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 37
+    text: \herEu sou o HERO, e estes são meus amigos AUBREY, KEL, e OMORI.
+
+message_22:
+    text: \whoEntendo! Cinco belos nomes para cinco belos jovens!
+
+message_23:
+    text: \pluMeu nome é PLUTÃO, eu sou um planeta interestelar...\!<br>Um fora da lei pode se dizer.\! Eu me desculpo por ter causado<br>tanto problema.
+
+message_24:
+    text: \pluMas...\! Eu sinto que não é o meu propósito agir com uma mera decoração de jardim.
+
+#PLUTO turns up
+#Background below turns into space parallax
+
+message_25:
+    text: \pluEu quero a liberdade para vagar pelo céus como eu quiser, que nem os passáros e as estrelas!
+
+message_26:
+    text: \pluSe isso me faz um planeta interestelar, então que seja.<br>\!Eles podem me chamar do que eles quiserem,<br>desde que eu esteja livre para fazer o que eu bem entendo!
+
+#Background below turns to normal
+#PLUTO turns to party
+
+message_27:
+    text: \plu\Com[2]Minha alma clama por liberdade!\!<br>Vocês entendem... Não é crianças?
+
+#HERO turns to KEL
+
+message_28:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 46
+    text: \herU-uau! KEL, você está chorando??
+
+message_29:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 23
+    text: \kel\}Sniff... Tanta emoção pura...\! É...<br>\!Aquilo foi lindo, PLUTÃO...
+
+message_30:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 5
+    text: \aub\}Sniff... Sniff...\! Disse tudo, KEL.
+
+#HERO turns to AUBREY
+
+message_31:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 46
+    text: \herEspera, você também AUBREY??
+
+
+message_32:
+    text: \pluAgora, depois de muito tempo...\!<br>Eu finalmente eu estou livre para seguir o meu sonho...\!<br>em dirigir minha própria empresa de transportação!
+
+message_33:
+    text: \pluEu vou chamar de “LINHA ESPACIAL PLUTÃO”!
+
+#message 18
+
+message_34:
+    text: \pluEsta realização me revigorou!\!<br>E já que me ajudaram de maneira tão generosa, Eu devo retornar o meu favor!
+
+message_35:
+    text: \plu...\! Ahem!\! Eu sou o PLUTÃO da "LINHA ESPACIAL PLUTÃO" agora.\!<br>Por favor, finjam que vocês acabaram de chegar na minha estação.
+
+#PLUTO turns around
+
+message_36:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 47
+    text: \herOh, tá bem!\! Uh...\! Olá?\! PLUTÃO?
+
+#PLUTO shake
+#PLUTO turn to party
+
+#message18
+
+message_37:
+    text: \plu\Com[2]\quake[1]\{SAUDAÇÕES DA \Com[2]LINHA ESPACIAL PLUTÃO!!!\}
+
+message_38:
+    text: \plu\Com[2]\{ONDE VOCÊS \Com[2]GOSTARIAM DE \Com[2]IR<br>HOJE,\Com[2] JOVENS \Com[2]VIAJANTES??
+
+message_39:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 46
+    text: \herGah!
+
+message_40:
+    text: \pluOh, isso foi um pouco exagerado?<br>\!Hm.\! Eu devo acalmar um pouco...\!<br>Vamos tentar isso de novo!
+
+#PLUTO turns back
+
+message_41:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 47
+    text: \herNão, já tá bom!<br>A gente só gostaria de voltar para o acampamento, por favor!
+
+
+message_43:
+    text: \pluEntão querem ir para o acampamento de \c[11]OUTRO MUNDO\c[0]?\!<br>...\! Ah, meu primeiro pedido...\! \sinv[1]que beleza!
+
+#PLUTO turn facing away
+#PLUTO shake
+
+message_54:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 46
+    text: \kel\}Oh não... Lá vem ele...
+
+message_53:
+    text: \plu\Com[2]\sinv[2]\{GWAHA\{HAHA\{HAHAHAHA!!\}
+#PLUTO turn to party
+
+message_42:
+    text: \pluUma carona para o acampamento de \c[11]OUTRO MUNDO\c[0], saindo!
+
+message_49:
+    text: \pluEu não vou desaponta-los, jovens viajantes!\!<br>Deixem comigo!
+
+
+# =========================================================================================
+# PLUTO - TAKE OFF
+# =========================================================================================
+
+message_44:
+    text: \pluTodos estão em seus assentos?
+
+message_45:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 28
+    text: \kelEi, pera aí! Eu não tô pronto ainda!
+
+message_46:
+    text: \plu3...\! \{2...\! \{1...\! \Com[2]\{\sinv[1]DECOLAR!!
+
+# =========================================================================================
+# FLEX
+# =========================================================================================
+
+message_128:
+    text: \pluO que acharam desta carona calma?
+
+message_129:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 37
+    text: \herAmbiente confortável e música relaxante.<br>Eu daria cinco de cinco estrelas!
+
+message_130:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 27
+    text: \kel\}Huff... Huff...\! Você que diz!\! Eu nem consigo sentir mais minhas pernas...
+
+message_131:
+    text: \pluKEL, Eu tenho que dizer... Você fez um ótimo trabalho lutando pela sua vida ali.
+
+message_132:
+    text: \pluVocê tem o potencial de se tornar muito forte!\! Deixe-me te ensinar um \c[1]DOM\c[0] que possa ser útil no futuro.
+
+message_133:
+    text: \pluAhem...\! Repita depois de mim.
+
+message_134:
+    text: \plu\Com[2]\{\quake[1]QUANDO FAÇO \c[1]FLEXÃO\c[0], ME SINTO FORTÃO!!\}
+
+message_135:
+    text: \pluAgora é com você.
+
+message_136:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 17
+    text: \kel\Com[2]\{QUANDO FAÇO \c[1]FLEXÃO\c[0],\} Me \}sinto...
+
+message_137:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 16
+    text: \kelFortão?
+
+message_138:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 18
+    text: \kelNossa! Isso foi maravilhoso! Me sinto bombado!
+
+message_139:
+    text: \plu\}Hm...\! Até poderia se esforçar um pouco mais.\! Mas ainda assim...\{
+
+message_140:
+    text: \pluVocê definitivamente tem o poder dentro de você!<br>\!Conquiste esta lição e use-a bem.
+
+message_141:
+    text: \pluAdeus, crianças. Até a próxima vez!
+
+message_142:
+    text: KEL aprendeu \c[1]FLEXÃO\c[0]!
+
+# =========================================================================================
+# AFTER SBF
+# =========================================================================================
+
+#message_60:
+#    text: \pluGreetings, children. I sensed you were in need of a ride, so I decided to wait here and \c[1]FLEX\c[0] in the meantime. How about it?
+
+#message_61:
+#    text: \pluExcellent! Hop aboard!
+
+# =========================================================================================
+# PLUTO'S RIDE
+# =========================================================================================
+
+message_47:
+    text: \pluSaudações e bem-vindos à LINHA ESPACIAL PLUTÃO!<br>Onde a sua jornada os levará hoje?
+
+message_48:
+    text: \pluEntendido.\! Agora... sentem-se, relaxem, e aproveitem a carona.
+
+message_200:
+    text: \pluEntão você quer ir para \v[1000]?
+
+message_210:
+    text: \pluVocê não disse que queria ir para o acampamento de \c[11]OUTRO MUNDO\c[0]?\! Sentem-se, relaxem, e aproveitem a carona.\! Essa tá por mim!
+
+#YES --> You got it (message 48)
+#NO --> Greetings and welcome... (message 47)
+
+# =========================================================================================
+# SNALEY
+# =========================================================================================
+
+message_100:
+  text: \n<SNALEY>Clima bom hoje, não é?
+
+message_101:
+  text: \n<SNALEY>Oh, meu deus! \!Eu estou em seu caminho?\!<br>Me desculpe.\! Eu vou me mover.
+
+# =========================================================================================
+# PLUTO DOCK
+# =========================================================================================
+
+#SFX DING DONG OR SOMETHING
+message_120:
+  text: Saudações e bem-vindos à LINHA ESPACIAL PLUTÃO!<br><br>Você gostaria de esperar por PLUTÃO?
+
+#BEFORE CUTSCENE
+message_121:
+  text: Uma estação de lançamento vazia.
+
+# =========================================================================================
+# LOCATIONS
+# =========================================================================================
+
+message_160:
+  text: OUTRO MUNDO
+
+message_161:
+  text: OÁSIS LARANJA
+
+message_162:
+  text: FLORESTA VASTA
+
+message_163:
+  text: FLORESTA DOS FLAMA-LUZES
+
+message_164:
+  text: POÇO SEM FUNDO
+
+message_165:
+  text: MONTANHA GLOBO DE NEVE
+
+#Missing
+message_170:
+  text: Você esperou pelo PLUTÃO...\! mas ninguém veio.
