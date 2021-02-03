@@ -721,22 +721,22 @@ Information:
         - OMORI
 
   218:
-    name: SQUIZZARD
+    name: LULÁGICO
     background: {name: 'battleback_dw_highway', x: 0, y: 0}
     position: {x: 160, y: 350}
     character: {name: 'DW_EN_6', index: 0}
     listIndex: 40
 
     text: |
-        The most despicable creature
-        on the planet. Has no friends,
-        is never invited to parties,
-        and is terrible at jokes.
+        A criatura mais desprezível
+        do planeta. Não tem amigos,
+        nunca é chamado para festas,
+        e é horrível em fazer piadas.
 
         - OMORI
 
   250:
-    name: SLIME BUNNY
+    name: GOSMOELHO
     background: {name: 'battleback_dw_sglair', x: 0, y: 0}
     position: {x: 160, y: 425}
     character: {name: 'ENEMY_BUNNIES_2', index: 4}
