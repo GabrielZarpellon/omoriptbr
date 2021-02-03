@@ -547,7 +547,7 @@ message_94:
 message_95:
     faceset: MainCharacters_DreamWorld
     faceindex: 46
-    text: \herQue? Não é?\! Então o que você gosta em mim?
+    text: \herQue? Não é\! Então é o que?
 
 message_96:
     faceset: MainCharacter_Mari

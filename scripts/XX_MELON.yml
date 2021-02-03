@@ -534,10 +534,10 @@ message_52:
 #ITEM
 
 message_344:
-    text: You got a \c[4]MATCHBOX\c[0].
+    text: Você pegou um \c[4]MATCHBOX\c[0].
 
 message_625:
-    text: You got a \c[4]WOODEN TRACK\c[0].
+    text: Você pegou um \c[4]WOODEN TRACK\c[0].
 
 #CANDLE
 
@@ -1463,10 +1463,10 @@ message_434:
     text: \n<DINO>Hey, where are you going?\! \com[2]Don't you want to go on an \sinv[1]adventure\c[0]!?
 
 message_435:
-    text: You got a DINO DOLLAR.
+    text: Você pegou um DINO DOLLAR.
 
 message_436:
-    text: You got \v[1001] DINO DOLLARS.
+    text: Você pegou \v[1001] DINO DOLLARS.
 
 #EXCAVATION DINO (108)
 
@@ -1477,7 +1477,7 @@ message_441:
     text: \n<DINO>Dig with your \c[4]SPOON\c[0] and discover wondrous treasures!
 
 message_444:
-    text: You got a \c[4]POTATO SPOON\c[0].
+    text: Você pegou um \c[4]POTATO SPOON\c[0].
 
 #EXCAVATION DINO (108 -> Map Teleport: Trying to Leave)
 

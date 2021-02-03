@@ -26,9 +26,9 @@ message_3:
 # - YES/NO
 # -----------------------------------------------
 message_4:
-    text: Sim
+    text: SIM
 message_5:
-    text: Não
+    text: NÃO
 
 # -----------------------------------------------
 # - X LEFT THE PARTY
