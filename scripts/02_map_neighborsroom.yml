@@ -54,28 +54,28 @@ message_16:
 message_17:
       faceset: MainCharacter_Basil
       faceindex: 2
-      text: \basHuh? There's some roots in the way...\!<br>How did these get here?
+      text: \basHuh? Tem algumas raízes no caminho...\!<br>Como isso chegou aqui?
 
 message_18:
       faceset: MainCharacters_DreamWorld
       faceindex: 1
-      text: \aubNo worries, BASIL!\!<br>I bet this would be a cinch for OMORI to \c[1]CUT\c[0] out of the way!
+      text: \aubSem problemas, BASIL!\!<br>Aposto que isso vai ser moleza pro OMORI \c[1]CORTAR\c[0] fora!
 
 message_19:
       faceset: MainCharacters_DreamWorld
       faceindex: 3
-      text: \aubCome on, OMORI!\! You can do it!
+      text: \aubVamos lá, OMORI!\! Você consegue!
 
 message_30:
       faceset: MainCharacters_DreamWorld
       faceindex: 3
-      text: \aubCome on, OMORI!\! You can do it!
+      text: \aubVamos lá, OMORI!\! Você consegue!
 
 
 #- Snake money
 
 message_100:
-    text: \n<COBRA>\sinv[1]Sssssssssssssss...?\!\sinv[0] (Saindo, OMORI?)\!<br>\sinv[1]Sssssssssssss...\!\sinv[0] (Aque está sua mesada para hoje.)
+    text: \n<COBRA>\sinv[1]Sssssssssssssss...?\!\sinv[0] (Saindo, OMORI?)\!<br>\sinv[1]Sssssssssssss...\!\sinv[0] (Aqui está sua mesada de hoje.)
 
 message_101:
     text: Você conseguiu \v[1001] CONCHAS.
@@ -91,7 +91,7 @@ message_103:
 message_110:
       faceset: MainCharacter_Basil
       faceindex: 2
-      text: \basEspere, OMORI... Eramos para nós estarmos indo até minha casa!\! É depois do caminho ao sul do parquinho.
+      text: \basEspere, OMORI... Éramos para nós estarmos indo até minha casa!\! É depois do caminho ao sul do parquinho.
 
 message_111:
       faceset: MainCharacter_Basil
