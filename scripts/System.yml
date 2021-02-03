@@ -86,7 +86,7 @@ terms:
         obtainGold: "Você pegou %1\\G!"
         obtainItem: "Você encontrou %1!"
         obtainSkill: "...e aprendeu %1!"
-        partyName: "Time do %1"
+        partyName: "Time de %1"
         possession: "Posse"
         preemptive: "%1 obteve a vantagem!"
         saveMessage: "SALVAR em qual arquivo?"
