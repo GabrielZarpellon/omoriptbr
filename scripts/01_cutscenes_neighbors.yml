@@ -16,7 +16,7 @@ message_0:
 message_1:
       faceset: MainCharacters_DreamWorld
       faceindex: 2
-      text: Oi OMORI! Nós estávamos te esperando.\!<br>Quer jogar cartas com a gente?\!<br>Nós estavamos quase começando outra partida!\aub
+      text: Oi OMORI! Nós estávamos te esperando.\!<br>Quer jogar cartas com a gente?\!<br>Nós estávamos quase começando outra partida!\aub
 
 #AUBREY looks behind her.
 
@@ -56,7 +56,7 @@ message_6:
 message_10:
     faceset: MainCharacters_DreamWorld
     faceindex: 9
-    text: \aubPorque o \n[3] é sempre mau comigo!?\! <br>Sabe, num outro dia, aquele inútil roubou meu \c[13]BICHINHO DE PELÚCIA\c[0] e escondeu ele em algum lugar nessa sala.
+    text: \aubPor que o \n[3] é sempre mau comigo!?\! <br>Sabe, num outro dia, aquele inútil roubou meu \c[13]BICHINHO DE PELÚCIA\c[0] e escondeu ele em algum lugar nessa sala.
 
 message_11:
     faceset: MainCharacters_DreamWorld
@@ -110,12 +110,12 @@ message_17:
 message_18:
     faceset: MainCharacters_DreamWorld
     faceindex: 37
-    text: \herE aí, \n[1]? Nós estavamos te esperando!
+    text: \herE aí, \n[1]? Nós estávamos te esperando!
 
 message_19:
     faceset: MainCharacters_DreamWorld
     faceindex: 40
-    text: O \her\n[3] e a \n[2] tem brigado muito de novo.\!<br>Você iria pensar que eles iam se cansar depois de um tempo, mas eles são tão cheios de energia.
+    text: O \her\n[3] e a \n[2] têm brigado muito de novo.\!<br>Você iria pensar que eles iam se cansar depois de um tempo, mas eles são tão cheios de energia.
 
 # =========================================================================================
 # Cutscene: STUFFED TOY
@@ -145,7 +145,7 @@ message_29:
 message_30:
       faceset: MainCharacters_DreamWorld
       faceindex: 30
-      text: \Com[2]M-mas o que?\! Onde que você conseguiu isso?\kel
+      text: \Com[2]M-Mas o que?\! Onde que você conseguiu isso?\kel
 
 message_31:
       faceset: MainCharacters_DreamWorld
@@ -387,7 +387,7 @@ message_100:
 message_101:
       faceset: MainCharacter_Mari
       faceindex: 0
-      text: Enquanto estavamos esperando por vocês, BASIL e Eu ficamos olhando pelo \c[4]ÁLBUM DE FOTOS\c[0] dele!\! Querem se juntar a nós?\mar
+      text: Enquanto estávamos esperando por vocês, BASIL e Eu ficamos olhando pelo \c[4]ÁLBUM DE FOTOS\c[0] dele!\! Querem se juntar a nós?\mar
 
 message_102:
       faceset: MainCharacters_DreamWorld
@@ -513,7 +513,7 @@ message_122:
 message_123:
       faceset: MainCharacter_Mari
       faceindex: 1
-      text: \marHmm...\! Eu acho que vou deixar essa de lado.\! Todos vocês vão e se divertam!\mar
+      text: \marHmm...\! Eu acho que vou deixar essa de lado.\! Todos vocês vão e se divirtam!\mar
 
 message_130:
       faceset: MainCharacter_Mari
