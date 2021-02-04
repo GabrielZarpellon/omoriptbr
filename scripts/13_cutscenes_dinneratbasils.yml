@@ -121,7 +121,7 @@ message_53:
 message_54:
       faceset: MainCharacters_Faraway
       faceindex: 12
-      text: Yup, esse é o nosso BASIL...\! Flores e fotos...\kel
+      text: Poisé, esse é o nosso BASIL...\! Flores e fotos...\kel
 
 #KEL has an idea.
 
@@ -304,7 +304,7 @@ message_106:
 message_107:
       faceset: MainCharacter_Basil
       faceindex: 33
-      text: Folheando esse álbum, você os bons momentos...\! Talvez um dia...\! as coisas podem voltar pro jeito que eram antes.\bas
+      text: Folheando esse álbum, você vê os bons momentos...\! Talvez um dia...\! as coisas podem voltar pro jeito que eram antes.\bas
 
 message_108:
       text: \sinv[1]\Com[2]\{\n[8]!\! BASIL!!\! JANTAR TÁ PRONTO!!\kel
@@ -451,7 +451,7 @@ message_152:
 # =========================================================================================
 
 
-# message_170:
+message_170:
       faceset: MainCharacters_Faraway
       faceindex: 17
       text: Ah ei, \n[8]!\! Acho que é hora de a gente ir pra casa.\!<br>Já passou do meu horário!\kel
