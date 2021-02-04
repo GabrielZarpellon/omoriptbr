@@ -1,0 +1,298 @@
+# =========================================================================================
+# Cutscene: It's Alive! (Medusa)
+# =========================================================================================
+
+#Trigger: Enter proximity of Medusa's Balcony
+
+#MEDUSA is fiddling with chemicals at the table.
+#SWEETHEART is frustrated.
+
+
+message_0:
+      text: Minha nossa, esse lugar tem um cheiro horrendo!\!<br>Quanto tempo isto vai demorar?<br>Meu nariz é bem sensível, sabia!\swh
+
+#MEDUSA turns to SWEETHEART.
+
+message_1:
+      text: Você se acostuma com o cheiro.\! Agora silêncio, boneca. Eu estou trabalhando.\n<MEDUSA>
+
+#MEDUSA turns back around.
+
+message_2:
+      text: E está pronto.\n<MEDUSA>
+
+#Fluid flows from table chemicals to test tube.
+
+message_3:
+      text: Ugh... finalmente!\swh
+
+#SWEETHEART gets up and pokes the glass.
+
+message_4:
+      text: Olá, minha pretendente perfeita!\! Acorde!\swh
+
+#MEDUSA slaps SWEETHEART out of the way.
+#SWEETHEART is surprised.
+
+message_5:
+      text: Não encoste no vidro, sua tola! Você ira arruinar o experimento!\n<MEDUSA>
+
+message_6:
+      text: \quake[1]\{\Com[2]BEM...\! \Com[2]EU...\! \Com[2]NUNCA!!\swh
+
+#The test tube starts to bubble. SWEETHEART and MEDUSA look at the test tube. The test tube starts going and the screen turns white. The test tube is broken and fluid has become gold.
+
+message_7:
+      text: O-O que aconteceu?\swh
+
+#PERFECTHEART descends from the top of the screen and lands in front of MEDUSA and SWEETHEART.
+
+message_8:
+      text: Minha... nossa...\! Esse experimento foi maior do que eu imaginava.\! Dê uma olhada, boneca.\n<MEDUSA>
+
+message_9:
+      text: Os resultados são absolutamente perfeitos.\! Contemple!\! Uma versão absolutamente perfeita de você mesma!\n<MEDUSA>
+
+#SWEETHEART examines PERFECTHEART.
+#PERFECTHEART follows SWEETHEART's movements.
+
+message_10:
+      text: Hmmm...\!Eu não gosto dela.\swh
+
+message_11:
+      text: O que disse? Eu te ouvi corretamente?\!<br>Mas ela é tudo que você pediu e mais!\n<MEDUSA>
+
+message_12:
+      text: Ah, sua simplezinha.\! Não há nada mais perfeito que eu...<br>Mas eu vejo que você não entende isso.\swh
+
+message_13:
+      text: Você não é nada além de uma fraude.\!<br>Isso foi um enorme desperdício do meu tempo!<br>\!Estou sumindo daqui-\swh
+
+message_14:
+      text: \Com[2]Ah, Eu já me cansei de suas baboseiras!<br>Cliente ou não, você realmente me tirou do sério!\!<br>Quem te ensinou a tagarelar assim?\n<MEDUSA>
+
+message_15:
+      text: Agora... Se me der licença, isso é um desperdício da minha preciosa energia...\! Eu tenho assuntos muito mais importantes para cuidar.\n<MEDUSA>
+
+#MEDUSA walks off.
+
+message_16:
+      text: Não ouse sair daqui primeiro!\! <br>Sou eu quem devia estar dando o fora daqui!\swh
+
+
+# =========================================================================================
+# Cutscene: It lives! (Marina)
+# =========================================================================================
+
+#Trigger: Enter proximity of Marina's Balcony.
+
+#SWEETHEART is nervous.
+#MARINA is moving around checking different gadgets.
+
+message_30:
+      text: Ugh, esse lugar é nojento...\! <br>O que exatamente você faz aqui?\swh
+
+message_31:
+      text: Isso não é da sua conta, moça.<br>Só sente-se e relaxe!\n<MARINA>
+
+message_32:
+      text: Urf...\! Eu me sinto tonta...\swh
+
+#MARINA performs surgery on a slanted panel.
+
+message_33:
+      text: Err...\! Uh...\! Oops...\n<MARINA>
+
+message_34:
+      text: ...\n<MARINA>
+
+message_35:
+      text: Bem...\! Isso deve dar, eu acho.\n<MARINA>
+
+message_36:
+      text: Muito bem, está pronto.\! Aqui está, moça... <br>Uma pretendente perfeita saindo.\n<MARINA>
+
+#Slanted panel turns over.
+
+message_37:
+      text: Diga olá para sua alma gêmea!\n<MARINA>
+
+message_38:
+      text: \}O...\!Owá...\n<MUTANTE-HEART>
+
+#SWEETHEART turns to MARINA.
+#SWEETHEART is frustrated.
+
+message_39:
+      text: Isso é algum tipo de piada!?\! O que você acha que eu sou?\! <br>Eu sou dez vezes, não... cem vezes mais bonita <br>que essa... coisa!\swh
+
+#SWEETHEART turns to MUTANTHEART.
+
+message_40:
+      text: Você me desapontou muito!\! \Com[2]Estou sumindo daqui!\swh
+
+#SWEETHEART storms off.
+#MARINA steps forward.
+
+message_41:
+      text: \{EI, MAS QUE DIACHO!?\!\}<br>Você não pode ir sumindo assim, moça!\n<MARINA>
+
+message_42:
+      text: \quake[1]\{\{CADÊ MEU DINHEIRO!?!?\n<MARINA>
+
+# =========================================================================================
+# Cutscene: She's perfect! (Molly)
+# =========================================================================================
+
+#Trigger: Enter proximity of Molly's Balcony.
+#MOLLY types and presses buttons.
+#SWEETHEART is frustrated.
+
+message_53:
+      text: Quanto tempo isso vai demorar? Eu não tenho o dia todo!\swh
+
+#MOLLY turns to SWEETHEART.
+
+message_54:
+      text: Meu trabalho leva paciência...\! Pare de falar, querida! Eu preciso me concentrar.\n<MOLLY>
+
+#MOLLY turns back around. MOLLY types and presses buttons.
+
+message_55:
+      text: Que tal agora?\swh
+
+message_56:
+      text: Quase pronto, querida.\n<MOLLY>
+
+#MOLLY types and presses buttons.
+
+message_57:
+      text: E pronto.\! Finalmente...\n<MOLLY>
+
+#MOLLY's contraption starts shaking.
+#Electrical sparks fly around.
+
+message_58:
+      text: \{\sinv[1]MINHA MAIOR INVENÇÃO ESTÁ PRONTA!!\n<MOLLY>
+
+#ROBOHEART walks out.
+
+message_59:
+      text: Agora fale!\! Fale, meu lindo robô!\n<MOLLY>
+
+message_60:
+      text: TyBxdWUgw6kgZXNzZSBzZW50aW1lbnRvIHF1ZSBudW5jYSBzZW50aQ==<br>YW50ZXM/IE1lIHNpbnRvIHRvZGEgZXN0cmFuaGEgcG9yIGRlbnRybw==<br>RXUgcXVlcm8gdW0gYWJyYcOnbyEgcG9yIGZhdm9yIG1lIGFicmHDp2Uh<br>UHJlY2lzbyBkZSBhZmVpw6fDo28gZSBhbW9yIQ==\n<ROBÔ-HEART>
+
+message_61:
+      text: ... ... ... \n<MOLLY>
+
+message_62:
+      text: Oh...\! Bem, isso não soa muito certo.\! <br>Algo deve ter dado errado no código.\n<MOLLY>
+
+#MOLLY turns to SWEETHEART.
+
+message_63:
+      text: É por que você fez eu apressar meu trabalho!\! <br>Ao invés de amar, agora deve estar programado... \!\quake[1]pra matar!\n<MOLLY>
+
+message_64:
+      text: TsOjbywgcG9yIGZhdm9yISBpc3NvIMOpIHVtIG1hbA==<br>ZW50ZW5kaWRvLCBldSBzw7MgcXVlcm8gc2VyIHN1YSBhbWlnYSE=<br>RSB0YWx2ZXogbWFpcyE=\n<ROBÔ-HEART>
+
+message_65:
+      text: Hmph!\! Não bote a culpa em mim! Ela é o seu robô!\swh
+
+message_66:
+      text: Graças a você, minhas esperanças de achar amor verdadeiro acabaram!\swh
+
+message_67:
+      text: Você me desapontou muito!\! <br>\{ESTOU SUMINDO DAQUI!!!\swh
+
+#SWEETHEART storms off.
+#MOLLY turns to follow SWEETHEART.
+
+message_68:
+      text: Minha nossa, que estranha.\n<MOLLY>
+
+#MOLLY goes back to her computer.
+
+message_69:
+      text: Bem, ela não é o meu problema agora.\n<MOLLY>
+
+#MOLLY types and presses buttons.
+
+message_70:
+      text: RXN0w6EgdMOjbyBzb2xpdMOhcmlvIGFxdWkuLi4gRXUgZGV2bw==<br>bWUgYXZlbnR1cmFyIGVtIGJ1c2NhIGRhIG1pbmhh<br>YWxtYSBnw6ptZWEgZSB2aXZlciBmZWxpeiBwcmEgc2VtcHJlISBXb29zaCE=\n<ROBÔ-HEART>
+
+#ROBOHEART flies off.
+#MOLLY types and presses buttons.
+
+message_71:
+      text: Ah, Quase me esqueci!\! Aquela garota... Ela me deve o pagamento!\! <br>Eu devo pega-la antes que ela saia.\n<MOLLY>
+
+#MOLLY types and presses buttons.
+
+
+# =========================================================================================
+# Cutscene: Roboheart's Sad End
+# =========================================================================================
+
+#Trigger: Enter proximity of Roboheart.
+
+message_80:
+      text: V293LCB2b2PDqiDDqSBtdWl0byBib25pdMOjby4=\n<ROBÔ-HEART>
+
+message_81:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 46
+      text: Cuidado, gente. É aquele robô!\! Ela é uma máquina assassina!\her
+
+#ROBOHEART walks forward.
+
+message_82:
+      text: Vm9jw6ogaXLDoSBtZSBhbWFyPw==\n<ROBÔ-HEART>
+
+message_83:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: \{FIQUE LONGE DE NÓS, ROBÔ!!\aub
+
+message_84:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 30
+      text: Temos que parar ela antes que mate alguém.\! <br>Você já era, robô assassino!\kel
+
+
+# =========================================================================================
+# Cutscene: Roboheart's Sad End (Cont.)
+# =========================================================================================
+
+#Trigger: Defeat Roboheart.
+
+
+message_100:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: Ufa... Essa passou perto.\aub
+
+message_101:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 24
+      text: Que bom que ninguém se machucou...\!<br>ou pior...\! morreu...\kel
+
+# =========================================================================================
+# Humphrey
+# =========================================================================================
+
+#Trigger: Finish all Slime Girls Dungeons
+
+message_110:
+      text: \n<HUMPHREY>Hmm...\. Minha nossa, qual o motivo de toda essa comoção?\!<br>Deve estar acontecendo umas atividades divertidas no andar de baixo!
+
+#Talk to Humphrey Elevator (No Keycard)
+
+message_111:
+      text: \n<HUMPHREY>Oi, Eu sou HUMPHREY! Seu passe de acesso global a \c[11]HUMPHREY\c[0] ou o \c[11]LAR DAS GAROTAS GOSMENTAS\c[0].\! Estritamente falando, acho que sou o que vocês humanos chamam de \"elevador\".<br>Infelizmente, só podemos levar uma consulta por vez, então você tem que esperar a sua vez.<br><br>Porém...\! se você me der um \c[4]CARTÃO GOSMENTO\c[0], Talvez eu possa mecher uns pauzinhos pra vocês...\! \quake[1]Nyak, nyak!\quake[0]
+
+#Get Keycard
+
+message_112:
+      text: Você encontrou um \c[4]CARTÃO GOSMENTO\c[0]!
