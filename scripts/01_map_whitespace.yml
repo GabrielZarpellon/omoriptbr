@@ -2,11 +2,11 @@
 # - THE WHITE DOOR
 # -----------------------------------------------
 message_0:
-    text: "Uma porta branca lança uma leve sombra\\!<br>O que gostaria de fazer?"
+    text: "Uma porta branca projeta uma fraca sombra.\\!<br>O que você gostaria de fazer?"
 message_1:
     text: "ABRIR A PORTA"
 message_2:
-    text: "FAZER NADA"
+    text: "NADA"
 message_3:
     text: "Você encarou a porta."
 
@@ -14,98 +14,98 @@ message_3:
 # - THE CAT
 # -----------------------------------------------
 message_4:
-    text: "\\n<MEWO>Meow?\\! (Waiting for something to happen?)"
+    text: "\\n<MEWO>Miau?\\! (Esperando algo acontecer?)"
 
 message_404:
-    text: "\\n<MEWO>Meow?\\! (Not much to do around here, is there?)"
+    text: "\\n<MEWO>Miau?\\! (Não há muito o que fazer aqui, não é?)"
 
 message_405:
-    text: "\\n<MEWO>Meow?\\! (Or is there?)"
+    text: "\\n<MEWO>Miau?\\! (Ou tem?)"
 
 message_406:
-    text: "\\n<MEWO>Meow?\\! (Are you looking for a way out?)"
+    text: "\\n<MEWO>Miau?\\! (Você está procurando uma saída?)"
 
 message_407:
-    text: "\\n<MEWO>Meow...\\! (There always is one...\\| but...)"
+    text: "\\n<MEWO>Miau...\\! (Sempre tem uma...\\| mas...)"
 
 message_408:
-    text: "\\n<MEWO>Meow?\\! (Waiting for something to happen?)"
+    text: "\\n<MEWO>Miau?\\! (Esperando algo acontecer?)"
 
 message_409:
-    text: "\\n<MEWO>Meow?\\! (When is Mom coming back?)"
+    text: "\\n<MEWO>Miau?\\! (Quando é que a mãe volta?)"
 
 
 # -----------------------------------------------
 # - THE LAPTOP
 # -----------------------------------------------
 message_5:
-    text: "You booted up your laptop."
+    text: "Você ligou seu laptop."
 message_6:
-    text: "What would you like to do?"
+    text: "O que você gostaria de fazer?"
 message_7:
-    text: "LOOK AT THE KEYBOARD"
+    text: "OLHAR PARA O TECLADO"
 message_8:
-    text: "STARE AT THE SCREEN"
+    text: "ENCARAR A TELA"
 message_40:
-    text: "OPEN YOUR JOURNAL"
+    text: "ABRIR SUAS NOTAS"
 message_9:
-    text: "LOG OFF"
+    text: "DESLOGAR"
 message_10:
-    text: "You stared at the screen."
+    text: "Você encarou a tela."
 message_11:
-    text: "The heat from the laptop warmed your lap.\\!\\lb It felt nice."
+    text: "O calor do laptop aqueceu seu colo.\\!\\lb Foi bom."
 message_12:
-    text: "You cannot use the laptop from this side."
+    text: "Você não pode usar o laptop desse lado."
 
 # -----------------------------------------------
 # - THE SKETCHBOOK
 # -----------------------------------------------
 message_13:
-    text: "Your sketchbook.\\!\\lb Take a look inside?"
+    text: "Seu caderno de desenhos.\\!\\lb Dar uma olhada dentro?"
 message_14:
-    text: "YES"
+    text: "SIM"
 message_15:
-    text: "NO"
+    text: "NÃO"
 
 # -----------------------------------------------
 # - THE TISSUE BOX
 # -----------------------------------------------
 message_16:
-    text: "A tissue box for wiping your sorrows away."
+    text: "Uma caixa de lenços para enxugar suas tristezas."
 
 # -----------------------------------------------
 # - THE LIGHTBULB
 # -----------------------------------------------
 message_17:
-    text: "A lightbulb hangs from the ceiling, wherever it is.\\!\\lb<br>Look into the lightbulb?"
+    text: "Uma lâmpada pendurada ao teto, onde quer que ele seja.\\!\\lb<br>Olhar na lâmpada?"
 message_18:
-    text: "It's pitch black inside.\\! You can't see a thing."
+    text: "É escuro como o breu.\\! Você não consegue ver nada."
 
 # -----------------------------------------------
 # - THE KNIFE
 # -----------------------------------------------
 message_19:
-    text: "Something fell nearby."
+    text: "Alguma coisa caiu por perto."
 message_20:
-    text: "You found a \\v[49].\\!\\lb <br>You can see your reflection clearly in the blade."
+    text: "Você encontrou uma \\v[49].\\!\\lb <br>Você claramente pode ver seu reflexo na lâmina."
 
 # -----------------------------------------------
 # - LIGHTBULB BREAK
 # -----------------------------------------------
 message_30:
-    text: "It's pitch black inside.\\! You can't see a thing."
+    text: "É escuro como o breu.\\! Você não consegue ver nada."
 
 # -----------------------------------------------
 # - MISCELLANOUS
 # -----------------------------------------------
 message_21:
-    text: "You can't leave without a weapon."
+    text: "Você não pode sair sem uma arma."
 
 message_31:
-    text: "You got a BLURRY PHOTO."
+    text: "Você conseguiu uma FOTO BORRADA."
 
 message_32:
-    text: You got a SHINY KNIFE.
+    text: Você conseguiu uma FACA BRILHANTE.
 
 # -----------------------------------------------
 #           "WHITE SPACE" (MAP 388)
@@ -117,63 +117,63 @@ message_32:
 # - THE WHITE DOOR
 # -----------------------------------------------
 message_100:
-    text: "A white door casts a faint shadow.\\!<br>What would you like to do?"
+    text: "Uma porta branca projeta uma fraca sombra.\\!<br>O que você gostaria de fazer?"
 message_101:
-    text: "OPEN THE DOOR"
+    text: "ABRIR A PORTA"
 message_102:
-    text: "STARE AT THE DOOR"
+    text: "ENCARAR A PORTA"
 message_103:
-    text: "You stared at the door."
+    text: "Você encarou a porta"
 
 # -----------------------------------------------
 # - THE CAT
 # -----------------------------------------------
 message_104:
-    text: \n<CAT>Meow?
+    text: \n<CAT>Miau?
 
 # -----------------------------------------------
 # - THE LAPTOP
 # -----------------------------------------------
 message_105:
-    text: "Just a bunch of static."
+    text: "Só um monte de estático."
 message_106:
-    text: "What would you like to do?"
+    text: "O que você gostaria de fazer?"
 message_107:
-    text: "LOOK AT THE KEYBOARD"
+    text: "OLHAR PARA O TECLADO"
 message_108:
-    text: "STARE AT THE SCREEN"
+    text: "ENCARAR A TELA"
 message_109:
-    text: "LOG OFF"
+    text: "DESLOGAR"
 message_110:
-    text: "You stared at the screen."
+    text: "Você encarou a tela."
 # message_111:
 #     text: "The heat from the laptop warmed your lap.\\!\\lb It felt nice."
 message_112:
-    text: "You cannot use the laptop from this side."
+    text: "Você não pode usar o laptop desse lado."
 
 # -----------------------------------------------
 # - THE SKETCHBOOK
 # -----------------------------------------------
 message_113:
-    text: "A sketchbook.\\!\\lb Take a look inside?"
+    text: "Um caderno de desenhos.\\!\\lb Dar uma olhada dentro?"
 message_114:
-    text: "YES"
+    text: "SIM"
 message_115:
-    text: "NO"
+    text: "NÃO"
 
 # -----------------------------------------------
 # - THE TISSUE BOX
 # -----------------------------------------------
 message_116:
-    text: "A tissue box."
+    text: "Uma caixa de lenços."
 
 # -----------------------------------------------
 # - THE LIGHTBULB
 # -----------------------------------------------
 message_117:
-    text: "A lightbulb hangs from the ceiling, wherever it is.\\!\\lb<br>Look into the lightbulb?"
+    text: "Uma lâmpada pendurada ao teto, onde quer que ela seja.\\!\\lb<br>Olhar na lâmpada?"
 message_118:
-    text: "It's pitch black inside.\\! You can't see a thing."
+    text: "É escuro como o breu.\\! Você não consegue ver nada."
 
 # -----------------------------------------------
 # - OMORI
@@ -184,15 +184,15 @@ message_120:
     text: \n<OMORI>...
 
 message_121:
-    text: "A lightbulb hangs from the ceiling.\\!\\lb<br>Do you want to destroy it?"
+    text: "Uma lâmpada pendurada ao teto.\\!\\lb<br>Você quer destruí-lá?"
 
 message_125:
-    text: You learned \c[1]RED HANDS\c[0].
+    text: Você aprendeu \c[1]MÃOS VERMELHAS\c[0].
 
 message_126:
-    text: You found a map.
+    text: Você encontrou um mapa.
 
 #BLACK SPACE Door
 
 message_200:
-    text: "A black door casts a heavy shadow.\\!<br>What would you like to do?"
+    text: "Uma porta negra projeta uma forte sombra.\\!<br>O que você gostaria de fazer?"
