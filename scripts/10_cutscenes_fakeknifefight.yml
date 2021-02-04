@@ -44,7 +44,7 @@ message_20:
 #Kim talking:
 
 message_21:
-      text: Desculpa, cara. Eu não posso te ajudar. Você ta sozinho nessa!\who
+      text: Desculpa, cara. Eu não posso te ajudar. Você tá sozinho nessa!\who
 
 message_22:
       faceset: MainCharacters_Faraway
@@ -154,7 +154,7 @@ message_40:
 message_41:
       faceset: MainCharacters_Faraway
       faceindex: 10
-      text: Quanto tempo faz dês de que você saiu de casa?\!<br>Três anos...?\! Talvez quatro?\!<br>Deve ter sido legal viver na sua pequena bolhinha.\aub
+      text: Quanto tempo faz desde que você saiu de casa?\!<br>Três anos...?\! Talvez quatro?\!<br>Deve ter sido legal viver na sua pequena bolhinha.\aub
 
 message_42:
       faceset: MainCharacters_Faraway
@@ -276,12 +276,12 @@ message_80:
 message_100:
       faceset: MainCharacters_Faraway
       faceindex: 18
-      text: Hey, BASIL. Como cê tá'?\kel
+      text: Ei, BASIL. Como cê tá?\kel
 
 message_101:
       faceset: MainCharacter_Basil
       faceindex: 32
-      text: Ah...\! Eu to bem...\! Obrigado...\! KEL...\bas
+      text: Ah...\! Eu estou bem...\! Obrigado...\! KEL...\bas
 
 message_102:
       faceset: MainCharacters_Faraway
@@ -306,7 +306,7 @@ message_105:
 message_106:
       faceset: MainCharacter_Basil
       faceindex: 32
-      text: O-Oh...\! Desculpa...\! Eu amaria, mas...\!<br>I...\! Eu provavelmente deveria voltar pra casa.\bas
+      text: O-Oh...\! Desculpa...\! Eu adoraria, mas...\!<br>E...\! Eu provavelmente deveria voltar pra casa.\bas
 
 message_107:
       faceset: MainCharacters_Faraway

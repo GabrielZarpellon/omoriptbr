@@ -20,7 +20,7 @@ message_1:
 #Camera pans to KIM and VANCE.
 
 message_2:
-      text: Depressa, VANCE...<br>Enfia tudo no bolso antes que alguem veja a gente!\kim
+      text: Depressa, VANCE...<br>Enfia tudo no bolso antes que alguém veja a gente!\kim
 
 #KEL walks a few steps.
 
@@ -43,7 +43,7 @@ message_5:
 message_6:
       faceset: MainCharacters_Faraway
       faceindex: 23
-      text: Whoa, peraí!<br>Eu acho que você não pagou por isso aí.\kel
+      text: Ei, peraí!<br>Eu acho que você não pagou por isso aí.\kel
 
 message_7:
       text: \Com[2]\{SAI DA FRENTE, NERD!!<br>VOCÊ NÃO ME CONHECE!!!\kim
@@ -51,7 +51,7 @@ message_7:
 message_8:
       faceset: MainCharacters_Faraway
       faceindex: 22
-      text: Hey, hey! Espera... Eu não tô aqui pra dar te dedurar!\! A gente só quer achar a AUBREY.\! Você sabe onde ela está? \kel
+      text: Hey, hey! Espera... Eu não tô aqui pra te dedurar!\! A gente só quer achar a AUBREY.\! Você sabe onde ela tá? \kel
 
 message_9:
       text: H-Huh?\! AUBREY?\! E-Eu não sei de nada disso.\! <br>E se soubesse, Eu não te contaria!\kim
@@ -64,7 +64,7 @@ message_10:
 message_24:
       faceset: MainCharacters_Faraway
       faceindex: 14
-      text: Você me diz onde a AUBREY está, e Eu não te deduro por roubar todos esses \c[3]DOCES\c[0].\kel
+      text: Você me diz onde a AUBREY está, e eu não te deduro por roubar todos esses \c[3]DOCES\c[0].\kel
 
 message_11:
       text: Você disse que não ia dedurar!\kim
@@ -77,7 +77,7 @@ message_12:
 #MISS CANDY is surprised and walks toward KIM and VANCE.
 
 message_13:
-      text: \{\Com[2]VOCÊS DOIS DE NOVO!?\!\}<br>Eu pensei que tinha dito pra nunca mais voltarem aqui! Risos, risos!\n<SRTA. CANDICE>
+      text: \{\Com[2]VOCÊS DOIS DE NOVO!?\!\}<br>Pensei que tinha dito pra nunca voltarem aqui! Risos, risos!\n<SRTA. CANDICE>
 
 #KIM and VANCE turn around.
 
@@ -175,7 +175,7 @@ message_44:
 message_45:
       faceset: MainCharacters_Faraway
       faceindex: 14
-      text: Conta onde a AUBREY está e eu te dou <br>essa \c[4]GRANDE SACO DE DOCES\c[0]!\kel
+      text: Conta onde a AUBREY está e eu te dou <br>esse \c[4]GRANDE SACO DE DOCES\c[0]!\kel
 
 message_46:
       text: S-Sério, o saco inteiro?\!<br>Quer dizer, espera-\! \Com[2]Você não pode nos comprar com \c[3]DOCE\c[0]!\!<br>Quem você pensa que a gente é?\kim
@@ -192,7 +192,7 @@ message_49:
       text: Para com isso, VANCE! Temos que ficar fortes!\! <br>Quando formos pra casa do Papai, a gente pode ter todo o \c[3]DOCE\c[0] que a gente quiser.\kim
 
 message_50:
-      text: Okay...\! Eu faço por você, maninha.\van
+      text: Ok...\! Eu faço por você, maninha.\van
 
 message_51:
       faceset: MainCharacters_Faraway
@@ -239,7 +239,7 @@ message_60:
       text: \{VAMOS DECIDIR COM NOSSOS PUNHOS!\kim
 
 message_61:
-      text: Se você ganhar, Eu te conto onde a AUBREY está...\! mas se a gente ganhar, você da pra gente o saco de caramelos e nunca fala com a gente de novo.\kim
+      text: Se você ganhar, Eu te conto onde a AUBREY está...\! mas se a gente ganhar, você dá pra gente o saco de caramelos e nunca fala com a gente de novo.\kim
 
 message_62:
       faceset: MainCharacters_Faraway
@@ -303,7 +303,7 @@ message_90:
 #VANCE turns to KIM.
 
 message_91:
-      text: Vamo nessa, KIM... Vamo voltar pra casa.\! Tá quase na hora do jantar e a Mamãe vai ficar brava <br>\ se a gente se atrasar.\van
+      text: Vamo nessa, KIM... Vamo voltar pra casa.\! Tá quase na hora do jantar e a Mamãe vai ficar nervosa se a gente se atrasar.\van
 
 message_92:
       text: Droga... Vamo dar o fora daqui.\kim
@@ -330,7 +330,7 @@ message_96:
 message_97:
       faceset: MainCharacters_Faraway
       faceindex: 22
-      text: Huh?\! AUBREY ta na...\! \c[11]IGREJA\c[0]?\kel
+      text: Huh?\! AUBREY tá na...\! \c[11]IGREJA\c[0]?\kel
 
 #KIM looks at KEL and jumps.
 
@@ -395,7 +395,7 @@ message_108:
 message_120:
       faceset: MainCharacters_Faraway
       faceindex: 20
-      text: Bom, aqui estamos.\!<br>Esse realmente o último lugar que eu esperava ela estar.\kel
+      text: Bom, aqui estamos.\!<br>Esse é realmente o último lugar que eu esperava ela estar.\kel
 
 message_121:
       faceset: MainCharacters_Faraway
@@ -588,7 +588,7 @@ message_181:
 message_182:
       faceset: MainCharacters_Faraway
       faceindex: 23
-      text: \}Do que você tá falando?\! Esse \c[4]ÁLBUM DE FOTOS\c[0] pertence ao BASIL e Eu não vou sair até você concordar em devolver!\kel
+      text: \}Do que você tá falando?\! Esse \c[4]ÁLBUM DE FOTOS\c[0] pertence ao BASIL e eu não vou sair até você concordar em devolver!\kel
 
 #AUBREY turns around.
 
@@ -605,7 +605,7 @@ message_184:
 message_185:
       faceset: MainCharacters_Faraway
       faceindex: 2
-      text: \}Você sabe porque Eu venho aqui toda semana?\!<br>Depois de todo esse tempo, Eu ainda estou tentando encontrar um pouco de paz...\! <br>mas parece que não é hoje que isso vai acontecer.\aub
+      text: \}Você sabe porque eu venho aqui toda semana?\!<br>Depois de todo esse tempo, eu ainda estou tentando encontrar um pouco de paz...\! <br>mas parece que não é hoje que isso vai acontecer.\aub
 
 message_186:
       faceset: MainCharacters_Faraway
@@ -637,7 +637,7 @@ message_190:
 message_191:
       faceset: MainCharacters_Faraway
       faceindex: 18
-      text: \}Okay, tá bom.\! Eu entendo que você tá nervosa.\!<br>Olha, se é um desculpa que você quer, aqui.\!<br>Me desculpa, okay?\kel
+      text: \}Okay, tá bom.\! Eu entendo que você tá nervosa.\!<br>Olha, se é uma desculpa que você quer, aqui.\!<br>Me desculpa, okay?\kel
 
 message_192:
       faceset: MainCharacters_Faraway
@@ -730,12 +730,12 @@ message_207:
 message_208:
       faceset: MainCharacters_Faraway
       faceindex: 4
-      text: Se você quer que eu seja a valentona...\! <br>\Com[2]\{\quake[1]ENTÃO EU VOU SER UMA VALENTONA  !!\aub
+      text: Se você quer que eu seja a valentona...\! <br>\Com[2]\{\quake[1]ENTÃO EU VOU SER UMA VALENTONA!!\aub
 
 message_209:
       faceset: MainCharacters_Faraway
       faceindex: 7
-      text: É melhor vocês atacarem primeiro...<br>\!\{\quake[1]OU EU VOU TE ESMAGAR ANTES!!\aub
+      text: É melhor vocês atacarem primeiro...<br>\!\{\quake[1]OU EU VOU ESMAGAR VOCÊS ANTES!!\aub
 
 
 # =========================================================================================
@@ -746,7 +746,7 @@ message_209:
 
 
 message_220:
-      text: \}Ah, dês de que o pai dela saiu...\| ...\| Ela tá fora de controle...\| ...\| <br>Disrespeitosa...\| ...\| Eu sinto pena pela mãe dela...
+      text: \}Ah, dês de que o pai dela saiu...\| ...\| Ela tá fora de controle...\| ...\| <br>Desrespeitosa...\| ...\| Eu sinto pena pela mãe dela...
 
 message_221:
       faceset: MainCharacters_Faraway
@@ -794,4 +794,4 @@ message_402:
       text: \n<FREQUENTADOR DA IGREJA>Eu reservo meu julgamento.\! O Senhor quem irá te julgar.
 
 message_403:
-      text: \n<FREQUENTADOR DA IGREJA>Tava na hora daquela garota fugir.\! Agora, talvez agora todos os meus amigos voltem a \c[11]CHURCH\c[0] de novo!
+      text: \n<FREQUENTADOR DA IGREJA>Tava na hora daquela garota fugir.\! Agora, talvez agora todos os meus amigos voltem a \c[11]IGREJA\c[0] de novo!

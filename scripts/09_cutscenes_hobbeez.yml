@@ -73,7 +73,7 @@ message_14:
 message_15:
       faceset: MainCharacters_Faraway
       faceindex: 12
-      text: Hey, Eu sei! Vamos ao \c[11]HOBBEEZ\c[0]!\!<br>É a loja de hobbies do \c[11]PRAÇA TÃO-DISTANTE\c[0].\kel
+      text: Hey, Eu sei! Vamos ao \c[11]HOBBEEZ\c[0]!\!<br>É a loja de hobbies da \c[11]PRAÇA TÃO-DISTANTE\c[0].\kel
 
 message_16:
       faceset: MainCharacters_Faraway
@@ -88,7 +88,7 @@ message_17:
 message_18:
       faceset: MainCharacters_Faraway
       faceindex: 14
-      text: \Com[2]\{LET'S GO!!\}\kel
+      text: \Com[2]\{VAMOS LÁ!!\}\kel
 
 #Trigger: Choose [DO NOTHING]
 #Switch to original living room map

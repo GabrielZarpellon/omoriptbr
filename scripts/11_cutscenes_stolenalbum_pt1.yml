@@ -12,14 +12,14 @@ message_0:
 message_1:
       faceset: MainCharacters_Faraway
       faceindex: 14
-      text: Sem problemas!\!<br>Se você precisar de alguma coisa de mim, é só pedir, okay?<br>\!Te vemos depois, BASIL!\kel
+      text: Sem problemas!\!<br>Se você precisar de alguma coisa de mim, é só pedir, ok?<br>\!Te vemos depois, BASIL!\kel
 
 #KEL and PLAYER begin walking.
 
 message_2:
       faceset: MainCharacter_Basil
       faceindex: 32
-      text: O-Okay...\! ...\bas
+      text: O-Ok...\! ...\bas
 
 #BASIL walks one step forward.
 
@@ -94,7 +94,7 @@ message_14:
 message_15:
       faceset: MainCharacter_Basil
       faceindex: 32
-      text: Ah...\! Okay...\! Obrigado...\bas
+      text: Ah...\! Ok...\! Obrigado...\bas
 
 #KEL turns toward BASIL.
 
@@ -108,24 +108,24 @@ message_16:
 message_17:
       faceset: MainCharacters_Faraway
       faceindex: 12
-      text: Ainda somos amigos.\! Eu quero que você saiba disso, okay?\kel
+      text: Ainda somos amigos.\! Eu quero que você saiba disso, ok?\kel
 
 message_18:
       faceset: MainCharacter_Basil
       faceindex: 32
-      text:  ...\! Okay.\bas
+      text:  ...\! Ok.\bas
 
 #KEL walks back to PLAYER.
 
 message_19:
       faceset: MainCharacters_Faraway
       faceindex: 23
-      text: \Com[2]C'mon, \n[8]! There's no time to lose!\! We got a \c[4]PHOTO ALBUM\c[0] to find.\! Let's check \c[11]FARAWAY PARK\c[0] for clues!\kel
+      text: \Com[2]Vamos, \n[8]! Não temos tempo a perder!\! A gente tem um \c[4]ÁLBUM DE FOTOS\c[0] pra achar.\! Vamos checar o \c[11]PARQUE TÃO-DISTANTE\c[0] por pistas!\kel
 
 message_20:
       faceset: MainCharacter_Basil
       faceindex: 33
-      text: Well...\! I'll see you later.\bas
+      text: Bem...\! Eu vejo vocês depois.\bas
 
 # =========================================================================================
 # Cutscene: Charlie & Angel Intro
@@ -138,19 +138,19 @@ message_20:
 message_40:
       faceset: MainCharacters_Faraway
       faceindex: 20
-      text: Hmm, looks like AUBREY isn't here...\kel
+      text: Hmm, parece que a AUBREY não tá aqui...\kel
 
 #KEL is surprised and walks up to CHARLIE.
 
 message_41:
       faceset: MainCharacters_Faraway
       faceindex: 17
-      text: Oh, wait! I know you. Your name's CHARLIE, right?\! <br>I see you hanging around AUBREY sometimes.\kel
+      text: Ah, espera! Eu te conheço. Seu nome é CHARLIE, né?\! <br>Eu te vejo andando com a AUBREY as vezes.\kel
 
 message_42:
       faceset: MainCharacters_Faraway
       faceindex: 17
-      text: You know where she is?\kel
+      text: Você sabe onde ela tá?\kel
 
 #CHARLIE turns to face KEL.
 
@@ -162,12 +162,12 @@ message_43:
 message_44:
       faceset: MainCharacters_Faraway
       faceindex: 19
-      text: You know, CHARLIE...<br>I can tell you're not really the mean type of person.\kel
+      text: Sabe, CHARLIE...<br>Dá pra ver que você não é o tipo de pessoa ruim.\kel
 
 message_45:
       faceset: MainCharacters_Faraway
       faceindex: 18
-      text: AUBREY took something important from BASIL and we need to get it back.\! Is there any way you can help us?\kel
+      text: AUBREY pegou algo importante do BASIL e a gente precisa pegar de volta.\! Tem alguma maneira de você nos ajudar?\kel
 
 message_46:
       text: ...\cha
@@ -181,7 +181,7 @@ message_47:
 #ANGEL turns to KEL.
 
 message_48:
-      text: Ah!\! Se não é o KEL e aquele esquisitão da faca.\!<br>Adversário dignos para o grande e poderoso ANGEL.\who
+      text: Ah!\! Se não é o KEL e aquele esquisitão da faca.\!<br>Adversários dignos para o grande e poderoso ANGEL.\who
 
 #ADD FWEFWEFWEFWE
 
@@ -242,7 +242,7 @@ message_74:
 message_75:
       faceset: MainCharacters_Faraway
       faceindex: 18
-      text: Ai Ai...\! Okay, ANGEL, é hora de ficar sério.\! <br>A gente ganhou de você e o CHARLIE, então conta onde tá a AUBREY.\kel
+      text: Ai Ai...\! Ok, ANGEL, é hora de ficar sério.\! <br>A gente ganhou de você e o CHARLIE, então conta onde tá a AUBREY.\kel
 
 message_76:
       text: Hmph!\! Uma promessa é uma promessa, Eu suponho.\! <br>Eu irei honrar minha palavra e te digo o que sei.\ang
@@ -306,7 +306,7 @@ message_80:
 message_81:
       faceset: MainCharacters_Faraway
       faceindex: 21
-      text: ANGEL...\! É melhor você contar pra gente onde ela tá...\!<br>ou Eu vou contar pra todo mundo daquela vez que você fez xixi na cama\!<br> no acampamento de verão.\kel
+      text: ANGEL...\! É melhor você contar pra gente onde ela tá...\!<br>ou Eu vou contar pra todo mundo daquela vez que você fez xixi na cama\! no acampamento de verão.\kel
 
 #ANGEL is surprised, and jumps.
 
@@ -373,10 +373,10 @@ message_110:
       text: E então eu disse pra ele... Não é MAVERICK.\! <br>É \Com[2]O MAVERICK!\mav
 
 message_111:
-      text: Oh, \Com[2]O MAVERICK, você é tão engraçado!\n<GIRL>
+      text: Oh, \Com[2]O MAVERICK, você é tão engraçado!\n<GAROTA>
 
 message_112:
-      text: Ho-ho! Wow, que história incrível, \Com[2]O MAVERICK!\n<GIRL 2>
+      text: Ho-ho! Wow, que história incrível, \Com[2]O MAVERICK!\n<GAROTA 2>
 
 message_113:
       text: \sinv[1]Garotas, garotas... por favor! Uma de cada vez...\sinv[2]\mav
@@ -471,10 +471,10 @@ message_153:
       text: \Com[2]\sinv[1]HII\Com[2]\{IIYYYYY\Com[2]\{AAAAHHHH\Com[2]\{HHHHHHHH!!!\mav
 
 message_154:
-      text: Ew, qual é a desse cara? Ele é tão besta.\n<GIRL>
+      text: Ew, qual é a desse cara? Ele é tão besta.\n<GAROTA>
 
 message_155:
-      text: Isso não vale $10.00. Vamo sair daqui...\n<GIRL 2>
+      text: Isso não vale $10.00. Vamo sair daqui...\n<GAROTA 2>
 
 #The girls walk O.S.
 #THE MAVERICK looks where the girls left and walks 1 step forward.

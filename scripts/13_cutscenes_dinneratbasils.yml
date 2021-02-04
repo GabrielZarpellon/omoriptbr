@@ -276,7 +276,7 @@ message_97:
 message_98:
       faceset: MainCharacter_Basil
       faceindex: 43
-      text: É tão legar saber que você está por aqui...\! <br>mesmo que só por um tempinho.\bas
+      text: É tão legal saber que você está por aqui...\! <br>mesmo que só por um tempinho.\bas
 
 message_99:
       faceset: MainCharacter_Basil
@@ -469,7 +469,7 @@ message_172:
 message_173:
       faceset: MainCharacters_Faraway
       faceindex: 15
-      text: Heh, heh... Ah, não foi nada.\!<br>Diz tchau pro BASIL pra mim!\kel
+      text: Heh, heh... Ah, não foi nada.\!<br>Diz tchau pro BASIL por mim!\kel
 
 message_174:
       faceset: MainCharacters_Faraway
