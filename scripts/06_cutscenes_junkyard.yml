@@ -5,7 +5,7 @@
 message_0:
       faceset: MainCharacters_DreamWorld
       faceindex: 28
-      text: Ahhh, cara!<br>Parece que tem um grade bloco de ferraria no caminho!\kel
+      text: Ahhh, cara!<br>Parece que tem um grande bloco de ferraria no caminho!\kel
 
 message_1:
       faceset: MainCharacters_DreamWorld
@@ -15,7 +15,7 @@ message_1:
 message_2:
       faceset: MainCharacters_DreamWorld
       faceindex: 3
-      text: Não se preocupem, pessoal!\!<br>Esse bloquinho aí não é nada comparada a minha tacada!\aub
+      text: Não se preocupem, pessoal!\!<br>Esse bloquinho aí não é nada comparado a minha tacada!\aub
 
 message_3:
       faceset: MainCharacters_DreamWorld
@@ -25,7 +25,7 @@ message_3:
 message_4:
       faceset: MainCharacters_DreamWorld
       faceindex: 2
-      text: Eu, por exemplo, posso esmagar grandes blocos do caminho!\aub
+      text: Eu, por exemplo, posso esmagar grandes blocos no caminho!\aub
 
 message_5:
       faceset: MainCharacters_DreamWorld
@@ -57,7 +57,7 @@ message_7:
 message_30:
       faceset: MainCharacters_DreamWorld
       faceindex: 18
-      text: \Com[2]Ei, SR. ESTEIROBÔ!\!<br>Muda essas esteiras aí para gente agora!\kel
+      text: \Com[2]Ei, SR. ESTEIROBÔ!\!<br>Muda essas esteiras aí pra gente agora!\kel
 
 message_31:
       text: \n<SR. ESTEIROBÔ>\quake[1]Bzzt...\! Hmf...\! Pessoa rude...\quake[0]
@@ -70,12 +70,12 @@ message_32:
 message_33:
       faceset: MainCharacters_DreamWorld
       faceindex: 37
-      text: Calma lá... Não há porquê discutirem.\! Deixa essa comigo!\her
+      text: Calma lá... Não há por que discutirem.\! Deixa essa comigo!\her
 
 message_34:
       faceset: MainCharacters_DreamWorld
       faceindex: 49
-      text: Ahem...\! Saudações, Senhor ESTEIROBÔ.\! Meus companheiros e Eu precisamos da sua assistência em mudar a direção das suas esteiras.\! Poderia você e seus amigos nos ajudarem?\her
+      text: Ahem...\! Saudações, Senhor ESTEIROBÔ.\! Meus companheiros e eu precisamos da sua assistência em mudar a direção das suas esteiras.\! Poderia você e seus amigos nos ajudarem?\her
 
 #HERO CHARM ANIMATION
 
@@ -88,7 +88,7 @@ message_36:
 message_37:
       faceset: MainCharacters_DreamWorld
       faceindex: 37
-      text: Calma lá... Não há porquê discutirem.\! Deixa essa comigo!\!<br>PASSE para mim, OMORI!\her
+      text: Calma lá... Não há por que discutirem.\! Deixa essa comigo!\!<br>PASSE para mim, OMORI!\her
 # =========================================================================================
 # Cutscene: Hero's CHARM Tag Skill (Cont.)
 # =========================================================================================
@@ -108,7 +108,7 @@ message_50:
 #EMS looks around.
 
 message_51:
-      text: \}Oh uau, isso tudo é pra mim? Que beleza!\!<br>Como vocês adivinhara que queijo é meu favorito?\ems
+      text: \}Oh uau, isso tudo é pra mim? Que beleza!\!<br>Como vocês adivinharam que queijo é meu favorito?\ems
 
 message_52:
       faceset: MainCharacters_DreamWorld
@@ -184,7 +184,7 @@ message_83:
       text: Finalmente, Eu encontrei o que eu queria.\who
 
 message_84:
-      text: Depois de incontáveis horas de ficar cavando e cavando...\!<br>Está única, ultra-exclusiva \c[4]MIXTAPE ESPECIAL\c[0] finalmente pertence à mim!\who
+      text: Depois de incontáveis horas de ficar cavando e cavando...\!<br>Esta única, ultra-exclusiva \c[4]MIXTAPE ESPECIAL\c[0] finalmente pertence à mim!\who
 
 message_85:
       text: ROSA!\! A fã \#1 da SWEETHEART no mundo inteiro!\ros
@@ -198,7 +198,7 @@ message_87:
 message_88:
       faceset: MainCharacters_DreamWorld
       faceindex: 2
-      text: Pera um pouco... Ela disse que achou uma \c[4]MIXTAPE ESPECIAL\c[0]?\!<br>Era isso que estavamos procurando!\aub
+      text: Pera um pouco... Ela disse que achou uma \c[4]MIXTAPE ESPECIAL\c[0]?\!<br>Era isso que estávamos procurando!\aub
 
 message_89:
       faceset: MainCharacters_DreamWorld
@@ -208,7 +208,7 @@ message_89:
 message_90:
       faceset: MainCharacters_DreamWorld
       faceindex: 17
-      text: Vamo lá pegar!\kel
+      text: Vamos lá pegar!\kel
 
 message_91:
       text: \Com[2]Eu posso ouvir tudo o que vocês tão dizendo, viu!\!<br>Como eu suspeitava, possuir algo tão valioso já está me causando problemas.\ros
@@ -217,7 +217,7 @@ message_92:
       text: \sinv[2]\{\Com[2]OHOH\{OHOH\{OHOH\{OHOH~!!\ros\sinv[0]
 
 message_93:
-      text: Qual é problema? Tão com invejinha??\ros
+      text: Qual é o problema? Estão com invejinha??\ros
 
 message_94:
       text: Esta \c[4]MIXTAPE ESPECIAL\c[0] é minha!\!<br>Eu nunca vou dar ela à vocês! Nunca!\ros
@@ -225,7 +225,7 @@ message_94:
 message_95:
       faceset: MainCharacters_DreamWorld
       faceindex: 30
-      text: Ei! A gente não veio até aqui pra nada!\!<br>Se não nos der essa \c[4]MIXTAPE ESPECIAL\c[0], nós teremos que usar a força!\kel
+      text: Ei! A gente não veio até aqui pra nada!\!<br>Se não nos der essa \c[4]MIXTAPE ESPECIAL\c[0], nós teremos que tomar à força!\kel
 
 message_96:
       text: \Com[2]\{\quake[1]EEEEEK!! QUE COISA MAIS SELVAGEM!!\quake[0]\}\!<br>Violência nunca resolveu nada, sabe.\ros
@@ -319,7 +319,7 @@ message_147:
       text: Oh, sua criança ignorante.\!<br>Não ouviu as últimas notícias?\ros
 
 message_148:
-      text: Uma fonte confiável me disse que <br>NAMORADO ESPACIAL e SWEETHEART já se separaram faz tempo!\ros
+      text: Uma fonte confiável me disse que o <br>NAMORADO ESPACIAL e SWEETHEART já se separaram faz tempo!\ros
 
 message_149:
       text: Por que você acha que essa \c[4]MIXTAPE ESPECIAL\c[0] tá fazendo no \c[11]FERRO-VELHO\c[0] hein?\! Porque foi o NAMORADO ESPACIAL que a jogou aqui!\ros
@@ -353,12 +353,12 @@ message_155:
 message_156:
       faceset: MainCharacters_DreamWorld
       faceindex: 30
-      text: Come se a gente confiasse em você!\! Eu acho que vamos ficar com essa \c[4]MIXTAPE ESPECIAL\c[0] e ver por nós mesmos.\kel
+      text: Como se a gente confiasse em você!\! Eu acho que vamos ficar com essa \c[4]MIXTAPE ESPECIAL\c[0] e ver por nós mesmos.\kel
 
 message_157:
       faceset: MainCharacters_DreamWorld
       faceindex: 30
-      text: Agora vaza, sua criatura de planta feia!\! Vai incomodar outra gente!\kel
+      text: Agora vaza, sua criatura de planta feia!\! Vai incomodar outra pessoa!\kel
 
 message_158:
       text: Oh, nossa!\! Tão rude.\ros
@@ -366,7 +366,7 @@ message_158:
 #ROSA walks away, then turns back to party.
 
 message_159:
-      text: Você vai pagar por isso, muleque estúpido! Marque minhas palavras!\ros
+      text: Você vai pagar por isso, moleque estúpido! Marque minhas palavras!\ros
 
 #ROSA walks off screen
 
