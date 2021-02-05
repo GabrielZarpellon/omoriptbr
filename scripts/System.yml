@@ -944,7 +944,7 @@ plugins:
           itemSellingCancelMessage: 'farawaytown_extras_shop.message_106'
 
   questMenu:
-    header: CONSELHO DA MARI
+    header: CONSELHOS
     questStates:
         - INCOMPLETO
         - COMPLETO
