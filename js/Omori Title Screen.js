@@ -205,10 +205,11 @@ Scene_OmoriTitleScreen.prototype.refreshCommandHints = function() {
   let cancel = LanguageManager.languageData().text.System.plugins.optionsMenu.buttonHints["cancel"]
   let iconSize = 24;
   let paddingY = 4;
-  this._commandHints.bitmap.drawInputIcon("ok", 0, paddingY);
-  this._commandHints.bitmap.drawText(confirm, iconSize + 5, paddingY, this._commandHints.bitmap.width, 16, "left");
-  this._commandHints.bitmap.drawInputIcon("escape", iconSize + 15 + this._commandHints.bitmap.measureTextWidth(confirm), paddingY);
-  this._commandHints.bitmap.drawText(cancel, iconSize*2 + 20 + this._commandHints.bitmap.measureTextWidth(confirm), paddingY, this._commandHints.bitmap.width, 16, "left");
+  let paddingX = 37;
+  this._commandHints.bitmap.drawInputIcon("ok", 80, paddingX);
+  this._commandHints.bitmap.drawText(confirm, iconSize + 91, paddingY, this._commandHints.bitmap.width, 85, "left");
+  this._commandHints.bitmap.drawInputIcon("escape", iconSize + -52 + this._commandHints.bitmap.measureTextWidth(confirm), paddingY);
+  this._commandHints.bitmap.drawText(cancel, iconSize*2 + -41 + this._commandHints.bitmap.measureTextWidth(confirm), paddingY, this._commandHints.bitmap.width, 16, "left");
 }
 
 const _old_omo_menu_options_controls = Window_OmoMenuOptionsControls.prototype.createKeyPromptWindow
