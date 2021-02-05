@@ -29,7 +29,7 @@ message_4:
 message_5:
       faceset: MainCharacters_DreamWorld
       faceindex: 11
-      text: \aubS-sim...\! Desculpa, BERLY.\!<br>Eu acho que nós vamos ter que deixar essa pra depois.
+      text: \aubS-Sim...\! Desculpa, BERLY.\!<br>Eu acho que nós vamos ter que deixar essa pra depois.
 
 message_6:
       faceset: MainCharacters_DreamWorld
@@ -42,7 +42,7 @@ message_7:
       text: \ber\com[2]Não tão rápido!\! Vocês tão tentando me evitar de novo!?\!<br>Qual o problema de vocês dois?\! É a minha cara?\!<br>Meu exterior áspero e resistente?
 
 message_8:
-      text: \berPelo menos eu não sou tão ruim quanto o CHEFE!\! É uma coisa boa eu ter banido ele do parquinho depois do que aconteceu da última vez...
+      text: \berPelo menos eu não sou tão ruim quanto o CHEFE!\! Foi uma boa eu ter banido ele do parquinho depois do que aconteceu da última vez...
 
 # BERLY looks around.
 
@@ -94,7 +94,7 @@ message_175:
 # *BERLY goes down in a row passing straws to everyone*
 
 message_18:
-      text: \berNós todos estamos com os canudos?\! Bom!
+      text: \berTodos nós estamos com os canudos?\! Bom!
 
 message_19:
       text: \berAgora, vamos ver quem vai ser "ele"!
@@ -126,7 +126,7 @@ message_25:
       text: \berEi, Estou escutando vocês tramando algo aí!\!<br>São os canudos que fazem as regras, não eu!
 
 message_26:
-      text: \berVamo lá, não sejam bebezões! Não é tão ruim.\!<br>O OMORI vai ficar de boa!
+      text: \berVamos lá, não sejam bebezões! Não é tão ruim.\!<br>O OMORI vai ficar de boa!
 
 # *BERLY goes to tetherball pole*
 
@@ -204,7 +204,7 @@ message_39:
 message_40:
       faceset: MainCharacters_DreamWorld
       faceindex: 2
-      text: \aubVamo lá, HERO! Nós temos que ajudar o OMORI a achar todo mundo!
+      text: \aubVamos lá, HERO! Nós temos que ajudar o OMORI a achar todo mundo!
 
 message_41:
       faceset: MainCharacters_DreamWorld
@@ -232,7 +232,7 @@ message_45:
       text: \whoNose avante!
 
 message_46:
-      text: \whoShh... Se você fazer muito barulho, eles vão nos ouvir!
+      text: \whoShh... Se você fizer muito barulho, eles vão nos ouvir!
 
 message_47:
       text: \n<NOSE>\com[2]NOSE avante! BUN avante!
@@ -254,7 +254,7 @@ message_51:
       text: \n<NOSE>\}Nose... avante...
 
 message_52:
-      text: \n<BUN>Oh... Você sabe que eu não posso ficar braba contigo.\!<br>Vamos brincar de adoleta!
+      text: \n<BUN>Oh... Você sabe que eu não posso ficar brava contigo.\!<br>Vamos brincar de adoleta!
 
 message_53:
       text: \n<HAPPY>\sinv[1]Boing! Sou eu, HAPPY!
@@ -275,7 +275,7 @@ message_58:
       text: \n<BANGS>Sabe o que a HAPPY iria dizer agora?
 
 message_59:
-      text: \n<BANGS>Ela iria dizer algo tipo...<br>"BANGS, você deve sempre dar seu melhor em tudo!\!<br>De que jeito as pessoas vão ver quão íncrivel você é?"
+      text: \n<BANGS>Ela iria dizer algo tipo...<br>"BANGS, você deve sempre dar seu melhor em tudo!\!<br>De que jeito as pessoas vão ver o quão íncrivel você é?"
 
 message_60:
       text: \n<BANGS>...\! Fica pra próxima, Eu acho.
@@ -555,7 +555,7 @@ message_123:
 message_124:
       faceset: MainCharacters_DreamWorld
       faceindex: 30
-      text: \kelÉ! O que o BASIL faz de mal para você!?
+      text: \kelÉ! O que o BASIL fez de mal para você!?
 
 message_125:
       faceset: MainCharacters_DreamWorld
@@ -606,10 +606,10 @@ message_135:
       text: \n<CHEFE>Não!\! Se eu não posso jogar com todo mundo, então ninguém pode!
 
 message_136:
-      text: \n<CHEFE>Essa é uma zona somente para o CHEFE agora...
+      text: \n<CHEFE>Essa é uma zona somente para o CHEFE agora...E vocês...
 
 message_137:
-      text: \n<CHEFE>\com[2]\quake[1]\{\{E NÃO ESTÃO CONVIDADOS!!
+      text: \n<CHEFE>\com[2]\quake[1]\{\{NÃO ESTÃO CONVIDADOS!!
 
 # *BOSS battle*
 
@@ -666,7 +666,7 @@ message_147:
 message_148:
       faceset: MainCharacters_DreamWorld
       faceindex: 31
-      text: \kelO CHEFE é coisa ruim!\! Foi bom o OMORI ter aguentado aquele ataque final, se não nos todos teríamos sido TORRADOS...
+      text: \kelO CHEFE é coisa ruim!\! Foi bom o OMORI ter aguentado aquele ataque final, se não todos nós teríamos sido TORRADOS...
 
 message_149:
       faceset: MainCharacter_Basil
