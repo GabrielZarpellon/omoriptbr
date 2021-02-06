@@ -1,0 +1,1502 @@
+
+# =========================================================================================
+# ALL MIRROR
+# =========================================================================================
+
+message_0:
+      text: Um espelho flutuante.\!<br>Seus amigos sorriem agradávelmente atrás de você.
+
+message_1:
+      text: Um espelho flutuante.
+
+
+# =========================================================================================
+# CATTAIL FIELD ENTRANCE (118)
+# =========================================================================================
+
+#Butt Certificate Flag
+
+message_50:
+      text: \n[2]'s \c[4]BANDEIRA DE CABEÇUDA\c[0].\!<br>\sinv[1]Tão majestosa...\| Tão linda...
+
+#============================
+
+#White Space - Map 87:
+
+#NEUTRAL ROUTE ONLY
+
+#Day 1 - Lightbulb:
+#[Open Slide]
+message_51:
+      text: Uma lâmpada preta espreita acima.\! Você não quer toca-la.
+#[Close Slide]
+
+#Day 2 - Lightbulb:
+#[Open Slide]
+message_52:
+      text: Uma lâmpada preta espreita acima.\! Você sente como devesse protegê-la.
+#[Close Slide]
+
+#Day 3 - Lightbulb:
+#[Open Slide]
+message_53:
+      text: Uma lâmpada preta espreita acima.\! Você deve protegê-la.
+#[Close Slide]
+
+#============================
+
+#North Coast - Map 90:
+
+#Sand Castle:
+message_60:
+      text: Um castelo de areia.
+
+#Pail and Shovel:
+message_61:
+      text: Um balde e uma pázinha.
+
+#============================
+
+#Map 92:
+
+#Jungle Gym:
+#message_70:
+#      text: Um trepa-trepa.
+
+#Puzzle:
+message_71:
+      text: Um quebra-cabeça muito difícil.\! Todas as peças são brancas.
+
+#Puzzle:
+message_72:
+      text: Um monte de carrinhos de brinquedo.
+
+#Cards:
+message_73:
+      text: Cartas estão espalhadas no chão.
+
+#Egg:
+message_74:
+      text: Ovo.
+
+#Yoyo:
+message_75:
+      text: Um ioiô.
+
+#Banana:
+message_76:
+      text: Banana eterna.
+
+message_77:
+      text: Um banco de parquinho.
+
+message_78:
+      text: Bloquinhos de construir.
+
+message_79:
+      text: Guarda-chuva.
+
+#============================
+
+#Path to Basil - Map 95:
+
+#Watering Pail
+message_84:
+      text: Um regador.
+
+message_85:
+      text: Você quer regar as plantas?
+
+#Sunflower:
+message_86:
+      text: Girassóis.
+
+#Lily of the Valley:
+message_87:
+      text: Lírio-do--vale.
+
+#Roses:
+message_88:
+      text: Rosas.
+
+#Gladiolus:
+message_89:
+      text: Gladíolos.
+
+#Cactus:
+message_90:
+      text: Um cacto.\! Robusto e resiliente.
+
+#White Tulip:
+message_91:
+      text: Tulipas brancas.
+
+message_92:
+      text: Uma flor.
+
+message_93:
+      text: Uma flor?
+
+#============================
+
+#Old Shoe Entrance - Map 97:
+
+#Flowers:
+message_100:
+      text: Um monte de plantas e flores em potes.\!<br>BASIL ama tomar conta de coisas.
+
+#Bone:
+message_101:
+      text: Osso grande.
+
+message_102:
+      text: Osso pequeno.
+
+message_103:
+      text: Alimento.
+
+message_104:
+      text: Abrigo.
+
+#============================
+
+#Old Shoe Interior - Map 98:
+
+#Bed:
+message_110:
+      text: Uma cama aparentemente confortável.
+
+#Fireplace:
+message_111:
+      text: Uma fogueira.\! O fogo está quentinho.
+
+#Photo:
+message_112:
+      text: Uma foto de um estranho.
+
+message_113:
+      text: Um monte de livros.\! Em sua maioria de jardinagem.
+
+#============================
+
+#Train Station - Map 105:
+
+#Streetlamp:
+message_115:
+      text: Um poste.
+
+#Lemonade Cups:
+message_116:
+      text: Alguns copos de limonada.
+
+#============================
+
+#Train Station - Map 106:
+
+#Construction Stuff:
+message_120:
+      text: Coisas de construção.
+
+#============================
+
+#Train Station - Map 107:
+
+message_125:
+      text: Artefatos estranhos de diferentes regiões.
+
+message_126:
+      text: Docinhos.\! Não estão a venda.
+
+message_127:
+      text: DICAS DINO...<br>\"Esse é um ótimo exemplo de tesouros em potencial.\!<br>Cave aqui com sua \c[4]COLHER\c[0] para desbloquear possibilidades infinitas!\"
+
+message_128:
+      text:  EXIBIÇÃO DINO...<br>\"Esses são restos dos nossos ancestrais.\"
+
+message_129:
+      text: FATO DINO...<br>\"A fila começa aqui!\"
+
+message_130:
+      text: AVISO DINO...<br>\"Artefatos em exibição são apenas para demonstração e não refletem de qualquer maneira o que pode ser achado no CAVA-SAURO!\"
+
+message_131:
+      text: Um exempo de tesouros em potencial.
+
+#============================
+
+#Rain Town - Map 111:
+
+message_135:
+      text: Alguns potes.\! Alguns vazios, alguns não.
+
+message_136:
+      text: Uma enfermaria de plantas cheia de CRIANÇAS VEGETAIS!
+
+#============================
+
+#Map 112:
+
+message_140:
+      text: Uma fogueira.
+
+message_141:
+      text: Uma lanterna.
+
+message_142:
+      text: Grande pão.
+
+message_143:
+      text: Grande rosquinha.
+
+message_144:
+      text: Uma estante.\!<br>Tem uma foto saindo de um livro...
+#[Show SW Postcard Slide]
+message_145:
+      text: ...\! Você enfiou a foto de volta no livro.
+
+message_146:
+      text: Uma cama laranja.
+
+message_147:
+      text: Uma mesa laranja.
+
+message_148:
+      text: Uma lanterna laranja.
+
+message_149:
+      text: Uma laranja.
+
+message_150:
+      text: Algumas laranjas.
+
+message_151:
+      text: Uma comum planta caseira.\! Nada de especial sobre ela.
+
+message_152:
+      text: Uma pequena TV.
+
+message_153:
+      text: Uma foto de uma criatura semelhante a uma laranja.
+
+message_154:
+      text: Uma cama laranja.
+
+message_155:
+      text: Uma cama.\! Ela cheira como pão velho.
+
+message_156:
+      text: Um copo laranja... com laranja.
+
+message_157:
+      text: Uma cama surpreendente normal.
+
+message_158:
+      text: Uma cama.\! Ela cheira como uma fazenda.
+
+message_159:
+      text: Besteiras.
+
+message_177:
+      text: Panfletos para pontos populares de turismmo.\! JUnto deles há uma propaganda de um lugar chamado \c[11]ÚLTIMO RESORT\c[0].
+
+message_178:
+      text: \"Venha para o \c[11]ÚLTIMO RESORT\c[0], grande abertura no cênico \c[11]POÇO SEM FUNDO\c[0]!\! Curta essa oportunidade de luxo, localizado a poucos quilômetros da cidade.\"
+
+message_188:
+      text: \"Relaxe nas melhores amenidades que o mundo pode oferecer no nosso retiro privado e saia totalmente transformado!\"
+
+message_179:
+      text: Uma fruta de tamanho comum.
+
+#============================
+
+#Map 114:
+
+message_160:
+      text: Um pão-pedra.
+
+message_161:
+      text: Um grande pão-pedra.
+
+#============================
+
+#Map 115:
+
+message_165:
+      text: Um brinquedo de pelúcia.
+
+message_166:
+      text: Uma grande cama.
+
+message_167:
+      text: Uma pequena cama.
+
+message_168:
+      text: Peças de quebra-cabeça.
+
+#============================
+
+#Map 119:
+
+message_175:
+      text: Um bem ferrado, velho carro.
+
+message_176:
+      text: Uma velha poltrona.
+
+#============================
+
+#Map 120:
+
+message_180:
+      text: Restos de uma civilização estranha podem ser vistos na parede.
+
+#============================
+
+#Map 123:
+
+message_181:
+      text: Uma velha TV.\! Não parece estar funcionando
+
+message_182:
+      text: Uma caixa de papelão velha
+
+message_183:
+      text: Algumas caixas de papelão velhas
+
+message_184:
+      text: Um velho armário.
+
+message_185:
+      text: Um velho relógio de vovô.\!<br>Olhando de perto, não parece estar funcionando.
+
+message_186:
+      text: Um velho pneu.
+
+message_187:
+      text: Alguns pneus velhos.
+
+#============================
+
+#Map 124:
+
+message_194:
+      text: Água de cavalo.
+
+message_195:
+      text: Uma estação de transporte.\!<br>Não parece estar aberta.
+
+message_196:
+      text: Uma estação da LINHA ESPACIAL DO PLUTÃO.\!<br>Quer eperar aqui pelo PLUTÃO?
+
+message_197:
+      text: Uma velha TV.\! Você pode ouvir alguém digitando dentro dela.
+
+message_198:
+      text: Uma estátua feita nos gostos de uma pessoa visualmente desagradável.
+
+
+#Changes to this after entering SW castle
+
+message_199:
+      text: Uma pintura de uma pessoa visualmente desagradável.
+
+message_200:
+      text: Uma música bem desagradável está tocando nessa caixinha de som.
+
+message_201:
+      text: Uma estante cheia de livros sobre uma pessoa visualmente desagradável.
+
+message_202:
+      text: Uma mesa cheia de produtos de uma pessoa visualmente desagradável.
+
+message_203:
+      text: Um monitor mostrando um monte de símbolos estranhos.
+
+message_204:
+      text: Um copo vazio.
+
+message_205:
+      text: Uma família feliz.
+
+message_206:
+      text: Uma estante.
+
+message_207:
+      text: Uma cama extra-grande... perfeita para uma família de 3 pessoas.
+
+message_208: 
+      text: Uma estante cheia de DVDs.\! Essa família grava tudo.
+
+#============================
+
+#Map 125:
+
+message_210:
+      text: \"MAIS CAVALO - 2 LUGAR\"
+
+message_211:
+      text: \"MENOR CENTAURO - 1 LUGAR\"
+
+message_212:
+      text: \"SMALLEST CENTAUR - 1 LUGAR\"
+
+message_213:
+      text: \"CENTAURO MAIS NANICO - 1 LUGAR\"
+
+message_214:
+      text: \"MAIS CAVALO - 1 LUGAR\"
+
+message_450:
+      text: \"CENTAURO MAIS PITOCO - 1 LUGAR\"
+
+message_451:
+      text: \"CENTAURO MAIS BAIXINHO - 1 LUGAR\"
+
+message_452:
+      text: \"CENTAURO MAIS PEQUENININHO - 1 LUGAR\"
+
+message_453:
+      text: \"CENTAURO MAIS CONDENSADO - 1 LUGAR\"
+
+message_454:
+      text: \"CENTAURO MAIS ADOLECENTE - 1 LUGAR\"
+
+message_455:
+      text: \"MAIS MODESTO - 1 LUGAR\"
+
+message_456:
+      text: \"CENTAURO MAIS MINÚSCULO - 1 LUGAR\"
+
+message_457:
+      text: \"CENTAURO MAIS MIÚDO - 1 LUGAR\"
+
+message_458:
+      text: \"MAIS HUMANO - MENÇÃO HONROSA\"
+
+message_459:
+      text: \"CENTAURO MAIS PEQUETITICO - 1 LUGAR\"
+
+
+#============================
+
+#Map 126:
+
+message_220:
+      text: Um espelho.
+
+message_221:
+      text: Um telescópio.
+
+message_222:
+      text: Uma caixinha de som.\! Não tem uma fita cassete dentro.
+
+message_223:
+      text: Uma lâmpada de mesa.
+
+message_224:
+      text: Uma boa vista.
+
+message_225:
+      text: Caixas de papelão estão espalhadas pela casa.
+
+message_226:
+      text: Uma estante com conhecimentos de todas as partes do universo!
+
+message_227:
+      text: Uma marca de raiva e tristeza...
+
+#============================
+
+#Map 128:
+
+message_230:
+      text: Um container.
+
+#============================
+
+#Map 130:
+
+message_231:
+      text: Um aro de basquete legal.
+
+message_232:
+      text: Um copo de um refrigerante legal.
+
+message_233:
+      text: Alguns energéticos legais.
+
+message_234:
+      text: Uma bolsa marinheira legal.
+
+
+#============================
+
+#Map 131:
+
+message_235:
+      text: Uma máquina de \c[3]RASPADINHA\c[0].\!<br>Parece que ela aceita \c[4]TICKETS DE RASPADINHA\c[0].
+
+message_236:
+      text: \"ME DESCULPE. ESTAMOS SEM XAROPE.\"
+
+message_237:
+      text: Uma máquina de \c[3]RASPADINHA\c[0].\!<br>Você gostaria de usar um \c[4]TICKET DE RASPADINHA\c[0]?
+
+message_238:
+      text: A máquina de \c[3]RASPADINHA\c[0] te deu uma \c[3]RASPADINHA\c[0].
+
+
+#============================
+
+#Map 132:
+
+message_240:
+      text: Um refrigerador.\! Mas por quê?
+
+message_241:
+      text: Uma cama gelada no chão.
+
+message_242:
+      text: Sopa gelada.\! Mas por quê?
+
+message_243:
+      text: Algumas varas de pescar.\! Parece que são usados frequentemente.
+
+message_244:
+      text: Um cooler cheio de gelo.\! Mas por quê?
+
+message_245:
+      text: Uma lanterna gelada.
+
+message_246:
+      text: Um buraco no gelo, para pesca conveniente!
+
+
+#============================
+
+#Map 149:
+
+message_250:
+      text: A poster reminding you to recycle.
+
+#============================
+
+message_251:
+      text: Uma planta em crescimento.\! É gelada ao toque.
+
+message_252:
+      text: Um livro nada interessante.
+
+#Map 182:
+
+message_253:
+      text: Uma pintura do CAP. SPACEBOY.\!<br>\c[3]SUCO DE FRUTAS\c[0] foi jogado em cima dela.
+
+#============================
+
+#Map 184:
+
+message_254:
+      text: Um dispositivo estranho.
+
+message_255:
+      text: Um armário cheio de dispositivos estranhos.
+
+message_256:
+      text: Presentes ainda empacotados estão espalhados no chão.
+
+message_257:
+      text: Uma estátua gigante da SWEETHEART.
+#[SW statue face changes to evil one]
+#HEY, EYES UP HERE!!!! ← This message is in XX_MELON
+#[SW statue face changes back to default]
+
+message_258:
+      text: Um elaborado aranjo de flores.\!<br>Parece bem pomposo.
+
+message_259:
+      text: Uma elaborada lâmpada de flores.
+
+message_260:
+      text: Um jogo de porcelana de chá rosa.
+
+message_261:
+      text: Um morango perfeito.
+
+message_262:
+      text: Uma casa de passarinho.
+
+message_263:
+      text: Uma estátua da SWEETHEART.\! Você consegue ouvir a risada dela mesmo assim.
+      #[Play Oohoho SFX softly]
+
+message_264:
+      text: Um longo artigo descrevendo uma das peças de arte em exposição aqui.\!<br>Esse é sobre “Sweetheart Devorando um Burrito”.
+
+message_265:
+      text: Um longo artigo descrevendo uma das peças de arte em exposição aqui.\!<br>Esse é sobre “Hora Sweet.”
+
+message_266:
+      text: Um longo artigo descrevendo uma das peças de arte em exposição aqui.\!<br>Esse é sobre “Nascimento de Sweetheart.”
+
+message_267:
+      text: Um longo artigo descrevendo uma das peças de arte em exposição aqui.\!<br>Esse é sobre “O Nascimento de Sweetheart.”
+
+message_268:
+      text: Um longo artigo descrevendo uma das peças de arte em exposição aqui.\!<br>Esse é sobre “Mona Sweetheart.”
+
+message_269:
+      text: Um longo artigo descrevendo uma das peças de arte em exposição aqui.\!<br>Esse é sobre “A Criação de Sweetheart.”
+
+message_270:
+      text: Um longo artigo descrevendo uma das peças de arte em exposição aqui.\!<br>Esse é sobre “A Travessia de Sweetheart no Nordeste.”
+
+message_271:
+      text: Um longo artigo descrevendo uma das peças de arte em exposição aqui.\!<br>Esse é sobre “Sweetheart com um brinco de Pérolas.”
+
+message_272:
+      text: Um longo artigo descrevendo uma das peças de arte em exposição aqui.\!<br>Esse é sobre “Tarde de Sweetheart.”
+
+message_273:
+      text: Um longo artigo descrevendo uma das peças de arte em exposição aqui.\!<br>Esse é sobre “A Noite de Sweetheart.”
+
+message_274:
+      text: \"SwEEeTHEArT vc é MInha RAinha!\! eu AMO e APRECIO tudo q vc faz mais do q TUDO... \!pfv responde\"
+
+message_275:
+      text: \"eu t amo desde q t vi pela primeira vez!!!!\! PFV SEJA MINHA PARA SEPMRE!!!!!\! tá?\"
+
+message_276:
+      text: Uma coleção enorme de livros... mas nada muito interessante.
+
+message_277:
+      text: \"querida sweatheart eu amo vc muito...\! nos deixe ter crianças e viver o resto de nossa vida juntos.\! eu amaria muito isso.\! Brigado.\"
+
+message_278:
+      text: \"amável SWEETHAERt vc é meu AMOR.\! por favor me visite.\!<br>estou PRONTO para vc.\"
+
+message_279:
+      text: Trono da SWEETHEART.
+
+message_280:
+      text: Um filme está passando no telão.
+
+message_281:
+      text: Parte da estante está vazia.\! Você quer olhar o outro lado?
+
+message_282:
+      text: Jogo de chá favorito da SWEETHEART.
+
+message_283:
+      text: Uma piscina de criança.
+
+message_284:
+      text: Garrafas vazias.
+
+message_285:
+      text: \c[3]SUCO DE FFRUTAS\c[0].\! não é para crianças.
+
+message_286:
+      text: Um suporte para chapéus.
+
+message_287:
+      text: Uma caixa.
+
+message_288:
+      text: As ações subiram.
+
+message_289:
+      text: As ações caíram.
+
+message_290:
+      text: Um armário.
+
+message_291:
+      text: Sinuca, ou bilhar.
+
+message_292:
+      text: Ua prateleira cheia de \c[3]SUCOS DE FRUTA\c[0].
+
+message_293:
+      text: Uma lata de lixo.
+
+message_294:
+      text: Uma mesa de sinuca.
+
+message_295:
+      text: Um “O”.
+
+message_296:
+      text: Uma refeição pronta para ser servida!
+
+message_297:
+      text: Um barril.
+
+message_298:
+      text: Uma área de alimentação.
+
+message_299:
+      text: Um balde de leite.
+
+message_300:
+      text: Uma máquina estranha.
+
+message_301:
+      text: Alguns equipamentos questionáveis.
+
+message_302:
+      text: Uma grande garrafa cheia de líquido.
+
+message_303:
+      text: Grande tubo.
+
+message_304:
+      text: Um tubo de testes quebrado.
+
+message_305:
+      text: Um crescimento estranho.
+
+message_306:
+      text: Algum lixo.
+
+message_307:
+      text: Algumas caixas.
+
+message_308:
+      text: Uma estátua de MARINA.
+
+message_309:
+      text: Uma estátua de MEDUSA.
+
+message_310:
+      text: Uma estátua de MOLLY.
+
+message_311:
+      text: Alguns tubos de teste pequenos.
+
+message_312:
+      text: Uma estante com diversos ingredientes para confeitaria.
+
+message_313:
+      text: Sacos de farinha.
+
+message_314:
+      text: Um retrato de família.
+
+message_315:
+      text: Latas vazias.
+
+message_316:
+      text: Um simples saco de dormir.\! Os lençóis são baratos, rugoso, e tem muitos buracos.
+
+message_317:
+      text: Um simples saco de dormir.\! Os lençóis são usáveis, mas não muito confortáveis.
+
+message_318:
+      text: Um simples saco de dormir.\! Os lençóis são macios, mas bem finos.
+
+message_319:
+      text: Um simples saco de dormir.\! Os lençóis são macios.\! Eles são bons lençóis.
+
+message_320:
+      text: Um simples saco de dormir.\! Os lençóis são macios e fofos.\! Eles são melhores que lençóis normais.
+
+message_321:
+      text: Um simples saco de dormir.\! Os lençóis são macios e fofos e tem uma função de auto-aquecimento.\! Eles são ótimos.\! Você queria ter um desses.
+
+message_322:
+      text: Um simples saco de dormir.\! Os lençóis são feitos dos melhores materiais, e tem uma função de controle de temperatura.\! Eles são os melhores do mundo.
+
+#Cactus:
+
+message_350:
+      text: \n<ESTRANHO>O lar não está aqui.
+
+message_352:
+      text: \n<ESTRANHO>Aqui não é o lar.
+
+message_353:
+      text: \n<ESTRANHO>O lar não é onde aqui é.
+
+message_354:
+      text: \n<ESTRANHO>Aqui não é onde o lar é.
+
+message_355:
+      text: \n<ESTRANHO>Aqui não é o lar, mas onde o lar é?
+
+message_356:
+      text: \n<ESTRANHO>O lar não é aqui, mas onde aqui é?
+
+message_357:
+      text: \n<ESTRANHO>Onde é o lar?
+
+
+#Sign:
+message_365:
+      text: \”Não fale com as plantas. Elas vão te confundir.\”
+
+#Lighthouse binoculars:
+message_366:
+      text: Um par de binóculos.\! Você quer apreciar a vista?
+
+message_367:
+      text: Alguma coisa te encara do outro lado do visor.
+
+message_368:
+      text: Porcelanaria quebrada.
+
+message_369:
+      text: Uma cama desarrumada.\!Ela não é usada há anos.
+
+message_370:
+      text: Uma velha lareira.\! A parte de dentro é completamente escura.
+
+message_371:
+      text: Uma lâpada quebrada.
+
+message_372:
+      text: Um armário sujo.\! Está vazio.
+
+message_373:
+      text: Um suporte de roupas.
+
+message_374:
+      text: Uma ordinária planta caseira.\! As folhas são duras e frágeis.
+
+message_375:
+      text: Latas vazias.
+
+message_376:
+      text: Uma cadeira virada para a parede.
+
+message_377:
+      text: Um banquinho ao seu lado.
+
+message_378:
+      text: Não há luz aqui.
+
+message_379:
+      text: Você achou \c[4]BATERIAS VAZIAS\c[0].
+
+message_380:
+      text: Uma pequena cõmoda.
+
+#Memories
+message_400:
+      text: Um único flamingo de plástico.\! Ele parece gostar da chuva.
+
+message_401:
+      text: Uma chique, caixa de correio branca.
+
+message_402:
+      text: O símbolo da \c[11]CIDADE TÃO DISTANTE\c[0] observa o lago.
+
+message_403:
+      text: A cesta de piquenique da MARI.\!<br>Hoje está cheia de manteiga de amendoim e sanduíches de geleia.
+
+message_404:
+      text: O brinquedo de pelúcia da AUBREY.\! Ela leva isso com ela para todo lugar.
+
+#SW ROOM
+
+message_420:
+      text: Poesia.\! Por SWEETHEART.
+
+message_421:
+      text: \“Ah.\| Um dia.\| E um dia aquele foi.\| Que dia adorável.\”
+
+message_422:
+      text: Você achou um \c[13]DAKIMAKURA\c[0].
+
+
+#RED liquid
+
+message_423:
+      text: Isso não é ponche.
+
+message_424:
+      text: Isso não é xarope de morango.
+
+message_425:
+      text: Isso não é \c[3]SUCO DE MELANCIA\c[0].
+
+#SPROUT MOLE
+
+message_426:
+      text: \sinv[1]Swish... Swish... Swish...\sinv[0]
+
+message_427:
+      text: Lavanderia suja.
+
+#SIGNS
+
+message_500:
+      text: \"Esse é o fim da estrada.\"
+
+message_501:
+      text: \"A BANHEIRA REAL\"
+
+message_502:
+      text: \"UM INFERNO ESPECIAL PARA VOCÊ\"
+
+
+message_503:
+      text: \"CUIDADO - PISCINA SOB CONSTRUÇÃO\"
+
+message_504:
+      text: \"CUIDADO - PISCINA ASSOMBRADA\"
+
+#LAST RESORT
+
+message_505:
+      text: Contas, contas, contas...
+
+message_506:
+      text: Você achou um \c[3]TACO DE PEIXE\c[0].
+
+message_507:
+      text: Suco de grãos.\! Não é para crianças.
+
+message_508:
+      text: Um bastão de fumaça.
+
+message_509:
+      text: Livros caros para exibição.
+
+message_510:
+      text: Uma peça de arte cara muito controversa.
+
+message_511:
+      text: Não está vivo.
+
+message_512:
+      text: Uma \c[4]C.A.M.A\c[0]\!<br>Também conhecida como um \c[4]COLCHÃO AUTOMÁTICO MACIO E ACONCHEGANTE\c[0].
+
+message_513:
+      text: Esse elevador não abre.
+
+
+#DEAD SPROUT MOLE
+
+message_520:
+      text: \n<BROTOPEIRA>...
+
+message_521:
+      text: \n<BROTOPEIRA>...\! \}\treme[1]Saia...\| daqui...
+
+#INFOMERCIALS
+
+message_530:
+      text: \n<INFOMERCIAL>\}AGORA, VOCÊ PODE COMEÇAR TODA UMA COLEÇÃO DE DIVERSÃO...\| COELHOS, ABELHAS, URSOS...\| EU AMO MEU NOVO PET! EU POSSO LEVÁ-LO ONDE EU QUISER...\| COMPARTILHE ENQUANTO JOGA...\| APERTE, APERTE, APERTE...\| SE ELES GOSTAM, EU AMO...
+
+message_531:
+      text: \n<INFOMERCIAL>\}TOTAL CONFORTO...\| DEIXA VOCÊ QUENTINHO...\| POSSO USAR ATÉ AS DUAS MÃOS...\| ESTÁ BEM NA PONTA DE SEUS DEDOS...\| CONTÉM GRANDE DENSIDADE DE ESOUMA...\| QUE ÓTIMA IDEIA...\| LIGUE E COMPRE POR APENAS 3000 CONCHAS...
+
+message_532:
+      text: \n<INFOMERCIAL>\}ISSO É TUDO NATURAL...\| SÓ APLIQUE COMO DEMONSTRADO...\| OLHE ESSAS FOTOS ANTES E DEPOIS...\| ISSO É INCRÍVEL NO MEU ABDÕMEM...\| PARE DE USAR PRODUTOS QUE NÃO FUNCIONAM...\| EU AMO MINHA NOVA VIDA...
+
+message_533:
+      text: \n<INFOMERCIAL>\PARE! TEM UM JEITOO MELHOR...\| FINALMENTE, UMA SOLUÇÃO SEGURA E EFETIVA...\| SÓ FAZ SENTIDO...\| ATÉ VEM COM UMA BOLSA PRÓPRIA...\| DIFICILMENTE VOCÊ PODE CHAMAR ISSO DE TRABALHO...\| PEGUE SEU TELEFONE AGORA...
+
+message_534:
+      text: Um telefone grudento.
+
+#BALLROOM INSTRUMENTS
+
+message_540:
+      text: Isso é o som que um tambor faz.
+
+message_541:
+      text: Isso é o som que uma tuba faz.
+
+message_542:
+      text: Isso é o som que um trompete faz.
+
+message_543:
+      text: Uma máquina de música.
+
+#===
+
+message_550:
+      text: Você quer jogar caça-niquel?
+
+
+message_552:
+      text: Uma roleta colorida.
+
+#---
+
+message_551:
+      text: A boneca sem rosto examina sua face.
+
+#---
+
+message_553:
+      text: Essa máquina está em uso.
+
+#---
+
+message_554:
+      text: Um telescópio...<br>\!Mas o visor está coberto por fita.
+
+message_555:
+      text: Um espelho...<br>\!Mas ele faz você parecer especialmente sem carisma. 
+
+message_556:
+      text: Um monte de livros...<br>\!Mas todas as páginas estão coladas.
+
+message_557:
+      text: Caixas de papelão...<br>\!Sem propósto algum além de tomarem espaço.
+
+message_58:
+      text: Uma linda pintura das estrelas...<br>\!Mas exala o cheiro de plátisco queimado.
+
+message_59:
+      text: Um grande espelha para a cara lindona da SWEETHEART.
+
+message_590:
+      text: Férias particulares da SWEETHEART.
+
+# JAWSUM portraits
+
+message_560:
+      text: \"LORDE MANDIBARÃO\"<br>\"189X-192X\"
+
+message_561:
+      text: \"SIR MANDIBARÃO\"<br>\"192X-195X\"
+
+message_562:
+      text: \"PROFESSOR MANDIBARÃO\"<br>\"195X-197X\"
+
+message_563:
+      text: \"DOUTOR MANDIBARÃO\"<br>\"197X-198X\"
+
+message_564:
+      text: \"SR. MANDIBARÃO"<br>\"198X-\"
+
+message_565:
+      text: \"HERO"<br>\"199X-\"
+
+message_580:
+      text: A caneca favorita do SR. MANDIBARÃO.
+
+message_582:
+      text: \"SR. MANDIBARÃO"<br>\"198X-199X"
+
+#---
+#LOCKER ROOMS
+
+message_558:
+      text: Um cabinete.
+
+message_559:
+      text: Você achou uma \c[3]GARRAFA D'ÁGUA\c[0].
+
+message_566:
+      text: Você achou \c[3]LEITE ESTRAGADO\c[0].
+
+message_567:
+      text: Você achou \c[3]SUCO DE FRUTAS?\c[0].
+
+message_568:
+      text: Você achou uum \c[5]LIVRO DE POESIAS\c[0].
+
+message_569:
+      text: Um armário.
+
+message_670:
+      text: Uma lareira.\! O fogo está molhado.
+
+#---
+
+message_581:
+      text: Uma bicicleta legal.
+
+
+#---
+
+#snowflakes
+
+#+1 EXP
+message_570:
+      text: Você se sente um pouco melhor do que antes.
+
+#+1 CLAM
+message_571:
+      text: Você se sente um pouco mais rico do que antes.
+
+#+1 JUICE
+message_572:
+      text: Você se sente um pouco mais suco-lento do que antes.
+
+#+1 HEART
+message_573:
+      text: Você se sente um pouco mais saudável do que antes
+message_666:
+      text: O \c[4]ÁLBUM DE FOTOS\c[0] do BASIL.
+
+message_667:
+      text: Você quer entrar no trem?
+
+message_668:
+      text: Bagagem.
+
+message_669:
+      text: O trem está se movendo.
+
+
+
+#---
+
+message_680:
+      text: \"POTE DO GASTRÓPOODE\"\!<br>\"ESPECIAIS DE HOJE - SUCO DE LARANJA, REFRIGERANTE DE PÊSSEGO e LEITE\"
+
+message_681:
+      text: \"MENU DE HOJE...\! PÃO FRESCO\"\!<br>\"MENU DE AMANHÃ...\! PÃO FRESCO\"
+
+message_193:
+      text: Coisas de confeitaria.
+
+message_209:
+      text: Uma rosca.
+
+message_682:
+      text: Um escorregador rosa.\! Cheira como chiclete.
+
+message_683:
+      text: Balanços amarelos.\! Cheiram como bananas.
+
+#--- arrow cave
+
+message_685:
+      text: \n<CARA CARRANCUDA>\"Você devia ter escutado.\"
+
+message_686:
+      text: \n<CARINHA FELIZ>\"Você conseguiu!\! Bom para você!\"
+
+message_687:
+      text: \n<CARINHA CARRANCUDA>\"Desculpe. Não resisti.\"
+
+#--- treasure Map
+
+message_690:
+      text: Você pegou um \c[4]MAPA DO TESOURO\c[0]!
+
+#clams
+message_691:
+      text: Você achou 1 concha!
+
+message_700:
+      text: Uma bola de espirobol em um lugar incomum.
+
+#--- treasure Map
+
+
+
+#Orange Oasis
+
+message_800:
+      text: Realmente é uma grande banana.
+
+message_801:
+      text: Realmente é uma grande maçã.
+
+message_802:
+      text: Realmente são umas uvas grandes.
+
+#Orange Oasis
+
+message_805:
+      text: Plantas para uma casa de dois andares.
+
+message_806:
+      text: Plantas para um arranha-céu de duzentos andares.
+
+message_807:
+      text: Mobília roubada e inúmeras bugigangas.
+
+
+message_808:
+      text: Um sanduíche hero dourado.
+
+message_809:
+      text: O.
+
+message_810:
+      text: Festa assombrada!
+
+message_811:
+      text: Copos de plástico cheios de \c[3]LIMONADA\c[0].
+
+#SPROUT MOLE COLONY
+
+message_820:
+      text: Um cabinete estranho.
+
+message_821:
+      text: Uma estranha lâmpada de mesa.
+
+message_823:
+      text: Uma estranha lâmpada de chão.
+
+message_824:
+      text: Um jogo de mesa estranho.
+
+message_825:
+      text: Uma grande poltrona.
+
+message_826:
+      text: Uma grande TV.
+
+message_830:
+      text: Cheio de peixes, mas apenas os ossos.
+
+message_831:
+      text: O saco de dormir do GURI-PEIXE.\! Cheira à alga do mar e vinagre.
+
+message_832:
+      text: Livros sobre os diversos usos de peixes, molho de peixe, óleo de peixe e cola de peixe.\! Também há alguns livros sobre culinária.
+
+message_833:
+      text: Plantinhas marinhas.
+
+message_834:
+      text: Poções coloridas e frascos de todos os tamanhos e tipos.
+
+message_835:
+      text: Páginas de pesquisa, escritas em uma língua que você não sabe ler.
+
+message_836:
+      text: Uma mistura duvidosa, é melhor não tocar nelas.
+
+message_837:
+      text: Plantas usadas para pesquisa.
+
+message_838:
+      text: Um microscópio.
+
+message_839:
+      text: Livros cheios de conhecimento em uma lígua que você não sabe ler.
+
+message_840:
+      text: Cama do AMENDOIM.
+
+message_841:
+      text: Cama da GELEIA.
+
+message_842:
+      text: Cama da PALMIE.
+
+message_843:
+      text: Velhas pinturas e bugigangas.
+
+message_844:
+      text: Uma geladeira temática de pães com pães dentro.
+
+message_845:
+      text: Estante da PALMIE.
+
+message_846:
+      text: Estante da GELEIA.
+
+message_847:
+      text: Estante do AMENDOIM.
+
+message_848:
+      text: Torrada.
+
+message_849:
+      text: Sopa misteriosa.
+
+#CASINO
+
+message_850:
+      text: Jogos para pessoas sortudas e azaradas.
+
+message_851:
+      text: Um espelho...<br>\!Mas ele faz você parecer especialmente carismático!
+
+message_852:
+      text: \"EMPREGADO DO MÊS\"\!<br>Uau...
+
+#Molly
+
+message_855:
+      text: Disperdício.
+
+message_856:
+      text: Disperdício nuclear.
+
+message_857:
+      text: Ferramentas para... pesquisa.
+
+
+#Sculptor
+
+message_860:
+      text: Vários suprimentos para escultura.
+
+
+#Yellow Sub
+
+message_900:
+      text: \"APROVEITE OS MELHORES \c[3]X-BURGUERS\c[0] NA CIDADE...\!<br>\c[3]FRITAS\c[0], \c[3]REFRI SABOROSO\c[0], \c[3]GELEIA VITAL\c[0], VOCÊ DECIDE...\!<br>OU MELHOR AINDA...\! FAÇA SEU PEDIDO UMA \c[4]REFEIÇÃO COMBO\c[0]!\"
+
+message_901:
+      text: Advertisements.
+
+message_902:
+      text: \"APRESENTAÇÃO ANUAL DE DANÇA SINCRONIZADA DO \c[11]FUNDO DO POÇO\c[0] -<br>O PRIMEIRO LUGAR SERÁ ENTREGUE À PIRUETAS DE PITSTOP\"
+
+message_903:
+      text: Estantes cheias de flores.\! Cheira como a primavera.
+
+
+#SW Gallery
+
+message_910:
+      text: De cima á baixo...
+
+message_911:
+      text: \"UM DOMINGO COM SWEETHEART\"
+
+message_912:
+      text: \"NOITE DA SWEETHEART\"
+
+message_913:
+      text: \"MONA SWEETHEART\"
+
+message_914:
+      text: \"GRITOHEART\"
+
+message_915:
+      text: \"A CRIAÇÃO DE SWEETHEART\"
+
+message_916:
+      text: \"SWEETHEARTNICA\"
+
+message_917:
+      text: \"O NASCIMENTO DE SWEETHEART\"
+
+message_918:
+      text: \"SWEETHEART COM O BRINCO DO AMOR\"
+
+message_919:
+      text: \"SWEETHEART ATRAVESSANDO O NORDESTE\"
+
+message_920:
+      text: \"SWEETHEART COMENDO UM BURRITO\"
+
+message_921:
+      text: \"O BALANÇO (HORASWEET)\"
+
+#======== ORANGE JOE'S Cliff ======
+
+message_922:
+      text: Uma piscina laranja.
+
+#======== Train Baggage ======
+
+message_923:
+      text: Uma mala cheia de ossos.
+
+message_924:
+      text: Uma mala cheia de cristais.
+
+message_925:
+      text: Uma mala cheia de cruzes.
+
+message_926:
+      text: Uma mala cheia de teias de aranha.
+
+message_927:
+      text: Uma mala cheia de bagas.
+
+message_928:
+      text: Uma mala cheia de terra.
+
+#======== Train Baggage ======
+
+message_930:
+      text: Uma cama para \c[3]ROSQUINHAS\c[0].
+
+#LAST RESORT Concierge
+
+message_931:
+      text: Agenda da AUBREY.\! Um caderno com um calendário das próximas semanas organizado por cores, está quase escrito em giz de cera e lápis de cor.
+
+#ORANGES
+
+message_932:
+      text: Laranjas com notas escritas nelas.
+
+message_933:
+      text: \"Para o meu querido irmão JÃO LAJANRA.\! Espero que essa mensagem chegue até você.\! Por favor venha para casa.\"
+
+message_934:
+      text: Uma fruta similar a uma laranja.
+
+message_935:
+      text: Copos de suco laranjas e similares a laranjas.
+
+#tire SWING
+
+message_936:
+      text: Só um balanço de pneu.
+
+#PANTRY
+message_937:
+      text: Grandes potes de mel.
+
+message_938:
+      text: Cozinha sagrada.
+
+#Quarters
+
+message_939:
+      text: Uma cama de BROTOPEIRAS.\! Cheira a lavanderia suja.
+
+#LAST RESORT OUTSIDE
+
+message_940:
+      text: Mesas chiques de viagem.
+
+#MARINA office
+
+message_941:
+      text: Planos de um experimento bem sucedido.
+
+message_942:
+      text: Uma caixa cheia de geleca.
+
+message_943:
+      text: Uma mesa coberta em geleca.
+
+message_944:
+      text: Um computador quebrado.
+
+message_945:
+      text: Planos de um experimento mal sucedido.
+
+message_946:
+      text: Restos de um velho escritório.
+
+
+#poKE
+
+message_950:
+      text: Você quer cotucar o vidro?
+
+message_951:
+      text: Você quer cotucar a grande TORRADA?
+
+#orange Oasis
+
+message_952:
+      text: Caramba.
+
+#girls bathroom
+
+message_953:
+      text: \n<ESPELHO ROSA>Eu sou o espelho na parede,\| e eu te nomeio...\|<br>o mais fofo de todos!
