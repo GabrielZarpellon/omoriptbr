@@ -236,7 +236,7 @@ message_58:
 
 #Vanity:
 message_59:
-      text: Uma vaidade.
+      text: Um espelho.
 
 #Toilet:
 message_60:
@@ -1768,7 +1768,7 @@ message_1000:
 message_680:
       faceset: MainCharacters_Faraway
       faceindex: 13
-      text: Olhe HERO, nós compramos seus preferidos...\! alguns \c[3]COOKIES\c[0] com gotas de chocolate e um clássico \c[3]SANDUÍCHE HEROICO\c[0]!\kel
+      text: Olhe HERO, nós compramos seus preferidos...\! alguns \c[3]COOKIES\c[0] com gotas de chocolate e um clássico \c[3]SANDUÍCHE DO HERO\c[0]!\kel
 
 message_681:
       faceset: MainCharacters_Faraway
@@ -1833,7 +1833,7 @@ message_1014:
       text: Uma cômoda.
 
 message_1015:
-      text: Você obteve \c[5]KIT DE PRIMEIROS-SOCORROS\c[0].
+      text: Você obteve \c[5]KIT MÉDICO\c[0].
 
 message_1016:
       text: Lírio-do-vale.\! Dizem que é capaz de espantar espíritos malignos e ajudar as pessoas a enxergar um futuro melhor.

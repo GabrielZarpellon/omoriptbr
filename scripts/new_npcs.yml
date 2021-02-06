@@ -16,7 +16,7 @@ message_1:
 message_2:
       text: \n<NEREENE>Nossa! Já faz um bom tempo desde que vi vocês quatro.\! Tramando algo, posso presumir?
 message_3:
-      text: \n<NEREENE>Aprenderam a lição depois de se aventurarem saindo dos túneis?\! Da próxima vez não terão tanta sorte!
+      text: \n<NEREENE>Aprenderam a lição depois de se aventurarem saíndo dos túneis?\! Da próxima vez não terão tanta sorte!
 
 message_4:
       text:
@@ -751,7 +751,7 @@ message_359:
 #Sereno
 #[UNPLACED]
 message_166:
-      text: \n<SERENO>As lendas falam sobre dois irmãos gêmeos que são guardiões do \c[11]OÁSIS LARANJA\c[0] , e vigiam tudo com seus olhos perspicazes.\! É dito que eles possuem o poder de levantar os mortos...\! além de outras coisas...
+      text: \n<SERENO>As lendas falam sobre dois irmãos gêmeos que são guardiões do \c[11]OÁSIS LARANJA\c[0] , e vigiam tudo com seus olhos perspicazes.\! Dizem que eles podem levantar os mortos...\! além de outras coisas...
 
 message_167:
       text: \n<SERENO>Eu não sei se há muitas verdades nessas lendas, mas não seria interessante?
@@ -1278,7 +1278,7 @@ message_307:
 #LAST RESORT
 
 message_310:
-      text: \n<BROTOPEIRA MIKE>\com[2]Hicc...\! ...\! \sinv[1]NAMORADO ESPACIAL isso...\! NAMORADO ESPACIAL aquilo...\! mas e quanto a BROTOPEIRA MIKE?
+      text: \n<BROTOPEIRA MIKE>\com[2]Hicc...\! ...\! \sinv[1]CAPITÃO SPACEBOY isso...\! CAPITÃO SPACEBOY aquilo...\! mas e quanto a BROTOPEIRA MIKE?
 
 message_311:
       text: \n<CARA JACARÉ>Essa atmosfera é top de linha.\! Eu aposto que o REUBEN prepara um \sinv[1]booooooom \c[3]SUCO DE FRUTA\c[0]...\sinv[0]
