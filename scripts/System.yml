@@ -547,7 +547,7 @@ plugins:
     alertMessages:
       restoreGeneral: Configuração padrão foi restaurada. Você deseja recuperar global.rpgsave?
     buttonHints:
-      confirm: OK
+      confirm: CONFIRMAR
       cancel: CANCELAR
     inputWarning:
       keyboardMessage: "Você não pode editar o TECLADO usando seu CONTROLE!"
