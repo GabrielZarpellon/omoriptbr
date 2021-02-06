@@ -7,22 +7,22 @@
 message_0:
       faceset: MainCharacters_DreamWorld
       faceindex: 19
-      text: OMORI! Era aí onde você tava!\kel
+      text: OMORI! Aí está você!\kel
 
 message_1:
       faceset: MainCharacters_DreamWorld
       faceindex: 40
-      text: Você viu o BASIL?<br>\!Nós não encontramos ele em nenhum lugar.\her
+      text: Você viu o BASIL?<br>\!A gente não acha ele em lugar nenhum.\her
 
 message_2:
       faceset: MainCharacters_DreamWorld
       faceindex: 40
-      text: BASIL...\! É como se ele tivesse desaparecido completamente.\!<br>Não conseguimos achar ele...\! Eu até perguntei pra MARI, mas ela não sabe de nada também.\her
+      text: BASIL...\! É como se ele tivesse desaparecido no ar.\!<br>Não achamos ele em lugar nenhum...\! Até perguntei para a MARI, mas ela também não sabe de nada.\her
 
 message_3:
       faceset: MainCharacters_DreamWorld
       faceindex: 4
-      text: Estavamos pensando em voltar para a casa dele e ver se achamos algo.\! Você lidera o caminho OMORI?\aub
+      text: Estamos pensando em voltar para a casa de BASIL e ver se algo passou despercebido.\! Pode liderar o caminho, OMORI?\aub
 
 # =========================================================================================
 # Cutscene: The First Blackletter
@@ -279,14 +279,14 @@ message_3:
 #Upon examining the door, PLAYER moves back. An envelope slips through the bottom of the door.
 
 message_114:
-      text: Há um envelope no chão.\! Pegar?
+      text: Tem um envelope no chão.\! Quer pegá-lo?
 
 #Screen fade black.
 #Opening envelope SFX
 #Wait 60 frames
 
 message_103:
-      text: Você agora tem \c[4]LETTER CHECKLIST\c[0] e o \c[4]MAPA\c[0].
+      text: Você agora possui o \c[4]LISTA DE LETRAS\c[0] e o \c[4]MAPA\c[0].
 
 message_104:
       text: Pressione \DII[pageup] para ver.
