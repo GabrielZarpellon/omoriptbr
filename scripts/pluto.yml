@@ -84,10 +84,10 @@ message_10:
 #SPACE PIRATE turns to party
 
 message_11:
-    text: \n<MANO PIRATA ESPACIAL>Ei, crianças! Estamos procurado um planeta interesterlar de alto nível e refinado chamado PLUTÃO.\! Ele é um cara grade, circular, acinzentado e com grades músculos pretuberantes.
+    text: \n<MANO PIRATA ESPACIAL>Ei, crianças! Estamos procurado um planeta interestelar de alto nível e refinado chamado PLUTÃO.\! Ele é um cara grande, circular, acinzentado e com grandes músculos protuberantes.
 
 message_12:
-    text: \n<MANO PIRATA ESPACIAL>Meio difícl de passar despercebido...\!<br>Vocês viram ele?
+    text: \n<MANO PIRATA ESPACIAL>Meio difícil de passar despercebido...\!<br>Vocês viram ele?
 
 
 message_13:
@@ -114,7 +114,7 @@ message_16:
 message_17:
     faceset: MainCharacters_DreamWorld
     faceindex: 18
-    text: \kel\}Okay, senhor... Tá tudo limpo.\{
+    text: \kel\}Ok, senhor... Tá tudo limpo.\{
 
 #PLUTO pops out of crater, potted plant drops
 #PLUTO laugh
@@ -294,7 +294,7 @@ message_133:
     text: \pluAhem...\! Repita depois de mim.
 
 message_134:
-    text: \plu\Com[2]\{\quake[1]QUANDO FAÇO \c[1]FLEXÃO\c[0], ME SINTO FORTÃO!!\}
+    text: \plu\Com[2]\{\quake[1]QUANDO FAÇO \c[1]FLEXÃO\c[0], SOU FORTÃO!!\}
 
 message_135:
     text: \pluAgora é com você.
@@ -302,7 +302,7 @@ message_135:
 message_136:
     faceset: MainCharacters_DreamWorld
     faceindex: 17
-    text: \kel\Com[2]\{QUANDO FAÇO \c[1]FLEXÃO\c[0],\} Me \}sinto...
+    text: \kel\Com[2]\{QUANDO FAÇO \c[1]FLEXÃO\c[0],\} Sou \}...
 
 message_137:
     faceset: MainCharacters_DreamWorld
@@ -363,7 +363,7 @@ message_100:
   text: \n<SNALEY>Clima bom hoje, não é?
 
 message_101:
-  text: \n<SNALEY>Oh, meu deus! \!Eu estou em seu caminho?\!<br>Me desculpe.\! Eu vou me mover.
+  text: \n<SNALEY>Oh, meu Deus! \!Eu estou em seu caminho?\!<br>Me desculpe.\! Eu vou me mover.
 
 # =========================================================================================
 # PLUTO DOCK
