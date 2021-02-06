@@ -113,7 +113,7 @@ message_22:
 message_23:
       faceset: MainCharacter_Basil
       faceindex: 0
-      text: \basEstas flores são chamadas de lírio do vale.\! É dito que elas são capazes de expulsar mals espíritos e guiar as pessoas para um futuro melhor...
+      text: \basEstas flores são chamadas de lírio-do-vale.\! É dito que elas são capazes de expulsar maus espíritos e guiar as pessoas para um futuro melhor...
 
 message_24:
       faceset: MainCharacter_Basil
@@ -207,7 +207,7 @@ message_44:
 message_45:
       faceset: MainCharacter_Basil
       faceindex: 2
-      text: \basAh!\! Estes são um tipo de flor chamadas gladiolus!
+      text: \basAh!\! Estes são um tipo de flor chamadas de gladíolo!
 
 message_46:
       faceset: MainCharacters_DreamWorld
@@ -217,7 +217,7 @@ message_46:
 message_47:
       faceset: MainCharacter_Basil
       faceindex: 1
-      text: \basGladiolus! Também conhecidas como “espadas flor”!
+      text: \basGladíolo! Também conhecidas como “espadas flor”!
 
 message_48:
       faceset: MainCharacter_Basil
@@ -227,7 +227,7 @@ message_48:
 message_49:
       faceset: MainCharacter_Basil
       faceindex: 1
-      text: \basAs gladiolus me lembram da AUBREY, porque ela é sempre verdadeira à si mesma!
+      text: \basAs gladíolos me lembram da AUBREY, porque ela é sempre verdadeira à si mesma!
 
 message_50:
       faceset: MainCharacters_DreamWorld
@@ -333,7 +333,7 @@ message_201:
       text: \basÉ assim que eu quero ser...\! alguém que sempre vê o lado bom das coisas.
 
 message_202:
-      text: \basEstas flores são chamadas de lírio do vale.\! É dito que elas são capazes de expulsar mals espíritos e guiar as pessoas para um futuro melhor...
+      text: \basEstas flores são chamadas de lírio do vale.\! É dito que elas são capazes de expulsar maus espíritos e guiar as pessoas para um futuro melhor...
 
 message_203:
       text: \basEu acho que é por isso que elas me lembram da MARI.\!<br>Eu sempre posso confiar nela para me ajudar a ficar bem.
@@ -348,13 +348,13 @@ message_206:
       text: \basO HERO não me lembra de nenhuma rosa em específico.\!<br>Eu acho que o HERO é que nem todas as rosas, ele é versátil e amado por todos...
 
 message_207:
-      text: \basEstas são um tipo de flor chamado gladiolus, também conhecidas como “espadas flor”.
+      text: \basEstas são um tipo de flor chamado gladíolo, também conhecidas como “espadas flor”.
 
 message_208:
       text: \basComo vocês já podem adivinhar, elas representam força de caráter.\! Alguém que é honesto, com fortes valores morais...\! Alguém que defende suas convicções...
 
 message_209:
-      text: \basAs gladiolus me lembram da AUBREY, porque ela é sempre verdadeira à si mesma.
+      text: \basAs gladíolos me lembram da AUBREY, porque ela é sempre verdadeira à si mesma.
 
 message_210:
       text: \basCactos são bem fortes e resilientes por natureza..\! Eles não precisam de muito cuidado e podem sobreviver a situações aparentemente impossíveis.
