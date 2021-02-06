@@ -898,16 +898,16 @@ message_279:
 #DAY 0-2:OTHERWORLD
 
 message_280:
-      text: Ahn? O BASIL está desaparecido de novo?\!<br>Não fui eu dessa vez, Eu juro!\!<br>Agora deixa eu me arrepender sozinho!\n<BOSS>
+      text: Ahn? O BASIL está desaparecido de novo?\!<br>Não fui eu dessa vez, Eu juro!\!<br>Agora deixa eu me arrepender sozinho!\n<CHEFE>
 
 #DAY 1:SWEETHEART
 
 message_281:
-      text: Vocês não acharam o BASIL, ainda?\!<br>Vocês são uns perdedores!\n<BOSS>
+      text: Vocês não acharam o BASIL, ainda?\!<br>Vocês são uns perdedores!\n<CHEFE>
 
 
 message_282:
-      text: ...\! Me avisem se encontrarem ele, tá bem?\!<br>Eu só quero saber se ele está seguro...\n<BOSS>
+      text: ...\! Me avisem se encontrarem ele, tá bem?\!<br>Eu só quero saber se ele está seguro...\n<CHEFE>
 
 #DAY 2:DEEP WELL
 #RECKUT IS GONE
