@@ -12,7 +12,7 @@
 message_0:
     faceset: MainCharacter_Mari
     faceindex: 3
-    text: \marOi, OMORI! Cara de paisagem como sempre, huh?\!<br>Você deveria sorrir muito mais! Eu sempre gostei do seu sorriso.
+    text: \marOi, OMORI! Cara de paisagem como sempre, Eu vejo.\!<br>Você deveria sorrir muito mais! Eu sempre gostei do seu sorriso.
 
 #If AUBREY is leader:
 message_1:
@@ -124,7 +124,7 @@ message_26:
 message_30:
       faceset: MainCharacter_Mari
       faceindex: 2
-      text: \marVocês não estavam indo para a casa do BASIL?\. Eu acho que vou deixar essa de lado, mas vão e se divirtam!\.\^
+      text: \marVocês não estavam indo para a casa do BASIL?\. Eu acho que vou deixar essa de lado, mas vão se divitam!\.\^
 
 message_31:
       faceset: MainCharacter_Mari
@@ -189,7 +189,7 @@ message_41:
 message_42:
       faceset: MainCharacter_Mari
       faceindex: 1
-      text: \marUfa... Essa foi ruinzinha... mas pelo menos tudo saiu bem.\. Esperamos que agor o CAP. SPACEBOY vá conseguir ficar em paz.\.\^
+      text: \marUfa... Essa foi ruinzinha... mas pelo menos tudo saiu bem.\. Esperamos que agora CAP. SPACEBOY vai conseguir ficar em paz.\.\^
 
 message_43:
       faceset: MainCharacter_Mari
@@ -266,7 +266,7 @@ message_80:
 message_85:
       faceset: MainCharacter_Mari
       faceindex: 4
-      text: \marDroga... o pet-drito do KEL, \c[13]HECTOR\c[0], caiu do seu bolso.\. Desculpa, KEL. Eu não tenho certeza aonde ele está, mas não desista!\.\^
+      text: \marDroga... o pet drito do KEL, \c[13]HECTOR\c[0], caiu do seu bolso.\. Desculpa, KEL. Eu não tenho certeza a onde ele está, mas não desista!\.\^
 
 message_86:
       faceset: MainCharacter_Mari
@@ -286,19 +286,19 @@ message_86:
 message_90:
       faceset: MainCharacter_Mari
       faceindex: 6
-      text: \marAhh... A DAISY tá tentando fazer com que o NEB note ela com um \c[4]QUEBRA-CABEÇA DE FLORES\c[0].\. Que fofo!\. Eu acho que o MIKAL jogou um fora.\. Talvez você encontre!\^
+      text: \marAhh... A DAISY tá tentando fazer com que o NEB note ela com um \c[4]QUEBRA-CABEÇA DE FLORES\c[0].\. Que fofo!\. Eu acho que o MIKAL jogo um fora.\. Talvez você encontre!\^
 
 #After getting FLOWER PUZZLE:
 
 message_95:
       faceset: MainCharacter_Mari
       faceindex: 3
-      text: \marEi, você conseguiu um \c[4]QUEBRA-CABEÇA DE FLORES\c[0]!\. Não era isso que a DAISY queria dar para o NEB?\. É bem a cara dele mesmo.\. \}<br>Hehe...\.\^
+      text: \marEi, você conseguiu um \c[4]QUEBRA-CABEÇA DE FLORES\c[0]!\. Não era isso que a DAISY queria dar para o NEB?\. É bem a cara dele memso.\. \}<br>Hehe...\.\^
 
 message_96:
       faceset: MainCharacter_Mari
       faceindex: 0
-      text: \marYay! A DAISY tem o \c[4]QUEBRA-CABEÇA DE FLORES\c[0] para dar ao NEB agora, mas será que ela vai mesmo?\. Aguarde os próximos capítulos!\.\^
+      text: \marYay! A DAISY tem o \c[4]QUEBRA-CABEÇA DE FLORES\c[0] para dar ao NEB agora, mas ela vai fazer isso mesmo?\. Aguarde os próximos capítulos!\.\^
 
 # =========================================================================================
 
@@ -537,7 +537,7 @@ message_180:
 message_181:
       faceset: MainCharacter_Mari
       faceindex: 0
-      text: \marUau! A BERLY te dou um \c[4]CERTIFICADO DE CABEÇUDA\c[0]?\. Aposto que ela ficou a noite inteira pensando nisso.\.\^
+      text: \marUau! A BERLY te deu um \c[4]CERTIFICADO DE CABEÇUDA\c[0]?\. Aposto que ela ficou a noite inteira pensando nisso.\.\^
 
 # =========================================================================================
 
