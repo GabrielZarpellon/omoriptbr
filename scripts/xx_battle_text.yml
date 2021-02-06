@@ -88,7 +88,7 @@ message_16:
 
 message_17:
    text: >
-    \>GURI DA PIPA: \<Haha! Que nem prediz o vento!\! Eu e a minha pipa somos inbátiveis.
+    \>GURI DA PIPA: \<Haha! Que nem prediz o vento!\! Eu e a minha pipa somos inbatíveis.
 
 
 # ============Enemy:  PLUTO
@@ -107,7 +107,7 @@ message_19:
 
 message_20:
    text: >
-    \>???: \<\<<br>Que demonstração esplendida de força!
+    \>???: \<\<<br>Que demonstração esplêndida de força!
 
 # After Defeat
 
@@ -1547,7 +1547,7 @@ message_298:
 
 message_299:
    text: >
-    \>AUBREY: \<Então o que você tá dizendo é que é a hora perfeita para atcar! \!Vamos lá, OMORI!\! Vamo arrebentar!
+    \>AUBREY: \<Então o que você tá dizendo é que é a hora perfeita para atacar! \!Vamos lá, OMORI!\! Vamo arrebentar!
 
 # HAPPY MOLE
 message_300:
@@ -1881,7 +1881,7 @@ message_450:
 
 message_445:
    text: >
-    \>CHEFE: \<HUH!?\! COMO VOCÊS AINDA TÃO SE MOVENDO!?
+    \>CHEFE: \<HUH!?\! COMO VOCÊS AINDA ESTÃO SE MOVENDO!?
 
 # ============SWEETHEART
 message_451:
