@@ -12,7 +12,7 @@
 message_0:
     faceset: MainCharacter_Mari
     faceindex: 3
-    text: \marOi, OMORI! Cara de paisagem como sempre, Eu vejo.\!<br>Você deveria sorrir muito mais! Eu sempre gostei do seu sorriso.
+    text: \marOi, OMORI! Cara de paisagem como sempre, huh?\!<br>Você deveria sorrir muito mais! Eu sempre gostei do seu sorriso.
 
 #If AUBREY is leader:
 message_1:
@@ -124,7 +124,7 @@ message_26:
 message_30:
       faceset: MainCharacter_Mari
       faceindex: 2
-      text: \marVocês não estavam indo para a casa do BASIL?\. Eu acho que vou deixar essa de lado, mas vão se divitam!\.\^
+      text: \marVocês não estavam indo para a casa do BASIL?\. Eu acho que vou deixar essa de lado, mas vão e se divirtam!\.\^
 
 message_31:
       faceset: MainCharacter_Mari
@@ -266,7 +266,7 @@ message_80:
 message_85:
       faceset: MainCharacter_Mari
       faceindex: 4
-      text: \marDroga... o pet drito do KEL, \c[13]HECTOR\c[0], caiu do seu bolso.\. Desculpa, KEL. Eu não tenho certeza a onde ele está, mas não desista!\.\^
+      text: \marDroga... o pet-drito do KEL, \c[13]HECTOR\c[0], caiu do seu bolso.\. Desculpa, KEL. Eu não tenho certeza aonde ele está, mas não desista!\.\^
 
 message_86:
       faceset: MainCharacter_Mari
@@ -298,7 +298,7 @@ message_95:
 message_96:
       faceset: MainCharacter_Mari
       faceindex: 0
-      text: \marYay! A DAISY tem o \c[4]QUEBRA-CABEÇA DE FLORES\c[0] para dar ao NEB agora, mas ela vai fazer isso mesmo?\. Aguarde os próximos capítulos!\.\^
+      text: \marYay! A DAISY tem o \c[4]QUEBRA-CABEÇA DE FLORES\c[0] para dar ao NEB agora, mas será que ela vai mesmo?\. Aguarde os próximos capítulos!\.\^
 
 # =========================================================================================
 
