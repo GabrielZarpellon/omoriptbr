@@ -797,14 +797,14 @@ message_620:
 #Location: Gino's Pizza
 
 message_630:
-      text: \n<MÃE DA BEBE>Minha filha mais velha está voltando da faculdade hoje a noite! Eu tenho certeza que ela tem várias dicas sobre o que é maneiro e descolado hoje em dias... Hoho! Eu mal posso esperar para falar com ela!
+      text: \n<MÃE DA BEBE>Minha filha mais velha está voltando da faculdade hoje a noite! Eu tenho certeza que ela tem várias dicas sobre o que é maneiro e descolado hoje em dia... Hoho! Eu mal posso esperar para falar com ela!
 
 #==========================BILLY (Recycultist)==============================
 
 #Location: FARAWAY PARK in a Recycultist's Outfit
 
 message_640:
-      text: \n<RECICULTISTA>Irmãos e irmãs, nós devemos todos aceitar que somos LIXO.\! Mas apesar de sermos LIXO, contanto que sejamos biodegradáveisa, nós podemos ser salvos.
+      text: \n<RECICULTISTA>Irmãos e irmãs, nós devemos todos aceitar que somos LIXO.\! Mas apesar de sermos LIXO, contanto que sejamos biodegradáveis, nós podemos ser salvos.
 
 #==========================BRENT==============================
 
@@ -1021,7 +1021,7 @@ message_830:
       text: \n<PAI DA SARAH>Minha esposa fica me dizendo que estou ficando mais gordo e redondo, mas eu não consigo me segurar quando vivemos tão próximos da \c[11]PIZZARIA DO GINO\c[0]!
 
 message_831:
-      text: \n<PAI DA SARAH>Ai ai...\! Eu realmente não deveria ir comprar algo.\! Noite passada, minha esposa sentiu o cheiro de pepperoni no meu hálito e ficou muito brava...
+      text: \n<PAI DA SARAH>Ai ai...\! Eu realmente não deveria ir comprar nada.\! Noite passada, minha esposa sentiu o cheiro de pepperoni no meu hálito e ficou muito brava...
 
 
 #=========================SARAH's MOM==============================
