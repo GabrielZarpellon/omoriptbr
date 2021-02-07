@@ -1,0 +1,454 @@
+# =========================================================================================
+# Farawaytown extras daily dialogue
+# =========================================================================================
+
+#=========================================================================================
+# DAY 1 - DAY
+#=========================================================================================
+
+# ===================Basil================
+#Examine BASIL's House Door.
+
+message_1:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: Hmm...\! Sem resposta...\kel
+
+message_2:
+      faceset: MainCharacters_Faraway
+      faceindex: 20
+      text: Talvez o BASIL esteja no banheiro ou algo assim.\kel
+
+message_3:
+      faceset: MainCharacters_Faraway
+      faceindex: 12
+      text: Então tudo bem. Nós podemos falar com ele depois.\kel
+
+message_4:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: Vambora, \n[8]! Nós temos um \c[4]ÀLBUM DE FOTOS\c[0] para encontrar!\kel
+
+#===============ANGEL=====================
+
+#Location: FARAWAY PARK (Cutscene: Charlie & Angel Fight)
+
+message_10:
+      text: \n<ANGEL>O professor foi até a fonte na \c[11]PRAÇA TÃO-DISTANTE\c[0].\! <br>Ele disse que estava indo lá para se encontrar com algumas garotas...\! <br>é um encontro ou algo assim
+
+#===============CHARLIE=====================
+
+#Location: FARAWAY PARK (Cutscene: Charlie & Angel Fight)
+
+message_20:
+      text: \n<CHARLIE>...
+
+message_21:
+      text: \n<CHARLIE>... ... ...
+
+#===============MAVERICK=====================
+
+#Location: Town Plaza
+
+message_30:
+      text: \n<O MAVERICK>Eu não vou dizer onde a AUBREY está a não ser que você me chame de<br>\Com[2]O MAVERICK!
+
+
+#===============ARTIST=====================
+
+#Location: Artist's house - Agree with me! Quest
+
+message_40:
+      text: \n<ARTIST>Hmmm...\! Essa talvez seja a minha melhor obra até agora!
+
+#===============SHORT HAIR GIRL=====================
+
+#Location: Town Plaza (Near the fountain)
+
+message_50:
+      text: \n<GAROTA DE CABELO CURTO>Eu acabei de desejar que eu conheça o amor da minha vida hoje!
+
+#After Cutscene: The Maverick's Loss
+
+message_51:
+      text: \n<GAROTA DE CABELO CURTO>Uau...\! Aquele garoto com a peruca loura é tão maneiro...\!<br>Eu queria ser confiante como ele.
+
+
+#===============FASHIONABLE MOM=====================
+
+#Location: Supermarket
+
+message_60:
+      text: \n<MÃE ELEGSNTE>Meu filho BILLY é um defensor do meio ambiente.\! Ele e seus amigos estão sempre coletando \c[4]LIXO\c[0] na cidade.
+
+message_61:
+     text: \n<MÃE ELEGANTE>É bom ver os jovens cuidando do planeta hoje em dia!
+
+#===============STRANGE MAN=====================
+
+#Location: Supermarket
+
+message_70:
+      text: \n<HOMEM ESTRANHO>Todas as embalagens dessa seção podem ser recicladas para <br>criar novas embalagems de novo e de novo...\! <br>É um belo conceito, não concorda?
+
+#===============SCHOOL PRINCIPAL=====================
+
+#Location: BRENT'S HOUSE
+
+message_80:
+      text: \n<DIRETOR DA ESCOLA>Muito bem, tutor...\! Se sinta livre para voltar amanhã!
+
+#===============OLD BEARDY=====================
+
+#Location: GINO'S PIZZA
+
+message_90:
+      text: \n<VELHO BARBUDO>Ei, molecada.\! Vocês me acharam na minha folga!
+
+message_91:
+      text: \n<VELHO BARBUDO>\SINV[2]GW\{AH\{AHA\{HAH\{AHA!!\SINV[0]
+
+message_92:
+      text: \n<VELHO BARBUDO>Eu estive tentando decidir o que comer por uns dez minutos, mas eu não sei por que estou enrolando tanto...
+
+message_93:
+      text: \n<VELHO BARBUDO>Qualquer opção que eu escolher com certeza será boa!
+
+#===============After completing Medication Quest: Charlie's Mom=====================
+
+#Location: Other street in front of her HOUSE
+
+message_100:
+      text: \n<VOVÓ DO COQUE AMARELO>Minha filha é normalmente tão atenciosa comigo...\! Me pergunto onde ela está.
+
+message_101:
+      text: \n<VOVÓ DO COQUE AMARELO>Ela sempre foi muito quieta, mas fez muitos amigos novos recentemente.\! Eu espero que ela não se esqueça de mim...
+
+#===============CRIS'S DAD=====================
+
+#Location: Where's the Remote? Couch in Cris's HOUSE
+
+message_110:
+      text: Os olhos do CARA MUITO AMERICANO estão fixados na TV.
+
+message_111:
+      text: \n<CARA MUITO AMERICANO>\Com[2]O número 85 estava livre!\! \Com[2]Que tipo de passe foi esse!?
+
+#===============CRIS'S MOM=====================
+
+#Location: CRIS'S HOUSE in the kitchen
+
+message_120:
+      text: \n<MÃE MUITO AMERICANA>Você gostou da torta?\!<br>Estou trabalhando em deixar minha receita perfeita para a feira de fim de verão do condado!
+
+message_121:
+      text: \n<MÃE MUITO AMERICANA>Eu ganhei em todos os anos <br>em que participei até agora, e esse ano não vai ser diferente!\! Ohoho!
+
+#===============CURTSEY=====================
+
+#Location: CANDY SHOP
+
+message_130:
+      text: \n<GAROTA FOFA>Bem-vindos!\! Nós esperamos que nossos \c[3]DOCES\c[0] lhe abram um sorriso!
+
+message_131:
+      text: \n<SRTA. CANDICE>\{\com[2]EU JÁ TE DISSE, CURTSEY!\! É \sinv[1]\"RISOS RISOS\"\sinv[0]!\!
+
+message_132:
+      text: \n<SRTA. CANDICE>\{\{\quake[1]\sinv[1]\"R\.I\.S\.O\.S\.!\"\sinv[0]
+
+message_133:
+      text: \n<GAROTA FOFA>S-S-S-S-S-Sim, moça!
+
+message_134:
+      text: \n<GAROTA FOFAL>Bem-vindos!\! Nós esperamos que nossos \c[3]DOCES\c[0] lhe abram risos risos...!
+
+
+#===============Daphne & Bowen=====================
+
+#Location: Supermarket, working at the Bakery
+
+message_140:
+      text: \n<UM GÊMEO>\SINV[1]Pão fesquinho...\SINV[0]
+
+message_141:
+      text: \n<O OUTRO GÊMEO>\SINV[1]Pão fesquinho...\SINV[0]
+
+message_142:
+      text: \n<OS GÊMEOS>\SINV[1]Vocês gostariam de alguns pães fresquinhos?\SINV[0]
+
+#===============Gino=====================
+
+#Location: Gino's Pizza: Sitting at table
+
+message_150:
+      text: \n<HOMEM DE ÓCULOS>Olá, olá!\! Meu nome é GINO!
+
+message_151:
+      text: \n<HOMEM DE ÓCULOS>Eu sei o que você está pensando, mas não... Eu não sou o dono daqui...\! mas eles me dão uma <br>\c[3]PIZZA INTEIRA\c[0] de graça no meu aniversário todo ano, então isso é bem maneiro.
+
+#===============Hector (Dog)=====================
+
+#Location: Player's Street
+
+message_160:
+      text: \n<HECTOR>\quake[1]\Com[2]Au! \{Au! \{Au!\}\} Au!\! \{Au! \}Au! \}Au!\quake[0]<br>\!(Eu sou um bom garoto!)
+
+#===============JOCK=====================
+
+#Location: FARAWAY PARK, running around the basketball court
+
+message_170:
+      text: \n<ATLETA>Huff...\! Huff...\! Oh, e aí!\! Qual é a boa?\! Huff...\!<br>O que você está fazendo aqui, KEL?<br>Você é dessa parte da cidade?
+
+message_171:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelOh, uau! Eu não esperava ver você aqui, JAY!
+
+message_172:
+      faceset: MainCharacters_Faraway
+      faceindex: 12
+      text: \kel\n[8], esse é o JAY. Ele é o capitão do time de futebol da minha escola!\! Eu não sabia que você jogava basquete também!
+
+message_173:
+      text: \n<ATLETA>Ehh...\! Huff...\! Eu só estou aqui para matar tempo.\! É mais um passa tempo do que qualquer outra coisa.
+
+message_174:
+      text: \n<ATLETA>Você está tentando entrar no time de basquete esse ano, não é, KEL?\! Talvez você possa me ensinar alguns de seus truques!
+
+message_175:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \kelClaro, definitivamente! Isso parece divertido...
+
+message_176:
+      faceset: MainCharacters_Faraway
+      faceindex: 12
+      text: \kelMas... vamos deixar para outro dia.\! Meu amigo de infância \n[8] está se mudando da cidade em alguns dias então hoje estamos passando o dia inteiro juntos.
+
+message_177:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \kelMas nós vamos treinar juntos alguma outra hora!
+
+message_178:
+      text: \n<ATLETA>Certo, nós podemos combinar algo semana que vem.\! Mesma hora, mesmo lugar, o que acha?
+
+message_179:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \kelParece bom! Te vejo outra hora então!
+
+#After talking again
+
+message_180:
+      text: \n<ATLETA>Huff...\! Huff...\! Huff...\! Huff...
+
+
+#===============JESSE'S DAD=====================
+
+#Location: FARAWAY PARK, sweeping the ground
+
+message_190:
+      text: \n<TESTA ENRUGADA>Ei, amigos! É bom ver vocês.\! Só varrendo por aí, coletando \c[4]LIXO\c[0], e limpando superfícies...\!<br>Vocês sabem...\! o trabalho de sempre.
+
+message_191:
+      text: \n<TESTA ENRUGADA>Ai ai...\! Tem tanta limpeza a ser feita...\! Simplesmente não é possível para uma pessoa só!
+
+
+#===============JESSE'S DAD=====================
+
+#Location: Joy's House - Tutoring Joy Quest
+
+#After completing Tutoting joy quest
+message_200:
+      text: \n<GAROTA PEQUENA>O papai é muito exigente comigo porque meu irmão mais velho, Michael, parou de ir à escola para se tornar um músico...
+
+message_201:
+      text: \n<GAROTA PEQUENA>Ele toca guitarra na \c[11]PRAÇA TÃO-DISTANTE\c[0] às vezes!\!<br>Ele é muito bom
+
+#===============JESSE'S DAD=====================
+
+#Location: Joy's Dad - Tutoring Joy Quest
+
+message_210:
+      text: \n<SOMBRANCELHAS GROSSAS>Ótimo trabalho! Vocês deveriam considerar em serem tutores de tempo integral!\!<br>Por favor voltem amanhã!
+
+
+#===============KAREN=====================
+
+#Location: Hardware store: After Picking up paint quest
+
+message_220:
+      text: \n<MULHER DO RABO DE CAVALO>Por favor venham nos visitar se tiverem tempo!
+
+message_221:
+      text: \n<MULHER DO RABO DE CAVALO>Nós estamos pensando em fazer uma festa de boas vindas daqui a dois dias.\! Seria incrível se vocês participassem!
+
+#===============KATIE=====================
+
+#Location: Hobbeez - Pet Rock Fight
+
+message_230:
+      text: \n<GAROTA COLORIDA>Esse lugar é meio pequeno, mas tem vários colecionáveis antigos e raros.\! Pessoas vem lá da cidade para fazer compras aqui!
+
+#===============KIM AND VANCE'S DAD =====================
+
+#Location: Hardware Store- Fix Pipe Quest 1
+
+#After hardware store- fix pipe quest 1, kim and vance's dad is in his house next to the pipe
+message_240:
+      text: \n<CARA RUDE>Grrr, grrr...\! O cano quebrou novamente...
+
+message_241:
+      text: \n<CARA RUDE>Ratos...\! Acho que vou tentar de novo amanhã...
+
+
+#===============KIM AND VANCE'S MOM =====================
+
+#Location: Other Street - Missing Shears Quest
+
+#Kim's Mom moves to Kim's Mom's house living room after Missing Shears Quest. Snipping Bonsai.
+
+message_250:
+      text: \SINV[2]Snip, snip...\! snip, snip, snip...\SINV[0]
+
+message_251:
+      text: \n<MULHER DOS ÓCULOS VERMELHOS>Ah, olá para vocês dois ai! Eu não esperava ver vocês tão cedo!
+
+message_252:
+      text: \n<MULHER DOS ÓCULOS VERMELHOS>Olhem, aqui!\! Cuidar destes bonsais é um passa tempo meu.\!<br>Me ajuda a...\! aliviar o estresse.
+
+message_253:
+      text: \n<MULHER DOS ÓCULOS VERMELHOS>Depois disso, eu vou começar a preparar o jantar para meus filhos, KIM e VANCE.\! É bom que eles não se atrasem de novo...\! senão...
+
+message_254:
+      text: \SINV[2]SNIP, \{SNIP, SNIP, \{SNIP, SNIP, \{SNIP!!
+
+#===============LUCAS (DOG) =====================
+
+#Location: Artist's house
+
+message_260:
+      text: \n<BOM CACHORRO>\quake[1]\{AU! \}AU!\! \{AU! \{AU! \}AU! \}AU!
+
+message_261:
+      text: \n<ARTISTA>\Com[2]\{LUCAS, para de latir!
+
+
+#===============MINCY =====================
+
+#Location: FARAWAY PARK - Company Quest 1
+
+message_270:
+      text: Ela está desenhado diligentemente.
+
+#===============PRETTY BOY=====================
+
+#Location: FARAWAY PARK - Pet Rock Fight
+
+message_280:
+      text: \n<GAROTO BONITO>A vida anda bem estressante ultimamente, mas observar o movimento me ajuda a colocar as coisas em perspectiva.
+
+message_281:
+      text: \n<GAROTO BONITO>Eu deveria tornar um hábito visitar esse parque...\!<br>Eu acho que às vezes tudo que se precisa fazer para relaxar é parar e sentir o cheiro das rosas!
+
+message_282:
+      text: \n<GAROTO BONITO>Oh não, parece que você se machucpu!\! Aqui está um \c[5]CURATIVO\c[0].\! Você pode conseguir mais na \c[11]FÁRMACIA\c[0] do \c[11]OUTROMERCADO\c[0].
+
+message_283:
+      text: Você recebeu um \c[5]CURATIVO\c[0].
+#===============POLLY=====================
+
+#Location: Pharmacy
+
+message_290:
+      text: \n<???>Ai ai...\! Não há nada que eu possa fazer?
+
+#===============POLLY=====================
+
+#Location: FARAWAY PARK
+
+message_300:
+      text: \n<PREGADOR>Estou em meu caminho até a \c[11]IGREJA\c[0], mas um de meus rituais é dar uma um passeio rápido antes de dar meus sermões.
+
+message_301:
+      text: \n<PREGADOR>Eu tenho muito medo de falar em público desde que eu era uma criança, mas um passeio tranquilo sempre acalma meus nervos!
+
+
+#===============RECYCULTISTS=====================
+
+#Location: PARK
+
+message_310:
+      text: \n<RECICULTISTA>Nós somos RECICULTISTAS, seguidores da SANTA LIXEIRA!
+
+message_311:
+      text: \n<RECICULTISTA>Como todos nós sujamos, todos os humanos devem aceitar que são como o \c[4]LIXO\c[0]!
+
+message_312:
+      text: \n<RECICULTISTA>\Com[2]\{REDUZIR, REUTILIZAR, E RECILAR!
+
+
+#===============SARAH=====================
+
+#Location: Supermarket in grocery section
+
+message_320:
+      text: \n<GAROTA DO RABO DE CAVALO>Minha mãe e eu vamos comprar coisas saudáveis aqui no \c[11]OUTROMERCADO\c[0] porque ela jogou todos os lanches e guloseimas da nossa casa no lixo...
+
+message_321:
+      text: \n<GAROTA DO RABO DE CAVALO>eu acho que ela está obcecada com coisas saudáveis pois meu pai só anda comendo porcaria ultimamente...\! Por que não podemos fazer os dois?
+
+
+#===============SARAHs MOM=====================
+
+#Location: Supermarket in grocery section
+
+
+message_323:
+      text: \n<MULHER DO RABO DE CAVALO>Meu marido continua comendo porcaria!\! Eu preciso fazer ele se alimentar bem.
+
+#===============SARAHs DAD=====================
+
+#Location: Gino's Pizza eating Pizza
+
+message_330:
+      text: \n<CARA ATRAPALHADO>Minha esposa fica me dizendo que estou ficando mais gordo e redondo, mas eu não consigo me segurar quando vivemos tão próximos da \c[11]PIZZARIA DO GINO\c[0]!
+
+message_331:
+      text: \n<CARA ATRAPALHADO>Oh...\! mmm...\! pizza...
+
+#===============SEAN=====================
+
+#Location: Hardware Store (picking paint quest)
+#After completing Picking Paint Quest:
+
+message_340:
+      text: \n<CARA XADREZ>Muito obrigado pela sua ajuda!\! Nós dois somos da região, mas acabamos de nos mudar para uma nova casa juntos...
+
+message_341:
+      text: \n<CARA XADREZ>Fica na rua perto da \c[11]IGREJA\c[0].
+
+
+#===============TUCKER=====================
+
+#Location: Charlie's Basement - Pet Rock Fight
+
+message_350:
+      text: \n<CARA ASSUSTADOR>Saudações, humano!\! Por favor me chame de TUCKER...
+
+message_400:
+      text: Uma colmeia parada em seu lugar.\! Você quer incomodá-la?
+
+#BEES DEATH REVIVE
+
+message_420:
+      text: \n<FARMACÊUTICOT>Vocês estão bem, crianças?\! Uma pessoa encontrou vocês desmaiados no chão cheios de picadas de vespa e os levou até aqui.
+
+message_421:
+      text: \n<FARMACÊUTICO>Eu já cuidei de vocês...\! e...\! por sorte, parece que nenhum de vocês é alérgico, então provavelmente vão ficar bem!
+
+message_422:
+      text: \n<FARMACÊUTICO>Mas da próxima vez não brinquem com ninhos de vespa desse jeito.\! Elas não são nenhuma piada!
