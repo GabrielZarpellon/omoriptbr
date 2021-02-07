@@ -30,7 +30,7 @@ message_23:
     text: BATERIAS VAZIAS
 
 message_24:
-    text: PEÇAS DE COMPUTADOR
+    text: PEÇAS DE PC
 
 message_25:
     text: UMA MÁQUINA DE RECICLAGEM.\!<br>O que você gostaria de reciclar?
@@ -82,10 +82,10 @@ message_18:
 #computer parts
 
 message_13:
-    text: Você colocou \c[5]PEÇAS DE COMPUTADOR\c[0] na MÁQUINA DE RECICLAGEM.
+    text: Você colocou \c[5]PEÇAS DE PC\c[0] na MÁQUINA DE RECICLAGEM.
 
 message_14:
     text: A MÁQUINA DE RECICLAGEM dispensou 25 CONCHAS.\!<br>Obrigado por fazer sua parte mantendo o ambiente limpo.
 
 message_19:
-    text: Você não tem \c[5]PEÇAS DE COMPUTADOR\c[0] para reciclar.
+    text: Você não tem \c[5]PEÇAS DE PC\c[0] para reciclar.
