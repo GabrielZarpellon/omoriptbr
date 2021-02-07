@@ -561,7 +561,7 @@ message_440:
 #Location: Graveyard
 
 message_450:
-      text: \n<ZELADOR> Esse lugar é quieto, não acha? Não dá para ouvir nem um pouco a pressa e urgência das ruas daqui. Heh... As únicas coisas que tem aqui são os epíritos... e eu mesmo, é claro!
+      text: \n<ZELADOR> Esse lugar é quieto, não acha? Não dá para ouvir nem um pouco a pressa e urgência das ruas daqui. Heh... As únicas coisas que tem aqui são os espíritos... e eu mesmo, é claro!
 
 message_451:
       text: \n<ZELADOR>Que caras são essas? Eu ainda não morri!
@@ -593,7 +593,7 @@ message_470:
 
 #After cutscene: Awkward Dinner
 message_471:
-      text: \n<POLLY>Vocês estão provavelmente se perguntando quem eu sou, certo? Não sou ninguém na verdade... apenas uma enfermeira que está cuidando da avó do BASIL.
+      text: \n<POLLY>Vocês estão provavelmente se perguntando quem eu sou, certo? Não sou ninguém na verdade... apenas uma cuidadora que está cuidando da avó do BASIL.
 
 message_472:
       text: \n<POLLY>Alguns meses atrás, os pais do BASIL me contrataram para cuidar dele, já que eles viajam frequentemente a trabalho.
@@ -610,7 +610,7 @@ message_474:
 #Location: Church
 
 message_480:
-      text: \n<PREGADOR>Hmm...\! Eu normalmente não toleraria uma briga no meio de um sermão, mas isso pareceu algo realmente importante...
+      text: \n<PREGADOR>Hmm...\! Eu normalmente não toleraria uma briga no meio de um sermão, mas isso pareceu ser algo realmente importante...
 
 message_481:
       text: \n<PREGADOR>Aquela garota chamada AUBREY veio aqui toda semana há alguns anos, mas ela nunca fala com ninguém.\! Eu tentei falar com ela algumas vezes, mas ela sempre me chama de...\! palavras obcenas...
