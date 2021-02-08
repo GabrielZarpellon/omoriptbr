@@ -1,0 +1,70 @@
+# =========================================================================================
+# Tuckers dialogue
+# ========================================================================================
+
+#Randomize 1 - 3
+
+#Random message 1
+message_0:
+      text: \n<CARA ASSUTADOR>Se você está se questionando sobre o porquê de eu ser tão mais pândemico do que vossa mercê, é unica e exclusivamente por causa do mestrado de filosofia de minha pessoa.
+
+message_1:
+      text: \n<CARA ASSUTADOR>Minha tenura me liderou para a minha descoberta mais elefântica de todas.\! Todo mundo está 100...\! Não, talvez 1000 anos em desvantagem para poder compreender a minha genialidade.
+
+message_2:
+      text: \n<CARA ASSUTADOR>Não ache que está me fazendo um favor com a sua companhia.\! De qualquer forma você não consegue entender nada do que eu introduzo em seu cérebro.
+
+#Random message 2
+
+message_6:
+      text: \n<CARA ASSUTADOR>Para trás sua minhoca impotente!\! Eu quase te mutilei.\! ...\! Minhas condolências, eu quase revelei as minhas habilidades da arena.
+
+message_7:
+      text: \n<CARA ASSUTADOR>Eu sou meio que um gladiador moderno.\! Ahh, eu lembro do meu tempo no arsenal...
+
+message_8:
+      text: \n<CARA ASSUTADOR>Como eu perpétuo os meus poderes de impunidade nos combatentes que mal esperam o que está por vir, que decidiram atravessar suas almas no...\! Blah...\! Sem mãos!
+
+message_9:
+      text: \n<CARA ASSUTADOR>Eu não necessito do abrigo de um utensílio poderoso, mas o chapéu da multidão enquanto suas mãos erodem por mais.\! Apenas...\! seja cauteloso próximo de minha presença...\! Eu sou perigoso.
+
+
+#Random message 3
+
+message_12:
+      text: \n<CARA ASSUTADOR>Eu não posso começar a proliferar a proposta de rabiscos mundanos inseridos no pergaminho.
+
+message_13:
+      text: \n<CARA ASSUTADOR>Se você vai rabiscar algo para mim...\! Por favor faça isso na superfície mais moderna entre os pergaminhos.
+
+#==========================================Pet Rock========================================
+
+#Before Battle
+message_16:
+      text: \n<CARA ASSUTADOR>Heh...\! Heh, heh, heh...\! Eu digo para vossa mercê, seria isto um \c[13]PET DRITO\c[0]?\! Ele ruge como um pequeno fracote...\! Eu dúvido que você resista a um combate direto contra o meu REI MORDIDA!
+
+message_17:
+      text: \n<CARA ASSUTADOR>Deveríamos dar início a um COMBATE para criar um império?\! Eu devo reinar esplendicrívelmente!
+
+#yes
+message_18:
+      text: \n<CARA ASSUTADOR>Muahaha, seu tolo insolente... Você se arrependerá disso!\! Prepare-se para ser destruibeletamado!\! Vamos lá, REI MORDIDA!
+
+#you win
+message_20:
+      text: \n<CARA ASSUTADOR>Psh!\! Pare de fazer essa expressão facial impertinente!\! Você só teve sorte...\! Só isso!
+
+#you lose
+message_21:
+      text: \n<CARA ASSUTADOR>Heh...\! Heh, heh, heh...\! Seu pascácio arrogante...\! Você devia saber o seu lugar, plebeu!
+
+#================================Examine SW Poster==============================
+
+message_30:
+      text: \n<CARA ASSUTADOR>É claro, esse periférico que você observa é a minha amada prometida.
+
+message_31:
+      text: \n<CARA ASSUTADOR>Eu apreciaria se você mantivesse o seu sentido de visão longe de minhas posses.\! Ela assimila meus pensamentos melhor do que qualquer pessoa ou coisa.
+
+message_32:
+      text: \n<CARA ASSUTADOR>Ela é uma gracinha e estamos apaixonados um pelo outro.\! <br>Agora nos deixem sozinhos.
