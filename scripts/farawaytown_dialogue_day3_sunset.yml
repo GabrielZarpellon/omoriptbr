@@ -182,7 +182,7 @@ message_141:
 #Location: Sean's House (Housewarming party)
 
 message_150:
-      text: \n<MULHER DO RABO DE CAVALO>Bem-vindos para a nossa festa de boas vindas!\! Sintam-se em casa...\! mas só por hoje...
+      text: \n<MOÇA DO RABO DE CAVALO>Bem-vindos para a nossa festa de boas vindas!\! Sintam-se em casa...\! mas só por hoje...
 
 message_151:
       text: \n<CARA XADREZ>Por favor relaxem e se sirvam!\! Vocês podem ficar aqui até quando quiser...\! mas não exagerem!
@@ -229,7 +229,7 @@ message_201:
 #Location: Gino's Pizza
 
 message_210:
-      text: \n<GAROTA DO RABO DE CAVALO>Urf...\! Como eu devo comer com os meus pais sendo tão bobos de amor?
+      text: \n<MENINA DO RABO DE CAVALO>Urf...\! Como eu devo comer com os meus pais sendo tão bobos de amor?
 
 #==============SARAH'S DAD===========================================
 #Location: Gino's Pizza
@@ -241,4 +241,4 @@ message_220:
 #Location: Gino's Pizza
 
 message_230:
-      text: \n<MULHER DO RABO DE CAVALO>Hehe... Isso é bom, não é, chuchuzinho?
+      text: \n<MOÇA DO RABO DE CAVALO>Hehe... Isso é bom, não é, chuchuzinho?

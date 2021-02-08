@@ -219,7 +219,7 @@ message_201:
 #Location:  Sean's House (Cooking help quest)
 
 message_210:
-      text: \n<MULHER DO RABO DE CAVALO>Obrigada a todos vocês pela ajuda.<br>\!Vocês são genuinamente boas pessoas!
+      text: \n<MOÇA DO RABO DE CAVALO>Obrigada a todos vocês pela ajuda.<br>\!Vocês são genuinamente boas pessoas!
 
 message_221:
       text: \n<CARA XADREZ>Vejo vocês na festa hoje a noitet! Estaremos esperando!
@@ -308,7 +308,7 @@ message_304:
 #Location: Sarah's House
 
 message_310:
-      text: \n<GAROTA DO RABO DE CAVALO>\sinv[1]Woo!\sinv[0]\!Minha mãe disse que a gente vai na \c[11]PIZZARIA DO GINO\c[0] hoje a noite!
+      text: \n<MENINA DO RABO DE CAVALO>\sinv[1]Woo!\sinv[0]\!Minha mãe disse que a gente vai na \c[11]PIZZARIA DO GINO\c[0] hoje a noite!
 
 #==============SARAH'S DAD===========================================
 #Location: Sarah's House watching TV on the couch together
@@ -320,7 +320,7 @@ message_320:
 #Location: Sarah's House watching TV on the couch together
 
 message_330:
-      text: \n<MULHER DO RABO DE CAVALO>Esse...\! sniff...\! é o meu filme favorito de todos os tempos...\! sniff...
+      text: \n<MOÇA DO RABO DE CAVALO>Esse...\! sniff...\! é o meu filme favorito de todos os tempos...\! sniff...
 
 #==============SEAN===========================================
 #Location: Aubrey's Street in front of his house

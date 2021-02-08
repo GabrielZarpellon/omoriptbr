@@ -62,10 +62,10 @@ message_32:
       text: \kelHã? O que foi agora, MIKHAEL?
 
 message_33:
-      text: \n<O MAVERICK>Grr...\! Malditos sejam você e essa sua atidude atrevida!
+      text: \n<THE MAVERICK>Grr...\! Malditos sejam você e essa sua atidude atrevida!
 
 message_34:
-      text: \n<O MAVERICK>\Com[2]\{KEL!\!\Com[2] EU TE DESAFIO PARA UMA CORRIDA!\}
+      text: \n<THE MAVERICK>\Com[2]\{KEL!\!\Com[2] EU TE DESAFIO PARA UMA CORRIDA!\}
 
 message_35:
       faceset: MainCharacters_Faraway
@@ -252,21 +252,21 @@ message_123:
 #Location: Sarah's House
 
 message_130:
-      text: \n<GAROTA DO RABO DE CAVALO>Oh, oi!\! Eu ouvi comoção na cozinha.\!<br>O \c[4]ANEL DE CASAMENTO\c[0] do meu pai caiu na pia de novo?<br>\!Ele sempre faz isso...
+      text: \n<MENINA DO RABO DE CAVALO>Oh, oi!\! Eu ouvi comoção na cozinha.\!<br>O \c[4]ANEL DE CASAMENTO\c[0] do meu pai caiu na pia de novo?<br>\!Ele sempre faz isso...
 
 message_131:
-      text: \n<GAROTA DO RABO DE CAVALO>Mas ele não sabe que eu sei disso... Hehe...
+      text: \n<MENINA DO RABO DE CAVALO>Mas ele não sabe que eu sei disso... Hehe...
 
 message_132:
-      text: \n<GAROTA DO RABO DE CAVALO>De qualquer forma, oi! Sou a SARAH!\! É bom te conhecer!
+      text: \n<MENINA DO RABO DE CAVALO>De qualquer forma, oi! Sou a SARAH!\! É bom te conhecer!
 
 #Talk to SARAH again
 
 message_133:
-      text: \n<GAROTA DO RABO DE CAVALO>Desde que minha mãe começou a ficar louca com esse negócio de saúde, nós não temos nenhum salgadinho ou lanches em nossa casa...\! mas...
+      text: \n<MENINA DO RABO DE CAVALO>Desde que minha mãe começou a ficar louca com esse negócio de saúde, nós não temos nenhum salgadinho ou lanches em nossa casa...\! mas...
 
 message_134:
-      text: \n<GAROTA DO RABO DE CAVALO>Achp que cenouras e aipos podem ter um gosto muito bom...\! se estiverem ensopadas de molho ranch...
+      text: \n<MENINA DO RABO DE CAVALO>Achp que cenouras e aipos podem ter um gosto muito bom...\! se estiverem ensopadas de molho ranch...
 
 #==========================Sarah's Dad===============================
 
@@ -280,10 +280,10 @@ message_140:
 #Location: Sarah's House (Ring in the sink quest)
 
 message_150:
-      text: \n<MULHER DO RABO DE CAVALO>Minha família e eu supostamente devemos começar a comer de forma saudável essa semana, mas o cheiro da \c[11]PIZZA DO GINO\c[0] é tão tentador...
+      text: \n<MOÇA DO RABO DE CAVALO>Minha família e eu supostamente devemos começar a comer de forma saudável essa semana, mas o cheiro da \c[11]PIZZA DO GINO\c[0] é tão tentador...
 
 message_151:
-      text: \n<MULHER DO RABO DE CAVALO>Ai ai...\! talvez algo gorduroso seja ok de vez em quando...
+      text: \n<MOÇA DO RABO DE CAVALO>Ai ai...\! talvez algo gorduroso seja ok de vez em quando...
 
 #==========================The Maverick's Dad===============================
 
