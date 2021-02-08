@@ -1,0 +1,103 @@
+
+# =========================================================================================
+# Sidequest: Where's the Remote?
+# =========================================================================================
+
+#Remote 1
+
+message_1:
+      text: \n<CARA AMERICANO>Ei, colegas!\! Coméqui tá?\! Tenho que dizer...\! <br>Não há nada como passar um longo fim de semana com<br>sofá favorito e programa de TV favorito.
+
+message_2:
+      text: \n<CARA AMERICANO>Só tem uma coisa me incomodando nesse dia quase perfeito...
+
+message_3:
+      text: \n<CARA AMERICANO>Eu não consigo encontrar o meu \c[4]CONTROLE REMOTO\c[0] em lugar nenhum e eu estou muito comfortável pra sair desse sofá!
+
+message_4:
+      text: \n<CARA AMERICANO>Se vocês encontrarem, podem devolver pra mim?\! Valeu, rapazes.
+
+#Examine Couch
+
+message_5:
+      text: Você vê um \c[4]CONTROLE REMOTO\c[0] de baixo do sofá.\! Você quer pegar?
+
+#Talk to Cris's Dad after getting Remote
+
+message_6:
+      text: \n<CARA AMERICANO>Ei, aí está meu \c[4]CONTROLE REMOTO\c[0]!
+
+message_7:
+      text: Você deu o \c[4]CONTROLE REMOTO\c[0] para o CARA AMERICANO.
+
+message_8:
+      text: \n<CARA AMERICANO>Valeu, rapaziada!\! Here, pega um \c[3]JOÃO LARANJA\c[0] na minha conta!
+
+message_9:
+      text: Você pegou \c[3]JOÃO LARANJA\c[0]!
+
+#Remote 2
+
+message_10:
+      text: \n<CARA AMERICANO>Ei, rapazes!\! Tudo em cima?\! <br>Parece que eu perdi meu \c[4]CONTROLE REMOTO\c[0] de novo!
+
+message_11:
+      text: \n<CARA AMERICANO>Eu me lembro de me levantar para ir ao bathroom, <br>mas quando eu voltei, não estava lá...
+
+message_12:
+      text: \n<CARA AMERICANO>Vocês podem procurar pela casa por ele?\! <br>Tem que estar around here em algum lugar!
+
+#Examine Bathroom Cabinet:
+
+message_13:
+      text: Você vê um \c[4]CONTROLE REMOTO\c[0] entre as toalhas.\! Você quer pegar?
+
+message_14:
+      text: \n<CARA AMERICANO>Obrigado, criançada!\! Eu estava pensando muito nele...<br>\! e acho que acidentalmente trouxe ele pro banheiro<br>e esqueci de trazer de volta.
+
+message_15:
+      text: \n<CARA AMERICANO>Vocês me pouparam mais uma vez de sair desse couch<br>comfortável.\! Eu não posso agradecer o suficiente.\! Por favor, peguem outra lata de \c[3]JOÃO LARANJA!\c[0]\! Cês merecem!
+
+#Remote 3
+
+message_16:
+      text: \n<CARA AMERICANO>Eae, galerinha!\! Tranquilos?\! Eu não sei como isso vive acontecendo, mas eu perdi meu \c[4]CONTROLE REMOTO\c[0] de novo!
+
+message_17:
+      text: \n<CARA AMERICANO>Eu juro...\! dessa vez, tudo que eu fiz foi dormir com ele na mão, e quando acordei, tinha sumido!\! Deve ter um fantasma nessa casa ou algo assim...
+
+message_18:
+      text: \n<CARA AMERICANO>Se vocês encontrarem denovo, poderiam me devolver?\!<br>Valeu mais uma vez, brothers!
+
+message_19:
+      text: Você vê um \c[4]CONTROLE REMOTO\c[0] na torta.\! Você quer pegar?
+
+message_20:
+      text: \n<CARA AMERICANO>Hey, aí está!
+
+message_21:
+      text: Você deu o \c[4]CONTROLE REMOTO\c[0] pro CARA AMERICANO.
+
+message_22:
+      text: \n<CARA AMERICANO>Bem, vocês conseguiram de novo, guys!\! Vocês sabem o que isso significa...\! Aqui está outra doce lata de \c[3]JOÃO LARANJA!\c[0]
+
+message_23:
+      text: \n<CARA AMERICANO>Vocês foram champs de verdade esses últimos dias.\! Eu não consigo agradecer cês o suficiente!\! Se eu perder meu \c[4]CONTROLE REMOTO\c[0] de novo, eu sei quem chamar!
+
+message_30:
+      text: Você viu um \c[4]CONTROLE REMOTO\c[0] de baixo do sofá.
+
+message_31:
+      text: Você viu um \c[4]CONTROLE REMOTO\c[0] entre as toalhas.
+
+message_32:
+      text: Você viu um \c[4]CONTROLE REMOTO\c[0] na torta.
+
+message_33:
+      text: Você ainda tem o \c[4]CONTROLE REMOTO\c[0].\!<br>Você não devia sair dessa casa com ele.
+
+message_50:
+      text: Você pegou um \c[4]CONTROLE REMOTO\c[0].
+
+message_51:
+      text: Você pegou um \c[4]CONTROLE REMOTO\c[0].\! Como que chegou ali?
