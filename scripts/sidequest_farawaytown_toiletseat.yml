@@ -1,0 +1,17 @@
+
+# =========================================================================================
+# Sidequest: Toilet Seat
+# =========================================================================================
+
+#Examine toilet seat
+message_0:
+      text: O assento da privada está pra cima.\! Abaixar o assento?
+
+#yes/no
+
+#if yes
+message_1:
+      text: Você abaixou o assento da privada.
+
+message_2:
+      text: ...\! Você vomitou.
