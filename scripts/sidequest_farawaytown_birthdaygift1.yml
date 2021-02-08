@@ -1,0 +1,81 @@
+
+# =========================================================================================
+# Sidequest: Birthday Gift 1
+# =========================================================================================
+
+#Talk to Jesses Dad at Hobbeez
+message_0:
+      text: \n<TESTA ENRUGADA>\sinv[1]Hmm...\! Hmmm...\! Hmmmmmmm...
+
+message_1:
+      text: \n<TESTA ENRUGADA>Confundi!\! Não tenho ideia para que estou olhando!
+
+message_2:
+      text: \n<TESTA ENRUGADA>Ei, você!\! Você é jovem, certo?\! Um cara jovem como você poderia ajudar um cara velho como eu?
+
+message_3:
+      text: \n<TESTA ENRUGADA>É o aniversário de 10 anos do meu filho JESSE, e eu espero comprar algo que ele goste de verdade.
+
+message_4:
+      text: \n<TESTA ENRUGADA>Pode olhar pela loje e escolher um presente por mim?
+
+#Examine Videogame
+message_5:
+      text: Um novo videogame chamado \c[4]SUPER ULTRA COMEDOR DE BROTOPEIRA - REVANCHE DAS TOUPEIRAS III\c[0].
+
+message_6:
+      text: Classificado para maiores de 16 anos.\! Pegar?
+
+#Cutscene: Jesse's dad goes home
+
+message_7:
+      text: \n<TESTA ENRUGADA>Então...\! é isso que as criaças curtem hoje em dia?
+
+message_8:
+      text: \n<TESTA ENRUGADA>\c[4]SUPER ULTRA COMEDOR DE BROTOPEIRA - REVANCHE DAS TOUPEIRAS III\c[0]?\! Acho que não entendi o porque, mas ok!
+
+message_17:
+      text: \n<TESTA ENRUGADA>Achei uma coisa legal enquanto estava varrendo mais cedo...\! <br>Você pode ficar com ela!
+
+message_18:
+      text: Você ganhou uma \c[4]CONCHA DO MAR\c[0].
+
+message_9:
+      text: \n<TESTA ENRUGADA>\quake[1]Gah!\!\quake[0] O preço desse jogo é...\! Ai...\! Meu bolso...
+
+message_10:
+      text: \n<TESTA ENRUGADA>Ai ai ...\! Bem...\! desde que meu filho goste, vai valer a pena!
+
+message_11:
+      text: \n<TESTA ENRUGADA>Ei! Obrigado pela ajuda, camarada.
+
+message_12:
+      text: \n<TESTA ENRUGADA>Sabe...\! Eu poderia ter um consultor para coisas assim.
+
+message_13:
+      text: \n<TESTA ENRUGADA>Meu filho não fala sobre os hobbies dele, só que eu preciso me manter atualizado com as novas modas de alguma forma!
+
+message_14:
+      text: \n<TESTA ENRUGADA>Eu moro em uma pequena casa na rua ao sul daqui!\! <br>É uma que tem um telhado marrom.
+
+message_15:
+      text: \n<TESTA ENRUGADA>Por favor, venha me visitar algum dia!
+
+#Talk to Jesse's DAD
+
+message_16:
+      text: \n<TESTA ENRUGADA>Ei, camaradas!
+
+message_19:
+      text: \n<TESTA ENRUGADA>Bem legal, huh?
+
+message_30:
+      text: \n<LOJISTA>Ah...\! \c[4]SUPER ULTRA COMEDOR DE BROTOPEIRA\c[0] <br>\c[4]REVANCHE DAS TOUPEIRAS III\c[0]...\! Boa escolha!\! Aqui está!
+
+message_31:
+      text: \n<LOJISTA>Espera, você não pode sair sem pagar pelo jogo!
+
+#home
+
+message_32:
+    text: \n<TESTA ENRUGADA>Ei! Vocês são aquelas crianças de cedo!\! Meu filho está lá em cima em seu quarto, mas ele não gosta muito de estranhos...
