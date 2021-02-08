@@ -1718,7 +1718,7 @@ message_1470:
 message_1471:
       faceset: MainCharacters_Faraway
       faceindex: 0
-      text: \aubComida sempre tem um gosto melhor quando é feita por você mesmo...
+      text: \aubComida sempre tem um gosto melhor quando é feita por você mesma...
 
 
 #==============KIM===========================================
@@ -1731,7 +1731,7 @@ message_1481:
       text: \kimHeh heh...\! Tô zoando, nerd.
 
 message_1482:
-      text: \kimAUBREY me contou que você está indo embora amanhã.\! Parece algo meio ruim, mas tenho certeza que você vai ficar bem.
+      text: \kimA AUBREY me contou que você está indo embora amanhã.\! Parece algo meio ruim, mas tenho certeza que você vai ficar bem.
 
 #Stomach grumble sfx
 
