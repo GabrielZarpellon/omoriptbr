@@ -1,0 +1,154 @@
+
+# =========================================================================================
+# Sidequest: Tutoring Brent
+# =========================================================================================
+
+#Examine and take Math Tutor Flyer:
+
+message_0:
+      text: Tem um anúncio de emprego nessa parede.\! Ler ele?
+
+#Yes/No
+
+#If Yes
+
+message_1:
+      text: “PROCURA-SE UM TUTOR!\! Procura-se um tutor local de matemática pro meu filho, BRENT!\! $20.00 por dia!\! Por favor traga esse folheto até minha casa para uma entrevista rápida!”
+
+message_3:
+      text: Pegar o \c[4]FOLHETO VERDE\c[0] da parede?
+
+#yes/no
+
+#yes
+message_4:
+      text: Tem um mapa até a casa na parte de trás.
+
+#show map
+
+#Examine Brent's House Door:
+message_5:
+      text: \n<DIRETOR DA ESCOLA>Ora, olá! Como posso ajudar?
+
+message_100:
+      text: Você deu ao DIRETOR DA ESCOLA o \c[4]FOLHETO VERDE\c[0].
+
+message_101:
+      text: \n<DIRETOR DA ESCOLA>Ah, Entendi! Você está aqui para ser tutor do meu filho, BRENT!
+
+message_6:
+      text: \n<DIRETOR DA ESCOLA>Hmm...\! Tem mais de um de você, mas vocês parecem bem confiáveis.
+
+message_7:
+      text: \n<DIRETOR DA ESCOLA>Creio que é possivel que dois tutores sejam melhor que um...\! desde que vocês dividam o pagamento! Haha!
+
+message_8:
+      text: \n<DIRETOR DA ESCOLA>Por favor entrem.\! BRENT está te esperando em seu quarto no andar de cima.
+
+message_200:
+      text: \n<DIRETOR DA ESCOLA>Sintam-se em casa!\! BRENT está te esperando em seu quarto no andar de cima.
+
+#Talk to BRENT
+
+message_9:
+      text: \n<GAROTO INTELIGENTE>Ei, vocês devem ser meus novos tutores!\!<br>É um prazer conhecer vocês. Meu nome é BRENT.\!<br>Podemos começar?
+
+message_10:
+      text: \n<GAROTO INTELIGENTE>Muito bem, então essa é a planilha em qual eu estou tendo problemas.
+
+message_11:
+      text: \n<GAROTO INTELIGENTE>Pode me ajudar?
+
+#MATH WORKSHEET
+
+message_12:
+      text: \n<GAROTO INTELIGENTE>Essa equação está me dando problemas...
+
+message_13:
+      text: 4 x 51 =
+
+message_14:
+      text: A) 244
+
+message_15:
+      text: B) 204
+
+message_16:
+      text: C) 404
+
+message_17:
+      text: \n<GAROTO INTELIGENTE>E que tal essa?
+
+message_18:
+      text: 5 x 3 + 15 - 1 + 6 / 2 =
+
+message_19:
+      text: A) 32
+
+message_20:
+      text: B) 33
+
+message_21:
+      text: C) 34
+
+message_22:
+      text: \n<GAROTO INTELIGENTE>E essa aqui?
+
+message_23:
+      text: -3x + 4 = 7x + 24. Qual é o resultado de ‘x'?
+
+message_24:
+      text: A) 2
+
+message_25:
+      text: B) 2.8
+
+message_26:
+      text: C) -2
+
+message_1000:
+      text: ESCOLHER ALEATÓRIAMENTE
+
+#Correct choice:
+
+message_27:
+      text: \n<GAROTO INTELIGENTE>Ah...\! \sinv[1]Entendi...\sinv[0]\! Eu entendo agora!
+
+#Incorrect choice:
+
+message_28:
+      text: \n<GAROTO INTELIGENTE>Hmm...\! Mas a resposta certa não é 32?
+
+message_29:
+      text: \n<GAROTO INTELIGENTE>Hmm...\! Eu tinha certeza que era 204?
+
+message_30:
+      text: \n<GAROTO INTELIGENTE>Ohh...\! Eu pensava que fosse -2?
+
+message_31:
+      text: \n<GAROTO INTELIGENTE>Heh heh...\! Você estava só me testando, certo?\!<br>Dessa forma, também desafia meu pensamento crítico!\!<br>Wow...\! Tutores são muito espertos...
+
+#After completing Math WORKSHEET
+
+message_32:
+      text: \n<GAROTO INTELIGENTE>Phew...\! Eu acho que já entendi isso muito melhor que antes...\! Obrigado!
+
+#After completing Math WORKSHEET
+
+message_33:
+      text: \n<DIRETOR DA ESCOLA>Ei, BRENT! Como está?
+
+message_34:
+      text: \n<DIRETOR DA ESCOLA>Oh! Vejo que completou sua planilha!
+
+message_35:
+      text: \n<DIRETOR DA ESCOLA>Muito bem, tutor...\! Aqui está o seu pagamento de hoje!
+
+message_36:
+      text: \n<DIRETOR DA ESCOLA>Sinta-se livre pra voltar amanhã!
+
+message_37:
+      text: \n<DIRETOR DA ESCOLA>Olá.\! Você está aqui pelo poster de tutor?\! Não? Entendo...
+
+message_50:
+      text: Ugh...\! Matemática...
