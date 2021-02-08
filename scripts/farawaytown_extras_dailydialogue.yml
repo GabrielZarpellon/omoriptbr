@@ -1435,7 +1435,7 @@ message_1170:
 #Location:  FARAWAY PARK
 
 message_1180:
-      text: \n<BEBE>Eu falei para a minha irmã sobre o meu crus! Ela quis que eu o mostrasse para ela, então estamos aqui de pé no local onde ele normalmente fica com seus amigos...
+      text: \n<BEBE>Eu falei para a minha irmã sobre o meu crush! Ela quis que eu o mostrasse para ela, então estamos aqui de pé no local onde ele normalmente fica com seus amigos...
 
 #==============BEBE'S MOM===========================================
 #Location:  FARAWAY PARK
@@ -1447,7 +1447,7 @@ message_1190:
 #Location:  FARAWAY PARK
 
 message_1200:
-      text: \n<BRANDI>Quado a BEBE me contou sobre o crush dela, eu tive que ver com meus próprios olhos.\! Até agora, ele nem apareceu...\! mas a BEBE me disse para ficar atenta para uma pessoa com uma peruca loira obviamente falsa.
+      text: \n<BRANDI>Quando a BEBE me contou sobre o crush dela, eu tive que ver com meus próprios olhos.\! Até agora, ele nem apareceu...\! mas a BEBE me disse para ficar atenta para uma pessoa com uma peruca loira obviamente falsa.
 
 message_1201:
       text: \n<BRANDI>Ai ai...\! A BEBE tem um gosto horrível para garotos...\! Quem vai cuidar dela quando eu voltar para a faculdade?
@@ -1455,13 +1455,13 @@ message_1201:
 #BRANDI: If Hero is the leader
 
 message_1202:
-      text: \n<BRANDI>Ei! HERO, é você! Hehe... É tão estranho ver você aqui ao invés de na faculdade. eu chuto que você também está visitando a família... Família é legal e tal, mas eu mal posso esperar para ver meus amigos de novo... Nada de interesse acontece em casa, sabe?
+      text: \n<BRANDI>Ei! HERO, é você! Hehe... É tão estranho ver você aqui ao invés de na faculdade. Eu chuto que você também está visitando a família... Família é legal e tal, mas eu mal posso esperar para ver meus amigos de novo... Nada de interesse acontece em casa, sabe?
 
 #==============BRENT===========================================
 #Location:  Brent's House
 
 message_1210:
-      text: \n<BRENT>Ei, tutores. Obrigado por me ajudar com essas listar de exercícios... Eu acho que agora consigo resolver sozinho, mas você foi de grande ajuda!
+      text: \n<BRENT>Ei, tutores. Obrigado por me ajudar com essas listas de exercícios... Eu acho que agora consigo resolver sozinho, mas você foi de grande ajuda!
 
 #If you snuck out Brent
 
@@ -1526,7 +1526,7 @@ message_1280:
 #Location:  FARAWAY PARK
 
 message_1290:
-      text: \n<PAI DO JESSE>Eu não tenho certeza de como, mas esse monte de lixo apareceu aqui da noite pro dia. Eu tenho uma sensação de que os RECICULTISTAS estão por trás disso...
+      text: \n<PAI DO JESSE>Eu não tenho certeza como, mas esse monte de lixo apareceu aqui da noite pro dia. Eu tenho uma sensação de que os RECICULTISTAS estão por trás disso...
 
 message_1291:
       text: \n<PAI DO JESSE>Ai ai... Eu vou ficar limpando aqui para sempre.
@@ -1586,16 +1586,16 @@ message_1351:
       text: \n<PAI DO VANCE>A mãe deles e eu estamos divorciados desde que eles eram pequenos...
 
 message_1352:
-      text: \n<PAI DO VANCE>Eu não vejo eles o quanto eu gostaria, então faço questãõ de mimar eles com \c[3]DOCES\c[0] quando eu posso! Heh heh...
+      text: \n<PAI DO VANCE>Eu não vejo eles o quanto eu gostaria, então faço questão de mimar eles com \c[3]DOCES\c[0] quando eu posso! Heh heh...
 
 message_1354:
-      text: \n<PAI DO VANCE>Eles são boas crianças...\! sério!\! Eu me preocupo com eles them <br>às vezes porque eles estão sempre <br>se metendo em encrencas, mas pelo menos eles têm um ao outro...
+      text: \n<PAI DO VANCE>São boas crianças...\! sério!\! Eu me preocupo com eles <br>às vezes porque eles estão sempre <br>se metendo em encrencas, mas pelo menos eles têm um ao outro...
 
 #==============KIM and VANCE'S MOM===========================================
 #Location:  Kim's House
 
 message_1360:
-      text: \n<KIM'S MOM>Isso foi igual daquela vez...\! sim...\! e depois...\! honestamente, eu acho que...\! sim, definivamente...
+      text: \n<MÃE DA KIM>Isso foi igual daquela vez...\! sim...\! e depois...\! honestamente, eu acho que...\! sim, definivamente...
 
 #==============Lucas(Dog)===========================================
 #Location:  Artist's House, running around Angel
