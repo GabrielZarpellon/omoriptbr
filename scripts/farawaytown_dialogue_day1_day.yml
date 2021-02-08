@@ -129,20 +129,20 @@ message_101:
 #Location: Where's the Remote? Couch in Cris's HOUSE
 
 message_110:
-      text: Os olhos do CARA MUITO AMERICANO estão fixados na TV.
+      text: Os olhos do CARA AMERICANO estão fixados na TV.
 
 message_111:
-      text: \n<CARA MUITO AMERICANO>\Com[2]O número 85 estava livre!\! \Com[2]Que tipo de passe foi esse!?
+      text: \n<CARA AMERICANO>\Com[2]O número 85 estava livre!\! \Com[2]Que tipo de passe foi esse!?
 
 #===============CRIS'S MOM=====================
 
 #Location: CRIS'S HOUSE in the kitchen
 
 message_120:
-      text: \n<MÃE MUITO AMERICANA>Você gostou da torta?\!<br>Estou trabalhando em deixar minha receita perfeita para a feira de fim de verão do condado!
+      text: \n<MÃE AMERICANA>Você gostou da torta?\!<br>Estou trabalhando em deixar minha receita perfeita para a feira de fim de verão do condado!
 
 message_121:
-      text: \n<MÃE MUITO AMERICANA>Eu ganhei em todos os anos <br>em que participei até agora, e esse ano não vai ser diferente!\! Ohoho!
+      text: \n<MÃE AMERICANA>Eu ganhei em todos os anos <br>em que participei até agora, e esse ano não vai ser diferente!\! Ohoho!
 
 #===============CURTSEY=====================
 
@@ -273,7 +273,7 @@ message_201:
 #Location: Joy's Dad - Tutoring Joy Quest
 
 message_210:
-      text: \n<SOMBRANCELHAS GROSSAS>Ótimo trabalho! Vocês deveriam considerar em serem tutores de tempo integral!\!<br>Por favor voltem amanhã!
+      text: \n<SOBRANCELHAS GROSSAS>Ótimo trabalho! Vocês deveriam considerar em serem tutores de tempo integral!\!<br>Por favor voltem amanhã!
 
 
 #===============KAREN=====================

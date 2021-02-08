@@ -219,23 +219,23 @@ message_153:
 #Location: FARAWAY PARK
 
 message_160:
-      text: \n<CARA MUITO AMERICANO>Ufa...\! Preparar a carne é um trabalho difícil...\! Mas quando eu afundo meus dentes em um hambúrguer suculento e apetitoso, \sinv[1]tudo\sinv[0] vai valer a pena.
+      text: \n<CARA AMERICANO>Ufa...\! Preparar a carne é um trabalho difícil...\! Mas quando eu afundo meus dentes em um hambúrguer suculento e apetitoso, \sinv[1]tudo\sinv[0] vai valer a pena.
 
 message_161:
-      text: \n<CARA MUITO AMERICANO>Mmm...\! Estou quase sentindo o sabor...
+      text: \n<CARA AMERICANO>Mmm...\! Estou quase sentindo o sabor...
 
 message_162:
-      text: \n<MÃE MUITO AMERICANA>\Com[2]Querido, presta atenção!\! A carne tá queimando!
+      text: \n<MÃE AMERICANA>\Com[2]Querido, presta atenção!\! A carne tá queimando!
 
 message_163:
-      text: \n<CARA MUITO AMERICANO>Oh caramba!\! Obrigado, amor. Essa foi por pouco!
+      text: \n<CARA AMERICANO>Oh caramba!\! Obrigado, amor. Essa foi por pouco!
 
 #==========================Cris's Mom==============================
 
 #Location: FARAWAY PARK
 
 message_170:
-      text: \n<MÃE MUITO AMERICANA>Que dia lindo para um piquenique!\!<br>Eu trouxe minhas especialidades... Empadão de frango, torta de limão, e claro, minha torta de maçã conhecida mundialmente!
+      text: \n<MÃE AMERICANA>Que dia lindo para um piquenique!\!<br>Eu trouxe minhas especialidades... Empadão de frango, torta de limão, e claro, minha torta de maçã conhecida mundialmente!
 
 #==========================CURTSEY==============================
 
@@ -360,7 +360,7 @@ message_281:
 #LOCATION: Church
 
 message_290:
-      text: \n<PREGATOR>Hoje eu ando tendo uma sensação estranha vindo do cemitério desde cedo.
+      text: \n<PREGADOR>Hoje eu ando tendo uma sensação estranha vindo do cemitério desde cedo.
 
 #=========================SARAH==============================
 
