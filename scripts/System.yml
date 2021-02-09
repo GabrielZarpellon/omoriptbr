@@ -654,7 +654,7 @@ plugins:
         text: IR PARA TELA INICIAL
         help: Retornar para a tela inicial
       toTitleScreenPrompt:
-        text: Retornar para a tela inicial?
+        text: Retornar à tela inicial?
         commands: [SIM, NÃO]
       exit:
         text: SAIR DO JOGO
