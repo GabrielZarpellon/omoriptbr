@@ -99,13 +99,13 @@ terms:
     param:
         0: "Max HP"
         1: "Max MP"
-        2: "Attack"
-        3: "Defense"
+        2: "Ataque"
+        3: "Defesa"
         4: "M.Attack"
         5: "M.Defense"
-        6: "Speed"
-        7: "Luck"
-        8: "Hit"
+        6: "Velocidade"
+        7: "Sorte"
+        8: "Acerto"
         9: "Evasion"
 
 # Table of Keys for Input
