@@ -68,7 +68,7 @@ message_12:
 # [YES]
 
 message_13:
-      text: \berHeh, era isso o que eu pensei!\! O que está impedindo vocês então?\!<br>Vamo lá, vamos brincar! Eu vou reunir todo mundo!
+      text: \berHeh, era isso o que eu pensei!\! O que está impedindo vocês então?\!<br>'Vamo' lá, vamos brincar! Eu vou reunir todo mundo!
 # [NO]
 message_14:
       text: \ber\com[2]Hein!? Você não sabe brincar de esconde-esconde!?\!<br>Que tipo de criança é você afinal?<br><br>Isso significa que você tem que jogar com a gente!\!<br>Eu vou explicar as regras depois que eu reunir todo mundo!
@@ -397,7 +397,7 @@ message_84:
       text: \berVocês demoraram o bastante...\!<br>Eu achei que eu ia sufocar lá dentro!
 
 message_85:
-      text: \berQue que cês acharam do meu esconderijo?\! Bem legal, né?
+      text: \berO que cês acharam do meu esconderijo?\! Bem legal, né?
 
 message_86:
       text: \berParece que você achou todo mundo também!\!<br>Inesperado...\! mas eu gosto disso!
@@ -413,7 +413,7 @@ message_88:
       text: \berSHARLEEN!
 
 message_89:
-      text: \n<SHARLEEN>\}A-aqui...
+      text: \n<SHARLEEN>\}A-Aqui...
 
 message_90:
       text: \berVAN!
@@ -577,7 +577,7 @@ message_129:
       text: \n<CHEFE>Não se façam de burros!\! Vocês sabem por que eu estou aqui!
 
 message_130:
-      text: \n<CHEFE>Como ousam não me convidar para brincar de esconde-esconde!
+      text: \n<CHEFE>Como ousam não me convidar para brincar de esconde-esconde?!
 
 message_131:
       text: \n<CHEFE>Fui eu que mostrei para vocês como se brinca em primeiro lugar!
@@ -698,7 +698,7 @@ message_304:
 message_305:
       faceset: MainCharacters_DreamWorld
       faceindex: 47
-      text: \herBem...\! Ele provavelmente não vai ser um problema enquanto ele ficar aí.
+      text: \herBem...\! Ele provavelmente não vai ser um problema enquanto ficar aí.
 
 message_306:
       faceset: MainCharacters_DreamWorld
