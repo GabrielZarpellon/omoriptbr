@@ -1,0 +1,112 @@
+# =========================================================================================
+# Sidequest: Bring back Angel
+# =========================================================================================
+
+message_0:
+      text: \artEi, vocês viram meu irmão idiota, o ANGEL?\!<br>Eu emprestei uma grana pra ele fazer uns favores hoje de manhã, mas ele ainda não voltou.
+
+message_1:
+      text: \artConhecendo ele... Ele deve ter esquecido...\!<br>Se encontrar ele, você pode lembrá-lo?
+
+message_2:
+      text: \artFala pra ele...\! que a irmã dele...\! tá ficando sem paciência...
+
+#Talk to ANGEL
+
+message_3:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelEi, ANGEL! Sua irmã tá te procurando...\!<br>Ela disse que te pediu pra fazer uns favores hoje!
+
+message_4:
+      text: \angHuh...\! Favores?\! Que favores?
+
+message_5:
+      text: \ang\Com[2]Ah, bosta!\! Esqueci que tinha que comprar uns materiais de artes pra ela essa manhã!
+
+message_6:
+      text: \angAh...\! Vish...\! Então é por isso que eu tinha aquela grana no bolso...\!<br>...\! Opa...
+
+message_7:
+      text: \angEi, ééé...\! Quando você falou com a minha irmã...\!<br>Ela...\! Ela parecia brava?
+
+#[yes/no]
+
+#[if yes]
+
+message_8:
+      text: \angE-Ela...\! parecia?
+
+message_9:
+      text: \angHmm...\! Será que eu volto pra casa então?\!<br>Nesse ponto, será que vale a pena?
+
+message_10:
+      text: \ang\Com[2]Gah!\! Não, se eu continuar fugindo, só vai deixar tudo pior!\!<br>Vamos lá, ANGEL! Você tem que encarar seus medos de frente!
+
+message_11:
+      text: \ang\{\Com[2]EM FRENTE, ANGEL!\! \Com[2]VOCÊ CONSEGUE!!
+
+#ADD FWWAAAAAAAAA
+
+#ANGEL runs O.S. towards TOWN PLAZA.
+
+#[if no]
+
+message_12:
+      text: \angHeh...\! É isso mesmo...?\! Bom, nunca da pra ter tanta certeza, né?
+
+message_13:
+      text: \angEu provavelmente deveria voltar...\! só pra ficar seguro...
+
+message_14:
+      text: \angEncontro com vocês depois...
+
+message_15:
+      text: \angEu...\! é...\! Eu preciso ir...
+
+#Fwaaaaa
+#ANGEL runs O.S. towards TOWN PLAZA.
+
+# =========================================================================================
+# Cutscene: Angel's Punishment
+# =========================================================================================
+
+message_20:
+      text: \art\{\{\COM[2]\QUAKE[1]ANGEL, VOLTA AQUI!!!!\QUAKE[0]
+
+message_21:
+      text: \ang\{\{\COM[2]\QUAKE[1]FOI MAL, IRMÃ!!!\QUAKE[0]
+
+message_22:
+      text: \ang\COM[2]\QUAKE[1]Por favor...\! Tô te implorando...\!<br>\{\COM[2]ISSO NÃO!!!\! \COM[2]TUDO MENOS ISSO!!!\QUAKE[0]
+
+#RIPPING NOISE
+
+message_23:
+      text: \ang\COM[2]\QUAKE[1]AHH\{HHHHH\{HHHH\{HHHHH\{HHHHHH!!!!\QUAKE[0]
+
+#TALK TO ARTIST
+
+
+message_24:
+      text: \artHuff...\! Ah, são só vocês, pessoal.\!<br>Obrigado por buscar meu irmãozinho...
+
+message_25:
+      text: \artEle...\! Ele está num lugar melhor agora...
+
+message_26:
+      text: \artBrincadeira...\! Ele tá de castigo no cantinho.\! Da próxima vez ele vai pensar duas vezes antes de usar o meu dinheiro para comprar cartinhas!
+
+message_27:
+      text: \art\}Psst...\! Aqui.\! Toma isso.
+
+message_100:
+      text: Você recebeu uma \c[4]CARTA RARA\c[0].
+
+#You got a RARE TRADING CARD.
+
+message_28:
+      text: \art\}Eu fingi rasgar uma das cartinhas ultra-raras só para assustar ele um pouco...\! mas essa aqui é a verdadeira.
+
+message_29:
+      text: \art\}Só...\! fica com ela um pouquinho antes de devolver pra ele.\! Heh heh...\! Isso vai fazer ele aprender a lição.
