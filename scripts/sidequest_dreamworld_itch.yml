@@ -1,0 +1,42 @@
+# =========================================================================================
+# Itch
+# ========================================================================================
+
+#Talk to Dino 4's Top Half
+
+message_1:
+      text: \n<SCOTT>\sinv[1]Olá sô, jovens!\sinv[0]\!<br>Ocês se importam de me fazer um favorzinho?\!<br>Tô precisando que ocê coce uma coceira pra mim...
+
+message_2:
+      text: \n<SCOTT>É no meu traseiro, então eu não consigo alcançar.\!<br>Ugh...\! Isso tá \sinv[1]me matando\sinv[0]!
+
+#Talk to Dino 4's Bottom Half
+
+message_3:
+      text: Você coçou o traseiro de SCOTT.
+
+#Screen shakes
+
+message_4:
+      text: \n<SCOTT>\sinv[1]Ahhh...\! Muito melhor...\sinv[0]
+
+#Talk to Dino 4's Top Half
+
+message_5:
+      text: \n<SCOTT>Ei! Vocês devem ser as crianças que coçaram o meu traseiro.\!<br>Mas que \sinv[1]alivio\sinv[0]...
+
+message_6:
+      text: \n<SCOTT>Aqui, levem isso.\!<br>A gente tem um monte dessas coisas.\!<br>Eu tenho certeza que será útil de alguma forma!
+
+message_7:
+      text: Você recebeu um \c[13]CHAPÉU DURO\c[0].
+
+message_10:
+      text: \n<SCOTT>Fiquem bem, crianças!\! Eu não posso agradecer o suficiente!
+
+#Quest complete
+
+#After quest dialogue
+
+message_8:
+      text: \n<SCOTT>Ei! Vocês devem ser as crianças que coçaram o meu traseiro.\!<br>Mas que \sinv[1]alivio\sinv[0]...
