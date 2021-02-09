@@ -410,7 +410,7 @@ Scene_OmoriFile.prototype.onSelectInputOk = function() {
     // If File Exists
     if (StorageManager.exists(saveFileid)) {
       // Show Prompt Window
-      this.showPromptWindow('Carregar o arquivo?');
+      this.showPromptWindow('Abrir o arquivo?');
       // Set Can select Flag to false
       this._canSelect = false;
     } else {
@@ -606,10 +606,10 @@ Window_OmoriFileInformation.prototype.refresh = function() {
 
   // Draw File
   this.contents.fontSize = 30;
-  this.contents.drawText('FILE ' + id + ':', 10 + 30, -5, 100, this.contents.fontSize);
+  this.contents.drawText('ARQUIVO ' + id + ':', 10 + 30, -5, 100, this.contents.fontSize);
   // If Valid
   if (valid) {
-    this.contents.drawText(info.chapter, 85 + 30, -5, this.contents.width, this.contents.fontSize);
+    this.contents.drawText(info.chapter, 122 + 30, -5, this.contents.width, this.contents.fontSize);
     this.contents.fontSize = 28;
 
     let backBitmap = ImageManager.loadSystem('faceset_states');
@@ -625,7 +625,7 @@ Window_OmoriFileInformation.prototype.refresh = function() {
     this.contents.fontSize = 24;
     this.contents.drawText(actor.name, 118, 30, 100, 24);
     // Draw Level
-    this.contents.drawText('LEVEL:', 290 + 55, 30, 100, 24);
+    this.contents.drawText('NÍVEL:', 290 + 55, 30, 100, 24);
     this.contents.drawText(actor.level, 290 + 55, 30, 70, 24, 'right');
     // Draw Total PlayTime
     this.contents.drawText('TEMPO DE JOGO:', 118, 55, 200, 24);
@@ -665,13 +665,13 @@ Window_OmoriFileCommand.prototype.initialize = function() {
 //=============================================================================
 Window_OmoriFileCommand.prototype.isUsingCustomCursorRectSprite = function() { return true; };
 Window_OmoriFileCommand.prototype.lineHeight = function () { return 24; };
-Window_OmoriFileCommand.prototype.windowWidth = function () { return 119; };
+Window_OmoriFileCommand.prototype.windowWidth = function () { return 125; };
 Window_OmoriFileCommand.prototype.windowHeight = function () { return 64; };
 Window_OmoriFileCommand.prototype.standardPadding = function () { return 4; };
 Window_OmoriFileCommand.prototype.numVisibleRows = function () { return 2; };
 Window_OmoriFileCommand.prototype.maxCols = function () { return 1; };
 Window_OmoriFileCommand.prototype.customCursorRectYOffset = function() { return 5; }
-Window_OmoriFileCommand.prototype.customCursorRectTextXOffset = function() { return 40; }
+Window_OmoriFileCommand.prototype.customCursorRectTextXOffset = function() { return 30; }
 //=============================================================================
 // * Setup File
 //=============================================================================
@@ -687,8 +687,8 @@ Window_OmoriFileCommand.prototype.setupFile = function (save, load) {
 // * Make Command List
 //=============================================================================
 Window_OmoriFileCommand.prototype.makeCommandList = function () {
-  this.addCommand("SAVE", 'save', this._canSave);
-  this.addCommand("LOAD", 'load', this._canLoad);
+  this.addCommand("SALVAR", 'save', this._canSave);
+  this.addCommand("ABRIR", 'load', this._canLoad);
 };
 
 
@@ -768,8 +768,8 @@ Window_OmoriFilePrompt.prototype.setPromptText = function (text) {
 // * Make Command List
 //=============================================================================
 Window_OmoriFilePrompt.prototype.makeCommandList = function () {
-  this.addCommand("YES", 'ok');
-  this.addCommand("NO", 'cancel');
+  this.addCommand("SIM", 'ok');
+  this.addCommand("NÃO", 'cancel');
 };
 //=============================================================================
 // * Refresh
