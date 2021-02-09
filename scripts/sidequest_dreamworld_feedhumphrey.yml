@@ -1,0 +1,125 @@
+
+# =========================================================================================
+# Feed Humphrey
+# ========================================================================================
+
+message_0:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 36 #replace
+      text: \herOlá, SR. MANDIBARÃO! Nós viemos te dar um oi!
+
+message_1:
+      text: \jawHERO...\! É mesmo você?
+
+message_2:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 38 #replace
+      text: \herSim, com certeza!\! Como vai você?
+
+message_3:
+      text: \jawOs negócios não estão indo nada bem, HERO...\! \quake[1]Nada bem mesmo.\quake[0]
+
+message_4:
+      text: \jawAs coisas não são mais as mesmas depois que você saiu.\!<br>Todos os investidores cairam fora, a construção parou, e estamos perdendo clientes a torto e a direito!
+
+message_5:
+      text: \jawTodos os sinais apontam para a mesma coisa! <br>\!Esse não é o caminho que eu devo seguir em minha vida...
+
+message_6:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39 #replace
+      text: \herNão diga isso, SR. MANDIBARÃO!\!<br>Você é o melhor...\! e único chefe que eu já tive!
+
+message_7:
+      text: \jawNão me entenda errado, eu não estou pra baixo ou algo assim.\!<br>Estou apenas aprendendo uma lição!
+
+message_8:
+      text: \jawEu tenho todo tipo de trabalhos paralelos bem-sucedidos, mas...\! <br>O \c[11]ÚLTIMO RESORT\c[0] era uma paixão real, sabe?
+
+message_9:
+      text: \jawSim...\! Eu já fiz minha decisão...<br>\!Acho que é a minha hora de dizer adeus.
+
+message_10:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 46 #replace
+      text: \her\Com[2]Espere, SR. MANDIBARÃO!\! Você não pode desistir ag-
+
+message_11:
+      text: \jawPegue isso, HERO...\!<br>É por tudo o que você fez por mim.
+
+message_12:
+      text: Você recebeu um \c[4]CHEQUE GIGANTE\c[0].
+
+message_13:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 47 #replace
+      text: \herO-Oh!\! Ok, então.\! Muito obrigado.
+
+message_14:
+      text: \jawTambém tem...\! outra coisa.\!<br>HERO,\| Eu quero que você...\| tome conta do \c[11]ÚLTIMO RESORT\c\c[0] para mim.
+
+message_40:
+      text: \n<CARA JACARÉ>Aqui está a sua gravata, chefe.
+
+message_15:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 46 #replace
+      text: \her\Com[2]Q-Que?\! Você tem certeza?\! Mas eu só tenho 15 anos!
+
+message_16:
+      text: \jawHERO!\! Eu nunca estive tão certo sobre algo na minha vida inteira!\! Não conte para os outros, mas...\! você sempre foi o meu favorito.
+
+message_17:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 46 #replace
+      text: \herSR. MANDIBARÃO...
+
+message_18:
+      text: \jawHeh...\! e assim, tudo está organizado.\!<br>Só tem...\! mais uma coisa para fazer agora.
+
+message_19:
+      text: \jaw\{\sinv[1]\Com[2]É HORA DAS FÉRIAS, BABY!!\sinv[0]
+
+message_20:
+      text: \jawO velho MANDIBARÃO vai aproveitar a vida!\!<br>Te vejo por aí! Não vá sentir minha falta agora!
+
+message_28:
+      text: \jaw\Com[2]\Sinv[2]\{\{JAWHAW\{HAWHAW\{HAWHAW!!\Sinv[0]
+
+
+#Talk to Humphrey
+
+message_21:
+      text: \hum\sinv[1]Ahhhhhhhhh...\! Essa foi uma boa soneca.\!<br>Minha dor de barriga passou.\! Mas eu \quake[1]ainda...\| estou...\| faminto...
+
+message_22:
+      text: \hum\sinv[1]Ora, ora, ora!\sinv[0]\! Eu sinto o cheiro de algo absolutamente delicioso!\! É um \c[4]CHEQUE GIGANTE\c[0] isso que você está levando\!<br>Poderia eu...\! talvez...\! ter um pedacinho?
+
+#[Nod/Shake]
+#[Nod]
+message_23:
+      text: Você deu o \c[4]CHEQUE GIGANTE\c[0] do HERO para o HUMPHREY.
+
+message_24:
+      text: \hum\sinv[1]\{DEEEEEE...\{\Com[2]LICIOSO!!\sinv[0]\}
+
+#HUMPHREY opens his mouth and burps
+
+message_25:
+      text: \hum\sinv[1]É isso o que eu chamo de gourmet!\sinv[0]
+
+#HUMPHREYS stomach gurgles
+
+message_26:
+      text: \humAh... Agora vai!\! Agora que eu estou cheio, <br>tudo deve voltar ao normal por aqui...
+
+#note: Humphrey becomes re-accessible as a map
+
+#[Shake]
+
+message_27:
+      text: \humOh...\! Mas isso parece tão saboroso...
+
+
+message_29:
+      text: \humBom...\! quase...\! \quake[1]Nyak, nyak...\quake[0]
