@@ -1,0 +1,41 @@
+
+# =========================================================================================
+# Sidequest: Fix Arcade Machine
+# =========================================================================================
+
+#Talk to Gino without arcade piece
+
+message_1:
+      text: \n<HOMEM DE ÓCULOS>Ai ai...\! Droga...\! Estou tentand consertar essa velha máquina de fliperama, <br>mas está faltando uma peça rara e importante...
+
+message_2:
+      text: \n<HOMEM DE ÓCULOS>Parece que foi mordido bem aqui.\! Ne pergunto onde pode estar...
+
+#Talk to Gino with arcade piece
+
+message_4:
+      text: \n<HOMEM DE ÓCULOS>\com[2]Hey!\! Essa é a \c[4]PARTE DE FLIPERAMA\c[0] que eu estive procurando!\! E-Eu poderia por favor pegar de você?
+
+#[Nod/Shake]
+#[Nod]
+
+message_8:
+      text: Você deu a \c[4]PARTE DE FLIPERAMA\c[0] para o HOMEM DE ÓCULOS.
+
+message_5:
+      text: \n<HOMEM DE ÓCULOS>Certo, legal!\! Agora vejamos aqui...
+#[Arcade Machine boots up]
+message_6:
+      text: \n<HOMEM DE ÓCULOS>Aqui está...\! Novinha em folha!
+#[Shake]
+message_7:
+      text: \n<HOMEM DE ÓCULOS>\com[2]M-M-M-Mas por quê!?
+
+message_9:
+      text: \n<HOMEM DE ÓCULOS>Aqui! Leve esse \c[4]CD\c[0] como agradecimento!
+
+message_10:
+      text: \n<HOMEM DE ÓCULOS>Eu comprei no \c[11]HOBBEEZ\c[0] semana passada, mas esqueci que eu já tinha uma cópia em casa...
+
+message_11:
+      text: \n<HOMEM DE ÓCULOS>Agora, se me der licença...\! <br>Eu devo...\! err...\! ter certeza de que esse jogo está fucionando...
