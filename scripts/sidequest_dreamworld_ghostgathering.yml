@@ -1,0 +1,239 @@
+
+# =========================================================================================
+# Ghost Gathering
+# ========================================================================================
+
+#Talk to Tophat Ghost
+
+message_0:
+      text: \n<FANSTASMA DE CARTOLA>Céus, quão pontual!\!<br>Parece que me encontro em um grande dilema.
+
+message_1:
+      text: \n<FANSTASMA DE CARTOLA>Eu enviei cartas para um número de conhecidos pedindo para que viessem ao meu banquete elegante...\! mas até o momento, nenhum dos convidados apareceram!\! Nenhum!
+
+message_2:
+      text: \n<FANSTASMA DE CARTOLA>Isso é um absurdo.\! Um fantasma qualquer estaria furioso, mas meus sentidos refinados me dizem que eles simplesmente se perderam no caminho até aqui.
+
+message_3:
+      text: \n<FANSTASMA DE CARTOLA>Veja...\! Quando eu enviei os convites...\! Eu me esqueci de incluir direções até o local!
+
+message_4:
+      text: \n<FANSTASMA DE CARTOLA>Sendo um exímio cavalheiro e anfitrião, eu me recuso a dar início a festa até que todos os meus convidados cheguem.
+
+message_5:
+      text: \n<FANSTASMA DE CARTOLA>Você poderia dar a gentileza de ajudar os meus convidados a encontrarem o caminho até aqui?
+
+#[Nod/Shake]
+#[Nod]
+message_6:
+      text: \n<FANSTASMA DE CARTOLA>Obrigado, meu bom senhor!\!<br>Aqui estão alguns mapas com direções para chegar à festa, estampados com o meu selo de aprovação CARTOLA oficial.
+
+message_7:
+      text: \n<FANSTASMA DE CARTOLA>Por favor entregue esses mapas para cada um dos meus convidados.<br>\!Com certeza assim eles encontrarão o caminho por si próprios.
+
+message_8:
+      text: Você recebeu 6 \c[4]MAPAS ASSUSTADORES\c[0].
+#[Shake]
+message_9:
+      text: \n<FANSTASMA DE CARTOLA>Hmph... Que pena.\! Você realmente deixaria um velho fantasma como eu aproveitar este banquete sozinho?
+#Talk to Beard GHOST
+
+message_10:
+      text: \n<FANTASMA BARBUDO>Hmm...\! Espere, para onde eu estava indo?\!<br>Carambolas, minha memória já não é mais como antes...
+
+message_11:
+      text: Você entregou um \c[4]MAPA ASSUSTADOR\c[0] ao FANTASMA BARBUDO.
+
+message_12:
+      text: \n<FANTASMA BARBUDO>Hã? O que é isso?\!<br>Um mapa para a festa do velho CARTOLA?\! Hoo, é isso mesmo!
+
+message_13:
+      text: \n<FANTASMA BARBUDO>É melhor eu ir logo antes que a comida esfrie.\!<br>Lá vou eu, bufê coma-tudo-o-que-puder!
+
+#Talk to Glasses GHOST
+
+message_14:
+      text: \n<FANTASMA DE ÓCULOS>Aqui estou, sozinho como uma concha...\! Ai ai...\! A única vez que eu fui convidado para uma festa e eu não sei o endereço...
+
+message_15:
+      text: Você entregou um \c[4]MAPA ASSUSTADOR\c[0] ao FANTASMA DE ÓCULOS.
+
+message_16:
+      text: \n<FANTASMA DE ÓCULOS>O-Oh! Eu não acredito! É um mapa para a festa do CARTOLA?\!<br>Você me salvou, sabia disso?\!<br>É melhor eu me apressar...\! parece que vai ser um estouro!
+
+
+#Talk to Mustache GHOST
+
+message_17:
+      text: \n<FANTASMA DE BIGODE>Não ligue pra mim!\!<br>Eu sou apenas um bigode voador perdido cuidando da própria vida!
+
+message_18:
+      text: Você entregou um \c[4]MAPA ASSUSTADOR\c[0] ao FANTASMA DE BIGODE.
+
+message_19:
+      text: \n<FANTASMA DE BIGODE>Uau, espera um segundo! O que temos aqui?\!<br>Direções para a festa do CARTOLA?\!<br>Bom, então... É melhor eu acelerar o passo!
+
+message_20:
+      text: \n<FANTASMA DE BIGODE>\Com[2]A festa não começa até eu chegar!\!<br>\quake[1]Hyok, hyok, hyok... ronc... hyok, hyok, hyok! \quake[0]
+
+#Talk to Princess GHOST
+
+message_21:
+      text: \n<FANTASMA PRINCESA>Oh não, parece que me encontro perdida novamente...\!<br>Oh... como sou atrapalhada.
+
+message_22:
+      text: Você entregou um \c[4]MAPA ASSUSTADOR\c[0] ao FANTASMA PRINCESA.
+
+message_23:
+      text: \n<FANTASMA PRINCESA>Oh, céus! O que é isso?\!<br>Um mapa para a festa do sir CARTOLA? É claro, é mesmo isso!
+
+message_24:
+      text: \n<FANTASMA PRINCESA>Eu preciso me apressar agora.<br>Princesas não podem se atrasar!
+
+
+#Talk to Propeller GHOST
+
+message_25:
+      text: \n<FANTASMA HÉLICE>Sniff... Sniff... Ah não...\!<br>Por que eu tive que me perder de novo?
+
+message_26:
+      text: Você entregou um \c[4]MAPA ASSUSTADOR\c[0] ao FANTASMA HÉLICE.
+
+message_27:
+      text: \n<FANTASMA HÉLICE>Oh... Oi...\! Hã? Isto é um mapa?\! Espere, eu vejo o selo do CARTOLA nele!\! Oba! Essas devem ser as direções para a festa!<br>Muito obrigado, estranho bondoso!
+
+message_28:
+      text: \n<FANTASMA HÉLICE>Eu vou conversar com você na festa!
+
+#Talk to SUNHAT GHOST
+
+message_29:
+      text: \n<FANTASMA CHAPÉU DE SOL>Hã, isso não me parece certo.\!<br>Eu devo ter virado uma esquina errada em algum lugar ...
+
+message_30:
+      text: Você entregou um \c[4]MAPA ASSUSTADOR\c[0] ao FANTASMA CHAPÉU DE SOL.
+
+message_31:
+      text: \n<FANTASMA CHAPÉU DE SOL>O que é isso? Um mapa?\!<br>Oh, nossa... e ainda tem o selo CARTOLA!\!<br>Agora eu vou poder ir na festa.
+
+message_32:
+      text: \n<FANTASMA CHAPÉU DE SOL>Obrigado, crianças!\!<br>Eu preciso ir agora, já estou perdendo o horário.
+
+#Talking to other Ghosts before talking to Tophat GHOST
+
+message_33:
+      text: FANTASMA BARBUDO olha para o nada como se não soubesse onde está.
+
+message_34:
+      text: FANTASMA DE ÓCULOS olha para o nada como se não soubesse onde está.
+
+message_35:
+      text: FANTASMA DE BIGODE olha para o nada como se não soubesse onde está.
+
+message_36:
+      text: FANTASMA PRINCESA olha para o nada como se não soubesse onde está.
+
+message_37:
+      text: FANTASMA HÉLICE olha para o nada como se não soubesse onde está.
+
+message_38:
+      text: FANTASMA CHAPÉU DE SOL olha para o nada como se não soubesse onde está.
+
+#Talking to TOPHAT GHOST before collecting all the Ghosts
+
+message_39:
+      text: \n<FANSTASMA DE CARTOLA>Tem 6 \c[4]MAPAS ASSUSTADORES\c[0] com direções para minha festa.\!<br>Cada um deles possuem o meu selo CARTOLA de aprovação.
+
+message_40:
+      text: \n<FANSTASMA DE CARTOLA>Por favor entregue esses mapas para cada um dos meus convidados.<br>\!Com certeza assim eles encontrarão o caminho por si próprios.
+
+#Talking to TOPHAT GHOST after collecting all ghosts
+
+message_41:
+      text: \n<FANSTASMA DE CARTOLA>\Com[2]\{UHUUUU! O BANQUETE FOI SALVO!!
+
+message_42:
+      text: \n<FANSTASMA DE CARTOLA>Agora...\!<br>\{\Sinv[1]DEIXEM A FESTANÇA COMEÇAR!!\}\Sinv[0]
+
+#GHOSTS DO A DANCE
+
+message_50:
+      text: \n<FANTASMA BARBUDO>Essa festa é sensacional!\! Aqui está uma coisinha que eu peguei no caminho até aqui.\! Não é muito, mas é o que eu tenho!
+
+message_51:
+      text: \n<FANTASMA DE ÓCULOS>Ah...\! Essa festa é tudo o que eu imaginei.\! Obrigado por me levar até aqui e tal.\! Aqui está um presente para você!
+
+message_52:
+      text: \n<FANTASMA DE BIGODE>Que festa incrível!\! O FANSTASMA DE CARTOLA sempre se supera!\! Te devo uma, amigos. Aqui, Leve isso!
+
+message_53:
+      text: \n<FANTASMA PRINCESA>Mas que celebração magnífica!\! E é graças a vocês que isso foi possível.\! Por favor aceitem esse presente!
+
+message_54:
+      text: \n<FANTASMA HÉLICE>Catapimbas! Eu mal posso acreditar que estou aqui!\! E eu aposto que eu pareço muito maneiro com vocês todos falando comigo...\! Então é óbvio que eu preciso retribuir!
+
+message_55:
+      text: \n<FANTASMA CHAPÉU DE SOL>Obrigado, crianças!\! Agora que estou nessa festa, é muito mais fácil aproveitar a pós-vida!\! Vocês precisam levar isso como recompensa por melhorar meu dia!
+
+message_56:
+      text: \n<FANSTASMA DE CARTOLA>Meus bons homens! Vocês tem minha gratitude eterna.\! Aproveitem esse meu presente!
+
+message_57:
+      text: \n<FANSTASMA DE CARTOLA>Por favor aproveitem a boa companhia!
+
+#==
+
+#beard
+message_60:
+      text: Você recebeu um \c[3]WAFFLE\c[0].
+
+#glasses
+message_61:
+      text: Você recebeu \c[4]BATERIAS VAZIAS\c[0].
+
+#mustache
+message_62:
+      text: Você recebeu um \c[3]SUCO DE FRUTA?\c[0]
+
+#princess
+message_63:
+      text: Você recebeu um \c[5]PRESENTE\c[0].
+
+#propeller
+message_64:
+      text: Você recebeu um \c[5]ELÁSTICO GRANDE\c[0].
+
+#sunhat
+message_65:
+      text: Você recebeu uma \c[3]GELEIA VITAL\c[0].
+
+#tophat
+message_66:
+      text: Você recebeu uma \c[13]CARTOLA\c[0].
+
+
+#==
+
+#beard
+message_70:
+      text: \n<FANTASMA BARBUDO>Olhe para toda essa comida!
+
+#glasses
+message_71:
+      text: \n<FANTASMA DE ÓCULOS>Ah...\! Essa festa é tudo o que eu imaginava.
+
+#mustache
+message_72:
+      text: \n<FANTASMA DE BIGODE>\quake[1]Hyok, hyok, hyok... snort... hyok, hyok, hyok!\quake[0]
+
+#princess
+message_73:
+      text: \n<FANTASMA PRINCESA>As decorações esse ano estão top de linha!
+
+#propeller
+message_74:
+      text: \n<FANTASMA HÉLICE>Eu aposto que eu estou maneiro agora...
+
+#sunhat
+message_75:
+      text: \n<FANTASMA CHAPÉU DE SOL>Agora que estou nessa festa, é muito mais fácil aproveitar a pós-vida!
