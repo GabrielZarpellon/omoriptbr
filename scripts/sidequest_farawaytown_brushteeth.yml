@@ -3,17 +3,17 @@
 # =========================================================================================
 
 message_1:
-      text: Do you want to brush your teeth?
+      text: Você quer escovar os dentes?
 #[Yes / No]
 # [Yes]
 message_2:
-      text: You brushed your teeth.\!<br>Your breath is now minty fresh.
+      text: Você escovou os dentes.\!<br>Seu bafo agora tem cheiro de menta.
 # [No]
 message_3:
-      text: You did not brush your teeth.
+      text: Você não escovou os dentes.
 
 message_4:
-      text: You brushed your teeth today.
+      text: Você já escovou os dentes hoje.
 
 message_5:
-      text: You did not brush your teeth today.
+      text: Você não escovou os dentes hoje.
