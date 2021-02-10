@@ -4,12 +4,12 @@
 
 terms:
     basic:
-        0: "LEVEL"
-        1: "LVL"
-        2: "HEART"
-        3: "HEART"
-        4: "JUICE"
-        5: "JUICE"
+        0: "NÍVEL"
+        1: "NVL"
+        2: "CORAÇÃO"
+        3: "CORAÇÃO"
+        4: "SUCO"
+        5: "SUCO"
         6: "TP"
         7: "TP"
         8: "EXP"
