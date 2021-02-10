@@ -349,13 +349,13 @@ message_119:
 #SEacow - Underwater Highway - Saved the farm → COMBO MEAL
 
 message_69:
-    text: \n<VACA MARÍTIMA>HERO!\! Acho que não te vejo desde que você salvou a fazenda!
+    text: \n<BOI-PEIXE>HERO!\! Acho que não te vejo desde que você salvou a fazenda!
 
 message_70:
-    text: \n<VACA MARÍTIMA>Nunca cheguei a te agradecer direito por isso e isso está me pesando muito... \! Agora é minha hora de te retribuir.\! Toma isso, parceiro.
+    text: \n<BOI-PEIXE>Nunca cheguei a te agradecer direito por isso e isso está me pesando muito... \! Agora é minha hora de te retribuir.\! Toma isso, parceiro.
 
 message_71:
-    text: VACA MARÍTIMA lhe deu, de alguma forma, uma \c[3]REFEIÇÃO COMBO\c[0].
+    text: BOI-PEIXE lhe deu, de alguma forma, uma \c[3]REFEIÇÃO COMBO\c[0].
 
 message_120:
-    text: \n<VACA MARÍTIMA>Vá em frente, HERO!\!<br>Seja o salame que você sempre foi destinado a ser!
+    text: \n<BOI-PEIXE>Vá em frente, HERO!\!<br>Seja o salame que você sempre foi destinado a ser!
