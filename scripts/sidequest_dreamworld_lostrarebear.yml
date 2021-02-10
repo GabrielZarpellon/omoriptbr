@@ -1,0 +1,41 @@
+
+# =========================================================================================
+# Lost Rare Bear
+# ========================================================================================
+
+#Talk to Candlie
+
+message_0:
+      text: \n<CANDLIE>Sniff...\! Sniff...\! Eu não consigo achar o meu \c[4]URSINHO\c[0] em lugar algum...
+
+message_1:
+      text: \n<CANDLIE>A última vez que eu estive com ele...\!<br>Tenho quase certeza de que eu estava andando por um grande castelo rosa...
+
+message_2:
+      text: \n<CANDLIE>Se você achar ele, poderia traze-lo pra mim?\!<br>Aposto que ele se sente muito sozinho...
+
+#Talk to Candlie after getting Rare Bear:
+message_3:
+      text: \n<CANDLIE>Sniff...\! Sniff...
+
+message_4:
+      text: \n<CANDLIE>Oh, é o meu \c[4]URSINHO\c[0]!
+
+message_5:
+      text: Você entregou o \c[4]URSINHO\c[0] para CANDLIE.
+
+message_6:
+      text: \n<CANDLIE>Estou tão feliz de ter você de novo, TEDDY!
+
+message_7:
+      text: \n<CANDLIE>Obrigado por me entregarem ele!\! Aqui está um presentinho para vocês...\! Não é muito, mas espero que gostem.
+
+message_8:
+      text: Você recebeu um \c[13]PATO DE BORRACHA\c[0].
+
+message_9:
+      text: \n<CANDLIE>Vamos, TEDDY! Do que a gente vai brincar?\!<br>Oh, já sei! Você gostaria de uma xícara de chá?
+
+message_10:
+      text: CANDLIE e TEDDY estão fazendo uma festa do chá.
+#CANDLIE and TEDDY have a tea party.
