@@ -1,0 +1,174 @@
+ # =========================================================================================
+# FARAWAY TOWN Mavericks
+# =========================================================================================
+
+#Intro: Enter Mavericks House between Day 2 and Day 3
+#Play: fat_church.ogg upon entering
+#once player enters Daphne and Bowens room, change song to goofy_times.ogg
+#there is a cardboard cutout of Daphne and Bowen inside
+
+#Examining either cardboard cutout
+message_1:
+      text: Você encontra uma nota.
+
+message_2:
+       text: \"Parece que desaparecemos...\!<br>Nós não conseguiríamos ir tão longe...\!<br>Nos encontre, querido irmãozinho.\"
+
+message_3:
+       text: Assinado, <br>DAPHNE e BOWEN (Seus queridos irmãos mais velhos)
+
+#upon exiting, song stays as goofy_times.ogg
+
+
+#HIDING SPOTS
+
+#There are now 2 lumps in the rug of the hallway.
+
+message_4:
+       text: Você levanta o tapete...\! e encontra dois travesseiros macios.
+
+message_5:
+       text: \"Essa é a carta mais velha na manga...\! <br>Não acredito que você caiu nessa...\"
+
+message_6:
+       text: Você abre a geladeira... \! e acha uma nota dentro.
+
+message_7:
+       text: \"Ho hum...\! Parece que sua trilha desapareceu...\"\! <br>\"Que inconveniente...\"
+
+#EXAMINE CURTAINS WITH SILHOUETTES
+
+message_8:
+       text: Você abre as cortinas...\! e acha algumas figuras de papelão.
+
+message_9:
+       text: \"Você acha que só compramos uma figura de nós mesmos?\! Isso seria bem mais caro.\"
+
+#Examine curtains with silhouettes:
+#Animation: A cat bolts out (You cannot find it after)
+
+#Examine Oven
+
+message_10:
+       text: Você abre o fogão...\!<br>O cheiro de pão fresco passeia pelo ambiente.
+
+#Examine (General)
+
+message_11:
+       text: Você abre as portas do cabinete...
+
+message_12:
+       text: Mas você não acha nada interessante.
+
+message_13:
+       text: Você checou debaixo da mesa...
+
+message_14:
+       text: Você olhou debaixo da cama...
+
+message_15:
+       text: Você checou dentro da banheira...
+
+message_16:
+       text: Você checou atrás do relógio...
+
+message_17:
+       text: Você checou atrás da pintura...
+
+message_18:
+       text: Você achou um cofre secreto.\! <br>Provavelmente é melhor fingir que você não viu nada.
+
+message_19:
+       text: Você checou atrás da estante...
+
+message_20:
+       text: Você checou atrás da estátua...
+
+message_21:
+       text: Você checou dentro da lareira...
+
+message_22:
+       text: Você achou um interruptor secreto.\! <br>Provavelmente é melhor deixar ele ali.
+
+#ONE STATUE
+
+message_23:
+       text: Você achou um interruptor secreto.\! <br>Provavelmente é melhor ignorá-lo.
+
+#Examine under The Mavericks Bed (Correct answer)
+
+#Bed begins shaking.
+message_24:
+       text: \n<OS GÊMEOS>\quake[1]\{\Com[2]BUU!!\}
+
+message_25:
+       text: \n<UM GÊMEO>Haha!\! Nós te pegamos, não é!?
+
+message_26:
+       text: \n<O OUTRO GÊMEO>...
+
+message_27:
+       text: \n<UM GÊMEO>Ei, espere um segundo...\! Você não é o nosso querido irmãozinho...
+
+message_28:
+       text: \n<UM GÊMEO>Hmm...\! Hmm...\! Nosso irmãozinho é muito legal para nós, não é, BOWEN?\! Ele nem tem mais tempo para brincar com seus queridos irmãos mais velhos!
+
+message_29:
+       text: \n<O OUTRO GÊMEO>Yes, DAPHNE...\! Isso é realmente...\! decepcionante...
+
+message_30:
+       text: \n<UM GÊMEO>Ah...\! Nós mal temos tempo livre...\! E quando temos...\! O pequeno MIKHAEL munca está aqui mais para brincar conosco!\!<br>Não é justo, né BOWEN?
+
+message_31:
+       text: \n<O OUTRO GÊMEO>A vida é tão cruel...
+
+message_32:
+       text: \n<UM GÊMEO>Bom, está tudo bem.\! Agora temos alguns novos amigos...\! Mas ainda...\!<br>Não tenho certeza do que eles fazem.\! Nos divirtam, queridos amigos!
+
+message_33:
+       text: \n<O OUTRO GÊMEO>Sim, nos divirtam!
+
+#If PET ROCK is activated: CLASH OF Jash
+
+#else
+
+message_34:
+       text: \n<UM GÊMEO>Ho hum...\! Vocês não tem nada?
+
+message_35:
+       text: \n<O OUTRO GÊMEO>Que pena...
+
+message_36:
+       text: \n<UM GÊMEO>Bem, isso foi muito divertido, mas ficamos entediados facilmente.
+
+message_37:
+       text: \n<UM GÊMEO>Venha, irmão.\! Vamos pensar em mais jogos divertidos para jogar.
+
+message_38:
+       text: \n<O OUTRO GÊMEO>Adeus, novos amigos.\! Isso foi...\! prazeroso.
+
+#DAPHNE and BOWEN walk out of THE MAVERICK'S ROOM into DAPHNE and BOWEN'S ROOM.
+
+message_39:
+       text: \n<UM GÊMEO>Nossa família é dona de uma padaria há quatro gerações...\! mas o nosso irmãozinho tirou a mão da massa desde os 6 anos...
+
+message_40:
+       text: \n<UM GÊMEO>Though...\! I am sure he will come around eventually.
+
+message_41:
+       text: \n<O OUTRO GÊMEO>Mamãe e papai querem que herdemos a padaria quando terminarmos a escola...\! então qual o ponto de ir para lá?
+
+#Cutouts
+
+message_42:
+       text: Figuras de papelão de um par de gêmeos.\! Tem algo preso atrás.
+
+#Locked
+
+message_43:
+       text: Um cadeado comicamente grande apareceu na porta.
+
+#Note
+
+message_44:
+       text: Tem uma nota atrás.

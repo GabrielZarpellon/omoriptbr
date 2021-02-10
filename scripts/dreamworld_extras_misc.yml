@@ -5,51 +5,51 @@
 #Waking up in White Space on Night 1:
 
 message_0:
-      text: You checked your pocket for a BLACK KEY...\!<br>but it wasn't there.
+      text: Você procurou uma CHAVE NEGRA nos seus bolsos...\!<br>mas ela não estava lá.
 
 #After completing all 3 slime girls routes:
 
 message_1:
-      text: \swh\Com[2]\{CAN NO ONE HERE DO ANYTHING!?!?
+      text: \swh\Com[2]\{NINGUÉM AQUI PODE FAZER QUALQUER COISA!?!?
 
 #Before putting together Basil's photo album:
 
 message_2:
       faceset: MainCharacter_Basil
       faceindex: 0
-      text: \basHmm... droga...\!<br>Eu não acho que eu me lembro da ordem de todas essas fotos...
+      text: \basHmm... droga...\!<br>Eu não acho que me lembro da ordem de todas essas fotos...
 
 message_3:
       faceset: MainCharacters_DreamWorld
       faceindex: 38
-      text: \herNão se preocupe com nada, BASIL.\! O OMORI tem uma ótima memória, eu tenho certeza que ele consegue arrumar isso!
+      text: \herNão se preocupe, BASIL.\! O OMORI tem uma ótima memória, eu tenho certeza que ele consegue arrumar isso!
 
 # Examining Mirror when Alone
 
 message_4:
-      text: You see that you are alone in the mirror.\!<br>You don't like it.
+      text: Você vê que está sózinho no espelho.\!<br>Você não gosta disso.
 
 # Picking up knife in white space:
 
 message_5:
-      text: You stare into the reflection of the knife.\!<br>It knows you well.
+      text: Você encara seu reflexo na faca.\!<br>Ele te conhece bem.
 
 #When checking out a telescope
 message_6:
-      text: A shiny telescope.\! Do you want to check out the view?
+      text: Um telescópio brilhante.\! Você quer apreciar a vista?
 
 # =========================================================================================
 # Rain town
 # =========================================================================================
 
 message_20:
-      text: The inhabitants of \c[11]RAIN TOWN\c[0] are in danger!\! There is too much rain spreading on their lands, and it's making them uncomfortable!
+      text: Os habitantes da \c[11]VILA DA CHUVA\c[0] estão em perigo!\! Tem muita chuva caindo nas terras deles, e está deixando eles desconfortáveis!
 
 message_21:
-      text: Find the nozzle on the top left of the map and examine it.
+      text: Encontre a válvula no canto superior esquerdo do mapa e examine-a.
 
 message_22:
-      text: The rain drizzles, and the inhabitants of \c[11]RAIN TOWN\c[0] are comfortable again.
+      text: Chuvisca, e os habitantes da \c[11]VILA DA CHUVA\c[0] estão confortáveis denovo.
 
 # =========================================================================================
 # WEEPING WILLOW
@@ -58,32 +58,32 @@ message_22:
 #WEEPING WILLOW rises from the lake.
 
 message_40:
-      text: \n<WEEPING WILLOW>Sigh...\! Hey, it's me, WEEPING WILLOW, the goddess of the lake.\!<br>Thanks for the CLAMS, I guess.
+      text: \n<FANTASMA CHOROSA>Ah...\! Olá, sou eu, FANTASMA CHOROSA, a deusa do lago.\!<br>Obrigada pelas conchas, eu acho.
 
 message_41:
-      text: \n<WEEPING WILLOW>They say that money can buy happiness,<br>but apparently it's not working...
+      text: \n<FANTASMA CHOROSA>Eles dizem que dinheiro pode comprar felicidade,<br>mas aparentemente não está funcionando...
 
 message_42:
-      text: \n<WEEPING WILLOW>Can you do something funny for me?\!<br>Maybe tell a joke?
+      text: \n<FANTASMA CHOROSA>Você pode fazer algo divertido para mim?\!<br>Talvez contar uma piada?
 
 #If Player does not have Joke Book or has no Jokes
 
 message_43:
-      text: \n<WEEPING WILLOW>...\! It doesn't look like you have any material on you.\!<br>Come back when you have a joke or two.
+      text: \n<FANTASMA CHOROSA>...\! Parece que você não tem muito material.\!<br>Volte quando ter uma piada ou duas.
 
 #[IF PLAYER HAS JOKE BOOK WITH AT LEAST 1 JOKE]
 
 message_44:
-      text: \n<WEEPING WILLOW>Sigh...\! Okay, what is it?
+      text: \n<FANTASMA CHOROSA>Ak...\! Tudo bem, o que é?
 
 message_45:
-      text: Do you want to read WEEPING WILLOW a joke from the<br>\c[4]JOKE BOOK\c[0]?
+      text: Você quer contar uma piada do <br>\c[4]LIVRO DE PIADAS\c[0] para a FANTASMA CHOROSA?
 
 #yes/no
 
 #yes (if Hero)
 message_46:
-      text: Which joke would you like to read?
+      text: Que piada você gostaria de ler?
 
 #List of jokes appear
 
@@ -95,16 +95,16 @@ message_46:
 
 #yes (if not Hero)
 message_47:
-      text: You open the \c[4]JOKE BOOK\c[0]...
+      text: Você abre o \c[4]LIVRO DE PIADAS\c[0]...
 
 message_48:
-      text: The contents of this book are too embarrassing to read out loud.\! Maybe someone older would be able to do it.
+      text: As frases desse livro são mui embarassosas para ler em voz alta.\! Talvez alguém mais velho conseguiria ler.
 
 message_49:
-      text: \n<WEEPING WILLOW>Really?\! You called me out here for nothing?
+      text: \n<FANTASMA CHOROSA>Sério?\! Você me chamou aqui para nada?
 
 message_50:
-      text: \n<WEEPING WILLOW>Sigh...\! What a waste of time...
+      text: \n<FANTASMA CHOROSA>Ah...\! Que perda de tempo...
 
 #WEEPING WILLOW sinks back down into the lake.
 
@@ -116,27 +116,27 @@ message_50:
 #JOKE 1: Location: OTHERWORLD stuck on a storage unit
 
 message_60:
-      text: \"Did you hear about the restaurant on the Moon?\"
+      text: \"Você já ouviu falar no restaurante na lua?\"
 
 message_61:
-      text: \"There's great food, but no atmosphere.\"
+      text: \"A comida é ótima, mas o lugar não tem atmosfera.\"
 
 #JOKE 2: Location: CATTAIL FIELD stuck on the OLD BARN.
 
 message_62:
-      text: \"Why did the scarecrow win an award?\"
+      text: \"Por que o espantalho ganhou um prêmio?\"
 
 message_63:
-      text: \"Because he was outstanding in his field.\"
+      text: \"Porque ele se destacou no seu campo.\"
 
 
 #JOKE 3: Location: SPROUT MOLE TOWN next to a bike.
 
 message_64:
-      text: \"Why couldn't the bicycle stand up by itself?\"
+      text: \"Qual é a diferença entre uma bicicleta e uma privada?\"
 
 message_65:
-      text: \"It was two tired.\"
+      text: \"A bicicleta você senta para correr e a privada você corre para sentar.\"
 
 #JOKE 4: Location: FROZEN FOREST in an igloo.
 
@@ -149,105 +149,105 @@ message_67:
 #JOKE 5: Location: ORANGE OASIS on a cave wall.
 
 message_68:
-      text: \"What do you call cheese that isn't yours?\"
+      text: \Quem é o rei dos queijos?\"
 
 message_69:
-      text: \"Nacho cheese.\"
+      text: \"O reiqueijão.\"
 
 #JOKE 6: Location: DEEP WELL in UNDERWATER HIGHWAY.
 
 message_70:
-      text: \"What lies at the bottom of the ocean and twitches?\"
+      text: \"Por que a sala de aula parece um mar?\"
 
 message_71:
-      text: \"A nervous wreck.\"
+      text: \"Porque professores navegam, alunos boiam e notas afundam.\"
 
 #JOKE 7: Location: DEEP WELL in the CONSTRUCTION SITE.
 
 message_72:
-      text: \"Want to hear a joke about construction?\"
+      text: \"Quer ouvir uma piada sobre construções?\"
 
 message_73:
-      text: \"I'm still working on it.\"
+      text: \"Ainda estou trabalhando nela.\"
 
 message_74:
-      text: You jotted the joke down in your \c[4]JOKE BOOK\c[0].
+      text: Você anotou a piada no seu \c[4]LIVRO DE PIADAS\c[0].
 
 message_75:
-      text: You got a \c[4]JOKE BOOK\c[0]!
+      text: Você pegou \c[4]LIVRO DE PIADAS\c[0]!
 
 #================================ CRYING RESPONSES ==================================
 
 # Crying level 1
 
 message_90:
-      text: \n<WEEPING WILLOW>Sniff...\! That joke...\! That joke was so bad...\!<br>It just makes me want to...
+      text: \n<FANTASMA CHOROSA>Sniff...\! Essa piada...\! Essa piada foi tão ruim...\!<br>Que quase faz eu querer...
 
 message_91:
-      text: \n<WEEPING WILLOW>Sniff...\! Sniff...\! \SINV[1]Wehhhhhhhhhh...\SINV[0]
+      text: \n<FANTASMA CHOROSA>Sniff...\! Sniff...\! \SINV[1]Uaaaaaaaaaaa...\SINV[0]
 
 #WEEPING WILLOW sinks back down into the lake.
 
 # Crying Level 2
 
 message_92:
-      text: \n<WEEPING WILLOW>\SINV[1]Wehhhh...\SINV[0]\!\Com[2]\SINV[2]Weaa\{aaeeeeaahh\{hhhhhhhhhhhh!!\SINV[0]
+      text: \n<FANTASMA CHOROSA>\SINV[1]ueeeee...\SINV[0]\!\Com[2]\SINV[2]Ueaa\{aaeeeeaaaa\{aaaaaaaaaaaa!!\SINV[0]
 
 #WEEPING WILLOW sinks back down into the lake.
 
 # Crying Level 3
 
 message_93:
-      text: \n<WEEPING WILLOW>\Com[2]\Quake[1]WEE\{\Com[2]AHHHH\{\Com[2]HHHHHH\{HHHHH\{HHHH!!!\Quake[0]
+      text: \n<FANTASMA CHOROSA>\Com[2]\Quake[1]UEE\{\Com[2]AAAAA\{\Com[2]AAAAAA\{AAAAA\{AAAA!!!\Quake[0]
 
 # Tolerable Joke:
 
 message_94:
-      text: \n<WEEPING WILLOW>Sniff... \!Sniff... \!Hehe...
+      text: \n<FANTASMA CHOROSA>Sniff... \!Sniff... \!Haha...
 
 message_95:
-      text: \n<WEEPING WILLOW>H-Hey...\! That joke's pretty funny...
+      text: \n<FANTASMA CHOROSA>E-ei...\! Essa piada foi engraçada...
 
 message_96:
-      text: \n<WEEPING WILLOW>\sinv[1]Hehehehe...
+      text: \n<FANTASMA CHOROSA>\sinv[1]Hahahaha...
 
 #WEEPING WILLOW transforms to happy WEEPING WILLOW
 
 message_97:
-      text: \n<WILLOW>Ah...\! I feel a little better now.
+      text: \n<FANTASMA>Ah...\! Eu me sinto um pouco melhor agora.
 
 #GOD RAYS appeared
 #A sword floats down in front of Party
 
 message_98:
-      text: \n<WILLOW>Thanks for cheering me up, travelers.
+      text: \n<FANTASMA>Obrigado por me animarem, viajantes.
 
 message_99:
-      text: \n<WILLOW>Here is a reward for your valiant efforts.
+      text: \n<FANTASMA>Aqui está a recompensa pelos seus esforços valentes.
 
 message_100:
-      text: \n<WILLOW>This is an ancient weapon of indescribable power.
+      text: \n<FANTASMA>Essa é uma arma ancestral de poder indescritível.
 
 message_101:
-      text: \n<WILLOW>Only a true HERO is able to wield it.
+      text: \n<FANTASMA>Apenas um verdadeiro HERÓi pode empunhá-la.
 
 #God SFX
 
 message_102:
-      text: \n<WILLOW>Ah... The gods are calling for me.\!<br>I'm afraid it's time to take my leave.
+      text: \n<FANTASMA>Ah... Os deuses estão me chamando.\!<br>Estou com medo que seja minha hora de partir.
 
 message_103:
-      text: \n<WILLOW>Our time together was short, but it has been a...\!<br>mostly...\! pleasurable experience.
+      text: \n<FANTASMA>Nosso tempo juntos foi curto, mas foi uma...\!<br>em grande parte...\! experiência agradável.
 
 message_104:
-      text: \n<WILLOW>Perhaps we will meet again in another life.\!<br>So long, travelers! It's been fun!
+      text: \n<FANTASMA>Talvez nos encontraremos novamente em outra vida.\!<br>Até mais, viajantes! Foi divertido!
 
 #God rays disappear
 
 #Examine sword
 
 message_110:
-      text: You got the \c[13]LOL SWORD\c[0].
+      text: Você pegou a \c[13]ESPADA LOL\c[0].
 
 # =========================================================================================
 # Hide and Seek with yourself
@@ -257,7 +257,7 @@ message_110:
 #If PLAYER examines the tetherball pole, it will prompt the message:
 
 message_120:
-      text: Do you want to play hide-and-seek?
+      text: Você quer jogar esconde-esconde?
 
 #yes
 #Screen turns black.
@@ -269,12 +269,12 @@ message_121:
 #If you examine the mirror, the mirror slide will show. (Only OMORI is in the mirror)
 
 message_122:
-      text: Found you!
+      text: Te achei!
 
 #Then the mirror slide will fade out.
 
 message_123:
-      text: Do you want to play again?
+      text: Você quer jogar denovo?
 
 #no
 #Mirror disappears
@@ -286,46 +286,46 @@ message_123:
 #Taxi Ride-
 
 message_140:
-      text: \n<TAXI DRIVER>Hey, kid! You wanna go somewhere \SINV[1]cool\SINV[0]?\!<br>You should go to the \c[11]LAST RESORT\c[0]!<br>It's the hottest, trendiest place to be these days!
+      text: \n<PILOTO DE TÁXI>Ei, criança! Quer ir em algum lugar \SINV[1]lrgal\SINV[0]?\!<br>Você deveria ir ao \c[11]ÚLTIMO RESORT\c[0]!<br>É o lugar mais calor e famoso para estar esses dias!
 
 message_141:
-      text: \n<TAXI DRIVER>I can take you there if you want, kid!\! It's all the rage.
+      text: \n<PILOTO DE TÁXI>Eu posso te levar lá se quiser, guri!\! É tudo o que falam.
 
 message_142:
-      text: \n<TAXI DRIVER>Come on...\! Don't be shy!\! I don't bite...\! much.
+      text: \n<PILOTO DE TÁXI>Qual é...\! Não seja tímido!\! Eu não mordo...\! muito.
 
 message_143:
-      text: \n<TAXI DRIVER>Hey, kid! You wanna ride back to the \c[11]DEEP WELL\c[0]?\! I'll drive you as much as you want!\! It ain't a big deal to me... I get paid salary! Keh heh!
+      xt: \n<PILOTO DE TÁXI>Ei, criança! Quer voltar para o \c[11]FUNDO DO POÇO\c[0]?\! Eu vou dirigir o quanto quiser!\! Isso não é muito trabalho para mim... Eu sou pago por isso! Keh heh!
 
 message_144:
-      text: \n<TAXI DRIVER>Hmm...\! It seems like you're coming up a little short...\!<br>Well, that's fine.\! I'll just take everything you have-
+      text: \n<PILOTO DE TÁXI>Hmm...\! Parece que você está com pouca grana...\!<br>Bom, tudo bem.\! Só vou levar tudo que tem-
 
 message_145:
-      text: \n<TAXI DRIVER>Hey, wait a minute! Ya got nothin'!\!<br>Must've gotten scammed real bad, kid... I pity you.
+      text: \n<PILOTO DE TÁXI>Ei, espere um minuto! Você não tem nada!\!<br>Deve ter sido enganado muito bem, guri... Tenho pena de você.
 
 #after Ride
 
 message_150:
-      text: \n<TAXI DRIVER>A lil' bumpy, but not all that bad.\! Come back anytime, kid.
+      text: \n<PILOTO DE TÁXI>Estrada um pouco acidentada, mas nada tão ruim.\! Volte quando quiser, criança.
 
 message_151:
-      text: \n<TAXI DRIVER>Come back anytime, kid.
+      text: \n<PILOTO DE TÁXI>Volte quando quiser, crianças.
 
 #If HERO is in party
 message_152:
-      text: \n<TAXI DRIVER>Need a lift back to \c[11]LAST RESORT\c[0]?\!<br>Anything for the boss's right hand man!
+      text: \n<PILOTO DE TÁXI>Precisa de uma viagem de volta para o \c[11]LAST RESORT\c[0]?\!<br>Qualquer coisa para a mão direita do chefe!
 
 #If HERO is manager
 message_153:
-      text: \n<TAXI DRIVER>Need a lift back to \c[11]LAST RESORT\c[0]?\!<br>Anything for you, boss!
+      text: \n<PILOTO DE TÁXI>Precisa de uma viagem de volta para o \c[11]LAST RESORT\c[0]?\!<br>Qualquer coisa para você, chefe!
 
 #If HERO is in party
 message_154:
-      text: \n<TAXI DRIVER>Need a lift back to the \c[11]DEEP WELL\c[0]?\!<br>Anything for the boss's right hand man!
+      text: \n<PILOTO DE TÁXI>Precisa de uma viagem de volta para o \c[11]DEEP WELL\c[0]?\!<br>Qualquer coisa para a mão direita do chefe!
 
 #If HERO is manager
 message_155:
-      text: \n<TAXI DRIVER>Need a lift back to the \c[11]DEEP WELL\c[0]?\!<br>Anything for you, boss!
+      text: \n<PILOTO DE TÁXI>Precisa de uma viagem de volta para o \c[11]DEEP WELL\c[0]?\!<br>Qualquer coisa para você, chefe!
 
 
 # =========================================================================================
@@ -336,17 +336,17 @@ message_155:
 message_200:
     faceset: MainCharacters_DreamWorld
     faceindex: 18
-    text: \kel\Com[2]\{\{FIRST!!!\}\}
+    text: \kel\Com[2]\{\{PRIMEIRO!!!\}\}
 
 message_201:
     faceset: MainCharacters_DreamWorld
     faceindex: 48
-    text: \herHuff... Huff...\! The ladder...
+    text: \herHuff... Huff...\! A escada...
 
 message_202:
     faceset: MainCharacters_DreamWorld
     faceindex: 48
-    text: \herIt just...\! Huff... Huff...\! Never ends...
+    text: \herEla...\! Huff... Huff...\! Nunca acaba...
 
 message_203:
     faceset: MainCharacters_DreamWorld
@@ -356,82 +356,82 @@ message_203:
 message_204:
     faceset: MainCharacters_DreamWorld
     faceindex: 17
-    text: \kel\Com[2]That's one small step for KEL...\.<br>and one large step for KELKIND!!
+    text: \kel\Com[2]Esse é um pequeno passo para o KEL...\.<br>e um grande passo para a RAÇAKEL!!
 
 message_205:
     faceset: MainCharacters_DreamWorld
     faceindex: 10
-    text: \aubThat's not how it goes!
+    text: \aubEi, não é assim que se fala!
 
 message_206:
     faceset: MainCharacters_DreamWorld
     faceindex: 18
-    text: \kelYou don't get to decide how it goes...<br>You weren't here first!
+    text: \kelVocê não decide como se fala...<br>Você não chegou aqui primeiro!
 
 message_207:
     faceset: MainCharacters_DreamWorld
     faceindex: 9
-    text: \aubWait, hold on...\!<br>\Com[2]\{IS THAT MY \c[4]BUTT CERTIFICATE\c[0]??\}\!
+    text: \aubEi, espere um pouco...\!<br>\Com[2]\{AQUILO É MEU \c[4]CERTIFICADO DE CABEÇUDA\c[0]??\}\!
 
 message_208:
     faceset: MainCharacters_DreamWorld
     faceindex: 10
-    text: \aub\{TAKE THAT THING DOWN RIGHT NOW!\}
+    text: \aub\{TIRE AQUILO DE LÁ JÁ!\}
 
 message_209:
     faceset: MainCharacters_DreamWorld
     faceindex: 11
-    text: \aubWhat if somebody sees it?
+    text: \aubE se alguém ver ele?
 
 message_210:
     faceset: MainCharacters_DreamWorld
     faceindex: 19
-    text: \kelNo way!<br>Look at this thing fluttering in the wind.
+    text: \kelSem chance!<br>Olhe aquela coisa balançando no vento.
 
 message_211:
     faceset: MainCharacters_DreamWorld
     faceindex: 23
-    text: \kel\sinv[1]So majestic...\| So beautiful...
+    text: \kel\sinv[1]Tão majestoso...\| Tão linda...
 
 message_212:
     faceset: MainCharacters_DreamWorld
     faceindex: 6
-    text: \aub\Com[2]\{HERO! DO SOMETHING!\}
+    text: \aub\Com[2]\{HERO! FAÇA ALGO!\}
 
 message_213:
     faceset: MainCharacters_DreamWorld
     faceindex: 48
-    text: \her\}Huff... Huff...\!\{ One... Sec... \!\}Huff... Huff...\!\{ Just... \}Huff... Huff...\!\{ Catching my breath... \}Huff... Huff...
+    text: \her\}Huff... Huff...\!\{ Um... Segundo... \!\}Huff... Huff...\!\{ Just... \}Huff... Huff...\!\{ Preciso respirar... \}Huff... Huff...
 
 message_214:
     faceset: MainCharacters_DreamWorld
     faceindex: 48
-    text: \herActually...\!\} Huff... Huff...\{\! Give me a minute...
+    text: \herNa verdade...\!\} Huff... Huff...\{\! Me dê um minuto...
 
 message_215:
     faceset: MainCharacters_DreamWorld
     faceindex: 11
-    text: \aub... ... ...\! Nevermind.
+    text: \aub... ... ...\! Esquece.
 
 message_216:
     faceset: MainCharacters_DreamWorld
     faceindex: 40
-    text: \herMan, I know there's a reason why we've never climbed this thing, but I can't put my finger on it...
+    text: \herCara, eu sei que há um motivo para nunca termos subido essa coisa, mas eu não consigo entender...
 
 message_217:
     faceset: MainCharacters_DreamWorld
     faceindex: 39
-    text: \her It's on the tip of my tongue...
+    text: \her Está na ponta da minha língua...
 
 message_218:
     faceset: MainCharacters_DreamWorld
     faceindex: 36
-    text: \herOh, well...\! Here goes nothing!
+    text: \herAh, bem...\! Lá vai!
 
 message_219:
     faceset: MainCharacters_DreamWorld
     faceindex: 17
-    text: \kelHey OMORI, that's not the right way to BASIL's house!
+    text: \kelEi OMORI, esse não é o caminho certo para a casa do BASIL!
 
 
 # =========================================================================================
@@ -439,17 +439,17 @@ message_219:
 # =========================================================================================
 
 message_250:
-      text: Would you like to moonwalk?
+      text: Você gostaria de fazer o moonwalk?
 
 #YES/NO
 
 #back of sign
 
 message_252:
-      text: There's message written on the back.
+      text: Tem uma mensagem escrita do outro lado.
 
 message_253:
-      text: \"Please... don't make the same mistake I made...<br>\!-M\"
+      text: \"Por favor... não faça o erro que eu fiz...<br>\!-M\"
 
 # =========================================================================================
 # BATTLE: THE WORLD
