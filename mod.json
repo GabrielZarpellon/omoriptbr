@@ -5,7 +5,8 @@
   "version": "0.1.5",
   "files": {
     "plugins": [
-	  "js/"
+	  "js/",
+	  "js/plugins/"
 	],
     "text": [
 	  "scripts/"
