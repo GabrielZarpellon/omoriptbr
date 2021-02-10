@@ -6,7 +6,7 @@
 message_0:
       faceset: MainCharacters_DreamWorld
       faceindex: 36 #replace
-      text: \herOlá, SR. MANDIBARÃO! Nós viemos te dar um oi!
+      text: \herOlá, SR. MANDÍBARÃO! Nós viemos te dar um oi!
 
 message_1:
       text: \jawHERO...\! É mesmo você?
@@ -28,7 +28,7 @@ message_5:
 message_6:
       faceset: MainCharacters_DreamWorld
       faceindex: 39 #replace
-      text: \herNão diga isso, SR. MANDIBARÃO!\!<br>Você é o melhor...\! e único chefe que eu já tive!
+      text: \herNão diga isso, SR. MANDÍBARÃO!\!<br>Você é o melhor...\! e único chefe que eu já tive!
 
 message_7:
       text: \jawNão me entenda errado, eu não estou pra baixo ou algo assim.\!<br>Estou apenas aprendendo uma lição!
@@ -42,7 +42,7 @@ message_9:
 message_10:
       faceset: MainCharacters_DreamWorld
       faceindex: 46 #replace
-      text: \her\Com[2]Espere, SR. MANDIBARÃO!\! Você não pode desistir ag-
+      text: \her\Com[2]Espere, SR. MANDÍBARÃO!\! Você não pode desistir ag-
 
 message_11:
       text: \jawPegue isso, HERO...\!<br>É por tudo o que você fez por mim.
@@ -72,7 +72,7 @@ message_16:
 message_17:
       faceset: MainCharacters_DreamWorld
       faceindex: 46 #replace
-      text: \herSR. MANDIBARÃO...
+      text: \herSR. MANDÍBARÃO...
 
 message_18:
       text: \jawHeh...\! e assim, tudo está organizado.\!<br>Só tem...\! mais uma coisa para fazer agora.
@@ -81,7 +81,7 @@ message_19:
       text: \jaw\{\sinv[1]\Com[2]É HORA DAS FÉRIAS, BABY!!\sinv[0]
 
 message_20:
-      text: \jawO velho MANDIBARÃO vai aproveitar a vida!\!<br>Te vejo por aí! Não vá sentir minha falta agora!
+      text: \jawO velho MANDÍBARÃO vai aproveitar a vida!\!<br>Te vejo por aí! Não vá sentir minha falta agora!
 
 message_28:
       text: \jaw\Com[2]\Sinv[2]\{\{JAWHAW\{HAWHAW\{HAWHAW!!\Sinv[0]
