@@ -238,7 +238,7 @@ message_47:
       text: \n<NOSE>\com[2]NOSE avante! BUN avante!
 
 message_48:
-      text: \n<BUN>Ahh! Fica quieto, NOSE! Estamos nos escondendo, lembra?
+      text: \n<BUN>Ahh! Fica quieta, NOSE! Estamos nos escondendo, lembra?
 
 # *KEL examines slide.*
 
@@ -845,7 +845,7 @@ message_255:
       text: Aff...\! Eu não sei onde me esconder.\!<br>Eu não tenho criatividade alguma...\n<BANGS>
 
 message_256:
-      text: Eu me pergunto onde eu e o Nose podemos nos esconder...\n<BUN>
+      text: Eu me pergunto onde eu e a Nose podemos nos esconder...\n<BUN>
 
 message_257:
       text: Nose avante!\n<NOSE>
