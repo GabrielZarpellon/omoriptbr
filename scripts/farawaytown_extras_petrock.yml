@@ -1,0 +1,462 @@
+
+# =========================================================================================
+# Pet Rock Battles
+# =========================================================================================
+
+
+# =========================================================================================
+#KEL- PLUTO
+# =========================================================================================
+
+#before fight
+
+message_0:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelWhoa! Espera um segundo, \n[8]!\! <br>Esse é um \c[13]PET DRITO\c[0] que você acabou de comprar?
+
+message_1:
+      faceset: MainCharacters_Faraway
+      faceindex: 13
+      text: \kelWow!\! Eu não acredito...\! Isso é bem estranho já que não jogamos desde que eramos crianças...\! mas acontece que eu tenho o meu, também!
+
+#KEL takes something out of his pocket.
+
+message_2:
+      faceset: MainCharacters_Faraway
+      faceindex: 12
+      text: \kelBem aqui!
+
+message_3:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \kelQue coincidência estranha, né?
+
+message_4:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelEi, eu tenho uma ideia!\! Por que a gente não batalha com os nossos \c[13]PET DRITOS\c[0]?\! Você ainda se lembra como joga, certo?
+#yes
+
+message_5:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \kelIncrível!\! Eu sabia que você iria...
+
+message_6:
+      faceset: MainCharacters_Faraway
+      faceindex: 23
+      text: \kel\sinv[1]Awww, yeahhhhh...\!\sinv[0] Estou animado!
+
+message_7:
+      faceset: MainCharacters_Faraway
+      faceindex: 23
+      text: \kel\com[2]\sinv[1]\{\{AGORA, VAMOS QUEBRAR!!
+
+#no
+
+message_8:
+      faceset: MainCharacters_Faraway
+      faceindex: 12
+      text: \kelHaha...\! Não se preocupe.\! Mesmo se não quiser, é bem fácil de entender...\! Você aprende rapidinho!
+
+
+#after victory
+message_9:
+      faceset: MainCharacters_Faraway
+      faceindex: 13
+      text: \kelOh droga, eu perdi...\! Acho que estou meio enferrujado...\! <br>Bom, está tudo bem.
+
+message_10:
+      faceset: MainCharacters_Faraway
+      faceindex: 24
+      text: \kelVocê sempre foi bom nos videogames de qualquer forma!\! Acho que você é o mesmo velho \n[8] afinal!
+
+
+#after loss
+
+message_12:
+      faceset: MainCharacters_Faraway
+      faceindex: 13
+      text: \kelHeh, heh...\! Acho que você está meio enferrujado, né?\! <br>Bom, está tudo bem.\! Eu tenho certeza que você vai pegar o jeito.
+
+message_13:
+      faceset: MainCharacters_Faraway
+      faceindex: 12
+      text: \kelEu sei que faz tempo, então deixa eu refrescar sua mente.\! \c[13]PET DRITOS\c[0] é um jogo onde você e seus pets formam uma equipe e batalham, ou QUEBRAM!
+
+message_14:
+      faceset: MainCharacters_Faraway
+      faceindex: 12
+      text: \kelSe você vestir o seu \c[13]PET DRITO\c[0] como um AMULETO...\! você pode encontrar outros jogadores com \c[13]PET DRITOS\c[0] e desafiar eles!
+
+message_15:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelPelo o que eu ouvi...\! o atual campeão vive por aqui...\! mas ninguém sabe como ele se parece.
+
+message_16:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \kelMeio misterioso, né?\! Quem sabe?\! <br>Talvez a gente possa conhecer ele algum dia!
+
+
+# =========================================================================================
+#TOMATOGIRL
+# =========================================================================================
+
+#Intro
+
+message_20:
+      text: \n<GAROTA COLORIDA>Oh!\! Eu vejo que você tem um \c[13]PET DRITO\c[0]!\! Você quer QUEBRAR?
+
+#yes
+message_21:
+      text: \n<GAROTA COLORIDA>Ok!\! Eu estive treinando minha MENINATOMATE desde que eu era criança!\!<br>Eu não irei perder para você!
+
+#player win
+message_22:
+      text: \n<GAROTA COLORIDA>Aww... Droga...\! Está tudo bem, MENINATOMATE. Não é culpa sua...\! Você deu o seu melhor!
+
+#player loses
+message_23:
+      text: \n<GAROTA COLORIDA>Yay!\! Conseguimos!\! Eu sabia que você poderia ganhar, MENINATOMATE!
+
+message_150:
+      text: \n<GAROTA COLORIDA>Sem problema! É só falar se quiser QUEBRAR a qualquer hora!
+
+
+# =========================================================================================
+      #MUNCHER KING
+# =========================================================================================
+
+#Intro
+#Reference Farawaytown_dialogue_tucker: messages 16,17,18,20,21
+
+#reward
+message_140:
+      text: \n<CARA ASSUSTADOR>Eu passo o legado deste chapéu a você a qual você olha com temor...\! Agora, suma!
+
+# =========================================================================================
+#ROSE LAD
+# =========================================================================================
+
+#Intro
+message_35:
+      text: \n<GAROTO BONITO>Ei, esse é um \c[13]PET DRITO\c[0]?\! Eu tenho um também!\!<br>Você quer QUEBRAR?
+#yes
+message_36:
+      text: \n<GAROTO BONITO>Yay, parece divertido! Vamos dar o nosso melhor!\! Vá, MOÇA DA ROSA! Eu confio em você!
+#player win
+message_37:
+      text: \n<GAROTO BONITO>MOÇA DA ROSA, você está bem?\! Vamos, vamos... Você pode descansar bem agora.
+
+message_38:
+      text: \n<GAROTO BONITO>Haha... Isso foi divertido!\! Obrigado por me desafiar.\! Eu acho que preciso treinar a MOÇA DA ROSA um pouco mais...
+#player loses
+message_39:
+      text: \n<GAROTO BONITO>Ei, que surpresa!\! Essa foi uma boa batalha, mas talvez você precise de um pouco mais de prática...\! Conseguimos, MOÇA DA ROSA!\! Você é a melhor!
+
+message_40:
+      text: \n<GAROTO BONITO>Awww... Mas QUEBRAR é tão divertido...\! Talvez na próxima!
+
+# =========================================================================================
+      #SAUCY K
+# =========================================================================================
+
+#Intro
+message_42:
+      text: \n<ANGEL>Whoa, olha só! Você tem um \c[13]PET DRITO\c[0]?\! Você tem que me desafiar para QUEBRAR!\! Ninguém pode derrotar meu MOLHO-K!<br>Ele é o melhor \c[13]PET DRITO\c[0] de todos e eu irei provar!
+#yes
+message_43:
+      text: \n<ANGEL>Você está mordendo mais do que pode engolir!\! Vamos, MOLHO-K!\! Vamos mostrar pra eles quem é o mais forte aqui!
+#no
+message_44:
+      text: \n<ANGEL>Wow... Tá bom!\! Seja um franguinho!
+#player win
+message_45:
+      text: \n<ANGEL>\com[2]\{\sinv[1]MOLHO-K!!\! NÃÃÃO\{OOO\{OOO\{OOO!!
+
+message_46:
+      text: \n<ANGEL>Sniff...\! Seu valentão!
+
+#player loses
+message_47:
+      text: \n<ANGEL>O que eu te disse!\! MOLHO-K é o melhor!\! <br>Você está a anos-luz de nos derrotar!
+
+# =========================================================================================
+      #BUNNY
+# =========================================================================================
+
+#Intro
+message_50:
+      text: \n<RAI>Whoa, você tem um \c[13]PET DRITO\c[0] também?\! Eu acabei de entrar na onda de \c[13]PET DRITOS\c[0] não faz muito tempo...
+
+message_51:
+      text: \n<RAI>O meu ainda está em seu estágio inicial, mas eu tenho certeza que ele será poderoso algum dia!\! Você quer QUEBRAR?
+
+#yes
+message_52:
+      text: \n<RAI>Legal!\! Vamos, COELHO!\! Vamos trabalhar juntos!
+#player win
+message_53:
+      text: \n<RAI>Droga...\! Seu \c[13]PET DRITO\c[0] é bem forte.\! Eu acho que eu e o COELHO um caminho até chegar no seu nível.
+#player loses
+message_54:
+      text: \n<RAI>Whoa, nós ganhamos!\! Eu realmente não esperava por essa... mas uma vitória é uma vitória! Haha!
+
+message_200:
+      text: \n<RAI>Awww...\! Mas eu e o COELHO precisamos práticar...
+
+# =========================================================================================
+      #PAPA CHIP
+# =========================================================================================
+
+#Intro
+message_55:
+      text: \n<UM GÊMEO>\sinv[1]Ah... Eu vejo que você tem um \c[13]PET DRITO\c[0], também.
+
+message_56:
+      text: \n<O OUTRO GÊMEO>\sinv[1]Você...\! talvez...\! gostaria de...\! QUEBRAR?
+#yes
+message_57:
+      text: \n<UM GÊMEO>Hmm...\! Hmm...\! Confiante, não é?\! Você não irá ganhar tão facilmente...
+
+message_58:
+      text: \n<O OUTRO GÊMEO>PAPAI FORNO!\! Deixe-nos mostrar o nosso poder!
+
+#player win
+message_59:
+      text: \n<O OUTRO GÊMEO>Derrota?
+
+message_60:
+      text: \n<UM GÊMEO>Hmm...\! Sim...\! Parece que perdemos dessa vez...
+
+message_61:
+      text: \n<O OUTRO GÊMEO>Lamentável...
+
+
+#player loses
+
+message_65:
+      text: \n<O OUTRO GÊMEO>Vitória?
+
+message_66:
+      text: \n<UM GÊMEO>Hmm...\! Sim...\! Parece que ganhamos...
+
+message_67:
+      text: \n<O OUTRO GÊMEO>Excelente.
+
+# If defeated at least 4 pet rock challengers
+#Leave hobbeez
+
+message_71:
+      text: \n<CAIXA>Ei, \n[8]!\! Eu ouvi que você esteve QUEBRANDO com \c[13]PET DRITOS\c[0] pela cidade toda!
+
+message_72:
+      text: \n<CAIXA>Se você quer um desafio de verdade, eu conheço um pessoal na \c[11]PRAÇA TÃO-DISTANTE\c[0] que são veteranos em \c[13]PET DRITOS\c[0]...\! quatro deles, para ser preciso!
+
+message_75:
+      text: \n<CAIXA>Eles normalmente não desafiam novatos... mas pra você, tenho certeza que farão uma exceção!
+
+message_73:
+      text: \n<CAIXA>Você devia tentar falar com os lojistas e clientes frequentes na área...\! Eles com certeza testarão sua força ao limite!
+
+# =========================================================================================
+      #OCOTAKO
+# =========================================================================================
+
+#Intro
+message_85:
+      text: \n<GAROTA FOFA>O-Oh!\! O-Olá, como vai...
+
+message_86:
+      text: \n<GAROTA FOFA>Hmmm... Entendo...\! Você está carregando um \c[13]PET DRITO\c[0], então isso significa que quer QUEBRAR!
+
+message_87:
+      text: \n<GAROTA FOFA>...
+
+message_88:
+      text: \n<GAROTA FOFA>Pois fique sabendo que nós veteranos somos mais difíceis que oponentes normais.\! Você ainda quer me desafiar?
+#yes
+message_89:
+      text: \n<GAROTA FOFA>O-Ok!\! Vamos lá, OCOTACO!\! Vamos mostrar o que significa ser uma veterana!
+
+#No
+message_93:
+      text: \n<GAROTA FOFA>Isso é compreensível.\! Eu estarei aqui quando você se sentir pronto.
+
+#player win
+message_90:
+      text: \n<GAROTA FOFA>N-Nós...\! perdemos?\! Wow...\! Eu estou muito chocada...
+
+message_91:
+      text: \n<GAROTA FOFA>Eu acho que o CAIXA estava certo em te enviar até nós.\! Você parece ter muito potencial.\! Tenho certeza que irá longe!
+
+#player loses
+message_92:
+      text: \n<GAROTA FOFA>Bom esforço!\! Você lutou bem, mas eu estive QUEBRANDO junto com a OCOTACO por anos!\! Só continue praticando... Você irá melhorar, eu prometo!
+
+
+# =========================================================================================
+      #LIL' G
+# =========================================================================================
+
+#Intro
+message_94:
+      text: \n<HOMEM DE ÓCULOS>Oh hey, este é um \c[13]PET DRITO\c[0] que você tem aí!
+
+message_95:
+      text: \n<HOMEM DE ÓCULOS>Se você está aqui...\! Isso só pode significar que você sabe sobre os veteranos da \c[11]PRAÇA TÃO-DISTANTE\c[0].
+
+message_96:
+      text: \n<HOMEM DE ÓCULOS>E se o CAIXA te enviou, isso significa que você deve ser muito bom...\! Heh, heh...
+
+message_97:
+      text: \n<HOMEM DE ÓCULOS>Bem, aqui estou!\! Surpreso?\! Meu título real é GINO, QUEBRADOR DE JASH!\! Você gostaria de me desafiar para QUEBRAR?
+
+#yes
+message_98:
+      text: \n<HOMEM DE ÓCULOS>Nesse caso...\! Eu, GINO, um dos quatro veteranos da \c[11]PRAÇA TÃO-DISTANTE\c[0] irá te mostrar o que significa ser um verdadeiro pro!\!<br>Vamos pegar eles, GZINHO!!
+
+#player win
+message_99:
+      text: \n<HOMEM DE ÓCULOS>\com[2]\{GZINHO!\! GZINHO!\! FALA COMIGO!!
+
+message_100:
+      text: \n<HOMEM DE ÓCULOS>...
+
+message_101:
+      text: \n<HOMEM DE ÓCULOS>Oh espera...\! Você não consegue falar, não é?
+
+message_102:
+      text: \n<HOMEM DE ÓCULOS>Bom, isso foi uma verdadeira confusão.\! Parabéns da sua parte, desafiante!\! Você e seu \c[13]PET DRITO\c[0] foram ótimos!
+
+
+message_103:
+      text: \n<HOMEM DE ÓCULOS>Talvez algum dos outros veteranos vão ser mais difíceis!
+
+
+#player loses
+message_104:
+      text: \n<HOMEM DE ÓCULOS>Sim! Nós conseguimos, GZINHO!\! Heh... Bom, não se pode ganhar todas.\! Você tentou... e é isso que importa!
+
+message_300:
+      text: \n<HOMEM DE ÓCULOS>\com[2]M-M-M-M-Mas por quê!?
+
+# =========================================================================================
+      #P'terry
+# =========================================================================================
+
+#Intro
+message_105:
+      text: \n<CARA DO REPARA-JÁ>Heh...\! Eu vejo que está mostrando seu \c[13]PET DRITO\c[0] aí!\! Eu geralmente não uso meu \c[13]PET DRITO\c[0] durante o horário de trabalho...\! mas você deve ser muito bom se o CAIXA te enviou.
+
+message_106:
+      text: \n<CARA DO REPARA-JÁ>Você está pronto para um desafio de \sinv[1]verdade\sinv[0]?
+
+#yes
+message_107:
+      text: \n<CARA DO REPARA-JÁ>Como um dos quatro veteranos da \c[11]PRAÇA TÃO-DISTANTE\c[0], Eu tenho uma reputação a manter!\! Se você está pedindo para QUEBRAR, eu não irei cair tão fácil!
+
+#player win
+message_108:
+      text: \n<CARA DO REPARA-JÁ>\com[2]Não pode ser! Isso deve ser algum engano...\! P'TERRY...\! Como podemos perder?\! \sinv[1]Ai ai...\sinv[0]\! Tanto faz...\!<br>Hora de voltar ao trabalho...
+#player loses
+message_109:
+      text: \n<CARA DO REPARA-JÁ>Boa tentativa, moleque.\! Isso foi bem divertido, mas o P'TERRY é o QUEBRADOR superior!\! Boa sorte da próxima vez!
+
+message_110:
+      text: \n<CARA DO REPARA-JÁ>Ha! Foi o que eu pensei!
+
+# =========================================================================================
+      #Cool S
+# =========================================================================================
+
+#Intro
+message_115:
+      text: \n<CAIXA>Ahh... \n[8]...\! Você voltou!\! Eu ouvi dos outros veteranos que você já derrotou eles...
+
+message_132:
+      text: \n<CAIXA>Sim, é verdade...\! eu disse...\! outros veteranos!
+
+message_116:
+      text: \n<CAIXA>É finalmente hora de eu me revelar!\!<br>Eu sou o CAIXA, o veterano mais forte da \c[11]PRAÇA TÃO-DISTANTE\c[0]!
+
+#yes
+message_117:
+      text: \n<CAIXA>É bem impressionante, \n[8]...\! Nessa pequena quantidade de tempo, você já ganhou dos melhores da nossa área...\! exceto eu...
+
+message_118:
+      text: \n<CAIXA>\n[8]...\! Eu devo testar sua força eu mesmo!\! Você terá que lutar comigo, aqui e agora!
+
+message_133:
+      text: \n<CAIXA>Heh... Eu pensei que diria isso...
+
+message_121:
+      text: \n<CAIXA>\com[2]\sinv[1]\{\{VAMOS QUEBRAR!!
+
+#player win
+message_122:
+      text: \n<CAIXA>Incrível...\! Você é realmente incrível, \n[8]...
+
+message_123:
+      text: \n<CAIXA>Talvez você seja até melhor que a...\! Não...\! <br>Deixa pra lá...\! Eu já falei demais.
+
+message_124:
+      text: \n<CAIXA>Como um prêmio por sua vitória, pegue isso.
+
+message_125:
+      text: \n<CAIXA>Mais uma coisa...\! Tem uma veterana na \c[11]PRAÇA TÃO-DISTANTE\c[0] que é mais forte do que eu...
+
+message_126:
+      text: \n<CAIXA>Alguns até dizem que ela é a melhor QUEBRADORA no mundo inteiro...\! mas...\! ela é elusiva e mantém sua identidade um segredo...
+
+message_127:
+      text: \n<CAIXA>Porém...\! Eu tenho certeza que se você encontrar ela agora ela iria sentir sua força assim como eu.
+
+message_128:
+      text: \n<CAIXA>Se você deseja buscar ela, você pode se arrepender...\! mas não vai ser eu quem vai te parar.
+
+message_129:
+      text: \n<CAIXA>Só tenha cuidado...\! Ela é realmente uma força a se temer...\! ...\! Você foi avisado.
+
+#player loses
+
+message_130:
+      text: \n<CAIXA>Essa foi realmente uma batalha esplêndida, \n[8]!\! Você e JASH lutaram com toda sua força, mas ainda sim, eu permaneço vitorioso!
+
+message_131:
+      text: \n<CAIXA>Ainda sim, eu devo te parabenizar.\! Você fez bem em chegar tão longe!\! Eu acho que é hora de você e o JASH terem um bom descanso!
+
+
+# =========================================================================================
+      #One-Winged Jash
+# =========================================================================================
+
+#Intro
+message_135:
+      text: MOÇA DO OUTROMERCADO encara seu \c[13]PET DRITO\c[0].
+
+message_136:
+      text: \n<MOÇA DO OUTROMERCADO>...
+
+message_160:
+      text: \n<MOÇA DO OUTROMERCADO>\com[2]\{\{HA! HA! HA! HA! HA! HA! HA!
+#player win
+message_137:
+      text: \n<MOÇA DO OUTROMERCADO>OK.\! VOCÊ GANHA.
+
+message_143:
+      text: \n<MOÇA DO OUTROMERCADO>PEGUE ISTO.
+#player loses
+message_138:
+      text: \n<MOÇA DO OUTROMERCADO>...
+
+message_141:
+      text: \n<MOÇA DO OUTROMERCADO>BOM TRABALHO.
+
+message_142:
+      text: Você recebeu um \c[13]BONÉ \"PEDRESTINADO\"\c[0]!
+
+#additional pet rock dialogue
