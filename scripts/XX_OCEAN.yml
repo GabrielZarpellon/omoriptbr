@@ -9,130 +9,130 @@
 message_1:
       faceset: MainCharacters_Faraway
       faceindex: 0
-      text: \aubHold on a second, guys. I'm kinda thirsty.<br>\!Hmm...\! Which one should I get?
+      text: \aubEspera um pouco, galera. Eu estou com sede.<br>\!Hmm...\! Qual que eu devo pegar?
 
 #=========================Location: Kims mom in front of house==============================
 #== Missing shears sidequest
 
 message_20:
-      text: You handed over the \c[4]\c[4]GARDEN SHEARS\c[0]\c[0] to RED-GLASSES LADY.
+      text: Você entregou a \c[4]\c[4]TESOURA DE JARDIM\c[0]\c[0] para a MULHER DE ÓCULOS VERMELHO.
 
 #=========================Location: Cris house==============================
 #== Wheres the remote sidequest
 
 message_30:
-      text: You see a \c[4]TV REMOTE\c[0] under the couch.\! You leave it alone for now.
+      text: Você vê um \c[4]CONTROLE REMOTO\c[0] em baixo do sofá.\! Você deixa ali por enquanto.
 
 message_31:
-      text: You see a \c[4]TV REMOTE\c[0] between the towels in the bathroom cabinet.\! You leave it alone for now.
+      text: Você vê um \c[4]CONTROLE REMOTO\c[0] entre as toalhas no armário do banheiro.\! Você deixa ali por enquanto.
 
 message_32:
-      text: You see a \c[4]TV REMOTE\c[0] in the pie.\! ...\! You leave it alone for now.
+      text: Você vê um \c[4]CONTROLE REMOTO\c[0] na torta.\! ...\! Você deixa ali por enquanto.
 
 message_33:
       faceset: MainCharacters_Faraway
       faceindex: 17
-      text: \kelHey, is that a \c[4]TV REMOTE\c[0] you have there, \n[8]?\!<br>It's not nice to steal things, y'know?
+      text: \kelEi, é um \c[4]CONTROLE REMOTO\c[0] que você tem aí, \n[8]?\!<br>Não é maneiro roubar as coisas, sabe?
 
 #=========================Location: Fixit==============================
 #== Pick up furniture sidequest
 
 message_40:
-      text: The STRANGE MAN gave you $50.00 to buy a \c[4]FLOOR LAMP\c[0].
+      text: O HOMEM ESTRANHO te deu $50.00 para comprar uma \c[4]LUMINÁRIA DE PISO\c[0].
 
 message_41:
       faceset: MainCharacters_Faraway
       faceindex: 17
-      text: Hold on, \n[8]! We can't just leave with all this money!\! We have to buy a \c[4]FLOOR LAMP\c[0] first!
+      text: Espera aí, \n[8]! Não podemos simplesmente sair com toda essa grana!\! Nós precisamos comprar a \c[4]LUMINÁRIA DE PISO\c[0] primeiro!
 
 message_42:
-      text: \n<FIX-IT GUY>So you kids wanna to buy a \c[4]FLOOR LAMP\c[0], huh?\! Well, the one you're looking at costs about...\! uh...\! $50.00.\! Do you want it or not?
+      text: \n<CARA DO REPARA-JÁ>Então os moleques querem comprar uma \c[4]LUMINÁRIA DE PISO\c[0], huh?\! Bom, a que vocês estão olhando custa mais ou menos...\! uh...\! $50.00.\! 'Cês' vão querer ou não?
 
 message_43:
-      text: \n<FIX-IT GUY>Cool, here's your brand-new \c[4]FLOOR LAMP\c[0].\!<br>No refunds or exchanges, alright?\! It's company policy.
+      text: \n<CARA DO REPARA-JÁ>Legal, aqui está sua \c[4]LUMINÁRIA DE PISO\c[0] novinha em folha.\!<br>Sem reembolsos ou trocas, beleza?\! É a política da empresa.
 
 #=========================Location: Orange Guy in front of OTHERMART=============================
 #== Fruitwarbrayden
 
 #If you are wearing a red headband
 message_51:
-      text: \n<ORANGE GUY>Egad!\! Is that a...\! \c[13]RED HEADBAND\c[0]...\! you are wearing?\! I refuse to serve you any \c[3]ORANGE JUICE\c[0] until you take that off!
+      text: \n<CARA DA LARANJA>MEU DEUS!\! Isso é um...\! \c[13]ARCO VERMELHO\c[0]...\! que você está vestindo?\! Eu me recuso a te vender qualquer \c[3]SUCO DE LARANJA\c[0] até que você tire isso fora!
 
 #After buying 5 Orange juices
 message_52:
-      text: \n<ORANGE GUY>Oh, right! Before you go, here's a small gift for being such a loyal customer!\! It's an \c[13]ORANGE HEADBAND\c[0], the color of oranges!\! There is nothing better!
+      text: \n<CARA DA LARANJA>Ah, verdade! Antes que você vá, aqui está um pequeno presente por ser um freguês tão leal!\! É um \c[13]ARCO LARANJA\c[0], a cor das laranjas!\! Não há nada melhor!
 
 #If HERO is wearing a red headband
 message_53:
-      text: \n<ORANGE GUY>I see one of your friends is wearing a \c[13]RED HEADBAND\c[0]...\! Although I do not normally approve, it suits him quite nicely.\! I will forgive him, but just this once!
+      text: \n<CARA DA LARANJA>Vejo que um dos seus amigos está vestindo um \c[13]ARCO VERMELHO\c[0]...\! Embora eu não aprove isso normalmente, combina muito bem com ele.\! Eu vou perdoá-lo, mas apenas essa vez!
 
 message_54:
       faceset: MainCharacters_Faraway
       faceindex: 37
-      text: \herWow! Thanks!
+      text: \herUau! Obrigado!
 
 #Receive orange headband
 message_55:
-      text: You got an \c[13]ORANGE HEADBAND\c[0]!
+      text: Você recebeu um \c[13]ARCO LARANJA\c[0]!
 
 #=========================Location: Apple Guy in the park=============================
 #== Fruitwaradrian
 
 #While wearing an Orange Headband
 message_60:
-      text: \n<APPLE GUY>Egad!\! Is that a...\! \c[13]ORANGE HEADBAND\c[0]...\! you are wearing? I refuse to serve you any \c[3]APPLE JUICE\c[0] until you take that off!
+      text: \n<CARA DA MAÇÃ>MEU DEUS!\! Isso é um...\! \c[13]ARCO LARANJA\c[0]...\! que você está vestindo? Eu me recuso a te vender qualquer \c[3]SUCO DE MAÇÃ\c[0] até que você tire isso fora!
 
 #After buying 5 Apple juices
 message_61:
-      text: \n<APPLE GUY>Oh, right! Before you go, here's a small gift for being such a loyal customer!\! It's a \c[13]RED HEADBAND\c[0], the color of apples!\! Wear it with pride!
+      text: \n<CARA DA MAÇÃ>Ah, verdade! Antes que você vá, aqui está um pequeno presente por ser um freguês tão leal!\! É um \c[13]ARCO VERMELHO\c[0], a cor das maçãs!\! Vista ele com orgulho!
 
 #If HERO is wearing an orange headband
 message_62:
-      text: \n<APPLE GUY>I see one of your friends is wearing an \c[13]ORANGE HEADBAND\c[0]...\! Although I do not normally approve, it suits him quite nicely.\! I will forgive him, but just this once!
+      text: \n<CARA DA MAÇÃ>Vejo que um dos seus amigos está vestindo um \c[13]ARCO LARANJA\c[0]...\! Embora eu não aprove isso normalmente, combina muito bem com ele.\! Eu vou perdoá-lo, mas apenas essa vez!
 
 message_63:
       faceset: MainCharacters_Faraway
       faceindex: 37
-      text: \herWow! Thanks!
+      text: \herUau! Obrigado!
 
 #Receive Red Headband
 message_64:
-      text: You got a \c[13]RED HEADBAND\c[0]!
+      text: Você recebeu um \c[13]ARCO VERMELHO\c[0]!
 
 #=========================Location:Vances house =============================
 #== Fix pipe
 
 #Day 1 reward
 message_70:
-      text: \n<GRUFF GUY>Here's $1.00, kids.\! Go get yourselves some \c[3]CANDY\c[0] or something.
+      text: \n<CARA RUDE>Aqui está $1.00, gurizada.\! Vão lá comprar um \c[3]DOCE\c[0] ou alguma coisa.
 
 #Day 2 reward
 message_71:
-      text: You look into the man-shaped hole...\! and find a \c[4]SEASHELL\c[0]!
+      text: Você olha no buraco em formato de homem...\! e encontra uma \c[4]CONCHA DO MAR\c[0]!
 
 #If pipe is completely fixed
 message_72:
-      text: \n<GRUFF GUY>Thanks for supporting me through the tough times.\! If only there was a way I could repay you...\!<br><br>Oh, I know! Here's a \c[4]CD\c[0] I found the other day!<br>\! That should do the trick!
+      text: \n<CARA RUDE>Obrigado por me apoiar nesses tempos difíceis.\! Se ao menos tivesse uma forma de recompensar vocês...\!<br><br>Oh, já sei! Aqui está um \c[4]CD\c[0] que eu encontrei outro dia!<br>\! Isto deve servir!
 
 message_73:
-      text: \n<GRUFF GUY>\sinv[1]Grumble, grumble...
+      text: \n<CARA RUDE>\sinv[1]Resmungo, resmungo...
 
 message_74:
-      text: You look into the man-shaped hole...
+      text: Você olha no buraco em formato de homem...
 
 #=========================Location: Jesses house=============================
 #== Birthday gift 2
 
 #Talk to Jesses dad before you talk to Jesse
 message_80:
-      text: \n<WRINKLY FOREHEAD>It's my son's birthday today!\! ...\! If only I could get him out of his room to celebrate!
+      text: \n<TESTA ENRUGADA>É o aniversário do meu filho hoje!\! ...\! Se ao menos eu pudesse tirar ele do quarto pra celebrar!
 
 message_81:
-      text: \n<WRINKLY FOREHEAD>Sigh...\! I even bought \c[3]CAKE\c[0]...
+      text: \n<TESTA ENRUGADA>Afe...\! Eu até comprei um \c[3]BOLO\c[0]...
 
 #Talk to Jesses dad after you talk to Jesse
 message_82:
-      text: You got a \c[3]CAKE\c[0]!
+      text: Você pegou um \c[3]BOLO\c[0]!
 
 #=========================Location: Candy store=============================
 #== Anniversary chocolate
