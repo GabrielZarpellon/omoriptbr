@@ -1365,12 +1365,12 @@ message_624:
       text: You shouldn't leave while you have a job to do.
 
 message_625:
-      text: You gave \c[4]HERO'S GIFT\c[0] to HERO.
+      text: Você deu o \c[4]HERO'S GIFT\c[0] para o HERO.
 
 message_626:
       faceset: MainCharacters_DreamWorld
       faceindex: 40
-      text: \herWe should go see MARI...\! She's been so worried about you.
+      text: \herNós devíamos ir ver a MARI...\! Ela estava muito preocupada com você.
 
 message_627:
       faceset: MainCharacters_DreamWorld
