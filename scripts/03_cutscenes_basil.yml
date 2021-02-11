@@ -44,7 +44,7 @@ message_4:
 message_5:
       faceset: MainCharacters_DreamWorld
       faceindex: 3
-      text: \SINV[1]A gente parece tão fofo!\SINV[0]\aub
+      text: \SINV[1]Nós estamos tão fofos!\SINV[0]\aub
 
 #HERO walks up to the side of BASIL.
 
@@ -74,7 +74,7 @@ message_8:
 message_9:
       faceset: MainCharacter_Basil
       faceindex: 1
-      text: É meio ruim que saiu meio borrada, mas mesmo assim vocês parecem tão fofos nela.\! Eu deveria adicionar à minha coleção!\bas
+      text: É uma pena que saiu meio borrada, mas mesmo assim vocês parecem tão fofos nela.\! Eu deveria adicionar à minha coleção!\bas
 
 #BASIL takes out his PHOTO ALBUM.
 
@@ -121,7 +121,7 @@ message_37:
 message_38:
       faceset: MainCharacter_Basil
       faceindex: 3
-      text: E-esperem um pouco! Não tem porquê brigar!\bas
+      text: E-Esperem um pouco! Não tem porquê brigar!\bas
 
 message_39:
       faceset: MainCharacters_DreamWorld
@@ -141,7 +141,7 @@ message_40:
 message_41:
       faceset: MainCharacter_Basil
       faceindex: 3
-      text: Ahh, parem\! Vocês vão me derrubar!\bas
+      text: Ahh, parem!\! Vocês vão me derrubar!\bas
 
 #BASIL falls over and spills the Photos all over the floor.
 
@@ -190,14 +190,14 @@ message_47:
 message_48:
       faceset: MainCharacter_Basil
       faceindex: 1
-      text: T-tá tudo bem, não se preocupem com isso.\! Acidentes acontecem...\bas
+      text: T-Tá tudo bem, não se preocupem com isso.\! Acidentes acontecem...\bas
 
 #HERO helps BASIL pick up his photos.
 
 message_49:
       faceset: MainCharacters_DreamWorld
       faceindex: 36
-      text: Aqui tão as fotos.\!<br>Parece que nenhuma delas foram danificadas.<br>\!Vamos colocá-las de volta no \c[4]ÁLBUM DE FOTOS\c[0] juntos.\her
+      text: Aqui estão as fotos.\!<br>Parece que nenhuma foi danificada.<br>\!Vamos colocá-las de volta no \c[4]ÁLBUM DE FOTOS\c[0] juntos.\her
 
 message_50:
       faceset: MainCharacter_Basil
@@ -232,7 +232,7 @@ message_71:
 message_72:
       faceset: MainCharacters_DreamWorld
       faceindex: 26
-      text: Sim, Eu prometo nunca brigar com a AUBREY de novo!\.<br>\}A não ser que ela comece primeiro...\kel
+      text: Sim, Eu prometo nunca mais brigar com a AUBREY!\.<br>\}A não ser que ela comece primeiro...\kel
 
 message_73:
       faceset: MainCharacter_Basil
@@ -273,7 +273,7 @@ message_79:
 message_80:
       faceset: MainCharacter_Basil
       faceindex: 7
-      text: \fn<OMORI_GAME>A MARI...\! Ela tá...\bas\^
+      text: \fn<OMORI_GAME>A MARI...\! Ela está...\bas\^
 
 message_81:
       faceset: MainCharacter_Basil
@@ -318,7 +318,7 @@ message_90:
 message_91:
     faceset: MainCharacters_DreamWorld
     faceindex: 17
-    text: \kelEu aposto que ela vai até la o \{espaço!\}
+    text: \kelEu aposto que ela vai até lá no \{espaço!\}
 
 message_92:
     faceset: MainCharacters_DreamWorld
@@ -338,12 +338,12 @@ message_94:
 message_95:
     faceset: MainCharacters_DreamWorld
     faceindex: 18
-    text: \kel\{E CHAMA-LO DE \c[13]HECTOR\c[0]!
+    text: \kel\{E CHAMÁ-LO DE \c[13]HECTOR\c[0]!
 
 message_96:
     faceset: MainCharacters_DreamWorld
     faceindex: 8
-    text: \aubUau, já tá sofrendo com a perda dele?
+    text: \aubUau, já está sofrendo com a perda dele?
 
 message_97:
     faceset: MainCharacters_DreamWorld
@@ -358,7 +358,7 @@ message_98:
 message_99:
     faceset: MainCharacters_DreamWorld
     faceindex: 47
-    text: \herP-pois é...\! Talvez mais tarde, KEL.
+    text: \herP-Pois é...\! Talvez mais tarde, KEL.
 
 message_100:
     faceset: MainCharacters_DreamWorld
