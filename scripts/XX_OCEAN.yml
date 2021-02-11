@@ -761,16 +761,16 @@ message_394:
 # Moms to do list and voice mail
 
 message_395:
-      text: MOM'S TO-DO LIST.\!<br>You don't feel like doing your chores right now.
+      text: LISTA DE TAREFAS DA MÃE.\!<br>Você não sente vontade de fazer elas agora.
 
 message_396:
-      text: You have a new message.
+      text: Você tem uma nova mensagem.
 
 message_397:
-      text: There used to be something here.
+      text: Costumava existir algo aqui.
 
 message_398:
-      text: You have no new messages.
+      text: Você não possui novas mensagens.
 
 # Kels house dinner time
 
