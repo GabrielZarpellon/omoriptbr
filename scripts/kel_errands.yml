@@ -1,0 +1,99 @@
+#==================================================================
+
+#KEL ERRANDS
+
+#==================================================================
+#PIZZA
+#==================================================================
+
+message_0:
+      text: \n<CARA DA PIZZA>Olá e bem vindo a \c[11]PIZZARIA DO GINO\c[0]!\!<br>O que eu posso fazer por vocês?
+
+message_1:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \kelOi! Estamos aqui para pegar um pedido!
+
+message_2:
+      text: \n<CARA DA PIZZA>Entendo!\! O que você gostaria?\!<br>Oh... Eu sei...\! Você gostria de...\! pizza?\! Nom nom...
+
+message_3:
+      faceset: MainCharacters_Faraway
+      faceindex: 12
+      text: \kelEu acho que minha mãe ligou e pediu um \c[3]SANDUÍCHE DO HERO\c[0] essa manhã!\! Estou só aqui para buscar.
+
+message_4:
+      text: \n<CARA DA PIZZA>Oh...\! Entendi...\! Você é da família que fica pedindo sanduíches...\! ao invés de pizza...
+
+message_5:
+      faceset: MainCharacters_Faraway
+      faceindex: 16
+      text: \kelMas...\! está...\! no menu, não está?
+
+message_6:
+      text: \n<CARA DA PIZZA>Hmm...\! é...\! você está certo...\! Eu acho...
+
+message_7:
+      text: \n<CARA DA PIZZA>Ok! Eu vou ir buscar!
+
+#KEL turns to PLAYER.
+
+message_8:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelSabe...\! Eu não sei se eu já te contei isso, mas é por isso que o apelido do meu irmão é HERO...
+
+message_9:
+      faceset: MainCharacters_Faraway
+      faceindex: 15
+      text: \kelVocê pensaria que é por alguma razão legal tipo que ele salvou um cachorrinho quando era criança ou algo assim...\! mas não...\!<br>Ele só gosta bastante de sanduíches!
+
+message_10:
+      text: \n<CARA DA PIZZA>Ok, aqui está seu \c[3]SANDUÍCHE DO HERO\c[0].\! Por favor aproveite!
+
+#KEL turns to CARA DA PIZZA.
+
+message_11:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \kelLegal, valeu!
+
+#KEL turns to PLAYER.
+
+message_12:
+      faceset: MainCharacters_Faraway
+      faceindex: 24
+      text: \kelTudo bem, estamos prontos pra ir agora, \n[8]!\!<br>Estou pronto quando você estiver!
+
+#==================================================================
+#BAKERY
+#==================================================================
+
+message_20:
+      text: \n<SR. PADEIRO>Bem vindo a padaria da nossa família! O que você gostaria de comprar?
+
+message_21:
+      faceset: MainCharacters_Faraway
+      faceindex: 12
+      text: \kelOi! Estou aqui pra pegar um pedido!
+
+message_22:
+      text: \n<SR. PADEIRO>Hmm...\! Ah, sim!\! Sua mãe disse que você viria... porém eu esperava você chegar um pouco mais cedo.\! Eu vou buscar seu pedido!
+
+#SR. PADEIRO walks into door and then walks back out.
+
+message_23:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelVocê sabia? Essa padaria pertence a família do MIKHAEL.\!<br>Eu acho que não da pra dizer muito bem, por que ele tá sempre usando aquela peruca amarela rídicula...
+
+message_24:
+      faceset: MainCharacters_Faraway
+      faceindex: 16
+      text: \kelParece que ele está fazendo um grande esforço pra se destacar e ser diferente!
+
+message_25:
+      text: \n<SR. PADEIRO>Aqui está o seu pedido, senhor!\! Esperamos te ver novamente em breve!\!<br>Por favor aproveite seus bens assados.
+
+#message 11
+#message 12
