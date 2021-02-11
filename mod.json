@@ -22,7 +22,8 @@
 	  "img/enemies/",
 	  "img/sv_actors/",
 	  "img/battlebacks1/",
-	  "img/animations/"
+	  "img/animations/",
+	  "img/pictures/Sequence/"
 	],
     "exec": []
   }
