@@ -24,17 +24,17 @@ message_5:
       text: \"Eu sei que você não tem falado com ninguém, mas você talvez queira dar tchau para seus velhos amigos.\"\n<VOICEMAIL DA MÃE>
 
 message_6:
-      text: \"KEL tem tentado muito falar contigo depois que botamos a casa à venda.\! Ele tem nos ligado todas semanas pelos útlimos meses!\"\n<VOICEMAIL DA MÃE>
+      text: \"KEL tem tentado muito falar contigo depois que botamos a casa à venda.\! Ele tem nos ligado toda semana pelos útlimos meses!\"\n<VOICEMAIL DA MÃE>
 
 message_7:
-      text: \"Ele parece um pouco sozinho...\! Talvez você devesse visitar ele.\!<br>Ok, isso é tudo\! Tchau, filhinho!\! MAMÃE te ama!\"\! \quake[1]\}Bzzt...\quake[0]\n<VOICEMAIL DA MÃE>
+      text: \"Ele parece um pouco sozinho...\! Talvez você devesse visitar ele.\!<br>Ok, isso é tudo.\! Tchau, filhinho!\! MAMÃE te ama!\"\! \quake[1]\}Bzzt...\quake[0]\n<VOICEMAIL DA MÃE>
 
 #SFX: Stomach Gurgle
 message_8:
       text: Você está com fome.
 
 message_9:
-      text: Você derrepente se sente ATERRORIZADO.
+      text: Você de repente se sente ATERRORIZADO.
 
 #Examine Fridge
 
@@ -44,7 +44,7 @@ message_10:
 #[Yes/No]
 #[Yes]
 message_11:
-      text: Você pegou o \c[4]BIFE FRIO\c[0].\!<br>Você provavelmente deve esquentá-lo antes de comer.
+      text: Você pegou o \c[4]BIFE FRIO\c[0].\!<br>Você provavelmente deveria esquentá-lo antes de comer.
 #[No]
 #[Exit dialogue]
 
@@ -129,7 +129,7 @@ message_57:
       text: \"Você foi visitar o KEL?\! Se não, tá tudo bem... Eu entendo.\! Faça as coisas como você achar melhor...\"\n<VOICEMAIL DA MÃE>
 
 message_58:
-      text: \"A propósito, pode checar o armário no andar de baixo se há algo que você quer levar?\! A gente só vai provavelmente jogar fora o que você não quer mais.\"\n<VOICEMAIL DA MÃE>
+      text: \"A propósito, pode checar o armário no andar de baixo se há algo que você quer levar?\! Provavelmente a gente só vai jogar fora o que você não quiser mais.\"\n<VOICEMAIL DA MÃE>
 
 message_59:
       text: \"Só falta dois dias para eu ir te buscar.\!<br>Ok, isso é tudo por agora!\!  Tchau, filhinho!\! MAMÃE te ama!\"\!\quake[1] \}Bzzt...\quake[0]\n<VOICEMAIL DA MÃE>
