@@ -25,7 +25,9 @@
 	  "img/animations/",
 	  "img/pictures/Sequence/"
 	],
-    "exec": []
+    "exec": [],
+	"data_pluto": [
+		"data_pluto/Quests.yaml"]
   }
 }
 
