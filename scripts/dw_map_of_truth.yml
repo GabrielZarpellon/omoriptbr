@@ -1,0 +1,172 @@
+# =========================================================================================
+# ** TEMPLATE DIALOGUE
+# =========================================================================================
+
+message_0:
+    text: \whoVocê veio novamente para buscar a verdade.
+
+message_27:
+    text: \whoCada vez, suas aventuras podem ser desiguais.\! Mas conforme sua jornada se aproxima do fim...\! ela sempre vai te levar de volta para aqui.
+
+message_1:
+    text: \whoA verdade.\! A verdade sempre é a mesma.
+
+message_2:
+    text: \whoO caminho para a verdade já esteve aqui, mas foi removido.
+
+message_3:
+    text: \whoFoi transferido para um farol em um píer.
+
+message_4:
+    text: \whoDepois, para uma biblioteca banida no subsolo.\! E depois disso, para um velho celeiro em um planeta distante.
+
+message_5:
+    text: \whoE...\! dessa vez...\! será no coração de uma vasta floresta.
+
+message_6:
+    text: \whoNão importa quantas vezes o caminho é oculto, o menino das flores sempre o encontrará.\! E sua querida irmã MARI...\! ela sempre vai te guiar para ele.
+
+message_7:
+    text: \whoMesmo como cascas ocas, elas continuarão a evoluir.\! E cada vez, eles vão criar asas...\! e voar muito perto do sol.
+
+message_8:
+    text: \whoÉ a natureza delas.\! Elas são as únicas que sabem...\! e uma delas à levou consigo para seu túmulo.
+
+message_9:
+    text: \whoA morte pode não ser um perigo aqui, mas as memórias deles não desaparecem tão fácil.\! Muitas vezes, seus amigos tiveram um destino infeliz.
+
+message_10:
+    text: \whoEmbora eles sejam revividos todas as vezes, o mais assustador continua nesse mundo...\! mesmo que apenas seus ossos permaneçam.
+
+message_11:
+    text: \whoOs perdidos afundam aqui...\! para o fundo do \c[11]POÇO SEM FUNDO\c[0]...\! e se tornam nada.
+
+message_12:
+    text: \whoVocê os abandonou, mas eles ainda anseiam por seu cuidado\! Suas almas não sabem de nada além de gritarem por ajuda.\! Você sente pena deles?
+
+message_13:
+    text: \whoA sua querida irmã com um joelho ruim...\! Você não suportaria que ela morresse de novo, então ela recebeu a segurança de uma toalha de piquenique.
+
+message_14:
+    text: \whoNo entanto, é da natureza dela sair e proteger.\! E quando ela fizer isso, ela o deixará novamente e renascerá...\! com a alma imortal com a qual você a amaldiçoou.
+
+message_15:
+    text: \whoAs almas atribuídas aos seus amigos...\! Elas são frágeis e devem ser protegidas.\! E então elas devem permanecer dormindo.
+
+message_16:
+    text: \whoPorém...\! O caminho para a verdade está mais perto do que nunca do seu quarto mais precioso.\! Você será capaz de enterrá-la desta vez?
+
+#TRUE
+message_17:
+    text: \whoTalvez seja tarde demais para você.
+
+#NEUTRAL
+message_18:
+    text: \whoTalvez ainda haja esperança para você.
+
+message_19:
+    text: \whoVocê sabe das CHAVES para o outro reino.\! Eles são diferentes a cada vez...\! mas elas vão destrancar a mesma porta.
+
+message_20:
+    text: \whoO final desta jornada levará ao sofrimento...\! mas se você não enfrentar isso, não poderá continuar.
+
+message_21:
+    text: \whoEsta forma, embora não tenha mostrado seu verdadeiro eu, é má.\!<br>Você não enxergará isso a menos que lute contra ela.
+
+message_22:
+    text: \whoQuando suas intenções se tornarem nebulosas, elas irão transparecer neste mundo como uma névoa densa.\! Você saberá quando isso acontecer.\! Já aconteceu antes.
+
+message_23:
+    text: \whoNessa hora...\! volte para onde a verdade renasceu...\! para o coração da floresta.
+
+message_24:
+    text: \whoE como todas as vezes anteriores...\! tente reescrever seu destino.
+
+message_25:
+    text: \whoVocê estará condenado a repetir esse ciclo indefinidamente?\!<br>Ou você vai quebrá-lo?
+
+message_26:
+    text: \whoExplore este mundo enquanto pode, SONHADOR.\! Até que não haja mais nada.
+
+
+#----
+
+#BLACK Space
+
+message_30:
+    text: \n<ESTRANHO>Você está aqui novamente, SONHADOR.\! A que devemos a ocasião?\! Você está ficando sem tempo?
+
+message_31:
+    text: \n<ESTRANHO>A verdade é difícil para você.\! No passado, ela fez com que você se desviasse para sua forma destrutiva.<br><br>Sua forma atual subjuga isso...\! e embora também seja má...\! ainda pode ser a melhor das duas.
+
+message_32:
+    text: \n<ESTRANHO>Este lugar mudou muito desde a última vez em que você esteve aqui.\! Você será capaz de encontrar o caminho de volta ou finalmente se perderá?
+
+message_33:
+    text: \n<ESTRANHO>Sem nossas CHAVES próprias, somos forçados a vagar indefinidamente por aqui.\! Essas portas não se abrirão para nós.\! Não somos tão afortunados quanto você.
+
+message_34:
+    text: \n<ESTRANHO>Algo foi tirado daqui há muito tempo...\! Onde você escondeu?\! Só você sabe onde está agora.
+
+message_35:
+    text: \n<ESTRANHO>Por que você precisa assumir essa forma amaldiçoada?\! É realmente forte e pode proteger você...\! mas se você depender disso muitas vezes...\! o que você sacrificar nunca poderá ser recuperado.
+
+message_36:
+    text: \n<ESTRANHO>O menino das flores se perdeu?\! Está aqui para salvá-lo novamente?\! Que sorte para ele...
+
+message_37:
+    text: \n<ESTRANHO>A redenção está escondida entre uma dessas portas...\! mas nunca será aberta para você dessa forma.\! Você terá que encontrar uma outra maneira de entrar.
+
+message_38:
+    text: \n<ESTRANHO>Atrás dessas portas têm quartos feitos de fragmentos espalhados, sempre mudando.<br><br>Se você se perder, não se preocupe.\! As mãos vermelhas irão guiá-lo...\! e...\! a forma que você tomou...\! ela não pode morrer aqui.
+
+message_39:
+    text: \n<ESTRANHO>Você se escondeu novamente.\! Esperanças, sonhos, aspirações...\! eles não significam nada para você?
+
+message_40:
+    text: \n<ESTRANHO>Você pode não estar no controle agora...\! mas não perca a esperança, SONHADOR.\! Existem alguns que ainda acreditam em você.
+
+message_41:
+    text: \n<ESTRANHO>Com grande poder vem um grande fardo...\! para você mesmo...\! e para as pessoas mais próximas de você.\! Quem você está protegendo?\! E... vale a pena?
+
+message_42:
+    text: \n<ESTRANHO>Eu desejo profundamente que a alma do seu amigo nasça incorrupta.\! Sabemos muito bem qual será o destino dele se isso não acontecer.
+
+message_43:
+    text: \n<ESTRANHO>Por favor, tenha misericórdia, SONHADOR.\! As almas nascidas aqui podem nunca se materializar, mas seus gritos ainda ecoam pelo solo.
+
+message_44:
+    text: \n<ESTRANHO>O menino das flores que está mais próximo da verdade...\! cujos olhos brilham em um vermelho assustador.\! Eu vi o que você fez com ele antes...\! e rezo para que você não o encontre novamente.
+
+message_45:
+    text: \who
+
+message_46:
+    text: \who
+
+message_47:
+    text: \who
+
+message_48:
+    text: \who
+
+message_49:
+    text: \who
+
+message_50:
+    text: \who
+
+message_51:
+    text: Você não pode abrir esta porta.
+
+message_52:
+    text: A porta está trancada.
+
+message_53:
+    text: Você pegou a CHAVE.
+
+message_54:
+    text: Destrancar essa porta?
+
+message_55:
+    text: Você não possui a CHAVE correta para destrancar isso.
