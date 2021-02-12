@@ -1635,23 +1635,23 @@ message_319:
 # ============Fears extra
 message_320:
    text: >
-    SOMETHING drags you down...
+    ALGO te arrasta para baixo...
 
 message_321:
    text: >
-    You feel a chill run down your spine...
+    Você sente um calafrio na sua espinha...
 
 message_322:
    text: >
-    You push through the darkness and swim higher...
+    Você persiste pela escuridão e nada mais alto...
 
 message_340:
    text: >
-    \>???: \<\n[8]...\! Sometimes it's okay to be afraid.
+    \>???: \<\n[8]...\! Está tudo bem ter medo as vezes.
 
 message_341:
    text: >
-    \>???: \<I'm right here with you.\!<br>Take a deep breath and open your eyes.
+    \>???: \<Eu estou bem aqui com você.\!<br>Respire fundo e abra os olhos.
 
 
 message_344:
@@ -2353,7 +2353,7 @@ message_810:
 
 message_801:
    text: >
-    \>KEL: \<Amigos...\! Amigos tem que estar lá um pro outro.
+    \>KEL: \<Amigos...\! Amigos têm que estar lá um pro outro.
 
 message_802:
    text: >
@@ -2412,7 +2412,7 @@ message_908:
 
 message_909:
     text: >
-      \fn<OMORI_GAME>Pessoas que nem você não merecem viver.
+      \fn<OMORI_GAME>Pessoas como você não merecem viver.
 
 message_910:
     text: >
