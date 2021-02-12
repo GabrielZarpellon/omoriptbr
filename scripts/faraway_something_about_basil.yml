@@ -1,0 +1,260 @@
+# =========================================================================================
+# Farawaytown: Something about Basil
+# =========================================================================================
+
+
+#=========================Something about Basil==============================
+
+#AUBREY walks back after sticking a pinwheel on the stump.
+
+message_1:
+      faceset: MainCharacters_Faraway
+      faceindex: 2
+      text: \aubSabe...\! depois que todos se separaram...\! eu me senti tão sozinho.
+
+message_2:
+      faceset: MainCharacters_Faraway
+      faceindex: 27
+      text: \aubMas agora, eu percebi que era que estava me afastando de todos.
+
+message_3:
+      faceset: MainCharacters_Faraway
+      faceindex: 0
+      text: \aubPoucos meses após a morte da MARI...<br>tudo mudou tão rápido.<br><br>\n[8] O BASIL ficou mais fechado...\! o KEL fez vários amigos praticando esportes...\! e o HERO estava sempre ocupado estudando.
+
+message_4:
+      faceset: MainCharacters_Faraway
+      faceindex: 7
+      text: \aubEu fiquei com tanta raiva de como a vida só continuou.
+
+message_5:
+      faceset: MainCharacters_Faraway
+      faceindex: 4
+      text: \aubEu senti como se todos tivessem me abandonado...<br>e abandonado a MARI também...
+
+message_6:
+      faceset: MainCharacters_Faraway
+      faceindex: 2
+      text: \aubMas eu não enxergava como cada um 'tava lidando com a dor da sua própria maneira.
+
+message_7:
+      faceset: MainCharacters_Faraway
+      faceindex: 0
+      text: \aubUm pouco depois, \n[8] parou de ir pra escola...\! Eu vi o BASIL almoçando sozinho na escola...\! então eu perguntei pra ele se poderíamos estudar na casa dele...
+
+message_8:
+      faceset: MainCharacters_Faraway
+      faceindex: 27
+      text: \aubEle parecia um pouco desconfortável no começo...\! mas depois que eu implorei, ele concordou.
+
+message_30:
+      faceset: MainCharacters_Faraway
+      faceindex: 0
+      text: \aubA caminhada pra lá foi bem silenciosa...\!<br>o BASIL nem olhava pra mim.
+
+message_9:
+      faceset: MainCharacters_Faraway
+      faceindex: 0
+      text: \aubE quando a gente chegou no quarto dele, eu tentei conversar...\!<br>mas ele disse que precisava ir pro banheiro e saiu correndo.
+
+message_50:
+      faceset: MainCharacters_Faraway
+      faceindex: 27
+      text: \aubFoi quando eu ví o \c[4]ÁLBUM DE FOTOS\c[0] na estante dele.\! Eu queria dar uma olhada nas fotos, porque...\! bem...\! eu queria ver todo mundo feliz de novo.
+
+message_10:
+      faceset: MainCharacters_Faraway
+      faceindex: 2
+      text: \aubMas...\! quando eu abri...
+
+message_11:
+      faceset: MainCharacters_Faraway
+      faceindex: 4
+      text: \aubO BASIL tinha rabiscado todas as fotos com um marcador!
+
+message_12:
+      faceset: MainCharacters_Faraway
+      faceindex: 6
+      text: \aubEu não consegui acreditar...\! Ele tinha até rabiscado o rosto da MARI...
+
+message_13:
+      faceset: MainCharacters_Faraway
+      faceindex: 7
+      text: \aubTodas as nossas memórias juntas...\!<br>Eu senti como se ele tivesse destruído tudo!
+
+message_14:
+      faceset: MainCharacters_Faraway
+      faceindex: 7
+      text: \aubEu estava tão confusa...\! e com raiva...\!<br>pensei que ele fosse maluco.
+
+message_15:
+      faceset: MainCharacters_Faraway
+      faceindex: 2
+      text: \aubEntão...\! ao invés de tentar entender ele...\! eu roubei o \c[4]ÁLBUM DE FOTOS\c[0] dele e comecei a chamá-lo de "esquisito" e coisas desse tipo.
+
+message_16:
+      faceset: MainCharacters_Faraway
+      faceindex: 0
+      text: \aubE eventualmente...\! Eu não era a única falando essas coisas pra ele.
+
+message_17:
+      faceset: MainCharacters_Faraway
+      faceindex: 27
+      text: \aub...
+
+message_18:
+      faceset: MainCharacters_Faraway
+      faceindex: 7
+      text: \aubEu me sinto um lixo por isso agora.
+
+message_19:
+      faceset: MainCharacters_Faraway
+      faceindex: 0
+      text: \aubMas, quer saber...
+
+message_20:
+      faceset: MainCharacters_Faraway
+      faceindex: 2
+      text: \aubDesde então, tudo que eu tenho feito foi tentar me desligar de todo mundo.
+
+message_21:
+      faceset: MainCharacters_Faraway
+      faceindex: 8
+      text: \aubEngraçado.\! O que eu tenho feito foi pior do que o que BASIL fez, mas era eu quem estava com raiva dele...
+
+message_22:
+      faceset: MainCharacters_Faraway
+      faceindex: 9
+      text: \aubSniff...\! Eu sou tão idiota.
+
+#Aubrey starts crying
+#(HERO and KEL walk up to comfort AUBREY.)
+
+message_23:
+      faceset: MainCharacters_Faraway
+      faceindex: 32
+      text: \herEi...\! Tá tudo bem, AUBREY.\! Nós todos erramos.
+
+message_24:
+      faceset: MainCharacters_Faraway
+      faceindex: 19
+      text: \kelNaquela época, eu não entendia muito bem o que estava acontecendo...\! Eu fiquei com medo de piorar tudo...\! então eu decidi só sair de tudo.
+
+message_25:
+      faceset: MainCharacters_Faraway
+      faceindex: 20
+      text: \kelEu sinto muito, AUBREY...\! e me desculpa também, \n[8].\!<br>Eu fui um amigo bem bosta.
+
+message_26:
+      faceset: MainCharacters_Faraway
+      faceindex: 32
+      text: \herVocê ainda era muito novo, KEL, mas eu sou o mais velho...\!<br>então eu deveria saber como cuidar de todo mundo.
+
+message_27:
+      faceset: MainCharacters_Faraway
+      faceindex: 40
+      text: \herEu...\! Eu só...
+
+message_28:
+      faceset: MainCharacters_Faraway
+      faceindex: 27
+      text: \aubAh...\! Não, tá tudo bem.
+
+message_29:
+      faceset: MainCharacters_Faraway
+      faceindex: 8
+      text: \aubTodo mundo tá aqui agora...\! então tá tudo bem.
+
+#AUBREY shakes
+
+message_31:
+      faceset: MainCharacters_Faraway
+      faceindex: 9
+      text: \aubSniff...\! Eu não...
+
+message_32:
+      faceset: MainCharacters_Faraway
+      faceindex: 9
+      text: \aubEu não mereço amigos como vocês.
+
+message_33:
+      faceset: MainCharacters_Faraway
+      faceindex: 29
+      text: \herNão seja boba, AUBREY.\! É claro que merece.
+
+message_34:
+      faceset: MainCharacters_Faraway
+      faceindex: 38
+      text: \herDurante todo esse tempo, ficou bem óbvio que você se importava com a gente...
+
+message_35:
+      faceset: MainCharacters_Faraway
+      faceindex: 28
+      text: \herTipo...\! só olha pras fotos do \c[4]ÁLBUM DE FOTOS\c[0].\!<br>Não tem nenhuma marca dos rabiscos de que você tava falando!\! Eu consigo ver todos os nossos rostos!
+
+message_36:
+      faceset: MainCharacters_Faraway
+      faceindex: 29
+      text: \herEu não acho que as fotos se limparam sozinhas, né?
+
+message_37:
+      faceset: MainCharacters_Faraway
+      faceindex: 27
+      text: \aub...
+
+message_38:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \kelEstá tudo bem, AUBREY...\!<br>Eu prometo que de agora em diante, eu sempre estarei presente pra você!
+
+message_39:
+      faceset: MainCharacters_Faraway
+      faceindex: 30
+      text: \herÉ... Eu também prometo...\! Devemos estar todos aqui uns para os outros!
+
+message_40:
+      faceset: MainCharacters_Faraway
+      faceindex: 28
+      text: \her...
+
+message_41:
+      faceset: MainCharacters_Faraway
+      faceindex: 29
+      text: \herEi, quer saber?\!<br>Eu acho que esse é o momento perfeito pra um grande abraço em grupo!
+
+message_42:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \kel\sinv[1]\{\{\Com[2]ABRAÇO EM GRUPO!?
+
+message_43:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \kel\{\{\sinv[1]AWWW, YEAH! TÔ DENTRO!!
+
+message_44:
+      faceset: MainCharacters_Faraway
+      faceindex: 5
+      text: \aubP-Pera um segundo!
+
+message_45:
+      faceset: MainCharacters_Faraway
+      faceindex: 29
+      text: \her\sinv[1]\{PRONTOS OU NÃO, AQUI VOU EU!
+
+#[Group Hug Slide]
+
+message_47:
+      faceset: MainCharacters_Faraway
+      faceindex: 0
+      text: \aub...
+
+message_48:
+      faceset: MainCharacters_Faraway
+      faceindex: 27
+      text: \aubA gente devia ir ver se o BASIL já tá em casa mais tarde.
+
+message_49:
+      faceset: MainCharacters_Faraway
+      faceindex: 2
+      text: \aubEu preciso me desculpar com ele...\! e...\! acho que agora...\!<br>ele provavelmente é a pessoa que mais precisa da gente.
