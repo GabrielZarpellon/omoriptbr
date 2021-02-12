@@ -16,8 +16,8 @@
   LostBall:
     world: 1
     name:
-      en: BERLY'S LOST BALL
-      jp: BERLY'S LOST BALL
+      en: BOLA PERDIDA DA BERLY
+      jp: BOLA PERDIDA DA BERLY
     text:
       0:
         - 'XX_QUEST.message_175'
@@ -44,8 +44,8 @@
   FlowerPuzzle:
     world: 1
     name:
-      en: DAISY’S DILEMMA
-      jp: DAISY’S DILEMMA
+      en: DILEMA DA DAISY
+      jp: DILEMA DA DAISY
     text:
       0:
         - 'XX_QUEST.message_90'
@@ -60,8 +60,8 @@
   KiteKid:
     world: 1
     name:
-      en: WEAK MINDS
-      jp: WEAK MINDS
+      en: MENTES FRACAS
+      jp: MENTES FRACAS
     text:
       0:
         - 'XX_QUEST.message_245'
@@ -74,8 +74,8 @@
   Duckie:
     world: 1
     name:
-      en: WHEREABOUTS OF DUCKIE JR
-      jp: WHEREABOUTS OF DUCKIE JR
+      en: PARADEIRO DE DUCKIE JR
+      jp: PARADEIRO DE DUCKIE JR
     text:
       0:
         - 'XX_QUEST.message_200'
@@ -89,8 +89,8 @@
   StickInTheMud:
     world: 1
     name:
-      en: STICK IN THE MUD
-      jp: STICK IN THE MUD
+      en: PRESO NA LAMA
+      jp: PRESO NA LAMA
     text:
       0:
         - 'XX_QUEST.message_100'
@@ -102,8 +102,8 @@
   StrangeRequest:
     world: 1
     name:
-      en: STRANGE REQUEST
-      jp: STRANGE REQUEST
+      en: PEDIDO ESTRANHO
+      jp: PEDIDO ESTRANHO
     text:
       0:
         - 'XX_QUEST.message_105'
@@ -117,8 +117,8 @@
   Itchy:
     world: 1
     name:
-      en: ITCHY
-      jp: ITCHY
+      en: COCEIRA
+      jp: COCEIRA
     text:
       0:
         - 'XX_QUEST.message_170'
@@ -130,8 +130,8 @@
   Orange:
     world: 1
     name:
-      en: THE CONVICTION OF ORANGE JOE
-      jp: THE CONVICTION OF ORANGE JOE
+      en: A CONVICÇÃO DE ORANGE JOE
+      jp: A CONVICÇÃO DE ORANGE JOE
     text:
       0:
         - 'XX_QUEST.message_185'
@@ -143,8 +143,8 @@
   PresentForPalmie:
     world: 1
     name:
-      en: PRESENT FOR PALMIE
-      jp: PRESENT FOR PALMIE
+      en: PRESENTE PRA PALMIE
+      jp: PRESENTE PRA PALMIE
     text:
       0:
         - 'XX_QUEST.message_241'
@@ -156,8 +156,8 @@
   FascinatingLiterature:
     world: 1
     name:
-      en: FASCINATING LITERATURE
-      jp: FASCINATING LITERATURE
+      en: LITERATURA FASCINANTE
+      jp: LITERATURA FASCINANTE
     text:
       0:
         - 'XX_QUEST.message_140'
@@ -171,8 +171,8 @@
   Candlie:
     world: 1
     name:
-      en: A GOOD LISTENER
-      jp: A GOOD LISTENER
+      en: UM BOM OUVINTE
+      jp: UM BOM OUVINTE
     text:
       0:
         - 'XX_QUEST.message_190'
@@ -186,8 +186,8 @@
   CarePackage:
     world: 1
     name:
-      en: CARE PACKAGE
-      jp: CARE PACKAGE
+      en: PACOTE DE AJUDA
+      jp: PACOTE DE AJUDA
     text:
       0:
         - 'XX_QUEST.message_160'
@@ -199,8 +199,8 @@
   BED:
     world: 1
     name:
-      en: B.E.D.
-      jp: B.E.D.
+      en: C.A.M.A.
+      jp: C.A.M.A.
     text:
       0:
         - 'XX_QUEST.message_115'
@@ -216,8 +216,8 @@
   Sweaty:
     world: 1
     name:
-      en: SWEATY SNACK
-      jp: SWEATY SNACK
+      en: LANCHE SUADO
+      jp: LANCHE SUADO
     text:
       0:
         - 'XX_QUEST.message_130'
@@ -229,8 +229,8 @@
   Pessi:
     world: 1
     name:
-      en: PESSI'S THING
-      jp: PESSI'S THING
+      en: A COISA DO PESSI
+      jp: A COISA DO PESSI
     text:
       0:
         - 'XX_QUEST.message_255'
@@ -244,8 +244,8 @@
   GhostParty:
     world: 1
     name:
-      en: GHOST PARTY
-      jp: GHOST PARTY
+      en: FESTA FANTASMA
+      jp: FESTA FANTASMA
     text:
       0:
         - 'XX_QUEST.message_165'
@@ -261,8 +261,8 @@
   PoolNoodle:
     world: 1
     name:
-      en: CALL OF INSPIRATION
-      jp: CALL OF INSPIRATION
+      en: CHAMADA DE INSPIRAÇÃO
+      jp: CHAMADA DE INSPIRAÇÃO
     text:
       0:
         - 'XX_QUEST.message_250'
@@ -274,8 +274,8 @@
   Willow:
     world: 1
     name:
-      en: WEEPING WILLOW
-      jp: WEEPING WILLOW
+      en: FANTASMA CHORONA
+      jp: FANTASMA CHORONA
     text:
       0:
         - 'XX_QUEST.message_265'
@@ -289,8 +289,8 @@
   Pinkbeard:
     world: 1
     name:
-      en: SON OF A SPACE PIRATE
-      jp: SON OF A SPACE PIRATE
+      en: FILHO DE UM PIRATA ESPACIAL
+      jp: FILHO DE UM PIRATA ESPACIAL
     text:
       0:
         - 'XX_QUEST.message_150'
@@ -305,8 +305,8 @@
   Humphrey:
     world: 1
     name:
-      en: FEED HUMPHREY
-      jp: FEED HUMPHREY
+      en: ALIMENTAR O HUMPHREY
+      jp: ALIMENTAR O HUMPHREY
     text:
       0:
         - 'XX_QUEST.message_406'
@@ -318,8 +318,8 @@
   Marina:
     world: 1
     name:
-      en: MARINA'S OPERATION
-      jp: MARINA'S OPERATION
+      en: OPERAÇÃO DA MARINA
+      jp: OPERAÇÃO DA MARINA
     text:
       0:
         - 'XX_QUEST.message_210'
@@ -333,8 +333,8 @@
   Medusa:
     world: 1
     name:
-      en: MEDUSA'S EXPERIMENT
-      jp: MEDUSA'S EXPERIMENT
+      en: EXPERIMENTO DA MEDUSA
+      jp: EXPERIMENTO DA MEDUSA
     text:
       0:
         - 'XX_QUEST.message_220'
@@ -348,8 +348,8 @@
   Molly:
     world: 1
     name:
-      en: MOLLY'S ANALYSIS
-      jp: MOLLY'S ANALYSIS
+      en: ANÁLISE DA MOLLY
+      jp: ANÁLISE DA MOLLY
     text:
       0:
         - 'XX_QUEST.message_230'
@@ -409,8 +409,8 @@
   Mixtape:
     world: 1
     name:
-      en: CAPTAIN OF THE SPACE PIRATES
-      jp: CAPTAIN OF THE SPACE PIRATES
+      en: CAPITÃO DOS PIRATAS ESPACIAIS
+      jp: CAPITÃO DOS PIRATAS ESPACIAIS
     text:
       0:
         - 'XX_QUEST.message_40'
@@ -427,8 +427,8 @@
   FrontRow:
     world: 1
     name:
-      en: FRONT-ROW TICKETS
-      jp: FRONT-ROW TICKETS
+      en: INGRESSOS DA PRIMEIRA FILA
+      jp: INGRESSOS DA PRIMEIRA FILA
     text:
       0:
         - 'XX_QUEST.message_45'
@@ -444,8 +444,8 @@
   Alone:
     world: 1
     name:
-      en: MISSING FRIENDS
-      jp: MISSING FRIENDS
+      en: AMIGOS DESAPARECIDOS
+      jp: AMIGOS DESAPARECIDOS
     text:
       0:
         - 'XX_QUEST.message_75'
@@ -492,7 +492,7 @@
   Leafie:
     world: 1
     name:
-      en: RABBIT KILLER
+      en: ASSASSINO DE COELHOS
       jp:
     text:
       0:
@@ -505,7 +505,7 @@
   Raintown:
     world: 1
     name:
-      en: RAIN TOWN
+      en: VILA DA CHUVA
       jp:
     text:
       0:
@@ -520,7 +520,7 @@
   Squizzards:
     world: 1
     name:
-      en: SQUIZZARDS
+      en: LULÁGICOS
       jp:
     text:
       0:
@@ -534,8 +534,8 @@
   Rest:
     world: 1
     name:
-      en: RESTING IN NEIGHBORS ROOM
-      jp: RESTING IN NEIGHBORS ROOM
+      en: DORMINDO NA SALA DOS VIZINHOS
+      jp: DORMINDO NA SALA DOS VIZINHOS
     text:
       0:
         - 'XX_QUEST.message_410'
@@ -548,8 +548,8 @@
   Abandoned:
     world: 1
     name:
-      en: EMPTY HOUSE
-      jp: EMPTY HOUSE
+      en: CASA VAZIA
+      jp: CASA VAZIA
     text:
       0:
         - 'XX_QUEST.message_420'
