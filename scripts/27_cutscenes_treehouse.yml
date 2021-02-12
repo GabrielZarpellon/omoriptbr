@@ -125,7 +125,7 @@ message_42:
 message_43:
       faceset: MainCharacters_Faraway
       faceindex: 15
-      text: Ah, não é nada.\!<br>Amigos...\! tem que estar lá um pro outro...\!<br>Certo, AUBREY?\kel
+      text: Ah, não é nada.\!<br>Amigos...\! têm que estar lá um pro outro...\!<br>Certo, AUBREY?\kel
 
 message_44:
       faceset: MainCharacters_Faraway
@@ -284,7 +284,7 @@ message_100:
 message_101:
       faceset: MainCharacters_Faraway
       faceindex: 14
-      text: \Com[2]All our old stuff is still here!\kel
+      text: \Com[2]Todas as nossas coisas velhas ainda estão aqui!\kel
 
 #KEL walks to scattered cards.
 
