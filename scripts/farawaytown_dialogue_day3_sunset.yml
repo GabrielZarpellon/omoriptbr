@@ -127,12 +127,12 @@ message_70:
 #Location: SHORT HAIR GIRL's House
 
 message_80:
-      text: \n<GAROTA INTIMADORA>Eu estou grata que minha mãe pediu comida chinesa para o jantar... Tudo que ela cozinha é tão sem graça, mas não fala isso para ela.
+      text: \n<GAROTA INTIMIDADORA>Eu estou grata que minha mãe pediu comida chinesa para o jantar... Tudo que ela cozinha é tão sem graça, mas não fala isso para ela.
 
 #if leader is HERO
 
 message_81:
-      text: \n<GAROTA INTIMADORA>Ei HERO... Você quer se juntar para o jantar?\! Isso está acontecendo rápido demais! Era para a gente começar a namorar antes de você conhecer a minha mãe, você não concorda? Teehee...
+      text: \n<GAROTA INTIMIDADORA>Ei HERO... Você quer se juntar para o jantar?\! Isso está acontecendo rápido demais! Era para a gente começar a namorar antes de você conhecer a minha mãe, você não concorda? Teehee...
 
 
 #==============BRENT===========================================
