@@ -9,7 +9,7 @@ message_19:
 message_20:
       faceset: MainCharacters_Faraway
       faceindex: 14
-      text: \kelOh! You're taking this job, \n[8]?\! In that case, I'll come back for you later.\! Work hard, okay?
+      text: \kelOh! Você vai pegar esse emprego, \n[8]?\! Nesse caso, eu volto pra você mais tarde.\! Trabalhe duro, ok?
 
 #Intro
 message_0:
@@ -82,7 +82,7 @@ message_24:
       text: \n<CARA DO REPARA-JÁ>Você acharia que com uma placa em cima da prateleira seria óbvio onde colocar as coisas, mas as pessoas não ligam esses dias...\! Ai ai...\! Eu odeio trabalhar no varejo...
 
 message_21:
-      text: \n<CARA DO REPARA-JÁ>De qualquer forma, a placa em cima da prateleira mostra o que devia estar a mostra.\! Seu trabalho é mover tudo para seu lugar de direito, entendeu?\! Estou contando com você, moleque.
+      text: \n<CARA DO REPARA-JÁ>De qualquer forma, a placa em cima da prateleira mostra o que deveria estar à mostra.\! Seu trabalho é mover tudo para seu lugar de direito, entendeu?\! Estou contando com você, moleque.
 
 #Quest Finish
 
