@@ -1,0 +1,58 @@
+# =========================================================================================
+# Dreamworld Extras
+# =========================================================================================
+
+#HEART PERFEITA and Sweetheart (Post-Game)
+
+#Sweetheart: sweeping with maid outfit
+message_0:
+      text: \swh\Com[2]O que vocês quatro estão olhando!?
+
+message_1:
+      text: \n<HEART PERFEITA>Eu estou ensinando SWEETHEART como fazer as tarefas domésticas!\!<br>Ela está aprendendo...\! em seu próprio tempo...\! mas ela fica tão fofa de empregada, não acha? Hoho!
+
+message_2:
+      text: UNUSED MESSAGE
+
+message_3:
+      text: \n<HEART PERFEITA>Sim, sim! Ela não é a mais fofa de todas?
+
+message_4:
+      text:  \n<HEART PERFEITA>Não é mesmo, VARREHEART??\! OHOHOHO!
+
+message_5:
+      text: \n<VARREHEART>\Com[2]Hmph!
+
+#Talk again
+
+message_6:
+      text: \n<HEART PERFEITA>O que é isso?\! Você está me desafiando para uma luta?\!<br>Oh...\! Você não quer fazer isso...\! Tem certeza disso?
+
+#[Nod/Shake 1]
+
+#[nod 1]
+message_7:
+      text: \n<HEART PERFEITA>Oh...\! Entendi...\! Eu acho que é justo de avisar que você vai se arrepender disto...\! Então...\! Deixe-me perguntar novamente...\!<br>Você tem certeza que quer me desafiar?
+
+#[Nod/Shake 2]
+
+#[nod 2]
+message_8:
+      text: \n<HEART PERFEITA>Você tem certeza, certeza mesmo?
+
+#Nod/Shake 3]
+message_9:
+      text: \n<HEART PERFEITA>... \!<br>Muito bem, então...\! Se é assim que deseja.\!<br>Eu não irei pegar leve.
+
+#Shake
+message_10:
+      text: \n<HEART PERFEITA>Sim...\! Essa seria a escolha mais sábia.
+
+#Defeating HEART PERFEITA
+message_11:
+      text: \n<HEART IMPERFEITA>Hmmm...\! Parabéns.\! Você venceu.\! Eu suponho que isso significa que não sou mais perfeita. \!Uma pena, realmente.
+
+#Submersible Karaoke
+
+message_12:
+      text: \spxh\Com[2]Para todos os amantes perdidos por ai...\!<br>Essa...\! é para vocês.
