@@ -155,7 +155,7 @@ message_39:
     text: ENERGIA é um status coletivo dividido entre todos os amigos.
 
 message_40:
-    text: Para fazer uma SEQUÊNCIA custa 3 de ENERGIA, exceto para SOLTAR ENERGIA que custa 10.
+    text: Para fazer uma SEQUÊNCIA custa 3 de ENERGIA, exceto para LIBERAR ENERGIA que custa 10.
 
 message_41:
     text: A batalha começa com 3 de ENERGIA, e 1 de ENERGY é ganhado toda vez que um amigo dá dano a um amigo.
@@ -193,7 +193,7 @@ message_247:
     text: OMORI vai para um ataque baixo, reduzindo drasticamente a velocidade do inimigo e fazendo eles ficarem TRISTES.
 
 message_48:
-    text: SOLTAR ENERGIA
+    text: LIBERAR ENERGIA
 
 message_49:
     text: Todo mundo se junta para um ataque final que dá grandes danos para todos os inimigos!
@@ -251,7 +251,7 @@ message_202:
     text: Quais das SEQUÊNCIAS do KEL você gostaria de saber?
 
 message_58:
-    text: PASSE PRO OMORI
+    text: PASSAR PRO OMORI
 
 message_59:
     text: KEL passa a bola pro OMORI, dando 1 de dano ao OMORI e fazendo ele ficar TRISTE.
@@ -263,7 +263,7 @@ message_259:
     text: KEL passa a bola pro OMORI, dando grande dano à um inimigo e fazendo OMORI ficar EXTÁTICO.
 
 message_60:
-    text: PASSE PRA AUBREY
+    text: PASSAR PRA AUBREY
 
 message_61:
     text: KEL arremesssa a bola pra AUBREY, que joga para longe e dá dano para um inimigo aleatório!
@@ -275,7 +275,7 @@ message_261:
     text: KEL arremesssa a bola pra AUBREY, que joga para longe e dá muitíssimo dano para um inimigo aleatório!
 
 message_62:
-    text: PASSE PRO HERO
+    text: PASSAR PRO HERO
 
 message_63:
     text: KEL passa a bola pro HERO, que o ajuda a amassar a cara dos inimigos, dando dano!
@@ -319,7 +319,7 @@ message_268:
     text: HERO chama a AUBREY.\! AUBREY ataca, e então HERO cura 40% do CORAÇÃO da AUBREY e 20% do SUCO da AUBREY com palavras de encorajamento.
 
 message_69:
-    text: CHAMR KEL
+    text: CHAMAR KEL
 
 message_70:
     text: HERO chama o KEL.\! KEL ataca, e então HERO cura 15% do CORAÇÃO do KEL com palavras de encorajamento.
