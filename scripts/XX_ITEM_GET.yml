@@ -1,0 +1,39 @@
+# =========================================================================================
+# ** TEMPLATE DIALOGUE
+# =========================================================================================
+
+message_0:
+    text: Você conseguiu uma \c[4]BUZINA GRANDE\c[0].
+
+message_1:
+    text: Você conseguiu um \c[13]LIVRO POÉTICO PROFUNDO\c[0].
+
+message_2:
+    text: Você conseguiu um \c[4]COISAMABOB\c[0].
+
+message_3:
+    text: Você conseguiu um \c[4]DOQUIEUCHAMOISSO\c[0].
+
+message_4:
+    text: Você conseguiu um \c[4]TICOLIRO\c[0].
+
+message_5:
+    text:
+
+message_6:
+    text:
+
+message_7:
+    text:
+
+message_8:
+    text:
+
+message_9:
+    text:
+
+message_10:
+    text:
+
+message_11:
+      text:
