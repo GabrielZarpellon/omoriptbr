@@ -1,0 +1,584 @@
+# =========================================================================================
+# Dreamworld NPC dialogue
+# =========================================================================================
+
+# ==============LAST RESORT / UNDERWATER HIGHWAY / ABYSS========================
+
+
+                        #====NIGHT 3====
+
+#ABBI
+#Location:Abyss
+#Abyss (Boss) - Tentacle Quest
+#Check sidequest_dreamworld_tentacle
+
+#DEALER JASH
+#Location: LAST RESORT
+#SHOP QUEST yaml
+
+#PINKBEARD
+#Location: Last Resort
+
+#ADD ARG!!!!!!!
+message_0:
+      text: \n<BARBAROSA>Esse lugar não é como o pessoal faz parecer ser.\! \Com[2]Eu quero minhas CONCHAS de volta, tá ouvindo!?
+
+#FISHBOY
+#Location: Last Resort
+message_1:
+      text: \n<GAROTOPEIXE>Pescar e cuidar de peixes é um hobby meu.\!<br>Ele passa o tempo e é moderadamente recompensador.
+
+
+#GOYLE THE CRAB
+#Location: Last Resort
+#Faces up, faces down when talked to
+message_3:
+      text: \n<GOYLE O CARANGUEIJO>Não olhe para mim! Eu sou horrível!
+
+#HITCHHIKER
+#Location: Underwater Highway
+#Check DREAM WORLD EXTRAS BLACKSPACE yaml
+
+#CARA CACHORRO QUENTE
+#Location: Last Resort
+message_4:
+      text: \n<CARA CACHORRO QUENTE>\SINV[1]\c[3]CACHORRO QUENTE\c[0]...\! Pegue seu \c[3]CACHORRO QUENTE\c[0] aqui...\SINV[0]
+
+message_5:
+      text: \$\n<CARA CACHORRO QUENTE>Você quer um \c[3]CACHORRO QUENTE\c[0]? Só vai te custar 100 CONCHAS...\!<br>Vamos lá... eles estão deliciosos.\$
+
+message_6:
+      text: Você pegou um \c[3]CACHORRO QUENTE\c[0].
+
+message_7:
+      text: \n<CARA CACHORRO QUENTE>Tudo bem...\! mas eles estão deliciosos.
+
+message_36:
+      text: \n<CARA CACHORRO QUENTE>Você não tem CONCHAS suficientes pra isso...
+
+#OVELHA
+#Location: Last Resort
+message_8:
+      text: \n<OVELHA>Nós decidimos vir aqui na nossa lua de mel por que eles ofereceram um quarto grátis e uma experiência de um resort de luxo!
+
+message_9:
+      text: \n<OVELHA>\Com[2]Luxo, é a minha bunda!\! Esse lugar é tão esfarrapado quanto parece.\!<br>Eu consigo ver a tinta descascando das paredes!
+
+#LOBO
+#Location: Last Resort
+message_10:
+      text: \n<LOBO>Honestamente, eu não me importo nem um pouco com o lugar.\!<br>Não é tão ruím por ser de graça...\! mesmo se a piscina de crianças lá fora esteja assombrada.
+
+#ELEANOR
+#Location: MUSTARD SUBMERSIBLE
+message_11:
+      text: \n<SADIE>Oi, eu sou a SADIE...\! Minhas irmãs e eu começamos esse café...\! Mas já que estivemos apertadas em CONCHAS, muitas das minhas irmãs começaram a trabalhar no \c[11]ÚLTIMO RESORT\c[0].
+
+message_12:
+      text: \n<SADIE>Só tem eu e minha irmã ELEANOR sobrando...
+
+message_13:
+      text: \n<SADIE>\sinv[1]Ai ai...\sinv[0]\! Eu queria que elas voltassem aqui.\!<br>Eu faria qualquer coisa para ouvir elas cantarem de novo!
+
+#JULIA
+#Location: Last Resort
+message_14:
+      text: \n<JULIA>Eu começei a trabalhar aqui por que me ofereceram um bom salário, mas eu nem recebi meu primeiro salário ainda!
+
+#LUCY
+#Location: Last Resort
+message_15:
+      text: \n<LUCY>\}Eu sinto falta das minhas irmãs no \c[11]SUB DE MOSTARDA\c[0]...
+
+#PAM
+#Location: Last Resort
+message_16:
+      text: \n<PAM>Desculpa, eu não posso servir \c[3]SUCO DE FRUTAS\c[0] para menores de idade.
+
+#RITA
+#Location: Last Resort
+message_17:
+      text: \n<RITA>Minhas irmãs e eu temos um café na estrada a leste daqui.\! Você devia dar uma olhada.\! A comida é deliciosa!
+
+#SADIE
+#Location: MUSTARD SUBMERSIBLE
+#Check SHOP DIALOGUE GUIDE. (Mustard Submersible)
+
+#TUBARÃO PICLES
+#Location: Last Resort
+message_18:
+      text: \n<TUBARÃO PICLES>Você quer aprender algo sobre TUBARÕES e/ou PICLES?\!<br>Se você me der uma \c[3]REFEIÇÃO COMBO\c[0], eu te digo o que eu sei!
+#yes/no (only if combo meal is in inventory)
+
+#yes
+message_19:
+      text: \n<TUBARÃO PICLES>Ei, muito obrigado! \!<br>Você gostaria de aprender sobre TUBARÕES e/ou PICLES?
+
+message_20:
+      text: TUBARÕES
+
+message_21:
+      text: PICLES
+
+message_22:
+      text: \n<TUBARÃO PICLES>Ótimo!\! É isso que eu sei...
+
+
+#Shark
+
+message_23:
+      text: \n<TUBARÃO PICLES>Tubarões só podem nadar para a frente.<br>\!Isso não é inspirador?\! Eu acho...
+
+message_100:
+      text: \n<TUBARÃO PICLES>Tubarões tem varias camadas de dentes...\! que provavelmente são uteis para comer picles!
+
+message_101:
+      text: \n<TUBARÃO PICLES>Tubarões não tem ossos!\! Nós na verdade somos feitos de orelhas e narizes humanos.
+
+message_102:
+      text: \n<TUBARÃO PICLES>Ao contrario do que muitos pensam, muitos tubarões não comem gente...\! exceto tubarões tigre...\! Esses caras comem qualquer coisa...
+
+
+#PICKLES
+message_24:
+      text: \n<TUBARÃO PICLES>Dia 14 de novembro é o Dia Nacional do Picles.<br>\!Lembre-se de comer seu picles anual!
+
+message_104:
+      text: \n<TUBARÃO PICLES>Tem picles de mais?\! Você pode enterra-los no chão e buscar depois!\! Só se lembre de onde enterrou...
+
+message_105:
+      text: \n<TUBARÃO PICLES>Picles são usados como rituais de cortejo em certas culturas.\! Isso é tudo que vou dizer sobre isso!
+
+message_106:
+      text: \n<TUBARÃO PICLES>Acha que é possível que tenha escorbuto?\! Então talvez você devia ter comido um picles!
+
+
+
+
+
+#SEACOW
+#Location:Underwater Highway
+message_25:
+      text: \n<BOI-PEIXE>Uhh... \!moo?
+
+#SEACOW FARMER
+#Location:Underwater Highway- Hunt Squizzards Quest
+#Check Seacow farmer (Hunt Squizzards) yaml
+
+#CARA JACARÉ
+#Location: Last Resort - Break Room
+message_26:
+      text: \n<CARA JACARÉ>I got everyone pizza!
+
+#CARA JACARÉ
+#Location: Last Resort - Construction
+message_27:
+      text: \n<CARA JACARÉ>Huff... \!Huff... \!Minhas costas doem... \!Estou velho de mais pra isso.
+
+#CARA JACARÉ
+#Location: Last Resort - Break Room
+message_28:
+      text: \n<CARA JACARÉ>Nossas ações estão caindo... \!Quer dizer, subindo, a uma taxa alaramante!
+
+#CARA JACARÉ
+#Location: Last Resort - Casino
+#CARA JACARÉ is on his tiny phone.
+message_29:
+      text: \n<CARA JACARÉ>\}Nah... \!É sério?... \!De novo não... \!<br>Não se preocupe com isso... \! Isso não vai ser um problema...
+
+#CARA JACARÉ
+#Location: Last Resort- Bathroom (Looking at Mirror)
+message_30:
+      text: \n<CARA JACARÉ>Eae, bonitão...
+
+#CARA JACARÉ
+#Location: Last Resort Entrance
+#CARA JACARÉ is on his tiny phone.
+message_31:
+      text: \n<CARA JACARÉ>\}Aham... \!É... \!Certo... \!Quem?... \!Pode crê.
+
+#CARA JACARÉ
+#Location: Last Resort Entrance
+#CARA JACARÉ is on his tiny phone.
+message_32:
+      text: \n<CARA JACARÉ>\}Simsenhor... \!Simsenhor... \!Simsenhor... \!Simsenhor... \!Afirmativo... \!Entendido...
+
+#SLIME 1
+#Location:
+#[INCOMPLETE]
+
+#SLIME 2
+#Location:
+#[INCOMPLETE]
+
+#SLIME 3
+#Location:
+#[INCOMPLETE]
+
+#SLIME 4
+#Location:
+#[INCOMPLETE]
+
+#SLIME 5
+#Location:
+#[INCOMPLETE]
+
+                        #====NIGHT 4====
+
+#ABBI
+#Location: Abyss
+#Abyss (Boss) - Tentacle Quest
+#Same as NIGHT 3.
+
+#DEALER ASH
+#Location: Last Resort
+#Same as NIGHT 3.
+
+#PINKBEARD
+#Location: Space Captains House- Bring Boy Home Quest
+#Check DREAM WORLD SIDEQUEST PINKBEARD
+
+#FISHBOY
+#Location: Underwater Highway
+#Same as NIGHT 3.
+
+#GOYLE THE CRAB
+#Location: Underwater Highway
+#Same as NIGHT 3.
+
+#HITCHHIKER
+#Location: Underwater Highway
+#Same as NIGHT 3.
+
+#CARA CACHORRO QUENTE
+#Location: Underwater Highway
+#Same as NIGHT 3.
+
+#OVELHA
+#Location: ORANGE OASIS
+message_33:
+      text: \n<OVELHA>Tentamos ir para o \c[11]ÚLTIMO RESORT\c[0] para a nossa lua de mel...<br>mas isso não funcionou muito bem, então pegamos um trem até o \c[11]OASIS LARANJA\c[0]!
+
+message_34:
+      text: \n<OVELHA>Não tenho certeza do que eu esperava...\! É err...\!<br>É bem laranja.
+
+#LOBO
+#Location: ORANGE OASIS
+message_35:
+      text: \n<LOBO>Huff... huff... \! É tão quente.\! Tem algúm hotel por aqui?
+
+#ELEANOR
+#Location: MUSTARD SUBMERSIBLE
+message_80:
+      text: \n<SADIE>Oi, eu sou SADIE!\! Minhas irmãs e eu abrimos esse café juntas!
+
+message_81:
+      text: \n<SADIE>ELEANOR cuida do caixa, então por favor fale com ela se quiser uma \c[3]REFEIÇÃO COMBO\c[0]!
+
+message_82:
+      text: \n<SADIE>E também, essas são minhas irmãs cantando!\!<br>Suas vozes não são lindas?
+
+
+#JULIA
+#Location: Mustard Submersible
+message_85:
+      text: \n<JULIA>Eu deixei o \c[11]ÚLTIMO RESORT\c[0], e estou de volta aqui!\! Só não diga as minhas irmãs que eu senti falta delas!\! \SINV[1]Ufufu!\SINV[0]
+
+#LUCY
+#Location: Mustard Submersible
+message_90:
+      text: \n<LUCY>\}Oi... estou feliz por estar de volta...\! Espero que goste do lugar!
+
+#PAM
+#Location: Mustard Submersible
+message_95:
+      text: \n<PAM>Eu deixei o \c[11]ÚLTIMO RESORT\c[0], por que senti falta da SADIE e ELEANOR...\! mas parece que todo mundo chegou antes.
+
+message_96:
+      text: \n<PAM>Eu acho que deveria estar preocupada com as CONCHAS agora mas...\!<br>Eu só estou feliz que estamos juntas de novo.\! Nós vamos conseguir de alguma forma!
+
+#SADIE
+#Location: Mustard Submersible
+#[Incomplete]
+
+#TUBARÃO PICLES
+#Location:Underwater Highway
+#Same as NIGHT 3.
+
+#POKER FACE
+#Location: Last Resort
+#POKER FACE: I got a mean poker face...
+
+#SEACOW
+#Location: Underwater Highway
+#Same as NIGHT 3.
+
+#SEACOW FARMER
+#Location: Underwater Highway - Hunt Squizzards Quest
+#Same as NIGHT 3.
+
+#MR. JAWSUM
+#Location: Last Resort
+#Check DREAM WORLD QUEST DIALOGUE.
+#After Cutscene: Feed Humphrey 1
+#Location: N/A
+
+#CARA JACARÉ
+#Location: Forest Playground
+message_60:
+      text: \n<CARA JACARÉ>\SINV[1]Pulinho! \!\}E-um-\{Pulinho! \!\}E-um-\{Pulinho! \!\}E-um-\{Pulinho!\SINV[0]
+
+#CARA JACARÉ
+#Location: Mustard Submersible
+#CARA JACARÉ is on his tiny phone.
+message_61:
+      text: \n<CARA JACARÉ>\}Aham...\! Três pedidos...\! Aham...\! Aham...\! Eu não sei...\! Eu posso perguntar...\!<br>Ok, então você quer quatro pedidos agora...
+
+#CARA JACARÉ
+#Location: Last Resort
+message_62:
+      text: \n<CARA JACARÉ>O chefe não está com sua energia de sempre...\!<br>Eu me pergunto se algo aconteceu...
+#After Cutscene: Feed Humphrey 1
+message_63:
+      text: \n<CARA JACARÉ>\Com[2]Olá, HERO, senhor!\! \Com[2]Tenha um bom dia, senhor!
+
+#CARA JACARÉ
+#Location: Last Resort - Break Room Stock Guy
+#Same as DAY 3.
+#After Cutscene: Feed Humphrey 1
+message_64:
+      text: \n<CARA JACARÉ>No curto tempo em que HERO virou o novo chefe, nossa renda bruta aumentou exponencialmente!
+
+message_65:
+      text: \n<CARA JACARÉ>Nesse ritmo...\! algum dia, o nosso fluxo de dinheiro pode ficar positivo!
+
+#CARA JACARÉ
+#After Cutscene: Feed Humphrey 1
+#Location: Last Resort
+message_66:
+      text: \n<CARA JACARÉ>Graças a liderança incrível do HERO, nosso modelo de negócios está mais eficiente que nunca!\! Estamos no caminho para o topo, baby!
+
+#CARA JACARÉ
+#After Cutscene: Feed Humphrey 1
+#Location: Last Resort
+message_67:
+      text: \n<CARA JACARÉ>Você está cansado de andar, chefe?\!<br>Quer que eu te carregue?
+
+#CARA JACARÉ
+#After Cutscene: Feed Humphrey 1
+#Location: Last Resort
+message_68:
+      text: \n<CARA JACARÉ>\}Então você está dizendo...\! Mhmm...\! Não, você está perdendo o ponto...\! Mas isso não é fiscalmente possível...\! Eu disse fiscalmente, não fisicamente!
+
+#CARA JACARÉ
+#Location: Last Resort
+message_69:
+      text: \n<CARA JACARÉ>Como vai, chefe?\! Você quer um \c[5]ELÁSTICO\c[0] de graça?\!<br>Não se preocupe.\! É por minha conta!
+
+message_70:
+      text: \n<CARA JACARÉ>Ei, você quer outro \c[5]ELÁSTICO\c[0], não quer?\!<br>Vá em frente, pegue!\! Tudo por você, chefe.
+
+message_71:
+      text: \n<CARA JACARÉ>Você e seus amigos realmente gostam de \c[5]ELÁSTICOS\c[0]...\!<br>não que seja um problema.\! Eu tenho todos os \c[5]ELÁSTICOS\c[0] no mundo!
+
+message_72:
+      text: \n<CARA JACARÉ>Eu conheço essa cara!\! Essa é a cara de alguém que quer outro \c[5]ELÁSTICO\c[0]!\! Aqui vai, chefe!\! Com tudo que você fez pela gente, é o mínimo que posso fazer!
+
+message_73:
+      text: \n<CARA JACARÉ>Ei, chefe!\! Está gostando desses \c[5]ELÁSTICOS\c[0] que eu te dei?\!<br>Bem legais, né?\! Eu posso te dar mais se quiser...
+
+#Repeats infinitely:
+message_74:
+      text: \n<CARA JACARÉ>Aqui, chefe!\! Pegue mais um \c[5]ELÁSTICO\c[0]!\!<br>Aproveite!
+
+message_75:
+      text: Você recebeu um \c[5]ELÁSTICO\c[0]!
+
+#SLIME 1
+#Location:
+#extras_shop
+
+message_120:
+      text: Você gostaria de ouvir essa CONCHA MÚSICAL?
+
+message_121:
+      text: Fechar essa CONCHA MÚSICAL?
+
+#BIKER gang
+
+message_125:
+      text: \n<VIGARISTA DA CIDADE>Respeite sua comunidade!
+
+message_126:
+      text: \n<JET SETTER>Ame a si mesmo!
+
+message_127:
+      text: \n<QUEBRA CRÂNIOS>Seja gentíl com os outros!
+
+message_128:
+      text: \n<TIJOLO>Eu doo para a caridade!
+
+message_130:
+      text: \n<SAPO>\}\quake[1]Ribbit...\quake[0]\! (Esperando algo acontecer?)
+
+#MUSCLE Sign
+
+#OMORI
+message_150:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: \kelTá bonitão, OMORI!
+
+message_151:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 3
+      text: \aubQue homão!
+
+message_152:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: \herOMORI, você esteve malhando?
+
+#AUBREY
+message_153:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19
+      text: \kel\sinv[1]Oooh, AUBREY... Você é tão linda...
+
+message_154:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 37
+      text: \herVocê gostaria de algo, senhora?\! Um \c[3]SUCO DE FRUTA\c[0]?\! Uma \c[1]MASSAGEM\c[0] nas costas?\! Alguns croutons?
+
+message_155:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 3
+      text: \aubWow!\! Eu poderia me acostumar com isso!
+
+#KEL
+message_156:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 17
+      text: \kelSou eu, KEL do futuro!\! Eu terei tanto músculo, que eu mal poderei andar!
+
+message_158:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: \kelFaça pose! Hoo-hah!\! Eu vou pegar todas as garotas. Só aguarde.
+
+message_159:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 11
+      text: \aubNão desse jeito, você não vai.
+
+#HERO
+message_160:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 49
+      text: Acalmem-se, garotas...\! Uma de cada vez.\her
+
+message_161:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: \aub\sinv[1]Ewwwwwwwwww!\sinv[0] Para com isso, HERO.\! Ou eu conto pra MARI!
+
+message_162:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 47
+      text: \herD-Desculpa.
+
+#phone
+
+message_170:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: \kel\{\com[2]\{ALÔ? AQUI É O KEL!
+
+message_171:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 25
+      text: \kel\{\com[2]\{CADE MEU SERVIÇO DE QUARTO?
+
+message_172:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 33
+      text: \kel\{\com[2]\{JÁ FAZ 45 MINUTOS!
+
+message_174:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 28
+      text: \kel\}...\! Sim...\! Aham...\! Aham...\! Oh, isso é...\! E-Erro meu.\! M-Minhas desculpas.\! Adeus.
+
+message_175:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 26
+      text: \kel...
+
+message_176:
+      text: \n<BROTOPEIRA>Alô, quem é?
+
+message_177:
+      text: \n<BROTOPEIRA>Desculpe, você pegou o número errado.
+
+message_178:
+      text: \n<BROTOPEIRA>\com[2]Você acha isso engraçado, pirralho!?
+
+message_179:
+      text: \n<BROTOPEIRA>Minha mãe me avisou de gente que nem você!
+
+message_180:
+      text: \n<NOSE>\}Nose faz!\! \quake[1]Bzzt...
+
+#HERO BOSS
+message_200:
+      text: Bom dia, chefe. Amei o cabelo!\n<CARA JACARÉ>
+
+message_201:
+      text: Ei, chefe. Amei o traje!\n<CARA JACARÉ>
+
+#POTHOLE GUYS
+message_220:
+      text: \n<CARA JACARÉ>Sigam em frente, sigam em frente... Nada pra se ver aqui.
+
+message_221:
+      text: \n<CARA JACARÉ>Novos buracos todo dia...\! Eu espero que me paguem pelo tempo extra.
+
+message_233:
+      text: \n<CARA JACARÉ>Eu fico enchendo os buracos...\! mas eles continuam voltando!
+
+#HERO BOSS
+message_222:
+      text: \n<CARA JACARÉ>Como vai, chefe?\! Espero que não esteja trabalhando de mais.
+
+message_223:
+      text: \n<CARA JACARÉ>Vindo até aqui pra ver se estamos bem, chefe?\! Isso que é liderança de verdade.
+
+message_234:
+      text: \n<CARA JACARÉ>Como vai, chefe?\! Obrigado por tomar conta dos negócios e tudo mais.\! Eu ouvi que você é incrível!
+
+message_224:
+      text: \n<CARA JACARÉ>Então... Eu cruzei com a Mãe no caminho pra cá e ela não parava de me irritar...\! Vestir óculos escuros dentro de casa faz mal para os olhos, ela diz.
+
+message_225:
+      text: \n<CARA JACARÉ>Eu não posso só tirar meus óculos assim.\! Eles são tipo uma parte de mim!
+
+message_226:
+      text: \n<CARA JACARÉ>Cara... a Mãe está visitando de novo?\! Ela deve estar com saudade de mais.
+
+message_227:
+      text: \n<CARA JACARÉ>O que? a Mãe está aqui?\! Eu tenho que ir dizer oi depois!
+
+message_228:
+      text: \n<CARA JACARÉ>Yay! a Mãe está aqui!
+
+message_229:
+      text: \n<CARA JACARÉ>Ugh...\! Mãe.
+
+message_230:
+      text: \n<CARA JACARÉ>Vestir óculos escuro dentro de casa é legal.
+
+message_231:
+      text: \n<CARA JACARÉ>Turistas já estão aparecendo porém não acabamos com a construção ainda.\! Não sei se isso é uma coisa boa ou ruim...
+
+message_232:
+      text: \n<CARA JACARÉ>Arrumar as coisas é divertido!
