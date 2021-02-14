@@ -51,7 +51,7 @@ faraway_message7:
 faraway_message8:
     background: 0
     position: 2
-    text: \n<9/3>Nós voltamos do parque, mas o KEL ainda está cheio de energia.<br><br><br>Ele desafiou o HERO para uma queda de braço, mas nós já sabemos quem vai ganhar...\! Por favor pegue leve com ele, HERO...
+    text: \n<9/3>Nós voltamos do parque, mas o KEL ainda está cheio de energia.<br><br>Ele desafiou o HERO para uma queda de braço, mas nós já sabemos quem vai ganhar...\! Por favor pegue leve com ele, HERO...
 
 faraway_message9:
     background: 0
@@ -66,7 +66,7 @@ faraway_message10:
 faraway_message11:
     background: 0
     position: 2
-    text: \n<10/3>Eu mostrando ao \n[8] um livro que eu estive lendo.\! MARI roubou minha câmera e tirou essa foto enquanto eu não estava olhando.<br><br>Eu devia cuidar melhor das minhas coisas.
+    text: \n<10/3>Eu mostrando ao \n[8] um livro que eu estive lendo.\! MARI roubou minha câmera e tirou essa foto enquanto eu não estava olhando.<br>Eu devia cuidar melhor das minhas coisas.
 
 faraway_message12:
     background: 0
@@ -81,7 +81,7 @@ faraway_message13:
 faraway_message14:
     background: 0
     position: 2
-    text: \n<31/3>After eating all the food, everyone fell asleep, except me, HERO, and MARI.<br><br>Something unfortunate happened when I was taking the photo. \!Ahem... Thanks a lot, HECTOR.\! I'll have to cover it up with tape later.
+    text: \n<31/3>Depois de comer toda aquela comida, todo mundo dormiu, exceto eu, HERO, e a MARI.<br><br>Algo infelizmente aconteceu enquanto eu tirava a foto. \!Ahem... Muito obrigado, HECTOR.\! Eu vou ter que cobrir com fita depois.
 
 faraway_message15:
     background: 0
@@ -116,7 +116,7 @@ faraway_message20:
 faraway_message21:
     background: 0
     position: 2
-    text: \n<29/4>Só KEL sendo o KEL de novo...<br><br><br>Nós fomos ao HOBBEEZ, mas o dono da loja disse para o KEL deixar seu casaco no lado de fora por que o KEL estava molhando todos os quadrinhos.<br>\!Desculpe, CAIXA.
+    text: \n<29/4>Só KEL sendo o KEL de novo...<br><br><br>Nós fomos ao HOBBEEZ, mas o dono da loja disse para o KEL deixar seu casaco no lado de fora por que o KEL estava molhando todos os quadrinhos.\!<br>Desculpe, CAIXA.
 
 faraway_message22:
     background: 0
