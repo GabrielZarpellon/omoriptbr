@@ -613,7 +613,7 @@ Window_OmoMainMenuActorStatus.prototype.refresh = function() {
       let rate = currentExp / nextExp;
       rate = Math.min(rate, 1);
       this.contents.gradientFillRect(2, 30, 151 * rate, 15, 'rgba(51, 0, 196, 1)', 'rgba(254, 145, 246, 1)');
-      this.drawText('LVL. ' + actor._level, 12, 18, this.contents.width);
+      this.drawText('NVL. ' + actor._level, 12, 18, this.contents.width);
     };
     // Get Bar Bitmap
     var bitmap = ImageManager.loadSystem('newtagmenud');
