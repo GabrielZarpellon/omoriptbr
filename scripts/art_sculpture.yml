@@ -330,7 +330,7 @@ message_1000:
 
 #Before HERO is in party:
 message_90:
-      text: \n<CARA JACARÉ>Ufa...\! Estou quase finalizando o tributo para o nosso funcionário do século.<br><br>Look at me makin' statues and stuff...\! Nunca imaginei que eu poderia realmente conseguir, mas o chefe sempre acreditou em mim!
+      text: \n<CARA JACARÉ>Ufa...\! Estou quase finalizando o tributo para o nosso funcionário do século.<br><br>Olhe só para mim fazendo estátuas...\! Nunca imaginei que eu poderia realmente conseguir, mas o chefe sempre acreditou em mim!
 
 #After HERO is in party:
 message_91:
@@ -440,7 +440,7 @@ message_1012:
     text: Uma estátua impressionante do KEL.\!<br>Ela captura sua essência perfeitamente.
 
 message_1013:
-    text: Uma estátua impressionante do.\! Uau...
+    text: Uma estátua impressionante do HERO.\! Uau...
 
 message_1014:
     text: Uma estátua impressionante da MARI.\!<br>Você nunca sabe o que está se escondendo por trás de seu sorriso travesso.
