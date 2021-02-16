@@ -8,89 +8,89 @@ message_1:
 
 #purchase
 message_2:
-      text: \n<JASH>Thank you for your patronage.
+      text: \n<JASH>Obrigado pelo seu patrocínio.
 
 #insufficient funds
 message_3:
-      text: \n<JASH>You do not have enough CLAMS.
+      text: \n<JASH>Você não tem CONCHAS o bastante.
 
 message_4:
-      text: \n<JASH>I am JASH of many talents and master of many trades.
+      text: \n<JASH>Eu sou o JASH, mestre de muitos talentos e de trocas
 
 message_5:
-      text: \n<JASH>Please wait, Sir or Madam.\! Before you go...<br>I wanted to thank you for being a patron of JASH.
+      text: \n<JASH>Por favor espere, Senhor ou Madame.\! Antes de você ir...<br>Eu gostaria de te agradeçer por ser um patorcinador do JASH.
 
 message_6:
-      text: \n<JASH>Please take this \c[13]SALES TAG\c[0].\! You won't be getting any discounts here, but I'm sure it will be useful to you somehow.
+      text: \n<JASH>Por favor pegue este \c[13]CARTÃO DE VENDAS\c[0].\! Você não vai receber nenhum desconto aqui, mas tenho certeza que isso vai ser útil de alguma forma.
 
 message_7:
-      text: You got a \c[13]SALES TAG\c[0].
+      text: Você conseguiu um \c[13]CARTÃO DE VENDAS\c[0].
 
 message_203:
-      text: \n<SNO-CONE JASH>You do not have enough CLAMS.
+      text: \n<JASH DA RASPADINHA>Você não tem CONCHAS o bastante.
 
 message_204:
-      text: \n<SNO-CONE JASH>I am JASH of many talents and master of many trades.
+      text: \n<JASH DA RASPADINHA>Eu sou o JASH, mestre de muitos talentos e de trocas.
 
 message_205:
-      text: \n<SNO-CONE JASH>Please wait, Sir or Madam.\! Before you go...<br>I wanted to thank you for being a patron of JASH.
+      text: \n<JASH DA RASPADINHA>Por favor espere, Senhor ou Madame.\! Antes de você ir...<br>Eu gostaria de te agradeçer por ser um patorcinador do JASH.
 
 message_206:
-      text: \n<SNO-CONE JASH>Please take this \c[13]SALES TAG\c[0].\! You won't be getting any discounts here, but I'm sure it will be useful to you somehow.
+      text: \n<JASH DA RASPADINHA>Por favor pegue este \c[13]CARTÃO DE VENDAS\c[0].\! Você não vai receber nenhum desconto aqui, mas tenho certeza que isso vai ser útil de alguma forma.
 
 message_213:
-      text: \n<TOFU JASH>You do not have enough CLAMS.
+      text: \n<JASH DO TOFU>Você não tem CONCHAS o bastante.
 
 message_214:
-      text: \n<TOFU JASH>I am JASH of many talents and master of many trades.
+      text: \n<JASH DO TOFU>Eu sou o JASH, mestre de muitos talentos e de trocas.
 
 message_215:
-      text: \n<TOFU JASH>Please wait, Sir or Madam.\! Before you go...<br>I wanted to thank you for being a patron of JASH.
+      text: \n<JASH DO TOFU>Por favor espere, Senhor ou Madame.\! Antes de você ir...<br>Eu gostaria de te agradeçer por ser um patorcinador do JASH.
 
 message_216:
-      text: \n<TOFU JASH>Please take this \c[13]SALES TAG\c[0].\! You won't be getting any discounts here, but I'm sure it will be useful to you somehow.
+      text: \n<JASH DO TOFU>Por favor pegue este \c[13]CARTÃO DE VENDAS\c[0].\! Você não vai receber nenhum desconto aqui, mas tenho certeza que isso vai ser útil de alguma forma.
 
 message_223:
-      text: \n<LEMON JASH>You do not have enough CLAMS.
+      text: \n<JASH DO LIMÃO>Você não tem CONCHAS o bastante.
 
 message_224:
-      text: \n<LEMON JASH>I am JASH of many talents and master of many trades.
+      text: \n<JASH DO LIMÃO>Eu sou o JASH, mestre de muitos talentos e de trocas.
 
 message_225:
-      text: \n<LEMON JASH>Please wait, Sir or Madam.\! Before you go...<br>I wanted to thank you for being a patron of JASH.
+      text: \n<JASH DO LIMÃO>Por favor espere, Senhor ou Madame.\! Antes de você ir...<br>Eu gostaria de te agradeçer por ser um patorcinador do JASH.
 
 message_226:
-      text: \n<LEMON JASH>Please take this \c[13]SALES TAG\c[0].\! You won't be getting any discounts here, but I'm sure it will be useful to you somehow.
+      text: \n<JASH DO LIMÃO>Por favor pegue este \c[13]CARTÃO DE VENDAS\c[0].\! Você não vai receber nenhum desconto aqui, mas tenho certeza que isso vai ser útil de alguma forma.
 
 message_233:
-      text: \n<DEALER JASH>You do not have enough CLAMS.
+      text: \n<JASH NEGOCIANTE>Você não tem CONCHAS o bastante.
 
 message_234:
-      text: \n<DEALER JASH>I am JASH of many talents and master of many trades.
+      text: \n<JASH NEGOCIANTE>Eu sou o JASH, mestre de muitos talentos e de trocas.
 
 message_235:
-      text: \n<DEALER JASH>Please wait, Sir or Madam.\! Before you go...<br>I wanted to thank you for being a patron of JASH.
+      text: \n<JASH NEGOCIANTE>Por favor espere, Senhor ou Madame.\! Antes de você ir...<br>Eu gostaria de te agradeçer por ser um patorcinador do JASH.
 
 message_236:
-      text: \n<DEALER JASH>Please take this \c[13]SALES TAG\c[0].\! You won't be getting any discounts here, but I'm sure it will be useful to you somehow.
+      text: \n<JASH NEGOCIANTE>Por favor pegue este \c[13]CARTÃO DE VENDAS\c[0].\! Você não vai receber nenhum desconto aqui, mas tenho certeza que isso vai ser útil de alguma forma.
 
 message_243:
-      text: \n<PARTY JASH>You do not have enough CLAMS.
+      text: \n<JASH DA FESTA>Você não tem CONCHAS o bastante.
 
 message_244:
-      text: \n<PARTY JASH>I am JASH of many talents and master of many trades.
+      text: \n<JASH DA FESTA>Eu sou o JASH, mestre de muitos talentos e de trocas.
 
 message_245:
-      text: \n<PARTY JASH>Please wait, Sir or Madam.\! Before you go...<br>I wanted to thank you for being a patron of JASH.
+      text: \n<JASH DA FESTA>Por favor espere, Senhor ou Madame.\! Antes de você ir...<br>Eu gostaria de te agradeçer por ser um patorcinador do JASH.
 
 message_246:
-      text: \n<PARTY JASH>Please take this \c[13]SALES TAG\c[0].\! You won't be getting any discounts here, but I'm sure it will be useful to you somehow.
+      text: \n<JASH DA FESTA>Por favor pegue este \c[13]CARTÃO DE VENDAS\c[0].\! Você não vai receber nenhum desconto aqui, mas tenho certeza que isso vai ser útil de alguma forma.
 
 message_247:
-      text: \n<SMUGGLER JASH>Please wait, Sir or Madam.\! Before you go...<br>I wanted to thank you for being a patron of JASH.
+      text: \n<JASH CONTRABANDISTA>Por favor espere, Senhor ou Madame.\! Antes de você ir...<br>Eu gostaria de te agradeçer por ser um patorcinador do JASH.
 
 message_248:
-      text: \n<SMUGGLER JASH>Please take this \c[13]SALES TAG\c[0].\! You won't be getting any discounts here, but I'm sure it will be useful to you somehow.
+      text: \n<JASH CONTRABANDISTA>Por favor pegue este \c[13]CARTÃO DE VENDAS\c[0].\! Você não vai receber nenhum desconto aqui, mas tenho certeza que isso vai ser útil de alguma forma.
 
 
 # =========================================================================================
@@ -212,7 +212,7 @@ message_200:
 #SELECTING POOL NOODLE
 
 message_70:
-      text: \maiEi, crianças! Vocês teriam interesse em um \c[13]CANUDO DE PISCINA\c[0]?\!<br>Pode parecer simples, mas pode virar uma arma poderosa!
+      text: \maiEi, crianças! Vocês teriam interesse em um \c[13]MACARRÃO DE PISCINA\c[0]?\!<br>Pode parecer simples, mas pode virar uma arma poderosa!
 
 message_71:
       text: \maiAté mesmo sabendo disso...\! Vou te dar por um preço bem barato, 5000 CONCHAS bem barato mesmo!
@@ -230,7 +230,7 @@ message_74:
 
 #if no
 message_75:
-      text: \maiOh, Entendo..\! Mas esse \c[13]CANUDO DE PISCINA\c[0] é tão raro e valioso...\!<br>Você deve considerar!\! E se eu deixasse tudo mais baratinho para você pelo preço de 2,500 CLAMS
+      text: \maiOh, Entendo..\! Mas esse \c[13]MACARRÃO DE PISCINA\c[0] é tão raro e valioso...\!<br>Você deve considerar!\! E se eu deixasse tudo mais baratinho para você pelo preço de 2,500 CLAMS
 
 message_76:
       text: \maiQue tal?\! Você quer?\$
@@ -243,34 +243,34 @@ message_78:
       text: \maiGrr... Hmph...
 
 message_79:
-      text: \maiTá bem, tá bem... \!I'm really cutting corners here, but here it goes...
+      text: \maiTá bem, tá bem... \!Eu tô de bom humor, então lá vai...
 
 message_80:
-      text: \maiGet ready for the deal of a lifetime!<br>1000 CLAMS, take it or leave it!\$
+      text: \maiSe prepare para o melhor negócio de toda sua vida!<br>1000 CONCHAS, pegue ou vá embora!\$
 
 #No
 message_81:
-      text: \maiYou...\! You are one tough cookie...
+      text: \maiVocê...\! Você é bem resistente...
 
 message_82:
-      text: \maiHuff...\! How about...\! 500 CLAMS...\$
+      text: \maiHuff...\! Que tal...\! 500 CONCHAS...\$
 
 #[no]
 message_83:
-      text: \mai250 CLAMS?\$
+      text: \mai250 CONCHAS?\$
 
 #[no]
 message_84:
-      text: \maiYou know what...\! \Com[2]Fine!\!<br>I don't even know why I'm trying so hard...
+      text: \maiSabe...\! \Com[2]Tá bom!\!<br>Eu nem sei porque eu tô tentando tanto...
 
 message_85:
-      text: \maiIf you won't buy the \c[13]POOL NOODLE\c[0], then just take it!
+      text: \maiSe você não vai comprar o \c[13]MACARRÃO DE PISCINA\c[0], então só leva!
 
 message_87:
-      text: \maiJust get rid of this thing...\! I never want to see it again!
+      text: \maiSe livra dessa coisa...\! Eu não quero vê-la de novo!
 
 message_88:
-      text: You got a \c[13]POOL NOODLE\c[0].
+      text: Você conseguiu um \c[13]MACARRÃO DE PISCINA\c[0].
 
 #Shop closes
 
@@ -288,135 +288,135 @@ message_88:
 
 
 # =========================================================================================
-# BOTTLED WATER SELLERS (DEEP REEF)
+# ÁGUA ENGARRAFADA SELLERS (DEEP REEF)
 # =========================================================================================
 
 message_95:
-      text: \n<GOOMAN>Hey, you!\! Yes, you there with the stoic expression!
+      text: \n<HOMEM GOSMA>Ei, você!\! Sim, você aí com a expressão estoica!
 
 message_96:
-      text: \n<GOOMAN>Hey, you!\! Yes, you there with the pretty bow!
+      text: \n<HOMEM GOSMA>Ei, você!\! Sim, você aí com o laçinho bonito!
 
 message_97:
-      text: \n<GOOMAN>Hey, you!\! Yes, you there with the short stature!
+      text: \n<HOMEM GOSMA>Ei, você!\! Sim, você aí de altura baixa!
 
 message_98:
-      text: \n<GOOMAN>Hey, you!\! Yes, you there with the beautiful face!
+      text: \n<HOMEM GOSMA>Ei, você!\! Sim, você aí com o rosto lindo!
 
 message_99:
-      text: \n<GOOMAN>Could I interest you in an honest-to-goodness, completely organic \c[3]BOTTLED WATER\c[0]?\! We're having a liquidation sale!
+      text: \n<HOMEM GOSMA>Poderia eu te interessar em uma honesta de verdade, completamente orgânica \c[3]ÁGUA ENGARRAFADA\c[0]?\! Nós estamos tendo uma liquidação!
 
 #should be a variable reference to change depending on the amount
 message_100:
-      text: \n<GOOMAN>This \c[3]BOTTLED WATER\c[0] could be yours for the low, low price of \v[635] CLAMS!\! Well, do you want it?\$
+      text: \n<HOMEM GOSMA>Esta \c[3]ÁGUA ENGARRAFADA\c[0] pode ser sua pelo baixo, baixo preço de \v[635] CONCHAS!\! Bem, você quer?\$
 
 #1st/2nd/3rd price, variable reference
 message_101:
-      text: \n<GOOMAN>This \c[3]BOTTLED WATER\c[0] could be yours for the low, low price of \v[635] CLAMS!\! Well, do you want it?\$
+      text: \n<HOMEM GOSMA>Esta \c[3]ÁGUA ENGARRAFADA\c[0] pode ser sua pelo baixo, baixo preço de \v[635] CONCHAS!\! Bem, você quer?\$
 
 #Yes
 message_102:
-      text: \n<GOOMAN>\sinv[1]Wonderful!\!\sinv[0] Take this \c[3]BOTTLED WATER\c[0]. It's yours now!
+      text: \n<HOMEM GOSMA>\sinv[1]Maravilhoso!\!\sinv[0] Pegue esta \c[3]ÁGUA ENGARRAFADA\c[0]. Ela é sua agora!
 
 #no
 message_103:
-      text: \n<GOOMAN>Okay...\! but you're going to regret this once-in-a-lifetime offer!
+      text: \n<HOMEM GOSMA>Ok...\! mas você vai se arrepender desta oferta pelo resto da sua vida!
 
 #not enough clams
 message_104:
-      text: \n<GOOMAN>You still lookin' for a \c[3]BOTTLED WATER\c[0]?\!<br>I may still have one in stock...
+      text: \n<HOMEM GOSMA>Você ainda está procurando uma \c[3]ÁGUA ENGARRAFADA\c[0]?\!<br>Talvez eu ainda possa ter uma em estoque...
 
 message_105:
-      text: \n<GOOMAN>You don't have enough CLAMS...
+      text: \n<HOMEM GOSMA>Você não tem CONCHAS o bastante...
 
 message_106:
-      text: \n<GOOMAN>Please enjoy your \c[3]BOTTLED WATER\c[0]!
+      text: \n<HOMEM GOSMA>Por favor aproveite sua \c[3]ÁGUA ENGARRAFADA\c[0]!
 
 message_107:
-      text: \n<GOOMAN>You don't have enough CLAMS...
+      text: \n<HOMEM GOSMA>Você não tem CONCHAS o bastante...
 
 message_108:
-      text: \n<GOOMAN>Oh... So \sinv[1]now\sinv[0] you wanna buy a \c[3]BOTTLED WATER\c[0]?
+      text: \n<HOMEM GOSMA>Oh... Então \sinv[1]agora\sinv[0] você quer comprar uma \c[3]ÁGUA ENGARRAFADA\c[0]?
 
 message_109:
-      text: \n<GOOMAN>Unfortunately, the price has gone up since we last spoke... It's \v[635] now, but I hope you'll still accept my offer! Heh heh...\$
+      text: \n<HOMEM GOSMA>Infelizmente, o preço subiu desde a última vez que nos vimos... É \v[635] agora, mas eu espero que você aceite a minha oferta! Heh heh...\$
 
 message_94:
-      text: You got a \c[3]BOTTLED WATER\c[0].
+      text: Você conseguiu uma \c[3]ÁGUA ENGARRAFADA\c[0].
 
 # =========================================================================================
-# Sno-cone JASH
+# JASH DA RASPADINHA
 # =========================================================================================
 
 #Intro  start at 110
 message_110:
-      text: \n<SNO-CONE JASH>I am JASH of many talents and master of many trades.<br>\!How can I help you today?
+      text: \n<JASH DA RASPADINHA>Eu sou o JASH, mestre de muitos talentos e de trocas.<br>\!Como posso te ajudar hoje?
 
 #Purchase
 message_111:
-      text: \n<SNO-CONE JASH>Thank you for your patronage.
+      text: \n<JASH DA RASPADINHA>Obrigado pelo seu patrocínio.
 
 #Decline
 message_112:
-      text: \n<SNO-CONE JASH>I respect your decision.
+      text: \n<JASH DA RASPADINHA>Eu respeito sua decisão.
 
 #Not enough money
 message_113:
-      text: \n<SNO-CONE JASH>It seems that you don't have enough CLAMS...
+      text: \n<JASH DA RASPADINHA>Parece que você não tem CONCHAS o suficiente...
 #item buying prompt
 message_114:
-      text: \n<SNO-CONE JASH>Sweet! The total will be <SHOPTOTAL>\G.
+      text: \n<JASH DA RASPADINHA>Certo! O total vai ser <SHOPTOTAL>\G.
 #max item message
 message_115:
-      text: \n<SNO-CONE JASH>You don't have the space for this...
+      text: \n<JASH DA RASPADINHA>Você não tem espaço para isso...
 #on item list buy ok
 message_116:
-      text: How many would you like?\^
+      text: Quantos você gostaria?\^
 #item selling ok
 message_117:
-      text: How many will you sell?\^
+      text: Quantos você quer vender?\^
 #item selling prompt
 message_118:
-      text: \n<SNO-CONE JASH>Superb.\! Your order will come out to this much!
+      text: \n<JASH DA RASPADINHA>Ótimo.\! Sua compra vai sair por esse valor!
 #item buying cancel
 message_119:
-      text: \n<SNO-CONE JASH>I respect your decision.
+      text: \n<JASH DA RASPADINHA>Eu respeito sua decisão.
 
 # =========================================================================================
-# TOFU JASH
+# JASH DO TOFU
 # =========================================================================================
 
 #Intro   start at 120
 message_120:
-      text: \n<TOFU JASH>Hello Sir or Madam. Would you be interested in purchasing some fine \c[3]TOFU\c[0]?\! It will cost you exactly 1 CLAM.\$
+      text: \n<JASH DO TOFU>Olá Senhor ou Madame. Vocês estariam interessados em comprar um bom \c[3]TOFU\c[0]?\! Vai-lhe custar exatamente 1 CONCHA.\$
 
 #Purchase
 message_121:
-      text: \n<TOFU JASH>Thank you for your patronage.
+      text: \n<JASH DO TOFU>Obrigado pelo seu patrocínio.
 #Decline
 message_122:
-      text: \n<TOFU JASH>I respect your decision.
+      text: \n<JASH DO TOFU>Eu respeito sua decisão.
 #Not enough money
 message_123:
-      text: \n<TOFU JASH>You don't even have 1 measly CLAM?\! I feel sorry for you.\! Here's a \c[3]TOFU\c[0] anyway.
+      text: \n<JASH DO TOFU>Você não tem nem 1 mísera CONCHA?\! Eu sinto pena de você.\! Aqui está um \c[3]TOFU\c[0] de qualquer forma.
 #item buying prompt
 message_124:
-      text: \n<TOFU JASH>Sweet! The total will be <SHOPTOTAL>\G.
+      text: \n<JASH DO TOFU>Certo! O total vai ser <SHOPTOTAL>\G.
 #max item message
 message_125:
-      text: \n<TOFU JASH>You don't have the space for that!
+      text: \n<JASH DO TOFU>Você não tem espaço para isso!
 #on item list buy ok
 message_126:
-      text: How many would you like?\^
+      text: Quantos você gostaria?\^
 #item selling ok
 message_127:
-      text: How many will you sell?\^
+      text: Quantos você quer vender?\^
 #item selling prompt
 message_128:
-      text: \n<TOFU JASH>Superb.\! Your order will come out to this much!
+      text: \n<JASH DO TOFU>Ótimo.\! Sua compra vai sair por esse valor!
 #item buying cancel
 message_129:
-      text: \n<TOFU JASH>I respect your decision.
+      text: \n<JASH DO TOFU>Eu respeito sua decisão.
 
 
 # =========================================================================================
@@ -425,113 +425,113 @@ message_129:
 
 #intro   start at 130
 message_130:
-      text: \n<LEMON JASH>Hello Sir or Madam.\! It looks like we have run out of \c[4]TRAIN PASSES\c[0], but we still have some \c[3]LEMONADE\c[0] left.\! Did you wanna buy \c[3]LEMONADE\c[0]?
+      text: \n<JASH DO LIMÃO>Olá Senhor ou Madame.\! Parece que estamos sem \c[4]PASSAGENS DE TREM\c[0], mas ainda temos \c[3]LIMONADA\c[0] restando.\! Você quer comprar \c[3]LIMONADA\c[0]?
 
 #purchase
 message_131:
-      text: \n<LEMON JASH>Thank you for your patronage.
+      text: \n<JASH DO LIMÃO>Obrigado pelo seu patrocínio.
 
 #decline
 message_132:
-      text: \n<LEMON JASH>I respect your decision.
+      text: \n<JASH DO LIMÃO>Eu respeito sua decisão.
 
 #not enough CLAMS
 message_133:
-      text: \n<LEMON JASH>It seems that you don't have enough CLAMS...
+      text: \n<JASH DO LIMÃO>Parece que você não tem CONCHAS o suficiente...
 #item buying prompt
 message_134:
-      text: \n<LEMON JASH>Sweet! The total will be <SHOPTOTAL>\G.
+      text: \n<JASH DO LIMÃO>Certo! O total vai ser <SHOPTOTAL>\G.
 #max item message
 message_135:
-      text: \n<LEMON JASH>You don't have the space for that!
+      text: \n<JASH DO LIMÃO>Você não tem espaço para isso!
 #on item list buy ok
 message_136:
-      text: How many would you like?\^
+      text: Quantos você gostaria?\^
 #item selling ok
 message_137:
-      text: How many will you sell?\^
+      text: Quantos você quer vender?\^
 #item selling prompt
 message_138:
-      text: \n<LEMON JASH>Superb.\! Your order will come out to this much!
+      text: \n<JASH DO LIMÃO>Ótimo.\! Sua compra vai sair por esse valor!
 #item buying cancel
 message_139:
-      text: \n<LEMON JASH>I respect your decision.
+      text: \n<JASH DO LIMÃO>Eu respeito sua decisão.
 
 
 # =========================================================================================
-# PARTY JASH
+# JASH DA FESTA
 # =========================================================================================
 
 #Intro    start at 140
 message_140:
-      text: \n<PARTY JASH>I am JASH of many talents and master of many trades.<br>\!How can I help you today?
+      text: \n<JASH DA FESTA>Eu sou o JASH, mestre de muitos talentos e de trocas.<br>\!Como posso te ajudar hoje?
 
 #Purchase
 message_141:
-      text: \n<PARTY JASH>Thank you for your patronage.
+      text: \n<JASH DA FESTA>Obrigado pelo seu patrocínio.
 
 #decline
 message_142:
-      text: \n<PARTY JASH>Party pooper...
+      text: \n<JASH DA FESTA>Estraga prazeres...
 
 #Not enough money
 message_143:
-      text: \n<PARTY JASH>It seems that you don't have enough CLAMS...
+      text: \n<JASH DA FESTA>Parece que você não tem CONCHAS o suficiente...
 #item buying prompt
 message_144:
-      text: \n<PARTY JASH>Sweet! The total will be <SHOPTOTAL>\G.
+      text: \n<JASH DA FESTA>Certo! O total vai ser <SHOPTOTAL>\G.
 #max item message
 message_145:
-      text: \n<PARTY JASH>You don't have the space for that!
+      text: \n<JASH DA FESTA>Você não tem espaço para isso!
 #on item list buy ok
 message_146:
-      text: How many would you like?\^
+      text: Quantos você gostaria?\^
 #item selling ok
 message_147:
-      text: How many will you sell?\^
+      text: Quantos você quer vender?\^
 #item selling prompt
 message_148:
-      text: \n<PARTY JASH>Superb.\! Your order will come out to this much!
+      text: \n<JASH DA FESTA>Ótimo.\! Sua compra vai sair por esse valor!
 #item buying cancel
 message_149:
-      text: \n<PARTY JASH>I respect your decision.
+      text: \n<JASH DA FESTA>Eu respeito sua decisão.
 # =========================================================================================
-# DEALER JASH
+# JASH NEGOCIANTE
 # =========================================================================================
 
 #Intro    start at 170
 message_170:
-      text: \n<DEALER JASH>I am JASH of many talents and master of many trades.<br>\!How can I help you today?
+      text: \n<JASH NEGOCIANTE>Eu sou o JASH, mestre de muitos talentos e de trocas.<br>\!Como posso te ajudar hoje?
 
 #Purchase
 message_171:
-      text: \n<DEALER JASH>Thank you for your patronage.
+      text: \n<JASH NEGOCIANTE>Obrigado pelo seu patrocínio.
 
 #decline
 message_172:
-      text: \n<DEALER JASH>You would turn down a good deal like this?\! Shame...
+      text: \n<JASH NEGOCIANTE>Você vai recusar um bom negócio como esse?\! Que pena...
 
 #Not enough money
 message_173:
-      text: \n<DEALER JASH>It seems that you don't have enough CLAMS...
+      text: \n<JASH NEGOCIANTE>Parece que você não tem CONCHAS o suficiente...
 #item buying prompt
 message_174:
-      text: \n<DEALER JASH>Superb. The total will be <SHOPTOTAL>\G.
+      text: \n<JASH NEGOCIANTE>Ótimo. O total vai ser <SHOPTOTAL>\G.
 #max item message
 message_175:
-      text: \n<DEALER JASH>You don't have the space for this...
+      text: \n<JASH NEGOCIANTE>Você não tem espaço para isso...
 #on item list buy ok
 message_176:
-      text: How many would you like?\^
+      text: Quantos você gostaria?\^
 #item selling ok
 message_177:
-      text: How many will you sell?\^
+      text: Quantos você quer vender?\^
 #item selling prompt
 message_178:
-      text: \n<DEALER JASH>Superb.\! Your order will come out to this much!
+      text: \n<JASH NEGOCIANTE>Ótimo.\! Sua compra vai sair por esse valor!
 #item buying cancel
 message_179:
-      text: \n<DEALER JASH>I respect your decision.
+      text: \n<JASH NEGOCIANTE>Eu respeito sua decisão.
 
 # =========================================================================================
 # MUSTARD SUB
@@ -539,38 +539,38 @@ message_179:
 
 #Intro       start at 150
 message_150:
-      text: \n<ELEANOR>Welcome to the \c[11]MUSTARD SUB\c[0]!\! May I take your order?
+      text: \n<ELEANOR>Bem-vindo ao \c[11]SUB DE MOSTARDA\c[0]!\! Posso retirar o seu pedido?
 
 #Leave Menu without Ordering
 message_151:
-      text: \n<ELEANOR>Nothing this time?\!<br>No problem! Please come again soon!
+      text: \n<ELEANOR>Nada dessa vez?\!<br>Sem problema! Por favor volte novamente em breve!
 
 #Purchase
 message_152:
-      text: \n<ELEANOR>That's our specialty!\! The total will be <SHOPTOTAL>\G.
+      text: \n<ELEANOR>Essa é a nossa especialidade!\! O total vai ser <SHOPTOTAL>\G.
 
 #MERMAID walks through the door and then comes back.
 
 message_193:
-      text: \n<ELEANOR>Thank you and have a nice day!
+      text: \n<ELEANOR>Obrigada e tenha um bom dia!
 #item buying prompt
 message_194:
-      text: \n<ELEANOR>That's our specialty!\! How's this?
+      text: \n<ELEANOR>Essa é a nossa especialidade!\! O que acha?
 #max item message
 message_195:
-      text: \n<ELEANOR>You don't have the space for this...
+      text: \n<ELEANOR>Você não tem espaço para isso...
 #on item list buy ok
 message_196:
-      text: How many would you like?\^
+      text: Quantos você gostaria?\^
 #item selling ok
 message_197:
-      text: How many will you sell?\^
+      text: Quantos você quer vender?\^
 #item selling prompt
 message_198:
-      text: \n<ELEANOR>You got it, sugar!\! Your order will come out to this much!
+      text: \n<ELEANOR>Você que sabe, docinho!\! Seu pedido vai sair por esse valor!
 #item buying cancel
 message_199:
-      text: \n<ELEANOR>Sorry...\! You don't have enough CLAMS...
+      text: \n<ELEANOR>Me desculpa...\! Você não tem CONCHAS o suficiente...
 
 # =========================================================================================
 # Vending Machines
@@ -578,20 +578,20 @@ message_199:
 
 #Intro     start at 160
 message_160:
-      text: A vending machine.\!<br>Buy a \c[3]TASTY SODA\c[0] for 100 CLAMS?\$
+      text: Uma máquina de vendas.\!<br>Comprar um \c[3]REFRI GOSTOSO\c[0] por 100 CONCHAS?\$
 
 message_162:
-      text: You don't have enough CLAMS.
+      text: Você não tem CONCHAS o suficiente.
 
 message_164:
-      text: You don't have enough room in your POCKET.
+      text: Você não tem mais espaço no seu BOLSO.
 
 message_163:
-      text: A cold \c[3]TASTY SODA\c[0] popped out from the vending machine!
+      text: Um \c[3]REFRI GOSTOSO\c[0] gelado saiu da máquina de vendas!
 
 #Examine when Sold out
 message_161:
-      text: A vending machine.\!<br>Everything is sold out.
+      text: Uma máquina de vendas.\!<br>Tudo está esgotado.
 
 # =========================================================================================
 # Lemonade JASH
@@ -599,37 +599,37 @@ message_161:
 
 #intro   start at 130
 message_250:
-      text: \n<SMUGGLER JASH>I got sent to the dungeon for smuggling, but old habits die hard.
+      text: \n<JASH CONTRABANDISTA>Eu fui enviado à masmorra por contrabandear, mas velhos hábitos nunca morrem.
 
 #purchase
 message_251:
-      text: \n<SMUGGLER JASH>A wise choice!
+      text: \n<JASH CONTRABANDISTA>Uma escolha sábia!
 
 #decline
 message_252:
-      text: \n<SMUGGLER JASH>I respect your decision.
+      text: \n<JASH CONTRABANDISTA>Eu respeito sua decisão.
 
 #not enough CLAMS
 message_253:
-      text: \n<SMUGGLER JASH>It seems that you don't have enough CLAMS...
+      text: \n<JASH CONTRABANDISTA>Parece que você não tem CONCHAS o suficiente...
 #item buying prompt
 message_254:
-      text: \n<SMUGGLER JASH>Sweet! The total will be <SHOPTOTAL>\G.
+      text: \n<JASH CONTRABANDISTA>Certo! O total vai ser <SHOPTOTAL>\G.
 #max item message
 message_255:
-      text: \n<SMUGGLER JASH>You don't have the space for that!
+      text: \n<JASH CONTRABANDISTA>Você não tem espaço para isso!
 #on item list buy ok
 message_256:
-      text: How many would you like?\^
+      text: Quantos você gostaria?\^
 #item selling ok
 message_257:
-      text: How many will you sell?\^
+      text: Quantos você quer vender?\^
 #item selling prompt
 message_258:
-      text: \n<SMUGGLER JASH>Superb.\! Your order will come out to this much!
+      text: \n<JASH CONTRABANDISTA>Ótimo.\! Sua compra vai sair por esse valor!
 #item buying cancel
 message_259:
-      text: \n<SMUGGLER JASH>I respect your decision.
+      text: \n<JASH CONTRABANDISTA>Eu respeito sua decisão.
 
 #MAILBOX BEFORE INTRO
 message_300:
@@ -640,28 +640,28 @@ message_300:
 
 
 
-# GOOMANS
+# HOMEM GOSMAS
 
 message_350:
-      text: \n<GOOMAN>You look like you want some fresh \c[3]MILK\c[0], fresh from \c[11]SEACOW FARMS\c[0]!\! It's the freshest fresh \c[3]MILK\c[0] and will surely be refreshing for only 500 CLAMS!\$
+      text: \n<HOMEM GOSMA>Parece que você quer um pouco de \c[3]LEITE\c[0] fresco, fresquinho dos \c[11]CURRAIS DE BOI-PEIXES\c[0]!\! É o \c[3]LEITE\c[0] mais fresco fresquinho e vai ser bem refrescante por apenas 500 CONCHAS!\$
 
 message_351:
-      text: \n<GOOMAN>It's the freshest!
+      text: \n<HOMEM GOSMA>É o mais fresco!
 
 message_352:
-      text: \n<GOOMAN>You wanna pose at this very unique and handcrafted cardboard cutout?\! It'll only cost you 100 CLAMS!\$
+      text: \n<HOMEM GOSMA>Você quer posar neste recorte de papelão único feito a mão?\! Só vai te custar 100 CONCHAS!\$
 
 message_353:
-      text: \n<GOOMAN>Awesome, thanks.\! It's right over there if you want to use it.
+      text: \n<HOMEM GOSMA>Incrível, obrigado.\! Tá logo ali se você quiser usar.
 
 message_354:
-      text: \n<GOOMAN>I have here a very, very unique \c[3]SODA\c[0] made from the finest of \c[3]BUTT PEACHES\c[0].\! I'm talking about the world-renown \c[3]BUTT PEACH SODA\c[0], yours now for only 600 CLAMS!\$
+      text: \n<HOMEM GOSMA>Eu tenho um \c[3]REFRI\c[0] muito, muito único feitos dos melhores \c[3]PÊSSEGOS BUNDUDOS\c[0].\! Estou falado do refri conhecido mundialmente, o \c[3]REFRI BUMBUM-PÊSSEGO\c[0], agora é seu por 600 CONCHAS!\$
 
 message_355:
-      text: \n<GOOMAN>You'll love the taste.\! It's the butts! And I mean that in a good way.
+      text: \n<HOMEM GOSMA>Você vai amar o sabor.\! Você acha que tem mais gosto de bunda ou de pêssego?
 
 message_356:
-      text: \n<GOOMAN>You look like you love danger.\! I got some good quality \c[5]DYNAMITE\c[0] just waiting to be used...\! for the low price of 1500 CLAMS.\! Interested?\$
+      text: \n<HOMEM GOSMA>Parece que você ama o perigo.\! Eu tenho umas \c[5]DINAMITES\c[0] de qualidade só esperando para serem usadas...\! Pelo preço baixo de 1500 CONCHAS.\! Interessado?\$
 
 message_357:
-      text: \n<GOOMAN>Come back for more anytime you wanna start blasting!
+      text: \n<HOMEM GOSMA>Volte a qualquer hora que você quiser começar a explodir!
