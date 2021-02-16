@@ -1,0 +1,58 @@
+
+# =========================================================================================
+# Slimegirls: Marina's Body
+# ========================================================================================
+
+#Talk to Marina:
+
+message_0:
+      text: \n<MARINA>\Com[2]Cacetadas!\!<br>Eu sabia que tinha caroço nesse angu, não devia ter confiado na SWEETHEART\!<br>Como vou fazer meus testes desse jeito!?
+
+message_1:
+      text: \n<MARINA>Ai...\! Que seja...
+
+message_2:
+      text: \n<MARINA>Ao menos a SWEETHEART está ganhando o que ela merece...\! \quake[1]Kikiki~\quake[0]
+
+message_3:
+      text: \n<MARINA>Oh, Ei! Eu lembro de vocês!\! Você ainda está irritado com aquilo de desmembramento?\! Ehh...\! Eu não levaria isso pro pessoal.<br>Eu só disse aquilo no calor do momento.
+
+message_4:
+      text: \n<MARINA>Eu preciso urgentemente de uma carne de qualidade.<br>\!Uma \c[4]CARNE DE RATO\c[0] seria perfeita!
+
+message_5:
+      text: \n<MARINA>Talvez vocês consigam alguma caçando esses RATOS DE LABORATÓRIO zanzando por aí...\! Vocês conseguem me fazer esse favor, né?
+
+#Talk to Marina with Rat meat: Cutscene: Marinas Body forms
+
+message_6:
+      text: \n<MARINA>\Com[2]Catapimbas! Vocês realmente me trouxeram \c[4]CARNE DE RATO\c[0]?\!<br>Vocês crianças não dão nem pro cheiro!\! Eu até pensei em considerar deixar vocês vivos!
+
+message_7:
+      text: \n<MARINA>Com tudo isso, eu finalmente vou poder ter meu corpo de volta! \quake[1]Kikiki~\quake[0]
+
+#FADE IN FADE OUT WITH SFX
+
+message_8:
+      text: \n<MARINA>\sinv[1]Ahhhhhhhh...\! Que sensação gostosa...\!<br>Realmente me sinto melhor tendo meus braços e pernas novamente~\sinv[1]
+
+message_9:
+      text: \n<MARINA>Hã?\! O que vocês esquizitos estão olhando?\!<br>Oh, já sei.\! Eu acho que deveria dar algo especial em troca do seu favor, certo?\! Tudo bem então...
+
+#Marina burps
+
+message_10:
+      text: \n<MARINA>Hmm...\! Já sei, aqui. Pega isso aqui. \quake[1]Kikiki~\quake[0]
+
+message_11:
+      text: Você ganhou um \c[13]DEDO\c[0]!
+
+message_12:
+      text: \n<MARINA>Agora estamos quites!
+
+#Quest complete
+
+#After-Quest Dialogue:
+
+message_13:
+      text: \n<MARINA>Finalmente, Eu posso voltar pros meus experimentos!\!<br>Mas, cadê meu serrote~? \quake[1]Kikiki~\quake[0]
