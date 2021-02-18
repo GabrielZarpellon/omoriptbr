@@ -8,13 +8,13 @@
 message_1:
       faceset: MainCharacters_DreamWorld
       faceindex: 19
-      text: \kelLook, OMORI! I bet you could cut down this root!\!<br>Go on, give it a try!
+      text: \kelOlhe, OMORI! Aposto que você consegue cortar essa raiz!\!<br>Vai lá, tenta!
 
 #After cutting:
 message_2:
       faceset: MainCharacters_DreamWorld
       faceindex: 18
-      text: \kelI knew you could do it!<br>Show that root who's boss!
+      text: \kelEu sabia que você conseguiria!<br>Mostre pra essas raizes quem é que manda!
 
 #------------------------------------------------------------------------------------------
 
@@ -277,7 +277,7 @@ message_71:
 message_72:
       faceset: MainCharacters_DreamWorld
       faceindex: 16
-      text: \kelJá sei!\! Aposto que meu pet drito vai saber a onde ele tá!
+      text: \kelJá sei!\! Aposto que meu pet drito vai saber aonde ele tá!
 
 message_73:
       faceset: MainCharacters_DreamWorld
@@ -296,7 +296,7 @@ message_74:
 message_75:
       faceset: MainCharacters_DreamWorld
       faceindex: 26
-      text: \kel...\! Você tentou o seu melhor, amigão.
+      text: \kel...\! Você deu o seu melhor, amigão.
 
 #KEL equipped PET ROCK.
 
@@ -310,7 +310,7 @@ message_76:
 message_77:
       faceset: MainCharacters_DreamWorld
       faceindex: 30
-      text: \kelEi! Por que você...\! O \c[13]HECTOR\c[0] só tava tentando ajudar!
+      text: \kelEi! Por que você...\! O \c[13]HECTOR\c[0] só estava tentando ajudar!
 
 message_78:
       faceset: MainCharacters_DreamWorld
