@@ -1247,7 +1247,7 @@ message_13:
     text: \n<BRIAN O DISTINTO>Eu definitivamente deveria estar pensando na SWEETHEART!<br>Talvez você seja mais BROTOPEIRA do que eu!
 
 message_14:
-    text: \n<BRIAN O DISTINTO>Me perdoem por ter duvidado de vocês.\! Acho que existem todos os tipos de BROTOPEIRAS por aí!<br><br>Agora...\! se aproximem...\!<br>\}A senha que me foi confiada é...\! "GELÉIA".\!<br>Você ouviu?\! Prometa-me que não vai contar pra ninguém, ok?
+    text: \n<BRIAN O DISTINTO>Me perdoem por ter duvidado de vocês.\! Acho que existem todos os tipos de BROTOPEIRAS por aí!<br><br>Agora...\! se aproximem...\!<br>\}A senha que me foi confiada é...\! "GELEIA".\!<br>Você ouviu?\! Prometa-me que não vai contar pra ninguém, ok?
 
 #PUZZLE MOLE 3 (Bottom Left)
 
@@ -1372,7 +1372,7 @@ message_43:
     text: DOCE
 
 message_44:
-    text: GELÉIA
+    text: GELEIA
 
 message_45:
     text: RECHEADA
