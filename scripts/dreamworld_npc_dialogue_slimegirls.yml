@@ -1,0 +1,379 @@
+# =========================================================================================
+# Dreamworld NPC dialogue
+# =========================================================================================
+
+# ==============SLIME GIRLS LAIR (HUMPHREY)========================
+
+
+                        #====NIGHT 3====
+
+#CLEANING HUMPHREY
+#Location: Slime Girls Lair / Humphrey
+message_0:
+      text: \humVarre...\. varre...\. varre...
+
+#FIGHTING 1/2 HUMPHREY
+#Location: Slime Girls Lair / Humphrey
+message_1:
+      text: \humPode vir, eu!
+
+message_2:
+      text: \humNão, você pode vir!
+
+#FLOATING HUMPHREY
+#Location: Slime Girls Lair / Humphrey
+message_3:
+      text: \hum\sinv[1]Weeeeeeeeeeeeeeeeeeeeee!!
+
+#GAMBLER 1 HUMPHREY
+#Location: Slime Girls Lair / Humphrey
+message_4:
+      text: \humEu não vou cair no seu blefe!\! Você não engana eu, eu!
+
+#GAMBLER 2 HUMPHREY
+#Location: Slime Girls Lair / Humphrey
+message_5:
+      text: \humVocê não ganha dessa mão, eu!\! Eu vou apostar tudo!
+
+#GAMER HUMPHREY
+#Location:Slime Girls Lair / Humphrey
+message_6:
+      text: \humFale comigo depois, estou no meio do jogo!
+
+#PAINTING HUMPHREY
+#Location: Slime Girls Lair / Humphrey
+message_7:
+      text: \humWah, sim...\! Minha maior obra-prima...\! Hon, hon!
+
+#READING HUMPHREY
+#Location: Slime Girls Lair / Humphrey
+message_8:
+      text: \humDe acordo com meus cálculos, ler te deixa esperto!
+
+#RUNNING HUMPHREY
+#Location: Slime Girls Lair / Humphrey
+message_9:
+      text: \humHuff...\! Huff...\! Huff...\! Muito trabalho duro vai em manter minha forma física!
+
+#TANNING HUMPHREY
+#Location: Slime Girls Lair / Humphrey
+message_10:
+      text: \humAhhh...\! Essa é a vida...\! Bronzeado de verão, aí vou eu!
+
+#SNALEY
+#Location: Slime Girls Lair / Medusa River 1 (228)
+message_50:
+      text: \n<SNALEY>Que piscina legal!
+
+#WATERFALL HUMPHRIES 1
+message_11:
+      text: \humClaro! Eu amo fazer pontes!
+
+message_12:
+      text: \humOk! Se é isso que todo mundo está fazendo...
+
+message_13:
+      text: \humAwww, cara... Dever de ponte de novo?\!<br>Quando eu vou poder comer algo?
+
+message_22:
+      text: \humVocê diz a cachoeira no sul daqui?\! Ok! Vamos ver quem chega primeiro!
+
+#WATERFALL HUMPHRIES 2
+
+message_16:
+      text: \humUma ponte, você diz?
+
+message_21:
+      text: \humEu já estou lá!
+
+message_14:
+      text: \humVocê quer me usar de piso para sua agenda ambígua?\! Por mim tudo bem!
+
+message_15:
+      text: \humÉ hora da ponte já?\! O tempo realmente voa, huh?
+
+message_17:
+      text: \n<HUMPHREY PONTES, EXPERT DE PONTES>Finalmente, minha hora chegou!
+
+message_18:
+      text: \n<HUMPHREY ELEVADORES, EXPERT DE ELEVADORES>Elevadores são melhores que pontes, mas eu suponho que irei colaborar por enquanto.
+
+message_19:
+      text: \humBom...\! ...\! Tudo bem!
+
+message_20:
+      text: \humUma baleia sábia uma vez disse... "É, tudo bem!"
+
+message_27:
+      text: \humNós HUMPHREY no setor da MEDUSA nos orgulhamos de ser os melhores dos melhores!
+
+message_23:
+      text: \humMEDUSA trata a gente bem e nos alimenta regularmente...\!<br>Não dá pra dizer o mesmo sobre a MARINA ou a MOLLY!
+
+message_24:
+      text: \humTodos os HUMPHREY do setor da MARINA ficam desaparecendo, então ela continua pedindo mais para a MEDUSA...\!<br>Gulp...\! Espero que eu não seja o próximo...
+
+message_25:
+      text: \humDá pra dizer quando MEDUSA está brava por que ela fica andando pra frente e pra trás.\! Ela nunca vai gritar com você, mas ainda sim...\! É bem assustador.
+
+message_26:
+      text: \humCuidado onde anda!\! Alguns dos líquidos derramados não foram feitos para ser tocados por humanos!
+
+message_29:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 2
+      text: \aubHUMPHREY! Pode por favor nos ajudar a fazer uma ponte?
+
+message_30:
+      text: Coisas de ciência.
+
+#==
+
+#spikes DIALOGUE
+
+message_31:
+      faceset: 01_OMORI_BATTLE
+      faceindex: 0
+      text: \n<OMORI>...
+
+message_32:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: \aubCuidado!\! Eu não confio nesse cara nem um pouco...
+
+message_33:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 31
+      text: \kelPhew...\! Eu tinha certeza de que vocês iam me escolher...
+
+message_34:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: \herCuidado onde pisa, ok?<br>Se ficar muito sério, eu te ajudo.
+
+
+#==
+
+#MEDUSA area
+
+message_40:
+      text: \n<HUMPHREY>Eu estou lendo um livro sobre ar condicionado!\!<br>É bem informativo!
+
+message_41:
+      text: \n<HUMPHREY>Eu estou tentando relaxar...\! mas eu não consigo parar de pensar nesse livro de ar condicionado que eu li outro dia...
+
+message_42:
+      text: \n<HUMPHREY>Sabe o que eu adoro?\! Ar condicionado.\!<br>Não é o melhor?
+
+
+#Humphrey PUZZLE HINT Guy
+
+message_45:
+      text: \n<HUMPHREY SÁBIO>\sinv[1]Balém olá, amigos!\!\sinv[0]<br>Você gostaria de uma DICA HUMPHREY por 300 CONCHAS?\$
+
+#HARD PUZZLE HINT
+message_46:
+      text: \n<HUMPHREY SÁBIO>Um HUMPHREY SÁBIO uma vez disse...\!<br>\"Conte seus inimigos...\! Então, a ordem lhe levara á vitória.\"
+
+message_110:
+      text: \n<HUMPHREY SÁBIO>\com[2]O que!? Vocês ainda estão presos nessa?\!<br>Ugh... tá bom.\! Que tal isso?
+
+message_111:
+      text: \n<HUMPHREY SÁBIO>Um HUMPHREY SÁBIO uma vez disse...\! \"Conte seus inimigos para revelar o caminho...\! Então em sua jornada, observe a água caindo.\"
+
+
+#EASY PUZZLE HINT
+
+message_47:
+      text: \n<HUMPHREY SÁBIO>Um HUMPHREY SÁBIO uma vez disse...\!<br>\"Quando o resto falha, tente ler da esquerda para a direita!\"
+
+#MED PUZZLE HINT
+message_48:
+      text: \n<HUMPHREY SÁBIO>Um HUMPHREY SÁBIO uma vez disse...\!<br>\"A parte de trás é mais interessante que a da frente!\"
+
+#NOT ENOUGH CLAMS
+message_49:
+      text: \n<HUMPHREY SÁBIO>Desculpe, não tem o que eu possa fazer!\! Eu não posso dar uma DICA HUMPHREY por abaixo de 300 CONCHAS!
+
+message_51:
+      text: \n<HUMPHREY SÁBIO>\{\{\Com[2]\sinv[1]DEE-LICOSO!!
+
+message_52:
+      text: \n<HUMPHREY SÁBIO>Aqui está sua dica!\! Eu só vou dizer uma vez.
+
+message_53:
+      text: \n<HUMPHREY SÁBIO>Ok... Bem, se cuide!
+
+#WITHOUT PUZZLE ACTIVATION
+message_54:
+      text: \n<HUMPHREY SÁBIO>\sinv[1]Balém olá, amigos!\!\sinv[0] Quebra-cabeças não são o forte de todo mundo.\! Se ficar preso, eu posso te ajudar um pouco...\! ou bastante!
+
+message_56:
+      text: \n<HUMPHREY>Ah... é claro!\! Os cálculos são tão símples quando você bota eles assim...
+
+message_57:
+      text: \n<HUMPHREY>Então se eu multiplicar o resultado...\! Subtrair por infinito...\! Então dividir por zero...\! E carregar o um...\! Isso me levaria a...\!<br>um número imaginário!
+
+message_58:
+      text: \n<HUMPHREY SÁBIO>\sinv[1]Balém olá, amigos!\!\sinv[0] Quebra-cabeças não são o forte de todo mundo, mas isso é bem irrelevante agora.
+
+
+#WATERFALL HUMPHRIES 2
+
+#===
+#MUTANTE-HEART
+
+message_60:
+      text: \n<MUTANTE-HEART>\}O-Owá...
+
+message_61:
+      text: \n<MUTANTE-HEART>\}O-Owá!
+
+message_62:
+      text: MUTANTE-HEART te cutucou de volta.
+
+message_63:
+      text: \n<MUTANTE-HEART>\sinv[1]\}Owá~
+
+message_64:
+      text: MUTANTE-HEART parece feliz!
+
+message_65:
+      text: \n<MUTANTE-HEART>\}O...\! Owá?
+
+message_66:
+      text: O que você gostaria de fazer?
+
+message_67:
+      text: CUTUCAR
+
+message_68:
+      text: CARINHO
+
+message_69:
+      text: LUTAR
+
+message_70:
+      text: NADA
+
+message_71:
+      text: Você cutucou MUTANTE-HEART.
+
+message_72:
+      text: Você fez carinho na MUTANTE-HEART.
+
+message_73:
+      text: Você fez carinho na abominação.
+
+message_74:
+      text: Você cutucou a abominação.
+
+message_100:
+      text: \n<HUMPHREY>Ai ai...\! Escute eles se divertindo lá em cima.\! Esses trabalhadores de meio-período tem o trabalho fácil.
+
+message_101:
+      text: \n<HUMPHREY>MEDUSA e suas irmãs estiveram pesquisando o mundo a séculos.\! Esses livros são frutos de seu trabalho!
+
+message_102:
+      text: \n<HUMPHREY>Não importa quantas vezes eu faça esse experimento, ele nunca sai do jeito certo.\! Acho que é hora de checar o manual...
+
+message_103:
+      text: \n<HUMPHREY>\sinv[1]Zzzzzzzzzzzzzzzzzzzzz...
+
+message_104:
+      text: \n<HUMPHREY>Toda essa gosma está virando um perigo.\! Nós deviamos começar a pensar em contratar aqueles HUMPHREY limpadores do setor da MOLLY.
+
+#MARINA
+#Location: Slime Girls Lair / Humphrey
+#[Main Quest]
+
+#MEDUSA
+#Location: Slime Girls Lair / Humphrey
+#[Main Quest]
+
+#MOLLY
+#Location: Slime Girls Lair / Humphrey
+#[Main Quest]
+
+#MUTANTE-HEART
+#Location: N/A
+
+#PERFECTHEART
+#Location: N/A
+
+#ROBOHEART
+#Location: Slime Girls Lair / Humphrey
+#[Main Quest]
+
+
+                        #====NIGHT 4====
+#CLEANING HUMPHREY
+#Location: Slime Girls Lair / Humphrey
+#Same as NIGHT 3.
+
+#FIGHTING 1/2 HUMPHREY
+#Location: Slime Girls Lair / Humphrey
+#Same as NIGHT 3.
+
+#FLOATING HUMPHREY
+#Location: Slime Girls Lair / Humphrey
+#Same as NIGHT 3.
+
+#GAMBLER 1 HUMPHREY
+#Location: Slime Girls Lair / Humphrey
+#Same as NIGHT 3.
+
+#GAMBLER 2 HUMPHREY
+#Location: Slime Girls Lair / Humphrey
+#Same as NIGHT 3.
+
+#GAMER HUMPHREY
+#Location: Slime Girls Lair / Humphrey
+#Same as NIGHT 3.
+
+#PAINTING HUMPHREY
+#Location: Slime Girls Lair / Humphrey
+#Same as NIGHT 3.
+
+#READING HUMPHREY
+#Location: Slime Girls Lair / Humphrey
+#Same as NIGHT 3.
+
+#RUNNING HUMPHREY
+#Location: Slime Girls Lair / Humphrey
+#Same as NIGHT 3.
+
+#TANNING HUMPHREY
+#Location: Slime Girls Lair / Humphrey
+#Same as NIGHT 3.
+
+#MARINA (Head Only)
+#Location: Slime Girls Lair / Humphrey - Marina's Body Quest
+#Sidequest: Marina
+
+#MEDUSA (Head Only)
+#Location: Slime Girls Lair / Humphrey - Medusa's Body Quest
+#Sidequest: Medusa
+
+#MOLLY (Head Only)
+#Location: Slime Girls Lair / Humphrey - Molly's Body Quest
+#Sidequest: Molly
+
+#MUTANTE-HEART
+#Location: Slime Girls Lair / Humphrey
+
+#PERFECTHEART
+#Location: Slime Girls Lair / Humphrey
+#Dreamworld_extras_slimegirls
+
+#ROBOHEART
+#Location: N/A
+
+
+#--- WATERFALL HUMPHRIES
+
+message_200:
+      text: \n<HUMPHREY>Nossa... Você apareceu enquanto eu estava arrumando esse tubo!
+
+message_201:
+      text: \n<HUMPHREY>Ahh... finalmente! Uma sala sem cachoeira...\! Essa luz branca é perfeita para meu bronzeado de verão!
