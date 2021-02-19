@@ -139,10 +139,10 @@ message_61:
       text: \n<VAN>É, ela com certeza está.
 
 message_62:
-      text: \berEu tava pensando'...\! Já que vocês me ajudaram...\! Eu vou ser generosa e ensinar a vocês o meu \c[1]DOM\c[0] especial!
+      text: \berEu tava pensando...\! Já que vocês me ajudaram...\! Eu vou ser generosa e ensinar à vocês o meu \c[1]DOM\c[0] especial!
 
 message_63:
-      text: \berMas primeiro, Eu tenho uma pergunta pra vocês...\!<br>Quem ai é o mais cabeçudo?
+      text: \berMas primeiro, Eu tenho uma pergunta pra vocês...\!<br>Quem aí é o mais cabeçudo?
 
 message_64:
       faceset: MainCharacters_DreamWorld
@@ -166,7 +166,7 @@ message_68:
       text: \berEntão \n[2], Vou te ensinar uma \c[1]Habilidade\c[0], só entre cabeçudos como nós.
 
 message_69:
-      text: \berÉ minha especialidade... \c[1]CABEÇADA\c[0]! \!<br>É bem simples na verdade. \!Cê só tem que correm em direção à alguém e...
+      text: \berÉ minha especialidade... \c[1]CABEÇADA\c[0]! \!<br>É bem simples na verdade. \!Cê só tem que correr em direção à alguém e...
 
 message_70:
       text: \QUAKE[1]\Com[2]\{BO\{\Com[2]OOO\{OOOO\{\Com[2]OOMMMM!!!\QUAKE[0]\ber
@@ -177,7 +177,7 @@ message_71:
 message_72:
       faceset: MainCharacters_DreamWorld
       faceindex: 8
-      text: \aubIsso parece ser doloroso...\!<br>E ainda vai bagunçar meu cabelo.\!<br>E arruinar com meu arquinho.
+      text: \aubIsso parece ser doloroso...\!<br>E ainda vai bagunçar meu cabelo.\!<br>E arruinar com meu lacinho.
 
 message_73:
       text: \berAh qual é, \n[2]! Viva um pouco!\!<br>Um cabelo bagunçado nunca matou ninguém.\!<br>\n[4] tá vivo e pode provar isso.
@@ -214,7 +214,7 @@ message_80:
       text: \aub\SINV[1]Eu tô... \!tonta...\SINV[0]
 
 message_81:
-      text: \ber\Com[2]\{WHOA! INCRIVEL, AUBREY!!\}\!<br>Eu sabia que você tinha talento.
+      text: \ber\Com[2]\{WHOA! INCRÍVEL, AUBREY!!\}\!<br>Eu sabia que você tinha talento.
 
 #ADD RAINBOW
 message_82:
