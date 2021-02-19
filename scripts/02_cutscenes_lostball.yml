@@ -108,7 +108,7 @@ message_21:
 #VAN turns towards party.
 
 message_22:
-      text: Fique vem, vocês ai. Vejo vocês quando voltarem!\n<VAN>
+      text: Fiquem bem, vocês ai. Vejo vocês quando voltarem!\n<VAN>
 
 #VAN walks off screen
 #HERO turns to BERLY
@@ -184,7 +184,7 @@ message_31:
       text: Você achou uma \c[4]BOLA PERDIDA\c[0].
 
 message_32:
-      text: Bem, isso foi divertido...\! não!\!<br>Eu vou correndo jogar espirobol!\ber
+      text: Bem, isso foi divertido...\! só que não!\!<br>Eu vou correndo jogar espirobol!\ber
 
 message_33:
       text: Vejo vocês depois, jacarés! Tô fora daqui!\ber
@@ -193,10 +193,10 @@ message_34:
       text: BERLY saiu de seu grupo.
 
 message_35:
-      text: Mas sério, vem me ver antes de vocês sairem.\!<br>Tenho uma surpresinha pra vocês.\ber
+      text: Mas sério, vem me ver antes de vocês saírem.\!<br>Tenho uma surpresinha pra vocês.\ber
 
 message_36:
-      text: Ei, não foi ai que minha \c[4]BOLA PERDIDA\c[0] foi parar!\! Cê tem outros lugares pra ir ou coisa assim?\ber
+      text: Ei, não foi aí que minha \c[4]BOLA PERDIDA\c[0] foi parar!\! Cê tem outros lugares pra ir ou coisa assim?\ber
 
 message_37:
       text: Se tinha outros lugares pra ir era só ter falado!\!<br>Vou esperar vocês no parquinho.\ber
