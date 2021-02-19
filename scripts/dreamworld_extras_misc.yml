@@ -371,7 +371,7 @@ message_206:
 message_207:
     faceset: MainCharacters_DreamWorld
     faceindex: 9
-    text: \aubEi, espere um pouco...\!<br>\Com[2]\{AQUILO É MEU \c[4]CERTIFICADO DE CABEÇUDA\c[0]??\}\!
+    text: \aubEi, espere um pouco...\!<br>\Com[2]\{ESSE É O MEU \c[4]CERTIFICADO\c[0]??\}\!
 
 message_208:
     faceset: MainCharacters_DreamWorld
@@ -391,7 +391,7 @@ message_210:
 message_211:
     faceset: MainCharacters_DreamWorld
     faceindex: 23
-    text: \kel\sinv[1]Tão majestoso...\| Tão linda...
+    text: \kel\sinv[1]Tão majestoso...\| Tão lindo...
 
 message_212:
     faceset: MainCharacters_DreamWorld
@@ -401,7 +401,7 @@ message_212:
 message_213:
     faceset: MainCharacters_DreamWorld
     faceindex: 48
-    text: \her\}Huff... Huff...\!\{ Um... Segundo... \!\}Huff... Huff...\!\{ Just... \}Huff... Huff...\!\{ Preciso respirar... \}Huff... Huff...
+    text: \her\}Huff... Huff...\!\{ Um... Segundo... \!\}Huff... Huff...\!\{ Apenas... \}Huff... Huff...\!\{ Preciso respirar... \}Huff... Huff...
 
 message_214:
     faceset: MainCharacters_DreamWorld
