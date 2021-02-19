@@ -1,0 +1,34 @@
+
+# =========================================================================================
+# STARGAZING
+# ========================================================================================
+
+message_1:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 19
+    text: \kelUou, senhorita. Você é bem alta...
+
+message_2:
+    text: \n<PO>Obrigada, pequenino!\!<br>É mais um problema grande parte do tempo... <br>mas eu realmente tenho uma boa vista das estrelas.
+
+message_3:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 19
+    text: \kel\Com[2]Coméquié?! Ser alto não é um problema!\!<br>Tudo é melhor quando você é alto.
+
+message_4:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 18
+    text: \kelUm dia, eu vou ser tão alto quanto você!
+
+message_5:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 11
+    text: \aubAhãm, ta certo, \n[3]. Continue sonhando...
+
+# =========================================================================================
+# PO - DEFAULT
+# =========================================================================================
+
+message_6:
+    text: \n<PO>Observar as estrelas de noite faz qualquer outra coisa no mundo parecer pequena.
