@@ -236,7 +236,7 @@ message_58:
 message_59:
       faceset: MainCharacters_DreamWorld
       faceindex: 12
-      text: \aubE se não encontramos ele?\! E se ele estiver em apuros?
+      text: \aubE se não encontrarmos ele?\! E se ele estiver em apuros?
 
 message_60:
       faceset: MainCharacters_DreamWorld
@@ -356,7 +356,7 @@ message_92:
 message_93:
       faceset: MainCharacters_DreamWorld
       faceindex: 36
-      text: \herNós todos estamos dando o nosso melhor...\! Talvez deveriamos começar à proucar fora desta floresta.
+      text: \herNós todos estamos dando o nosso melhor...\! Talvez devêssemos começar à procucar fora desta floresta.
 
 message_94:
       faceset: MainCharacters_DreamWorld
@@ -371,7 +371,7 @@ message_95:
 message_96:
       faceset: MainCharacters_DreamWorld
       faceindex: 30
-      text: \kelMas se o BASIL estiver lá em cima?<br>A gente tem que tentar!
+      text: \kelMas e se o BASIL estiver lá em cima?<br>A gente tem que tentar!
 
 message_97:
       faceset: MainCharacters_DreamWorld
@@ -2424,7 +2424,7 @@ message_701:
 message_702:
       faceset: MainCharacters_DreamWorld
       faceindex: 40
-      text: \herSe não encontramos o BASIL logo, talvez deveriamos falar com a MARI no parquinho e ver o que podemos fazer.
+      text: \herSe não encontrarmos o BASIL logo, talvez devêssemos falar com a MARI no parquinho e ver o que podemos fazer.
 
 message_708:
       faceset: MainCharacters_DreamWorld
