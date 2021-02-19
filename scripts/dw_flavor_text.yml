@@ -4,7 +4,7 @@
 # =========================================================================================
 
 message_0:
-      text: Um espelho flutuante.\!<br>Seus amigos sorriem agradávelmente atrás de você.
+      text: Um espelho flutuante.\!<br>Seus amigos sorriem agradavelmente atrás de você.
 
 message_1:
       text: Um espelho flutuante.
@@ -17,7 +17,7 @@ message_1:
 #Butt Certificate Flag
 
 message_50:
-      text: \n[2]'s \c[4]BANDEIRA DE CABEÇUDA\c[0].\!<br>\sinv[1]Tão majestosa...\| Tão linda...
+      text: \c[4]BANDEIRA DE CABEÇUDA\c[0] da \n[2].\!<br>\sinv[1]Tão majestosa...\| Tão linda...
 
 #============================
 
@@ -34,7 +34,7 @@ message_51:
 #Day 2 - Lightbulb:
 #[Open Slide]
 message_52:
-      text: Uma lâmpada preta espreita acima.\! Você sente como devesse protegê-la.
+      text: Uma lâmpada preta espreita acima.\! Você sente como se devesse protegê-la.
 #[Close Slide]
 
 #Day 3 - Lightbulb:
@@ -211,7 +211,7 @@ message_127:
       text: DICAS DINO...<br>\"Esse é um ótimo exemplo de tesouros em potencial.\!<br>Cave aqui com sua \c[4]COLHER\c[0] para desbloquear possibilidades infinitas!\"
 
 message_128:
-      text:  EXIBIÇÃO DINO...<br>\"Esses são restos dos nossos ancestrais.\"
+      text: EXIBIÇÃO DINO...<br>\"Esses são restos dos nossos ancestrais.\"
 
 message_129:
       text: FATO DINO...<br>\"A fila começa aqui!\"
