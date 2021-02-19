@@ -71,7 +71,7 @@ message_13:
       text: \n<SRA. FLAMINGO>Graa!\! (\i[1]\c[11]A COZINHA REAL\c[0])\!<br>Graa, graa!\! (\i[1]\c[11]QUARTOS DOS SERVOS\c[0])\!<br>Graa, graa, graa!\! (\i[8]\c[11]SALÃO DE BAILE REAL\c[0])
 
 message_14:
-      text: \n<SRA. FLAMINGO>Graa!\! (\i[1]\c[11]AS CÂMARAS REAIS\c[0])\!<br>Graa, graa!\! (\i[7]\c[11]A GALERIA REAL\c[0])\!<br>Graa, graa, graa!\! (\i[7]\c[11]THE ROYAL LIBRARY\c[0])
+      text: \n<SRA. FLAMINGO>Graa!\! (\i[1]\c[11]OS APOSENTOS REAIS\c[0])\!<br>Graa, graa!\! (\i[7]\c[11]A GALERIA REAL\c[0])\!<br>Graa, graa, graa!\! (\i[7]\c[11]THE ROYAL LIBRARY\c[0])
 
 message_15:
       text: \n<SRA. FLAMINGO>Graa!\! (\i[1]\c[11]A GALERIA REAL\c[0])\!<br>Graa, graa!\! (O destaque do mês é...)\!<br>Graa, graa, graa!\! (\"OEUVRES DA SWEETHEART\")
@@ -83,7 +83,7 @@ message_17:
       text: \n<SRA. FLAMINGO>Graa!\! (\i[1]\c[11]SALÃO DE BAILE REAL\c[0])\!<br>Graa, graa!\! (Lembrando... Karaokê SOMENTE nas Sextas-feiras.)
 
 message_18:
-      text: \n<SRA. FLAMINGO>Graa!\! (\i[1]\c[11]ELEVADOR PARA AS CÂMARAS REAIS\c[0])\!<br>Graa, graa!\! (Lembrando... Você não esta permitido aqui a não ser que você seja um lindo pretendente escolhido a mão pela SWEETHEART.)<br>Graa, graa, graa!\! (Ou a não ser que você seja a CASTELLA.)
+      text: \n<SRA. FLAMINGO>Graa!\! (\i[1]\c[11]ELEVADOR PARA OS APOSENTOS REAIS\c[0])\!<br>Graa, graa!\! (Lembrando... Você não esta permitido aqui a não ser que você seja um lindo pretendente escolhido a mão pela SWEETHEART.)<br>Graa, graa, graa!\! (Ou a não ser que você seja a CASTELLA.)
 
 message_19:
       text: \n<SRA. FLAMINGO>Graa!\! (\i[1]\c[11]O BANHO REAL\c[0])\!<br>Graa, graa!\! (Lembrando... A piscina deve ser enchida regularmente.)
