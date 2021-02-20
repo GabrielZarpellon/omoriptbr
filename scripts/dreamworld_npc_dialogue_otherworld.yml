@@ -9,13 +9,13 @@
 #BROTOPEIRA DA COLÔNIA 1
 #Location: Sprout mole Colony
 message_0:
-      text: \n<BROTOPEIRA DA COLÔNIA>Muitas BROTOPEIRAS costumavam habitar este lugar...\! mas muitos deles sairam para a colônia maior em algum lugar da floresta.
+      text: \n<BROTOPEIRA DA COLÔNIA>Muitas BROTOPEIRAS costumavam habitar este lugar...\! mas muitos deles saíram para a colônia maior em algum lugar da floresta.
 
 message_1:
       text: \n<BROTOPEIRA DA COLÔNIA>Foi uma manobra arriscada, então alguns de nós ficaram para trás...
 
 message_2:
-      text: \n<BROTOPEIRA DA COLÔNIA>Meu irmão saiu com o resto das BROTOPEIRAS...\!<br>Vocês acha que ele ainda se lembra de mim?
+      text: \n<BROTOPEIRA DA COLÔNIA>Meu irmão saiu com o resto das BROTOPEIRAS...\!<br>Vocês acham que ele ainda se lembra de mim?
 
 #BROTOPEIRA DA COLÔNIA 2
 #Location: Sprout mole Colony
@@ -38,7 +38,7 @@ message_5:
 
 #Ferris
 message_6:
-      text: \n<FERRIS>Este lugar costumava ser uma reserva de animais selvagens, mas devido a um recente boom no turismo, começou a acumular muito lixo...
+      text: \n<FERRIS>Este lugar costumava ser uma reserva de animais selvagens, mas devido a um recente BOOM no turismo, começou a acumular muito lixo...
 
 message_7:
       text: \n<FERRIS>Juntem seus lixos, pessoas! Não é tão difícil!
@@ -48,7 +48,7 @@ message_8:
       text: \n<LARAMIE>Um bando de PIRATAS ESPACIAS têm acampado por aqui já faz um bom tempo...
 
 message_9:
-      text: \n<LARAMIE>Eu ouvi dizer que o CAPITÃO de repente decidiu que ele não ia mais viajar, então metade da tripulação pegaram a sua nave e fugira,!
+      text: \n<LARAMIE>Eu ouvi dizer que o CAPITÃO de repente decidiu que não ia mais viajar, então metade da tripulação pegaram sua nave e fugiram!
 
 #BROTOPEIRA SOLITÁRIA
 message_10:
@@ -69,32 +69,32 @@ message_13:
 
 #PO
 message_14:
-      text: \n<PO>Olhar para as estrelas a noite faz com que tudo no mundo pareça tão pequno.
+      text: \n<PO>Observar as estrelas de noite faz qualquer outra coisa no mundo parecer pequena.
 
 #Talk with Kel as leader
 
 message_15:
       faceset: MainCharacters_DreamWorld
       faceindex: 19
-      text: \kelUau, Senhora. Você é bem alta...
+      text: \kelUou, senhora. Você é bem alta...
 
 message_16:
-      text: \n<PO>Obrigada, meu jovem!\! É mais um aborrecimento na maior parte do tempo, mas pelo menos eu tenho uma visão melhor das estrelas.
+      text: \n<PO>Obrigada, pequenino!\! É mais um aborrecimento na maior parte do tempo, mas pelo menos eu tenho uma visão melhor das estrelas.
 
 message_17:
       faceset: MainCharacters_DreamWorld
       faceindex: 19
-      text: \kelO que!? Ser alto não é um aborrecimento!\!<br>Tudo é melhor quando você é mais alto.
+      text: \kelComéquié?! Ser alto não é um problema!\!<br>Tudo é melhor quando você é alto.
 
 message_18:
       faceset: MainCharacters_DreamWorld
       faceindex: 18
-      text: \kelUm dia, Eu vou ser tão alto como você!
+      text: \kelUm dia, eu vou ser tão alto como você!
 
 message_19:
       faceset: MainCharacters_DreamWorld
       faceindex: 11
-      text: \aubÉ claro, \n[3]. Vai sonhando...
+      text: \aubAhãm, tá certo, \n[3]. Vai sonhando...
 
 #Recycline Machine
 #sidequest_dreamworld_recycle
@@ -119,7 +119,7 @@ message_23:
 #SMOL
 
 message_24:
-      text: \smoEu sou o CENTAVINHO, o menor centauro do mundo. \!<br>Olhe para todos os meus prêmios!
+      text: \smoEu sou o CENTAURINHO, o menor centauro do mundo. \!<br>Olhe para todos os meus troféus!
 
 message_25:
       text: Tem um monte de gravetos espalhados por toda a casa.
@@ -128,7 +128,7 @@ message_26:
       text: Um troféu em forma de cavalo.\!<br>\"O MAIS CAVALO - 2° LUGAR\".
 
 message_27:
-      text: Um certificado.\!<br>\"O MAIS PEQUENO CENTAURO - 1° LUGAR\".
+      text: Um certificado.\!<br>\"O MENOR CENTAURO - 1° LUGAR\".
 
 message_28:
       text: Um troféu longo.\!<br>\"PEQUENINO CENTAURO - 1° PLACE\".
@@ -142,31 +142,31 @@ message_31:
       text: \pesOi! Eu sou o PESSI, e como vocês provavelmente notaram...\!<br>\Com[2]\{EU AMO A SWEETHEART!\}
 
 message_32:
-      text: \pesEu tenho toda a merchandise que ela já lançou...\!<br>Eu tenho posters da SWEETHEART, bonecos, adevisos, camisetas, toda a sua discografia, e tudo que você possa imaginar!
+      text: \pesEu tenho toda a merchandise que ela já lançou...\!<br>Eu tenho posters da SWEETHEART, bonecos, adesivos, camisetas, toda a sua discografia, e tudo que você possa imaginar!
 
 message_33:
       text: \pesEu tenho certeza que você não vai achar uma coleção mais completa que essa em qualquer lugar do mundo!
 
 message_34:
-      text: \pesMe chamar de super fã é pouco...\!<br>Eu sou um fã \QUAKE[1]ultimate\QUAKE[0].
+      text: \pesMe chamar de super fã é pouco...\!<br>Eu sou um fã \QUAKE[1]SUPREMO\QUAKE[0].
 
 message_35:
-      text: \pesDeixa eu contar à vocês da vez que eu quase conheci a SWEETHEART.\!<br>Acontece que a gente só tava comendo no mesmo restaurante...\!<br>Era destino, Eu acho.
+      text: \pesDeixa eu contar à vocês da vez que eu quase conheci a SWEETHEART.\!<br>Acontece que a gente só tava comendo no mesmo restaurante...\!<br>Era destino, eu acho.
 
 message_36:
-      text: \pesNós pedimos a mesma refeição também!\! Não como seu eu tivesse visto tudo que ela pediu e ter copiado ou algo do tipo.
+      text: \pesNós pedimos a mesma refeição também!\! Não é como se eu tivesse visto tudo que ela pediu e copiado ou algo do tipo.
 
 message_37:
-      text: \pesEu até tentei pagar a refeição dela, mas eu tinha acabado de comprar uma estátua em tamanho real da SWEETHEART um dia antes e não pudia pagar...
+      text: \pesEu até tentei pagar a refeição dela, mas eu tinha acabado de comprar uma estátua em tamanho real da SWEETHEART um dia antes e não podia pagar...
 
 message_38:
-      text: \pesEu acho que isso foi uma coisa boa já que aquela garota era na verdade só uma pessoa qualquer vestindo uma roupa que parecia um pouco com a da SWEETHEART!
+      text: \pesEu acho que foi uma boa já que aquela garota era na verdade só uma pessoa qualquer vestindo uma roupa parecida com a da SWEETHEART!
 
 message_39:
-      text: \pesNão como se eu não pudesse notar de primeira.\! Se um fã poser se enganaria achando que uma pessoa normal seria a SWEETHEART!
+      text: \pesNão é como se eu não pudesse notar de primeira.\! Só um fã poser se enganaria achando que uma pessoa normal seria a SWEETHEART!
 
 message_40:
-      text: \pesEi, cuidado aí!\! essa é a minha flor ESTRELA ROSA cultivada em casa...\! favorita da SWEETHEART, é claro!
+      text: \pesEi, cuidado aí!\! Essa é a minha flor ESTRELA ROSA cultivada em casa...\! A favorita da SWEETHEART, é claro!
 
 message_41:
       text: \pesQuando não cuidada em um ambiente controlado, ela se espalha que nem fogo e é impossível da parar já que ela cresce em cima de qualquer superfície.
@@ -220,7 +220,7 @@ message_54:
 #Location: Frozen Lake
 
 message_55:
-      text: \n<PIRATA ESPACIAL PRO>O que você fez ali foi uma ato corajoso.\! Eu nunca desafiaria o CAPITÃO daquele jeito... \!Vocês fariam uns PIRATAS ESPACIAS muito incríveis.
+      text: \n<PIRATA ESPACIAL PRO>O que você fez ali foi uma ato corajoso.\! Eu nunca desafiaria o CAPITÃO daquele jeito... \!Vocês seriam uns PIRATAS ESPACIAS muito incríveis.
 
 #AMIGO PIRATA ESPACIAL
 #Location: NAMORADO ESPACIALs House
@@ -255,7 +255,7 @@ message_60:
 #Location: Campsite
 
 message_61:
-      text: \n<CHEFE PIRATA ESPACIAL>Squak!\! As coisas tem ficado bem chatas aqui desde que o CAP. SPACEB- Quero dizer, NAMORADO ESPACIAL, tomou liderança dos piratas espaciais...
+      text: \n<CHEFE PIRATA ESPACIAL>Squak!\! As coisas têm ficado bem chatas aqui desde que o CAP. SPACEB- Quero dizer, NAMORADO ESPACIAL, tomou liderança dos piratas espaciais...
 
 message_62:
       text: \n<CHEFE PIRATA ESPACIAL>Quero dizer...\! olha para o que o NAMORADO ESPACIAL fez com a velha nave do CAPITÃO!\! CAP. BARBA ROSA nunca aceitaria isso!
@@ -270,7 +270,7 @@ message_64:
 #Location: NAMORADO ESPACIALs backyard (Solar System)
 
 message_65:
-      text: \n<CARA PIRATA ESPACIAL>Olá, cara!\! É aqui onde o NAMORADO ESPACIAL tinha ser estiamado planeta PLUTÃO... mas ele está desaparecido!
+      text: \n<CARA PIRATA ESPACIAL>Olá, cara!\! É aqui onde o NAMORADO ESPACIAL tinha seu estimado planeta PLUTÃO... mas ele está desaparecido!
 
 #Location: Frozen Lake
 
@@ -302,7 +302,7 @@ message_80:
 #Location: NAMORADO ESPACIAL's House
 
 message_81:
-      text: \n<COLEGA PIRATA ESPACIAL>CAP. SPACEBOY voltou a ser como era antes?\! Isso é uma notícia ótima, colega!\! Quando a tripulação sair para viajar de novo, Eu vou ficar aqui para cuidar do forte.\! Alguém tem que fazer isso, certo?
+      text: \n<COLEGA PIRATA ESPACIAL>CAP. SPACEBOY voltou a ser como era antes?\! Isso é uma notícia ótima, colega!\! Quando a tripulação sair para viajar de novo, eu vou ficar aqui para cuidar do forte.\! Alguém tem que fazer isso, certo?
 
 #COMPANHEIRO PIRATA ESPACIAL
 #Location: NAMORADO ESPACIAL's House
@@ -348,12 +348,12 @@ message_89:
 #MERMÃO PIRATA ESPACIAL N/A
 #AMIGÃO PIRATA ESPACIAL
 message_90:
-      text: \n<AMIGÃO PIRATA ESPACIAL>\SINV[1]PLUTÃO...\! Saia daí, saia daí, de onde você estiver!\SINV[0]
+      text: \n<AMIGÃO PIRATA ESPACIAL>\SINV[1]PLUTÃO...\! Saia daí, saia daí, aonde você estiver!\SINV[0]
 
 #CHEFE PIRATA ESPACIAL N/A
 #CARA PIRATA ESPACIAL
 message_91:
-      text: \n<CARA PIRATA ESPACIAL>CAPT. SPACEBOY e alguns dos piratas foram para algum com grande urgência...
+      text: \n<CARA PIRATA ESPACIAL>CAPT. SPACEBOY e alguns dos piratas foram para algum lugar com grande urgência...
 
 message_92:
       text: \n<CARA PIRATA ESPACIAL>Mas eu e o meu mano aqui decidimos procurar pelo planeta perdido do CAP. SPACEBOY, PLUTÃO...\!<br>Hmm...\! Onde ele pode estar?
@@ -361,7 +361,7 @@ message_92:
 #MANO PIRATA ESPACIAL
 #COLEGA PIRATA ESPACIAL
 message_93:
-      text: \n<COLEGA PIRATA ESPACIAL>Você acabou de perder, colega! Todo mundo saiu na mais nova nave do CAP. SPACEBOY!\! Estou em feliz em dizer que CAP. SPACEBOY e os PIRATAS ESPACIAIS estão de volta em força total!
+      text: \n<COLEGA PIRATA ESPACIAL>Você acabou de perder, colega! Todo mundo saiu na mais nova nave do CAP. SPACEBOY!\! Estou bem feliz em dizer que CAP. SPACEBOY e os PIRATAS ESPACIAIS estão de volta em força total!
 
 message_94:
       text: \n<COLEGA PIRATA ESPACIAL>Eu espero que todo mundo esteja se divertindo!
@@ -382,7 +382,7 @@ message_95:
 #JJ: Same as Night 1-2
 #LARAMIE
 message_100:
-      text: \n<LARAMIE>Eu ouvi dizer que o CAPITÃO dos PIRATAS ESPACIAIS sumiu da face de \c[11]OUTRO MUNDO\c[0]...
+      text: \n<LARAMIE>Eu ouvi dizer que o CAPITÃO dos PIRATAS ESPACIAIS sumiu da face do \c[11]OUTRO MUNDO\c[0]...
 
 message_101:
       text: \n<LARAMIE>Os PIRATAS ESPACIAIS devem estar em pânico!\! Tem sempre algo novo acontecendo com eles, não tem?
@@ -416,7 +416,7 @@ message_106:
 #AMIGÃO PIRATA ESPACIAL
 #Location: Orange Oasis
 message_107:
-      text: \n<AMIGÃO PIRATA ESPACIAL>\SINV[1]Oh, PLUTÃO...\! PLUTÃO...\! Onde você está?\!\SINV[0]<br>Aaah...\! Esse lugar é tão grande.\!<br>Como que nós podemos até mesmo tentar achar-lo?
+      text: \n<AMIGÃO PIRATA ESPACIAL>\SINV[1]Oh, PLUTÃO...\! PLUTÃO...\! Onde você está?\!\SINV[0]<br>Aaah...\! Esse lugar é tão grande.\!<br>Como que podemos até mesmo tentar achá-lo?
 
 #CHEFE PIRATA ESPACIAL
 #Location: Last Resort
@@ -439,7 +439,7 @@ message_111:
                         #====NIGHT 4====
 
 message_130:
-      text: \n<LARAMIE>Eu ouvi dizer que o pai do CAP. SPACEBOY, BARBA ROSA voltou depois que ouviu que ele havia desaparecido!\!<br>Oh, o drama!\! Could it get any more juicy?
+      text: \n<LARAMIE>Eu ouvi dizer que o pai do CAP. SPACEBOY, BARBA ROSA voltou depois que ouviu que ele havia desaparecido!\!<br>Oh, o drama!\! Poderia ficar mais interesse?
 
 #BROTOPEIRA SOLITÁRIA: N/A
 #ESSI: Slime Girl's Lair
@@ -448,7 +448,7 @@ message_140:
       text: \n<PIRATA ESPACIAL PRO>Yay!\! O CAPITÃO está de volta...\! de novo...\! mas por quanto tempo?
 
 message_141:
-      text: \n<AMIGO PIRATA ESPACIAL>Se você consegue sentir a sua dor...\! você também pode curar a sua dor.
+      text: \n<AMIGO PIRATA ESPACIAL>Se você consegue sentir a sua dor...\! você também pode curar ela.
 
 #Location: Lost Forest
 message_142:
@@ -478,7 +478,7 @@ message_163:
       text: Como você gostaria de responder?
 
 message_164:
-      text: Você escreveu a sua resposta e jogou a garra no lago.
+      text: Você escreveu a sua resposta e jogou a garrafa no lago.
 
 message_165:
       text: OMORI
@@ -502,7 +502,7 @@ message_170:
 #----
 
 message_200:
-      text: \n<BROTOPEIRA DA CONSTRUÇÃO>Depois que a SWEETHEART fez seu último episódio, algumas BROTOPEIRAS estão começando a volar para as colônias.
+      text: \n<BROTOPEIRA DA CONSTRUÇÃO>Depois que a SWEETHEART fez seu último episódio, algumas BROTOPEIRAS começaram a voltar para as colônias.
 
 message_201:
       text: \n<BROTOPEIRA DA CONSTRUÇÃO>Isso é um imóvel de primeira!

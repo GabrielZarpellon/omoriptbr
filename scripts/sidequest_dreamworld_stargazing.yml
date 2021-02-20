@@ -6,10 +6,10 @@
 message_1:
     faceset: MainCharacters_DreamWorld
     faceindex: 19
-    text: \kelUou, senhorita. Você é bem alta...
+    text: \kelUou, senhora. Você é bem alta...
 
 message_2:
-    text: \n<PO>Obrigada, pequenino!\!<br>É mais um problema grande parte do tempo... <br>mas eu realmente tenho uma boa vista das estrelas.
+    text: \n<PO>Obrigada, pequenino!\!<br>É mais um aborrecimento na maior parte do tempo, mas pelo menos eu tenho uma visão melhor das estrelas.
 
 message_3:
     faceset: MainCharacters_DreamWorld
