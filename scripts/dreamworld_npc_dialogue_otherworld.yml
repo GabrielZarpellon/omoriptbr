@@ -6,31 +6,31 @@
 
                         #====NIGHT 1-2====
 
-#Colony Mole 1
+#BROTOPEIRA DA COLÔNIA 1
 #Location: Sprout mole Colony
 message_0:
-      text: \n<COLONY MOLE>Muitas brotopeiras costumavam habitar esse lugar...\! muitas delas se mudaram pra formar uma colônia maior numa floresta maior.
+      text: \n<BROTOPEIRA DA COLÔNIA>Muitas BROTOPEIRAS costumavam habitar este lugar...\! mas muitos deles sairam para a colônia maior em algum lugar da floresta.
 
 message_1:
-      text: \n<COLONY MOLE>Foi arriscado, então alguns de nós ficaram pra trás...
+      text: \n<BROTOPEIRA DA COLÔNIA>Foi uma manobra arriscada, então alguns de nós ficaram para trás...
 
 message_2:
-      text: \n<COLONY MOLE>Meu irmão foi junto com as brotopeiras...\!<br>será que ele se lembra de mim?
+      text: \n<BROTOPEIRA DA COLÔNIA>Meu irmão saiu com o resto das BROTOPEIRAS...\!<br>Vocês acha que ele ainda se lembra de mim?
 
-#Colony Mole 2
+#BROTOPEIRA DA COLÔNIA 2
 #Location: Sprout mole Colony
 message_3:
-      text: \n<COLONY MOLE>Boas vindas, viajantes. Bem vindos a minha casa! \!<br>É bem simples e pequena, mas é minha.
+      text: \n<BROTOPEIRA DA COLÔNIA>Parabéns, viajantes. Bem-vindos à minha casa! \!<br>É humilde e pequena mas é minha.
 
-#Colony Mole 3
+#BROTOPEIRA DA COLÔNIA 3
 #Location: Sprout mole Colony
 message_4:
-      text: \n<COLONY MOLE>Nós brotopeiras somos criaturas altamente inteligentes!
+      text: \n<BROTOPEIRA DA COLÔNIA>Nós BROTOPEIRAS somos criaturas altamente inteligentes!
 
-#CREEPY CAT
+#GATO ASSUSTADOR
 #Location: Old Barn
 message_5:
-      text: \n<CREEPY CAT>Miau... \!\SINV[2]Miau?\SINV[0] \!\SINV[1]Miau...\SINV[0]\! \QUAKE[1]Miaaaaaaaauuu...\QUAKE[0]
+      text: \n<GATO ASSUSTADOR>Miau... \!\SINV[2]Miau?\SINV[0] \!\SINV[1]Miau...\SINV[0]\! \QUAKE[1]Miiiiiiauuuuuu...\QUAKE[0]
 
 #DUCKIE JR
 #Location: Outskirts
@@ -38,30 +38,30 @@ message_5:
 
 #Ferris
 message_6:
-      text: \n<FERRIS>Esse lugar costumava ter uma preservação perfeita da natureza, mas graças ao recente aumento no turismo, começou a acumular muito lixo...
+      text: \n<FERRIS>Este lugar costumava ser uma reserva de animais selvagens, mas devido a um recente boom no turismo, começou a acumular muito lixo...
 
 message_7:
-      text: \n<FERRIS>Não poluam a natureza, não é tão dificil!
+      text: \n<FERRIS>Juntem seus lixos, pessoas! Não é tão difícil!
 
 #Laramie
 message_8:
-      text: \n<LARAMIE>Um bando de PIRATAS ESPACIAIS esteve acampando aqui por um bom tempo...
+      text: \n<LARAMIE>Um bando de PIRATAS ESPACIAS têm acampado por aqui já faz um bom tempo...
 
 message_9:
-      text: \n<LARAMIE>Ouvi falar que o CAPITÃO decidiu que eles não vão mais viajar, então uma parte do seu grupo pegou sua nave e fugiu com ela!
+      text: \n<LARAMIE>Eu ouvi dizer que o CAPITÃO de repente decidiu que ele não ia mais viajar, então metade da tripulação pegaram a sua nave e fugira,!
 
-#LONE Mole
+#BROTOPEIRA SOLITÁRIA
 message_10:
-      text: \n<LONE MOLE>\Com[2]\{EI, QUE IDEIA É ESSA!?!?\}
+      text: \n<BROTOPEIRA SOLITÁRIA>\Com[2]\{EI, QUAL É A GRANDE IDEIA!?!?\}
 
 message_11:
-      text: \n<LONE MOLE>Eu tive todo esse trabalho pra me isolar da sociedade, e você aparece e arruina tudo!
+      text: \n<BROTOPEIRA SOLITÁRIA>Eu passei por todo esse problema para me isolar da sociedade, e do nada vocês aparecem e arruinam tudo!
 
 message_12:
-      text: \n<LONE MOLE>\Com[2]\{É MELHOR VOCÊ CONSERTAR ISSO AGORA!!\}
+      text: \n<BROTOPEIRA SOLITÁRIA>\Com[2]\{É MELHOR VOCÊS ARRUMAREM ISSO AGORA!!\}
 
 message_13:
-      text: Você ajudou a brotopeira a arrumar os cones de trânsito.
+      text: Você ajudou a BROTOPEIRA remontar todos os cones de tráfico.
 
 #Mr DUCKIE
 #Mrs DUCKIE
@@ -69,32 +69,32 @@ message_13:
 
 #PO
 message_14:
-      text: \n<PO>Ver as estrelas de noite faz tudo parecer tão pequeno.
+      text: \n<PO>Olhar para as estrelas a noite faz com que tudo no mundo pareça tão pequno.
 
 #Talk with Kel as leader
 
 message_15:
       faceset: MainCharacters_DreamWorld
       faceindex: 19
-      text: \kelNossa, senhora. Você realmente é alta...
+      text: \kelUau, Senhora. Você é bem alta...
 
 message_16:
-      text: \n<PO>Obrigada, meu jovem!\! It's more of a hassle most of the time, but at least I get a better view of the stars.
+      text: \n<PO>Obrigada, meu jovem!\! É mais um aborrecimento na maior parte do tempo, mas pelo menos eu tenho uma visão melhor das estrelas.
 
 message_17:
       faceset: MainCharacters_DreamWorld
       faceindex: 19
-      text: \kelO QUE!? Ser alto não é um incômodo!\!<br>Tudo é melhor quando você é alto.
+      text: \kelO que!? Ser alto não é um aborrecimento!\!<br>Tudo é melhor quando você é mais alto.
 
 message_18:
       faceset: MainCharacters_DreamWorld
       faceindex: 18
-      text: \kelUm dia eu vou ser tão alto quanto você!
+      text: \kelUm dia, Eu vou ser tão alto como você!
 
 message_19:
       faceset: MainCharacters_DreamWorld
       faceindex: 11
-      text: \aubSim... claro \n[3]. Pode ir sonhando...
+      text: \aubÉ claro, \n[3]. Vai sonhando...
 
 #Recycline Machine
 #sidequest_dreamworld_recycle
@@ -105,13 +105,13 @@ message_19:
 
 #JJ
 message_20:
-      text: Ligar o Rádio?
+      text: Ligar a caixa de som?
 
 message_21:
       text: \n<JOCK JAMS>\Com[2]\SINV[2]\{!!!!!!!!!\{!!!!!\{!!!!!!!!!!\}!!!!!\}!!!!!!!!!\}\SINV[0]
 
 message_22:
-      text: Desligar o Rádio?
+      text: Desligar a caixa de som?
 
 message_23:
       text: \n<JOCK JAMS>...
@@ -119,214 +119,214 @@ message_23:
 #SMOL
 
 message_24:
-      text: \smoEu sou SMOL, o menor centauro do mundo. \!<br>Olhem os meus troféus!
+      text: \smoEu sou o CENTAVINHO, o menor centauro do mundo. \!<br>Olhe para todos os meus prêmios!
 
 message_25:
-      text: Tem vários gravetos espalhados ao redor da casa.
+      text: Tem um monte de gravetos espalhados por toda a casa.
 
 message_26:
-      text: Troféu em forma de cavalo.\!<br>\"MAIS CAVALO - 2 Lugar\".
+      text: Um troféu em forma de cavalo.\!<br>\"O MAIS CAVALO - 2° LUGAR\".
 
 message_27:
-      text: Um certificado.\!<br>\"MENOR CENTAURO - 1 Lugar\".
+      text: Um certificado.\!<br>\"O MAIS PEQUENO CENTAURO - 1° LUGAR\".
 
 message_28:
-      text: Um troféu longo.\!<br>\"CENTAURO AINDA MENOR - 1 Lugar\".
+      text: Um troféu longo.\!<br>\"PEQUENINO CENTAURO - 1° PLACE\".
 
 message_29:
-      text: Um troféu curto.\!<br>\"CENTAURO DIMINUTO - 1 Lugar\".
+      text: Um troféu curto.\!<br>\"PEQUENÍSSIMO - 1° LUGAR\".
 
 #PESSI
 
 message_31:
-      text: \pesOi! Sou PESSI, e como vocês devem ter notado...\!<br>\Com[2]\{EU AMO A SWEETHEART!\}
+      text: \pesOi! Eu sou o PESSI, e como vocês provavelmente notaram...\!<br>\Com[2]\{EU AMO A SWEETHEART!\}
 
 message_32:
-      text: \pesEu tenho todos os produtos que ela já lançou...\!<br>Posters da SWEETHEART, figuras, adesivos, camisas, a discógrafia inteira, e tudo mais!
+      text: \pesEu tenho toda a merchandise que ela já lançou...\!<br>Eu tenho posters da SWEETHEART, bonecos, adevisos, camisetas, toda a sua discografia, e tudo que você possa imaginar!
 
 message_33:
-      text: \pesTenho certeza que vocês não vão encontrar uma coleção mais completa em nenhum lugar do mundo!
+      text: \pesEu tenho certeza que você não vai achar uma coleção mais completa que essa em qualquer lugar do mundo!
 
 message_34:
-      text: \pesMe chamar de superfã é pouco!...\!<br>Eu sou o \QUAKE[1]MAIOR\QUAKE[0] fã
+      text: \pesMe chamar de super fã é pouco...\!<br>Eu sou um fã \QUAKE[1]ultimate\QUAKE[0].
 
 message_35:
-      text: \pesDeixe-me falar sobre a vez que quase conheci a SWEETHEART.\!<br>Nós estávamos comendo no mesmo restaurante...\!<br>Foi o destino, eu acho.
+      text: \pesDeixa eu contar à vocês da vez que eu quase conheci a SWEETHEART.\!<br>Acontece que a gente só tava comendo no mesmo restaurante...\!<br>Era destino, Eu acho.
 
 message_36:
-      text: \pesPedimos a mesma comida tambem!\! Não como se eu tivesse visto e copiado exatamente o que ela pediu...
+      text: \pesNós pedimos a mesma refeição também!\! Não como seu eu tivesse visto tudo que ela pediu e ter copiado ou algo do tipo.
 
 message_37:
-      text: \pesTentei até pagar a comida dela, mas eu tinha comprado a nova estátua da SWEETHEART em tamanho real um dia antes e não pude pagar...
+      text: \pesEu até tentei pagar a refeição dela, mas eu tinha acabado de comprar uma estátua em tamanho real da SWEETHEART um dia antes e não pudia pagar...
 
 message_38:
-      text: \pesAcabou sendo bom já que a garota era só uma garota normal vestindo uma roupa parecida com a da SWEETHEART!
+      text: \pesEu acho que isso foi uma coisa boa já que aquela garota era na verdade só uma pessoa qualquer vestindo uma roupa que parecia um pouco com a da SWEETHEART!
 
 message_39:
-      text: \pesNão é como se eu não pudesse discernir pra começo de conversa.\! Só um poser não saberia reconhecer a verdadeira SWEETHEART!
+      text: \pesNão como se eu não pudesse notar de primeira.\! Se um fã poser se enganaria achando que uma pessoa normal seria a SWEETHEART!
 
 message_40:
-      text: \pesEi, tome cuidado!\! essa são as minhas flores Estrelas Rosadas do Egito...\! As favoritas da SWEETHEART obviamente!
+      text: \pesEi, cuidado aí!\! essa é a minha flor ESTRELA ROSA cultivada em casa...\! favorita da SWEETHEART, é claro!
 
 message_41:
-      text: \pesQuando não são criadas em ambiente controlado, elas se espalham absurdamente já que podem crescer em qualquer superficie.
+      text: \pesQuando não cuidada em um ambiente controlado, ela se espalha que nem fogo e é impossível da parar já que ela cresce em cima de qualquer superfície.
 
 message_42:
-      text: De primeira vista, parece uma pessoa muito desagradável...\!<br>mas é só uma estátua.
+      text: De relance, isso parece uma pessoa muito desagradável...\!<br>Mas é só uma estátua.
 
 #SNAKE
 message_43:
-      text: \n<SNAKE>\SINV[1]Ssssssssssssssss!\SINV[0]\! (Quanta emoção!)
+      text: \n<COBRA>\SINV[1]Ssssssssssssssss!\SINV[0]\! (Mas que emoção!)
 
 #SNALEY
 message_44:
-      text: \n<SNALEY>Ah, perdão! \!estou atrapalhando?\!<br>me desculpe.\! Vou sair do caminho
+      text: \n<SNALEY>Oh, céus! \!Eu estou no seu caminho?\!<br>Me desculpe.\! Eu vou me mover.
 
 message_45:
-      text: \n<SNALEY>Ah, perdão! \!estou atrapalhando?\!<br>me desculpe.\! Vou sair do caminho
+      text: \n<SNALEY>Oh, opa!\! Parece que estou no seu caminho.\!<br>Meu Deus, Me desculpe.\! Eu vou me mover.
 
 #TV Girl
 #Coffee Machine quest
 
-#Veggie Kid (Eggplant)
+#CRIANÇA VEGETAL (Eggplant)
 #Outskirts
 
 message_50:
-      text: \n<VEGGIE KID>Estamos em uma aventura!
+      text: \n<CRIANÇA VEGETAL>Nós estamos em uma aventura!
 
-#Veggie Kid (Onion)
+#CRIANÇA VEGETAL (Onion)
 #Outskirts
 
 message_51:
-      text: \n<VEGGIE KID>Somos aventureiros!
+      text: \n<CRIANÇA VEGETAL>Nós somos aventureiros!
 
-#Veggie Kid (Potato)
+#CRIANÇA VEGETAL (Potato)
 #Outskirts
 
 message_52:
-      text: \n<VEGGIE KID>Vamos explorar!
+      text: \n<CRIANÇA VEGETAL>Nós vamos explorar!
 
-#Veggie Kid (Tomato)
+#CRIANÇA VEGETAL (Tomato)
 #Outskirts
 
 message_53:
-      text: \n<VEGGIE KID>Somos exploradores!
+      text: \n<CRIANÇA VEGETAL>Nós somos exploradores!
 
-#Space Pirate ACE
-#Location: Space boyfriends House
+#PIRATA ESPACIAL PRO
+#Location: NAMORADO ESPACIALs House
 
 message_54:
-      text: \n<SPACE PIRATE ACE>CAPIT. NAMOR-\! digo, o NAMORADO ESPACIAL não sai da cama desde que...\! \QUAKE[1]ela...\QUAKE[0] \!parou de vir aqui...
+      text: \n<PIRATA ESPACIAL PRO>CAP. SPACEB-\! Quero dizer, NAMORADO ESPACIAL não saiu da sua cama desde que...\! \QUAKE[1]ela...\QUAKE[0] \!parou de vir aqui...
 #Location: Frozen Lake
 
 message_55:
-      text: \n<SPACE PIRATE ACE>O que vocês fizeram lá atrás foi muito corajoso.\! Eu nunca desafiaria o capitão desse jeito... \!Vocês dariam uns ótimos PIRATAS ESPACIAIS
+      text: \n<PIRATA ESPACIAL PRO>O que você fez ali foi uma ato corajoso.\! Eu nunca desafiaria o CAPITÃO daquele jeito... \!Vocês fariam uns PIRATAS ESPACIAS muito incríveis.
 
-#Space Pirate AMIGO
-#Location: Space boyfriends House
+#AMIGO PIRATA ESPACIAL
+#Location: NAMORADO ESPACIALs House
 
 message_56:
-      text: \n<SPACE PIRATE AMIGO>\SINV[1]Zzzzzzzzz...\SINV[0]
+      text: \n<AMIGO PIRATA ESPACIAL>\SINV[1]Zzzzzzzzz...\SINV[0]
 
-#Space Pirate BRO
-#Location: Space boyfriends House
+#MERMÃO PIRATA ESPACIAL
+#Location: NAMORADO ESPACIALs House
 
 message_57:
-      text: \n<SPACE PIRATE BRO>SPACE BOYFRIEND...\!<br>O que podemos fazer por você, mano?<br>\!Porque você não levanta?
+      text: \n<MERMÃO PIRATA ESPACIAL>NAMORADO ESPACIAL...\!<br>O que podemos fazer para você, mermão?<br>\!Por que você não sai da cama?
 
 #Location: Frozen Lake
 
 message_58:
-      text: \n<SPACE PIRATE BRO>Mano...\! Esses \c[3]SNO-CONES\c[0]...\! são muito bons.
+      text: \n<MERMÃO PIRATA ESPACIAL>Mermão...\! Essas \c[3]RASPADINHAS\c[0]...\! são muito boas.
 
-#Space Pirate BUDDY
-#Location: Space boyfriends backyard
+#AMIGÃO PIRATA ESPACIAL
+#Location: NAMORADO ESPACIALs backyard
 
 message_59:
-      text: \n<SPACE PIRATE BUDDY>Amigo...\! É uma pena que você teve que vir em um momento como este...
+      text: \n<AMIGÃO PIRATA ESPACIAL>Amigão...\! É um saco você ter que vir aqui numa hora dessas...
 
 #Location: Frozen Lake
 
 message_60:
-      text: \n<SPACE PIRATE BUDDY>É muito bom ter o CAPITÃO de volta\! Sim, Amigo!
+      text: \n<AMIGÃO PIRATA ESPACIAL>É tão bom ter o CAPITÃO!\! É isso aí, amigão!
 
 
-#Space Pirate CHIEF
+#CHEFE PIRATA ESPACIAL
 #Location: Campsite
 
 message_61:
-      text: \n<SPACE PIRATE CHIEF>Squak!\! As coisas tem sido bem chatas por aqui desde que o CAPT. NAMO- quer dizer, NAMORADO ESPACIAL, tomou conta dos piratas espaciais...
+      text: \n<CHEFE PIRATA ESPACIAL>Squak!\! As coisas tem ficado bem chatas aqui desde que o CAP. SPACEB- Quero dizer, NAMORADO ESPACIAL, tomou liderança dos piratas espaciais...
 
 message_62:
-      text: \n<SPACE PIRATE CHIEF>Quer dizer...\! olha o que o NAMORADO ESPACIAL fez com o antigo navio do CAPITÃO!\! CAPT. BARBA ROSA nunca aprovaria isto!
+      text: \n<CHEFE PIRATA ESPACIAL>Quero dizer...\! olha para o que o NAMORADO ESPACIAL fez com a velha nave do CAPITÃO!\! CAP. BARBA ROSA nunca aceitaria isso!
 
 #Location: Campsite
 
 message_64:
-      text: \n<SPACE PIRATE CHIEF>Squak!\! CAPT. ESPACIAL está de volta ao normal!?\!<br>Tenho que deixar o CAPT. BARBA ROSA saber disso agora!
-#SPACE PIRATE CHIEF flies away and becomes N/A
+      text: \n<CHEFE PIRATA ESPACIAL>Squak!\! CAP. SPACEBOY voltou ao normal!?\!<br>Eu tenho que deixar o CAP. BARBA ROSA saber disso agora mesmo!
+#CHEFE PIRATA ESPACIAL flies away and becomes N/A
 
-#Space Pirate DUDE
-#Location: Space boyfriends backyard (Solar System)
+#CARA PIRATA ESPACIAL
+#Location: NAMORADO ESPACIALs backyard (Solar System)
 
 message_65:
-      text: \n<SPACE PIRATE DUDE>Ahoy, cara!\!Foi aqui que o NAMORADO ESPACIAL teve seu premiado planeta PLUTÃO... mas está sumindo!
+      text: \n<CARA PIRATA ESPACIAL>Olá, cara!\! É aqui onde o NAMORADO ESPACIAL tinha ser estiamado planeta PLUTÃO... mas ele está desaparecido!
 
 #Location: Frozen Lake
 
 message_66:
-      text: \n<SPACE PIRATE DUDE>Cara... Eu não consigo acreditar que o CAPITÃO pagou por todos os nossos \c[3]SNO-CONES\c[0]... \!Sniff...\! Eu tô tão emocionado agora.
+      text: \n<CARA PIRATA ESPACIAL>Cara... Eu não consigo acreditar que o CAPITÃO pagou todas as nossas \c[3]RASPADINHAS\c[0]... \!Sniff...\! Eu estou tão emocionado agora.
 
-#Space Pirate GUY
+#MANO PIRATA ESPACIAL
 #Location: Campsite
 
 message_67:
-      text: \n<SPACE PIRATE GUY>Ahoy, meu camarada!\! Nós trabalhamos para o NAMORADO ESPACIAL.\! Eu sinto falta dos velhos tempos de pirata!
+      text: \n<MANO PIRATA ESPACIAL>Olá, meu mano!\! Nós trabalhamos para o NAMORADO ESPACIAL.\! Eu sinto falta dos bons e velhos tempos de pirata!
 
 #Location: Frozen Lake
 
 message_68:
-      text: \n<SPACE PIRATE GUY>Ahoy, meu camarada!\! Aqui pra ter \c[3]SNO-CONES\c[0] com a gente?
+      text: \n<MANO PIRATA ESPACIAL>Olá, meu mano!\! Tá aqui para ter umas \c[3]RASPADINHAS\c[0] com a gente?
 
 #CHIEF AFTER SBF IS BACK HOME WITH dad
 
 message_69:
-      text: \n<SPACE PIRATE CHIEF>Então o filho prodígio voltou...\! Hmph!\! Nós veremos até quando isso vai...
+      text: \n<CHEFE PIRATA ESPACIAL>Então o pródigo filho retornou...\! Hmph!\! Vamos ver por quanto tempo isso vai durar...
 
-#Space Pirate MATE
-#Location: Space Boyfriend's House
+#COLEGA PIRATA ESPACIAL
+#Location: NAMORADO ESPACIAL's House
 
 message_80:
-      text: \n<SPACE PIRATE MATE>Ultimamente tudo que eu ouço dizer é sobre o resto da tripulação estar entediada.\! Eu sou o único que meio que gosta de limpar por aqui?
+      text: \n<COLEGA PIRATA ESPACIAL>Tudo que eu escuto ultimamente tem sido o resto da tripulação reclamando sobre estar entendiado.\! Eu sou o único que meio que gosta um pouco de limpar por aqui?
 
-#Location: Space Boyfriend's House
+#Location: NAMORADO ESPACIAL's House
 
 message_81:
-      text: \n<SPACE PIRATE MATE>CAPT. ESPACIAL está se sentindo como ele novamente?\! Isso são ótimas notícias, camarada!\! Quando a tripulação sair para viajar novamente, vou ficar aqui e guardar o forte.\! Alguém tem que fazer isso, certo?
+      text: \n<COLEGA PIRATA ESPACIAL>CAP. SPACEBOY voltou a ser como era antes?\! Isso é uma notícia ótima, colega!\! Quando a tripulação sair para viajar de novo, Eu vou ficar aqui para cuidar do forte.\! Alguém tem que fazer isso, certo?
 
-#Space Pirate PAL
-#Location: Space Boyfriend's House
+#COMPANHEIRO PIRATA ESPACIAL
+#Location: NAMORADO ESPACIAL's House
 
 message_82:
-      text: \n<SPACE PIRATE PAL>As coisas estão um pouco complicadas agora, mas eu não ligo pra o que qualquer um disser, parceiro...\! Eu acredito no CAPITÃO! 
+      text: \n<COMPANHEIRO PIRATA ESPACIAL>As coisas estão um pouco mais difíceis agora, mas eu não me importo com que os outros dizem, companheiro...\! Eu acredito no CAPITÃO!
 #Location: Frozen Lake
 
 message_83:
-      text: \n<SPACE PIRATE PAL>Meu \c[3]SNO-CONE\c[0] tem gosto de nada!
+      text: \n<COMPANHEIRO PIRATA ESPACIAL>Minha \c[3]RASPADINHA\c[0] tem gosto de nada!
 
                         #====NIGHT 2====
 
-#Colony Mole 1 same as night 1-2
-#Colony Mole 2 same as night 1-2
-#Colony Mole 3 same as night 1-2
-#Creepy Cat same as night 1-2
+#BROTOPEIRA DA COLÔNIA 1 same as night 1-2
+#BROTOPEIRA DA COLÔNIA 2 same as night 1-2
+#BROTOPEIRA DA COLÔNIA 3 same as night 1-2
+#GATO ASSUSTADOR same as night 1-2
 #Duckie Jr same as night 1-2
 #Ferris same as night 1-2
 #JJ same as night 1-2
 #LARAMIE
 message_88:
-      text: \n<LARAMIE>Eu ouvi dizer que os PIRATAS ESPACIAIS estão viajando de novo! <br>Bom pra eles!\! Hmm...\! Eu me pergunto...\! o que torna eles piratas?\! Eles ao menos roubam algo?
-#Lone Mole N/A
+      text: \n<LARAMIE>Eu ouvi dizer que os PIRATAS ESPACIAIS estão viajando de novo! <br>Bom pra eles!\! Hmm...\! Eu me pergunto...\! o que faz deles piratas mesmo?\! Eles ao menos roubam alguma coisa?
+#BROTOPEIRA SOLITÁRIA N/A
 #Duckies same as night 1-2
 #Pessi same as night 1-2
 #Pluto N/A
@@ -337,60 +337,60 @@ message_88:
 #SMOL same as night 1-2
 #SNAKE same as night 1-2
 #SNALEY N/A
-#SPACE BOYFRIEND N/A
+#NAMORADO ESPACIAL N/A
 #TVGIRL
 message_89:
-      text: \n<TV GIRL>Droga...\! Tudo o que eles estão passando ultimamente são reprises...\!<br>Quando algo novo vai passar?
+      text: \n<GURIATV>Droga...\! Tudo que eles têm mostrado ultimamente é só coisa repetida...\!<br>Quando é que algo de novo vai acontecer?
 
-#VEGGIE KIDS N/A
-#Space Pirate ACE N/A
-#Space Pirate AMIGO N/A
-#Space Pirate BRO N/A
-#Space Pirate BUDDY
+#CRIANÇA VEGETALS N/A
+#PIRATA ESPACIAL PRO N/A
+#AMIGO PIRATA ESPACIAL N/A
+#MERMÃO PIRATA ESPACIAL N/A
+#AMIGÃO PIRATA ESPACIAL
 message_90:
-      text: \n<SPACE PIRATE BUDDY>\SINV[1]PLUTÃO...\! Venha, venha aqui, aonde é que você estiver!\SINV[0]
+      text: \n<AMIGÃO PIRATA ESPACIAL>\SINV[1]PLUTÃO...\! Saia daí, saia daí, de onde você estiver!\SINV[0]
 
-#Space Pirate CHIEF N/A
-#Space Pirate DUDE
+#CHEFE PIRATA ESPACIAL N/A
+#CARA PIRATA ESPACIAL
 message_91:
-      text: \n<SPACE PIRATE DUDE>CAPT. ESPACIAL e alguns dos piratas sairam durante uma emergência...
+      text: \n<CARA PIRATA ESPACIAL>CAPT. SPACEBOY e alguns dos piratas foram para algum com grande urgência...
 
 message_92:
-      text: \n<SPACE PIRATE DUDE>Mas eu e meu camarada aqui decidimos ficar para vigiar pelo planeta perdido do CAPT. ESPACIAL, PLUTÃO...\!<br>Hmm...\! Aonde ele pode estar?
+      text: \n<CARA PIRATA ESPACIAL>Mas eu e o meu mano aqui decidimos procurar pelo planeta perdido do CAP. SPACEBOY, PLUTÃO...\!<br>Hmm...\! Onde ele pode estar?
 
-#Space Pirate GUY
-#Space Pirate MATE
+#MANO PIRATA ESPACIAL
+#COLEGA PIRATA ESPACIAL
 message_93:
-      text: \n<SPACE PIRATE MATE>Você acabou de perder, camarada! Todo mundo saiu na nave nova do CAPT. ESPACIAL!\! Estou feliz de dizer que o CAPT. ESPACIAL e os PIRATAS ESPACIAIS estão de volta com força total!
+      text: \n<COLEGA PIRATA ESPACIAL>Você acabou de perder, colega! Todo mundo saiu na mais nova nave do CAP. SPACEBOY!\! Estou em feliz em dizer que CAP. SPACEBOY e os PIRATAS ESPACIAIS estão de volta em força total!
 
 message_94:
-      text: \n<SPACE PIRATE MATE>Eu espero que todo mundo esteja se divertindo!
+      text: \n<COLEGA PIRATA ESPACIAL>Eu espero que todo mundo esteja se divertindo!
 
-#Space Pirate PAL
+#COMPANHEIRO PIRATA ESPACIAL
 message_95:
-      text: \n<SPACE PIRATE PAL>O CAPITÃO pediu pra mim pra ficar aqui pra vigiar a nave antiga.\! Ele é tão legal quando me dá ordens!
+      text: \n<COMPANHEIRO PIRATA ESPACIAL>O CAPITÃO me pediu para que eu ficasse aqui para cuidar de sua velha nave.\! Ele é tão legal quando tá me dando ordens!
 
 
                         #====NIGHT 3====
 
-#Colony Mole 1: Same as Night 1-2
-#Colony Mole 2: Same as Night 1-2
-#Colony Mole 3: Same as Night 1-2
-#Creepy Cat: Show Creepy Cat Picture
+#BROTOPEIRA DA COLÔNIA 1: Same as Night 1-2
+#BROTOPEIRA DA COLÔNIA 2: Same as Night 1-2
+#BROTOPEIRA DA COLÔNIA 3: Same as Night 1-2
+#GATO ASSUSTADOR: Show GATO ASSUSTADOR Picture
 #Duckies: Same as Night 1-2
 #Ferris: Same as Night 1-2
 #JJ: Same as Night 1-2
 #LARAMIE
 message_100:
-      text: \n<LARAMIE>Eu ouvi dizer que o CAPITÃO dos PIRATAS ESPACIAIS caiu da base do \c[11]OUTRO MUNDO\c[0]...
+      text: \n<LARAMIE>Eu ouvi dizer que o CAPITÃO dos PIRATAS ESPACIAIS sumiu da face de \c[11]OUTRO MUNDO\c[0]...
 
 message_101:
-      text: \n<LARAMIE>Os PIRATAS ESPACIAIS devem estar em pânico novamente!\! Há sempre algo novo com eles, não há?
+      text: \n<LARAMIE>Os PIRATAS ESPACIAIS devem estar em pânico!\! Tem sempre algo novo acontecendo com eles, não tem?
 
-#LONE Mole
+#BROTOPEIRA SOLITÁRIA
 #Location: Forgotten Pier
 message_102:
-      text: \n<LONE MOLE>Eu tô tão sozinho!\! Eu amo aqui!
+      text: \n<BROTOPEIRA SOLITÁRIA>Eu estou tão sozinho!\! Eu amo aqui!
 
 #PESSI: Sprout Mole Village - Stolen quest (Incomplete)
 #Pluto: N/A
@@ -403,82 +403,82 @@ message_102:
 #Snaley: Location: N/A
 #Space BF: Frozen Forest quest
 #TV Girl: Same as Night 2
-#Veggie kids: N/A
-#Space pirate ACE
-#Space Pirate Amigo: Last Resort: Same as Night 1-2
-#Space Pirate Bro: Location Last Resort
+#CRIANÇA VEGETALs: N/A
+#PIRATA ESPACIAL PRO
+#AMIGO PIRATA ESPACIAL: Last Resort: Same as Night 1-2
+#MERMÃO PIRATA ESPACIAL: Location Last Resort
 message_105:
-      text: \n<SPACE PIRATE BRO>Depois que a SWEETHEART saiu, CAPT. ESPAC-, digo...\! MARIDO ESPACIAL fugiu e desapareceu...
+      text: \n<MERMÃO PIRATA ESPACIAL>Depois que a SWEETHEART saiu, CAPT. SPACEB-, Quero dizer...\! MARIDO ESPACIAL fugiu e desapareceu...
 
 message_106:
-      text: \n<SPACE PIRATE BRO>Nós temos um time de busca lá fora procurando, mas não há qualquer sinal dele!\! Aonde ele pode ter ido?
+      text: \n<MERMÃO PIRATA ESPACIAL>Nós temos uma equipe procurando por ele, mas não tem sinal dele em nenhum lugar!\! Para onde ele pode ter ido?
 
-#Space pirate BUDDY
+#AMIGÃO PIRATA ESPACIAL
 #Location: Orange Oasis
 message_107:
-      text: \n<SPACE PIRATE BUDDY>\SINV[1]Ah, PLUTÃO...\! PLUTÃO...\! Aonde você está?\!\SINV[0]<br>...\! Esse lugar é tão grande.\!<br>Como nós vamos achar ele?
+      text: \n<AMIGÃO PIRATA ESPACIAL>\SINV[1]Oh, PLUTÃO...\! PLUTÃO...\! Onde você está?\!\SINV[0]<br>Aaah...\! Esse lugar é tão grande.\!<br>Como que nós podemos até mesmo tentar achar-lo?
 
-#Space Pirate CHIEF
+#CHEFE PIRATA ESPACIAL
 #Location: Last Resort
 message_108:
-      text: \n<SPACE PIRATE CHIEF>Bwark!\! Esse lugar é o lixo!
+      text: \n<CHEFE PIRATA ESPACIAL>Bwark!\! Esse lugar é um lixo!
 
-#Space pirate DUDE
+#CARA PIRATA ESPACIAL
 #Location: Orange Oasis
 message_109:
-      text: \n<SPACE PIRATE DUDE>Sigh...\! Eu estou começando a sentir falta da tripulação, cara...
+      text: \n<CARA PIRATA ESPACIAL>Aaah...\! Eu estou começando à sentir falta da tripulação, cara...
 
 message_110:
-      text: \n<SPACE PIRATE GUY>Huff...\! Huff...\! CAPITÃO...\! meu amigo...\!<br>Mesmo após tudo isso...\! Eu ainda acredito em você!
+      text: \n<MANO PIRATA ESPACIAL>Huff...\! Huff...\! CAPITÃO...\! meu mano...\!<br>Até mesmo depois de tudo...\! Eu ainda acredito em você!
 
 message_111:
-      text: \n<SPACE PIRATE MATE>Ahoy, parceiro!\! Fico feliz em dizer que o CAPT. ESPACIAL e os PIRATAS ESPACIAIS estão de volta com força total!\! Eu espero que todo mundo esteja se divertindo!
+      text: \n<COLEGA PIRATA ESPACIAL>Olá, colega!\! Estou feliz em dizer que CAP. SPACEBOY e os PIRATAS ESPACIAIS de volta em força total!\! Eu espero que todo mundo esteja se divertindo!
 
-#SPACE PIRATE PAL: Same as Night 2
+#COMPANHEIRO PIRATA ESPACIAL: Same as Night 2
 
                         #====NIGHT 4====
 
 message_130:
-      text: \n<LARAMIE>Eu ouvi dizer que o pai do CAPT. ESPACIAL, BARBA ROSA voltou após ouvir que o CAPT. ESPACIAL desapareceu!\!<br>Ah, o drama!\! Poderia ficar ainda pior?
+      text: \n<LARAMIE>Eu ouvi dizer que o pai do CAP. SPACEBOY, BARBA ROSA voltou depois que ouviu que ele havia desaparecido!\!<br>Oh, o drama!\! Could it get any more juicy?
 
-#Lone Mole: N/A
+#BROTOPEIRA SOLITÁRIA: N/A
 #ESSI: Slime Girl's Lair
 
 message_140:
-      text: \n<SPACE PIRATE ACE>Yay!\! O CAPITÃO está de volta...\! de novo...\! mas por quanto tempo?
+      text: \n<PIRATA ESPACIAL PRO>Yay!\! O CAPITÃO está de volta...\! de novo...\! mas por quanto tempo?
 
 message_141:
-      text: \n<SPACE PIRATE AMIGO>Se você puder passar pela dor...\! você pode passar pela cura dela.
+      text: \n<AMIGO PIRATA ESPACIAL>Se você consegue sentir a sua dor...\! você também pode curar a sua dor.
 
 #Location: Lost Forest
 message_142:
-      text: \n<SPACE PIRATE BUDDY>Hey, colega...\!<br>Eu não acho que PLUTÃO estaria num lugar por aqui.
+      text: \n<AMIGÃO PIRATA ESPACIAL>Ei, amigão...\!<br>Eu não acho que o PLUTÃO estaria em algum lugar como esse.
 
 message_143:
-      text: \n<SPACE PIRATE DUDE>Eu acho que estamos perdidos, cara...\!<br>Nós devemos estar muito longe de casa.
+      text: \n<CARA PIRATA ESPACIAL>Eu acho que estamos perdidos, cara...\!<br>Nós devemos estar bem longe de casa.
 
 message_144:
-      text: \n<SPACE PIRATE BRO>Sniff...\! Eu sabia que o CAPITÃO voltaria...\! Bem-vindo novamente, CAPITÃO. 
+      text: \n<MERMÃO PIRATA ESPACIAL>Sniff...\! Eu sabia que o CAPITÃO iria voltar...\! Bem-vindo de volta, CAPITÃO.
 
 message_145:
-      text: \n<SPACE PIRATE ACE>Sniff...\! O CAPITÃO fugiu...\! novamente...
+      text: \n<PIRATA ESPACIAL PRO>Sniff...\! O CAPITÃO fugiu...\! de novo...
 
 #========================== Message in a bottle ========================
 
 message_160:
-      text: É uma mensagem numa garrafa!
+      text: Tem uma mensagem em uma garrafa!
 
 message_161:
-      text: Lê-se...<br>"Complete a lacuna."
+      text: Está escrito...<br>"Preencha o espaço em branco."
 
 message_162:
-      text: "Quando a lua atinge seus olhos como uma grande fatia de pizza,<br>É o ________."
+      text: "Quando a lua acerta o seu olho como uma grande torta de pizza,<br>Isso é ________."
 
 message_163:
       text: Como você gostaria de responder?
 
 message_164:
-      text: Escreva sua resposta e jogue ela no lago.
+      text: Você escreveu a sua resposta e jogou a garra no lago.
 
 message_165:
       text: OMORI
@@ -490,40 +490,40 @@ message_167:
       text: KEL
 
 message_168:
-      text: HERO    
+      text: HERO
 
 
 #-----
 
 message_170:
-      text: Os piratas espaciais fazem "ahoy".
+      text: Os PIRATAS ESPACIAIS estão gritando.
 
 
-#----   
+#----
 
 message_200:
-      text: \n<CONSTRUCTION MOLE>Depois que a SWEETHEART estreou seu ultimo episódio, algumas brotopeiras estão voltando para as colonias.
+      text: \n<BROTOPEIRA DA CONSTRUÇÃO>Depois que a SWEETHEART fez seu último episódio, algumas BROTOPEIRAS estão começando a volar para as colônias.
 
 message_201:
-      text: \n<CONSTRUCTION MOLE>Este é um imóvel nobre!
+      text: \n<BROTOPEIRA DA CONSTRUÇÃO>Isso é um imóvel de primeira!
 
 message_202:
-      text: \n<NEW COLONY MOLE>Muitos morreram durante a segunda grande viagem...\! mas sacrifícios tem que ser feitos pelo progresso!
+      text: \n<NOVA BROTOPEIRA DA COLÔNIA>Muitos foram perdidos na segunda grande manobra...\! mas sacrifícios devem ser feitos pelo progresso!
 
 message_203:
-      text: \n<NEW COLONY MOLE>Aqui é muito mais espaçoso do que na \c[11]VILA DAS BROTOPEIRAS\c[0].\! talvez \sinv[1]muito\sinv[0] espaçoso.
+      text: \n<NOVA BROTOPEIRA DA COLÔNIA>É bem mais epaçoso aqui do que lá no \c[11]VILAREJO DAS BROTOPEIRAS\c[0].\! Talvez até espaçoso \sinv[1]demais\sinv[0].
 
 message_204:
-      text: \n<BIG MOLIO>Saúde.
+      text: \n<GRANDE MOLIO>Saúde.
 
 message_205:
-      text: \n<NEW COLONY MOLE>Não sei como me sinto por ter um colega de quarto...\!<br>Espero que ele lave os pratos.
+      text: \n<NOVA BROTOPEIRA DA COLÔNIA>Eu não sei como eu me sinto em ter um colega de quarto...\!<br>Eu espero que ele lave a minha louça para mim.
 
 message_206:
-      text: \n<CONSTRUCTION MOLE>Construindo um futuro melhor...\! Esse é o caminho das brotopeiras!
+      text: \n<BROTOPEIRA DA CONSTRUÇÃO>Construindo em direção à um futuro melhor...\! Esse é o jeito BROTOPEIRA!
 
 message_207:
-      text: \n<NEW COLONY MOLE>Não sei como me sinto por ter um colega de quarto...\!<br>Espero que ele dobre as roupas.
+      text: \n<NOVA BROTOPEIRA DA COLÔNIA>Eu não sei como eu me sinto em ter um colega de quarto...\!<br>Eu espero que ele dobre a roupa para mim.
 
 message_208:
-      text: \n<NEW COLONY MOLE>Não sei como me sinto por ter um colega de quarto...\!<br>Espero que ele faça as compras.
+      text: \n<NOVA BROTOPEIRA DA COLÔNIA>Eu não sei como eu me sinto em ter um colega de quarto...\!<br>Eu espero que ele compre comida para mim.
