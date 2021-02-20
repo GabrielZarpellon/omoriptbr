@@ -703,7 +703,7 @@ Window_OmoMenuOptionsCategory.prototype.customCursorRectTextXOffset = function()
 //=============================================================================
 Window_OmoMenuOptionsCategory.prototype.makeCommandList = function() {
   this.addCommand('GERAL', 'ok');
-  this.addCommand('AUDIO', 'ok');
+  this.addCommand('ÁUDIO', 'ok');
   // this.addCommand('GAMEPLAY', 'ok');
   this.addCommand('CONTROLES', 'ok');
   this.addCommand('SISTEMA', 'ok');
