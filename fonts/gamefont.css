@@ -1,0 +1,43 @@
+@font-face {
+    font-family: GameFont;
+    src: url("OMORI_GAME2.ttf");
+}
+
+body {
+    overflow: hidden;
+}
+
+#fpsCounterBox {
+    position: absolute;
+    left: 5px;
+    top: 5px;
+    width: 90px;
+    height: 40px;
+    background: #222;
+    opacity: 0.8;
+    z-index: 8;
+}
+#fpsCounterLabel {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    padding: 5px 10px;
+    height: 30px;
+    line-height: 32px;
+    font-size: 24px;
+    font-family: GameFont;
+    color: #fff;
+    text-align: left;
+}
+#fpsCounterNumber {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    padding: 5px 10px;
+    height: 30px;
+    line-height: 30px;
+    font-size: 28px;
+    font-family: GameFont;
+    color: #fff;
+    text-align: right;
+}
