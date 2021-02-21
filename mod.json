@@ -23,7 +23,8 @@
 	  "img/sv_actors/",
 	  "img/battlebacks1/",
 	  "img/animations/",
-	  "img/pictures/Sequence/"
+	  "img/pictures/Sequence/",
+	  "movies/"
 	],
     "exec": [],
 	"data_pluto": [
