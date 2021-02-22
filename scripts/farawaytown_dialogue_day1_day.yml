@@ -169,10 +169,10 @@ message_134:
 #Location: Supermarket, working at the Bakery
 
 message_140:
-      text: \n<UM GÊMEO>\SINV[1]Pão fesquinho...\SINV[0]
+      text: \n<UM GÊMEO>\SINV[1]Pão fresquinho...\SINV[0]
 
 message_141:
-      text: \n<O OUTRO GÊMEO>\SINV[1]Pão fesquinho...\SINV[0]
+      text: \n<O OUTRO GÊMEO>\SINV[1]Pão fresquinho...\SINV[0]
 
 message_142:
       text: \n<OS GÊMEOS>\SINV[1]Vocês gostariam de alguns pães fresquinhos?\SINV[0]

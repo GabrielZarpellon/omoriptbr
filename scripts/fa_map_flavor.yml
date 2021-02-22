@@ -6,16 +6,16 @@
 
 #For Sale Sign:
 message_1:
-      text: Uma placa escrita \"À VENDA\" com um adesivo grande e vermelho escrito \"VENDIDA\".\!<br>Sua casa foi vendida.\! Em três dias, você se mudará para um lugar novo.
+      text: Uma placa escrita \"À VENDA\" com um adesivo grande e vermelho escrito \"VENDIDA\".\!<br>Sua casa foi vendida.\! <br>Em três dias, você se mudará para um lugar novo.
 
 message_2:
-      text: Uma placa escrita \"À VENDA\" com um adesivo grande e vermelho escrito \"VENDIDA\".\!<br>Sua casa foi vendida.\! Em dois dias, você se mudará para um lugar novo.
+      text: Uma placa escrita \"À VENDA\" com um adesivo grande e vermelho escrito \"VENDIDA\".\!<br>Sua casa foi vendida.\! <br>Em dois dias, você se mudará para um lugar novo.
 
 message_3:
-      text: Uma placa escrita \"À VENDA\" com um adesivo grande e vermelho escrito \"VENDIDA\".\!<br>Sua casa foi vendida.\! Amanhã, você se mudará para um lugar novo.\! ...\! Você vai sentir saudade daqui.
+      text: Uma placa escrita \"À VENDA\" com um adesivo grande e vermelho escrito \"VENDIDA\".\!<br>Sua casa foi vendida.\! <br>Amanhã, você se mudará para um lugar novo.\! ...\! Você vai sentir saudade daqui.
 
 message_4:
-      text: Uma placa escrita \"À VENDA\" com um adesivo grande e vermelho escrito \"VENDIDA\".\!<br>Sua casa foi vendida.\! Hoje, você se mudará para um lugar novo.
+      text: Uma placa escrita \"À VENDA\" com um adesivo grande e vermelho escrito \"VENDIDA\".\!<br>Sua casa foi vendida.\! <br>Hoje, você se mudará para um lugar novo.
 
 #Mailbox:
 message_5:
@@ -900,7 +900,7 @@ message_308:
 
 #Vance Desk:
 message_309:
-      text: Uma escrivaninha bagunçada com um monte de cartas de troca e \c[3]DOCES\c[0] .
+      text: Uma escrivaninha bagunçada com um monte de cartinhas e \c[3]DOCES\c[0] .
 
 #Bathroom:
 message_310:
@@ -1241,11 +1241,11 @@ message_446:
 
 #Trading cards:
 message_447:
-      text: Tem algumas cartas de troca brilhantes na mesa.
+      text: Tem algumas cartinhas brilhantes na mesa.
 
 #Trading cards on floor:
 message_448:
-      text: Cartas de troca estão espalhadas pela mesa.
+      text: Cartinhas estão espalhadas pela mesa.
 
 #Puzzle:
 message_449:
@@ -1605,7 +1605,7 @@ message_587:
       text: Um carrinho cheio de frutas.\! A maioria maçãs.
 
 message_588:
-      text: \"PARQUE TÃO-DISTANTE\\"<br>\!\"O FUTURO PERTENCE AOS SONHADORES!\"
+      text: \"PARQUE TÃO-DISTANTE\"<br>\!\"O FUTURO PERTENCE AOS SONHADORES!\"
 
 #============================
 
