@@ -129,13 +129,13 @@ message_103:
 # - THE CAT
 # -----------------------------------------------
 message_104:
-    text: \n<CAT>Miau?
+    text: \n<GATO>Miau?
 
 # -----------------------------------------------
 # - THE LAPTOP
 # -----------------------------------------------
 message_105:
-    text: "Só um monte de estático."
+    text: "Só um monte de estática."
 message_106:
     text: "O que você gostaria de fazer?"
 message_107:

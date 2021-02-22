@@ -356,7 +356,7 @@ message_203:
 message_204:
     faceset: MainCharacters_DreamWorld
     faceindex: 17
-    text: \kel\Com[2]Esse é um pequeno passo para o KEL...\.<br>e um grande passo para a RAÇAKEL!!
+    text: \kel\Com[2]Esse é um pequeno passo para o KEL...\.<br>e um grande passo para os KELIANOS!!
 
 message_205:
     faceset: MainCharacters_DreamWorld
@@ -376,7 +376,7 @@ message_207:
 message_208:
     faceset: MainCharacters_DreamWorld
     faceindex: 10
-    text: \aub\{TIRE AQUILO DE LÁ JÁ!\}
+    text: \aub\{TIRA ISSO DAÍ JÁ!\}
 
 message_209:
     faceset: MainCharacters_DreamWorld
@@ -386,12 +386,12 @@ message_209:
 message_210:
     faceset: MainCharacters_DreamWorld
     faceindex: 19
-    text: \kelSem chance!<br>Olhe aquela coisa balançando no vento.
+    text: \kelSem chance!<br>Olha esta coisa balançando no vento.
 
 message_211:
     faceset: MainCharacters_DreamWorld
     faceindex: 23
-    text: \kel\sinv[1]Tão majestoso...\| Tão lindo...
+    text: \kel\sinv[1]Tão majestosa...\| Tão linda...
 
 message_212:
     faceset: MainCharacters_DreamWorld
@@ -421,7 +421,7 @@ message_216:
 message_217:
     faceset: MainCharacters_DreamWorld
     faceindex: 39
-    text: \her Está na ponta da minha língua...
+    text: \herEstá na ponta da minha língua...
 
 message_218:
     faceset: MainCharacters_DreamWorld

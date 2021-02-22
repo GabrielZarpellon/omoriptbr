@@ -5,13 +5,13 @@
 #Trigger: Go up to Space boyfriends house
 
 message_0:
-      text: \Com[2]Parem, crianças!\!<br>Você agora está entrando na residência de...\spg
+      text: \Com[2]Parem, crianças!\!<br>Vocês agora estão entrando na residência de...\spg
 
 message_1:
       text: O capitão dos PIRATAS ESPACIAIS...\!<br>O mestre do SISTEMA SOLAR...\!<br>O príncipe do universo...\spg
 
 message_2:
-      text: O primeiro e único CAPITÃO SPACE-\! Quero dizer...\! Err...\!<br>Você está entrando na casa de... \!CAPITÃO...\! NAMORADO.\spg
+      text: O primeiro e único CAPITÃO SPACE-\! Quero dizer...\! Err...\!<br>Você está entrando na casa de... \!NAMORADO...\! ESPACIAL.\spg
 
 message_3:
       faceset: MainCharacters_DreamWorld

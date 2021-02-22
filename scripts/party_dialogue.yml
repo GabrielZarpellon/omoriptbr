@@ -48,7 +48,7 @@ message_11:
       text: Pressione \DII[pagedown] para abir o MAPA DO ESPAÇO MENTAL.
 
 message_12:
-      text: Nada além de estático.
+      text: Nada além de estática.
 
 #------------------------------------------------------------------------------------------
 
@@ -130,7 +130,7 @@ message_37:
 message_38:
       faceset: MainCharacter_Mari
       faceindex: 0
-      text: \marÉ esso o espírito, HERO.\!<br>E como sempre, eu vou estar aqui se precisarem de mim!
+      text: \marÉ isso o espírito, HERO.\!<br>E como sempre, Eu vou estar aqui se precisarem de mim!
 
 #------------------------------------------------------------------------------------------
 
