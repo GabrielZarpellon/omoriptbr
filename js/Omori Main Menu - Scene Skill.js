@@ -245,10 +245,10 @@ Scene_OmoMenuSkill.prototype.onActorSkillControlUse = function() {
     this._statusWindow._okSoundEnabled = false;
     // If Item is for all
     if (this.isItemForAll()) {
-      this._statusWindow.setCursorText('USE ON ALL?');
+      this._statusWindow.setCursorText('USAR EM TODOS?');
       this._statusWindow.setCursorAll(true);
     } else {
-      this._statusWindow.setCursorText('USE ON WHO?');
+      this._statusWindow.setCursorText('USAR EM QUEM?');
       this._statusWindow.setCursorAll(false);      
     }
     this._statusWindow.activate();
@@ -492,7 +492,7 @@ Scene_OmoMenuSkill.prototype.hideActorEquipWindow = function(index) {
 
   // Show Help window
   this.queue(function() {   
-    this._statusWindow.setCursorText('SELECT WHO?');
+    this._statusWindow.setCursorText('SELECIONAR QUEM?');
     this._statusWindow.select(index);
     this._statusWindow.activate();
   }.bind(this))
