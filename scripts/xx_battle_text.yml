@@ -2005,7 +2005,7 @@ message_508:
 
 message_509:
    text: >
-    Você ouve seu coração batento.
+    Você ouve seu coração batendo.
 
 message_510:
    text: >
@@ -2318,7 +2318,7 @@ message_750:
 
 message_751:
    text: >
-    Você tentou FOCAR...\|<br>mas a tontura foi de mais pra você.
+    Você tentou FOCAR...\|<br>mas a tontura foi de mais para você.
 
 # ============PERSIST (Something)
 
@@ -2365,7 +2365,7 @@ message_803:
 
 message_804:
    text: >
-    \>BASIL: \<Talvez algúm dia...\| as coisas possam voltar para o jeito que eram antes.
+    \>BASIL: \<Talvez algum dia...\| as coisas possam voltar para o jeito que eram antes.
 
 message_805:
    text: >
@@ -2424,7 +2424,7 @@ message_911:
 
 message_912:
     text: >
-      \fn<OMORI_GAME>Você não é nada além de um mentiroso...\! e quando eles verem a verdade...
+      \fn<OMORI_GAME>Você não é nada além de um mentiroso...\! e quando eles virem a verdade...
 
 message_913:
     text: >
@@ -2440,12 +2440,12 @@ message_915:
 
 message_916:
     text: >
-      \fn<OMORI_GAME>Tudo que você vai fazer é deixar as coisas piores.\! Ia ser melhor se você morrer.
+      \fn<OMORI_GAME>Tudo que você vai fazer é deixar as coisas piores.\! Ia ser melhor se você morresse.
 
 
 message_917:
     text: >
-      \fn<OMORI_GAME>Ia ser melhor se você morrer.
+      \fn<OMORI_GAME>Ia ser melhor se você morresse.
 
 message_918:
     text: >
