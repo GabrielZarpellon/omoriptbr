@@ -5,7 +5,7 @@
 #Trigger: Examine Basil's House Door.
 
 message_0:
-      text: Ah... Graças a deus vocês voltaram...\n<POLLY>
+      text: Ah... Graças a Deus vocês voltaram...\n<POLLY>
 
 message_1:
       faceset: MainCharacters_Faraway
@@ -125,7 +125,7 @@ message_37:
       text: POLLY...\! Você acha que a gente pode dormir aqui essa noite?\her
 
 message_38:
-      text: Ohh...\! Vocês são todos tão gentís...\!<br>Claro que podem dormir aqui!\n<POLLY>
+      text: Ohh...\! Vocês são todos tão gentis...\!<br>Claro que podem dormir aqui!\n<POLLY>
 
 message_39:
       text: Eu acho que o BASIL iria adorar...\!<br>Eu sei que vocês significam muito pra ele.\n<POLLY>
@@ -155,7 +155,7 @@ message_44:
 message_45:
       faceset: MainCharacters_Faraway
       faceindex: 13
-      text: \sinv[1]Bem, duh!\sinv[0]\! É por que eu pedi primeiro!\kel
+      text: \sinv[1]Bem, duh!\sinv[0]\! É porque eu pedi primeiro!\kel
 
 #AUBREY hits KEL.
 
@@ -259,7 +259,7 @@ message_87:
       text: ...\| ...\| ...\kel
 
 message_88:
-      text: \sinv[1]Snore...\kel
+      text: \sinv[1]Ronco...\kel
 
 #AUBREY is surprised.
 
