@@ -571,10 +571,10 @@ message_200:
 
 
 message_201:
-      text: \sinv[1]Parabéns pra você!\! Nessa data querida!\n<EVERYONE>
+      text: \sinv[1]Parabéns pra você!\! Nessa data querida!\n<TODO MUNDO>
 
 message_202:
-      text: \sinv[1]Muitas felicidades!\! Muitos anos de vida!\n<EVERYONE>
+      text: \sinv[1]Muitas felicidades!\! Muitos anos de vida!\n<TODO MUNDO>
 
 message_203:
       text: \kel\sinv[1]\{UUUUU-HUUUUUL!!\!\}\sinv[0]<br>Apaga as velinhas, BASIL!
