@@ -23,10 +23,10 @@ message_1:
     text: \plu\Com[2]\sinv[2]\{GWAHA\{HAHA\{HAHAHAHA!!\}
 
 message_2:
-    text: \pluEu entendo vocês bem...\!<br>Eu ainda estou sentindo as consequências de nossa batalha calorosa.<br>\!Foi uma memória que vou guardar para sempre!
+    text: \pluEu entendo vocês...\!<br>Ainda estou sentindo as consequências de nossa batalha calorosa.<br>\!Foi uma memória que vou guardar para sempre!
 
 message_3:
-    text: \pluVocês ficaram incrívelmente fortes, mas como tudo, ainda há como melhorar.
+    text: \pluVocês ficaram incrivelmente fortes, mas como tudo, ainda há como melhorar.
 
 #*Pluto walks in front of KEL*
 
@@ -68,7 +68,7 @@ message_10:
 #*PLUTO flexes*
 
 message_11:
-    text: \pluSe prepare, KEL! Eu não vou mudar de ideia.
+    text: \pluSe prepare, KEL! Eu não irei mudar de ideia.
 
 #*Screen turns black*
 #*Wait*
@@ -102,12 +102,12 @@ message_20:
     text: \n<BERLY>Resmungo... resmungo...
 #BERLY hops.
 message_21:
-    text: \n<BERLY>HEi, VAN! Vem aqui me fazer um favor!
+    text: \n<BERLY>Ei, VAN! Vem aqui me fazer um favor!
 
 #*HAPPY hops and then HAPPY, BROWS, and BANGS walk off---screen.*
 
 message_22:
-    text: \n<VAN>O wur? Você queria alguma coisa, BERLY?
+    text: \n<VAN>O quê? Você queria alguma coisa, BERLY?
 
 message_23:
     text: \n<BERLY>Sim, fique bem aqui e olhe para lá.
@@ -123,10 +123,10 @@ message_25:
 message_26:
     faceset: MainCharacters_DreamWorld
     faceindex: 8
-    text: \aubO que você quer agora, BERLY?
+    text: \aubO quê você quer agora, BERLY?
 
 message_27:
-    text: \n<BERLY>AUBREY!\! \sinv[1]AUBREY, AUBREY, AUBREY...\sinv[0]\!<br>Qual é a desse tom mal-educado?\! Hein? Somos melhores amigos!
+    text: \n<BERLY>AUBREY!\! \sinv[1]AUBREY, AUBREY, AUBREY...\sinv[0]\!<br>Qual é a desse tom mal-educado?\! Hein? Somos melhores amigas!
 
 message_28:
     text: \n<BERLY>Agora, você está vendo aquele grandalhão ali?
@@ -142,7 +142,7 @@ message_30:
 message_31:
     faceset: MainCharacters_DreamWorld
     faceindex: 10
-    text: \aub\com[2]O-O que!? Por quê!?\! E se ele se machucar?
+    text: \aub\com[2]O-O quê!? Por quê!?\! E se ele se machucar?
 
 message_32:
     text: \n<BERLY>Sempre com as perguntas! Você não consegue fazer algo sem pensar sequer uma vez!?
@@ -154,7 +154,7 @@ message_33:
 #Talk to VAN as not---\aub
 #*BERLY jumps.*
 message_34:
-    text: \n<BERLY>Ei! Eu pedi para a AUBREY! Não você!
+    text: \n<BERLY>Ei! Eu pedi pra a AUBREY! Não você!
 
 #Talk to VAN as \aub
 #*AUBREY smashes VAN.*
@@ -166,7 +166,7 @@ message_35:
     text: \aubBeleza, pronto. Feito. Agora o que?
 
 message_36:
-    text: \n<BERLY>Faça denovo! Faça até eu dizer para parar!
+    text: \n<BERLY>Faça de novo! Faça até eu dizer pra parar!
 
 #*AUBREY smashes VAN.*
 
@@ -183,7 +183,7 @@ message_38:
 #*AUBREY smashes VAN.*
 
 message_39:
-    text: \n<BERLY>Você está chegando em algum lugar, eu acho!\!<br>Qual é, você consegue!\! Força! Força!
+    text: \n<BERLY>Você tá chegando em algum lugar, eu acho!\!<br>Qual é, você consegue!\! Força! Força!
 
 message_40:
     faceset: MainCharacters_DreamWorld
@@ -191,7 +191,7 @@ message_40:
     text: \aubHuff... huff...\!<br>Por quanto tempo eu tenho que fazer isso!?
 
 message_41:
-    text: \n<BERLY>Até eu dizer para parar! Não desacelere agora!
+    text: \n<BERLY>Até eu dizer pra parar! Não desacelere agora!
 
 #*AUBREY smashes VAN.*
 #*AUBREY smashes VAN.*
@@ -200,7 +200,7 @@ message_41:
 message_42:
     faceset: MainCharacters_DreamWorld
     faceindex: 7
-    text: \aubHuff... Huff...\! Socorro! Meus braços parecem macarrão!
+    text: \aubHuff... Huff...\! Socorro! Meus braços estão moles!
 
 message_43:
     text: \n<BERLY>Continue tentando! Você está quase lá!
@@ -238,7 +238,7 @@ message_48:
 message_49:
     faceset: MainCharacters_DreamWorld
     faceindex: 7
-    text: \aubHuff...\! Para o que... huff...\! tudo isso serviu?
+    text: \aubHuff...\! Pra que... huff...\! serviu tudo isso?
 
 message_50:
     text: \n<BERLY>...
@@ -246,15 +246,15 @@ message_50:
 #BERLY is frustrated.
 
 message_51:
-    text: \n<BERLY>Tanto faz, nada não. Eu só estava entediada.\!<br>Mas honestamente...\! isso foi bem entediante, também.
+    text: \n<BERLY>Tanto faz, nada não. Eu só estava entediada.\!<br>Mas honestamente...\! isso foi bem entediante também.
 
 message_52:
     faceset: MainCharacters_DreamWorld
     faceindex: 10
-    text: \aub\Com[2]\{\quake[1]QUE!?\! HUFF...\! SÓ ISSO!?\quake[0]
+    text: \aub\Com[2]\{\quake[1]QUÊ!?\! HUFF...\! SÓ ISSO!?\quake[0]
 
 message_53:
-    text: \n<BERLY>Ei, pelo menos você ganhou algo por isso!\!<br>Eu ainda estou entediada aqui!\! Resmungo... resmungo...
+    text: \n<BERLY>Ei, pelo menos você ganhou algo!\!<br>Eu ainda estou entediada aqui!\! Resmungo... resmungo...
 
 message_54:
     text: \n<BERLY>Bora, VAN...\! Vamos jogar espirobol.
@@ -264,7 +264,7 @@ message_54:
 message_55:
     faceset: MainCharacters_DreamWorld
     faceindex: 11
-    text: \aubHuff...\! Huff...\!<br>Eu...\! Huff...\! Eu só não consigo entender a BERLY...
+    text: \aubHuff...\! Huff...\!<br>Eu...\! Huff...\! Eu não consigo entender a BERLY...
 
 
 #---- If you try to leave
@@ -302,20 +302,20 @@ message_76:
 
 #Talk to SCAREBRO as \n<HERO>
 message_77:
-    text: Você gostaria de socar o ESPANMANO?
+    text: Você deseja socar o ESPANMANO?
 #[YES/NO]
 
 #---
 #[YES]
 #*HERO softly rams into SCAREBRO*
 message_78:
-    text: \n<SR. ESPANMANO>O que foi isso, cara?\!<br>Você não estaria se fingindo para mim, estaria?
+    text: \n<SR. ESPANMANO>O que foi isso, cara?\!<br>Você não estaria se fingindo pra mim, estaria?
 
 message_79:
-    text: \n<SR. ESPANMANO>Um mano nunca faria algo assim.<br>\!Tente denovo. Você consegue, cara.
+    text: \n<SR. ESPANMANO>Um mano nunca faria algo assim.<br>\!Tente de novo. Você consegue, cara.
 
 message_80:
-    text: Você gostaria de socar o ESPANMANO?
+    text: Você deseja socar o ESPANMANO?
 #[YES/NO]
 
 #*HERO rams into SCAREBRO*
@@ -355,7 +355,7 @@ message_85:
 #Mushroom Man can be found by eating the mushrooms in the water in SW Library.
 
 message_100:
-    text: Um cogumelo suuspeito.\!<br>Você gostaria de dar uma mordida?
+    text: Um cogumelo suspeito.\!<br>Você gostaria de dar uma mordida?
 
 #Bulbs before learning skill:
 
@@ -412,10 +412,10 @@ message_112:
     text: \n<JOVEM COGUMELO>Finalmente, estou livre!\! Excelente, excelente, excelente...
 
 message_113:
-    text: \n<YOUNG SHROOM>Take this! It's a gift from me!
+    text: \n<YOUNG SHROOM>Pegue isso! É um presente!
 
 message_114:
-    text: You got a \c[5]DANDELION\c[0]!
+    text: Você ganhou um \c[5]DENTE-DE-LEÃO\c[0]!
 
 message_115:
     text: \n<YOUNG SHROOM>Excelente! Excelente, excelente, excelente...
@@ -444,7 +444,7 @@ message_122:
 #After smashing wall next to \n<LARGE FACE>
 
 message_123:
-    text: \n<GRANDE ROSTO>meus pertences mais preciosos...
+    text: \n<GRANDE ROSTO>Meus pertences mais preciosos...
 
 #------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -504,7 +504,7 @@ message_135:
 message_136:
     faceset: MainCharacters_DreamWorld
     faceindex: 37
-    text: \herAh, ei! É esse lugar!\! Vocês querem entrar?\!<br>SR. MANDIBARÃO me disse a senha uma vez para que eu pudesse completar uma de suas mensagens.
+    text: \herAh, ei! É esse lugar!\! Vocês querem entrar?\!<br>SR. MANDIBARÃO me disse a senha uma vez pra que eu pudesse completar uma de suas mensagens.
 
 message_137:
     faceset: MainCharacters_DreamWorld
@@ -521,7 +521,7 @@ message_139:
 message_140:
     faceset: MainCharacters_DreamWorld
     faceindex: 37
-    text: \herHey, HOAGIE! Sou eu, HERO!\!<br>A senha é ☐☐☐☐☐☐☐.
+    text: \herEi, HOAGIE! Sou eu, HERO!\!<br>A senha é ☐☐☐☐☐☐☐.
 
 message_141:
     text: \n<HOAGIE>HERO, cara! Bem-vindo, bem-vindo!\!<br>A porta está destrancada. Pode entrar!
@@ -776,7 +776,7 @@ message_211:
 #Return in Epilogue after Intro:
 
 message_212:
-    text: \n<GUARDIÃO DO CASTELO>Vocês são corajosos em falar comigo denovo, jovens.
+    text: \n<GUARDIÃO DO CASTELO>Vocês são corajosos em falar comigo de novo, jovens.
 
 message_213:
     text: \n<GUARDIÃO DO CASTELO>O tempo passou.\!<br>SWEETHEART partiu e não voltará.\! Eu sei disso.\!<br>E agora, é hora de eu procurar por um novo dono.
@@ -793,7 +793,7 @@ message_215:
 #[YES]
 
 message_230:
-    text: \n<GUARDIÃO DO CASTELO>O \c[11]CASTELO DA SWEETHEART\c[0] não existirá mais.\!<br>Está certo que é isso que deseja?
+    text: \n<GUARDIÃO DO CASTELO>O \c[11]CASTELO DA SWEETHEART\c[0] não existirá mais.\!<br>Tem certeza que é isso que deseja?
 #[YES/NO]
 
 #*Keeper extends tendril to OMORI's head*
@@ -939,7 +939,7 @@ message_274:
 message_280:
     faceset: MainCharacters_DreamWorld
     faceindex: 18
-    text: \kelEsse não é um elevador legal?\!<br>Cheira à perfume e fumaça.
+    text: \kelEsse não é um elevador legal?\!<br>Cheira à perfume e cigarro.
 
 #KEL turns to MARI.
 #KEL Exclamation
@@ -998,7 +998,7 @@ message_287:
 
 #Examine doll:
 message_300:
-    text: Uma boneca sem face.\!<br>Não parece que pertence à esse lugar.\!<br>Você gostaria de jogá-la fora?
+    text: Uma boneca sem rosto.\!<br>Não parece que pertence à esse lugar.\!<br>Você gostaria de jogá-la fora?
 #[YES/NO]
 
 #If you throw away, when you exit the room, the lights go off and on. If you go back into the room, the doll is back on the bed.
@@ -1007,7 +1007,7 @@ message_300:
 
 #Examine OMORI doll:
 message_301:
-    text: Uma boneca com uma face familiar.
+    text: Uma boneca com um rosto familiar.
 
 message_302:
     text: Os olhos dela foram retirados.\! Quer olhar dentro dela?
@@ -1023,7 +1023,7 @@ message_302:
 
 #Examine bridge:
 message_310:
-    text: A clear bridge stretches across the trench.\!<br>Do you want to cross it?
+    text: Uma ponte se estende pela trincheira.\!<br>Você deseja atravessá-la?
 
 #------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -1035,10 +1035,10 @@ message_320:
     text: \n<CARA JACARÉ>Ei, espere um segundo!\! Você é o... HERO, não é?\!<br>Você é o favorito do chefe!
 
 message_321:
-    text: \n<CARA JACARÉ>Desculpe, senhor. Quase não te reconheci.\! Esses óculos escuros são muito escures, sabe?
+    text: \n<CARA JACARÉ>Desculpe, senhor. Quase não te reconheci.\! Esses óculos escuros são muito escuros, sabe?
 
 message_322:
-    text: \n<CARA JACARÉ>Mesmo se você é o favorito do chefe, regras são regras.\! Mas talvez posso te oferecer um preço mais interessante...
+    text: \n<CARA JACARÉ>Mesmo se você é o favorito do chefe, regras são regras.\! Mas talvez eu possa te oferecer um preço mais interessante...
 
 message_323:
     text: \n<CARA JACARÉ>O que acha de \v[1012] CONCHAS?\$
@@ -1052,7 +1052,7 @@ message_327:
 
 #[YES]
 message_324:
-    text: \n<CARA JACARÉ>Obrigado, cara.\!<br>Me elogie um pouco paro o chefe, que tal?
+    text: \n<CARA JACARÉ>Obrigado, cara.\!<br>Me elogie um pouco pro o chefe, que tal?
 
 #[NO]
 message_325:
@@ -1069,7 +1069,7 @@ message_325:
 
 #Talk to BRANCH CORAL as not-OMORI:
 message_330:
-    text: Um coral mormura besteiras.
+    text: Um coral murmura besteiras.
 
 #Talk to BRANCH CORAL as OMORI.
 
@@ -1108,7 +1108,7 @@ message_341:
     text: \n<CORAL>O amigo que você perdeu não está nesse mundo.\!<br>No dia que ele foi removido, ele renasceu em algum outro lugar.
 
 message_342:
-    text: \n<CORAL>Ele é especial para você.\! Um fio do destino conecta ambos de vocês.\! Ele não pode sair daquele lugar sozinho.
+    text: \n<CORAL>Ele é especial para você.\! Um fio do destino conecta ambos.\! Ele não pode sair daquele lugar sozinho.
 
 message_343:
     text: \n<CORAL>Para recuperá-lo, você terá que se remover também, mas de um jeito que é natural para esse mundo.\! Para o \c[11]ESPAÇO MENTAL\c[0].
@@ -1187,6 +1187,7 @@ message_373:
 #*Wait*
 message_374:
     text: \n<CORAL>Você escutou bem.\! Eu te concedi conhecimento, mas saiba que também posso te conceder poder aqui.
+
 
 message_375:
     text: \n<CORAL>Há um desafio que te ajudará muito nesse mundo.\!<br>É simples sem pensamento... e se você conseguir, sumirei também.
