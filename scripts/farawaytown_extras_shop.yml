@@ -51,7 +51,7 @@ message_106:
 
 #Intro
 message_7:
-      text: \n<SR. PADEIRO>Bem vindo a padaria da nossa família! O que gostaria de comprar?
+      text: \n<SR. PADEIRO>Bem-vindo a padaria da nossa família! O que gostaria de comprar?
 #Purchase
 message_8:
       text: \n<SR. PADEIRO>Excelente escolha! Eu vou empacotar tudo para você agora mesmo!
