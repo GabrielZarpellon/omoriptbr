@@ -956,7 +956,7 @@ message_572:
     text: \n<BROTOPEIRA VIRTUOSA>\com[2]Não, não, não, não, não, não, não!\! Isso não servirá!\!<br>Você no centro-esquerdo! Você chama isso de cantar!?\!<br>O flamingo de plástico do meu primo canta melhor que você!
 
 message_573:
-    text: \n<BROTOPEIRA VIRTUOSA>E não pensem que eu não posso ver vocês ai no fundo dormindo durante o refrão!\! Se recomponham, se não a SWEETHEART nos jogará nas \c[11]MASMORRAS\C[0]!
+    text: \n<BROTOPEIRA VIRTUOSA>E não pensem que eu não posso ver vocês ai no fundo dormindo durante o refrão!\! Se recomponham, senão a SWEETHEART nos jogará nas \c[11]MASMORRAS\C[0]!
 
 message_574:
     faceset: MainCharacters_DreamWorld
@@ -1404,6 +1404,7 @@ message_412:
     text: Você encarou as costas da estátua.
 
     
+ 
 # -----------------------------------------------
 # - SW CASTLE: DUNGEON (183)
 # -----------------------------------------------
@@ -1411,7 +1412,7 @@ message_412:
 #BLOCKING SWITCH
 
 message_173:
-    text: \n<PRISONER MOLE>Huzzah!\! After countless failures, I've finally almost made my escape!\! All I need to do now is find the exit!
+    text: \n<PRISOPEIRA>Haha!\! Depois de incontáveis fracassos, eu finalmente quase escapei!\! Tudo que preciso fazer agora é achar a saída!
 
 # -----------------------------------------------
 # - SW CASTLE: SERVANT'S QUARTER (180)
@@ -1420,23 +1421,23 @@ message_173:
 #TOP LEFT ROOM
 
 message_211:
-    text: SPROUT MOLE
+    text: BROTOPEIRA
 
 message_212:
-    text: OTHER SPROUT MOLE
+    text: OUTRA BROTOPEIRA
 
 # -----------------------------------------------
 # - TRAIN (328)
 # -----------------------------------------------
 
 message_228:
-    text: This person seems occupied.
+    text: Essa pessoa parece ocupada.
 
 message_229:
-    text: TOAST.
+    text: TORRADA.
 
 message_230:
-    text: \fn<OMORI_GAME>\who\quake[1]Stay...\| away...
+    text: \fn<OMORI_GAME>\who\quake[1]Fique...\| longe...
 
 # -----------------------------------------------
 # - ORANGE OASIS: DINO'S DIG (107 - 110)
@@ -1445,57 +1446,57 @@ message_230:
 #EXCAVATION DINO (107)
 
 message_429:
-    text: POTATO SPOON (5)
+    text: COLHER DE BATATA (5)
 
 message_430:
-    text: PLASTIC SPOON (10)
+    text: COLHER DE PLÁSTICO (10)
 
 message_431:
-    text: WOODEN SPOON (15)
+    text: COLHER DE MADEIRA (15)
 
 message_432:
-    text: SILVER SPOON (20)
+    text: COLHER DE PRATA (20)
 
 message_433:
-    text: GOLDEN SPOON
+    text: COLHER DE OURO
 
 message_434:
-    text: \n<DINO>Hey, where are you going?\! \com[2]Don't you want to go on an \sinv[1]adventure\c[0]!?
+    text: \n<DINO>Ei, onde você está indo?\! \com[2]Você não quer ir em uma \sinv[1]aventura\c[0]!?
 
 message_435:
-    text: Você pegou um DINO DOLLAR.
+    text: Você pegou um DINO DÓLAR.
 
 message_436:
-    text: Você pegou \v[1001] DINO DOLLARS.
+    text: Você pegou \v[1001] DINO DÓLARS.
 
 #EXCAVATION DINO (108)
 
 message_439:
-    text: \n<DINO>Want to buy a \c[4]SPOON\c[0]?\!<br>It only costs 1 DINO DOLLAR!
+    text: \n<DINO>Quer comprar uma \c[4]COLHER\c[0]?\!<br>Só custa 1 DINO DÓLAR!
 
 message_441:
-    text: \n<DINO>Dig with your \c[4]SPOON\c[0] and discover wondrous treasures!
+    text: \n<DINO>Cave com uma \c[4]COLHER\c[0] e descubra tesouros maravilhosos!
 
 message_444:
-    text: Você pegou um \c[4]POTATO SPOON\c[0].
+    text: Você pegou uma \c[4]COLHER DE BATATA\c[0].
 
 #EXCAVATION DINO (108 -> Map Teleport: Trying to Leave)
 
-meosage_442:
-    text: \n<DINO>\com[2]What!?\! Are you sure you're done diggin'?
+message_442:
+    text: \n<DINO>\com[2]O quê!?\! Tem certeza que acabou de cavar?
 
 message_443:
-    text: \n<DINO>I don't really understand, but okay!
+    text: \n<DINO>Eu realmente não entendo, mas tudo bem!
 
 #STEG DINO
 
 message_428:
-    text: \n<CHAD>That's my grandfather.
+    text: \n<CHAD>Esse é meu avô.
 
 #SHOP DINO
 
 message_413:
-    text: \n<DINO>Yo! I got some choice goods for sale here! You interested?
+    text: \n<DINO>Ei! Eu tenho alguns bons produtos aqui! Está interessado?
 
 # message_414:
 #     text: Would you like to trade your eggs in for \v[115] DINO DOLLARS?
@@ -1504,37 +1505,37 @@ message_413:
 #     text: You now have \v[1020] DINO DOLLARS.
 
 message_416:
-    text: \n<BRETT>You've already got a \c[4]SPOON\c[0], dude!\! Come back when it breaks and I'll see what I can do for you.
+    text: \n<BRETT>Você já tem uma \c[4]COLHER\c[0], cara!\! Volte quando ela quebrar e vejo o que posso fazer.
 
 message_417:
-    text: You got\c[4] PLASTIC SPOON\c[0].
+    text: Você pegou\c[4] COLHER DE PLÁSTICO\c[0].
 
 message_418:
-    text: You got \c[4]WOODEN SPOON\c[0].
+    text: Você pegou \c[4]COLHER DE MADEIRA\c[0].
 
 message_419:
-    text: You got \c[4]SILVER SPOON\c[0].
+    text: Você pegou \c[4]COLHER DE PRATA\c[0].
 
 message_420:
-    text: You got\c[4] GOLDEN SPOON\c[0].
+    text: Você pegou\c[4] COLHER DE OURO\c[0].
 
 message_421:
-    text: You got \c[13]SAFETY HELMET\c[0].
+    text: Você pegou \c[13]CAPACETE DE SEGURANÇA\c[0].
 
 message_422:
-    text: You got \c[3]DINO BERRY\c[0].
+    text: Você pegou \c[3]FRUTA DINO\c[0].
 
 message_423:
-    text: You got \c[3]DINO MELON SODA\c[0].
+    text: Você pegou \c[3]REFRI DINO DE MELÂNCIA\c[0].
 
 message_424:
-    text: You got \c[3]DINO NUGGET\c[0].
+    text: Você pegou \c[3]NUGGET DINO\c[0].
 
 message_425:
-    text: You got \c[3]DINO PASTA\c[0].
+    text: Você pegou \c[3]MACARRÃO DINO\c[0].
 
 message_426:
-    text: You got \c[5]DINO JAM\c[0].
+    text: Você pegou \c[5]GELEIA DINO\c[0].
 
 # message_427:
 #     text: You don't have enough DINO POINTS.
@@ -1543,46 +1544,46 @@ message_426:
 #     text: Trade DINO EGGS!
 
 message_60:
-    text: BUY A SPOON!
+    text: COMPRE UMA COLHER!
 
 message_61:
-    text: BUY DINO STUFF!
+    text: COMPRE COISAS DINO!
 
 message_62:
-    text: What would you like to buy?
+    text: O que você gostaria de comprar?
 
 message_63:
-    text: PLASTIC SPOON (1 DD)
+    text: COLHER DE PLÁSTICO (1 DD)
 
 message_64:
-    text: WOODEN SPOON (5 DD)
+    text: COLHER DE MADEIRA (5 DD)
 
 message_65:
-    text: SILVER SPOON (10 DD)
+    text: COLHER DE PRATA (10 DD)
 
 message_66:
-    text: GOLDEN SPOON (15 DD)
+    text: COLHER DE OURO (15 DD)
 
 message_67:
-    text: SAFETY HELMET (30 DD)
+    text: CAPACETE DE SEGURANÇA (30 DD)
 
 message_68:
-    text: DINO BERRY (10 DD)
+    text: FRUTA DINO (10 DD)
 
 message_69:
-    text: DINO MELON (10 DD)
+    text: MELANCIA DINO (10 DD)
 
 message_70:
-    text: DINO NUGGET (10 DD)
+    text: NUGGET DINO (10 DD)
 
 message_71:
-    text: DINO PASTA (10 DD)
+    text: MACARRÃO DINO (10 DD)
 
 message_72:
-    text: DINO JAM (10 DD)
+    text: GELEIA DINO (10 DD)
 
 message_73:
-    text: NEVERMIND
+    text: ESQUECE
 
 # -----------------------------------------------
 # - DOUGH DUNGEON (343)
@@ -1591,174 +1592,174 @@ message_73:
 #'Summon Placement'
 
 message_76:
-    text: The smell of fresh bread fills the air.
+    text: O cheiro de pão fresco está no ar.
 
 message_77:
-    text: Do you want to sacrifice the \c[3]\v[102]\c[0]?
+    text: Você deseja sacrificar os \c[3]\v[102]\c[0]?
 
 message_78:
-    text: You found a \c[4]RECIPE FOR DISASTER\c[0].\! Take it?
+    text: Você achou uma \c[4]RECEITA PRO DESASTRE\c[0].\! Deseja pegar?
 
 message_383:
-    text: Do you want to put back the \c[4]RECIPE FOR DISASTER\c[0]?
+    text: Você deseja devolver a \c[4]RECEITA PRO DESASTRE\c[0]?
 
 message_407:
-    text: You are holding a \c[4]RECIPE FOR DISASTER\c[0].
+    text: Você está segurando a \c[4]RECEITA PRO DESASTRE\c[0].
 
 message_79:
-    text: Do you want to sacrifice \c[4]ACTUAL MOLE\c[0]?
+    text: Você deseja sacrificar a \c[4]TOUPEIRA VERDADEIRA\c[0]?
 
 message_298:
-    text: You set down the \c[3]\v[102]\c[0]... but nothing happened.
+    text: Você coloca os \c[3]\v[102]\c[0]... mas nada aconteceu.
 
 message_299:
-    text: You pick \c[3]\v[102]\c[0] back up.
+    text: Você pegou os \c[3]\v[102]\c[0] de volta.
 
 #SACRIFICE OBJECTS
 
 message_74:
-    text: Do you want to pick up the \c[3]\v[102]\c[0]?
+    text: Você deseja pegar os \c[3]\v[102]\c[0]?
 
 message_75:
-    text: You are holding the \c[3]\v[102]\c[0].
+    text: Vocês está segurando os \c[3]\v[102]\c[0].
 
 message_88:
-    text: Do you want to put back the \c[3]\v[102]\c[0]?
+    text: Você deseja devolver os \c[3]\v[102]\c[0]?
 
 message_80:
-    text: \n<PAPA CHIP>PAPA CHIP sees you eyeing that plate of OATMEAL COOKIES.\! PAPA CHIP warns you now for your own sake...\! Don't do it!
+    text: \n<PAPAI FORNO>PAPAI FORNO vê vocês olhando aquela bandeija de BISCOITOS DE AVEIA.\! PAPAI FORNO te avisa agora pelo seu bem...\! Não se atreva!
 
 message_81:
-    text: \n<PAPA CHIP>Now listen here...\! PAPA CHIP has saved a great deal of explorers by warning them of the plethora of dangers in these tombs.
+    text: \n<PAPAI FORNO>Agora escute aqui...\! PAPAI FORNO salvou bastante exploradores avisando eles sobre a variedade de perigos nessas tumbas.
 
 message_82:
-    text: \n<PAPA CHIP>You'd best listen to PAPA CHIP's advice.
+    text: \n<PAPAI FORNO>Seria bom ouvir o conselho do PAPAI FORNO.
 
 message_83:
-    text: \n<PAPA CHIP>\quake[1]Step...\! away...\! from the \c[3]OATMEAL COOKIES\c[0].
+    text: \n<PAPAI FORNO>\quake[1]Fique...\! longe...\! dos \c[3]BISCOITOS DE AVEIA\c[0].
 
 message_84:
-    text: \n<PAPA CHIP>Please, travelers...\! PAPA CHIP is begging you!\! Don't do it!\!<br>Do not waste your precious young lives on something so fruitless!
+    text: \n<PAPAI FORNO>Por favor, viajantes...\! PAPAI FORNO está implorando!\! Não faça!\!<br>Não percam suas preciosas jovens vidas em algo tão inútil!
 
 message_85:
-    text: You took the \c[3]OATMEAL COOKIES\c[0] despite PAPA CHIP's warnings.
+    text: Você pegou os \c[3]BISCOITOS DE AVEIA\c[0] mesmo com os avisos do PAPAI FORNO.
 
 message_86:
-    text: \n<PAPA CHIP>Oh! You've done it now!\! Oh doughie, you've done it now!\!<br>PAPA CHIP can't look!
+    text: \n<PAPAI FORNO>Oh! Vocês conseguiram!\! Oh docinhos, vocês fizeram!\!<br>PAPAI FORNO não pode acreditar!
 
 message_87:
-    text: \n<PAPA CHIP>Hmm...\! PAPA CHIP is supposed to warn you of the danger that is NEFARIOUS CHIP...\! but it seems that NEFARIOUS CHIP was no match for you.<br>I suppose PAPA CHIP is just useless, then.
+    text: \n<PAPAI FORNO>Hmm...\! PAPAI FORNO deveria avisar vocês sobre o perigo do FORNO ABOMINÁVEL...\! mas parece que o FORNO ABOMINÁVEL não foi problema algum.<br>Eu suponho que o PAPAI FORNO seja inútil, então.
 
 #'PAPA CHIP'
 
 message_179:
-    text: \n<PAPA CHIP>\sinv[1]Hoho!\sinv[0]\! PAPA CHIP comes with good tidings for you!
+    text: \n<PAPAI FORNO>\sinv[1]Hoho!\sinv[0]\! PAPAI FORNO te deseja boa sorte!
 
 message_180:
-    text: \n<PAPA CHIP>As a sign of good will, PAPA CHIP will give you something PAPA CHIP knows you will enjoy!
+    text: \n<PAPAI FORNO>Como sinal de boa vontade, PAPAI FORNO te dará algo que sabe que vai gostar!
 
 message_521:
-    text: PAPA CHIP gave you \c[3]BREAD\c[0]!
+    text: PAPAI FORNO te deu \c[3]PÃO\c[0]!
 
 message_181:
-    text: \n<PAPA CHIP>I'm PAPA CHIP!
+    text: \n<PAPAI FORNO>Eu sou o PAPAI FORNO!
 
 #'NEFARIOUS Chip'
 
 message_406:
-    text: \n<NEFARIOUS CHIP>\com[2]\{\sinv[1]HON, HON, HON, HON, HON!
+    text: \n<FORNO ABOMINÁVEL>\com[2]\{\sinv[1]HON, HON, HON, HON, HON!
 
 #'ACTUAL MOLE' in DOOM TOMB
 
 message_182:
-    text: \n<ACTUAL MOLE>REPLACE
+    text: \n<TOUPEIRA VERDADEIRA>REALOCAR
 
 message_183:
-    text: \n<ACTUAL MOLE>REPLACE
+    text: \n<TOUPEIRA VERDADEIRA>REALOCAR
 
 message_184:
-    text: \n<ACTUAL MOLE>\quake[1]\{\{WHAT IN TARNATION!?!?
+    text: \n<TOUPEIRA VERDADEIRA>\quake[1]\{\{MAS POR QUÊ!?!?
 
 message_185:
-    text: \n<ACTUAL MOLE>REPLACE
+    text: \n<TOUPEIRA VERDADEIRA>REALOCAR
 
 message_186:
-    text: \n<ACTUAL MOLE>REPLACE
+    text: \n<TOUPEIRA VERDADEIRA>REALOCAR
 
 message_187:
-    text: \n<ACTUAL MOLE>REPLACE
+    text: \n<TOUPEIRA VERDADEIRA>REALOCAR
 
 #'DOUGHIE & BISCUIT': Pre-Battle - UNUSED
 
 message_213:
-    text: \n<DOUGHIE>...
+    text: \n<BISCOITA>...
 
 message_214:
-    text: \n<DOUGHIE>Are you a ghost?
+    text: \n<BISCOITA>Você é um fantasma?
 
 message_215:
-    text: \n<BISCUIT>That seems likely.\! It would appear that some of our haunted pastries have found their way back to us.
+    text: \n<BOLACHO>É o que parece.\! Pelo visto alguns dos nossos doces assombrados acharam o caminho de volta para nós.
 
 message_216:
-    text: \n<DOUGHIE>Perhaps they are here to exact their revenge?\! That would be most...
+    text: \n<BISCOITA>Talvez eles estejam aqui para terem sua vingança?\! Isso seria...
 
 message_217:
-    text: \n<BISCUIT>...Unfortunate.
+    text: \n<BOLACHO>...Lamentável.
 
 #'DOUGHIE & BISCUIT': Post-Battle - UNUSED
 
 message_218:
-    text: \n<DOUGHIE>Oh, you weren't ghosts after all.
+    text: \n<BISCOITA>Oh, vocês não eram fantasmas.
 
 message_219:
-    text: \n<BISCUIT>Well, this is awkward.\! This spiritual venture has been fun and all, but I do think it is about time we moved on.
+    text: \n<BOLACHO>Bom, isso foi constrangedor.\! Esse empreendimento espiritual foi divertido e tudo mais, mas acho que já está na hora de seguirmos em frente.
 
 message_220:
-    text: \n<BISCUIT>Meet us below, we will have an escape prepared for you.
+    text: \n<BOLACHO>Nos encontre lá em baixo, nós preparamos uma saída para vocês.
 
 message_221:
-    text: \n<DOUGHIE>Apologies for the troubles.
+    text: \n<BISCOITA>Nos desculpem pela confusão.
 
 #'DOUGHIE & BISCUIT' - UNUSED
 
 message_222:
-    text: \n<DOUGHIE>I really don't know why I thought you were ghosts.
+    text: \n<BISCOITA>Eu juro que não sei por quê pensei que eles eram fantasmas.
 
 message_223:
-    text: \n<BISCUIT>Baking was fun, but I quite enjoyed our battle as well.
+    text: \n<BOLACHO>Cozinhar foi divertido, mas eu gostei também de nossa batalha.
 
 #'DOUGHIE & BISCUIT': Escape (Doom Entrance: 114) - UNUSED
 
 message_224:
-    text: \n<DOUGHIE>See you later.
+    text: \n<BISCOITA>Vejo vocês mais tarde.
 
 message_225:
-    text: \n<BISCUIT>Or see you never?
+    text: \n<BOLACHO>Ou vejo vocês nunca mais?
 
 message_226:
-    text: \n<DOUGHIE>Whichever the case...
+    text: \n<BISCOITA>Seja como for...
 
 message_227:
-    text: \n<BISCUIT>Farewell.
+    text: \n<BOLACHO>Adeus.
 
 # -----------------------------------------------
 # - FROZEN FOREST (140)
 # -----------------------------------------------
 
 message_293:
-    text: \n<SIGN>"A frozen heart may melt, but a broken one remains forever in pieces..."
+    text: \n<PLACA>"Um coração congelado pode ser derretido, mas um quebrado continua em pedaços..."
 
 message_294:
-    text: \n<SIGN>"Don't come looking for me...<br>Only the cold can keep me company now..."
+    text: \n<PLACA>"Não me procurem...<br>Apenas o frio pode me acompanhar agora..."
 
 message_295:
-    text: \n<SIGN>"There is nothing for you here... Begone!"
+    text: \n<PLACA>"Não há nada pra você aqui... Saia!"
 
 message_296:
-    text: \n<SIGN>"Go away! Leave me to my miserable existence!"
+    text: \n<PLACA>"Vá embora! Me deixe com a minha existência miserável!"
 
 message_297:
-    text: \n<SIGN>"I see you've made it this far.<br>I hope you get frostbite and die."
+    text: \n<PLACA>"Vejo que chegou até aqui.<br>Espero que morra congelado."
 
 # -----------------------------------------------
 # - UNDERWATER HIGHWAY: CONSTRUCTION (204) - UNUSED
@@ -1774,237 +1775,237 @@ message_249:
 #FIRST TOLL
 
 message_384:
-    text: \n<TOLL GATOR>This lane's carpool only, kid.<br>Come back when you've got friends!
+    text: \n<PEDAGIARÉ>Esse pedágio é só com carona, criança.<br>Volte quando tiver amigos!
 
 message_385:
-    text: \n<TOLL GATOR>\{\{\sinv[1]Keh heh!
+    text: \n<PEDAGIARÉ>\{\{\sinv[1]Keh heh!
 
 message_386:
-    text: \n<TOLL GATOR>Did you think you'd be able to sneak by this carpool lane if there were two of you kids?\! This isn't just a carpool lane...\! It's a double carpool lane!
+    text: \n<PEDAGIARÉ>Achou mesmo que conseguiria passar pelo pedágio de carona se tivessem duas de vocês crianças?\! Isso não é apenas um pedágio de carona...\! É um pedágio de carona dupla!
 
 message_387:
-    text: \n<TOLL GATOR>You gotta be a posse of four or more, otherwise you can just crawl back the way you came.
+    text: \n<PEDAGIARÉ>Vocês precisam ser um grupo de 4 ou mais, se não voltem para o lugar de que vieram.
 
 message_388:
-    text: \n<TOLL GATOR>...\! You really have three friends?\!<br>Hmph... Alright, alright... Let's get a move on, people.
+    text: \n<PEDAGIARÉ>...\! Você realmente tem 3 amigos?\!<br>Hmph... Tudo bem, tudo bem... Vamos lá, pessoal.
 
 message_389:
-    text: \n<TOLL GATOR>Hope you've got a few CLAMS on ya... Keh heh...
+    text: \n<PEDAGIARÉ>Espero que tenham algumas CONCHAS... Keh heh...
 
 #GATE SNAKES
 
 message_390:
-    text: \n<TOLL SNAKE>\sinv[1]Sssssssssssssssssssss...<br>\sinv[0] (This is how snakes snore.)
+    text: \n<PEDAGIACOBRA>\sinv[1]Sssssssssssssssssssss...<br>\sinv[0] (É assim que cobras roncam.)
 
 message_165:
-    text: \n<TOLL SNAKE>Phew!\! I can finally relax...\! Holding up my body all sssssstraight like that is some sssssseriously hard work!
+    text: \n<PEDAGIACOBRA>Phew!\! Posso finalmente relaxxxxar...\! Sssssegurar meu corpo reto asssssssim é realmente difícil!
 
 message_166:
-    text: \n<TOLL SNAKE>I'm a sssssssnake, but I'm not toxic!\!<br>On the contrary, I'm actually quite friendly!
+    text: \n<PEDAGIACOBRA>Eu ssssssou uma cobra, mas não sou venenosa!\!<br>Pelo contrário, sou bem amigável!
 
 message_167:
-    text: \n<TOLL SNAKE>Ease my suffering.
+    text: \n<PEDAGIACOBRA>Alivie meu sofrimento.
 
 #TOLL GATE 1, PRIZE WHEEL
 
 message_89:
-    text: \n<TOLL GATOR>This toll here's gonna cost you...\! Let's see here...\! \v[1012] CLAMS!\! You got 'em or not?
+    text: \n<PEDAGIARÉ>Esse pedágio irá te custar...\! Deixe-me ver...\! \v[1012] CONCHAS!\! Você tem ou não?
 
 message_90:
-    text: \n<TOLL GATOR>Hey there, good chums!\! Pleasure to meetcha, keh heh.
+    text: \n<PEDAGIARÉ>Ei você, bom amigo!\! Prazer em te conhecer, keh heh.
 
 message_91:
-    text: \n<TOLL GATOR>So you kids want access to the toll road?\! Well... sure!\! But while we're at it, let's make this a little fun.
+    text: \n<PEDAGIARÉ>Então vocês crianças querem acessar a rua do pedágio?\! Bom... claro!\! Mas enquanto isso, vamos deixar um pouco mais divertido.
 
 message_92:
-    text: \n<TOLL GATOR>Why don't you spin this wheel for me?
+    text: \n<PEDAGIARÉ>Por que não roda essa roleta para mim?
 
 message_93:
-    text: \n<TOLL GATOR>\{\sinv[1]EXCELLENT SPIN, BUDDY!
+    text: \n<PEDAGIARÉ>\{\sinv[1]BELO GIRO, CARA!
 
 message_94:
-    text: \n<TOLL GATOR>Your toll is \v[1012] CLAMS.\! That sound good to you?
+    text: \n<PEDAGIARÉ>O preço é \v[1012] CONCHAS.\! Parece bom para você?
 
 message_95:
-    text: \n<TOLL GATOR>\v[1012] CLAMS!?\! That's someone's lucky number!
+    text: \n<PEDAGIARÉ>\v[1012] CONCHAS!?\! Esse é o número da sorte de alguém!
 
 message_96:
-    text: \n<TOLL GATOR>It's also going to be the price for your toll.\!<br>You gonna pay up?
+    text: \n<PEDAGIARÉ>Também será o preço do seu pedágio.\!<br>Vai pagar?
 
 message_97:
-    text: \n<TOLL GATOR>\com[2]\{\{\sinv[1]HOOWEE, WE HAVE A WINNER!!!
+    text: \n<PEDAGIARÉ>\com[2]\{\{\sinv[1]HOOWEE, TEMOS UM VENCEDOR!!!
 
 message_98:
-    text: \n<TOLL GATOR>\v[1012] CLAMS is my final offer!<br>C'mon! You gotta take it!\$
+    text: \n<PEDAGIARÉ>\v[1012] CONCHAS é minha oferta final!<br>Qual é! Você tem que aceitar!\$
 
 message_99:
-    text: \n<TOLL GATOR>That's what I like to hear!<br>\!Nice doin' business witcha...\! suckers.
+    text: \n<PEDAGIARÉ>Isso que eu gosto de ouvir!<br>\!Legal fazer negócios...\! com otários.
 
 message_100:
-    text: \n<TOLL GATOR>Hmph...\! Runnin' away ain't gonna change the price, kid.
+    text: \n<PEDAGIARÉ>Hmph...\! Correr não vai mudar o preço, pirralho.
 
 message_101:
-    text: \n<TOLL GATOR>Now hold on one second here...\!<br>The numbers aren't adding up...\!<br>You're gonna have to spin again.
+    text: \n<PEDAGIARÉ>Agora espere um pouco...\!<br>Os números não batem...\!<br>Você vai ter que girar denovo.
 
 message_102:
-    text: \n<TOLL GATOR>How's one more spin for good measure?
+    text: \n<PEDAGIARÉ>Que tal mais um giro por precaução?
 
 message_103:
-    text: \n<TOLL GATOR>Come on! You can afford it!<br>\!Why don't you give your parents a call?
+    text: \n<PEDAGIARÉ>Qual é! Você consegue pagar!<br>\!Por que não liga para os seus pais?
 
 message_104:
-    text: \n<TOLL GATOR>Aww, that's a shame...\! If ya don't spin, ya can't win.
+    text: \n<PEDAGIARÉ>Ahh, que triste...\! Se você não girar, não vai ganhar.
 
 message_105:
-    text: \n<TOLL GATOR>Aww, come on...\! Don't be so stingy.
+    text: \n<PEDAGIARÉ>Ahh, qual é...\! Não seja tão chato.
 
 message_106:
-    text: \n<TOLL GATOR>Later, gator...
+    text: \n<PEDAGIARÉ>Até, jaré...
 
 message_107:
-    text: \n<TOLL GATOR>Whoa, whoa, whoa! Where you goin', buddy?
+    text: \n<PEDAGIARÉ>Whoa, whoa, whoa! Onde está indo, amigão?
 
 message_108:
-    text: \n<TOLL GATOR>Back it up nice and slow...<br>This here's a toll road, see?\!<br>\com[2]Cough up the CLAMS or get lost!
+    text: \n<PEDAGIARÉ>Devagar e sempre...<br>Não vê que isso é um pedágio?\!<br>\com[2]Pegue as CONCHAS ou saia daqui!
 
 #TOLL GATE 2
 
 message_109:
-    text: \n<TOLL GATOR>So you want me to open the gate, huh?\!<br>It would be my pleasure!\! It'll only cost ya 2000 CLAMS.\$
+    text: \n<PEDAGIARÉ>Então você quer que eu abra o portão, hum?\!<br>Seria um prazer!\! Só vai te custar 2000 CONCHAS.\$
 
 message_110:
-    text: \n<TOLL GATOR>You kids sure are smart! \v[1001] CLAMS is a steal!\!<br>\}...\! Heh...\! Like stealing \c[3]CANDY\c[0] from a baby...
+    text: \n<PEDAGIARÉ>Vocês crianças são espertas! \v[1001] CONCHAS é um roubo!\!<br>\}...\! Heh...\! É como roubar \c[3]DOCE\c[0] de um bebê...
 
 message_111:
-    text: \n<TOLL GATOR>You mean to say you kids don't got 2000 CLAMS on ya?<br>That's real sad...\! Real tough luck, I tell ya...
+    text: \n<PEDAGIARÉ>Querem dizer que não têm 2000 CONCHAS com vocês?<br>Que triste...\! Realmente, que má sorte...
 
 message_112:
-    text: \n<TOLL GATOR>But, hey!\! No need to get down!<br>I got a surefire way to help you out of this ordeal, see?
+    text: \n<PEDAGIARÉ>Mass, ei!\! Não precisa ficar triste!<br>Eu tenho um plano infalível para tirar vocês dessa situação, sabe?
 
 message_113:
-    text: \n<TOLL GATOR>Ahem...\! You just need to sign these papers, these papers, these papers, and these papers...\! And lo and behold! You'll have \v[979] CLAMS just like that!
+    text: \n<PEDAGIARÉ>Ahem...\! Você só precisa assinar esses papéis, esses papéis, esses papéis e esses papéis...\! E vejam só! Você ganhará \v[979] CONCHAS facinho!
 
 message_114:
-    text: Do you want to sign the papers?
+    text: Você quer assinar os papéis?
 
 #[YES/NO]
 
 message_115:
-    text: \n<TOLL GATOR>There ya go!\! 2000 CLAMS!\! It's that easy!
+    text: \n<PEDAGIARÉ>Aqui vai!\! 2000 CONCHAS!\! Fácil assim!
 
 message_116:
-    text: \n<TOLL GATOR>Hey, by the way...\! Careful about the interest.\!<br>We'll be coming to collect...
+    text: \n<PEDAGIARÉ>Ei, e também...\! Cuidado com o interesse.\!<br>Nós voltaremos para coletar...
 
 message_117:
-    text: \n<TOLL GATOR>Come on! Don't be a stranger!
+    text: \n<PEDAGIARÉ>Qual é! Não seja um estranho!
 
 message_118:
-    text: \n<TOLL GATOR>So you want me to open the gate for you?\!<br>It'll only cost ya 5000 CLAMS.\$
+    text: \n<PEDAGIARÉ>Então você quer que eu abra o portão?\!<br>Só vai te custar 5000 CONCHAS.\$
 
 message_119:
-    text: \n<TOLL GATOR>You're the kids who signed those loan papers!\!<br>Trust me... You'll thank me later!
+    text: \n<PEDAGIARÉ>Vocês são as crianças que assinaram os papéis!\!<br>Confiem em mim... Vão me agradecer depois!
 
 message_120:
-    text: \n<TOLL GATOR>Not enough CLAMS, aye?\! No worries, man...<br>Happens to everybody.
+    text: \n<PEDAGIARÉ>Sem CONCHAS o suficiente, né?\! Sem problemas, cara...<br>Acontece com todo mundo.
 
 message_121:
-    text: \n<TOLL GATOR>What's the problem?\! You're saying I raised the toll?
+    text: \n<PEDAGIARÉ>Qual o problema?\! Estão dizendo que aumentei o preço?
 
 message_122:
-    text: \n<TOLL GATOR>Yeah, I sure did.\! What about it?
+    text: \n<PEDAGIARÉ>Sim, eu aumentei.\! E qual o problema?
 
 message_123:
-    text: \n<TOLL GATOR>Have a nice day!
+    text: \n<PEDAGIARÉ>Tenham um bom dia!
 
 message_124:
-    text: \n<TOLL GATOR>I see you kids tryin' to climb the gate!\!<br>Get off of there! That's private property!
+    text: \n<PEDAGIARÉ>Estou vendo vocês pirralhos escalando o portão!\!<br>Saiam daí! Isso é propriedade privada!
 
 message_168:
-    text: \n<TOLL GATOR>Good, good.\!<br>Here... 3000 CLAMS all for you!
+    text: \n<PEDAGIARÉ>Bom, bom.\!<br>Aqui... 3000 CONCHAS para todos vocês!
 
 message_169:
-    text: \n<TOLL GATOR>Yeesh...\! Come back when you've got more CLAMS...
+    text: \n<PEDAGIARÉ>Nossa...\! Volte quando tiver mais CONCHAS...
 
 message_170:
-    text: \n<TOLL GATOR>So you want me to open the gate for you?\!<br>It'll only cost ya 10000 CLAMS.\$
+    text: \n<PEDAGIARÉ>Então você quer que eu abra o portão?\!<br>Só vai te custar 10000 CONCHAS.\$
 
 message_171:
-    text: \n<TOLL GATOR>I'll wait.
+    text: \n<PEDAGIARÉ>Eu vou esperar.
 
 message_172:
-    text: \n<TOLL GATOR>...
+    text: \n<PEDAGIARÉ>...
 
 #TOLL GATE 3
 
 message_125:
-    text: \n<TOLL GATOR>\sinv[1]Zzzzzzzzzzzzzzzzzzzzzzzzzz...
+    text: \n<PEDAGIARÉ>\sinv[1]Zzzzzzzzzzzzzzzzzzzzzzzzzz...
 
 message_126:
-    text: \n<TOLL GATOR>Huh? Where am I?
+    text: \n<PEDAGIARÉ>Huh? Onde estou?
 
 message_127:
-    text: \n<TOLL GATOR>Oh, crap!
+    text: \n<PEDAGIARÉ>Ah, droga!
 
 message_128:
-    text: \n<TOLL GATOR>Boss, look! I wasn't sleepin'... I was just-
+    text: \n<PEDAGIARÉ>Chefe, olha! Eu não estava dormindo... Só estava-
 
 message_129:
-    text: \n<TOLL GATOR>Oh... You're just a bunch of kids...\!<br>Bet you just want me to open the gate.
+    text: \n<PEDAGIARÉ>Ah... Vocês só são umas crianças...\!<br>  Aposto que só querem que eu abra o portão.
 
 message_130:
-    text: \n<TOLL GATOR>Well, I'm gonna to be real with you... These toll prices are jacked. \!It's gonna cost you 3000 CLAMS but I'd find another way around if I were you.<br>So you still want me to open the gate?\$
+    text: \n<PEDAGIARÉ>Bem, vou ser realista com vocês... Esses preços dos pedágios são quebrados. \!Vai te custar 3000 CONCHAS mas eu acharia outro caminho se fosse você.<br>Então ainda quer que eu abra o portão?\$
 
 message_131:
-    text: \n<TOLL GATOR>Really?\! You just got that kind of money lying around?
+    text: \n<PEDAGIARÉ>Sério?\! Vocês tem tanta grana assim?
 
 message_132:
-    text: \n<TOLL GATOR>You must be swimmin' in it...
+    text: \n<PEDAGIARÉ>Devem estar nadando nela...
 
 message_133:
-    text: \n<TOLL GATOR>Alright, gate's open.
+    text: \n<PEDAGIARÉ>Beleza, o portão está aberto.
 
 message_134:
-    text: \n<TOLL GATOR>Don't have the cash?\! Yeah, I thought as much...<br>Just turn around, kid. Nothin' but sharks around here.
+    text: \n<PEDAGIARÉ>Não tem a grana?\! É, como imaginei...<br>Só dê a volta pessoal. Nada demais aqui.
 
 message_135:
-    text: \n<TOLL GATOR>Good choice.\! Save your money for a cool bike or something.
+    text: \n<PEDAGIARÉ>Boa escolha.\! Salve seu dinheiro pra comprar uma bicicleta legal ou algo assim.
 
 message_136:
-    text: \n<TOLL GATOR>Hey, you're back!\! Toll is 3000 CLAMS, same as always.\$
+    text: \n<PEDAGIARÉ>Ei, vocês voltaram!\! O preço é 3000 CONCHAS, o mesmo de sempre.\$
 
 message_137:
-    text: \n<TOLL GATOR>Kids these days are really something...
+    text: \n<PEDAGIARÉ>Crianças de hoje em dia são realmente outra coisa...
 
 message_138:
-    text: \n<TOLL GATOR>Hey, don't go touching that!<br>Anything happens to it and they'll have my tail!
+    text: \n<PEDAGIARÉ>Ei, não toque nisso!<br>Se algo acontecer com isso eu perco minha cauda!
 
 # -----------------------------------------------
 # - UNDERWATER HIGHWAY: TAXI RIDE (211)
 # -----------------------------------------------
 
 message_139:
-    text: \n<TAXI DRIVER>Hey, kid! You wanna go somewhere cool?
+    text: \n<PILOTO DE TÁXI>Ei, criança! Quer ir em algum lugar legal?
 
 message_140:
-    text: \n<TAXI DRIVER>They're callin' it the \c[11]LAST RESORT\c[0]!\! It's the hottest, trendiest place to be, a real diamond in the rough...\!<br>You've gotta have heard of it!
+    text: \n<PILOTO DE TÁXI>Você deveria ir ao \c[11]ÚLTIMO RESORT\c[0]!<br>É o lugar mais dahora e famoso para estar esses dias, um verdadeiro paraíso na terra...\!<br>Você já deve ter ouvido falar!
 
 message_141:
-    text: \n<TAXI DRIVER>I can take you there for a nominal fee of 3000 CLAMS!<br>Come on... Don't be shy!\! I don't bite...\! much...
+    text: \n<PILOTO DE TÁXI>Posso te levar lá pelo pequeno preço de 3000 CONCHAS!<br>Qual é... Não sejam tímidos!\! Eu não mordo...\! muito...
 
 message_142:
-    text: The cab ride cost a truly exorbitant fee.\! It's too bad you don't have any friends to split the cost with...
+    text: Realmente, o preço da viagem é bem alto.\! Triste que não tem nenhum amigo para dividir a conta...
 
 message_143:
-    text: \n<TAXI DRIVER>Hmm... It seems like you're coming up a little short...\!<br>Well, that's fine... I'll just take all that you have! Keh heh!
+    text: \n<PILOTO DE TÁXI>Hmm... Parece que ...\!<br>Bom, tudo bem... Só vou pegar tudo que você tem! Keh heh!
 
 message_144:
-    text: \n<TAXI DRIVER>Hmm... It seems like you're coming up a little short...\!<br>Well, that's fine... I'll just take all that you-
+    text: \n<PILOTO DE TÁXI>Hmm... Parece que você não tem grana o suficiente...\!<br>Bom, tudo bem... Só vou pegar tudo que você-
 
 message_145:
-    text: \n<TAXI DRIVER>Wow... You really got nothing on you, huh?\!<br>You must've been scammed real bad.\! I pity you.
+    text: \n<PILOTO DE TÁXI>Uau... Você realmente não tem nada, huh?\!<br>Você deve ter sido enganado muito bem.\! Que pena.
 
 message_146:
-    text: \n<TAXI DRIVER>Hey, kid!\! You wanna go back to the \c[11]DEEP WELL\c[0]?<br>It'll only cost ya 1,500 CLAMS.
+    text: \n<PILOTO DE TÁXI>Ei, criança!\! Você quer voltar para o \c[11]POÇO SEM FUNDO\c[0]?<br>Só vai te custar 1,500 CONCHAS.
 
 # -----------------------------------------------
 # - SLIME GIRLS LAIR: WATER SLIDE (230)
@@ -2036,7 +2037,7 @@ message_292:
 #TUMOR SIGN 1
 
 message_231:
-    text: EXHIBIT\! STRANGE GROWTH\!<br>PROPERTIES\! ABILITY TO REGENERATE AFTER BEING SMASHED
+    text: EXIBIÇÃO\! CRESCIMENTO ESTRANHO\!<br>PROPRIEDADES\! HABILIDADE DE CRESCER APÓS SER ESMAGADO
 
 # -----------------------------------------------
 # - SLIME GIRLS: MARINA (222)
@@ -2045,91 +2046,91 @@ message_231:
 #CHIMERA SIGN
 
 message_626:
-    text: WARNING\! DO NOT POKE THE GLASS
+    text: AVISO\! NÃO CUTUQUE O VIDRO
 
 #TUMOR SIGN 2
 
 message_164:
-    text: EXHIBIT\! STRANGE GROWTH\!<br>PROPERTIES\! ABILITY TO TRANSFORM INTO A BRIDGE
+    text: EXIBIÇÃO\! CRESCIMENTO ESTRANHO\!<br>PROPRIEDADES\! HABILIDADE DE SE TRANSFORMAR EM UMA PONTE
 
 #BUNNY SIGN
 
 message_232:
-    text: EXHIBIT\! BUNNIES\!<br>PROPERTIES\! SOFT AND PLIABLE
+    text: EXIBIÇÃO\! COELHINHOS\!<br>PROPRIEDADES\! MACIO E FLEXÍVEL
 
 #RECEPTION HUMPHREY
 
 message_233:
-    text: \n<RECEPTIONIST HUMPHREY>Welcome!\! MARINA is not currently seeing anyone right now...\! but if you are enjoying the exhibit, feel free to crawl into a cage and wait for the next available experiment.
+    text: \n<HUMPHREY RECEPCIONISTA>Bem-vindo!\! MARINA não está encontrando ninguém por agora...\! mas se você está curtindo a exibição, sinta-se livre para entrar na gaiola e esperar pelo próximo experimento disponível.
 
 message_234:
-    text: \n<RECEPTIONIST HUMPHREY>You will know when the screaming stops.
+    text: \n<HUMPHREY RECEPCIONISTA>Você saberá quando os gritos pararem.
 
 # -----------------------------------------------
 # - SLIME GIRLS: MARINA (225)
 # -----------------------------------------------
 
 message_372:
-    text: \n<HUMPHREY>I like this spot!
+    text: \n<HUMPHREY>Gosto desse lugar!
 
 message_621:
-    text: \n<HUMPHREY>I heard there were a lot of delicious WATERMELONS in here so I ate them all!\ Mmm... dee-licious!
+    text: \n<HUMPHREY>Escutei que tinham várias melâncias aqui, então vim e comi todas!\ Mmm... dee-licioso!
 
 # -----------------------------------------------
 # - SLIME GIRLS: MEDUSA (250)
 # -----------------------------------------------
 
 message_235:
-    text: \n<HUMPHREY>Out for a swim?\! Me too!
+    text: \n<HUMPHREY>Indo nadar?\! Eu também!
 
 message_236:
-    text: \n<HUMPHREY>Hey, check this out, humans.
+    text: \n<HUMPHREY>Ei, olhem isso, humanos.
 
 message_237:
-    text: \n<HUMPHREY>Did you know us HUMPHRIES are strong enough to withstand a waterfall's current?\! Watch this!
+    text: \n<HUMPHREY>Vocês sabiam que nós HUMPHREYS somos fortes o suficiente para ir contra a força de uma cachoeira?\! Olhe isso!
 
 message_238:
-    text: \n<HUMPHREY>Yikes!\! Except for that guy, I guess...<br>\!Oh well! That's just natural selection working.
+    text: \n<HUMPHREY>Droga!\! Exceto por aquele cara, eu acho...<br>\!Oh bem! É só a seleção natural acontecendo.
 
 message_239:
     faceset: MainCharacters_DreamWorld
     faceindex: 19
-    text: \kelHey, you know what?\! I just had an idea!\!<br>I bet... if we gather enough HUMPHRIES-
+    text: \kelEi, sabe de uma coisa?\! Acabei de ter uma ideia!\!<br>Eu aposto que... se juntarmos HUMPHREYS o suficiente-
 
 message_905:
     faceset: MainCharacters_DreamWorld
     faceindex: 3
-    text: \aubThen maybe... we could use them to form a bridge to the other side!
+    text: \aubEntão talvez... poderíamos usá-los para formar uma ponte até o outro lado!
 
 message_906:
     faceset: MainCharacters_DreamWorld
     faceindex: 30
-    text: \kel\com[2]Hey! I was supposed to say that!
+    text: \kel\com[2]Ei! Ei, era pra eu dizer isso!
 
 message_240:
-    text: \n<HUMPHREY>I say that MEDUSA's experiment has a fourteen times seven plus forty-four divided by eleven minus two percent chance of success!
+    text: \n<HUMPHREY>Eu digo que o experimento da MEDUSA tem a chance de sucesso de 14 vezes 7 mais 44 divididos por 11 menos 2 porcento!
 
 message_241:
-    text: \n<HUMPHREY>Biology is my worst subject, but that's never stopped me!
+    text: \n<HUMPHREY>Biologia é minha pior área, mas isso nunca me parou!
 
 message_242:
-    text: \n<BIG MOLIO>I am BIG MOLIO.
+    text: \n<GRANDE MOLIO>Eu sou o GRANDE MOLIO.
 
 message_243:
-    text: \n<BIG MOLIO>In return for finding me, I bless you with great fortune.
+    text: \n<GRANDE MOLIO>Como agradecimento por me acharem, eu lhe dou boa sorte.
 
 message_904:
-    text: \n<BIG MOLIO>My duty has been fulfilled.
+    text: \n<GRANDE MOLIO>Meu papel foi cumprido.
 
 # -----------------------------------------------
 # - SLIME GIRLS: MEDUSA (231)
 # -----------------------------------------------
 
 message_327:
-    text: \n<HUMPHREY>All my friends left me behind to go build a bridge...\! but I'm gonna show them up by building an even bigger bridge!
+    text: \n<HUMPHREY>Todos os meus amigos me deixaram para trás para construir uma ponte...\! mas vou me vingar fazendo uma maior ainda!
 
 message_328:
-    text: \n<HUMPHREY>If you see any HUMPHRIES floating about, be sure to send them my way.
+    text: \n<HUMPHREY>Se você achar algum HUMPHREY por aí, mande ele para mim.
 
 # -----------------------------------------------
 # - SLIME GIRLS: MEDUSA (230)
@@ -2143,84 +2144,84 @@ message_397:
 message_398:
       faceset: MainCharacters_DreamWorld
       faceindex: 48
-      text: I would...\! really appreciate it...\! if you guys could wrap this up...\! pretty soon...\!\her
+      text: Eu...\! realmente adoraria...\! se vocês pudessem fazer isso...\! logo...\!\her
 
 message_399:
       faceset: MainCharacters_DreamWorld
       faceindex: 48
-      text: No rush...\! I just think I'm...\! getting...\! hurg...\! kind of sick...\her
+      text: Sem pressa...\! Só acho que estou...\! ficando...\! hurg...\! um pouco doente...\her
 
 # -----------------------------------------------
 # - SLIME GIRLS: MOLLY MAIN ROOM (236)
 # -----------------------------------------------
 
 message_147:
-    text: \n<MOLLY>\com[539]Oh, hello MARINA...\!<br>\com[539]Are you here to steal my things again?<br><br>\com[539]Well, not this time.\! \com[539]I've prepared something \com[539]extra special for you today... \sinv[1]Fufufu~
+    text: \n<MOLLY>\com[539]Oh, olá MARINA...\!<br>\com[539]Está aqui para roubar minhas coisas de novo?<br><br>\com[539]Bom, não dessa vez.\! \com[539]Eu preparei algo \com[539]extra especial pra você hoje... \sinv[1]Fufufu~
 
 message_149:
-    text: \n<MOLLY>\com[539]As you know, \com[539]I am a very busy person,\!<br>\com[539]But alas... you are my sister.<br><br>\com[539]I will grant you access \com[539]to my room...\!<br>if you \com[539]are able to \com[539]solve my little gift.
+    text: \n<MOLLY>\com[539]Como você sabe, \com[539]eu sou uma pessoa muito ocupada.\!<br>\com[539]Mas né... você é minha irmã.<br><br>\com[539]Então deixarei você entrar \com[539]no meu quarto...\!<br>se você \com[539]conseguir \com[539]resolver meu presentinho.
 
 message_150:
-    text: \n<MOLLY>\com[539]\com[539]Hope to see you soon, darling...\!\com[539] if you're still alive, \com[539]that is!
+    text: \n<MOLLY>\com[539]\com[539]Espero te ver logo, querida...\!\com[539] Se você estiver viva ainda, \com[539]não é?
 
 #TERMINAL INTERACTION
 
 message_392:
-    text: \"TYPE... PUZZLE\"<br>\"THEME... PATTERN\"<br>\"DIFFICULTY... EASY\"
+    text: \"TIPO... QUEBRA-CABEÇA\"<br>\"TIPO... PADRÃO\"<br>\"DIFICULDADE... FÁCIL\"
 
 message_393:
-    text: \"TYPE... PUZZLE\"<br>\"THEME... MEMORIZATION\"<br>\"DIFFICULTY... HARD\"
+    text: \"TIPO... QUEBRA-CABEÇA\"<br>\"TIPO... MEMORIZAÇÃO\"<br>\"DIFICULDADE... DIFÍCIL\"
 
 message_394:
-    text: \"TYPE... PUZZLE\"<br>\"THEME... MULTIPLE CHOICE\"<br>\"DIFFICULTY... MEDIUM\"
+    text: \"TIPO... QUEBRA-CABEÇA\"<br>\"TIPO... MÚLTIPLA ESCOLHA\"<br>\"DIFICULDADE... MÉDIO\"
 
 message_496:
-    text: Do you want to activate this puzzle?\!<br>You cannot choose another puzzle until it is solved.
+    text: Você deseja ativar o quebra-cabeça?\!<br>Você não pode escolher outro até resolver esse.
 
 message_497:
-    text: \"TYPE... PUZZLE\"<br>\"STATUS... SOLVED\"
+    text: \"TIPO... QUEBRA-CABEÇA\"<br>\"STATUS... RESOLVIDO\"
 
 #PASSWORD PUZZLE (Bomb Collision)
 
 message_498:
-    text: Do you want to input the password?
+    text: Você deseja colocar a senha?
 
 message_622:
-    text: \n<SPEAKER>You think you're real clever, huh?
+    text: \n<ALTO-FALANTE>Você realmente acha que é espertinho, huh?
 
 message_907:
-    text: What is the password?
+    text: Qual é a senha?
 
 #WIRE PUZZLE (Wire Events)
 
 message_499:
-    text: Do you want to cut the \c[8]red wire\c[0]?
+    text: Você deseja cortar o \c[8]fio vermelho\c[0]?
 
 message_500:
-    text: Do you want to cut the \c[11]blue wire\c[0]?
+    text: Você deseja cortar o \c[11]fio azul\c[0]?
 
 message_501:
-    text: Do you want to cut the white wire?
+    text: Você deseja cortar o fio branco?
 
 message_502:
-    text: Do you want to cut the \c[3]green wire\c[0]?
+    text: Você deseja cortar o \c[3]fio verde\c[0]?
 
 #BUTTON PUZZLE (Bomb Collision)
 
 message_503:
       faceset: MainCharacters_DreamWorld
       faceindex: 0
-      text: Go on!\! We believe in you!\aub
+      text: Vá em frente!\! Nós acreditamos em você!\aub
 
 message_504:
       faceset: MainCharacters_DreamWorld
       faceindex: 18
-      text: You got this! Show this puzzle who's boss!\kel
+      text: Você consegue! Mostre para esse quebra-cabeça quem manda!\kel
 
 message_505:
       faceset: MainCharacters_DreamWorld
       faceindex: 36
-      text: You can do this! We got your back!\her
+      text: Você consegue! Estamos com você!\her
 
 # -----------------------------------------------
 # - SLIME GIRLS: MOLLY ROOM RIGHT 2 (238)
@@ -2229,151 +2230,151 @@ message_505:
 #WELCOME HUMPHRIES
 
 message_445:
-    text: \n<RECEPTIONIST HUMPHREY>Welcome!\! You are about to enter MOLLY's testing center where she conducts various procedures and analyses!
+    text: \n<HUMPHREY RECEPCIONISTA>Bem-vindo!\! Você está prestes a entrar no centro de testes da MOLLY onde ela conduz diversos procedimentos e análises!
 
 message_477:
-    text: \n<OPERATOR HUMPHREY>According to our tests, it would seem that SPROUT MOLES grow from \c[3]TOFU\c[0]!\! Who knew!?
+    text: \n<HUMPHREY OPERADOR>De acordo com nossos testes, parece que as BROTOPEIRAS crescem de \c[3]TOFU\c[0]!\! Quem imaginaria!?
 
 message_478:
-    text: \n<OPERATOR HUMPHREY>Ah... These results are quite unexpected...\! With this knowledge, I just may be able to find the cure for mortality!
+    text: \n<HUMPHREY OPERADOR>Ah... Esses resultados são bem inesperados...\! Com esse conhecimento, eu talvez possa conseguir a cura pra mortalidade!
 
 message_479:
-    text: \n<OPERATOR HUMPHREY>Oh my! Surely, these numbers aren't correct!\!<br>...\! Oh... wait...\! It seems that I have miscalculated...\!<br>I guess they're not.
+    text: \n<HUMPHREY OPERADOR>Nossa! Com certeza, esses números não estão corretos!\!<br>...\! Oh... espere...\! Parece que eu errei um cálculo...\!<br>Acho que não estão.
 
 message_480:
-    text: \n<OPERATOR HUMPHREY>We understand so little about this world, so we study it...\! yet our research just fills us with even more questions!\!<br>It's an endless and fruitless cycle!
+    text: \n<HUMPHREY OPERADOR>Nós entendemos pouquíssimo sobre esse mundo, então estudamos ele...\! mas nossa pesquisa nos dá mais perguntas ainda!\!<br>É um ciclo sem fim!
 
 message_481:
-    text: \n<OPERATOR HUMPHREY>This is HUMPHREY to HUMPHREY... Do you read me?
+    text: \n<HUMPHREY OPERADOR>Esse é o HUMPHREY para HUMPHREY... Copia?
 
 message_482:
-    text: \n<OPERATOR HUMPHREY>Mhmm...\! Yes...\!<br>Have you tried turning it off and back on again?
+    text: \n<HUMPHREY OPERADOR>Mhmm...\! Sim...\!<br>Você já tentou desligar e ligar denovo?
 
 message_483:
-    text: \n<OPERATOR HUMPHREY>It's tough to get any actually work done around here, since MOLLY is always messing with our research...<br><br>I wish I was assigned to MEDUSA's quadrant...\!<br>That's where they assign all the work-hard-play-hard types...<br>I hear they even have a water slide!
+    text: \n<HUMPHREY OPERADOR>É difícil ter algum progresso aqui, já que a MOLLY sempre está mexendo no nosso experimento...<br><br>Queria ser designado para o quadrante da MEDUSA...\!<br>É lá que os verdadeiros trabalhadores estão...<br>Me disseram que eles tem até um tobogã!
 
 message_484:
-    text: \n<OPERATOR HUMPHREY>That's what I'm saying...\! According to the live feed, she's working hard on something in her "workshop"...\! Yeah, okay...\!<br>I'll keep an eye on it.
+    text: \n<HUMPHREY OPERADOR>Isso que estou dizendo...\! De acordo com as notícias, ela está trabalhando em algo no seu "workshop"...\! Sim, claro...\!<br>Vou ficar de olho nisso.
 
 message_485:
-    text: \n<OPERATOR HUMPHREY>Looks like MARINA just had a huge fight with a client.\! Things aren't looking good...
+    text: \n<HUMPHREY OPERADOR>Parece que a MARINA acabou de ter uma briga com um cliente.\! Não parece nada bom...
 
 #Teleport Object
 
 message_396:
-    text: \n<SPROUT MOLE>I can't believe I signed up for this.
+    text: \n<BROTOPEIRRA>Não consigo acreditar que me inscrevi pra isso.
 
 #FIRST HUMPHREY (Pattern)
 
 message_446:
-    text: \n<HUMPHREY>Greetings, visitors!\! Would you like to see something cool?\!<br>This machine here can perform remote teleportation!
+    text: \n<HUMPHREY>Prazer, visitantes!\! Gostariam de ver algo legal?\!<br>Essa máquina aqui pode performar um teletransporte remoto!
 
 message_454:
-    text: \n<HUMPHREY>With the power of modern technology, I can send this SPROUT MOLE to the other side of the grid!\! Take a look!
+    text: \n<HUMPHREY>Com o poder da tecnologia moderna, posso mandar essa BROTOPEIRA pro outro lado!\! Olhem só!
 
 message_455:
-    text: \n<HUMPHREY>\com[2]What!? An error?\! ...\!<br>Someone must have messed with the program.<br><br>Sigh...\! It was probably MOLLY again...\!<br>She always pulls stunts like this...
+    text: \n<HUMPHREY>\com[2]O quê!? Um erro?\! ...\!<br>Alguém deve ter mexido com o programa.<br><br>Droga...\! Provavelmente foi a MOLLY denovo...\!<br>Ela sempre faz bobagens como essa...
 
 message_456:
-    text: \n<HUMPHREY>Dangit, MOLLY!\! Everything worked so perfectly this morning...
+    text: \n<HUMPHREY>Porcaria, MOLLY!\! Tudo funcionou perfeitamente hoje de manhã...
 
 #SECOND HUMPHREY (Pattern)
 
 message_447:
-    text: \n<HUMPHREY>Hey there, visitors!\! I've been leading an experiment on HUMPHREY-through-HUMPHREY movement!\! You've come just in time to watch us conduct our final test!
+    text: \n<HUMPHREY>Olá, visitantes!\! Estice conduzindo um experimento no movimento HUMPHREY-por-HUMPHREY!\! Vocês chegaram na hora pra ver nosso teste final!
 
 message_448:
-    text: \n<HUMPHREY>Are you ready, gang?\! Let's do it just like we practiced!
+    text: \n<HUMPHREY>Estão prontos, pessoal?\! Vamos fazer como praticamos!
 
 message_449:
-    text: \n<HUMPHREY>This... This wasn't in my plans...
+    text: \n<HUMPHREY>Isso... Isso não estava nos meus planos...
 
 message_451:
-    text: \n<HUMPHREY>Where'd everybody go?
+    text: \n<HUMPHREY>Onde todo munndo foi?
 
 message_457:
-    text: \n<HUMPHREY>We're testing!
+    text: \n<HUMPHREY>Estamos testando!
 
 message_458:
-    text: \n<HUMPHREY>I can't wait to show off the results of our research!
+    text: \n<HUMPHREY>Mal posso esperar para mostrar os resultados da nossa pesquisa!
 
 message_459:
-    text: \n<HUMPHREY>I'm all ready to go!
+    text: \n<HUMPHREY>Estou pronto!
 
 message_460:
-    text: \n<HUMPHREY>I should have gone through my notes one last time...
+    text: \n<HUMPHREY>Eu deveria checar minhas notas uma última vez...
 
 message_476:
-    text: \n<HUMPHREY>Prepare to be amazed!
+    text: \n<HUMPHREY>Prepare-se para se maravilhar!
 
 #FOURTH HUMPHREY (Pattern)
 
 message_452:
-    text: \n<HUMPHREY>Ah! Hello, visitors!\! After months upon months of hard work and toil, I've successfully created the first-ever HUMPHREY hologram machine!<br>Don't they look just like the real thing?\!<br>Sniff...\! I couldn't be more proud...
+    text: \n<HUMPHREY>Ah! Olá, visitantes!\! Depois de meses e meses de trabalho e cansaço, Eu consegui criar a primeira máquina de holograma HUMPHREY!<br>Eles não parecem com os reais?\!<br>Sniff...\! Não poderia estar mais orgulhoso...
 
 message_453:
-    text: \n<HUMPHREY>MOLLY told me to stand here, but I don't know why!
+    text: \n<HUMPHREY>MOLLY me disse para eu esperar aqui, mas não sei o porquê!
 
 #THIRD HUMPHREY (Pattern)
 
 message_461:
-    text: \n<HUMPHREY>Hmm...\| Oof...\| Urg...\| Hrm...\| Eh?
+    text: \n<HUMPHREY>Hmm...\| Oof...\| Urg...\| Hrm...\| É?
 
 message_462:
-    text: \n<HUMPHREY>Huh? What are you looking at me like that for?\!<br>Can't you see that I'm busy?
+    text: \n<HUMPHREY>Huh? Por que você está me olhando desse jeito?\!<br>Não consegue ver que estou ocupado?
 
 message_463:
     text: \n<HUMPHREY>...
 
 message_700:
-    text: \n<HUMPHREY>Actually... I just got an idea!\! On second thought, can one of you kids try running through these metal plates for me?\!<br>I just want to test something.
+    text: \n<HUMPHREY>Na verdade... Eu acabei de ter uma ideia!\! Talvez uma de vocês crianças poderiam tentar passar correndo por uma dessas barras para mim?\!<br>Só quero ver uma coisa rapidinho.
 
 message_701:
-    text: \n<HUMPHREY>Why don't you discuss it amongst yourselves and vote?
+    text: \n<HUMPHREY>Por que vocês não escolhem quem vai por meio de votação?
 
 message_702:
-    text: Who should help HUMPHREY with his experiment?
+    text: Quem deveria ajudar o HUMPHREY no seu experimento?
 
 message_465:
       faceset: MainCharacters_DreamWorld
       faceindex: 4
-      text: Okay... if you're sure, OMORI.\! Just be careful!\! I don't have a good feeling about this.\aub
+      text: Beleza... se você tem certeza, OMORI.\! Só tome cuidado!\! Não tenho um pressentimento bom sobre isso.\aub
 
 message_466:
       faceset: MainCharacters_DreamWorld
       faceindex: 4
-      text: Huh?\! Me?\! Okay... but I don't have a good feeling about this.\aub
+      text: Huh?\! Eu?\! Tudo bem... mas não tenho um pressentimento bom sobre isso.\aub
 
 message_467:
       faceset: MainCharacters_DreamWorld
       faceindex: 31
-      text: What!? Why do I gotta do it!?\!<br>Fine... but I don't have a good feeling about this.\kel
+      text: O quê!? Por que eu!?\!<br>Tudo bem... mas não tenho um pressentimento bom sobre isso.\kel
 
 message_468:
       faceset: MainCharacters_DreamWorld
       faceindex: 40
-      text: Leave this to me...\! Besides, I don't have a good feeling about this.\her
+      text: Deixa comigo...\! Ainda assim, não tenho um pressentimento bom sobre isso.\her
 
 message_469:
-    text: \n<HUMPHREY>Hurry up! I don't have all day!
+    text: \n<HUMPHREY>Vamos logo! Não tenho o dia todo!
 
 message_470:
-    text: \n<HUMPHREY>\com[2]A-ha! I knew one of these spikes was broken...
+    text: \n<HUMPHREY>\com[2]A-ha! Eu sabia que um desses espinhos estava quebrado...
 
 message_471:
-    text: \n<HUMPHREY>If I had a cup of coffee right now, I would sip it!
+    text: \n<HUMPHREY>Se eu tivesse um copo de café, eu daria uma golada!
 
 message_472:
-    text: \n<HUMPHREY>Thanks for voluntarily risking your life.
+    text: \n<HUMPHREY>Obrigado por arriscar sua vida voluntariamente.
 
 message_473:
-    text: \n<HUMPHREY>Well... I guess now I gotta go fix it.
+    text: \n<HUMPHREY>Bem... Acho que tenho que consertar isso agora.
 
 message_474:
-    text: \n<HUMPHREY>Hmm...\| Oof...\| Urg...\| Hrm...\| Eh?
+    text: \n<HUMPHREY>Hmm...\| Oof...\| Urg...\| Hrm...\| É?
 
 message_475:
-    text: \"TYPE... CONSOLE\"<br>\"STATUS... BROKEN\"
+    text: \"TIPO... CONSOLE\"<br>\"STATUS... QUEBRADO\"
 
 message_174:
     text: OMORI
@@ -2388,7 +2389,7 @@ message_177:
     text: HERO
 
 message_450:
-    text: \n<HUMPHREY>Whoa, there! Not so fast, buddy. You're not done here yet!\! Make sure to go through all of them!
+    text: \n<HUMPHREY>Espere um pouco! Não tão rápido amigão. Você ainda não acabou aqui!\! Certifique-se de passar por todos eles!
 
 # -----------------------------------------------
 # - SLIME GIRLS: LOST ROOM 1 (241) UNUSED
@@ -2408,7 +2409,7 @@ message_609:
 # -----------------------------------------------
 
 message_487:
-    text: \n<KNOWLEDGEABLE HUMPHREY>A wise whale once said...<br>"The order of the route will lead you to the solution!"\! or something like that...
+    text: \n<HUMPHREY INTELIGENTE>Uma baleia sábia uma vez disse...<br>"A ordem da rota te conduzirá para a solução!"\! ou algo assim...
 
 # -----------------------------------------------
 # - SLIME GIRLS: MOLLY ROOM LEFT 2 (240)
@@ -2417,90 +2418,90 @@ message_487:
 message_329:
     faceset: MainCharacters_DreamWorld
     faceindex: 19
-    text: \kelHey, it's these guys again!\! Work your magic, HERO!
+    text: \kelEi, são esses caras de novo!\! Faça sua mágica, HERO!
 
 message_330:
     faceset: MainCharacters_DreamWorld
     faceindex: 37
-    text: \n<HERO>Hey, you're right!
+    text: \n<HERO>Ei, você está certo!
 
 message_331:
     faceset: MainCharacters_DreamWorld
     faceindex: 49
-    text: \n<HERO>Ahem...\! Greetings, Sir CONVEYOR-BOT...\! My companions and<br>I require your assistance in changing the directions of your conveyors...\! Will you and your friends please aid us?
+    text: \n<HERO>Ahem...\! Saudações, senhor ESTEIROBÔ...\! Meus companheiros e<br>eu precisamos da sua ajuda para mudarmos a direção de suas esteiras...\! Você e seus amigos nos ajudarão?
 
 message_332:
-    text: \n<MR. CONVEYOR-BOT>\quake[1]Bzzt...\! Hmph...\! Nice person...\quake[0]
+    text: \n<SR. ESTEIROBÔ>\quake[1]Bzzt...\! Hmph...\! Boa pessoa...\quake[0]
 
 message_333:
-      text: \n<MR. CONVEYOR-BOT>\quake[1]Get... lost...\quake[0]
+      text: \n<SR. ESTEIROBÔ>\quake[1]Saia... daqui...\quake[0]
 
 message_334:
     faceset: MainCharacters_DreamWorld
     faceindex: 40
-    text: \n<HERO>H-huh? That's strange...\! That worked so well before...
+    text: \n<HERO>H-Huh? Isso é estranho...\! Aquilo funcionou antes...
 
 message_335:
     faceset: MainCharacters_DreamWorld
     faceindex: 29
-    text: \kelDon't be so down, HERO!\! He's probably just got his gears all mixed up or something!
+    text: \kelNão fique pra baixo, HERO!\! Ele deve estar com as engrenagens falhando ou algo assim!
 
 message_336:
     faceset: MainCharacters_DreamWorld
     faceindex: 10
-    text: \aubCould you say that any louder?\! Now he's gonna get even more mad at us!
+    text: \aubNão consegue falar mais alto não?\! Agora ele vai ficar ainda mais nervoso!
 
 message_337:
     faceset: MainCharacters_DreamWorld
     faceindex: 17
-    text: \kelHey, scrap heap!<Br>You'll turn those belts around for us, won'tcha?
+    text: \kelEi, monte de sucata!<Br>Você vai mexer uns parafusos por nós, não vai?
 
 message_338:
-      text: \n<CONVEYOR-BOT>\quake[1]Bzzzzzt!\! Ahh...\! Hmm...\! Rude person...\!<br>Hehe...\! Just like MOLLY...\quake[0]
+      text: \n<SR. ESTEIROBÔ>\quake[1]Bzzzzzt!\! Ahh...\! Hmm...\! Pessoa rude...\!<br>Hehe...\! Como a MOLLY...\quake[0]
 
 message_339:
     faceset: MainCharacters_DreamWorld
     faceindex: 11
-    text: \aub...\! I can't believe that worked.
+    text: \aub...\! Eu não acredito que funcionou.
 
 message_340:
     faceset: MainCharacters_DreamWorld
     faceindex: 18
-    text: \kelWell, whaddya know?<br>Looks like I'm pretty good at this CHARM thing, too!
+    text: \kelBem, e do que você sabe?<br>Pelo visto sou muito bom nessa coisa de CHARME também!
 
 message_382:
-    text: \n<HERO>TAG me in! I know what to do!
+    text: \n<HERO>PASSE pra mim! Eu sei o que fazer!
 
 message_999:
-    text: All CONVEYOR-BOTS will now switch directions for you.
+    text: Todos os ESTEIROBÔS vão trocar de direção pra você agora.
 
 # -----------------------------------------------
 # - SLIME GIRLS: MOLLY ROOM LEFT 1 (239)
 # -----------------------------------------------
 
 message_488:
-    text: \n<HUMPHREY>MOLLY told us to write letters on our back and stand in this order!
+    text: \n<HUMPHREY>MOLLY nos disse para escrever cartas nas nossas costas e ficar nessa ordem!
 
 message_489:
-    text: \n<HUMPHREY>At least, I think it was this order...
+    text: \n<HUMPHREY>Pelo menos, eu acho que era essa ordem...
 
 message_490:
-    text: \n<HUMPHREY>I'm pretty sure I'm supposed to switch places with the one on your right...
+    text: \n<HUMPHREY>Tenho quase certeza que eu deveria trocar de lugar com o cara na sua direita...
 
 message_491:
-    text: \n<HUMPHREY>And when I say "your right", I mean you, as in the person standing in front of me... not some hypothetical observer watching us from behind a screen.
+    text: \n<HUMPHREY>E quando eu digo "sua direita", digo você, que está na minha frente... não algum observador hipotético que nos olha por trás de uma tela.
 
 message_492:
-    text: \n<HUMPHREY>This must be for one of MOLLY's crazy puzzles again...
+    text: \n<HUMPHREY>Isso deve ser para um dos quebra-cabeças malucos da MOLLY denovo...
 
 message_493:
-    text: \n<HUMPHREY>That girl loves to play games too much. If she would just focus, she could probably do so much good for the world!
+    text: \n<HUMPHREY>Aquela garota gosta de jogar demais. Se ela apenas focasse, provavelmente poderia fazer tão bem pro mundo!
 
 message_494:
-    text: \n<HUMPHREY>It's a good thing I checked before writing this "M", or else I would have almost written another "B"...
+    text: \n<HUMPHREY>É ótimo que chequei antes de escrever esse "M", senão eu quase escreveria outro "B"...
 
 message_495:
-    text: \n<HUMPHREY>That would have been pretty bad, huh?
+    text: \n<HUMPHREY>Isso seria muito ruim, hein?
 
 # -----------------------------------------------
 # - SLIME GIRLS LAIR: MEDUSA (231, 250)
@@ -2509,119 +2510,119 @@ message_495:
 #FLOATIE HUMPHRIES 1
 
 message_57:
-    text: \n<HUMPHREY>Of course I will! I thought you'd never ask!
+    text: \n<HUMPHREY>Claro que vou! Pensei que nunca pediria!
 
 message_58:
     faceset: MainCharacters_DreamWorld
     faceindex: 19
-    text: \kelHey, HUMPHREY! Do you wanna to join your friend HUMPHREY at the waterfall?
+    text: \kelEi, HUMPHREY! Você quer se juntar ao seu amigo HUMPHREY na cachoeira?
 
 message_610:
-    text: \n<HUMPHREY BRIDGE>\i[14]\i[14]\i[14]\i[13]\i[13]\i[13]
+    text: \n<PONTE HUMPHREY>\i[14]\i[14]\i[14]\i[13]\i[13]\i[13]
 
 message_611:
-    text: \n<HUMPHREY BRIDGE>\i[14]\i[14]\i[14]\i[14]\i[13]\i[13]
+    text: \n<PONTE HUMPHREY>\i[14]\i[14]\i[14]\i[14]\i[13]\i[13]
 
 message_612:
-    text: \n<HUMPHREY BRIDGE\i[14]\i[14]\i[14]\i[14]\i[14]\i[13]
+    text: \n<PONTE HUMPHREY\i[14]\i[14]\i[14]\i[14]\i[14]\i[13]
 
 message_613:
-    text: \n<HUMPHREY BRIDGE>\i[14]\i[14]\i[14]\i[14]\i[14]\i[14]
+    text: \n<PONTE HUMPHREY>\i[14]\i[14]\i[14]\i[14]\i[14]\i[14]
 
 #FLOATIE HUMPHRIES 2
 
 message_614:
-    text: \n<HUMPHREY BRIDGE>\i[14]\i[14]\i[13]\i[13]\i[13]\i[13]\i[13]\i[13]
+    text: \n<PONTE HUMPHREY>\i[14]\i[14]\i[13]\i[13]\i[13]\i[13]\i[13]\i[13]
 
 message_615:
-    text: \n<HUMPHREY BRIDGE>\i[14]\i[14]\i[14]\i[13]\i[13]\i[13]\i[13]\i[13]
+    text: \n<PONTE HUMPHREY>\i[14]\i[14]\i[14]\i[13]\i[13]\i[13]\i[13]\i[13]
 
 message_616:
-    text: \n<HUMPHREY BRIDGE>\i[14]\i[14]\i[14]\i[14]\i[13]\i[13]\i[13]\i[13]
+    text: \n<PONTE HUMPHREY>\i[14]\i[14]\i[14]\i[14]\i[13]\i[13]\i[13]\i[13]
 
 message_617:
-    text: \n<HUMPHREY BRIDGE>\i[14]\i[14]\i[14]\i[14]\i[14]\i[13]\i[13]\i[13]
+    text: \n<PONTE HUMPHREY>\i[14]\i[14]\i[14]\i[14]\i[14]\i[13]\i[13]\i[13]
 
 message_618:
-    text: \n<HUMPHREY BRIDGE>\i[14]\i[14]\i[14]\i[14]\i[14]\i[14]\i[13]\i[13]
+    text: \n<PONTE HUMPHREY>\i[14]\i[14]\i[14]\i[14]\i[14]\i[14]\i[13]\i[13]
 
 message_619:
-    text: \n<HUMPHREY BRIDGE>\i[14]\i[14]\i[14]\i[14]\i[14]\i[14]\i[14]\i[13]
+    text: \n<PONTE HUMPHREY>\i[14]\i[14]\i[14]\i[14]\i[14]\i[14]\i[14]\i[13]
 
 message_620:
-    text: \n<HUMPHREY BRIDGE>\i[14]\i[14]\i[14]\i[14]\i[14]\i[14]\i[14]\i[14]
+    text: \n<PONTE HUMPHREY>\i[14]\i[14]\i[14]\i[14]\i[14]\i[14]\i[14]\i[14]
 
 # -----------------------------------------------
 # - RECYCULTIST: RANDOM DIALOGUE (341)
 # -----------------------------------------------
 
 message_250:
-    text: \n<RECYCULTIST>The bin is my savior, I shall not waste.
+    text: \n<RECICULTISTA>A lata é minha salvadora, não devo desperdiçar.
 
 message_251:
-    text: \n<RECYCULTIST>He picks up trash in green pastures.<br>He leads me beside clean waters.
+    text: \n<RECICULTISTA>Ela pega lixo em pastos verdes.<br>Ela me leva ao lado de águas limpas.
 
 message_252:
-    text: \n<RECYCULTIST>He recycles my soul.<br>He leads me toward the path of cleanliness.
+    text: \n<RECICULTISTA>Ela recicla minha alma.<br>Ela me leva para um caminho de limpeza.
 
 message_253:
-    text: \n<RECYCULTIST>May the biodegradable fork deliver our sins unto it so that we may be cleansed.
+    text: \n<RECICULTISTA>Que o garfo biodegrádavel leve nossos pecados para que possamos ser puros.
 
 message_254:
-    text: \n<RECYCULTIST>May we one day be recycled unto it so that we may be delivered into the trashless world.
+    text: \n<RECICULTISTA>Um dia seremos reciclados nela para ser levados à um mundo sem lixo.
 
 message_255:
-    text: \n<RECYCULTIST>Oh, great trash bin in the sky, please cleanse us of our trash!
+    text: \n<RECICULTISTA>Ó, grande lata de lixo no céu, pedimos que nos limpe e tire nosso lixo!
 
 message_256:
-    text: \n<RECYCULTIST>May the spirit of the rubber glove work through me,<br>so that I may be closer to the trash bin in the sky and the trashless world.
+    text: \n<RECICULTISTA>Que o espírito da luva de borracha trabalhe por mim,<br>para que eu chegue mais perto da lata de lixo no céu e o mundo sem lixo.
 
 message_257:
-    text: \n<RECYCULTIST>For holy bin so loved the world that he gave his one and only clean biodegradable fork, that whoever believes in it shall not litter, but have a trashless life...
+    text: \n<RECICULTISTA>A lata sagrada amava tanto esse mundo que nos deu seu único garfo biodegrádavel limpo, que quem acredita nela não deve sujar, mas ter uma vida sem lixo...
 
 message_258:
-    text: \n<RECYCULTIST>Brothers and sisters, we must all accept that we are trash.
+    text: \n<RECICULTISTA>Irmãos e irmãs, todos nós devemos aceitar que somos lixos.
 
 message_259:
-    text: \n<RECYCULTIST>Although we may be trash, as long as we remain biodegradable we may yet be saved.
+    text: \n<RECICULTISTA>Mesmos se somos lixo, se continuarmos biodegrádaveis ainda seremos salvos.
 
 # -----------------------------------------------
 # - RECYCULTIST: END PRAYER (341)
 # -----------------------------------------------
 
 message_260:
-    text: \n<RECYCULTIST>In the biodegradable fork's name...\!<br>Reduce, reuse, and recycle.
+    text: \n<RECICULTISTA>Em nome do garfo biodegrádavel...\!<br>Reduza, reuse e recicle.
 
 # -----------------------------------------------
 # - RECYCULTIST: DEFEATED (341)
 # -----------------------------------------------
 
 message_261:
-    text: \n<RECYCULTIST>Forgive me trash bin...\! for I have littered...
+    text: \n<RECICULTISTA>Me perdoe lata de lixo...\! pois eu me sujei...
 
 message_262:
-    text: \n<RECYCULTIST>I've been beaten by trash!\! Forgive me, holy bin! I am unclean and unworthy of the trashless world!
+    text: \n<RECICULTISTA>Eu fui derrotado por lixo!\! Me perdoe, lata sagrada! Eu sou sujo e indigno do mundo sem lixo!
 
 message_263:
-    text: \n<RECYCULTIST>Oh, no! I left my hand sanitizer at home!
+    text: \n<RECICULTISTA>Oh, não! Deixei meu álcool em gel em casa!
 
 message_264:
-    text: \n<RECYCULTIST>I know that he's our leader and all, but building a giant trash tower seems kinda sacreligious, don't you think?
+    text: \n<RECICULTISTA>Eu sei que ele é nosso líder e tudo mais, mas construir uma grande torre de lixo parece algo profano, não acha?
 
 message_265:
-    text: \n<RECYCULTIST>Sniff... Sniff...\! Ewww...\!<br>I'm kinda dirty. I need to go home and shower.
+    text: \n<RECICULTISTA>Sniff... Sniff...\! Ewww...\!<br>Estou meio sujo. Preciso ir para casa tomar um banho.
 
 message_266:
-    text: \n<RECYCULTIST>Yo...\! You probably don't care but...<br>I don't actually believe this stuff.
+    text: \n<RECICULTISTA>Ei...\! Você provavelmente não liga, mas...<br>Eu na verdade não acredito nisso.
 
 message_267:
-    text: \n<RECYCULTIST>My girlfriend dragged me along...\! She can get kind of carried away about this recycling stuff...
+    text: \n<RECICULTISTA>Minha namorada me arrastou nisso...\! Ela fica meio doida com esse esquema de reciclar...
 
 message_268:
-    text: \n<RECYCULTIST>Dang... I lost...
+    text: \n<RECICULTISTA>Droga... Eu perdi...
 
 message_269:
-    text: \n<RECYCULTIST>Hey, don't judge me, okay!?<br>I'm just doing this for college credit...
+    text: \n<RECICULTISTA>Ei, não me julgue, tá!?<br>Só estou fazzendo isso por pontos do colégio...
 
 # -----------------------------------------------
 # - RECYCULTIST: MISC (341)
@@ -2630,136 +2631,136 @@ message_269:
 #Group of RECYCULTISTS
 
 message_281:
-    text: \n<RECYCULTIST>Gaze upon the size of our army and tremble!\! Without loyal followers of your own, you will never be able to defeat us!
+    text: \n<RECICULTISTA>Olhe o tamanho do meu exécito e trema!\! Sem seus próprios seguidores leais, nunca nos derrotará!
 
 message_247:
-    text: \n<RECYCULTIST>Even if you are...\! quite charming.
+    text: \n<RECICULTISTA>Mesmo se você for...\! bem charmoso.
 
 message_248:
-    text: \n<RECYCULTIST>Return when your numbers exceed ours!\! We will have our showdown then.
+    text: \n<RECICULTISTA>Volte quando seus números excederem os nossos!\! Então teremos nossa batalha.
 
 message_282:
-    text: \n<RECYCULTIST>Uh-oh...\! it looks like you outnumber us now.
+    text: \n<RECICULTISTA>Uh-oh...\! parece que seu exército é maior agora.
 
 message_283:
-    text: \n<RECYCULTIST>It would seem we have no choice to surrender...\! Alright, let's go.\! Anyone up for some barbecue tonight?
+    text: \n<RECICULTISTA>Parece que não temos outra escolha além de nos render...\! Beleza, vamos lá.\! Alguém livre para um churrasco hoje?
 
 message_284:
-    text: \n<CONVERTED? RECYULTIST>So, I guess, uh...\! we should get going too.
+    text: \n<RECICULTISTA CONVERTIDO?>Então, eu acho que, uh...\! nós deveríamos sair também.
 
 #Block guy
 
 message_285:
-    text: \n<RECYCULTIST>I spent eight hours constructing this unbreakable block.\! I'd like to see you try and get past it!
+    text: \n<RECICULTISTA>Eu gastei 8 horas construindo essa barreira indestrutível.\! Eu gostaria de ver você tentar passar por ela!
 
 message_286:
-    text: \n<RECYCULTIST>Oh...
+    text: \n<RECICULTISTA>Oh...
 
 #HERO charm
 
 message_287:
       faceset: MainCharacters_Faraway
       faceindex: 37
-      text: This place doesn't suit you...\! Why don't we take care of this mess before it gets out of hand?\her
+      text: Esse lugar não se encaixa com você...\! Por que não tomamos conta dessa bagunça antes que ela acumule mais?\her
 
 message_288:
-    text: \n<RECYCULTIST>Yeah, you're probably right.
+    text: \n<RECICULTISTA>É, você provavelmente tem razão.
 
 message_289:
-    text: \n<RECYCULTIST>I'd love to come with you, but there doesn't seem to be any room left for me...
+    text: \n<RECICULTISTA>Eu adoraria ir com você, mas não parece estar sobrando espaço para mim...
 
 message_290:
-    text: \n<RECYCULTIST>A filthy plastic wielder demands my allegiance?\! Never!\!<br>...\! But...\! Perhaps if you were someone more charming.
+    text: \n<RECICULTISTA>Um desprezível carregador de plástico deseja minha aliança?\! Nunca!\!<br>...\! Mas...\! Talvez se você fosse alguém mais charmoso.
 
 message_291:
-    text: \n<RECYCULTIST>I should reflect on my life...
+    text: \n<RECICULTISTA>Eu deveria repensar minha vida...
 
 # -----------------------------------------------
 # - RECYCULTIST: BILLY CHALLENGED (341)
 # -----------------------------------------------
 
 message_270:
-    text: \n<RECYCLEPATH>Hello...\! Welcome to the top of the tower of rubble.
+    text: \n<RECICLOPATA>Olá...\! Bem vindo ao topo da torre de lixo.
 
 message_271:
-    text: \n<RECYCLEPATH>It is I...
+    text: \n<RECICLOPATA>Sou eu...
 
 message_272:
-    text: \n<RECYCLEPATH>The RECYCLEPATH...
+    text: \n<RECICLOPATA>O RECICLOPATA...
 
 message_273:
-    text: \n<RECYCLEPATH>The only one chosen to speak in the holy bin's name!
+    text: \n<RECICLOPATA>O único escolhido para falar em nome da lata sagrada!
 
 message_274:
-    text: \n<RECYCLEPATH>I had a dream last night.
+    text: \n<RECICLOPATA>Eu tive um sonho ontem.
 
 message_275:
-    text: \n<RECYCLEPATH>The spirit of the rubber glove told me that this world is no longer fit for us.\! We must build, as the holy bin in the sky commands us...
+    text: \n<RECICLOPATA>O espírito da luva de borracha disse que esse mundo não serve mais para nós.\! Devemos construir, como a lata sagrada comanda...
 
 message_276:
-    text: \n<RECYCLEPATH>To reach the trashless world, where humans and biodegradable materials may coexist in harmony!
+    text: \n<RECICLOPATA>Para alcançar o mundo sem lixo, onde humanos e materiais biodegrádaveis coexistem em harmonia!
 
 message_277:
-    text: \n<RECYCLEPATH>You kids have reached a long way up this tower...\! but I'm afraid this is where your journey ends.
+    text: \n<RECICLOPATA>Vocês crianças subiram um longo caminho para chegar aqui...\! mas temo que aqui será onde sua jornada termina.
 
 message_278:
-    text: \n<RECYCLEPATH>After all, you are nothing but trash...\!<br>grubby, senseless plastic wielders!
+    text: \n<RECICLOPATA>Afinal, vocês não são nada além de lixo...\!<br>lixos, usadores de plástico sem sentimentos!
 
 message_279:
-    text: \n<RECYCLEPATH>May the grace of the biodegradable fork work through me!
+    text: \n<RECICLOPATA>Que a graça do garfo biodegrádavel desça diante de mim!
 
 message_280:
-    text: \n<RECYCLEPATH>Prepare to be \com[2]recycled!
+    text: \n<RECICLOPATA>Prepare-se para ser \com[2]reciclado!
 
 # -----------------------------------------------
 # - RECYCULTIST: BILLY RECYCLED (341)
 # -----------------------------------------------
 
 message_300:
-    text: \n<RECYCLEPATH>No...\! How is this possible?\! But...\! You are all just trash...
+    text: \n<RECICLOPATA>Não...\! Como isso é possível?\! Mas...\! Vocês são todos lixo...
 
 message_301:
-    text: \n<RECYCLEPATH>We are destined to reach the trashless world...\! Has the holy bin forsaken us?
+    text: \n<RECICLOPATA>Nós estamos destinados a alcançar o mundo sem lixo...\! A lata sagrada nos traiu?
 
 message_302:
-    text: \n<RECYCLEPATH>No...\! I must have misinterpreted its message.\! The holy bin makes no mistakes, after all.
+    text: \n<RECICLOPATA>Não...\! Eu devo ter confundido a mensagem dela.\! A lata sagrada não comete erros, afinal.
 
 message_303:
-    text: \n<RECYCLEPATH>It is I who must have been wrong...
+    text: \n<RECICLOPATA>Eu que devo ter errado...
 
 message_304:
-    text: \n<RECYCLEPATH>Wait...\! I understand now!
+    text: \n<RECICLOPATA>Espere...\! Eu entendo agora!
 
 message_305:
-    text: \n<RECYCLEPATH>The holy bin must be telling me that there is no trashless world!\! We can only make the most of the world that we live in...
+    text: \n<RECICLOPATA>A lata sagrada deve estar me dizendo que não existe mundo sem lixo!\! Só podemos tirar o máximo de lixo que podemos do nosso...
 
 message_306:
-    text: \n<RECYCLEPATH>Yes...\! Come brothers and sisters!\! The trashless world is not up in the sky, but on the ground that we stand on.
+    text: \n<RECICLOPATA>Sim...\! Venham irmãos e irmãs!\! O mundo sem lixo não está nos céus, e sim no chão em que pisamos.
 
 message_307:
-    text: \n<RECYCLEPATH>We must make this our trashless world together!
+    text: \n<RECICLOPATA>Devemos criar esse mundo juntos!
 
 # -----------------------------------------------
 # - RECYCULTIST: CLEANED TRASH (341)
 # -----------------------------------------------
 
 message_320:
-    text: \n<RECYCLEPATH>Let us pray...
+    text: \n<RECICLOPATA>Nos deixe rezar...
 
 message_321:
-    text: \n<RECYCULTIST>Holy bin, thou art in heaven, cleansed of filth and decay.
+    text: \n<RECICULTISTA>Lata sagrada, tu que estás no céu, livre de ferrugem e sujeira.
 
 message_322:
-    text: \n<RECYCULTIST>Thy cleanliness come, thy will be done, on earth as it is in the trashless world.
+    text: \n<RECICULTISTA>Venha a tua limpeza, seja feita a tua vontade, tanto na terra como no mundo sem lixo.
 
 message_323:
-    text: \n<RECYCULTIST>Give us this day, our daily glove, and forgive us for our tresspasses, as we clean trash made by those who trespass us.
+    text: \n<RECICULTISTA>Nos dê esse dia, a nossa luva diária, e nos perdoe pelas nossas ofensas, enquanto limpamos o lixo feito por aqueles que nos ofenderam.
 
 message_324:
-    text: \n<RECYCULTIST>Lead us not into temptation, and deliver us from the littering ones.
+    text: \n<RECICULTISTA>Não caiamos em tentação, e livrai-nos dos que acumulam lixo.
 
 message_325:
-    text: \n<RECYCULTIST>In the biodegradable fork's name...
+    text: \n<RECICULTISTA>Em nome do garfo biodegrádavel...
 
 message_326:
-    text: \n<RECYCULTIST>Reduce, reuse, and recycle.
+    text: \n<RECICULTISTA>Reduza, reuse e recicle.
