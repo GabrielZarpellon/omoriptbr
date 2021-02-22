@@ -252,7 +252,7 @@ message_301:
 # -----------------------------------------------
 
 message_399:
-    text: Você quer sair para curtir com seus amigos?
+    text: Você quer se divertir com seus amigos?
 
 message_400:
     text: Você quer jogar cartas com seus amigos?
@@ -315,7 +315,7 @@ message_500:
     text: Agora você tem acesso ao \c[4]MENU DO JOGO DA FORCA\c[0].
 
 message_501:
-    text: Você pegou o \c[4]HEADSPACE MAP\c[0].
+    text: Você pegou o \c[4]MAPA DO ESPAÇO MENTAL\c[0].
 
 #==
 
