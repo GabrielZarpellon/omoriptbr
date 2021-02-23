@@ -114,49 +114,49 @@ message_31:
       text: O que você irá lavar primeiro?
 
 message_32:
-      text: GARFO DE METAL
+      text: o GARFO DE METAL
 
 message_33:
-      text: COLHER DE METAL
+      text: o COLHER DE METAL
 
 message_34:
-      text: HASHIS
+      text: os HASHIS
 
 message_35:
-      text: PANELA
+      text: a PANELA
 
 message_36:
-      text: FRIGIDEIRA
+      text: a FRIGIDEIRA
 
 message_37:
-      text: ESPÁTULA
+      text: a ESPÁTULA
 
 message_38:
-      text: TIGELA PEQUENA[S]
+      text: a TIGELA PEQUENA[S]
 
 message_39:
-      text: TIGELA GRANDE[S]
+      text: a TIGELA GRANDE[S]
 
 message_40:
-      text: TIGELA ESTILOSA[S]
+      text: a TIGELA ESTILOSA[S]
 
 message_41:
-      text: PRATO ORNAMENTADO[S]
+      text: o PRATO ORNAMENTADO[S]
 
 message_42:
-      text: TAÇA DE VINHO[S]
+      text: a TAÇA DE VINHO[S]
 
 message_43:
-      text: COPO DE VIDRO[S]
+      text: o COPO DE VIDRO[S]
 
 message_44:
-      text: CANECA \"MÃE N°1\"[S]
+      text: a CANECA \"MÃE N°1\"[S]
 
 message_45:
-      text: CANECA DE BOLINHAS[S]
+      text: a CANECA DE BOLINHAS[S]
 
 message_46:
-      text: PRATO SEM GRAÇA[S]
+      text: o PRATO SEM GRAÇA[S]
 
 message_60:
       text: Você pegou \v[806].
@@ -448,13 +448,13 @@ message_222:
       text: Flores da FAMÍLIA DO BRENT.
 
 message_238:
-      text: \"Ei, \n[8]... Espero que esteja se sentindo melhor a cada dia.\"\!<br>\"Você foi uma grande ajuda pro BRENT nesse verão.\"\!<br>\"Ele está excelente na escola.\"
+      text: \"Ei, \n[8]... Espero que esteja melhor a cada dia.\"\!<br>\"Você foi uma grande ajuda pro BRENT nesse verão.\"\!<br>\"Ele está excelente na escola.\"
 
 message_223:
       text: Flores da FAMÍLIA DA JOY.
 
 message_239:
-      text: \"Olá, \n[8]. Por favor melhore logo.\"\!<br>\"Obrigado por ensinar a JOY nesse versão.\"\!<br>\"Ela tem ido muito bem em todas as suas aulas.\"
+      text: \"Olá, \n[8]. Por favor melhore logo.\"\!<br>\"Obrigado por ensinar a JOY nesse verão.\"\!<br>\"Ela tem ido muito bem em todas as suas aulas.\"
 
 message_224:
       text: Flores da FAMÍLIA DO CRIS.
@@ -472,7 +472,7 @@ message_226:
       text: Flores do SEAN e da KAREN.
 
 message_242:
-      text: \"Te desejamos melhoras, \n[8].\"\!<br>\"Nós estamos terminando de nos mover para a nossa nova casa, então por favor nos visite outra hora!\"
+      text: \"Te desejamos melhoras, \n[8].\"\!<br>\"Nós estamos terminando de nos mudar para a nossa nova casa, então por favor nos visite outra hora!\"
 
 message_227:
       text: Um presente de melhoras da ARTISTA.
@@ -499,7 +499,7 @@ message_246:
       text: \"Espero que esteja se cuidando, \n[8].\"\!<br>\"JESSE tem falado comigo bastante ultimamente.\"\!<br>\"Você deve ter escolhido um ótimo presente!\"
 
 message_231:
-      text: Flores do LOJISTA.
+      text: Flores do CAIXA.
 
 message_247:
       text: \"Yo, \n[8]...\"\!<br>\"Só mandando umas energias positivas até você.\"\!<br>\"Você é sempre bem-vindo no HOBBEEZ!\"
