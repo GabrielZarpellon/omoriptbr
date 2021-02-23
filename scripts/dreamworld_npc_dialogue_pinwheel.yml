@@ -71,73 +71,73 @@ message_52:
 #WISE ROCK
 #Location: East Coast
 message_11:
-      text: \wisOi, eu sou a ROCHA SÁBIA!\!<br>Dou conselhos confiáveis em trocas de CONCHAS!
+      text: \n<ROCHA SÁBIA>Oi, eu sou a ROCHA SÁBIA!\!<br>Dou conselhos confiáveis em trocas de CONCHAS!
 
 message_12:
-      text: \wisQue tipo de conselho você gostaria que eu desse?\$
+      text: \n<ROCHA SÁBIA>Que tipo de conselho você gostaria que eu desse?\$
 
 message_13:
-      text: \wis... \!Entendido!\! Aqui está seu conselho.
+      text: \n<ROCHA SÁBIA>... \!Entendido!\! Aqui está seu conselho.
 
 message_14:
-      text: \wis...\! Eu espero que isso ajude!
+      text: \n<ROCHA SÁBIA>...\! Eu espero que isso ajude!
 
 # =========================================================================================
 # BAD ADVICE
 # =========================================================================================
 
 message_20:
-      text: \wisQualquer coisa é ok, desde que vocês não sejam pegos!
+      text: \n<ROCHA SÁBIA>Qualquer coisa é ok, desde que vocês não sejam pegos!
 
 message_21:
-      text: \wis\QUAKE[1]\{Grite \Com[2]\{O \Com[2]\{TEMPO \Com[2]TODO!!!!\}\}\}\QUAKE[0]
+      text: \n<ROCHA SÁBIA>\QUAKE[1]\{Grite \Com[2]\{O \Com[2]\{TEMPO \Com[2]TODO!!!!\}\}\}\QUAKE[0]
 
 message_22:
-      text: \wisQuando a vida lhe der limões...\! Comecem uma barra de \c[3]LIMONADA\c[0] em frente a \c[11]ESTAÇÃO DE TREM\c[0] e distribuam \c[4]PASSAGENS DE TREM\c[0] a cada compra de uma \c[3]LIMONADA\c[0].
+      text: \n<ROCHA SÁBIA>Quando a vida lhe der limões...\! Comecem uma barra de \c[3]LIMONADA\c[0] em frente a \c[11]ESTAÇÃO DE TREM\c[0] e distribuam \c[4]PASSAGENS DE TREM\c[0] a cada compra de uma \c[3]LIMONADA\c[0].
 
 message_23:
-      text: \wisOuçam os conselhos de todo mundo.
+      text: \n<ROCHA SÁBIA>Ouçam os conselhos de todo mundo.
 
 message_24:
-      text: \wisNão sejam feios.
+      text: \n<ROCHA SÁBIA>Não sejam feios.
 
 # =========================================================================================
 # OK ADVICE
 # =========================================================================================
 
 message_25:
-      text: \wisNem todo conselho é um bom conselho.
+      text: <ROCHA SÁBIA>Nem todo conselho é um bom conselho.
 
 message_26:
-      text: \wisNunca façam contatos visuais enquanto comem uma banana.
+      text: <ROCHA SÁBIA>Nunca façam contatos visuais enquanto comem uma banana.
 
 message_27:
-      text: \wisNão é aconselhável ouvir conselhos de uma rocha.
+      text: <ROCHA SÁBIA>Não é aconselhável ouvir conselhos de uma rocha.
 
 message_28:
-      text: \wisSeus problemas vão alcança-los eventualmente.
+      text: <ROCHA SÁBIA>Seus problemas vão alcança-los eventualmente.
 
 message_29:
-      text: \wisExistem, aproximadamente, 384472 quilômetros entre a Terra e a Lua.
+      text: <ROCHA SÁBIA>Existem, aproximadamente, 384472 quilômetros entre a Terra e a Lua.
 
 # =========================================================================================
 # GOOD ADVICE
 # =========================================================================================
 
 message_30:
-      text: \wisSigam seus corações, mas lembrem-se de levarem seus cérebros com vocês!
+      text: <ROCHA SÁBIA>Sigam seus corações, mas lembrem-se de levarem seus cérebros com vocês!
 
 message_31:
-      text: \wisFaçam algo hoje que vocês se agradecerão amanhã!
+      text: <ROCHA SÁBIA>Façam algo hoje que vocês se agradecerão amanhã!
 
 message_32:
-      text: \wisA dor não dura para sempre.
+      text: <ROCHA SÁBIA>A dor não dura para sempre.
 
 message_33:
-      text: \wisA vida é curta, então sorriem enquanto ainda possuem dentes!
+      text: <ROCHA SÁBIA>A vida é curta, então sorriam enquanto ainda possuem dentes!
 
 message_34:
-      text: \wisSe a oportunidade não bater, vocês podem construir uma porta!
+      text: <ROCHA SÁBIA>Se a oportunidade não bater, vocês podem construir uma porta!
 
 message_35:
       text: Você não possui CONCHAS suficientes.
@@ -147,7 +147,7 @@ message_35:
 # =========================================================================================
 
 message_36:
-      text: \wisSintam-se à vontade para voltarem a qualquer momento!
+      text: <ROCHA SÁBIA>Sintam-se à vontade pra voltarem a qualquer momento!
 
 message_37:
       text: CONSELHO BOM (30 CONCHAS)
