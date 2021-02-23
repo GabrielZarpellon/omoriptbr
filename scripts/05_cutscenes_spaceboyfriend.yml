@@ -5,13 +5,13 @@
 #Trigger: Go up to Space boyfriends house
 
 message_0:
-      text: \Com[2]Parem, crianças!\!<br>Vocês agora estão entrando na residência de...\spg
+      text: \n<PIRATA ESPACIAL>\Com[2]Parem, crianças!\!<br>Vocês agora estão entrando na residência de...
 
 message_1:
-      text: O capitão dos PIRATAS ESPACIAIS...\!<br>O mestre do SISTEMA SOLAR...\!<br>O príncipe do universo...\spg
+      text: \n<PIRATA ESPACIAL>O capitão dos PIRATAS ESPACIAIS...\!<br>O mestre do SISTEMA SOLAR...\!<br>O príncipe do universo...
 
 message_2:
-      text: O primeiro e único CAPITÃO SPACE-\! Quero dizer...\! Err...\!<br>Você está entrando na casa de... \!NAMORADO...\! ESPACIAL.\spg
+      text: \n<PIRATA ESPACIAL>O primeiro e único CAPITÃO SPACE-\! Quero dizer...\! Err...\!<br>Você está entrando na casa de... \!NAMORADO...\! ESPACIAL.
 
 message_3:
       faceset: MainCharacters_DreamWorld
@@ -24,19 +24,19 @@ message_4:
       text: Eu quero ser um pirata espacial!\kel
 
 message_5:
-      text: É, bem...\! Eu também queria...\! uma vez.\spg
+      text: \n<PIRATA ESPACIAL>É, bem...\! Eu também queria...\! uma vez.
 
 message_6:
-      text: NAMORADO ESPACIAL não tem feito muito recentemente, então a maioria dos PIRATAS ESPACIAIS se cansaram e saiaram da nave.\spg
+      text: \n<PIRATA ESPACIAL>NAMORADO ESPACIAL não tem feito muito recentemente, então a maioria dos PIRATAS ESPACIAIS se cansaram e saíram da nave.
 
 message_7:
-      text: É só a gente vagabundiando por aí fazendo as tarefas do NAMORADO ESPACIAL e tudo mais.\spg
+      text: \n<PIRATA ESPACIAL>É só a gente vagabundiando por aí fazendo as tarefas do NAMORADO ESPACIAL e tudo mais.
 
 message_8:
-      text: Ontem, eu e o pessoal passamos o dia inteiro limpando e jogando o lixo dele...\spg
+      text: \n<PIRATA ESPACIAL>Ontem, eu e o pessoal passamos o dia inteiro limpando e jogando o lixo dele...
 
 message_9:
-      text: Aff...\! Eu não saí do meu trabalho antigo pra isso...\!<br>Eu não sou uma babá!\spg
+      text: \n<PIRATA ESPACIAL>Aff...\! Eu não saí do meu trabalho antigo pra isso...\!<br>Eu não sou uma babá!
 
 message_10:
       faceset: MainCharacters_DreamWorld
@@ -44,7 +44,7 @@ message_10:
       text: Ahhh, Me desculpa... Isso parece terrível.\!<br>Talvez a gente possa falar um pouco com ele.\aub
 
 message_11:
-      text: Oh, Eu não faria isso se fosse você.\! CAPITÃO SPACE-<br>Quero dizer...\! NAMORADO ESPACIAL tem duas caras, entende.\spg
+      text: \n<PIRATA ESPACIAL>Oh, Eu não faria isso se fosse você.\! CAPITÃO SPACE-<br>Quero dizer...\! NAMORADO ESPACIAL tem duas personalidades, sabe?
 
 message_12:
       faceset: MainCharacters_DreamWorld
@@ -77,7 +77,7 @@ message_17:
       text: Ele vai melhorar em breve, Eu prometo!\aub
 
 message_18:
-      text: Aah...\! Obrigado mocinha.\! Assim espero também.\spg
+      text: \n<PIRATA ESPACIAL>Aah...\! Obrigado mocinha.\! Assim espero.
 
 # =========================================================================================
 # Cutscene: Blackletter here
@@ -101,7 +101,7 @@ message_18:
 
 
 message_51:
-      text: Coff...\! Coff, coff...\sbf
+      text: \n<NAMORADO ESPACIAL>Coff...\! Coff, coff...
 
 message_52:
       faceset: MainCharacters_DreamWorld
@@ -134,7 +134,7 @@ message_57:
       text: O que?\kel
 
 message_58:
-      text: \}\quake[1]Cough...\! Ughhh...\! Coff, coff...\! Aaah...\!<br>Minha... Preciosa...\! SWEETHEART...\sbf\quake[0]
+      text: \n<NAMORADO ESPACIAL>\}\quake[1]Cough...\! Ughhh...\! Coff, coff...\! Aaah...\!<br>Minha... Preciosa...\! SWEETHEART...\quake[0]
 
 message_59:
       faceset: MainCharacters_DreamWorld
@@ -142,34 +142,34 @@ message_59:
       text: Ahh... Ele parece tão triste.\!<br>Deve ter alguma maneira de ajudá-lo.\aub
 
 message_60:
-      text: \}\quake[1]Cough, cough...\! Cough...\! Oh, minha SWEETHEART...\!<br>Para onde é que você se foi agora?\sbf\quake[0]
+      text: \n<NAMORADO ESPACIAL>\}\quake[1]Cough, cough...\! Cough...\! Oh, minha SWEETHEART...\!<br>Para onde é que você se foi agora?\quake[0]
 
 #SPACE PIRATE GUY walks in and walks to SPACE BOYFRIEND.
 
 message_61:
-      text: Oh não... De novo não...\!<br>NAMORADO ESPACIAL tá na bad.\spg
+      text: \n<PIRATA ESPACIAL>Oh não... De novo não...\!<br>NAMORADO ESPACIAL tá na bad.
 
 message_62:
-      text: Aqui, meu chapa. Isso vai te alegrar.\spg
+      text: \n<PIRATA ESPACIAL>Aqui, meu chapa. Isso vai te alegrar.
 
 #SPACE PIRATE GUY walks to the CASSETTE PLAYER.
 #SPACE PIRATE GUY is surprised and confused.
 
 message_63:
-      text: Ahn?\! Por que não tá tocando nada?\spg
+      text: \n<PIRATA ESPACIAL>Ahn?\! Por que não tá tocando nada?
 
 #SPACE PIRATE GUY starts sweating.
 
 message_64:
-      text: Oh não...\! A caixa de som...\! Tá vazia!\!<br>Ele nunca vai acordar agora!\! Ou pior...\!<br>Ele vai acordar...nervoso.\spg
+      text: \n<PIRATA ESPACIAL>Oh não...\! A caixa de som...\! Tá vazia!\!<br>Ele nunca vai acordar agora!\! Ou pior...\!<br>Ele vai acordar...nervoso.
 
 message_65:
-      text: Ah, puxa... que puxa...\!<br>Onde aquela \c[4]MIXTAPE ESPECIAL\c[0] poderia estar?\spg
+      text: \n<PIRATA ESPACIAL>Ah, puxa... que puxa...\!<br>Onde aquela \c[4]MIXTAPE ESPECIAL\c[0] poderia estar?
 
 #SPACE PIRATE guy has an idea.
 
 message_66:
-      text: Alguém deve ter jogado a \c[4]MIXTAPE ESPECIAL\c[0] dele enquanto estavamos limpando!\spg
+      text: \n<PIRATA ESPACIAL>Alguém deve ter jogado a \c[4]MIXTAPE ESPECIAL\c[0] dele enquanto estavamos limpando!
 
 message_67:
       faceset: MainCharacters_DreamWorld
@@ -177,10 +177,10 @@ message_67:
       text: Qual é o problema? É só uma fita cassete, certo?\kel
 
 message_68:
-      text: Bem, entenda...\! Sempre que o NAMORADO ESPACIAL está longe da SWEETHEART, ele fica muito triste e se deita na cama o dia inteiro.\spg
+      text: \n<PIRATA ESPACIAL>Bem, entenda...\! Sempre que o NAMORADO ESPACIAL está longe da SWEETHEART, ele fica muito triste e se deita na cama o dia inteiro.
 
 message_69:
-      text: O único jeito de tirar ele disso é tocando sua \c[4]MIXTAPE ESPECIAL\c[0].\! Há apenas uma no universo que nem aquela.\spg
+      text: \n<PIRATA ESPACIAL>O único jeito de tirar ele disso é tocando sua \c[4]MIXTAPE ESPECIAL\c[0].\! Há apenas uma no universo que nem aquela.
 
 message_70:
       faceset: MainCharacters_DreamWorld
@@ -188,7 +188,7 @@ message_70:
       text: Oh, Entendo...\! NAMORADO ESPACIAL não tá doente...\!<br>Ele tá... doente de amor...\aub
 
 message_71:
-      text: Aff...\! se o NAMORADO ESPACIAL continuar assim, a outrora grande aliança entre os PIRATAS ESPACIAIS vai ser perdida para todo sempre...\spg
+      text: \n<PIRATA ESPACIAL>Aff...\! se o NAMORADO ESPACIAL continuar assim, a outrora grande aliança entre os PIRATAS ESPACIAIS vai ser perdida para todo sempre...
 
 message_72:
       faceset: MainCharacters_DreamWorld
@@ -198,7 +198,7 @@ message_72:
 message_73:
       faceset: MainCharacters_DreamWorld
       faceindex: 16
-      text: Bem... vamos lá!\kel
+      text: Bem... Vamos embora!\kel
 
 #KEL attempts to leave.
 
@@ -220,21 +220,21 @@ message_76:
 message_77:
       faceset: MainCharacters_DreamWorld
       faceindex: 16
-      text: Ahn?\! Eu não me lembro de nada desse tipo.\kel
+      text: Ahn?\! Eu não me lembro de ter feito isso.\kel
 
 message_78:
-      text: Tem um \c[11]FERRO-VELHO\c[0] não muito longe daqui, mas o lugar é enorme!\! Vai ser bem difícil encontrar algo ali.\spg
+      text: \n<PIRATA ESPACIAL>Tem um \c[11]FERRO-VELHO\c[0] não muito longe daqui, mas o lugar é enorme!\! Vai ser bem difícil encontrar algo ali.
 
 message_79:
-      text: \Com[2]Coff, coff!\sbf
+      text: \n<NAMORADO ESPACIAL>\Com[2]Coff, coff!
 
 #Everyone turns to the bed
 
 message_80:
-      text: \quake[1]\}Oh... SWEETHEART...\! Minha deusa perfeita...\sbf\quake[0]
+      text: \n<NAMORADO ESPACIAL>\quake[1]\}Oh... SWEETHEART...\! Minha deusa perfeita...\quake[0]
 
 message_81:
-      text: \quake[1]\}Coff...\! Minha doce...\! rosquinha recheiada... de geleia...\sbf\quake[0]
+      text: \n<NAMORADO ESPACIAL>\quake[1]\}Coff...\! Minha doce...\! rosquinha recheada... de geleia...\quake[0]
 
 #AUBREY looks at Space Boyfriend.
 
@@ -253,16 +253,16 @@ message_83:
 #[Nod (Yes) / Shake (No)]
 
 message_84:
-      text: Obrigado, minha gente... Eu aprecio muito sua atitude.\!<br>Aqui, tome isso.\spg
+      text: \n<PIRATA ESPACIAL>Obrigado, minha gente... Eu aprecio muito sua atitude.\!<br>Aqui, tomem isso.
 
 message_85:
       text: Você conseguiu a \c[4]CHAVE DO FERRO-VELHO\c[0].
 
 message_86:
-      text: Essa chave libera o \c[11]FERRO-VELHO\c[0].<br>\!A \c[4]MIXTAPE ESPECIAL\c[0] deve estar em algum lá dentro.\spg
+      text: \n<PIRATA ESPACIAL>Essa chave libera o \c[11]FERRO-VELHO\c[0].<br>\!A \c[4]MIXTAPE ESPECIAL\c[0] deve estar em algum lá dentro.
 
 message_87:
-      text: Você pode ir para lá por essa passagem secreta até o quintal do NAMORADO ESPACIAL.\! Bem conveniente, não?\spg
+      text: \n<PIRATA ESPACIAL>Você pode ir para lá por essa passagem secreta até o quintal do NAMORADO ESPACIAL.\! Bem conveniente, não?
 
 message_88:
       faceset: MainCharacters_DreamWorld
@@ -270,7 +270,7 @@ message_88:
       text: \aubOh, por favor \n[1]! Eu acho que ele precisa muito da nossa ajuda. \!Se você estivesse de cama, você gostaria de alguém para te ajudar, não é?
 
 message_89:
-      text: Eu espero que o CAPITÃO melhore em breve...\spg
+      text: \n<PIRATA ESPACIAL>Eu espero que o CAPITÃO melhore em breve...
 
 
 # =========================================================================================
@@ -279,34 +279,34 @@ message_89:
 
 
 message_110:
-      text: Aff...\! A gente errou feio agora, mano...\spd
+      text: \n<AMIGÃO PIRATA ESPACIAL>Aff...\! A gente errou feio agora, mano...
 
 message_111:
-      text: Eu espero que o CAPITÃO não fique tão mal quando contarmos à ele que seu planeta favorito está sumido.\! Você sabe como ele fica quando tá nervoso.\spd
+      text: \n<AMIGÃO PIRATA ESPACIAL>Eu espero que o CAPITÃO não fique tão mal quando contarmos à ele que seu planeta favorito está sumido.\! Você sabe como ele fica quando tá nervoso.
 
 message_112:
-      text: Amigão, ele não é só nosso CAPITÃO agora.\!<br>Você deve chamá-lo de NAMORADO ESPACIAL, lembra?\spb
+      text: \n<MANO PIRATA ESPACIAL>Amigão, ele não é só nosso CAPITÃO agora.\!<br>Você deve chamá-lo de NAMORADO ESPACIAL, lembra?
 
 message_113:
-      text: Ah sim, tá certo...\spd
+      text: \n<AMIGÃO PIRATA ESPACIAL>Ah sim, tá certo...
 
 message_114:
-      text: Urg... \!\{\quake[1]AAAA\{ARRRRR\{RRRRG!!!\spd\}
+      text: \n<AMIGÃO PIRATA ESPACIAL>Urg... \!\{\quake[1]AAAA\{ARRRRR\{RRRRG!!!\}
 
 message_115:
-      text: Sabe cara...\! Às vezes eu me pergunto se ainda somos PIRATAS ESPACIAIS.\spd
+      text: \n<AMIGÃO PIRATA ESPACIAL>Sabe cara...\! Às vezes eu me pergunto se ainda somos PIRATAS ESPACIAIS.
 
 message_116:
-      text: Depois que aquela SWEETHEART veio, nós não temos feito nada de legal!\! A gente deveria procurar por trabalhos de verdade mesmo.\spd
+      text: \n<AMIGÃO PIRATA ESPACIAL>Depois que aquela SWEETHEART veio, nós não temos feito nada de legal!\! A gente devia procurar por trabalhos de verdade mesmo.
 
 message_117:
-      text: Não fale bobagens, amigão!\!<br>O que é a vida para nós se não a de um PIRATA ESPACIAL?\spb
+      text: \n<MANO PIRATA ESPACIAL>Não fale bobagens, amigão!\!<br>O que é a vida para nós se não a de um PIRATA ESPACIAL?
 
 message_118:
-      text: Eu tenho certeza que o CAPITÃO de verdade vai voltar um dia e voaremos de novo.\! Nós só temos que acreditar nele!\spb
+      text: \n<MANO PIRATA ESPACIAL>Eu tenho certeza que o CAPITÃO de verdade vai voltar um dia e voaremos de novo.\! Nós só precisamos acreditar nele!
 
 message_119:
-      text: Aaah...\! Obrigado, mano.\! Você sempre tá aqui quando eu preciso de você.\spd
+      text: \n<AMIGÃO PIRATA ESPACIAL>Aaah...\! Obrigado, mano.\! Você sempre tá aqui quando eu preciso de você.
 
 # =========================================================================================
 # Cutscene: Pluto Behind a Tree
@@ -327,7 +327,7 @@ message_131:
 # =========================================================================================
 
 message_150:
-      text: \quake[1]\}Coff...\! coff...\sbf\quake[0]
+      text: \n<NAMORADO ESPACIAL>\quake[1]\}Coff...\! coff...\quake[0]
 
 message_160:
       faceset: MainCharacters_DreamWorld
