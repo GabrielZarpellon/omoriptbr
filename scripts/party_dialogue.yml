@@ -48,7 +48,7 @@ message_11:
       text: Pressione \DII[pagedown] para abir o MAPA DO ESPAÇO MENTAL.
 
 message_12:
-      text: Nada além de estática.
+      text: Nada além de estático.
 
 #------------------------------------------------------------------------------------------
 
@@ -565,7 +565,7 @@ message_143:
 message_144:
       faceset: MainCharacters_DreamWorld
       faceindex: 8
-      text: \aubA \c[4]MIXTAPE ESPECIAL\c[0] do NAMORADO ESPACIAL...
+      text: \aubA \c[4]MIXTAPE ESPECIAL\c[0] do CAPITÃO NAMORADO...
 
 message_145:
       faceset: MainCharacters_DreamWorld
@@ -1402,7 +1402,7 @@ message_345:
 message_346:
       faceset: MainCharacters_DreamWorld
       faceindex: 18
-      text: \kelEntão quando estivermos juntos de novo...\! deviamos dar a ele um grande abraço! Heh, heh...
+      text: \kelEntão quando estivermos juntos de novo...\! devíamos dar a ele um grande abraço! Heh, heh...
 
 message_347:
       faceset: MainCharacters_DreamWorld
@@ -1501,7 +1501,7 @@ message_389:
 message_371:
       faceset: MainCharacters_DreamWorld
       faceindex: 4
-      text: \aubIsso...\! Isso parece meio familiar.\! Eu me pergunto a quem isso pertence.\!<br>Você acha que deviamos tentar devolver?
+      text: \aubIsso...\! Isso parece meio familiar.\! Eu me pergunto a quem isso pertence.\!<br>Você acha que devíamos tentar devolver?
 
 message_372:
       faceset: MainCharacters_DreamWorld
