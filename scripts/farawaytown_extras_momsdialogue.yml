@@ -120,7 +120,7 @@ message_52:
 #Day 2:
 
 message_55:
-      text: \"Ei \n[8], é a MAMÃE.\! Você está bem?\! Você não tem respondido minhas chamadas ou meus voicemails!\! Se você continuar me ignorando, Eu vou começar a me preocupar de novo!\"\n<VOICEMAIL DA MÃE>
+      text: \"Ei \n[8], é a MAMÃE.\! Você está bem?\! Você não tem respondido os meus voicemails!\! Se continuar me ignorando, eu vou começar a me preocupar de novo!\"\n<VOICEMAIL DA MÃE>
 
 message_56:
       text: \"Eu espero que você esteja fazendo suas tarefas...\! Nem mesmo eu acho que poderia terminar tudo em um dia!\"\n<VOICEMAIL DA MÃE>
