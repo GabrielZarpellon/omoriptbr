@@ -399,7 +399,7 @@ Scene_OmoriFile.prototype.onSelectInputOk = function() {
     // If File Exists
     if (StorageManager.exists(saveFileid)) {
       // Show Prompt Window
-      this.showPromptWindow('Reescrever o arquivo?');
+      this.showPromptWindow('Reescrever?');
       // Set Can select Flag to false
       this._canSelect = false;
     } else {
