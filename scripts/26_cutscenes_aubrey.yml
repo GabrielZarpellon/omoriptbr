@@ -87,7 +87,7 @@ message_14:
       text: É só...\! É a AUBREY.\kim
 
 message_15:
-      text: Ela não abre a porta...\! nem a porta de trás...\!<br>ou as pedras que a gente jogou na janela dela.\kim
+      text: Ela não abre a porta...\! nem a porta de trás...\!<br>ou reage às pedras que a gente jogou na janela dela.\kim
 
 message_16:
       text: Ela tava muito chateada ontem...\kim
@@ -122,12 +122,12 @@ message_20:
 message_21:
       faceset: MainCharacters_Faraway
       faceindex: 21
-      text: Você não tava lá quando ela jogou o BASIL into the lake.\kel
+      text: Você não tava lá quando ela jogou o BASIL no lago.\kel
 
 message_22:
       faceset: MainCharacters_Faraway
       faceindex: 23
-      text: Eu te disse...\! ela tá diferente agora!\! <br>Não deviamos nos incomodar com gente que nem ela!\kel
+      text: Eu te disse...\! ela tá diferente agora!\! <br>Não devíamos nos incomodar com gente que nem ela!\kel
 
 message_23:
       faceset: MainCharacters_Faraway
@@ -154,7 +154,7 @@ message_26:
 message_27:
       faceset: MainCharacters_Faraway
       faceindex: 28
-      text: Deviamos pelo menos tentar falar com ela!\her
+      text: Devíamos pelo menos tentar falar com ela!\her
 
 message_28:
       faceset: MainCharacters_Faraway
