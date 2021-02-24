@@ -155,7 +155,7 @@ message_31:
 message_32:
       faceset: MainCharacters_DreamWorld
       faceindex: 39
-      text: Bem feito, KEL.\!<br>Você deveria saber melhor do que incomodar os outros.\her
+      text: Bem feito, KEL.\!<br>Você deveria fazer algo melhor do que incomodar os outros.\her
 
 #KEL looks at HERO.
 
@@ -337,7 +337,7 @@ message_90:
 message_91:
       faceset: MainCharacter_Mari
       faceindex: 2
-      text: Bem, KEL!\! Você acabou de fazer um ponto bem convincente.\! <br>Agora eu não sei em quem eu acredito!\mar
+      text: Bem, KEL!\! Você acabou de dar um argumento bem convincente.\! <br>Agora eu não sei em quem eu acredito!\mar
 
 message_92:
       faceset: MainCharacters_DreamWorld
