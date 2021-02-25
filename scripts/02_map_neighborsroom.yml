@@ -1,7 +1,7 @@
 message_1:
       faceset: MainCharacters_DreamWorld
       faceindex: 18
-      text: \kel\c[13]HECTOR\c[0] é o pet drito mais legal de todos!
+      text: \kel\c[13]HECTOR\c[0] é o pet-drito mais legal de todos!
 
 message_2:
       text: Você não pode sair sem seus amigos.
@@ -54,7 +54,7 @@ message_16:
 message_17:
       faceset: MainCharacter_Basil
       faceindex: 2
-      text: \basHuh? Tem algumas raízes no caminho...\!<br>Como isso chegou aqui?
+      text: \basHã? Tem algumas raízes no caminho...\!<br>Como isso chegou aqui?
 
 message_18:
       faceset: MainCharacters_DreamWorld
@@ -78,7 +78,7 @@ message_100:
     text: \n<COBRA>\sinv[1]Sssssssssssssss...?\!\sinv[0] (Saindo, OMORI?)\!<br>\sinv[1]Sssssssssssss...\!\sinv[0] (Aqui está sua mesada de hoje.)
 
 message_101:
-    text: Você conseguiu \v[1001] CONCHAS.
+    text: Você recebeu \v[1001] CONCHAS.
 
 message_102:
     text: \n<COBRA>\sinv[1]Sssssssssssss...\!\sinv[0] (Se cuida.)
@@ -91,22 +91,22 @@ message_103:
 message_110:
       faceset: MainCharacter_Basil
       faceindex: 2
-      text: \basEspere, OMORI... Éramos para nós estarmos indo até minha casa!\! É depois do caminho ao sul do parquinho.
+      text: \basEspera, OMORI... Era pra gente ir lá pra casa!\! É depois do caminho ao sul do parquinho.
 
 message_111:
       faceset: MainCharacter_Basil
       faceindex: 1
-      text: \basEu acabei de terminar de plantar alguns brotinhos e queria mostrar para todos.\! Vamos! Eles são muito fofos!
+      text: \basEu acabei de plantar alguns brotinhos e queria mostrar para todos.\! Vamos! Eles são muito fofos!
 
 message_112:
       faceset: MainCharacters_DreamWorld
       faceindex: 37
-      text: \herOnde é que você está indo, OMORI?\! Vamos lá ver a MARI e o BASIL\! Nós não podemos deixar o piquenique deles servir para nada!
+      text: \herOnde é que você tá indo, OMORI?\! Vamos lá ver a MARI e o BASIL\! Não podemos deixar o piquenique deles servir para nada!
 
 message_113:
       faceset: MainCharacters_DreamWorld
       faceindex: 39
-      text: \herOnde é que você está indo, OMORI?\! Vamos lá ver a MARI.\! Ela está muit preocupada com você.
+      text: \herOnde é que você tá indo, OMORI?\! Vamos lá ver a MARI.\! Ela tá muita preocupada com você.
 
 message_114:
       faceset: MainCharacter_Mari
@@ -122,7 +122,7 @@ message_115:
 message_120:
       faceset: MainCharacters_DreamWorld
       faceindex: 3
-      text: \aubOi, OMORI!\! Eu estou tão feliz em ver você!
+      text: \aubOi, OMORI!\! Eu tô tão feliz em ver você!
 
 message_121:
       faceset: MainCharacters_DreamWorld
