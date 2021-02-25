@@ -51,7 +51,7 @@ message_22:
       text: \kimOh, você sabe...\! Muito bem, muito bem...
 
 message_23:
-      text: \kimMeu pai disse que vai nos levar para uma festa irada hoje a noite...\! deve ser legal.
+      text: \kimMeu pai disse que vai nos levar para uma festa irada hoje à noite...\! deve ser legal.
 
 message_24:
       text: \van\sinv[1]Awwwwwwwwwwww, yeah! Nós vamos se divertir!
@@ -97,7 +97,7 @@ message_70:
 #Location:  FARAWAY PARK
 
 message_80:
-      text: \n<MÃE ELEGANTE>Ah, eu estou pensando no que eu devo cozinhar para as minhas filhas hoje a noite...
+      text: \n<MÃE ELEGANTE>Ah, eu estou pensando no que eu devo cozinhar para as minhas filhas hoje à noite...
 
 message_81:
       text: \n<MÃE ELEGANTE>Pensando bem...\! Eu não cozinho muito, talvez eu devesse pedir comida.
@@ -140,7 +140,7 @@ message_110:
 #Location:  Graveyard
 
 message_120:
-      text: \n<VELHO BARBUDO>Os espíritos estão uivando o dia todo...\!<br>Eu rezo por essa vizinhança.\!<br>Alguém estará de luto hoje a noite.
+      text: \n<VELHO BARBUDO>Os espíritos estão uivando o dia todo...\!<br>Eu rezo por essa vizinhança.\!<br>Alguém estará de luto hoje à noite.
 
 #==============CHARLIE'S MOM===========================================
 #Location:  Charlie's House
@@ -222,7 +222,7 @@ message_210:
       text: \n<MOÇA DE TRANÇAS>Obrigada a todos vocês pela ajuda.<br>\!Vocês são genuinamente boas pessoas!
 
 message_221:
-      text: \n<CARA XADREZ>Vejo vocês na festa hoje a noitet! Estaremos esperando!
+      text: \n<CARA XADREZ>Vejo vocês na festa hoje à noitet! Estaremos esperando!
 
 #==============KEL'S DAD===========================================
 #Location: FARAWAY PARK (Forgot Meat quest)
@@ -308,7 +308,7 @@ message_304:
 #Location: Sarah's House
 
 message_310:
-      text: \n<MENINA DO RABO DE CAVALO>\sinv[1]Woo!\sinv[0]\!Minha mãe disse que a gente vai na \c[11]PIZZARIA DO GINO\c[0] hoje a noite!
+      text: \n<MENINA DO RABO DE CAVALO>\sinv[1]Woo!\sinv[0]\!Minha mãe disse que a gente vai na \c[11]PIZZARIA DO GINO\c[0] hoje à noite!
 
 #==============SARAH'S DAD===========================================
 #Location: Sarah's House watching TV on the couch together
@@ -326,7 +326,7 @@ message_330:
 #Location: Aubrey's Street in front of his house
 
 message_340:
-      text: \n<CARA XADREZ>E aí, gente! Só lembrando que teremos uma festa de boas vindas hoje a noite.\!<br>Todo mundo aqui da rua está convidado!
+      text: \n<CARA XADREZ>E aí, gente! Só lembrando que teremos uma festa de boas vindas hoje à noite.\!<br>Todo mundo aqui da rua está convidado!
 
 message_341:
       text: \n<CARA XADREZ>Espero vê-los vocês na festa!<br>Vai ter muita comida.
