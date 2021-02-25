@@ -77,7 +77,7 @@ message_16:
 # - THE LIGHTBULB
 # -----------------------------------------------
 message_17:
-    text: "Uma lâmpada pendurada ao teto, onde quer que ele seja.\\!\\lb<br>Olhar na lâmpada?"
+    text: "Uma lâmpada pendurada ao teto, onde quer que ele esteja.\\!\\lb<br>Olhar na lâmpada?"
 message_18:
     text: "É escuro como o breu.\\! Você não consegue ver nada."
 
