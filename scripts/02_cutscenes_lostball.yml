@@ -36,13 +36,13 @@ message_5:
 message_6:
       faceset: MainCharacters_DreamWorld
       faceindex: 8
-      text: Pois é, Não vejo nada. \aub
+      text: Pois é, não vejo nada. \aub
 
 #Camera centers on scene
 #BERLY turns to the party
 
 message_7:
-      text: Exatamente!\! A bola sumiu.\!<br>O VAN aqui usou os braços e bateu muito forte, e agora a bola voou longe...\ber
+      text: Exatamente!\! A bola sumiu.\!<br>O VAN aqui usou os braços, bateu muito forte e agora a bola voou longe...\ber
 
 #BERLY looks in the distance
 
@@ -57,7 +57,7 @@ message_9:
 #BERLY headbutts VAN
 
 message_10:
-      text: Me desculpe, BERLY...\!<br>Ficar usando a cabeça estava me dando enxaqueca.\n<VAN>
+      text: Me desculpa, BERLY...\!<br>Ficar usando a cabeça estava me dando enxaqueca.\n<VAN>
 
 message_11:
       text: Isso é porque você não tem uma cabeça dura que nem eu!\ber
@@ -78,13 +78,13 @@ message_13:
 message_14:
       faceset: MainCharacters_DreamWorld
       faceindex: 36
-      text: Ei, não pense assim, BERLY. vamos procurar por você!\her
+      text: Ei, não pense assim, BERLY. Vamos procurar por você!\her
 
 message_15:
-      text: Heh.\! Você realmente quer fazer isso?\!<br>\c[11]FLORESTA VASTA\c[0] é um lugar muito perigoso, cê sabia?\ber
+      text: Heh.\! Você realmente quer fazer isso?\!<br>A \c[11]FLORESTA VASTA\c[0] é um lugar muito perigoso, cê sabia?\ber
 
 message_16:
-      text: Uma vez, Eu já até entrei em uma briga com essa<br>criatura-planta com olhos mortos e vazios e uma boca escancarada. \ber
+      text: Uma vez, eu já até entrei em uma briga com essa<br>criatura-planta com olhos mortos e vazios e uma boca escancarada. \ber
 
 message_17:
       text: Eu fui mais esperta, é claro, sendo legal e inteligente e tudo mais.\!<br>Não existe monstro nesse mundo que consiga me derrubar!\ber
@@ -95,10 +95,10 @@ message_18:
 #VAN turns to OMORI
 
 message_19:
-      text: Me diga OMORI, por que você e seus amigos não vão com a BERLY e deixam ela longe de problemas.\! Eu iria com ela, mas...\n<VAN>
+      text: Diz aí OMORI, por que você e seus amigos não vão com a BERLY e deixam ela longe de problemas?\! Eu iria com ela, mas...\n<VAN>
 
 message_20:
-      text: \Com[2]\SINV[1]VANNNNN\{NNNNNNN!!\}\!<br>\Com[2]BROWS derrubou BANGS de novo!\SINV[0]\hap
+      text: \Com[2]\SINV[1]VANNNNN\{NNNNNNN!!\}\!<br>\Com[2]BROWS derrubou o BANGS de novo!\SINV[0]\hap
 
 #VAN looks toward the noise and is surprised.
 
@@ -135,7 +135,7 @@ message_100:
       text: Não estão prontos para achar minha \c[4]BOLA PERDIDA\c[0] ainda!?\!<br>\}Não que eu precise da ajuda de vocês...\ber
 
 message_38:
-      text: Tava na hora!\! Vamo logo.\! Eu to cansada de esperar!\ber
+      text: Tava na hora!\! Vamo logo.\! Eu tô cansada de esperar!\ber
 
 message_101:
       text: \com[2]Quê? Por que não!?\! To quase dormindo aqui!\ber
@@ -162,14 +162,14 @@ message_42:
       text: Cê acha?\kel
 
 message_43:
-      text: Tá bem perto, Eu consigo sentir!\!<br>Cê sabe o que fazer, revire este lugar de cabeça para baixo!\ber
+      text: Tá bem perto, eu consigo sentir!\!<br>Cê sabe o que fazer, revire este lugar de cabeça pra baixo!\ber
 
 # =========================================================================================
 # Cutscene: FOUND BALL
 # =========================================================================================
 
 message_27:
-      text: \{\com[2]ISSO! AI TÁ MINHA \c[4]BOLA PERDIDA\c[0]!!\ber
+      text: \{\com[2]ISSO! AÍ TÁ MINHA \c[4]BOLA PERDIDA\c[0]!!\ber
 
 message_28:
       text: \{\sinv[1]YOINK!\ber
@@ -190,16 +190,16 @@ message_33:
       text: Vejo vocês depois, jacarés! Tô fora daqui!\ber
 
 message_34:
-      text: BERLY saiu de seu grupo.
+      text: BERLY saiu do seu grupo.
 
 message_35:
-      text: Mas sério, vem me ver antes de vocês saírem.\!<br>Tenho uma surpresinha pra vocês.\ber
+      text: Mas sério, venham me ver antes de vocês saírem.\!<br>Tenho uma surpresinha pra vocês.\ber
 
 message_36:
       text: Ei, não foi aí que minha \c[4]BOLA PERDIDA\c[0] foi parar!\! Cê tem outros lugares pra ir ou coisa assim?\ber
 
 message_37:
-      text: Se tinha outros lugares pra ir era só ter falado!\!<br>Vou esperar vocês no parquinho.\ber
+      text: Se cê tinha outros lugares pra ir era só ter falado!\!<br>Vou esperar vocês no parquinho.\ber
 
 # =========================================================================================
 # Cutscene: OMORI's CUT TAG SKILL
@@ -210,7 +210,7 @@ message_37:
 message_61:
       faceset: MainCharacters_DreamWorld
       faceindex: 0
-      text: Tem uma raiz aqui, mas parece que pode ser cortada.\!<br>Isso é um trabalho pra você, OMORI!\aub
+      text: Tem uma raiz aqui, mas parece que da pra ser cortada.\!<br>Isso é um trabalho pra você, OMORI!\aub
 
 # =========================================================================================
 # Cutscene: MARI FINDS THE BALL
@@ -228,7 +228,7 @@ message_78:
 message_79:
       faceset: MainCharacter_Mari
       faceindex: 0
-      text: Por que não comer algo aqui no meu piquenique?\!<br>Vai te deixar melhor rapidinho!\mar
+      text: Por que não comem algo aqui no meu piquenique?\!<br>Vão te deixar melhores rapidinho!\mar
 
 #[OMORI examines Fruit Basket and heals.]
 
