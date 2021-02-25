@@ -7,7 +7,7 @@
 message_0:
       faceset: MainCharacters_DreamWorld
       faceindex: 19
-      text: OMORI! Aí está você!\kel
+      text: OMORI! Aí tá você!\kel
 
 message_1:
       faceset: MainCharacters_DreamWorld
@@ -17,12 +17,12 @@ message_1:
 message_2:
       faceset: MainCharacters_DreamWorld
       faceindex: 40
-      text: BASIL...\! É como se ele tivesse desaparecido no ar.\!<br>Não achamos ele em lugar nenhum...\! Até perguntei para a MARI, mas ela também não sabe de nada.\her
+      text: BASIL...\! É como se ele tivesse desaparecido no ar.\!<br>Não achamos ele em lugar nenhum...\! Até perguntei pra MARI mas ela também não sabe de nada.\her
 
 message_3:
       faceset: MainCharacters_DreamWorld
       faceindex: 4
-      text: Estamos pensando em voltar para a casa de BASIL e ver se algo passou despercebido.\! Pode liderar o caminho, OMORI?\aub
+      text: Estamos pensando em voltar para a casa de BASIL e ver se algo passou despercebido.\! Pode ir na frente, OMORI?\aub
 
 # =========================================================================================
 # Cutscene: The First Blackletter
