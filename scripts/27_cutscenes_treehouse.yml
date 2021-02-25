@@ -26,7 +26,7 @@ message_4:
 message_5:
       faceset: MainCharacters_Faraway
       faceindex: 27
-      text: Não se preoucupem comigo, gente...\!<br>Desculpe por ignorar todos vocês mais cedo.\aub
+      text: Não se preocupem comigo, gente...\!<br>Desculpa por ignorar todos vocês mais cedo.\aub
 
 #ANGEL jumps.
 
@@ -57,7 +57,7 @@ message_11:
 #KIM walks to AUBREY.
 
 message_12:
-      text: AUBREY... Não deixe a gente esperando muito tempo!\kim
+      text: AUBREY... Não deixa a gente esperando muito tempo!\kim
 
 #AUBREY turns to KIM.
 
@@ -90,15 +90,15 @@ message_32:
 #POLLY is confused, then has an idea.
 
 message_33:
-      text: Oh, minhas desculpas!\! Deixem-me esclarecer melhor...\n<POLLY>
+      text: Oh, minhas desculpas!\! Deixa eu esclarecer melhor...\n<POLLY>
 
 message_34:
-      text: BASIL está no hospital visitando sua VOVÓ...\! <br>Ela foi enviada pra tratamento intensivo ontem a tarde.\n<POLLY>
+      text: BASIL tá no hospital visitando sua VOVÓ...\! <br>Ela foi pra um tratamento intensivo ontem de tarde.\n<POLLY>
 
 message_36:
       faceset: MainCharacters_Faraway
       faceindex: 32
-      text: Oh, não...\! Desculpe ouvir isso.\her
+      text: Oh, não...\! Desculpa ouvir isso.\her
 
 message_37:
       faceset: MainCharacters_Faraway
@@ -106,18 +106,18 @@ message_37:
       text: Você sabe quando ele vai voltar?\kel
 
 message_38:
-      text: E-Eu não tenho exatamente certeza...\! Talvez alguma hora da tarde.\! ...\! Desculpe...\n<POLLY>
+      text: E-Eu não tenho muita certeza...\! Talvez alguma hora da tarde.\! ...\! Desculpa...\n<POLLY>
 
 message_39:
       faceset: MainCharacters_Faraway
       faceindex: 32
-      text: Você iria se importar se a gente voltasse aqui depois?\!<br>Estamos todos muito preocupados com ele.\her
+      text: Você se importaria se a gente voltasse aqui depois?\!<br>Estamos todos muito preocupados com ele.\her
 
 message_40:
       text: Eu não me importo nem um pouco.\! Por favor voltem mais tarde.\n<POLLY>
 
 message_41:
-      text: Eu acho que o BASIL iria apreciar ter amigos por aqui.\n<POLLY>
+      text: Eu acho que o BASIL iria gostar de ter amigos por aqui.\n<POLLY>
 
 message_42:
       text: Estou feliz em saber que o BASIL tem amigos que se importam tanto com ele.\n<POLLY>
@@ -165,27 +165,27 @@ message_50:
 message_51:
       faceset: MainCharacters_Faraway
       faceindex: 14
-      text: Ah é! A gente devia fazer isso!\!<br>Especialmente já que a AUBREY tá com a gente agora, também.\kel
+      text: Ah é! A gente devia fazer isso!\!<br>Especialmente já que a AUBREY tá com a gente agora.\kel
 
 message_52:
       faceset: MainCharacters_Faraway
       faceindex: 2
-      text: Nossa antiga casa na árvore, huh?\! Eu não estive lá a tanto tempo...\aub
+      text: Nossa antiga casa na árvore, hã?\! Não vou pra lá faz muito tempo...\aub
 
 message_53:
       faceset: MainCharacters_Faraway
       faceindex: 12
-      text: É, a gente também não!\! A gente queria ver ontem, mas tava muito escuro lá fora.\kel
+      text: É, a gente também não!\! A gente queria ver ontem mas tava muito escuro.\kel
 
 message_54:
       faceset: MainCharacters_Faraway
       faceindex: 30
-      text: Que tal você, \n[8]?\! O que você queria fazer hoje?\! É o seu último dia, então você que devia decidir!\her
+      text: Que tal você, \n[8]?\! O que você quer fazer hoje?\! É o seu último dia então você decide!\her
 
 message_55:
       faceset: MainCharacters_Faraway
       faceindex: 13
-      text: É!\! Você devia decidir como quer passar seu último dia na \c[11]CIDADE TÃO-DISTANTE\c[0].\! Lidere o caminho, \n[8].\kel
+      text: É!\! Você que devia decidir o que fazer no seu último dia aqui na \c[11]CIDADE TÃO-DISTANTE\c[0].\! Lidera o caminho, \n[8].\kel
 
 # =========================================================================================
 # Cutscene: Mari's Tree
@@ -218,19 +218,19 @@ message_73:
 message_74:
       faceset: MainCharacters_Faraway
       faceindex: 34
-      text: Aquele...\! Aquele dia tava muito ocupado.\! De manhã, eu sai com a mãe pra comprar umas roupas e sapatos.\! A gente passou o dia todo fazendo compras e não voltou até a tarde.\her
+      text: Aquele...\! Aquele dia tava muito ocupado.\! De manhã, eu saí com a mãe pra comprar umas roupas e sapatos.\! A gente passou o dia todo fazendo compras e não voltamos até tarde.\her
 
 message_75:
       faceset: MainCharacters_Faraway
       faceindex: 18
-      text: Eu lembro desse dia também...\!<br>Eu sai pra cortar o cabelo com o pai.\kel
+      text: Eu lembro desse dia também...\!<br>Eu saí pra cortar o cabelo com o meu pai.\kel
 
 #KEL turns to AUBREY.
 
 message_76:
       faceset: MainCharacters_Faraway
       faceindex: 17
-      text: Ah, é! Você tava lá com o seu pai também, AUBREY!\! <br>A gente tava se preparando pra alguma coisa, não estava?\kel
+      text: Ah, é! Você tava lá com o seu pai também, AUBREY!\! <br>A gente tava se preparando pra alguma coisa, não era?\kel
 
 message_77:
       faceset: MainCharacters_Faraway
@@ -240,7 +240,7 @@ message_77:
 message_78:
       faceset: MainCharacters_Faraway
       faceindex: 0
-      text: Era pra ser aquela noite...\! mas...\! quando a gente voltou pra casa a tarde...\aub
+      text: Era pra ser naquela noite...\! mas...\! quando a gente voltou pra casa...\aub
 
 message_79:
       faceset: MainCharacters_Faraway
@@ -252,12 +252,12 @@ message_79:
 message_80:
       faceset: MainCharacters_Faraway
       faceindex: 20
-      text: Depois de todo esse tempo...\!<br>E-Eu não entendo por que ela faria isso.\kel
+      text: Depois de todo esse tempo...\!<br>E-Eu não entendo porque ela faria isso.\kel
 
 message_81:
       faceset: MainCharacters_Faraway
       faceindex: 0
-      text: E...\! Eu não acho que nenhum de nós vai entender.\aub
+      text: É...\! Eu não acho que nenhum de nós vai entender.\aub
 
 message_82:
       faceset: MainCharacters_Faraway
@@ -279,19 +279,19 @@ message_83:
 message_100:
       faceset: MainCharacters_Faraway
       faceindex: 42
-      text: Wow... Esse lugar teve dias melhores...\! mas parece que tudo está bem onde a gente deixou.\her
+      text: Uau... Esse lugar já teve dias melhores...\! mas parece que tudo tá onde a gente deixou.\her
 
 message_101:
       faceset: MainCharacters_Faraway
       faceindex: 14
-      text: \Com[2]Todas as nossas coisas velhas ainda estão aqui!\kel
+      text: \Com[2]Todas as nossas coisas velhas ainda tão aqui!\kel
 
 #KEL walks to scattered cards.
 
 message_102:
       faceset: MainCharacters_Faraway
       faceindex: 13
-      text: Ei, olha! Aqui está o nosso baralho!\! <br>Eu era o melhor em jogos de carta, não era, gente?\kel
+      text: Ei, olha! Aqui tá o nosso baralho!\! <br>Eu era o melhor nesses jogos de cartas, não era, gente?\kel
 
 #AUBREY walks up to stuffed toy.
 
@@ -308,7 +308,7 @@ message_104:
 message_105:
       faceset: MainCharacters_Faraway
       faceindex: 16
-      text: \Com[2]Dah! Acho que acabei de pisar em um jack!\kel
+      text: \Com[2]Aii! Acho que acabei de pisar em um jack!\kel
 
 message_106:
       faceset: MainCharacters_Faraway
@@ -349,7 +349,7 @@ message_110:
 message_111:
       faceset: MainCharacters_Faraway
       faceindex: 38
-      text: Ei, você está certo, KEL!\! Pegue o seu \c[4]ÁLBUM DE FOTOS\c[0], \n[8]. <br>Temos que adicionar essa foto!\her
+      text: Ei, você tá certo, KEL!\! Pega o seu \c[4]ÁLBUM DE FOTOS\c[0], \n[8]. <br>Temos que colocar essa foto!\her
 
 #Slide: Basil's PHOTO ALBUM (Faraway) - Sorting
 
@@ -361,7 +361,7 @@ message_112:
 message_113:
       faceset: MainCharacters_Faraway
       faceindex: 29
-      text: Sabe... Essa é provavelmente a última vez que vamos ficar todos juntos na casa na árvore.\! Agora que o \c[4]ÁLBUM DE FOTOS\c[0] está completo...\! a gente devia dar uma última olhada nele.\her
+      text: Sabe... Essa é provavelmente a última vez que vamos ficar todos juntos na casa na árvore.\! Agora que o \c[4]ÁLBUM DE FOTOS\c[0] tá completo...\! a gente devia dar uma última olhada nele.\her
 
 message_114:
       faceset: MainCharacters_Faraway
@@ -395,12 +395,12 @@ message_118:
 message_119:
       faceset: MainCharacters_Faraway
       faceindex: 13
-      text: Olha todos nós juntos de novo...<br>\!MARI estaria tão feliz com a gente!\kel
+      text: Olha todos nós juntos de novo...<br>\!A MARI estaria tão feliz de ver a gente assim!\kel
 
 message_120:
       faceset: MainCharacters_Faraway
       faceindex: 35
-      text: É, você está certo... Ela estaria.\her
+      text: É, você tá certo... Ela estaria.\her
 
 message_121:
       faceset: MainCharacters_Faraway
@@ -417,7 +417,7 @@ message_122:
 message_123:
       faceset: MainCharacters_Faraway
       faceindex: 19
-      text: Huh?\! Ei, AUBREY! O que foi?\kel
+      text: Hã?\! Ei, AUBREY! O que foi?\kel
 
 #KEL follows AUBREY
 
@@ -441,12 +441,12 @@ message_125:
 message_130:
       faceset: MainCharacters_Faraway
       faceindex: 27
-      text: \aubWow...\! Parece que você realmente tá se mudando, hein \n[8]?
+      text: \aubUau...\! Parece que você realmente tá se mudando, hein \n[8]?
 
 message_131:
       faceset: MainCharacters_Faraway
       faceindex: 2
-      text: \aubQuando eu vejo essa casa vazia, parece que veio tão de repente.\! Mas pra você...\! já era hora de se mudar faz tempo.
+      text: \aubQuando eu vejo essa casa vazia, parece que foi tão de repente.\! Mas pra você...\! já era hora de se mudar faz tempo.
 
 message_132:
       faceset: MainCharacters_Faraway
@@ -465,7 +465,7 @@ message_133:
 message_134:
       faceset: MainCharacters_Faraway
       faceindex: 42
-      text: \herMas mesmo depois de tudo isso...\! Estou aliviado que a gente pode ser amigos de novo.\! Estou feliz que estamos todos aqui...\! e que a gente possa encarar isso juntos.
+      text: \herMas mesmo depois de tudo isso...\! Eu tô aliviado que a gente pode ser amigos de novo.\! Estou feliz que estamos todos aqui...\! e que a gente possa encarar isso juntos.
 
 #*pause*
 #HERO turns to the sliding door.
