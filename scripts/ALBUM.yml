@@ -126,7 +126,7 @@ faraway_message22:
 faraway_message23:
     background: 0
     position: 2
-    text: \n<25/5>MARI comprou picolés para todo mundo, um de cada sabor!<br>\!\n[8] pegou de limão, HERO pegou de cerveja-de-raiz, KEL pegou de laranja, AUBREY pegou de melancia, e MARI pegou de uva!<br>O meu era de banana...\! Tinha um gosto ok.
+    text: \n<25/5>MARI comprou picolés para todo mundo, um de cada sabor!<br>\!\n[8] pegou de limão, HERO pegou de cerveja-de-raiz, KEL pegou de laranja, AUBREY pegou de melancia e a MARI pegou de uva!<br>O meu era de banana...\! Tinha um gosto ok.
 
 faraway_message24:
     background: 0
@@ -206,7 +206,7 @@ faraway_message38:
 faraway_message39:
     background: 0
     position: 2
-    text: \n<16/8>All of us hanging out in our brand new treehouse!<br>Looks like \n[8] is finally reading the book I showed him!<br><br>I want to spend every day in here, but it's a shame that summer vacation is almost over.\! I hope we get to use this treehouse more next summer!
+    text: \n<16/8>Todos nós nos divertindo na nova casa na árvore!<br>Parece que o \n[8] finalmente está lendo o livro que eu dei pra ele!<br><br>Eu quero passar todo dia aqui, mas é uma pena que as férias de verão estão acabando.\! Eu espero que possamos usar mais essa casa na árvore no verão que vem!
 
 faraway_message40:
     background: 0
@@ -216,7 +216,7 @@ faraway_message40:
 faraway_message41:
     background: 0
     position: 2
-    text: \n<6/9>Eu estou jogando cartas com KEL, HERO, e AUBREY.\! Eles são tão fáceis de ler. Eles não conseguem esconder nada em suas caras!<br><br>MARI assou cookies para todo mundo.<br>Eles eram de pepita de chocolate e estavam deliciosos, como sempre!
+    text: \n<6/9>Eu estou jogando cartas com KEL, HERO, e AUBREY.\! Eles são tão fáceis de ler. Eles não conseguem esconder nada em suas caras!<br>MARI assou cookies para todo mundo.<br>Eles eram de pepita de chocolate e estavam deliciosos, como sempre!
 
 faraway_message42:
     background: 0
@@ -241,12 +241,12 @@ faraway_message45:
 faraway_message46:
     background: 0
     position: 2
-    text: \n<22/9>MARI praticando sua parte para o grande recital mês que vem.<br>Todos nós vamos assistir!<br><br>Vai ser a primeira performance da MARI e \n[8] juntos, mas eu sei que eles vão se sair bem!\! Nós estaremos mostrando todo o nosso apoio da audiência!
+    text: \n<22/9>MARI praticando sua parte para o grande recital mês que vem.<br>Todos nós vamos assistir!<br>Vai ser a primeira performance da MARI e \n[8] juntos, mas eu sei que eles vão se sair bem!\! Nós estaremos mostrando todo o nosso apoio da audiência!
 
 faraway_message47:
     background: 0
     position: 2
-    text: \n<22/9>MARI está ficando meio tímida com a camera, por que ela cometeu um pequeno erro.\! Não se preocupe, MARI! Continue tocando!<br>Ninguém vai perceber!
+    text: \n<22/9>MARI está ficando meio tímida com a câmera, por que ela cometeu um pequeno erro.\! Não se preocupe, MARI! Continue tocando!<br>Ninguém vai perceber!
 
 faraway_message48:
     background: 0
