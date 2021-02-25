@@ -46,12 +46,12 @@ message_4:
 message_5:
     faceset: MainCharacter_Mari
     faceindex: 2
-    text: \marEstá tudo bem, AUBREY... O HERO também não lembra do nome de ningúem.\! Isso deve ser de família...
+    text: \marEstá tudo bem, AUBREY... O HERO também não lembra do nome de ninguém.\! Isso deve ser de família...
 
 message_6:
     faceset: MainCharacters_DreamWorld
     faceindex: 47
-    text: \her\com[2]Ei, eu estou tentando melhorar isso!\! Para alguns é algo natural, mas para outros é algo que tem que se esforçar!\! Nem todos tem uma memória igual a do OMORI...
+    text: \her\com[2]Ei, eu estou tentando melhorar!\! Pra alguns é algo natural, mas outros precisam se esforçar!\! Nem todos tem uma memória igual a do OMORI...
 
 #------------------------------------------------------------------------------------------------------------------------
 #**Path to Basil (II) - Disappears after entering SGL**
@@ -64,17 +64,17 @@ message_7:
 message_8:
     faceset: MainCharacters_DreamWorld
     faceindex: 40
-    text: \herHmm...\! O sumiço dele é preocupante...\! mas não vai ajudar nada se estressar demais sobre isso.
+    text: \herHmm...\! O sumiço dele é preocupante...\! mas não vai ajudar nada se estressar demais com isso.
 
 message_9:
     faceset: MainCharacters_DreamWorld
     faceindex: 5
-    text: \aubO BASIL confia muito nas pessoas... Ele vai acreditar em qualquer coisa que alguém disser!
+    text: \aubO BASIL confia muito nas pessoas... Ele vai acreditar em qualquer coisa que ouvir!
 
 message_10:
     faceset: MainCharacters_DreamWorld
     faceindex: 7
-    text: \aubE se algúem enganou ele?\! Ou talvez ele tenha caído em uma armadilha!
+    text: \aubE se alguém enganou ele?\! Ou talvez ele tenha caído em uma armadilha!
 
 message_11:
     faceset: MainCharacters_DreamWorld
@@ -114,7 +114,7 @@ message_17:
 message_18:
     faceset: MainCharacters_DreamWorld
     faceindex: 5
-    text: \aubSniff...\! Bem, quando você diz dessa forma...
+    text: \aubSniff...\! Bem, vendo por esse lado...
 
 message_19:
     faceset: MainCharacters_DreamWorld
@@ -129,7 +129,7 @@ message_20:
 message_21:
     faceset: MainCharacters_DreamWorld
     faceindex: 31
-    text: \kel\com[2]Ahh! Não sorria para mim! É assustador!
+    text: \kel\com[2]Ahh! Não sorria pra mim! É assustador!
 
 message_22:
     faceset: MainCharacters_DreamWorld
@@ -157,7 +157,7 @@ message_25:
 message_26:
     faceset: MainCharacters_DreamWorld
     faceindex: 31
-    text: \kel\quake[1]\com[2]\{QUE!?\! VOCÊ FALOU ALGUMA COISA?
+    text: \kel\quake[1]\com[2]\{QUÊ!?\! VOCÊ FALOU ALGUMA COISA?
 
 message_27:
     faceset: MainCharacters_DreamWorld
@@ -253,7 +253,7 @@ message_43:
 message_44:
     faceset: MainCharacters_DreamWorld
     faceindex: 47
-    text: \herAaa, cara...\! Não falei nada demais?
+    text: \herAaah, cara...\! O que eu disse de errado?
 
 #=====================================================================
 
@@ -478,7 +478,7 @@ message_81:
 message_82:
     faceset: MainCharacter_Mari
     faceindex: 6
-    text: \marOh...\! Apenas algumas sombras aqui e ali...\! Se você se concentrar, você também pode as ver!
+    text: \marOh...\! Apenas algumas sombras aqui e ali...\! Se você se concentrar, você também pode vê-las!
 
 message_83:
     faceset: MainCharacters_DreamWorld
@@ -512,7 +512,7 @@ message_87:
 message_88:
     faceset: MainCharacter_Mari
     faceindex: 2
-    text: \marHERO! Eu tenho uma pergunta para você...
+    text: \marHERO! Eu tenho uma pergunta pra você...
 
 message_89:
     faceset: MainCharacter_Mari
@@ -527,17 +527,17 @@ message_90:
 message_91:
     faceset: MainCharacters_DreamWorld
     faceindex: 49
-    text: \herVocê sabe que só tenho olhos para você, MARI...
+    text: \herVocê sabe que só tenho olhos pra você, MARI...
 
 message_92:
     faceset: MainCharacters_DreamWorld
     faceindex: 31
-    text: \kel\sinv[1]Ewwwwwwwwwwwwwwww...
+    text: \kel\sinv[1]Ecaaaaaaaaaaaaaa...
 
 message_93:
     faceset: MainCharacter_Mari
     faceindex: 2
-    text: \mar“Ewww...” está certo, KEL!
+    text: \mar“Ecaaa...” está certo, KEL!
 
 message_94:
     faceset: MainCharacter_Mari
@@ -547,7 +547,7 @@ message_94:
 message_95:
     faceset: MainCharacters_DreamWorld
     faceindex: 46
-    text: \herQue? Não é?\! Então o que você gosta em mim?
+    text: \herQuê? Não é?\! Então o que você gosta em mim?
 
 message_96:
     faceset: MainCharacter_Mari
@@ -582,7 +582,7 @@ message_101:
 message_102:
     faceset: MainCharacters_DreamWorld
     faceindex: 2
-    text: \aubNão dá para comparar com um de verdade... tipo o meu com o OMORI!\! Não é mesmo, OMORI?
+    text: \aubNão dá pra comparar com um de verdade... tipo o meu com o OMORI!\! Não é mesmo, OMORI?
 
 message_103:
     faceset: MainCharacters_DreamWorld
@@ -720,7 +720,7 @@ message_125:
 message_126:
     faceset: MainCharacters_DreamWorld
     faceindex: 7
-    text: \aub\com[2]\sinv[1]A-Atchim!\sinv[0]\| Todos esses móveis estão cheios de poeira...\!<br>Devem estar aqui faz um bom tempo.
+    text: \aub\com[2]\sinv[1]A-Atchim!\sinv[0]\| Todos esses móveis tão cheios de poeira...\!<br>Devem estar aqui faz um bom tempo.
 
 message_127:
     faceset: MainCharacters_DreamWorld
@@ -735,12 +735,12 @@ message_128:
 message_129:
     faceset: MainCharacters_DreamWorld
     faceindex: 30
-    text: \kelTemos que impedir a SWEETHEART!\! Com certeza ela está tramando algo.
+    text: \kelTemos que impedir a SWEETHEART!\! Com certeza ela tá tramando algo.
 
 message_130:
     faceset: MainCharacters_DreamWorld
     faceindex: 46
-    text: \herTemos?\! Tipo...\! Nós já temos os próprios problemas para cuidar...
+    text: \herTemos?\! Tipo...\! Nós já temos os próprios problemas pra cuidar...
 
 message_131:
     faceset: MainCharacter_Mari
@@ -774,7 +774,7 @@ message_135:
 message_136:
     faceset: MainCharacters_DreamWorld
     faceindex: 18
-    text: \kelMARI, Essa gelatina é deliciosa!\! É feita de que?
+    text: \kelMARI, Essa gelatina é deliciosa!\! É feita de quê?
 
 message_137:
     faceset: MainCharacter_Mari
@@ -784,7 +784,7 @@ message_137:
 message_138:
     faceset: MainCharacters_DreamWorld
     faceindex: 46
-    text: \herVocê...\! \com[2]fez o que!?
+    text: \herVocê...\! \com[2]fez o quê!?
 
 message_139:
     faceset: MainCharacter_Mari
@@ -799,7 +799,7 @@ message_140:
 message_141:
     faceset: MainCharacters_DreamWorld
     faceindex: 28
-    text: \kelTá, beleza...\! mas...\! gelatina é feita de que?
+    text: \kelTá, beleza...\! mas...\! gelatina é feita de quê?
 
 message_142:
     faceset: MainCharacter_Mari
@@ -930,7 +930,7 @@ message_162:
 message_163:
     faceset: MainCharacter_Basil
     faceindex: 4
-    text: \basEu não sei por que...\! mas a neve me deixa muito triste.
+    text: \basEu não sei por quê...\! mas a neve me deixa muito triste.
 
 message_164:
     faceset: MainCharacter_Mari
@@ -940,7 +940,7 @@ message_164:
 message_165:
     faceset: MainCharacters_DreamWorld
     faceindex: 39
-    text: \herSim, quero dizer...\! É normal ficar triste as vezes...\! mas você pode sempre falar com a gente!
+    text: \herSim, quero dizer...\! É normal ficar triste às vezes...\! mas você pode sempre falar com a gente!
 
 message_166:
     faceset: MainCharacter_Basil
@@ -1039,7 +1039,7 @@ message_183:
 message_184:
     faceset: MainCharacter_Mari
     faceindex: 3
-    text: \marE de qualquer forma não é tão ruim, pois o BASIL sempre está aqui para me fazer companhia.
+    text: \marE de qualquer forma não é tão ruim, pois o BASIL sempre tá aqui para me fazer companhia.
 
 message_185:
     faceset: MainCharacter_Basil
@@ -1065,7 +1065,7 @@ message_188:
 message_189:
     faceset: MainCharacter_Mari
     faceindex: 3
-    text: \sinv[1]\marOu sobre como seria ser tão tranquilo como o KEL...\! Ou sobre quantas vezes o HERO dormiu e algum passarinho achou que o cabelo dele era um ninho...
+    text: \sinv[1]\marOu sobre como seria ser tão tranquilo como o KEL...\! Ou sobre quantas vezes o HERO dormiu e algum passarinho confundiu o cabelo dele com um ninho...
 
 message_190:
     faceset: MainCharacters_DreamWorld
@@ -1109,7 +1109,7 @@ message_196:
 message_197:
     faceset: MainCharacter_Basil
     faceindex: 0
-    text: \basBem...\! Eu acho que as aranhas são mal interpretadas...\! Elas podem paracer assustadoras, mas elas nunca atacam humanos a não ser que se sintam ameaçadas.
+    text: \basBem...\! Eu acho que as aranhas são mal interpretadas...\! Elas podem parecer assustadoras, mas elas nunca atacam humanos a não ser que se sintam ameaçadas.
 
 message_198:
     faceset: MainCharacter_Basil
@@ -1174,7 +1174,7 @@ message_208:
 message_209:
     faceset: MainCharacter_Basil
     faceindex: 3
-    text: \bas\com[2]\}Agh...\! Por que KEL...
+    text: \bas\com[2]\}Agh...\! Por que, KEL...
 
 message_210:
     faceset: MainCharacter_Basil
