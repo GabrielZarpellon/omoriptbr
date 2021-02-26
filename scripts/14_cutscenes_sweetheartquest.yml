@@ -15,7 +15,7 @@ message_0:
 message_1:
       faceset: MainCharacters_DreamWorld
       faceindex: 19
-      text: Viu só, HERO? Eu te disse pra não se preocupar.\!<br>OMORI sempre aparece quando a gente precisa dele!\kel
+      text: Viu só, HERO? Eu te disse pra não se preocupar.\!<br>O OMORI sempre aparece quando a gente precisa dele!\kel
 
 message_2:
       faceset: MainCharacters_DreamWorld
@@ -27,14 +27,14 @@ message_2:
 message_3:
       faceset: MainCharacters_DreamWorld
       faceindex: 19
-      text: Agora que você está aqui, Vamos lá fora procurar o BASIL!\!<br>Ele tá contando com a gente!\kel
+      text: Agora que você tá aqui, vamos lá fora procurar o BASIL!\!<br>Ele tá contando com a gente!\kel
 
 #AUBREY jumps.
 
 message_4:
       faceset: MainCharacters_DreamWorld
       faceindex: 10
-      text: Seja paciente, KEL! <br>Temos que ter certeza que o OMORI está bem primeiro!\aub
+      text: Seja paciente, KEL! <br>Temos que ter certeza que o OMORI tá bem primeiro!\aub
 
 #AUBREY has an idea.
 
@@ -60,14 +60,14 @@ message_7:
 message_8:
       faceset: MainCharacters_DreamWorld
       faceindex: 30
-      text: Ei, você não pode nos deixar de fora disso!\kel
+      text: Ei, cê não pode nos deixar de fora!\kel
 
 #HERO looks at AUBREY.
 
 message_9:
       faceset: MainCharacters_DreamWorld
       faceindex: 39
-      text: Ele está certo, AUBREY. Temos que fazer isso juntos como uma equipe.\her
+      text: Ele tá certo, AUBREY. Temos que fazer isso juntos como uma equipe.\her
 
 message_10:
       faceset: MainCharacters_DreamWorld
@@ -93,12 +93,12 @@ message_12:
 message_13:
       faceset: MainCharacters_DreamWorld
       faceindex: 31
-      text: Eww... Nojento... Cai fora.\kel
+      text: Eca... Nojento... Cai fora.\kel
 
 message_14:
       faceset: MainCharacters_DreamWorld
       faceindex: 39
-      text: Vamos, AUBREY. É hora de ficar séria.\!<br>Vamos contar pra MARI que o OMORI está bem\!<br>Você sabe como ela sempre se preocupa com ele...\her
+      text: Bora, AUBREY. Agora é sério.\!<br>Vamos contar pra MARI que o OMORI tá bem\!<br>Você sabe como ela sempre se preocupa com ele...\her
 
 message_15:
       faceset: MainCharacters_DreamWorld
@@ -160,7 +160,7 @@ message_36:
 message_37:
       faceset: MainCharacters_DreamWorld
       faceindex: 1
-      text: Deixa eu ver!\!<br>Oh, são ingressos de primeira fileira pra algúm tipo de show... \aub
+      text: Deixa eu ver!\!<br>Oh, são ingressos de primeira fileira pra algum tipo de show... \aub
 
 message_38:
       faceset: MainCharacters_DreamWorld
@@ -177,7 +177,7 @@ message_39:
 message_40:
       faceset: MainCharacters_DreamWorld
       faceindex: 2
-      text: É! Parece algúm tipo de concurso ou algo assim!\aub
+      text: É! Parece algum tipo de concurso ou algo assim!\aub
 
 message_41:
       faceset: MainCharacters_DreamWorld
@@ -213,7 +213,7 @@ message_62:
 message_63:
       faceset: MainCharacters_DreamWorld
       faceindex: 6
-      text: \{\Com[2]O-O QUE? \Com[2]AONDE? \Com[2]TIRA!!\aub\quake[0]
+      text: \{\Com[2]O-O QUÊ? \Com[2]AONDE? \Com[2]TIRA!!\aub\quake[0]
 
 message_64:
       faceset: MainCharacters_DreamWorld
@@ -234,12 +234,12 @@ message_65:
 message_80:
       faceset: MainCharacters_DreamWorld
       faceindex: 2
-      text: Wow, olha esse palco enorme!<br>É tão incrível quanto eu imaginava!\aub
+      text: Uau, olha esse palco enorme!<br>É tão incrível quanto eu imaginava!\aub
 
 message_81:
       faceset: MainCharacters_DreamWorld
       faceindex: 3
-      text: Vamos para os nossos lugares.<br>Parece que o jogo vai começar!\aub
+      text: Vamos pros nossos lugares.<br>Parece que o show já vai começar!\aub
 
 # =========================================================================================
 # Cutscene: Sweetheart's Bachelor Contest (Cont.)
@@ -252,7 +252,7 @@ message_81:
 #SMM walks onto the stage.
 
 message_100:
-      text: Senhoras e Toupeiros...\!<br>Bem vindo a um episódio especial de...\!<br>\"SWEETHEART EM BUSCA DE CORAÇÕES!\"\smm
+      text: Senhoras e Toupeiros...\!<br>Bem-vindos a um episódio especial de...\!<br>\"SWEETHEART EM BUSCA DE CORAÇÕES!\"\smm
 
 #Applause
 
@@ -281,7 +281,7 @@ message_106:
       text: Da última vez \"SWEETHEART EM BUSCA DE CORAÇÕES\"...\!<br>Nossa princesa favorita...\! Mais uma vez...\! falhou em se apaixonar qualquer um dos nossos solteiros elegíveis!\smm
 
 message_107:
-      text: Dessa vez...\! nós juntamos três novos contestantes atraentes!\! Algúm deles irá capturar o coração da SWEETHEART?\! Vamos revelar eles agora!\smm
+      text: Dessa vez...\! nós juntamos três novos contestantes atraentes!\! Algum deles irá capturar o coração da SWEETHEART?\! Vamos revelar eles agora!\smm
 
 #Contestant #1 comes out and makes a circle around the stage.
 
@@ -301,7 +301,7 @@ message_111:
       text: CONTESTANTE \#2 é... Isso mesmo, você adivinhou!\! <br>Também um nativo da VILA BROTOPEIRA!\smm
 
 message_112:
-      text: Cuidado! Ele tá vindo com tudo, com um-metro-e-dois-centímetros-inteiros!\!<br>Seus hobbies incluem andar, correr, e rastejar!\smm
+      text: Cuidado! Ele tá vindo com tudo, com um-metro-e-dois-centímetros-inteiros!\!<br>Seus hobbies incluem andar, correr e rastejar!\smm
 
 message_113:
       text: Sua combinação de cores favorita é marrom e verde, e ele passa os fins de semana rolando na roupa suja!<br>\!Mmm... quente.\smm
@@ -410,7 +410,7 @@ message_133:
 message_150:
       faceset: MainCharacters_DreamWorld
       faceindex: 39
-      text: Wow... Eu acho que o apagão afetou a \c[11]VILA BROTOPEIRA\c[0] inteira também!\her
+      text: Uau... Eu acho que o apagão afetou a \c[11]VILA BROTOPEIRA\c[0] inteira também!\her
 
 message_151:
       faceset: MainCharacters_DreamWorld
