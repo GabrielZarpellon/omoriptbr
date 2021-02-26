@@ -24,13 +24,13 @@ message_4:
       text: Oh não, você tá bem?\!<br>Você ficou um pouco nervoso antes, então a gente teve que...\aub
 
 message_5:
-      text: Ah...\! Entendo...\! Minha outra metade deve ter me pegado desprevinido.\cap
+      text: Ah...\! Entendo...\! Minha outra metade deve ter me pegado desprevenido.\cap
 
 message_6:
       text: Eu devo me desculpar. Suas ações foram provavelmente justas.\!<br>Eu só não espero ter causado muitos problemas.\cap
 
 message_7:
-      text: Últimamente tem sido um pouco difícil controlar mihas emoções.\!<br>Eu tento meu melhor para contê-las, mas tem ficado muito mais difícil.\cap
+      text: Ultimamente tem sido um pouco difícil controlar mihas emoções.\!<br>Eu tento meu melhor para contê-las, mas tem ficado muito mais difícil.\cap
 
 message_8:
       text: SWEETHEART...\! Ela era o amor da minha vida...\!<br>É quase impossível imaginar a vida longe dela.\cap
@@ -39,7 +39,7 @@ message_9:
       text: Eu acho que estou um pouco perdido.\cap
 
 message_10:
-      text: Essa \c[4]MIXTAPE ESPECIAL\c[0] É cheio das músicas favoritas minhas e dela.\! Eu botei tanto amor em fazer isso por ela.\cap
+      text: Essa \c[4]MIXTAPE ESPECIAL\c[0] é cheio das nossas músicas favoritas.\! Eu botei tanto amor em fazer isso por ela.\cap
 
 message_11:
       text: Obrigado por devolverem à mim.\!<br>Isso ainda é cheio de memórias preciosas no final.\cap
@@ -69,19 +69,19 @@ message_17:
       text: Me desculpe muito, mas muito mesmo, mas eu tenho notícias terríveis, muito terríveis.\!<br>Seu planeta favorito, PLUTÃO, escapou e não conseguimos encontrar ele.\spb
 
 message_18:
-      text: Não fique brabo com a gente. Nos perdoe!\spd
+      text: Não fique bravo com a gente. Nos perdoe!\spd
 
 message_19:
       text: P-por favor seja misericordioso...\spb
 
 message_20:
-      text: Ah, Entendo.\cap
+      text: Ah, entendo.\cap
 
 message_21:
       text: Tá tudo bem, vocês dois.\! Eu tenho certeza que até mesmo os planetas se cansam uma hora.\! Talvez PLUTÃO nem era para ser um planeta.\cap
 
 message_22:
-      text: A-ahn?\! Sério??\! Você não está brabo com a gente?\spb
+      text: A-ahn?\! Sério??\! Você não está bravo com a gente?\spb
 
 message_23:
       text: Sério mesmo, CAP. SP- Quero dizer, NAMORADO ESPACIAL?\spd
@@ -90,7 +90,7 @@ message_24:
       text: Sério mesmo.\! Juntem o resto da tripulação.\!<br>Vamos para o \c[11]LAGO CONGELADO\c[0] e pegar umas \c[3]RASPADINHAS\c[0].\cap
 
 message_25:
-      text: Descansar talvez não conserte o meu coração, <br>Agora comer \c[3]RASPADINHAS\c[0] com os amigos deve ajudar!\cap
+      text: Descansar talvez não conserte o meu coração, <br>agora comer \c[3]RASPADINHAS\c[0] com os amigos deve ajudar!\cap
 
 message_26:
       text: E também, vocês não precisam mais me chamar de NAMORADO ESPACIAL.\!<br>Eu sou o CAPITÃO SPACEBOY!\cap
@@ -99,7 +99,7 @@ message_27:
       text: E-espera, isso significa que...\spd
 
 message_28:
-      text: \{\sinv[1]\Com[2]WOOOOO... \|\{HOOOOO\{OOOOOOO!!\sinv[0]\spd
+      text: \{\sinv[1]\Com[2]UUUUUU... \|\{HUUUUU\{UUUUUUL!!\sinv[0]\spd
 
 message_29:
       text: O CAPITÃO voltou! Temos que contar para todo mundo!\!<br>Vamo lá, mano!\spd
@@ -169,7 +169,7 @@ message_51:
 #Everyone turns to AUBREY and is surprised.
 
 message_52:
-      text: Uh-oh...\! Por favor, mocinha... Não chore!\!<br>Errr...\! Aqui, pegue isso também!\cap
+      text: Oh não...\! Por favor, mocinha... Não chore!\!<br>Errr...\! Aqui, pegue isso também!\cap
 
 #CAPT. SPACEBOY walks to book shelf.
 #CAPT. SPACEBOY walks to AUBREY.
@@ -181,7 +181,7 @@ message_54:
       text: Eu usava para viajar de trens por aí...\!<br>Bem antes de eu virar um CAPITÃO ESPACIAL.\cap
 
 message_55:
-      text: Se até eu posso ir de andar de trens para pilotar minha própria nave, Eu tenho certeza de que irão encontrar seu amigo.\cap
+      text: Se até eu posso ir de andar de trens para pilotar minha própria nave, eu tenho certeza de que irão encontrar seu amigo.\cap
 
 message_56:
       faceset: MainCharacters_DreamWorld
@@ -202,7 +202,7 @@ message_59:
 #CAPT. SPACEBOY turns toward the door.
 
 message_60:
-      text: Eu não posso deixar minha tripulação esperando.\!<br>Boa sorte com tudo, e obrigado novamente!\cap
+      text: Eu não posso deixar minha tripulação esperando.\!<br>Boa sorte com tudo e obrigado novamente!\cap
 
 message_61:
       text: Isso parece \c[3]SUCO\c[0], mas tem um gosto horrível!
