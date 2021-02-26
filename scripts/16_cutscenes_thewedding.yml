@@ -14,7 +14,7 @@ message_0:
 message_1:
       faceset: MainCharacters_DreamWorld
       faceindex: 19
-      text: Whoa, qual é a das decorações?\kel
+      text: Nossa, qual é a das decorações?\kel
 
 #AUBREY looks at KEL.
 
@@ -28,13 +28,13 @@ message_2:
 message_3:
       faceset: MainCharacters_DreamWorld
       faceindex: 39
-      text: Uh-oh! O show está prestes a começar!\!<br>Escondam-se!\her
+      text: Eita! O show já vai começar!\!<br>Se escondam!\her
 
 #Party hides.
 #Camera pans to stage.
 
 message_4:
-      text: Bem vindos! Bem vindos todos!\smm
+      text: Bem-vindos! Bem-vindos todos!\smm
 
 message_5:
       text: Hoje teremos uma ocasião importante.\smm
@@ -57,7 +57,7 @@ message_11:
       text: Mas desta vez, nós acreditamos...\!<br>que realmente nos superamos.\smm
 
 message_12:
-      text: Esse é...\! o momento para acabar com os outros momentos...\!<br>História...\! começa aqui.\smm
+      text: Esse é...\! o momento pra acabar com os outros momentos...\!<br>História...\! começa aqui.\smm
 
 message_13:
       text: Escureçam as luzes, por favor...\smm
@@ -68,7 +68,7 @@ message_8:
       text: \{O EPISÓDIO FINAL COMEÇA AGORA!\smm
 
 message_14:
-      text: \{\Com[2]COMEÇEM O CASAMENTO!!\smm
+      text: \{\Com[2]COMECEM O CASAMENTO!!\smm
 
 #Curtain opens, revealing Sprout Mole Choir singing for SWEETHEART's WEDDING.
 
@@ -87,7 +87,7 @@ message_17:
       text: A resposta era óbvia esse tempo todo!\smm
 
 message_18:
-      text: O único pretendente perfeito o suficiente para a SWEETHEART...\smm
+      text: O único pretendente perfeito o suficiente pra SWEETHEART...\smm
 
 #Camera pans to SWEETHEART.
 
@@ -115,7 +115,7 @@ message_22:
 message_23:
       faceset: MainCharacters_DreamWorld
       faceindex: 18
-      text: \{HAHAHAHAHAHAHAHAHAHAHAHA!!\}\!<br>SWEETHEART tá se casando com ela mesma! Isso é tão idiota!\kel
+      text: \{HAHAHAHAHAHAHAHAHAHAHAHA!!\}\!<br>A SWEETHEART tá se casando com ela mesma! Isso é tão idiota!\kel
 
 message_24:
       faceset: MainCharacters_DreamWorld
@@ -128,12 +128,12 @@ message_25:
       text: ...\! Agora... Alguém tem algo a protestar em relação a este matrimônio sagrado?\smm
 
 message_26:
-      text: Fale agora, ou cale-se para sempre!\smm
+      text: Fale agora ou cale-se para sempre!\smm
 
 #Pause with no noise.
 
 message_27:
-      text: Nesse caso...\!<br>Pelo poder investido em mim, Eu te declaro...\!<br>SWEETHEART e SWEETHEART!\smm
+      text: Nesse caso...\!<br>Pelo poder investido em mim, eu te declaro...\!<br>SWEETHEART e SWEETHEART!\smm
 
 message_28:
       text: Você já pode beijar a-\smm
@@ -151,7 +151,7 @@ message_30:
 message_31:
       faceset: MainCharacters_DreamWorld
       faceindex: 10
-      text: Não faça isso, SWEETHEART!\!<br>Esse casamento é uma farsa...\! Se amar é uma coisa, mas...<br>isso está indo longe de mais!\aub
+      text: Não faça isso, SWEETHEART!\!<br>Esse casamento é uma farsa...\! Se amar é uma coisa, mas...<br>isso tá indo longe de mais!\aub
 
 #Camera pans to SWEETHEART.
 #SWEETHEART jumps.
@@ -167,7 +167,7 @@ message_33:
 message_34:
       faceset: MainCharacters_DreamWorld
       faceindex: 4
-      text: SWEETHEART... Você está cometendo um ero.\!<br>Você não pode só se casar com si mesma...\aub
+      text: SWEETHEART... Você tá cometendo um erro.\!<br>Você não pode só se casar com si mesma...\aub
 
 message_35:
       faceset: MainCharacters_DreamWorld
@@ -179,17 +179,17 @@ message_35:
 message_36:
       faceset: MainCharacters_DreamWorld
       faceindex: 31
-      text: \}AUBREY, o que você tá fazendo...?\!<br>Ela vai nos enviar de volta para \c[11]A MASMORRA\C[0] de novo...\kel
+      text: \}AUBREY, o que cê tá fazendo...?\!<br>Ela vai nos enviar de volta para \c[11]A MASMORRA\C[0] de novo...\kel
 
 #Camera pans to SWEETHEART. Guards are behind her now.
 
 message_37:
-      text: Hmph...\! Você não entende nada, fã aleatória do HERO.\swh
+      text: Hmph...\! Você não sabe de nada, fã aleatória do HERO.\swh
 
 #SWEETHEART turns around.
 
 message_38:
-      text: Eu era uma jovem princesa uma vez.\!<br>Eu, também, pensei que tinha um par perfeito pra mim no universo...\swh
+      text: Eu era uma jovem princesa.\!<br>Eu, também, pensei que tinha um par perfeito pra mim no universo...\swh
 
 message_39:
       text: Mas isso é tudo passado.\swh
@@ -209,14 +209,14 @@ message_42:
 message_43:
       faceset: MainCharacters_DreamWorld
       faceindex: 27
-      text: \}Umm...\! HERO...\! Eu não acho que isso é uma boa idéia...\kel
+      text: \}Umm...\! HERO...\! Eu não acho que isso é uma boa ideia...\kel
 
 #HERO takes off his Sprout Mole mask.
 
 message_44:
       faceset: MainCharacters_DreamWorld
       faceindex: 43
-      text: \{\Com[2]SWEETHEART, ME ESCUTE!!\}<br>Você não tem que fazer isso!\her
+      text: \{\Com[2]SWEETHEART, ME ESCUTA!!\}<br>Você não precisa fazer isso!\her
 
 #Camera pants to SWEETHEART.
 
@@ -255,7 +255,7 @@ message_52:
       text: ...\| ...\| ...\swh
 
 message_300:
-      text: \swhO que é isso?\! Você me rejeita...\! de novo?
+      text: \swhO que é isso?\! Você me rejeitou...\! de novo?
 
 message_301:
       text: \Mas...\! Como pode ser?
@@ -274,10 +274,10 @@ message_53:
 message_54:
       faceset: MainCharacters_DreamWorld
       faceindex: 24
-      text: Uh-oh...\! Agora você passou dos limites...\kel
+      text: Ah não...\! Agora você passou dos limites...\kel
 
 message_55:
-      text: Ah...\! Sim...\! Eu vejo tudo claramente agora.\swh
+      text: Ah...\! Sim...\! Tudo está tão claro agora.\swh
 
 message_56:
       text: Eu admito...\! Eu estava errada sobre você, HERO.\!<br>Pensei que fosse um companheiro digno...\! mas...\! parece que você só tem inveja de mim, assim como todo mundo!\swh
@@ -317,7 +317,7 @@ message_71:
 message_72:
       faceset: MainCharacters_DreamWorld
       faceindex: 10
-      text: Acabou, SWEETHEART...\!<br>O casamento está cancelado!\aub
+      text: Acabou, SWEETHEART...\!<br>O casamento tá cancelado!\aub
 
 message_73:
       text: N-Não! Eu não vou aceitar isso.\! Só me deixa em paz!\swh
@@ -328,7 +328,7 @@ message_73:
 #CAPT. SPACEBOY down the aisle.
 
 message_74:
-      text: \Com[2]Minha SWEETHEART!\! Oh, minha SWEETHEART!<br>Ah, Estou tão aliviado que cheguei aqui a tempo.\cap
+      text: \Com[2]Minha SWEETHEART!\! Oh, minha SWEETHEART!<br>Ah, estou tão aliviado que cheguei aqui a tempo.\cap
 
 message_75:
       text: Você tem que parar com essa loucura agora!\cap
@@ -348,7 +348,7 @@ message_79:
       text: \sinv[1]Oh, SWEETHEART!\! Minha, SWEETHEART!\!<br>Minha doce rosquinha recheada de geleia!\cap
 
 message_80:
-      text: Por favor, olhe dentro do seu coração me dê outra chance.\cap
+      text: Por favor, olhe dentro do seu coração e me dê outra chance.\cap
 
 message_81:
       text: Eu não devia ter te deixado esperando todos esses dias.\cap
@@ -362,7 +362,7 @@ message_83:
 #CAPT. SPACEBOY holds up ring, gets on his knees and pulls out a ring.
 
 message_84:
-      text: \{\sinv[1]CASE COMIGO, SWEETHEART!!\}<br>Aqui neste mesmo palco!\cap
+      text: \{\sinv[1]CASE COMIGO, SWEETHEART!!\}<br>Aqui mesmo neste palco!\cap
 
 message_85:
       text: Oh... minha nossa!\! Isso... Isso foi tão derrepente!\!<br>Quão...\! Quão...\! Quão...\! \Com[2]\sinv[1]Quão romântico!\swh
@@ -396,7 +396,7 @@ message_93:
 #SWEETHEART and SPACEHUSBAND kiss.
 
 message_94:
-      text: \sinv[1]Oh SWEETHEART...\!<br>Vamos viajar através do universo tudo...<br>e deixar tudo isso para trás!\n<MARIDO ESPACIAL>
+      text: \sinv[1]Oh SWEETHEART...\!<br>Vamos viajar através do universo todo...<br>e deixar tudo isso para trás!\n<MARIDO ESPACIAL>
 
 message_96:
       text: \sinv[1]Sim! Sim, meu marido!<br>\!Eu irei a qualquer lugar desde que seja com você!\swh
@@ -405,7 +405,7 @@ message_97:
       text: Vamos sair daqui, minha SWEETHEART!<br>Estivemos separados por muito tempo.\n<MARIDO ESPACIAL>
 
 message_98:
-      text: Venha, minha nave!\n<MARIDO ESPACIAL>
+      text: Venha pra minha nave!\n<MARIDO ESPACIAL>
 
 message_99:
       text: Sim! É claro, meu querido!\!<br>Mas primeiro...\! tem uma última coisa que tenho que fazer.\swh
