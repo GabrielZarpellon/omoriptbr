@@ -12,7 +12,7 @@ message_0:
 message_1:
       faceset: MainCharacters_Faraway
       faceindex: 19
-      text: Acho que não tem muito o que fazer por esses subúrbios, huh?\kel
+      text: Acho que não tem muito o que fazer por esses subúrbios, hã?\kel
 
 message_2:
       faceset: MainCharacters_Faraway
@@ -49,7 +49,7 @@ message_21:
 message_22:
       faceset: MainCharacters_Faraway
       faceindex: 18
-      text: Uh-oh...\! Tem alguma comoção rolando ali.\kel
+      text: Oh não...\! Tem alguma comoção rolando ali.\kel
 
 #KEL walks up.
 
@@ -94,12 +94,12 @@ message_28:
 #KIM talking:
 
 message_29:
-      text: Huh?\! Quem tá ai?\who
+      text: Hã?\! Quem tá ai?\who
 
 #KIM is frustrated.
 
 message_30:
-      text: Oh, é só o KEL...\! Resmungo, resmungo...\who
+      text: Ah, é só o KEL...\! Resmungo, resmungo...\who
 
 message_31:
       text: Por que você não vai cuidar da sua vida?\who
@@ -135,7 +135,7 @@ message_37:
 message_38:
       faceset: MainCharacters_Faraway
       faceindex: 23
-      text: Para de mexer com o BASIL!\! Como você pode!?\!<br>A gente costumava ser amigos, você não lembra?\!<br>Conta pra ela, \n[8]!\kel
+      text: Para de mexer com o BASIL!\! Como você pode!?\!<br>A gente costumava ser amigos, você não lembra?\!<br>Fala pra ela, \n[8]!\kel
 
 #AUBREY is surprised.
 
@@ -149,12 +149,12 @@ message_39:
 message_40:
       faceset: MainCharacters_Faraway
       faceindex: 0
-      text: Wow, é você mesmo.\!<br>Faz um tempo, mas você não mudou nem um pouco.\aub
+      text: Uau, é você mesmo.\!<br>Faz um tempo, mas você não mudou nem um pouco.\aub
 
 message_41:
       faceset: MainCharacters_Faraway
       faceindex: 10
-      text: Quanto tempo faz desde que você saiu de casa?\!<br>Três anos...?\! Talvez quatro?\!<br>Deve ter sido legal viver na sua pequena bolhinha.\aub
+      text: Quanto tempo faz desde que cê saiu de casa?\!<br>Três anos...?\! Talvez quatro?\!<br>Deve ter sido legal viver na sua pequena bolhinha.\aub
 
 message_42:
       faceset: MainCharacters_Faraway
@@ -176,7 +176,7 @@ message_44:
 message_45:
       faceset: MainCharacters_Faraway
       faceindex: 23
-      text: Hey, para com isso!\kel
+      text: Ei, para com isso!\kel
 
 #KEL attempts to run to KIM, but AUBREY blocks his path.
 
@@ -188,7 +188,7 @@ message_46:
 message_47:
       faceset: MainCharacters_Faraway
       faceindex: 23
-      text: O que deu de errado com você, AUBREY!?\kel
+      text: O que deu de errado em você, AUBREY!?\kel
 
 message_48:
       faceset: MainCharacters_Faraway
@@ -203,7 +203,7 @@ message_49:
 message_50:
       faceset: MainCharacters_Faraway
       faceindex: 11
-      text: Tá, porque não?\!<br>Vocês dois contra mim! O que acha?\!<br>\Com[2]Vem pra cima!\! Eu aguento os dois!\aub
+      text: Tá, porque não?\!<br>Vocês dois contra mim! O que acham?\!<br>\Com[2]Vem pra cima!\! Eu aguento os dois!\aub
 
 # =========================================================================================
 # Cutscene: Fake Knife Fight
@@ -220,10 +220,10 @@ message_70:
 message_71:
       faceset: MainCharacters_Faraway
       faceindex: 6
-      text: E-Eu to bem...\aub
+      text: E-Eu tô bem...\aub
 
 message_72:
-      text: Não, Você não tá! Você tá sangrando!\!<br>Vamo, a gente tem que te tirar daqui!\kim
+      text: Não, você não tá! Você tá sangrando!\!<br>Vamo, a gente tem que te tirar daqui!\kim
 
 message_73:
       faceset: MainCharacters_Faraway
@@ -235,7 +235,7 @@ message_73:
 message_74:
       faceset: MainCharacters_Faraway
       faceindex: 19
-      text: Whoa, isso tava prestes a ficar feio.\!<br>Que bom que você tinha aquela faca se não-\kel
+      text: Nossa, isso tava prestes a ficar feio.\!<br>Que bom que você tinha aquela faca se não-\kel
 
 message_75:
       faceset: MainCharacters_Faraway
@@ -253,7 +253,7 @@ message_77:
 message_78:
       faceset: MainCharacters_Faraway
       faceindex: 19
-      text: Ai ai...\! AUBREY mudou muito depois da ultima vez que você viu ela.\!<br>Ela e os novos amigos dela não são nada além de problemas.\kel
+      text: Ai ai...\! A AUBREY mudou muito depois da última vez que cê viu ela.\!<br>Ela e os novos amigos dela são só problema.\kel
 
 #KEL looks at BASIL.
 
@@ -296,7 +296,7 @@ message_103:
 message_104:
       faceset: MainCharacters_Faraway
       faceindex: 14
-      text: \{\sinv[1]WOO-HOO!\! QUE REUNIÃO FELIZ!!\kel\}
+      text: \{\sinv[1]UUU-HUL!\! QUE ENCONTRO FELIZ!!\kel\}
 
 message_105:
       faceset: MainCharacters_Faraway
@@ -311,7 +311,7 @@ message_106:
 message_107:
       faceset: MainCharacters_Faraway
       faceindex: 17
-      text: Huh? Sério? Você tem certeza?\kel
+      text: Hã? Sério? Você tem certeza?\kel
 
 message_108:
       faceset: MainCharacter_Basil
@@ -321,12 +321,12 @@ message_108:
 message_109:
       faceset: MainCharacters_Faraway
       faceindex: 19
-      text: Oh, Desculpe ouvir isso.\kel
+      text: Oh, sinto muito.\kel
 
 message_110:
       faceset: MainCharacters_Faraway
       faceindex: 12
-      text: Deixa a gente pelo menos te levar pra casa.\!<br>Faz tanto tempo dês de que a gente saiu junto!\kel
+      text: Deixa a gente pelo menos te levar pra casa.\!<br>Faz muito tempo que a gente não sai juntos!\kel
 
 message_111:
       faceset: MainCharacter_Basil
