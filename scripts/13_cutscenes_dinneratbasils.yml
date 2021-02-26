@@ -10,7 +10,7 @@
 message_0:
       faceset: MainCharacters_Faraway
       faceindex: 23
-      text: Você viu aquilo?<br>AUBREY acabou de jogar algo no lixo!\! <br>Vamos dar uma olhada.\kel
+      text: Você viu aquilo?<br>A AUBREY acabou de jogar algo no lixo!\! <br>Vamo dar uma olhada.\kel
 
 # =========================================================================================
 # Cutscene: Album Get
@@ -19,19 +19,19 @@ message_0:
 message_20:
       faceset: MainCharacters_Faraway
       faceindex: 17
-      text: \Com[2]Whoa! Eu não acredito!\! é o \c[4]ÁLBUM DE FOTOS\c[0] do BASIL.\kel
+      text: \Com[2]Eita! Eu não acredito!\! É o \c[4]ÁLBUM DE FOTOS\c[0] do BASIL.\kel
 
 #KEL puts hand behind head.
 
 message_21:
       faceset: MainCharacters_Faraway
       faceindex: 19
-      text: Eu não acredito que ela só jogaria fora assim.\!<br>Que bom que a gente olhou dentro dessa lata de lixo.\kel
+      text: Eu não acredito que ela só jogaria fora assim.\!<br>Que bom que a gente checou essa lixeira.\kel
 
 message_22:
       faceset: MainCharacters_Faraway
       faceindex: 12
-      text: Vamos devolver isso ao BASIL antes que escureça.\! Ele vai ficar tão feliz quando ver!\kel
+      text: Vamos devolver isso pro BASIL antes que escureça.\! Ele vai ficar tão feliz quando ver!\kel
 
 message_23:
       text: Você pegou o \c[4]ÁLBUM DE FOTOS\c[0] do BASIL.
@@ -59,7 +59,7 @@ message_42:
       text: Oi, BASIL-\! Ah, espera.\! Você não é o BASIL...\kel
 
 message_43:
-      text: Ah, Me desculpe! Meu nome é POLLY.\! <br>Eu sou babá do BASIL.\n<POLLY>
+      text: Ah, me desculpe! Meu nome é POLLY.\! <br>Eu sou babá do BASIL.\n<POLLY>
 
 #BASIL runs in POLLY's way.
 
@@ -76,13 +76,13 @@ message_45:
 message_46:
       faceset: MainCharacter_Basil
       faceindex: 33
-      text: \com[2]H-Huh? Você pegou?\! Wow...\! Obrigado.\bas
+      text: \com[2]H-Hã? Vocês pegaram?\! Uau...\! Obrigado.\bas
 
 message_47:
       text: Você devolveu ao BASIL seu \c[4]ÁLBUM DE FOTOS\c[0].
 
 message_48:
-      text: BASIL! Você não me disse que tinha amigos vindo.\!<br>Gostariam de se juntar a nós para o jantar?\! <br>Parece que eu sempre cozinho mais que o necessário.\n<POLLY>
+      text: BASIL! Você não me disse que tinha amigos vindo.\!<br>Gostariam de se juntar a nós pro jantar?\! <br>Parece que eu sempre cozinho mais que o necessário.\n<POLLY>
 
 message_49:
       faceset: MainCharacters_Faraway
@@ -106,34 +106,34 @@ message_50:
 message_51:
       faceset: MainCharacters_Faraway
       faceindex: 14
-      text: Wow, faz um tempo desde que eu estive aqui.\! <br>Você definitivamente tem mais plantas do que costumava ter!\kel
+      text: Uau, faz um tempo desde que eu estive aqui.\! <br>Você definitivamente tem mais plantas do que costumava ter!\kel
 
 message_52:
       faceset: MainCharacter_Basil
       faceindex: 33
-      text: Ahh...\! Sim. Eu gosto muito delas.\! Na verdade, tem umas que ainda estão vivas de quando vocês vieram mais frequentemente.\bas
+      text: Ahh...\! Sim. Eu gosto muito delas.\! Na verdade, tem umas que ainda estão vivas de quando vocês vinham mais frequentemente.\bas
 
 message_53:
       faceset: MainCharacters_Faraway
       faceindex: 14
-      text: Wow, você realmente é dedicado.\kel
+      text: Uau, você realmente é dedicado.\kel
 
 message_54:
       faceset: MainCharacters_Faraway
       faceindex: 12
-      text: Poisé, esse é o nosso BASIL...\! Flores e fotos...\kel
+      text: Pois é, esse é o nosso BASIL...\! Flores e fotos...\kel
 
 #KEL has an idea.
 
 message_55:
       faceset: MainCharacters_Faraway
       faceindex: 17
-      text: Oh, isso me lembra!\! Agora que temos o seu <br>\c[4]ÁLBUM DE FOTOS\c[0] de volta, nós podemos <br>olhar as fotos juntos.\kel
+      text: Ah, isso me lembra!\! Agora que temos o seu <br>\c[4]ÁLBUM DE FOTOS\c[0] de volta, nós podemos <br>olhar as fotos juntos.\kel
 
 message_56:
       faceset: MainCharacter_Basil
       faceindex: 35
-      text: \com[2]Ah! Isso- Uh...\! Eu não sei.\bas
+      text: \com[2]Ah! Isso- Éé...\! Eu não sei.\bas
 
 message_57:
       faceset: MainCharacters_Faraway
@@ -162,14 +162,14 @@ message_60:
 message_61:
       faceset: MainCharacters_Faraway
       faceindex: 20
-      text: Talvez a AUBREY ficou com elas...\!<br>Temos que pegar de volta depois.\kel
+      text: Talvez a AUBREY tenha ficado com elas...\!<br>Temos que pegar de volta depois.\kel
 
 #KEL jumps.
 
 message_62:
       faceset: MainCharacters_Faraway
       faceindex: 14
-      text: Por outro lado, olha quão baixinho eu era. Haha!\kel
+      text: Por outro lado, olha o quão baixinho eu era. Haha!\kel
 
 message_63:
       faceset: MainCharacters_Faraway
@@ -193,7 +193,7 @@ message_65:
 message_66:
       faceset: MainCharacters_Faraway
       faceindex: 12
-      text: De qualquer forma, não se preocupe com as fotos perdidas, BASIL.\! <br>Eu e \n[8] vamos cuidar das coisas para você.\kel
+      text: De qualquer forma, não se preocupe com as fotos perdidas, BASIL.\! <br>Eu e o \n[8] vamos cuidar das coisas para você.\kel
 
 message_67:
       faceset: MainCharacters_Faraway
@@ -208,12 +208,12 @@ message_68:
 #POLLY walks to party.
 
 message_69:
-      text: Desculpe a demora... O jantar está demorando mais do que o esperado.\! <br>Algúm de vocês gostaria de ajudar?\n<POLLY>
+      text: Desculpe a demora... O jantar está demorando mais do que o esperado.\! <br>Algum de vocês gostaria de ajudar?\n<POLLY>
 
 message_70:
       faceset: MainCharacters_Faraway
       faceindex: 14
-      text: É, claro! Eu ajudo!\!<br>Eu tenho experiência ajudando meu irmão cozinhar e coisa assim.\kel
+      text: É claro! Eu ajudo!\!<br>Eu tenho experiência ajudando meu irmão cozinhar e tals.\kel
 
 message_71:
       text: Oh, isso seria encantador.\!<br>Por favor, siga-me. A cozinha é por aqui.\n<POLLY>
@@ -254,7 +254,7 @@ message_93:
 message_94:
       faceset: MainCharacter_Basil
       faceindex: 43
-      text: VOVÓ não consegue ouvir a gente, sabe?\! <br>Ela não ta se sentindo bem ultimamente...\bas
+      text: A VOVÓ não consegue ouvir a gente, sabe?\! <br>Ela não ta se sentindo bem ultimamente...\bas
 
 message_95:
       faceset: MainCharacter_Basil
@@ -276,17 +276,17 @@ message_97:
 message_98:
       faceset: MainCharacter_Basil
       faceindex: 43
-      text: É tão legal saber que você está por aqui...\! <br>mesmo que só por um tempinho.\bas
+      text: É tão legal saber que você tá por aqui...\! <br>mesmo que só por um tempinho.\bas
 
 message_99:
       faceset: MainCharacter_Basil
       faceindex: 33
-      text: Aqui.\! Leve o meu \c[4]ÁLBUM DE FOTOS\c[0]...\! Quero que você fique com ele.\bas
+      text: Aqui.\! Leva o meu \c[4]ÁLBUM DE FOTOS\c[0]...\! Quero que você fique com ele.\bas
 
 message_100:
       faceset: MainCharacter_Basil
       faceindex: 33
-      text: Eu estou confiando ele a você, ok?\! Eu só acho que... você provavelmente usa mais que eu.\bas
+      text: Eu estou confiando ele a você, ok?\! Eu só acho que... você provavelmente vai usar mais que eu.\bas
 
 message_101:
       text: BASIL te deu seu \c[4]ÁLBUM DE FOTOS\c[0].
@@ -299,12 +299,12 @@ message_103:
 message_106:
       faceset: MainCharacter_Basil
       faceindex: 43
-      text: É difícil lembrar agora, mas...\! Eu acho...\! Que na hora...\! <br>Que tirei as fotos do que eu tinha mais medo de perder.\bas
+      text: É difícil lembrar agora, mas...\! Eu acho...\! Que na hora...\! <br>Eu tirei as fotos do que eu mais tinha medo de perder.\bas
 
 message_107:
       faceset: MainCharacter_Basil
       faceindex: 33
-      text: Folheando esse álbum, você vê os bons momentos...\! Talvez um dia...\! as coisas podem voltar pro jeito que eram antes.\bas
+      text: Folheando esse álbum, da pra ver bons momentos...\! Talvez um dia...\! as coisas possam voltar pro jeito que eram antes.\bas
 
 message_108:
       text: \sinv[1]\Com[2]\{\n[8]!\! BASIL!!\! JANTAR TÁ PRONTO!!\kel
@@ -329,7 +329,7 @@ message_120:
       text: Tudo tem um gosto tão bom!\! Você é a melhor, POLLY!\kel
 
 message_121:
-      text: Oh, não foi nada... Só estou seguindo as receitas da VOVÓ.\! <br>Obrigado pela ajuda, KEL.\n<POLLY>
+      text: Oh, não foi nada... Só tô seguindo as receitas da VOVÓ.\! <br>Obrigado pela ajuda, KEL.\n<POLLY>
 
 #KEL grabs food and starts to eat.
 
@@ -368,29 +368,29 @@ message_127:
 message_128:
       faceset: MainCharacter_Basil
       faceindex: 33
-      text: A-Ah...\! Eu...\! Eu dei pra ele.\! <br>Eu pensei que ele devia ficar com ele.\bas
+      text: A-Ah...\! Eu...\! Eu dei pra ele.\! <br>Eu acho que ele deveria ficar com ele.\bas
 
 message_129:
       faceset: MainCharacters_Faraway
       faceindex: 24
-      text: Whoa, sério?\! nham...\! Isso é tão legal da sua parte.\! Faz sentido...\! <br>nham...\! especialmente já que o \n[8] tá se mudando e tudo mais.\kel
+      text: Nossa, sério?\! nham...\! Isso é tão legal da sua parte.\! Faz sentido...\! <br>nham...\! especialmente já que o \n[8] tá se mudando e tudo mais.\kel
 
 #BASIL drops his fork.
 
 message_130:
       faceset: MainCharacter_Basil
       faceindex: 33
-      text: O-O que?\! ...\! \n[8] tá...\! s-se mudando...?\bas
+      text: O-O quê?\! ...\! \n[8] tá...\! s-se mudando...?\bas
 
 message_131:
       faceset: MainCharacters_Faraway
       faceindex: 24
-      text: Ah é!\! Eu pensei que já tinha mencionado...\! nham...\! <br>Eu devo ter esquecido.\! nham...\! Ele tá se mudando em...\! três dias, <br>Eu acho?\! nham...\! Desculpa... Pensei que já soubesse.\kel
+      text: Ah é!\! Eu pensei que já tinha falado...\! nham...\! <br>Eu devo ter esquecido.\! nham...\! Ele tá se mudando em...\! três dias, <br>Eu acho?\! nham...\! Desculpa... Pensei que já soubesse.\kel
 
 message_132:
       faceset: MainCharacter_Basil
       faceindex: 36
-      text: A-Ah...\! Uh...\! Não, Eu acho que devo ter perdido...\bas
+      text: A-Ah...\! Éé...\! Não, eu acho que eu não ouvi...\bas
 
 message_133:
       faceset: MainCharacter_Basil
@@ -408,10 +408,10 @@ message_134:
 message_135:
       faceset: MainCharacters_Faraway
       faceindex: 24
-      text: Qual é a dele?\! nham...\! <br>Bem...\! é assim que é.\!<br>Quando cê tem que ir, cê vai!\kel
+      text: Qual é a dele?\! nham...\! <br>Bem...\! é assim que funciona.\!<br>Quando cê tem que ir, cê vai!\kel
 
 message_136:
-      text: \n<POLLY>BASIL tá indo muito ao banheiro recentemente.\!<br>Espero que não seja minha comida...
+      text: \n<POLLY>O BASIL tá indo muito ao banheiro recentemente.\!<br>Espero que não seja minha comida...
 
 # =========================================================================================
 # Cutscene: There's Something Behind You
@@ -431,7 +431,7 @@ message_150:
 message_151:
       faceset: MainCharacter_Basil_dark
       faceindex: 33
-      text: A-ah... É você...\! \n[8]...\! Você tá aqui...\! Estou tão aliviado...\bas
+      text: A-ah... É você...\! \n[8]...\! Você tá aqui...\! Eu tô tão aliviado...\bas
 
 message_153:
       faceset: MainCharacter_Basil_dark
@@ -461,7 +461,7 @@ message_170:
 message_171:
       faceset: MainCharacters_Faraway
       faceindex: 14
-      text: Então é...\! <br>De qualquer forma, POLLY, se precisar de mim, aqui é o meu endereço.\!<br>Eu moro descendo o quarteirão!\kel
+      text: Então é...\! <br>De qualquer forma, POLLY, se precisar de mim, aqui tá meu endereço.\!<br>Eu moro aqui descendo o quarteirão!\kel
 
 message_172:
       text: Obrigado, KEL. Você é um querido.\n<POLLY>
@@ -469,7 +469,7 @@ message_172:
 message_173:
       faceset: MainCharacters_Faraway
       faceindex: 15
-      text: Heh, heh... Ah, não foi nada.\!<br>Diz tchau pro BASIL por mim!\kel
+      text: Heh, heh... Ah, não foi nada.\!<br>Diga tchau pro BASIL por mim!\kel
 
 message_174:
       faceset: MainCharacters_Faraway
@@ -499,7 +499,7 @@ message_192:
 message_193:
       faceset: MainCharacter_Basil_dark
       faceindex: 11
-      text: De qualquer forma, HERO volta da faculdade amanhã, então eu tenho certeza que ele vai querer te ver.\kel
+      text: De qualquer forma, o HERO volta da faculdade amanhã, então eu tenho certeza que ele vai querer te ver.\kel
 
 message_194:
       faceset: MainCharacter_Basil_dark
@@ -517,7 +517,7 @@ message_300:
       text: \n<VOVÓ DO BASIL>\}BASIL...\| É você?
 
 message_301:
-      text: VOVÓ DO BASIL está respirando firmemente.
+      text: A VOVÓ DO BASIL está respirando firmemente.
 
 
 #=======
