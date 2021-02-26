@@ -7,7 +7,7 @@ message_1:
       text: \n<IRMÃO BROTOPEIRA>Ei, você aí!\! Vocês parecem ser viajantes de longa data...\! Poderiam me fazer um favor?\! Meu irmão vive na \c[11]COLÔNIA BROTOPEIRA\c[0] em \c[11]O OUTRO-MUNDO\c[0].
 
 message_2:
-      text: \n<IRMÃO BROTOPEIRA>Eu quero enviar para ele um \c[4]PACOTE DE AJUDA\c[0], mas...\! tenho medo que o pacote se perca.\! Vocês poderiam entregar esse pacote para ele?
+      text: \n<IRMÃO BROTOPEIRA>Eu quero enviar pra ele um \c[4]PACOTE DE AJUDA\c[0], mas...\! tenho medo que o pacote se perca.\! Vocês poderiam entregar esse pacote pra ele?
 
 #[Nod/Shake]
 #[Nod]
@@ -27,7 +27,7 @@ message_5:
 #Talk to Sprout Mole 1
 
 message_6:
-      text: \n<IRMÃO BROTOPEIRA>Huh?\! O que é isso?\! Um pacote para mim?
+      text: \n<IRMÃO BROTOPEIRA>Huh?\! O que é isso?\! Um pacote pra mim?
 
 message_7:
       text: Você entregou o \c[4]PACOTE DE AJUDA\c[0] para o IRMÃO BROTOPEIRA.
@@ -50,7 +50,7 @@ message_11:
 
 #Talk to Family Mole 1
 message_12:
-      text: \n<IRMÃO BROTOPEIRA>Você entregou o pacote?<br>\!Tem um ano de \c[3]TOFU\c[0] dentro!\!<br>Tenho certeza que ele vai adorar.\! Cara, sinto falta dele...
+      text: \n<IRMÃO BROTOPEIRA>Você entregou o pacote?<br>\!Tem \c[3]TOFU\c[0] pra um ano inteiro lá dentro!\!<br>Tenho certeza que ele vai adorar.\! Cara, sinto falta dele...
 
 #Talk to Sprout Mole 1
 message_13:

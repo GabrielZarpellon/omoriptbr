@@ -64,7 +64,7 @@ message_37:
     text: \tvgAgora, se vocês me permitem, eu tenho negócios importantes para atender.
 
 message_29:
-    text: \n<MÁQUINA DE CAFÉ>V-V-V-Você está agora fazendo \c[3]CAFÉ\c[0]!\!<br>Vai estar pronto após a pausa para os comerciais!
+    text: \n<MÁQUINA DE CAFÉ>V-V-V-Você está fazendo \c[3]CAFÉ\c[0]!\!<br>Vai estar pronto após a pausa para os comerciais!
 
 message_30:
     text: \n<MÁQUINA DE CAFÉ>\Com[2]\{\Sinv[1]P-P-P-PARABÉNS!!\!\Sinv[1]\}<br>O seu \c[3]CAFÉ\c[0] está pronto!
@@ -85,7 +85,7 @@ message_35:
     text: Uma MÁQUINA DE CAFÉ quebrada.
 
 message_36:
-    text: Você obteve um \c[3]CAFÉ\c[0].
+    text: Você conseguiu um \c[3]CAFÉ\c[0].
 
 message_38:
-    text: Você obteve uma \c[4]LISTA ESTRANHA\c[0].
+    text: Você recebeu uma \c[4]LISTA ESTRANHA\c[0].

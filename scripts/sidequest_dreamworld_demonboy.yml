@@ -13,7 +13,7 @@ message_1:
 #Examine Interesting book
 
 message_2:
-      text: Você obteve um \c[4]LIVRO INTERESSANTE\c[0]!\!<br>É...\! interessante...
+      text: Você conseguiu um \c[4]LIVRO INTERESSANTE\c[0]!\!<br>É...\! interessante...
 
 #Talk to DEMI
 
