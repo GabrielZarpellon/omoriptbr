@@ -5,7 +5,7 @@
 message_0:
       faceset: MainCharacters_DreamWorld
       faceindex: 28
-      text: Ahhh, cara!<br>Parece que tem um grande bloco de ferraria no caminho!\kel
+      text: Ahhh, cara!<br>Pelo visto tem um grande bloco de ferraria no caminho!\kel
 
 message_1:
       faceset: MainCharacters_DreamWorld
@@ -20,7 +20,7 @@ message_2:
 message_3:
       faceset: MainCharacters_DreamWorld
       faceindex: 0
-      text: Ei OMORI, Sabe quando você corta raízes e cones? \!Bem, você não é o único que tem uma habilidade especial!\aub
+      text: Ei OMORI, sabe quando você corta raízes e cones? \!Bem, você não é o único que tem uma habilidade especial!\aub
 
 message_4:
       faceset: MainCharacters_DreamWorld
@@ -65,12 +65,12 @@ message_31:
 message_32:
       faceset: MainCharacters_DreamWorld
       faceindex: 10
-      text: Você não pode simplesmente mandar nas pessoas, KEL!\!<br>Poxa! Tenha um pouco de educação, não?\aub
+      text: Você não pode simplesmente mandar nas pessoas, KEL!\!<br>Poxa! Tenha um pouco de educação, né?\aub
 
 message_33:
       faceset: MainCharacters_DreamWorld
       faceindex: 37
-      text: Calma lá... Não há por que discutirem.\! Deixa essa comigo!\her
+      text: Calma lá... Não tem porque discutirem.\! Deixa essa comigo!\her
 
 message_34:
       faceset: MainCharacters_DreamWorld
@@ -88,7 +88,7 @@ message_36:
 message_37:
       faceset: MainCharacters_DreamWorld
       faceindex: 37
-      text: Calma lá... Não há por que discutirem.\! Deixa essa comigo!\!<br>PASSE para mim, OMORI!\her
+      text: Calma lá... Não tem porque discutirem.\! Deixa essa comigo!\!<br>PASSE para mim, OMORI!\her
 # =========================================================================================
 # Cutscene: Hero's CHARM Tag Skill (Cont.)
 # =========================================================================================
@@ -113,14 +113,14 @@ message_51:
 message_52:
       faceset: MainCharacters_DreamWorld
       faceindex: 37
-      text: Eu não tenho que adivinhar, EMS!\!<br>Tudo é seu favorito.\her
+      text: Eu não preciso adivinhar, EMS!\!<br>Tudo é seu favorito.\her
 
 #HERO turns to party.
 
 message_53:
       faceset: MainCharacters_DreamWorld
       faceindex: 36
-      text: Pessoal, essa é a EMILY a hamster, mas eu chamo ela de EMS!\!<br>Ela é uma boa amiga minha.\her
+      text: Pessoal essa é a EMILY, a hamster, mas eu chamo ela de EMS!\!<br>Ela é uma boa amiga minha.\her
 
 message_54:
       faceset: MainCharacters_DreamWorld
@@ -170,7 +170,7 @@ message_62:
 message_80:
       faceset: MainCharacters_DreamWorld
       faceindex: 4
-      text: Aff...\! Como é que devemos encontrar algo aqui!?\!<br>Tem muita quinquilharia!\aub
+      text: Aff...\! Como é que vamos encontrar algo aqui!?\!<br>Tem muito lixo!\aub
 
 message_81:
       faceset: MainCharacters_DreamWorld
@@ -181,7 +181,7 @@ message_82:
       text: \sinv[2]\{\Com[2]OHOH\{OHOH\{OHOH\{OHOH~!!\who
 
 message_83:
-      text: Finalmente, Eu encontrei o que eu queria.\who
+      text: Finalmente, eu encontrei o que eu queria.\who
 
 message_84:
       text: Depois de incontáveis horas de ficar cavando e cavando...\!<br>Esta única, ultra-exclusiva \c[4]MIXTAPE ESPECIAL\c[0] finalmente pertence à mim!\who
@@ -190,7 +190,7 @@ message_85:
       text: ROSA!\! A fã \#1 da SWEETHEART no mundo inteiro!\ros
 
 message_86:
-      text: Com esta única adição à minha coleção,<br>Eu vou finalmente ultrapassar esses fãs posers metidos à besta.\ros
+      text: Com esta única adição à minha coleção,<br>eu vou finalmente ultrapassar esses fãs posers metidos à besta.\ros
 
 message_87:
       text: Espere...\! sniff...\! Oh, não!\! <br>Essa \c[4]MIXTAPE ESPECIAL\c[0]...\! cheira que nem caca.\!<br>Sniff... sniff...\! Oh, não!\! Eu cheiro que nem caca!\ros
@@ -203,7 +203,7 @@ message_88:
 message_89:
       faceset: MainCharacters_DreamWorld
       faceindex: 16
-      text: \sinv[1]Oh yeahhh\}hhhh\}hhh...\sinv[0]\kel\}
+      text: \sinv[1]Pode cree\}eeee\}eerr...\sinv[0]\kel\}
 
 message_90:
       faceset: MainCharacters_DreamWorld
@@ -211,7 +211,7 @@ message_90:
       text: Vamos lá pegar!\kel
 
 message_91:
-      text: \Com[2]Eu posso ouvir tudo o que vocês tão dizendo, viu!\!<br>Como eu suspeitava, possuir algo tão valioso já está me causando problemas.\ros
+      text: \Com[2]Eu posso ouvir tudo o que cês tão dizendo, viu!\!<br>Como eu suspeitava, possuir algo tão valioso já tá me causando problemas.\ros
 
 message_92:
       text: \sinv[2]\{\Com[2]OHOH\{OHOH\{OHOH\{OHOH~!!\ros\sinv[0]
@@ -228,10 +228,10 @@ message_95:
       text: Ei! A gente não veio até aqui pra nada!\!<br>Se não nos der essa \c[4]MIXTAPE ESPECIAL\c[0], nós teremos que tomar à força!\kel
 
 message_96:
-      text: \Com[2]\{\quake[1]EEEEEK!! QUE COISA MAIS SELVAGEM!!\quake[0]\}\!<br>Violência nunca resolveu nada, sabe.\ros
+      text: \Com[2]\{\quake[1]EEEEEH!! QUE COISA MAIS SELVAGEM!!\quake[0]\}\!<br>Violência nunca resolve nada, sabe.\ros
 
 message_97:
-      text: Hmf!\! Eu sou muito refinada para essas bobagens.\!<br>Adeus, meros peões... e te vejo nunca mais!\ros
+      text: Hmf!\! Eu sou muito refinada para essas bobagens.\!<br>Adeus, meros peões... e vejo vocês nunca mais!\ros
 
 #ROSA runs off screen
 
@@ -319,7 +319,7 @@ message_147:
       text: Oh, sua criança ignorante.\!<br>Não ouviu as últimas notícias?\ros
 
 message_148:
-      text: Uma fonte confiável me disse que o <br>NAMORADO ESPACIAL e SWEETHEART já se separaram faz tempo!\ros
+      text: Uma fonte confiável me disse que o <br>NAMORADO ESPACIAL e a SWEETHEART já se separaram faz tempo!\ros
 
 message_149:
       text: Por que você acha que essa \c[4]MIXTAPE ESPECIAL\c[0] tá fazendo no \c[11]FERRO-VELHO\c[0] hein?\! Porque foi o NAMORADO ESPACIAL que a jogou aqui!\ros
@@ -332,7 +332,7 @@ message_150:
 message_151:
       faceset: MainCharacters_DreamWorld
       faceindex: 4
-      text: Mas se o NAMORADO ESPACIAL e a SWEETHEART não estão mais juntos, como é que nós vamos acordar ele agora?\aub
+      text: Mas se o NAMORADO ESPACIAL e a SWEETHEART não estão mais juntos, como é que vamos acordar ele agora?\aub
 
 message_152:
       faceset: MainCharacters_DreamWorld
@@ -345,7 +345,7 @@ message_153:
 message_154:
       faceset: MainCharacters_DreamWorld
       faceindex: 26
-      text: \com[2]Espera um pouco!\! Como que a gente pode saber se você não está mentindo?\! Você só pode tá querendo essa \c[4]MIXTAPE ESPECIAL\c[0] de volta!\kel
+      text: \com[2]Espera um pouco!\! Como que a gente sabe se você não tá mentindo?\! Você só pode tá querendo essa \c[4]MIXTAPE ESPECIAL\c[0] de volta!\kel
 
 message_155:
       text: Bem...\! Eu...\! \Com[2]nunca!\!<br>Eu posso ser rude e pretensiosa, mas não uma mentirosa!\ros
