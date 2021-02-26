@@ -11,7 +11,7 @@ message_1:
       text: Você lembra de mim?\! É o seu velho amigo, KEL!\who
 
 message_2:
-      text: Então, Eu...\! uh...\! Eu percebi a placa de “À VENDA” na frente da sua casa...\! e Eu...\! err...\! ouvi da minha mãe que você tá se mudando.\kel
+      text: Então, eu...\! éé...\! Eu percebi a placa de “À VENDA” na frente da sua casa...\! e eu...\! err...\! ouvi da minha mãe que você tá se mudando.\kel
 
 message_3:
       text: Eu tava me perguntando...\! se você queria sair mais uma vez antes de se mudar... ou sei lá...\! pelos velhos tempos, sabe?\kel
@@ -51,7 +51,7 @@ message_6:
 message_11:
       faceset: MainCharacters_Faraway
       faceindex: 17
-      text: \Com[2]Whoa, você veio mesmo!\kel
+      text: \Com[2]Nossa, você veio mesmo!\kel
 
 message_12:
       faceset: MainCharacters_Faraway
@@ -63,7 +63,7 @@ message_12:
 message_13:
       faceset: MainCharacters_Faraway
       faceindex: 18
-      text: Ok, Eu vou ser honesto com você, \n[8].\! <br>Eu realmente não esperava você sair hoje, então eu não tenho uma ideia do que fazer.\kel
+      text: Ok, eu vou ser honesto com você, \n[8].\! <br>Eu realmente não esperava você sair hoje, então eu não tenho ideia do que fazer.\kel
 
 message_14:
       faceset: MainCharacters_Faraway
@@ -73,12 +73,12 @@ message_14:
 message_15:
       faceset: MainCharacters_Faraway
       faceindex: 12
-      text: Hey, Eu sei! Vamos ao \c[11]HOBBEEZ\c[0]!\!<br>É a loja de hobbies do \c[11]PRAÇA TÃO-DISTANTE\c[0].\kel
+      text: Ei, eu sei! Vamos ao \c[11]HOBBEEZ\c[0]!\!<br>É a loja de hobbies da \c[11]PRAÇA TÃO-DISTANTE\c[0].\kel
 
 message_16:
       faceset: MainCharacters_Faraway
       faceindex: 24
-      text: Você lembra do caminho, né?\!<br>A gente ia lá o tempo todo quando era criança.\kel
+      text: Você lembra do caminho, né?\!<br>A gente ia lá o tempo todo quando éramos crianças.\kel
 
 message_17:
       faceset: MainCharacters_Faraway
@@ -88,7 +88,7 @@ message_17:
 message_18:
       faceset: MainCharacters_Faraway
       faceindex: 14
-      text: \Com[2]\{LET'S GO!!\}\kel
+      text: \Com[2]\{VAMBORA!!\}\kel
 
 #Trigger: Choose [DO NOTHING]
 #Switch to original living room map
@@ -113,7 +113,7 @@ message_30:
 message_31:
       faceset: MainCharacters_Faraway
       faceindex: 21
-      text: Ugh, é... eles.\!<br>Vamos torcer que a gente não dê de cara com eles de novo.\kel
+      text: Ugh, são... eles.\!<br>Vamos torcer que a gente não dê de cara com eles de novo.\kel
 
 message_32:
       faceset: MainCharacters_Faraway
@@ -148,7 +148,7 @@ message_52:
 message_53:
       faceset: MainCharacters_Faraway
       faceindex: 14
-      text: Na verdade...\! Já que estamos aqui, eu deveria comprar um presente pro HERO.\! Ele tá na faculdade agora, ele deve voltar alguma hora amanhã.\kel
+      text: Na verdade...\! Já que estamos aqui, eu deveria comprar um presente pro HERO.\! Ele tá na faculdade agora e deve voltar alguma hora amanhã.\kel
 
 message_54:
       faceset: MainCharacters_Faraway
@@ -192,12 +192,12 @@ message_70:
 message_71:
       faceset: MainCharacters_Faraway
       faceindex: 17
-      text: Wow, que título.\kel
+      text: Uau, que título.\kel
 
 message_72:
       faceset: MainCharacters_Faraway
       faceindex: 12
-      text: HERO tinha uma cópia quando éramos crianças, <br>nosso cachorro, HECTOR, destruiu.\kel
+      text: O HERO tinha uma cópia quando éramos crianças, <br>nosso cachorro, HECTOR, destruiu.\kel
 
 message_73:
       faceset: MainCharacters_Faraway
@@ -222,7 +222,7 @@ message_76:
 message_77:
       faceset: MainCharacters_Faraway
       faceindex: 17
-      text: Droga! Esqueci minha carteira em casa...\!<br>Err...\! Pode pagar, \n[8]?\!<br>Eu te devolvo, Eu prometo.\kel
+      text: Droga! Esqueci minha carteira em casa...\!<br>Err...\! Pode pagar, \n[8]?\!<br>Eu te devolvo, eu prometo.\kel
 
 message_78:
       faceset: MainCharacters_Faraway
@@ -232,7 +232,7 @@ message_78:
 message_79:
       faceset: MainCharacters_Faraway
       faceindex: 14
-      text: Hey, CAIXA! A gente quer comprar esse livro de receitas, por favor!\kel
+      text: Ei, CAIXA! A gente quer comprar esse livro de receitas, por favor!\kel
 
 message_80:
       text: KEL! Como tá, amigão?\!<br>Faz um bom tempo desde que você veio, não é?\n<CAIXA>
@@ -262,4 +262,4 @@ message_85:
 message_100:
       faceset: MainCharacters_Faraway
       faceindex: 17
-      text: \kelClassificado pra maiores de 16 anos, né?\! Isso é muito violento pro HERO!\! Ele definitivamente não vai apreciar algo assim.
+      text: \kelClassificado pra maiores de 16 anos, né?\! Isso é muito violento pro HERO!\! Ele com certeza não vai gostar de algo assim.
