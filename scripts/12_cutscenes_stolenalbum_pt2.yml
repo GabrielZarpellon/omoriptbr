@@ -7,7 +7,7 @@
 message_0:
       faceset: MainCharacters_Faraway
       faceindex: 18
-      text: Hmmm...\! Conhecendo KIM e VANCE, eles devem estar em algum lugar por aqui.\kel
+      text: Hmmm...\! Conhecendo a KIM e o VANCE, eles devem estar em algum lugar por aqui.\kel
 
 #KEL looks around
 #KEL is surprised
@@ -15,7 +15,7 @@ message_0:
 message_1:
       faceset: MainCharacters_Faraway
       faceindex: 17
-      text: Oh hey, olha ela ali!\kel
+      text: Oh ei, olha ela ali!\kel
 
 #Camera pans to KIM and VANCE.
 
@@ -27,7 +27,7 @@ message_2:
 message_3:
       faceset: MainCharacters_Faraway
       faceindex: 17
-      text: Hey, KIM! Você viu a AUBREY por a-\kel
+      text: Ei, KIM! Você viu a AUBREY por a-\kel
 
 #KIM turns to VANCE.
 
@@ -51,10 +51,10 @@ message_7:
 message_8:
       faceset: MainCharacters_Faraway
       faceindex: 22
-      text: Hey, hey! Espera... Eu não tô aqui pra te dedurar!\! A gente só quer achar a AUBREY.\! Você sabe onde ela tá? \kel
+      text: Ei, ei! Espera... Eu não tô aqui pra te dedurar!\! A gente só quer achar a AUBREY.\! Você sabe onde ela tá? \kel
 
 message_9:
-      text: H-Huh?\! AUBREY?\! E-Eu não sei de nada disso.\! <br>E se soubesse, Eu não te contaria!\kim
+      text: H-Hã?\! AUBREY?\! E-Eu não sei de nada disso.\! <br>E se eu soubesse, eu não te contaria!\kim
 
 message_10:
       faceset: MainCharacters_Faraway
@@ -136,7 +136,7 @@ message_22:
 message_38:
       faceset: MainCharacters_Faraway
       faceindex: 17
-      text: Espera um segundo, \n[8].\! Eu acho que eu tenho uma idéia!\kel
+      text: Espera um segundo, \n[8].\! Acho que eu tenho uma ideia!\kel
 
 message_39:
       faceset: MainCharacters_Faraway
@@ -153,10 +153,10 @@ message_40:
       text: Resmungo, resmungo...\! Desculpa, VANCE.\! Sem \c[3]DOCE\c[0] hoje...\kim
 
 message_41:
-      text: Não...\! De novo não...\! Eu não sei quanto tempo Eu consigo aguentar.\! A gente vai morrer.\van
+      text: Não...\! De novo não...\! Eu não sei por quanto tempo eu consigo aguentar.\! A gente vai morrer.\van
 
 message_42:
-      text: Ai ai...\! Só vamo pra casa.\! Vamos ficar atrasados pro jantar.\kim
+      text: Ai ai...\! Só vamo pra casa.\! A gente vai se atrasar pro jantar.\kim
 
 #KEL walks up to KIM.
 
@@ -189,7 +189,7 @@ message_48:
       text: \}Pode pelo menos perguntar se ele tem um caramelo ali?\van
 
 message_49:
-      text: Para com isso, VANCE! Temos que ficar fortes!\! <br>Quando formos pra casa do Papai, a gente pode ter todo o \c[3]DOCE\c[0] que a gente quiser.\kim
+      text: Para com isso, VANCE! Temos que ser fortes!\! <br>Quando formos pra casa do papai, a gente vai ter todo o \c[3]DOCE\c[0] que a gente quiser.\kim
 
 message_50:
       text: Ok...\! Eu faço por você, maninha.\van
@@ -239,12 +239,12 @@ message_60:
       text: \{VAMOS DECIDIR COM NOSSOS PUNHOS!\kim
 
 message_61:
-      text: Se você ganhar, Eu te conto onde a AUBREY está...\! mas se a gente ganhar, você dá pra gente o saco de caramelos e nunca fala com a gente de novo.\kim
+      text: Se você ganhar, eu te conto onde a AUBREY está...\! mas se a gente ganhar, você dá pra gente o saco de caramelos e nunca fala com a gente de novo.\kim
 
 message_62:
       faceset: MainCharacters_Faraway
       faceindex: 22
-      text: Espera aí, a gente não precisa lutar!\! Se você só me dizer <br>onde ela está, Eu te dou esse saco inteiro!\kel
+      text: Espera aí, a gente não precisa lutar!\! Se você só me dizer <br>onde ela está, eu te dou esse saco inteiro!\kel
 
 message_63:
       text: Mas...\! Eu quero lutar...\!<br>\Com[2]Vamo lá! Pode vir, vocês dois!\! <br>É hora de cair no soco!\kim
@@ -271,12 +271,12 @@ message_66:
 #IF YOU Lose
 
 message_80:
-      text: \kimHmph...\! Talvez isso vai te ensinar a cuidar da sua vida.
+      text: \kimHmph...\! Talvez isso te ensine a cuidar da sua vida.
 
 message_81:
       faceset: MainCharacters_Faraway
       faceindex: 23
-      text: \kel\com[2]Espera! Não vai!\!<br>Por favor KIM...\! Eu sei que você sabe onde a AUBREY está.
+      text: \kel\com[2]Espera! Não vão!\!<br>Por favor KIM...\! Eu sei que você sabe onde a AUBREY está.
 
 message_82:
       faceset: MainCharacters_Faraway
@@ -303,7 +303,7 @@ message_90:
 #VANCE turns to KIM.
 
 message_91:
-      text: Vamo nessa, KIM... Vamo voltar pra casa.\! Tá quase na hora do jantar e a Mamãe vai ficar nervosa se a gente se atrasar.\van
+      text: Vamo nessa, KIM... Vamo voltar pra casa.\! Tá quase na hora do jantar e a mamãe vai ficar nervosa se a gente se atrasar.\van
 
 message_92:
       text: Droga... Vamo dar o fora daqui.\kim
@@ -323,14 +323,14 @@ message_95:
       text: ...\| ...\| ...\kim
 
 message_96:
-      text: AUBREY tá na \c[11]IGREJA\c[0].\! A que fica perto da casa dela.\kim
+      text: A AUBREY tá na \c[11]IGREJA\c[0].\! A que fica perto da casa dela.\kim
 
 #KEL is confused.
 
 message_97:
       faceset: MainCharacters_Faraway
       faceindex: 22
-      text: Huh?\! AUBREY tá na...\! \c[11]IGREJA\c[0]?\kel
+      text: Hã?\! AUBREY tá na...\! \c[11]IGREJA\c[0]?\kel
 
 #KIM looks at KEL and jumps.
 
@@ -340,7 +340,7 @@ message_98:
 #KIM turns back around.
 
 message_99:
-      text: Mais uma coisa, Se ela te perguntar, fala que não foi eu que contei! \!<br>Diz que foi o...\! MIKHAEL ou algo assim.\kim
+      text: Mais uma coisa, se ela te perguntar, fala que não foi eu que contei! \!<br>Diz que foi o...\! MIKHAEL ou sei lá.\kim
 
 #VANCE is worried.
 
@@ -405,7 +405,7 @@ message_121:
 message_122:
       faceset: MainCharacters_Faraway
       faceindex: 18
-      text: Eu ainda estou meio incrédulo, na verdade.\! Pode ser uma armadilha.\! <br>Eu vou abrir a porta de leve pra dar uma espiada.\kel
+      text: Eu ainda tô meio incrédulo, na verdade.\! Pode ser uma armadilha.\! <br>Eu vou abrir a porta de leve pra dar uma espiada.\kel
 
 #KEL turns to face the Church door.
 
@@ -426,7 +426,7 @@ message_124:
 message_125:
       faceset: MainCharacters_Faraway
       faceindex: 17
-      text: É, Eu me sentiria meio mal interrompendo isso.\! <br>A gente devia esperar o sermão acabar ou algo do tipo.\kel
+      text: É, eu me sentiria meio mal interrompendo isso.\! <br>A gente devia esperar o sermão acabar ou sei lá.\kel
 
 message_126:
       faceset: MainCharacters_Faraway
@@ -454,7 +454,7 @@ message_128:
 message_140:
       faceset: MainCharacters_Faraway
       faceindex: 16
-      text: Whoa! Eu não esperava que você só ia entrar assim, \n[8].\! <br>Bem...\! Agora não tem volta...\!<br>\}Vamo nessa, a gente tem que ficar quietinho.\kel
+      text: Nossa! Eu não esperava que você só ia entrar assim, \n[8].\! <br>Bem...\! Agora não tem volta...\!<br>\}Vamo nessa, a gente tem que ficar quietinho.\kel
 
 #[Trigger: PLAYER walks near AUBREY.]
 
@@ -501,7 +501,7 @@ message_164:
 message_165:
       faceset: MainCharacters_Faraway
       faceindex: 3
-      text: \}É, KEL...\! Exatamente.\! A gente era melhores amigos...\aub
+      text: \}É, KEL...\! Exatamente.\! Nós éramos melhores amigos...\aub
 
 message_166:
       faceset: MainCharacters_Faraway
@@ -521,7 +521,7 @@ message_168:
 message_169:
       faceset: MainCharacters_Faraway
       faceindex: 2
-      text: \}Quem liga no que a MARI pensa?\! a MARI morreu.\aub
+      text: \}Quem liga pro que a MARI pensa?\! A MARI morreu.\aub
 
 message_170:
       faceset: MainCharacters_Faraway
@@ -556,7 +556,7 @@ message_175:
 message_176:
       faceset: MainCharacters_Faraway
       faceindex: 19
-      text: \}Quando a MARI...\! faleceu...\! a gente tava lidando com nossas próprias coisas.\! <br>Eramos crianças.\! Era díficil!\kel
+      text: \}Quando a MARI...\! faleceu...\! a gente tava lidando com nossas próprias coisas.\! <br>Eramos crianças.\! Era difícil!\kel
 
 message_177:
       faceset: MainCharacters_Faraway
@@ -583,7 +583,7 @@ message_180:
 message_181:
       faceset: MainCharacters_Faraway
       faceindex: 4
-      text: \}É isso que o BASIL te disse!?\! Sou eu quem está o mantendo seguro.\aub
+      text: \}É isso que o BASIL te disse!?\! Eu que tô mantendo as fotos seguras.\aub
 
 message_182:
       faceset: MainCharacters_Faraway
@@ -617,7 +617,7 @@ message_186:
 message_187:
       faceset: MainCharacters_Faraway
       faceindex: 4
-      text: \}Você e o \n[8] pensam que podem só caminhar de volta na minha vida e me dizer o que fazer?\! \Com[2]Não seja tão ingênuo!\aub
+      text: \}Você e o \n[8] pensam que podem só entrar de volta na minha vida e me dizer o que fazer?\! \Com[2]Não seja tão ingênuo!\aub
 
 message_188:
       faceset: MainCharacters_Faraway
@@ -627,7 +627,7 @@ message_188:
 message_189:
       faceset: MainCharacters_Faraway
       faceindex: 2
-      text: \}Hmph...\! A AUBREY que você conhecia se foi faz tempo.\!<br>E a AUBREY que era amiga sua...\! Ela se foi faz tempo, também.\aub
+      text: \}Hmph...\! A AUBREY que você conhecia se foi faz tempo.\!<br>E a AUBREY que era amiga sua...\! Ela se foi faz tempo também.\aub
 
 message_190:
       faceset: MainCharacters_Faraway
@@ -637,7 +637,7 @@ message_190:
 message_191:
       faceset: MainCharacters_Faraway
       faceindex: 18
-      text: \}Okay, tá bom.\! Eu entendo que você tá nervosa.\!<br>Olha, se é uma desculpa que você quer, aqui.\!<br>Me desculpa, okay?\kel
+      text: \}Ok, tá bom.\! Eu entendo que você tá nervosa.\!<br>Olha, se é uma desculpa que você quer, aqui.\!<br>Me desculpa, ok?\kel
 
 message_192:
       faceset: MainCharacters_Faraway
@@ -746,7 +746,7 @@ message_209:
 
 
 message_220:
-      text: \}Ah, dês de que o pai dela saiu...\| ...\| Ela tá fora de controle...\| ...\| <br>Desrespeitosa...\| ...\| Eu sinto pena pela mãe dela...
+      text: \}Ah, dês de que o pai dela saiu...\| ...\| Ela tá fora de controle...\| ...\| <br>Desrespeitosa...\| ...\| Eu sinto pena da mãe dela...
 
 message_221:
       faceset: MainCharacters_Faraway
@@ -758,14 +758,14 @@ message_221:
 message_222:
       faceset: MainCharacters_Faraway
       faceindex: 19
-      text: Droga...\! Eu sabia que ela tava meio ferrada recentemente...\! mas Eu ainda tenho pena dela.\! Talvez isso foi uma má ideia.\kel
+      text: Droga...\! Eu sabia que ela tava meio ferrada recentemente...\! mas eu ainda tenho pena dela.\! Talvez isso tenha sido uma má ideia.\kel
 
 #After a battle
 
 message_223:
       faceset: MainCharacters_Faraway
       faceindex: 19
-      text: \kelCara... Aquela última luta me deixou cansado.\! Você tem alguns \c[5]CURATIVOS\c[0], \n[8]?\! Ou até melhor...\! Que tal uns lanches?\! Isso sempre ajuda também!
+      text: \kelCara... aquela última luta me deixou cansado.\! Você tem alguns \c[5]CURATIVOS\c[0], \n[8]?\! Ou até melhor...\! Que tal uns lanches?\! Isso sempre ajuda também!
 
 message_300:
       faceset: MainCharacters_Faraway
