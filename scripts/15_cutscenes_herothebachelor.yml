@@ -22,7 +22,7 @@ message_2:
 message_3:
       faceset: MainCharacters_DreamWorld
       faceindex: 47
-      text: H-Huh?\! Wow... Uh...\! N-Nossa obrigado! <br>E-Eu não sei o que dizer...\her
+      text: H-Hã?\! Uau... Éé...\! N-Nossa obrigado! <br>E-Eu não sei o que dizer...\her
 
 #BROTOPEIRA DE BIGODE walks up to HERO.
 
@@ -78,10 +78,10 @@ message_12:
 
 #Trigger: Examine Front Row Seats.
 message_30:
-      text: Saudaçoes, fãs da SWEETHEART.<br>Nós nos desculpamos pela interrupção.\! <br>Bem vindos de volta ao nosso programa!\smm
+      text: Saudaçoes, fãs da SWEETHEART.<br>Nós nos desculpamos pela interrupção.\! <br>Bem-vindos de volta ao nosso programa!\smm
 
 message_31:
-      text: Durante o intervalo, lamentamos informar que um trágico aqui nesse mesmo palco.\smm
+      text: Durante o intervalo, lamentamos informar que uma tragédia ocorreu aqui mesmo nesse palco.\smm
 
 #Curtain opens, revealing a portrait of SNALEY.
 
@@ -100,7 +100,7 @@ message_35:
       text: Dê as calorosas boas vindas ao CONTESTANTE \#3...\!<br>Vindo longe lá da \c[11]FLORESTA VASTA\c[0]...\!<br>É o nosso HERO em armadura reluzente!\smm
 
 message_36:
-      text: Olha isso, Gente.\!<br>HERO é um homão, com um tamanho enorme de 1,7 metros!\smm
+      text: Olha isso gente.\!<br>HERO é um homão, com um tamanho enorme de 1,7 metros!\smm
 
 #Someone whistles.
 
@@ -149,7 +149,7 @@ message_47:
       text: \sinv[2]\{\{AHHHHHHHH SIM!!\! SOU EU!!\swh
 
 message_48:
-      text: Olá, meus fãs adoráveis, estúpidos fãs!\swh
+      text: Olá, meus fãs adoráveis e estúpidos!\swh
 
 message_49:
       text: \sinv[1]Nós te amamos SWEETHEART!<br>É, você é a melhor!\n<FÃS ESTÚPIDOS ADORÁVEIS>
@@ -171,22 +171,22 @@ message_106:
 #CONTESTANT #1 is confused.
 
 message_53:
-      text: Uh...\! claro. \!Sei lá... \!Eu acho...\n<CONTESTANTE \#1>
+      text: Éé...\! claro. \!Sei lá... \!Eu acho...\n<CONTESTANTE \#1>
 
 #SMM turns to SWEETHEART.
 
 message_54:
-      text: Se fazendo de difícil, Então!\! O que você acha desta resposta, SWEETHEART?\smm
+      text: Se fazendo de difícil então!\! O que você acha desta resposta, SWEETHEART?\smm
 
 #SWEETHEART is annoyed.
 
 message_55:
-      text: Mmm... Só um metro?\! Nossa, isso é muito curto!\! <br>Enviem ele para...\! \Com[2]\c[11]A MASMORRA\C[0]!\swh
+      text: Mmm... Só um metro?\! Nossa, isso é muito baixo!\! <br>Enviem ele para...\! \Com[2]\c[11]A MASMORRA\C[0]!\swh
 
 #CONTESTANT #1 starts sweating.
 
 message_56:
-      text: Hey... O-O que você disse?\! \c[11]A M-MASMORRA\c[0]?\n<CONTESTANTE \#1>
+      text: Ei... O-O que você disse?\! \c[11]A M-MASMORRA\c[0]?\n<CONTESTANTE \#1>
 
 #Guards come out and escort CONTESTANT #1 to THE DUNGEON.
 
@@ -205,7 +205,7 @@ message_59:
 #CONTESTANT #2 is sweating.
 
 message_60:
-      text: Bem, uh...\! claro!<br>Se isso significa que eu não vou ser levado para \c[11]A MASMORRA\C[0]...\n<CONTESTANTE \#2>
+      text: Bem, éé...\! claro!<br>Se isso significa que eu não vou ser levado para \c[11]A MASMORRA\C[0]...\n<CONTESTANTE \#2>
 
 #SWEETHEART is annoyed.
 
@@ -220,7 +220,7 @@ message_62:
       text: CONTESTANTE \#3! Parece que você é o único restante.\!<br>Irei perguntar a mesma pergunta mais uma vez.<br>De novo, sem pressão.\smm
 
 message_63:
-      text: Você, HERO, concorda jurar sua fidelidade a SWEETHEART pelo resto da sua vida?\smm
+      text: Você, HERO, concorda jurar sua fidelidade à SWEETHEART pelo resto da sua vida?\smm
 
 message_64:
       faceset: MainCharacters_DreamWorld
@@ -251,7 +251,7 @@ message_69:
 message_70:
       faceset: MainCharacters_DreamWorld
       faceindex: 47
-      text: H-Huh?\! É-É...\! É HERO, moça...\her
+      text: H-Hã?\! É-É...\! É HERO, moça...\her
 
 message_71:
       text: HERO!\! \Com[2]Meu HERO!\! Nós devemos ir ao meu quarto agora mesmo!\swh
@@ -271,14 +271,14 @@ message_73:
 message_74:
       faceset: MainCharacters_DreamWorld
       faceindex: 19
-      text: Whoa! HERO vai se casar com a SWEETHEART?\!<br>Por essa eu não esperava!\kel
+      text: Nossa! HERO vai se casar com a SWEETHEART?\!<br>Por essa eu não esperava!\kel
 
 #AUBREY turns to KEL.
 
 message_75:
       faceset: MainCharacters_DreamWorld
       faceindex: 10
-      text: KEL, o que você tá dizendo!? A gente tem que ajudar ele!\aub
+      text: KEL, o que cê tá falando!? A gente tem que ajudar ele!\aub
 
 #KEL turns to AUBREY.
 
@@ -310,12 +310,12 @@ message_79:
 message_80:
       faceset: MainCharacters_DreamWorld
       faceindex: 40
-      text: Uhh... Eu não acho que ela vai me escutar.\her
+      text: Ééé... Eu não acho que ela vai me escutar.\her
 
 message_81:
       faceset: MainCharacters_DreamWorld
       faceindex: 10
-      text: \Com[2]\{SÓ FAZ LOGO!!\aub
+      text: \Com[2]\{SÓ FALA LOGO!!\aub
 
 #HERO takes a step back and turns around.
 
@@ -327,7 +327,7 @@ message_82:
 message_83:
       faceset: MainCharacters_DreamWorld
       faceindex: 44
-      text: Ok, Eu vou tentar.\her
+      text: Ok, eu vou tentar.\her
 
 #HERO turns to SWEETHEART.
 
@@ -342,7 +342,7 @@ message_85:
 message_86:
       faceset: MainCharacters_DreamWorld
       faceindex: 47
-      text: Wow, haha... Que gentil da sua parte...\! Quer dizer-\her
+      text: Uau, haha... Que gentil da sua parte...\! Quer dizer-\her
 
 message_87:
       faceset: MainCharacters_DreamWorld
@@ -352,7 +352,7 @@ message_87:
 message_88:
       faceset: MainCharacters_DreamWorld
       faceindex: 47
-      text: Ahem...\!<br>Desculpe, SWEETHEART, mas...\! Eu não...\! estou...\! interessado...\her
+      text: Ahem...\!<br>Desculpe, SWEETHEART, mas...\! eu não...\! estou...\! interessado...\her
 
 message_89:
       text: Por que... O que isso quer dizer, meu príncipe?\swh
@@ -360,7 +360,7 @@ message_89:
 message_90:
       faceset: MainCharacters_DreamWorld
       faceindex: 40
-      text:  Eu...\! uh...\! Isso é muito lisonjeante e tudo mais, mas, sabe...<br>A gente se conheceu a tipo... alguns momentos, e...\her
+      text:  Eu...\! ééé...\! Isso é muito lisonjeante e tudo mais, mas, sabe...<br>A gente se conheceu a tipo... alguns minutos, e...\her
 
 message_91:
       faceset: MainCharacters_DreamWorld
@@ -370,7 +370,7 @@ message_91:
 #Audience gasps.
 
 message_92:
-      text: Oh, que ridículo! Ah, não seja bobinho, HERO! <br>Eu nunca ouvi nada mais bobo!\swh
+      text: Oh, que ridículo! Ah, não seja bobinho, HERO! <br>Eu nunca ouvi algo tão bobo!\swh
 
 message_93:
       faceset: MainCharacters_DreamWorld
@@ -404,10 +404,10 @@ message_99:
 message_100:
       faceset: MainCharacters_DreamWorld
       faceindex: 10
-      text: Hey! Parada aí!\!<br>Você não pode levar o HERO. Ele pertence a nós!\aub
+      text: Ei! Parada aí!\!<br>Você não pode levar o HERO. Ele pertence a nós!\aub
 
 message_101:
-      text: O que é isso agora?\!<br>O que uma não-fã da SWEETHEART está fazendo na audiência?\swh
+      text: O que é isso aqui?\!<br>O que uma não-fã da SWEETHEART está fazendo na audiência?\swh
 
 message_102:
       text: Ah...\! Entendi...\! Vocês devem ser fãs do HERO!\swh
@@ -463,7 +463,7 @@ message_133:
 message_134:
       faceset: MainCharacters_DreamWorld
       faceindex: 39
-      text: Ei, Eu lembro de você!<br>Você é aquela BROTOPEIRA que pediu para eu me juntar ao show!<br>\!Você pode tirar a gente daqui?\her
+      text: Ei, eu lembro de você!<br>Você é aquela BROTOPEIRA que pediu para eu me juntar ao show!<br>\!Você pode tirar a gente daqui?\her
 
 message_135:
       text: Ohohohoho...\n<BROTOPEIRA DE BIGODE>
@@ -493,7 +493,7 @@ message_141:
 message_142:
       faceset: MainCharacters_DreamWorld
       faceindex: 30
-      text: Eu devia saber que você estava por trás disso, ROSA!\kel
+      text: Eu devia saber que você tava por trás disso, ROSA!\kel
 
 message_143:
       text: É verdade o que dizem... <br>\{A VINGANÇA É DOCE!!\ros
@@ -514,7 +514,7 @@ message_146:
 message_147:
       faceset: MainCharacters_DreamWorld
       faceindex: 10
-      text: Vamos dar um jeito!\!<br>Vamos, gente... Vamos pensar um pouco.\aub
+      text: Vamos dar um jeito!\!<br>Bora, gente... Vamos pensar um pouco.\aub
 
 message_148:
       faceset: MainCharacters_DreamWorld
@@ -542,7 +542,7 @@ message_171:
 message_172:
       faceset: MainCharacters_DreamWorld
       faceindex: 18
-      text: \{\sinv[1]WOO-HOO!! LIBERDADE FINALMENTE!!\sinv[0]\kel
+      text: \{\sinv[1]UUU-HUL!! LIBERDADE FINALMENTE!!\sinv[0]\kel
 
 message_173:
       faceset: MainCharacters_DreamWorld
