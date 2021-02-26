@@ -5,7 +5,7 @@
 #Trigger: Entering SBF's House with SWEETHEART MIXTAPE.
 
 message_0:
-      text: Eita nós! Vocês pirralhos realmente conseguiram!\! Isso tá meio sujo, mas é a nossa \c[4]MIXTAPE ESPECIAL\c[0] com certeza!\!<br>Muito obrigado, carinha.\spg
+      text: Eita nós! Vocês pirralhos realmente conseguiram!\! Tá meio suja, mas é a nossa \c[4]MIXTAPE ESPECIAL\c[0] com certeza!\!<br>Muito obrigado, carinha.\spg
 
 message_1:
       text: Com isso nós finalmente vamos conseguir acordar o NAMORADO ESPACIAL!\spg
@@ -13,7 +13,7 @@ message_1:
 #KEL walks up to you.
 
 message_2:
-      text: KEL meteu a mão no seu BOLSO <br>e pegou a \c[4]MIXTAPE ESPECIAL\c[0].
+      text: KEL enfiou a mão no seu BOLSO <br>e pegou a \c[4]MIXTAPE ESPECIAL\c[0].
 
 message_3:
       faceset: MainCharacters_DreamWorld
@@ -62,7 +62,7 @@ message_10:
 message_11:
       faceset: MainCharacters_DreamWorld
       faceindex: 19
-      text: Oh, Já sei! Vou socar esta \c[4]MIXTAPE ESPECIAL\c[0] na caixa de som dele.\!<br>Ele vai levantar na hora!\kel
+      text: Ah, já sei! Vou socar essa \c[4]MIXTAPE ESPECIAL\c[0] na caixa de som dele.\!<br>Ele vai levantar na hora!\kel
 
 #HERO jumps.
 
@@ -74,7 +74,7 @@ message_12:
 message_13:
       faceset: MainCharacters_DreamWorld
       faceindex: 36
-      text: Me dá a fita, OMORI. vou manter em segurança.\her
+      text: Me dá a fita, OMORI. Vou manter em segurança.\her
 
 message_14:
       text: HERO mexeu no seu BOLSO.
@@ -84,7 +84,7 @@ message_14:
 message_15:
       faceset: MainCharacters_DreamWorld
       faceindex: 40
-      text: Ué? Onde ela está?\her
+      text: Ué? Onde ela tá?\her
 
 #KEL opens cassette player.
 
@@ -157,7 +157,7 @@ message_32:
       text: Eu fiz tudo por ela! Eu dei tudo pra ela!\!<br>\{TUDO! TÁ ME OUVINDO!?!?\sbf\}
 
 message_33:
-      text: Aquela ingrata, aquela v...\! Aughhhhhh... \sbf
+      text: Aquela ingrata, aquela va...\! Aughhhhhh... \sbf
 
 message_34:
       text: \quake[1]AAAAAU\Com[2]\{UUUGGGGG\Com[2]\{GGGGGHHHHH\Com[2]\{HHHHH!!!\sbf\quake[0]
@@ -166,7 +166,7 @@ message_35:
       text: \quake[1]\{SÓ ESQUEÇA!!\! ESQUEÇA TUDO!!\sbf\quake[0]
 
 message_37:
-      text: Eu vou encontra-la SWEETHEART...\sbf
+      text: Eu vou encontrá-la SWEETHEART...\sbf
 
 message_38:
       text: \{E VOU TE FAZER PAGAR POR TUDO!!\sbf\quake[0]
@@ -174,7 +174,7 @@ message_38:
 message_39:
       faceset: MainCharacters_DreamWorld
       faceindex: 10
-      text: Me desculpe, mas não podemos deixar você fazer isso, NAMORADO ESPACIAL...\!<br>Ou devo dizer...\aub
+      text: Me desculpa, mas não podemos deixar você fazer isso, NAMORADO ESPACIAL...\!<br>Ou devo dizer...\aub
 
 message_40:
       faceset: MainCharacters_DreamWorld
@@ -182,7 +182,7 @@ message_40:
       text: \{\{\Com[2]EX-NAMORADO ESPACIAL!!\aub
 
 message_41:
-      text: Interessante.\! Você está me desafiando?\!<br>\{VOCÊ SE QUER SABEM QUEM EU SOU!?\sxbf
+      text: Interessante.\! Você está me desafiando?\!<br>\{VOCÊ SE QUER SABE QUEM EU SOU!?\sxbf
 
 message_42:
       text: \{EU SOU O CAPITÃO DOS PIRATAS ESPACIAIS!\sxbf
