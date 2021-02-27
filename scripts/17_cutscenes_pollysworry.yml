@@ -13,24 +13,24 @@ message_0:
 message_1:
       faceset: MainCharacters_Faraway
       faceindex: 15
-      text: Bem...\! Tá mais pra meio-dia, na verdade.\! Parece que o HERO não volta até o jantar de hoje, então eu pensei em passar aqui um pouco mais tarde.\kel
+      text: Bem...\! Tá mais pra meio-dia na verdade.\! Parece que o HERO não vai voltar até o jantar, então eu pensei em passar aqui um pouco mais tarde.\kel
 
 message_2:
       faceset: MainCharacters_Faraway
       faceindex: 12
-      text: Minha MÃE pediu para eu comprar algumas coisas na \c[11]PRAÇA TÃO-DISTANTE\c[0] antes que ele volte, e...\! Eu achei que ia ser mais divertido se fossemos juntos!\kel
+      text: Minha MÃE pediu para eu comprar algumas coisas na \c[11]PRAÇA TÃO-DISTANTE\c[0] antes que ele volte, e...\! Eu achei que ia ser mais divertido se a gente fosse junto!\kel
 
 message_3:
       faceset: MainCharacters_Faraway
       faceindex: 14
-      text: Você quer vir junto, \n[8]?\!<br>Claro que quer!\! Vamos lá...\kel
+      text: Você quer vir junto, \n[8]?\!<br>Claro que quer!\! Vamo lá...\kel
 
 #Upon entering Town PLAZA
 
 message_4:
       faceset: MainCharacters_Faraway
       faceindex: 14
-      text: Vamos ver...\! Eu tenho certeza que temos que parar na \c[11]PIZZARIA DO GINO\c[0] e a padaria do \c[11]OUTROMERCADO\c[0]...\! Lidere o caminho, \n[8]!\kel
+      text: Vamos ver...\! Eu tenho certeza que temos que parar na \c[11]PIZZARIA DO GINO\c[0] e a padaria do \c[11]OUTROMERCADO\c[0]...\! Vai na frente, \n[8]!\kel
 
 
 # =========================================================================================
@@ -55,13 +55,13 @@ message_24:
       text: ...\cha
 
 message_25:
-      text: Heh.\! Então vamos para o nosso ponto de encontro secreto?\! Nham... \! <br>É um lugar perfeito para um encontro!\! Nham...\! Eu vou trazer uma das minhas senhoras especias.\mav
+      text: Heh.\! Então vamos para o nosso ponto de encontro secreto?\! Nham... \! <br>É um lugar perfeito para um encontro!\! Nham...\! Eu vou trazer uma das minhas moças especias.\mav
 
 message_26:
       text: Nadar...\! Nham, nham, nham, nham...\! Parece... \! <br>Nham, nham, nham, nham, nham, nham, nham, nham...\! <br>bem divertido.\van
 
 message_27:
-      text: Bem!\! Nham...\! Enquanto vocês estão de bobeira sendo bebêzões, <br>Eu vou estar ocupada jogando pedras no lago!\kim
+      text: Bem!\! Nham...\! Enquanto vocês estão de bobeira sendo bebêzões, <br>eu vou estar ocupada jogando pedras no lago!\kim
 
 message_28:
       text: Eu estive procurando as pedras perfeitas...\! nham...\! a semana toda!\kim
@@ -70,10 +70,10 @@ message_29:
       text: Heh.\! Nham...\! Você pode tentar o quanto quiser, KIM, mas você nunca vai bater o recorde da AUBREY!\mav
 
 message_30:
-      text: Cala a boca, MIKHAEL!\! Como se alguma garota iria...\! nham...\! iria pro lago com você sem pagar ela!\kim
+      text: Cala a boca, MIKHAEL!\! Como se alguma garota iria...\! nham...\! pro lago com você sem pagar ela!\kim
 
 message_31:
-      text: Eu te disse pra me chamar de O MAVER- <br>\{\Com[2]\quake[1]ACK!!\! \Com[2]EU MUDI' MIA' LINGA!!\mav
+      text: Eu te disse pra me chamar de O MAVER- <br>\{\Com[2]\quake[1]AII!!\! \Com[2]EU MUDI' MIA' LINGA!!\mav
 
 message_32:
       text: \{\sinv[2]BAHAHAHAHAHAHAHA!!\!\}<br>Que perdedor!\kim
@@ -97,7 +97,7 @@ message_35:
 message_36:
       faceset: MainCharacters_Faraway
       faceindex: 12
-      text: Vamos na padaria!\! Minha mãe fez um pedido lá!\kel
+      text: Bora pra padaria!\! Minha mãe fez um pedido lá!\kel
 
 message_60:
       faceset: MainCharacters_Faraway
@@ -107,12 +107,12 @@ message_60:
 message_61:
       faceset: MainCharacters_Faraway
       faceindex: 14
-      text: Bem isso é tudo, e bem na hora, também.\! <br>Parece que o sol já vai se pôr!\kel
+      text: Bem isso é tudo, e bem na hora também.\! <br>Parece que o sol já vai se pôr!\kel
 
 message_62:
       faceset: MainCharacters_Faraway
       faceindex: 12
-      text: Vamos voltar pra minha casa.<br>HERO deve voltar pra casa a qualquer hora!\kel
+      text: Vamos voltar pra minha casa.<br>O HERO deve voltar pra casa a qualquer hora!\kel
 
 message_63:
       faceset: MainCharacters_Faraway
@@ -133,12 +133,12 @@ message_64:
 message_80:
       faceset: MainCharacters_Faraway
       faceindex: 17
-      text: Antes da gente entrar...\! Eu devia mencionar que minha mãe vai estar um pouco brava porque eu demorei tanto com as compras.\kel
+      text: Antes da gente entrar...\! Eu preciso falar que minha mãe vai estar um pouco brava porque eu demorei com as compras.\kel
 
 message_81:
       faceset: MainCharacters_Faraway
       faceindex: 15
-      text: Era pra eu trazer tudo lá pelo meio-dia, <br>mas eu fiquei meio distraído com outras coisas...\! <br>Bem, você sabe como é.\kel
+      text: Era pra eu trazer tudo lá pelo meio-dia, <br>mas eu fiquei meio distraído com outras coisas...\! <br>Bem, cê sabe como é.\kel
 
 message_82:
       faceset: MainCharacters_Faraway
@@ -174,14 +174,14 @@ message_102:
       text: Oh minha nossa, esse é o \n[8]?\! Só pode ser!\n<MÃE DO KEL>
 
 message_103:
-      text: É tão bom ver você de novo!\! Mas querido... Você está tão magro... Esteve comendo bem?\n<MÃE DO KEL>
+      text: É tão bom ver você de novo!\! Mas querido... Você tá tão magro... Tá comendo bem?\n<MÃE DO KEL>
 
 #KEL drops off groceries near MÃE DO KEL.
 
 message_104:
       faceset: MainCharacters_Faraway
       faceindex: 14
-      text: Aqui está tudo que você pediu, Mãe!\kel
+      text: Aqui está tudo que você pediu, MÃE!\kel
 
 #KEL turns to PLAYER.
 
@@ -193,12 +193,12 @@ message_105:
 #KEL pushes PLAYER toward the hallway.
 
 message_106:
-      text: \Com[2]Agora espera um segundo, mocinho-\n<MÃE DO KEL>
+      text: \Com[2]Ei espera um segundo, mocinho-\n<MÃE DO KEL>
 
 message_107:
       faceset: MainCharacters_Faraway
       faceindex: 14
-      text: Tchau, Mãe! Te vejo quando o jantar estiver pronto!\kel
+      text: Tchau, MÃE! Te vejo quando o jantar estiver pronto!\kel
 
 # =========================================================================================
 # Cutscene: Kel's Bedroom
@@ -244,7 +244,7 @@ message_124:
 message_125:
       faceset: MainCharacters_Faraway
       faceindex: 12
-      text: SALLY é a minha irmãzinha.\! Minha mãe provavelmente vai levar ela pro andar de baixo no jantar.\! Ela é pequena e muito fofa, heh heh!\kel
+      text: SALLY é a minha irmãzinha.\! Minha mãe provavelmente vai levar ela pra baixo no jantar.\! Ela é pequena e muito fofa, heh heh!\kel
 
 message_126:
       text: \Com[2]KEL!\! Tem uma garota na porta! <br>Ela disse que veio falar com você!\n<MÃE DO KEL>
@@ -254,7 +254,7 @@ message_126:
 message_127:
       faceset: MainCharacters_Faraway
       faceindex: 17
-      text: Huh? Quem poderia ser?\kel
+      text: Hã? Quem poderia ser?\kel
 
 # =========================================================================================
 # Cutscene: Polly's Worry
@@ -266,18 +266,18 @@ message_140:
       text: Ei, KEL... Ei, \n[8]...\! D-Desculpa o incômodo.\n<POLLY>
 
 message_141:
-      text: Eu estava me perguntando se vocês sabem onde o BASIL está.\!<br>Eu pensei que estivesse com vocês.\n<POLLY>
+      text: Eu queria saber se vocês sabem onde o BASIL está.\!<br>Eu pensei que estivesse com vocês.\n<POLLY>
 
 message_142:
       faceset: MainCharacters_Faraway
       faceindex: 19
-      text: BASIL?\! Hmm...\! Não, desculpe.\! Não vimos ele o dia todo.\kel
+      text: BASIL?\! Hmm...\! Não, desculpa.\! Não vimos ele o dia todo.\kel
 
 message_143:
       text: Oh, está tudo bem!\! Eu...\! Eu tenho certeza que ele vai aparecer eventualmente.\! <br>Ele fugiu mais cedo e não voltou ainda...\n<POLLY>
 
 message_144:
-      text: Se você ver ele, pode dizer pra ele voltar pra casa?\!<br>Estou muito preoucupada com ele.\n<POLLY>
+      text: Se você ver ele, pode dizer pra ele voltar pra casa?\!<br>Eu tô muito preoucupada com ele.\n<POLLY>
 
 message_145:
       faceset: MainCharacters_Faraway
@@ -285,7 +285,7 @@ message_145:
       text: É claro, POLLY!\! Estaremos de olho.\kel
 
 message_146:
-      text: Obrigada...\! Eu sabia que podia contar com vocês!\n<POLLY>
+      text: Obrigada...\! Sabia que podia contar com vocês!\n<POLLY>
 
 #POLLY walks O.S. through front door.
 
@@ -297,14 +297,14 @@ message_147:
 message_148:
       faceset: MainCharacters_Faraway
       faceindex: 20
-      text: BASIL sumiu hoje?\! Eu não tenho um bom pressentimento sobre isso...\!<br>especialmente com a AUBREY e a gangue do patinete por aí.\! <br>A gente devia tentar encontrar ele antes que escureça.\kel
+      text: O BASIL sumiu?\! Eu não tô com um bom pressentimento...\!<br>especialmente com a AUBREY e a gangue do patinete por aí.\! <br>A gente devia tentar encontrar ele antes que escureça.\kel
 
 #KEL turns around.
 
 message_149:
       faceset: MainCharacters_Faraway
       faceindex: 17
-      text: A gente pode ir procurar ele, Mãe?\! Por favorzinho?\kel
+      text: A gente pode ir procurar ele, MÃE?\! Por favorzinho?\kel
 
 message_150:
       text: Bem...\! Aquela garota parecia muito preocupada.\!<br>\sinv[1]Ai ai...\sinv[0]\! Ok.\! Só tenha certeza de voltar antes do jantar!\n<MÃE DO KEL>
@@ -328,11 +328,11 @@ message_151:
 message_152:
       faceset: MainCharacters_Faraway
       faceindex: 20
-      text: BASIL sumiu hoje?\! Eu não tenho um bom pressentimento sobre isso...<br>especialmente com a AUBREY e a gangue do patinete por aí.\!\kel
+      text: O BASIL sumiu?\! Eu não tô com um bom pressentimento...<br>especialmente com a AUBREY e a gangue do patinete por aí.\!\kel
 
 message_153:
       faceset: MainCharacters_Faraway
       faceindex: 19
-      text: Hmmm... BASIL poderia estar em algum lugar no \c[11]PARQUE TÃO-DISTANTE\c[0]?\kel
+      text: Hmmm... O BASIL poderia estar em algum lugar no \c[11]PARQUE TÃO-DISTANTE\c[0]?\kel
 
 #KEL turns around.
