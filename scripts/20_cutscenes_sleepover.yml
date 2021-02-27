@@ -7,12 +7,12 @@
 message_0:
       faceset: MainCharacter_Basil_dark
       faceindex: 7
-      text: Wow...\! acabei de perceber.\kel
+      text: Uau...\! acabei de perceber.\kel
 
 message_1:
       faceset: MainCharacter_Basil_dark
       faceindex: 11
-      text: Faz tanto tempo desde que estive dentro da sua casa...<br>mesmo que a gente seja vizinhos.\! Tempo realmente voa, né?\kel
+      text: Faz tanto tempo desde que estive na sua casa...<br>mesmo que a gente seja vizinhos.\! O tempo realmente voa, né?\kel
 
 message_2:
       faceset: MainCharacter_Basil_dark
@@ -33,7 +33,7 @@ message_3:
 message_10:
       faceset: MainCharacter_Basil_dark
       faceindex: 12
-      text: Whoa! Esse lugar tá completamente limpo, \n[8]!\! <br>Sua casa parece muito maior agora que não tem nada aqui.\kel
+      text: Nossa! Esse lugar tá completamente limpo, \n[8]!\! <br>Sua casa parece muito maior agora que não tem nada aqui.\kel
 
 #HERO walks to the couch area.
 
@@ -45,17 +45,17 @@ message_11:
 message_12:
       faceset: MainCharacter_Basil_dark
       faceindex: 8
-      text: É, e essa é a mancha daquela vez que eu derramei meu \c[3]JOÃO LARANJA\c[0]!\! MARI ficou tão brava comigo...\kel
+      text: É, e essa é a mancha daquela vez que eu derramei meu \c[3]JOÃO LARANJA\c[0]!\! A MARI ficou tão brava comigo...\kel
 
 message_13:
       faceset: MainCharacter_Basil_dark
       faceindex: 31
-      text: Bem, isso é por que o gato dela pisou e andou pela casa toda!\her
+      text: Bom, isso é por que o gato dela pisou e andou pela casa toda!\her
 
 message_14:
       faceset: MainCharacter_Basil_dark
       faceindex: 10
-      text: Heh, heh...\! Ah é, huh?\kel
+      text: Heh, heh...\! Ah é, hã?\kel
 
 #KEL goes to the backyard door.
 
@@ -89,17 +89,17 @@ message_19:
 message_20:
       faceset: MainCharacter_Basil_dark
       faceindex: 29
-      text: Eu amaria, mas...\! A Mãe não vai ficar muito feliz com isso. \her
+      text: Eu amaria, mas...\! A MÃE não vai ficar muito feliz com isso. \her
 
 message_21:
       faceset: MainCharacter_Basil_dark
       faceindex: 8
-      text: Ela vai ficar bem!\! Eu tô cansado de acordar a noite com a SALLY chorando mesmo.\! Você vai lavar a louça com a Mãe<br>por uma semana inteira, não é? Você merece isso! \kel
+      text: Ela vai ficar bem!\! Eu tô cansado de acordar de noite com a SALLY chorando mesmo.\! Você vai lavar a louça com a MÃE<br>por uma semana inteira, não é? Cê merece isso! \kel
 
 message_22:
       faceset: MainCharacter_Basil_dark
       faceindex: 31
-      text: Bem...\! Isso é verdade.\! Provavelmente vai ficar tudo bem.\! <br>A gente vive logo ao lado, é só uma caminhada daqui! \her
+      text: Bem...\! Isso é verdade.\! Provavelmente vai ficar tudo bem.\! <br>A gente vive logo ao lado, é só uma caminhada! \her
 
 message_23:
       faceset: MainCharacter_Basil_dark
@@ -109,10 +109,10 @@ message_23:
 message_24:
       faceset: MainCharacter_Basil_dark
       faceindex: 8
-      text: Vamos ver o que o HERO está fazendo na sala do piano!\kel
+      text: Bora ver o que o HERO está fazendo na sala do piano!\kel
 
 message_25:
-      text: Você não quer sair sozinho a noite.
+      text: Você não quer sair sozinho de noite.
 
 # =========================================================================================
 # Cutscene: Hero on the Piano
@@ -123,7 +123,7 @@ message_25:
 message_40:
       faceset: MainCharacter_Basil
       faceindex: 15
-      text: Ah, Eu lembro desse corredor!\!<br>O armário ficava na esquerda...\!<br>e a sala do piano na direita.  \her
+      text: Ah, eu lembro desse corredor!\!<br>O armário ficava na esquerda...\!<br>e a sala do piano na direita.  \her
 
 message_41:
       faceset: MainCharacter_Basil
@@ -156,38 +156,38 @@ message_61:
 message_62:
       faceset: MainCharacter_Basil
       faceindex: 14
-      text: Haha, Acho que ainda sei tocar.\her
+      text: Haha, acho que ainda sei tocar.\her
 
 #HERO turns to PLAYER.
 
 message_63:
       faceset: MainCharacter_Basil
       faceindex: 13
-      text: Hey, \n[8]. Isso me lembrou de uma coisa! Você ainda toca o violino?\her
+      text: Ei, \n[8]. Isso me lembrou de uma coisa! Você ainda toca o violino?\her
 
 #HERO looks at empty violin stand.
 
 message_64:
       faceset: MainCharacter_Basil_dark
       faceindex: 29
-      text: Oh...\! Não está aqui.\! Acho que você já guardou.\her
+      text: Oh...\! Não tá aqui.\! Acho que cê já guardou.\her
 
 message_65:
       faceset: MainCharacter_Basil_dark
       faceindex: 28
-      text: Tinha essa música que você sempre tocava com a MARI...\!<br>Ainda toca na minha cabeça as vezes, mas eu não<br>lembro como era chamada.\her
+      text: Tinha essa música que você sempre tocava com a MARI...\!<br>Ainda toca na minha cabeça às vezes, mas eu não<br>lembro como era chamada.\her
 
 message_66:
       faceset: MainCharacter_Basil_dark
       faceindex: 30
-      text: Vocês dois tocavam de novo e de novo.\!<br>A gente até ouvia da nossa casa as vezes!\!<br>Qual era o nome mesmo?\her
+      text: Vocês dois tocavam de novo e de novo.\!<br>A gente até ouvia da nossa casa às vezes!\!<br>Qual era o nome mesmo?\her
 
 #[Trigger: PLAYER attempts to leave the room.]
 
 message_67:
       faceset: MainCharacter_Basil_dark
       faceindex: 13
-      text: \sinv[1]Bocejo...\! Cara, de repente, eu estou com muito sono.\! <br>Talvez a gente já possa ir dormir.\kel\sinv[0]
+      text: \sinv[1]Bocejo...\! Cara, do nada eu fiquei com muito sono.\! <br>Talvez a gente já possa ir dormir.\kel\sinv[0]
 
 message_68:
       faceset: MainCharacter_Basil_dark
@@ -197,7 +197,7 @@ message_68:
 message_69:
       faceset: MainCharacter_Basil
       faceindex: 13
-      text: Então onde a gente dorme, \n[8]?\! Provavelmente em algum lugar no seu quarto, certo?\! Eu lembro que você odiava dormir sozinho.\her
+      text: Então, onde a gente dorme, \n[8]?\! Provavelmente em algum lugar no seu quarto, né?\! Eu lembro que você odiava dormir sozinho.\her
 
 message_70:
       faceset: MainCharacter_Basil_dark
@@ -233,10 +233,10 @@ message_91:
 message_92:
       faceset: MainCharacter_Basil_dark
       faceindex: 11
-      text: Por acaso, HERO... \n[8] e eu trouxemos um presente!\kel
+      text: Por acaso, HERO... O \n[8] e eu trouxemos um presente!\kel
 
 message_110:
-      text: KEL deu \c[4]PRESENTE DO HERO\c[0] para o HERO!
+      text: KEL deu o \c[4]PRESENTE DO HERO\c[0] para o HERO!
 
 message_93:
       faceset: MainCharacter_Basil_dark
@@ -246,12 +246,12 @@ message_93:
 message_94:
       faceset: MainCharacter_Basil
       faceindex: 13
-      text: É claro que eu lembro!<br>\!Cara, Eu lembro de quando eu queria ser cozinheiro...\!<br>Parece tão bobo agora.\her
+      text: É claro que eu lembro!<br>\!Cara, eu lembro de quando eu queria ser cozinheiro...\!<br>Parece tão bobo agora.\her
 
 message_95:
       faceset: MainCharacter_Basil_dark
       faceindex: 8
-      text: Hey, você era um cozinheiro muito bom! \!<br>E você ainda pode ser cozinheiro, HERO!\kel
+      text: Ei, você era um cozinheiro muito bom! \!<br>E você ainda pode ser cozinheiro, HERO!\kel
 
 message_96:
       faceset: MainCharacter_Basil_dark
@@ -291,7 +291,7 @@ message_102:
 message_103:
       faceset: MainCharacter_Basil_dark
       faceindex: 29
-      text: Aposto que esteve bem difícil viver nessa casa vazia...<BR>especialmente sem a MARI.\her
+      text: Aposto que foi bem difícil viver nessa casa vazia...<BR>especialmente sem a MARI.\her
 
 message_104:
       faceset: MainCharacter_Basil_dark
@@ -313,14 +313,14 @@ message_106:
 message_107:
       faceset: MainCharacter_Basil_dark
       faceindex: 30
-      text: Ai ai...\! É muito bom ver você de novo.\! <br>Eu só queria que a AUBREY e o BASIL estivessem aqui, também. \her
+      text: Ai ai...\! É muito bom ver você de novo.\! <br>Eu só queria que a AUBREY e o BASIL estivessem aqui também. \her
 
 #HERO is surprised.
 
 message_108:
       faceset: MainCharacter_Basil_dark
       faceindex: 31
-      text: D-De qualquer forma!\! Desculpe a reclamação.\! Está ficando tarde. <br>Eu devia ir dormir logo também.\her
+      text: D-De qualquer forma!\! Desculpe a reclamação.\! Tá ficando tarde. <br>Eu devia ir dormir logo também.\her
 
 message_109:
       faceset: MainCharacter_Basil
@@ -344,7 +344,7 @@ message_131:
 message_150:
       faceset: MainCharacter_Basil_dark
       faceindex: 30
-      text: \herQue bom que alguém esteve cuidando do piano da MARI.\! Não tem quase poeira nenhuma.
+      text: \herQue bom que alguém esteve cuidando do piano da MARI.\! Não tem quase nenhuma poeira.
 
 message_151:
       faceset: MainCharacter_Basil_dark
