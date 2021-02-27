@@ -10,7 +10,7 @@ message_0:
 message_1:
       faceset: MainCharacters_Faraway
       faceindex: 28
-      text: Desculpa, Mãe... Teve alguns problemas...\!<br>Mas a boa notícia é que encontramos o BASIL e ele está seguro.\her
+      text: Desculpa, MÃE... Teve alguns problemas...\!<br>Mas a boa notícia é que encontramos o BASIL e ele tá seguro.\her
 
 message_2:
       text: \Com[2]Hmph!\! Pois saiba que... Eu passei a semana inteira preparando a galinha assada pro jantar de hoje a noite...\n<MÃE DO KEL>
@@ -23,12 +23,12 @@ message_3:
 message_4:
       faceset: MainCharacters_Faraway
       faceindex: 32
-      text: Oh, Mãe...\! Por favor não chore...\her
+      text: Oh, MÃE...\! Por favor não chore...\her
 
 message_5:
       faceset: MainCharacters_Faraway
       faceindex: 14
-      text: Não se preocupe, Mãe. É pra isso que microondas servem!\kel
+      text: Não se preocupe, MÃE. É pra isso que microondas servem!\kel
 
 message_6:
       text: \com[2]\sinv[1]Ohhhh\{hhh!\! MEU POBRE JANTAR!!\n<MÃE DO KEL>
@@ -36,7 +36,7 @@ message_6:
 #PAI DO KEL walks up to MÃE DO KEL.
 
 message_7:
-      text: Pronto, pronto, querida... Anime-se...\n<PAI DO KEL>
+      text: Prontinho, prontinho, querida... Anime-se...\n<PAI DO KEL>
 
 message_8:
       text: Hoje é um dia especial... Não precisa ficar triste.\n<PAI DO KEL>
@@ -54,7 +54,7 @@ message_10:
 message_11:
       faceset: MainCharacters_Faraway
       faceindex: 28
-      text: Valeu, Pai.\her
+      text: Valeu, PAI.\her
 
 message_12:
       text: Sniff...\n<KEL's MOM>
@@ -97,7 +97,7 @@ message_18:
 message_40:
       faceset: MainCharacters_Faraway
       faceindex: 28
-      text: Phew...\! Agora que tudo está mais calmo... <br>Finalmente podemos relaxar um pouco.\her
+      text: Ai ai...\! Agora que tudo está mais calmo... <br>Finalmente podemos relaxar um pouco.\her
 
 #HERO turns to PLAYER.
 
@@ -116,27 +116,27 @@ message_42:
 message_43:
       faceset: MainCharacters_Faraway
       faceindex: 29
-      text: Então \n[8], Eu ouvi da nossa mãe que você tá se mudando! Isso parece tão legal!\her
+      text: Então \n[8], eu ouvi da nossa mãe que você tá se mudando! Isso parece tão legal!\her
 
 message_44:
       faceset: MainCharacters_Faraway
       faceindex: 17
-      text: É, ele tá.\! Amanhã vai ser seu último dia com a gente.\kel
+      text: É, ele tá.\! Amanhã vai ser o último dia dele com a gente.\kel
 
 message_45:
       faceset: MainCharacters_Faraway
       faceindex: 28
-      text: Se mudar pode parecer meio estressante agora, mas não é tão ruim quando você se acostuma.\! <br>Eu acho que seria bom pra você, \n[8].\her
+      text: Se mudar pode parecer meio estressante, mas não é tão ruim quando você se acostuma.\! <br>Eu acho que seria bom pra você, \n[8].\her
 
 message_46:
       faceset: MainCharacters_Faraway
       faceindex: 29
-      text: Você aprende muito se mudando pra um lugar novo, e é bom ter<br>um novo começo!\! Estou meio triste de ver você ir, mas vai<br>ficar tudo bem desde que mantenhamos contato.\her
+      text: Você aprende muito se mudando pra um lugar novo, e é bom ter<br>um novo começo!\! Eu tô meio triste de ver você ir, mas vai<br>ficar tudo bem desde que mantenhamos contato.\her
 
 message_47:
       faceset: MainCharacters_Faraway
       faceindex: 13
-      text: Ai ai...\! Realmente tivemos várias memórias juntos.\! As vezes eu tenho saudades daqueles dias...\!<br>Só de bobeira...\! Comendo comida...\! Bebendo suco...\kel
+      text: Ai ai...\! Realmente tivemos várias memórias juntos.\! As vezes eu tenho saudades daqueles dias...\!<br>Só de bobeira...\! Comendo besteira...\! Bebendo suco...\kel
 
 message_48:
       faceset: MainCharacters_Faraway
@@ -151,14 +151,14 @@ message_49:
 message_50:
       faceset: MainCharacters_Faraway
       faceindex: 14
-      text: Ah é! A casa na árvore era incrível!\! <br>Eu me pergunto se ainda tá alí.\! Ela tá, \n[8]?\kel
+      text: Ah é! A casa na árvore era incrível!\! <br>Me pergunto se ainda tá lá.\! Ela tá, \n[8]?\kel
 
 #Microwaved food is done.
 
 message_51:
       faceset: MainCharacters_Faraway
       faceindex: 28
-      text: Parece que a comida tá pronta!\! Vamos comer na sala de estar.\!<br>A gente pode continuar conversando ali!\her
+      text: Parece que a comida tá pronta!\! Vamos comer na sala de estar.\!<br>A gente pode continuar conversando lá!\her
 
 # =========================================================================================
 # Cutscene: Convincing Kel's MOM
@@ -169,19 +169,19 @@ message_51:
 message_70:
       faceset: MainCharacters_Faraway
       faceindex: 17
-      text: Por acaso, HERO...\!<br>BASIL deu para o \n[8] seu \c[4]ÁLBUM DE FOTOS\c[0] ontem!\!<br>Você quer ver? \kel
+      text: Por acaso, HERO...\!<br>O BASIL deu pro \n[8] seu \c[4]ÁLBUM DE FOTOS\c[0] ontem!\!<br>Você quer ver? \kel
 
 message_71:
       faceset: MainCharacters_Faraway
       faceindex: 42
-      text: Você tem o \c[4]ÁLBUM DE FOTOS\c[0] do BASIL com você?\!<br>Claro, vamos dar uma olhada nele enquanto comemos o jantar!\her
+      text: Você tá com o \c[4]ÁLBUM DE FOTOS\c[0] do BASIL com você?\!<br>Claro, vamos dar uma olhada nele enquanto comemos o jantar!\her
 
 #Slide: Basil's PHOTO ALBUM (Faraway - Missing Photos)
 
 message_72:
       faceset: MainCharacters_Faraway
       faceindex: 19
-      text: Que pena que algumas fotos estão faltando...\! AUBREY roubou o álbum do BASIL, mas pegamos de volta.\! Talvez ela tenha o resto das fotos.\kel
+      text: Que pena que algumas fotos tão faltando...\! A AUBREY roubou o álbum do BASIL mas pegamos de volta.\! Talvez ela tenha o resto das fotos.\kel
 
 message_73:
       faceset: MainCharacters_Faraway
@@ -203,7 +203,7 @@ message_75:
 message_76:
       faceset: MainCharacters_Faraway
       faceindex: 19
-      text: Ah, você tá certo... Ela não está.\kel
+      text: Ah, você tá certo... Ela não tá.\kel
 
 message_77:
       faceset: MainCharacters_Faraway
@@ -215,7 +215,7 @@ message_77:
 message_78:
       faceset: MainCharacters_Faraway
       faceindex: 28
-      text: \n[8], Eu quero te pedir um favor.\her
+      text: \n[8], eu quero te pedir um favor.\her
 
 message_79:
       faceset: MainCharacters_Faraway
@@ -225,17 +225,17 @@ message_79:
 message_80:
       faceset: MainCharacters_Faraway
       faceindex: 17
-      text: Oh, essa é uma boa ideia!\!<br>Mas você tem que convencer a Mãe primeiro.\kel
+      text: Oh, é uma boa ideia!\!<br>Mas você tem que convencer a MÃE primeiro.\kel
 
 message_81:
       faceset: MainCharacters_Faraway
       faceindex: 25
-      text: Ela provavelmente está brava com você por <br>não passar tempo com ela e coisa assim.\! Você sabe como ela é...\kel
+      text: Ela provavelmente tá brava com você por <br>não passar tempo com ela e coisa assim.\! Você sabe como ela é...\kel
 
 #MÃE DO KEL comes in with SALLY.
 
 message_82:
-      text: \Com[2]Phew! Que bagunça!\!<br>SALLY fez um popozinho, mas ela está limpa agora!\n<MÃE DO KEL>
+      text: \Com[2]Aff! Que bagunça!\!<br>A SALLY fez um popozinho, mas ela tá limpa agora!\n<MÃE DO KEL>
 
 message_83:
       text: \sinv[1]Pwe\{ee!\!\} Ubuu\}uuu...?\n<SALLY>
@@ -245,7 +245,7 @@ message_83:
 message_84:
       faceset: MainCharacters_Faraway
       faceindex: 14
-      text: Hey, SALLY...\!<br>\{\sinv[1]ACHOU!\kel
+      text: Ei, SALLY...\!<br>\{\sinv[1]ACHOU!\kel
 
 message_85:
       text: \sinv[1]\Com[2]WEEE\{EEE\{EEEA\{AAH\{HHH!!!\n<SALLY>
@@ -258,22 +258,22 @@ message_86:
 message_87:
       faceset: MainCharacters_Faraway
       faceindex: 37
-      text: Ahem...\! Então...\! Uh...\! Hey...\! Mãe...\! Estávamos nos perguntando se a gente podia passar o dia na casa do \n[8] já que ele vai se mudar em breve.\her
+      text: Ahem...\! Então...\! Éé...\! Ei...\! Mãe...\! A gente tava vendo aqui se a gente podia passar o dia na casa do \n[8] já que ele vai se mudar já já.\her
 
 #MÃE DO KEL is surprised.
 
 message_88:
-      text: Oh?\! Mas você acabou de voltar!\! E já está tão tarde.\! <br>Que tal passar um tempo com a sua mãe?\n<MÃE DO KEL>
+      text: Oh?\! Mas você acabou de voltar!\! E já tá tão tarde.\! <br>Que tal passar um tempo com a sua mãe?\n<MÃE DO KEL>
 
 message_89:
       faceset: MainCharacters_Faraway
       faceindex: 32
-      text: Eu vou ficar aqui pelo resto do verão, e o \n[8] está saindo depois de amanhã!\!<br>Nós temos muito tempo para botar a conversa em dia...\her
+      text: Eu vou ficar aqui pelo resto do verão, e o \n[8] está saindo depois de amanhã!\!<br>Nós temos muito tempo pra botar a conversa em dia...\her
 
 #PAI DO KEL walks up to MÃE DO KEL.
 
 message_90:
-      text: Acho que está tudo bem se o HERO passar um tempo com KEL e \n[8].\! Eu não vejo \n[8] faz tempo!\n<PAI DO KEL>
+      text: Acho que está tudo bem se o HERO passar um tempo com KEL e \n[8].\! Eu não vejo o \n[8] faz tempo!\n<PAI DO KEL>
 
 message_91:
       text: Faz tempo desde que os garotos tiveram a chance de passar tempo juntos.\! Eu acho que devíamos deixar eles.\n<PAI DO KEL>
@@ -281,7 +281,7 @@ message_91:
 #MÃE DO KEL turns around.
 
 message_92:
-      text: \sinv[1]Ai ai...\sinv[0]\! Tá bom, então.\! Vocês podem ir se divertir...\n<MÃE DO KEL>
+      text: \sinv[1]Ai ai...\sinv[0]\! Tá bom então.\! Vocês podem ir se divertir...\n<MÃE DO KEL>
 
 message_93:
       text: Mas o HERO tem que lavar a louça comigo por uma semana inteira!\n<MÃE DO KEL>
@@ -291,7 +291,7 @@ message_93:
 message_94:
       faceset: MainCharacters_Faraway
       faceindex: 37
-      text: C-Claro...\! Eu acho... Que posso fazer isso.\her
+      text: C-Claro...\! Eu acho... que posso fazer isso.\her
 
 message_95:
       text: \Com[2]Hmph!\! Tudo bem... Vocês estão livres pra ir!\n<MÃE DO KEL>
@@ -306,9 +306,9 @@ message_96:
 message_97:
       faceset: MainCharacters_Faraway
       faceindex: 35
-      text: Oh, Mãe...\her
+      text: Oh, MÃE...\her
 
 message_98:
       faceset: MainCharacters_Faraway
       faceindex: 14
-      text: \kelEu tenho que me preparar primeiro!\! Vamos para o meu quarto antes de sairmos!
+      text: \kelEu tenho que me preparar primeiro!\! Vamo pro meu quarto antes de sairmos!
