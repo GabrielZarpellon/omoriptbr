@@ -6,7 +6,7 @@
 #Dino intro
 #-------------------------
 message_1:
-      text: \n<DINO>E aí, pequenoos aventureiros!\!<br>Sejam bem-vindos ao CAVA-SAURO! Eu sou DINO, o fundador do CAVA-SAURO!
+      text: \n<DINO>E aí, pequenos aventureiros!\!<br>Sejam bem-vindos ao CAVA-SAURO! Eu sou DINO, o fundador do CAVA-SAURO!
 
 message_2:
       text: \n<DINO>Caham...\! Vocês estão com fome de tesouro?\! Vocês estão preparados para terem uma colherada de aventura?\! Se sim, vocês vieram ao lugar certo!
@@ -27,7 +27,7 @@ message_5:
 
 #[Shake]
 message_6:
-      text: \n<DINO>Aww... O que foi?\!<br>Eu pensei que vocês eram do tipo aventureiro...
+      text: \n<DINO>Ahh... O que foi?\!<br>Eu pensei que vocês eram do tipo aventureiro...
 
 #-------------------------
 #GAME TUTORIAL
@@ -53,7 +53,7 @@ message_9:
       text: \n<DINO>Aqui está! Isso aí, mano!\!<br>Você aprende rápido, não é?
 
 message_10:
-      text: \n<DINO>Em nosso local de escavação especial, a \c[11]PIRÂMIDE ALIMENTAR\c[0], vocês poderão descobrir tesouros super irados de todo o universo...\! e a melhor parte é ques... vocês podem ficar com tudo o que encontrarem!
+      text: \n<DINO>Em nosso local de escavação especial, a \c[11]PIRÂMIDE ALIMENTAR\c[0], vocês poderão descobrir tesouros super irados de todo o universo...\! e a melhor parte é que... vocês podem ficar com tudo o que encontrarem!
 
 message_11:
       text: \n<DINO>\sinv[1]\com[2]\{ISSO É UMA DINO-GARANTIA!
@@ -125,7 +125,7 @@ message_27:
 
 #[Shake]
 message_28:
-      text: \n<DINO>Aww... O que foi?\!<br>Eu pensei que vocês eram do tipo aventureiro...
+      text: \n<DINO>Ahh... O que foi?\!<br>Eu pensei que vocês eram do tipo aventureiro...
 
 #DINO walks to inside of DINO'S DIG
 
@@ -206,7 +206,7 @@ message_51:
       text: Você encontrou o \c[13]HECTOR\c[0]!
 
 message_52:
-      text: E mais uma \c[4]COLHER\c[0] morde a poeira...
+      text: E mais uma \c[4]COLHER\c[0] bateu as botas...
 
 message_53:
       text: !
