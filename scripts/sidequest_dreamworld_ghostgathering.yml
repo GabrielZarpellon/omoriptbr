@@ -45,7 +45,7 @@ message_11:
       text: Você entregou um \c[4]MAPA ASSUSTADOR\c[0] ao FANTASMA BARBUDO.
 
 message_12:
-      text: \n<FANTASMA BARBUDO>Hã? O que é isso?\!<br>Um mapa para a festa do velho CARTOLA?\! Hoo, é isso mesmo!
+      text: \n<FANTASMA BARBUDO>Hã? O que é isso?\!<br>Um mapa para a festa do velho CARTOLA?\! Uuh, é isso mesmo!
 
 message_13:
       text: \n<FANTASMA BARBUDO>É melhor eu ir logo antes que a comida esfrie.\!<br>Lá vou eu, bufê coma-tudo-o-que-puder!
@@ -85,7 +85,7 @@ message_22:
       text: Você entregou um \c[4]MAPA ASSUSTADOR\c[0] ao FANTASMA PRINCESA.
 
 message_23:
-      text: \n<FANTASMA PRINCESA>Oh, céus! O que é isso?\!<br>Um mapa para a festa do sir CARTOLA? É claro, é mesmo isso!
+      text: \n<FANTASMA PRINCESA>Oh, céus! O que é isso?\!<br>Um mapa para a festa do sir CARTOLA? É claro, é isso mesmo!
 
 message_24:
       text: \n<FANTASMA PRINCESA>Eu preciso me apressar agora.<br>Princesas não podem se atrasar!

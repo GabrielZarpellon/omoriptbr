@@ -41,7 +41,7 @@ message_4:
 message_5:
       faceset: MainCharacters_DreamWorld
       faceindex: 35
-      text: \n<HECTOR>Vá e se junte-se a eles, \c[13]HECTOR JR\c[0]...\! No bolso!
+      text: \n<HECTOR>Vá e junte-se a eles, \c[13]HECTOR JR\c[0]...\! Pro bolso!
 
 message_6:
       text: Você recebeu o \c[13]HECTOR JR\c[0].

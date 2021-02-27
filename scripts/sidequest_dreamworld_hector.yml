@@ -8,17 +8,17 @@
 message_0:
     faceset: MainCharacters_DreamWorld
     faceindex: 20
-    text: \kelE-esperem... Esperem, caras!\! ...\! Droga...\!<br>Onde ele tá?\! Eu tava com ele aqui!
+    text: \kelE-esperem... Esperem, galera!\! ...\! Droga...\!<br>Onde ele tá?\! Eu tava com ele aqui!
 
 message_1:
     faceset: MainCharacters_DreamWorld
     faceindex: 39
-    text: \herOnde está quem?
+    text: \herOnde tá quem?
 
 message_2:
     faceset: MainCharacters_DreamWorld
     faceindex: 29
-    text: \kelO \c[13]HECTOR\c[0], minha pedra de estimação!\! Eu jurava que ele estava no meu bolso.
+    text: \kelO \c[13]HECTOR\c[0], minha pedra de estimação!\! Eu jurava que ele tava no meu bolso.
 
 message_3:
     faceset: MainCharacters_DreamWorld
