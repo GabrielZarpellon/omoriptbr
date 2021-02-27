@@ -53,7 +53,7 @@ message_8:
 #SWEETHEART looks away.
 
 message_9:
-      text: Ai de mim! Minha jornada voltou a estaca zero.\!<br>É muito mais óbvio para mim agora do que nunca que meu pretendente perfeito não existe!\swh
+      text: Ai de mim! Minha jornada voltou a estaca zero.\!<br>É muito mais óbvio para mim agora que meu pretendente perfeito não existe!\swh
 
 message_10:
       faceset: MainCharacters_DreamWorld
@@ -74,16 +74,16 @@ message_13:
 message_14:
       faceset: MainCharacters_DreamWorld
       faceindex: 46
-      text: O-O que?\! F-Fazer um pretendente?\! Isso sequer é possível!?\her
+      text: O-O quê?\! F-Fazer um pretendente?\! Isso sequer é possível!?\her
 
 message_15:
       text: Pelos meios de pessoas comuns não!\! Mas uma pessoa rica, tal como eu, não cumpre tais regras!\swh
 
 message_16:
-      text: Eu vou para um lugar onde gente podre de rica, como eu, pode pagar...\! Para uma família de bruxas marinhas que são especializados em clientes com...\! demandas especiais.\swh
+      text: Eu vou pra um lugar onde gente podre de rica, como eu, pode pagar...\! Para uma família de bruxas marinhas que são especializados em clientes com...\! demandas especiais.\swh
 
 message_17:
-      text: Até maiszinho, plebeus!\! Estou tarde para o meu compromisso!\swh
+      text: Até maiszinho, plebeus!\! Estou atrasada para o meu compromisso!\swh
 
 #SWEETHEART leaves O.S.
 
@@ -100,7 +100,7 @@ message_19:
 message_20:
       faceset: MainCharacters_DreamWorld
       faceindex: 39
-      text: É...\! Quando se vem ao desastre...\!<br>ela está em outro nivel.\her
+      text: É...\! Quando se vem ao desastre...\!<br>ela tá em outro nivel.\her
 
 # =========================================================================================
 # Cutscene: Humphrey
@@ -136,7 +136,7 @@ message_46:
 message_47:
       faceset: MainCharacters_DreamWorld
       faceindex: 46
-      text: Huh? SWEETHEART está aqui?\! Onde ela está?\her
+      text: Hã? SWEETHEART está aqui?\! Onde ela está?\her
 
 message_48:
       text: Hmm...\! Onde ela está? Onde ela está?\!<br>Está na ponta da língua...\! ...\! \quake[1]Nyak, nyak!\quake[0]\!<br>Isso é uma piada, pois é!\! Ela está...\! dentro de mim, entende?\n<HUMPHREY>
@@ -144,13 +144,13 @@ message_48:
 message_49:
       faceset: MainCharacters_DreamWorld
       faceindex: 4
-      text: E-Ela está... dentro de você?\aub
+      text: E-Ela tá... dentro de você?\aub
 
 message_50:
-      text: Ora, sim!\! Ela está visitando minhas convidadas, pois eu também sou lar a a uma família de bruxas marinhas!\n<HUMPHREY>
+      text: Ora, sim!\! Ela está visitando minhas convidadas, já que eu também sou lar de uma família de bruxas marinhas!\n<HUMPHREY>
 
 message_51:
-      text: Nós passamos nosso tempo juntos, conversando e rindo.\!<br>É tão divertido ouvir sobre suas palhaçadas diárias.\! As vezes <br>elas até me trazem minhas refeições!\n<HUMPHREY>
+      text: Nós passamos nosso tempo juntos, conversando e rindo.\!<br>É tão divertido ouvir sobre suas palhaçadas diárias.\! As vezes <br>elas até trazem minhas refeições!\n<HUMPHREY>
 
 message_52:
       text: É muito mais fácil pra elas, entende, por que elas estão muito mais próximas da minha barriguinha do que eu.\!<br> Na verdade, tenho certeza que elas adorariam ainda mais visitantes!\!\n<HUMPHREY>
@@ -166,7 +166,7 @@ message_53:
 #HUMPHREY burps.
 
 message_54:
-      text: Me desculpem...\!<br>A primeira convidada aparece estar causando um pouco de indigestão.\n<HUMPHREY>
+      text: Me desculpem...\!<br>A primeira convidada parece estar causando um pouco de indigestão.\n<HUMPHREY>
 
 # =========================================================================================
 # Cutscene: Where do we start?
@@ -177,7 +177,7 @@ message_54:
 message_70:
       faceset: MainCharacters_DreamWorld
       faceindex: 18
-      text: Whoa, a barriga do HUMPHREY é enorme!\kel
+      text: Nossa, a barriga do HUMPHREY é enorme!\kel
 
 message_71:
       faceset: MainCharacters_DreamWorld
@@ -187,7 +187,7 @@ message_71:
 message_72:
       faceset: MainCharacters_DreamWorld
       faceindex: 19
-      text: Aposto que seu gritar, iria fazer um \sinv[1]ECO\{OOOO!\kel
+      text: Aposto que se eu gritar, vai fazer um \sinv[1]ECO\{OOOO!\kel
 
 #HUMPHREY appears as a lump in front of party.
 
@@ -201,7 +201,7 @@ message_74:
 
 
 message_75:
-      text: Balém-vindos ao meu lar.\! Vocês estão surpresos em me ver?<br>\!Eu estou sempre aqui.\! Eu estou dentro de mim, e ao redor de todos vocês!\n<HUMPHREY>
+      text: Balém-vindos ao meu lar.\! Vocês tão surpresos em me ver?<br>\!Eu estou sempre aqui.\! Eu estou dentro de mim, e ao redor de todos vocês!\n<HUMPHREY>
 
 #HUMPHREY lumps appear all around.
 
@@ -216,24 +216,24 @@ message_77:
 message_78:
       faceset: MainCharacters_DreamWorld
       faceindex: 18
-      text: Wow, isso é tão legal, HUMPHREY! <br>\!Eu queria poder fazer isso.\kel
+      text: Uau, isso é tão legal HUMPHREY! <br>\!Eu queria poder fazer isso.\kel
 
 message_79:
       faceset: MainCharacters_DreamWorld
       faceindex: 11
-      text: É meio nojento se me perguntar.\aub
+      text: É meio nojento se na verdade.\aub
 
 #HUMPHREY appears in front of AUBREY.
 
 message_80:
-      text: Wow...\! Tão rude...\n<HUMPHREY>
+      text: Uau...\! Tão rude...\n<HUMPHREY>
 
 #HERO walks toward the center of the map and looks around.
 
 message_81:
       faceset: MainCharacters_DreamWorld
       faceindex: 39
-      text: Hmm...\! Tem muitos caminhos pra ir...\!<br>Onde a gente devia começar?\her
+      text: Hmm...\! Tem muitos caminhos pra ir...\!<br>Por onde a gente devia começar?\her
 
 #HUMPHREY appears in front of HERO.
 
@@ -241,4 +241,4 @@ message_82:
       text: Esquerda...\! Direita...\! Pra cima...\! Ao redor...\! <br>Importa?\! É tudo pra frente não é?\! <br>Só escolha um! É fácil!\n<HUMPHREY>
 
 message_83:
-      text: \n<HUMPHREY>\{\sinv[1]YOOOOO-HOOOOOOOOOO~!!
+      text: \n<HUMPHREY>\{\sinv[1]IOOOOO-HOOOOOOOOOO~!!
