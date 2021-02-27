@@ -31,7 +31,7 @@ message_3:
 message_4:
       faceset: MainCharacters_DreamWorld
       faceindex: 30
-      text: \kelEi! Eles tão chiando pra gente!\! Não podemos deixá-los fazer isso!\!<br>\Com[2]Vamos ensinar a eles uma lição!
+      text: \kelEi! Eles tão chiando pra gente!\! Não podemos deixá-los fazer isso!\!<br>\Com[2]Vamos dar uma lição neles!
 
 #AFTERBATTLE
 
@@ -71,7 +71,7 @@ message_55:
 message_60:
       faceset: MainCharacters_DreamWorld
       faceindex: 31
-      text: \kel\Com[2]\sinv[1]\{PWWEEEEHHHHH!!\!\}<br>Ewwwwwwwwww...\!\sinv[0] O que é tudo isso?
+      text: \kel\Com[2]\sinv[1]\{PWWEEEEHHHHH!!\!\}<br>Ecaaaaaaa...\!\sinv[0] O que é tudo isso?
 
 message_61:
       faceset: MainCharacters_DreamWorld
@@ -81,7 +81,7 @@ message_61:
 message_62:
       faceset: MainCharacters_DreamWorld
       faceindex: 7
-      text: \aub\Com[2]\sinv[2]\{ACHHOOOOOOO!!\sinv[0]\}\!<br>Urgh...\! Meu nariz tá coçando...
+      text: \aub\Com[2]\sinv[2]\{ATCHIIIIMM!!\sinv[0]\}\!<br>Urgh...\! Meu nariz tá coçando...
 
 #--------------
 #ACTUAL MOLE + SAFE
@@ -142,7 +142,7 @@ message_230:
 
 #Examine safe for the first time:
 message_212:
-      text: \n<TOUPEIRA DE VERDADE>\com[2]Nem pense em abrir aqueles cofres!\! Definitivamente não tem nenhuma combinação ou coisa do tipo por aqui!
+      text: \n<TOUPEIRA DE VERDADE>\com[2]Nem pense em abrir aquele cofre!\! Definitivamente não tem nenhuma combinação ou coisa do tipo por aqui!
 
 #Talk to the safe:
 message_213:
@@ -276,10 +276,10 @@ message_229:
 #-----------
 #After entering BOLACHO and BISCOITA's lair:
 message_63:
-      text: \n<BISCOITA>Nós nascemos para assar pão, do dia a noite...\! \sinv[1]Pão fresco...\| Pão fresco...\| Pão fresco...\sinv[0]
+      text: \n<BISCOITA>Nós nascemos para assar pão, do dia à noite...\! \sinv[1]Pão fresco...\| Pão fresco...\| Pão fresco...\sinv[0]
 
 message_64:
-      text: \n<BISCOITA>É uma vida dura... e não é muito recompensadora...<br>mas isso é tudo que temo...\!<Br>Nós só temos que ficar gratos, não é BOLACHO?
+      text: \n<BISCOITA>É uma vida dura... e não é muito recompensadora...<br>mas isso é tudo que temos...\!<Br>Nós só temos que ficar gratos, não é BOLACHO?
 
 message_65:
       text: \n<BOLACHO>\sinv[1]Ohooo...\sinv[0]
