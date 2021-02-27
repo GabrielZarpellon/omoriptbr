@@ -43,19 +43,19 @@ message_209:
 message_0:
       faceset: MainCharacters_DreamWorld
       faceindex: 17
-      text: Ei, OMORI! Ai está você!\! Onde você esteve, colega?\kel
+      text: Ei, OMORI! Ai tá você!\! Onde cê esteve colega?\kel
 
 message_1:
       faceset: MainCharacters_DreamWorld
       faceindex: 20
-      text: Enquanto você esteve fora...\! todo mundo...\kel
+      text: Enquanto você tava fora...\! todo mundo...\kel
 
 #KEL turns around.
 
 message_2:
       faceset: MainCharacters_DreamWorld
       faceindex: 19
-      text: Foi enganado a assinar contratos!\!<br>Então...\! todo mundo tem emprego agora!\kel
+      text: Foi enganado em assinar contratos!\!<br>Então...\! todo mundo tem emprego agora!\kel
 
 #KEL turns to OMORI.
 
@@ -67,7 +67,7 @@ message_3:
 message_4:
       faceset: MainCharacters_DreamWorld
       faceindex: 17
-      text: Meu trabalho é apontar as pessoas para o \c[11]ÚLTIMO RESORT\c[0].\!<br>É lá que eu trabalho!\kel
+      text: Meu trabalho é apontar pras pessoas para o \c[11]ÚLTIMO RESORT\c[0].\!<br>É lá que eu trabalho!\kel
 
 #KEL turns toward the LAST RESORT. Camera pans to LAST RESORT.
 
@@ -85,7 +85,7 @@ message_12:
 message_13:
       faceset: MainCharacters_DreamWorld
       faceindex: 17
-      text: Vamos lá, Eu te mostro!\! É logo através da água.\kel
+      text: Vamos lá, eu te mostro!\! É logo ali pela água.\kel
 
 
 message_19:
@@ -96,7 +96,7 @@ message_19:
 message_14:
       faceset: MainCharacters_DreamWorld
       faceindex: 19
-      text: \kelEstamos quase lá, Eu juro.\! É só um taxi de distância!
+      text: \kelEstamos quase lá, eu juro.\! É só um taxi de distância!
 
 
 message_18:
@@ -124,7 +124,7 @@ message_5:
 message_17:
       faceset: MainCharacters_DreamWorld
       faceindex: 19
-      text: Olha, OMORI. Está logo alí na frente!\kel
+      text: Olha, OMORI. Tá logo alí na frente!\kel
 
 message_16:
       faceset: MainCharacters_DreamWorld
@@ -134,7 +134,7 @@ message_16:
 message_6:
       faceset: MainCharacters_DreamWorld
       faceindex: 27
-      text: Mas eu tenho que dizer...\! esse trabalho não é o que eu esperava.\kel
+      text: Mas eu preciso dizer...\! esse trabalho não é o que eu esperava.\kel
 
 message_7:
       faceset: MainCharacters_DreamWorld
@@ -156,7 +156,7 @@ message_9:
 message_10:
       faceset: MainCharacters_DreamWorld
       faceindex: 10
-      text: Hey!\aub
+      text: Ei!\aub
 
 
 
@@ -250,12 +250,12 @@ message_45:
 message_46:
       faceset: MainCharacters_DreamWorld
       faceindex: 19
-      text: Ok... AUBREY, Eu preciso que você respire.\kel
+      text: Ok... AUBREY, eu preciso que você respire.\kel
 
 message_47:
       faceset: MainCharacters_DreamWorld
       faceindex: 9
-      text: Estou respirando, KEL.\! Estou respirando muito bem!\aub
+      text: Eu tô respirando, KEL.\! Eu tô respirando muito bem!\aub
 
 message_48:
       faceset: MainCharacters_DreamWorld
@@ -340,7 +340,7 @@ message_61:
 message_62:
       faceset: MainCharacters_DreamWorld
       faceindex: 18
-      text: Bem, Eu vim todo o caminho até aqui pra te contar...<br>que eu me demito!\! E eu tô levando a AUBREY comingo!\kel
+      text: Bem, eu vim todo o caminho até aqui pra te contar...<br>que eu me demito!\! E eu tô levando a AUBREY comingo!\kel
 
 message_63:
       text: \}Bem engraçado.\! Meu escritório, KEL.\! Agora.\jaw
@@ -376,7 +376,7 @@ message_69:
 message_72:
       faceset: MainCharacters_DreamWorld
       faceindex: 4
-      text: Oh minha nossa... é verdade!\! <br>Como eu pode esquecer?\! Temos que achar o BASIL!\aub
+      text: Oh minha nossa... é verdade!\! <br>Como eu pude esquecer?\! Temos que achar o BASIL!\aub
 
 # =========================================================================================
 # Cutscene: Hero the Manager
@@ -388,7 +388,7 @@ message_72:
 #MR. JAWSUM turns to party.
 
 message_80:
-      text: Ah... Você finalmente está aqui.\jaw
+      text: Ah... Você finalmente tá aqui.\jaw
 
 #Camera pans to MR. JAWSUM.
 
@@ -430,12 +430,12 @@ message_87:
       text: Uh... É, é isso aí!\! <br>Isso significa que você tem que deixar a gente ir!\kel
 
 message_88:
-      text: Hmm... Acho que posso respeitar isso.\! Uma promessa é uma promessa.\! AUBREY, Eu te deixo sair...\! mas você tem que levar o KEL com você.\jaw
+      text: Hmm... Acho que posso respeitar isso.\! Uma promessa é uma promessa.\! AUBREY, eu te deixo sair...\! mas você tem que levar o KEL com você.\jaw
 
 message_89:
       faceset: MainCharacters_DreamWorld
       faceindex: 2
-      text: Sério?\! Wow! Obrigado, SR. MANDIBARÃO. <br>Você é muito gentíl.\aub
+      text: Sério?\! Uau! Obrigada, SR. MANDIBARÃO. <br>Você é muito gentíl.\aub
 
 message_90:
       faceset: MainCharacters_DreamWorld
@@ -454,7 +454,7 @@ message_91:
 message_92:
       faceset: MainCharacters_DreamWorld
       faceindex: 18
-      text: Ah, é! A gente pode trazer o meu irmão HERO com a gente?\kel
+      text: Ah, é! A gente pode levar o meu irmão HERO com a gente?\kel
 
 message_93:
       text: ...\jaw
@@ -496,7 +496,7 @@ message_134:
 message_100:
       faceset: MainCharacters_DreamWorld
       faceindex: 39
-      text: Ah!\! E aqui está seu café.\! Só achei que você iria gostar.\her
+      text: Ah!\! E aqui tá seu café.\! Achei que você iria gostar.\her
 
 #ADD JAWHAWHAW
 
@@ -546,7 +546,7 @@ message_107:
 message_108:
       faceset: MainCharacters_DreamWorld
       faceindex: 46
-      text: Ah droga, é verdade! Temos que achar o BASIL!\! <br>Como eu podia me esquecer de algo tão importante?\her
+      text: Ah droga, é verdade! Temos que achar o BASIL!\! <br>Como eu me esqueci de algo tão importante?\her
 
 message_109:
       faceset: MainCharacters_DreamWorld
@@ -556,7 +556,7 @@ message_109:
 #HERO attempts to walk out.
 
 message_110:
-      text: Whoa calma aí, HERO. Não tão rápido!\!<br>Você ainda tem um trabalho inacabado pra fazer.\jaw
+      text: Opa calma aí, HERO. Não tão rápido!\!<br>Você ainda tem um trabalho inacabado pra fazer.\jaw
 
 message_111:
       text: Você ainda tem que inaugurar os VIPs pro leilão hoje!\jaw
@@ -577,7 +577,7 @@ message_114:
 message_115:
       faceset: MainCharacters_DreamWorld
       faceindex: 9
-      text: Grrr... Esqueça!\! BASIL precisa da gente! <br>Temos que ir, HERO!\aub
+      text: Grrr... Esquece!\! O BASIL precisa da gente! <br>Temos que ir, HERO!\aub
 
 message_116:
       text: Não escute ela, HERO! Por que você iria!?\! <br>Você nem assinou um contrato com ela!\jaw
@@ -598,7 +598,7 @@ message_119:
       text: \quake[1]Mísero...\! pedaço...\! de papel?\quake[0]\jaw
 
 message_120:
-      text: Você me disrespeita, garoto.\! Eu cuido de você... um jovemzinho sem experiência... e te transformo no empregado supremo!\jaw
+      text: Você me desrespeita, garoto.\! Eu cuido de você... um jovemzinho sem experiência... e te transformo no empregado supremo!\jaw
 
 message_121:
       text: Você não faria nada se não fosse por mim!\jaw
@@ -691,10 +691,10 @@ message_154:
       text: Tá bom, tá bom... Já deu, já deu!\jaw
 
 message_155:
-      text: Ai ai...\! Calma, PLUTÃO.<br>\!Eu já estou perdendo um empregado supremo hoje.\!<br>Eu não quero perder dois!\jaw
+      text: Ai ai...\! Calma, PLUTÃO.<br>\!Eu já tô perdendo um empregado supremo hoje.\!<br>Eu não quero perder dois!\jaw
 
 message_156:
-      text: Mas senhor, Eu consigo derrotá-los!<br>Só me dê mais um pouco de tempo.\plu
+      text: Mas senhor, eu consigo derrotá-los!<br>Só me dê mais um pouco de tempo.\plu
 
 message_157:
       text: Não se preoucupe, PLUTÃO.<br>Eu não vou arriscar mais recursos hoje.\jaw
@@ -762,12 +762,12 @@ message_169:
 message_170:
       faceset: MainCharacters_DreamWorld
       faceindex: 17
-      text: Você está certo, HERO! Estamos quase na linha de chegada...\!<br>Eu posso sentir!\kel
+      text: Você tá certo, HERO! Estamos quase na linha de chegada...\!<br>Eu posso sentir!\kel
 
 message_171:
       faceset: MainCharacters_DreamWorld
       faceindex: 1
-      text: Espere por nós, BASIL! Nós  vamos te encontrar daqui a pouco.\aub
+      text: Espere por nós, BASIL! Nós vamos te encontrar daqui a pouco.\aub
 
 message_172:
       text: Agora essa é a dedicação que eu gosto de ver...\!<br>Peguem eles, suas crianças birutas.\jaw
@@ -861,17 +861,17 @@ message_214:
 message_220:
       faceset: MainCharacters_DreamWorld
       faceindex: 36
-      text: \herSim, isso é verdade, KEL!\! Estavamos procurando pelo BASIL.
+      text: \herSim, isso é verdade, KEL!\! A gente tava procurando pelo BASIL.
 
 message_221:
       faceset: MainCharacters_DreamWorld
       faceindex: 19
-      text: \kelHmm...\! Você acha que o BASIL poderia estar em algum lugar no \c[11]ÚLTIMO RESORT\c[0]?
+      text: \kelHmm...\! Cê acha que o BASIL poderia estar em algum lugar no \c[11]ÚLTIMO RESORT\c[0]?
 
 message_222:
       faceset: MainCharacters_DreamWorld
       faceindex: 10
-      text: \aubSem chance!<br>BASIL não seria pego nem morto aqui!<br><br>Ele parece o tipo de pessoa que iria gostar de coisas assim!?
+      text: \aubSem chance!<br>O BASIL não seria pego nem morto aqui!<br><br>Ele parece o tipo de pessoa que iria gostar de coisas assim!?
 
 message_223:
       faceset: MainCharacters_DreamWorld
@@ -881,7 +881,7 @@ message_223:
 message_224:
       faceset: MainCharacters_DreamWorld
       faceindex: 39
-      text: \herBem pensado, KEL!\! Porém... Eu acho que estamos bem longe de casa.\! Eu não acho que ninguém por aqui saberia como ele se parece.
+      text: \herBem pensado, KEL!\! Mas... eu acho que estamos bem longe de casa.\! Eu não acho que ninguém por aqui saberia como ele se parece.
 
 message_225:
       faceset: MainCharacters_DreamWorld
@@ -896,7 +896,7 @@ message_226:
 message_227:
       faceset: MainCharacters_DreamWorld
       faceindex: 17
-      text: \kelLegal, Eu começo!
+      text: \kelLegal, eu começo!
 
 #Kel turns around facing back
 
@@ -905,7 +905,7 @@ message_227:
 message_228:
       faceset: MainCharacters_DreamWorld
       faceindex: 10
-      text: \aubUmm...\! O que é isso!?\! Isso não se parece nada com o BASIL!\!<br>O cabelo do BASIL tipo assim.
+      text: \aubUmm...\! O que é isso!?\! Isso não se parece nada com o BASIL!\!<br>O cabelo do BASIL é tipo assim.
 
 #Aubrey snatches drawing SFX and turns to back
 
@@ -919,7 +919,7 @@ message_229:
 message_230:
       faceset: MainCharacters_DreamWorld
       faceindex: 30
-      text: \kelHey! O que você tá fazendo com a minha obra-prima!?\!<br>E desde quando o BASIL tem um nariz tão grande!?
+      text: \kelEi! O que que cê tá fazendo com a minha obra-prima!?\!<br>E desde quando o BASIL tem um nariz tão grande!?
 
 #hero walks up to aubrey
 
@@ -952,7 +952,7 @@ message_234:
 message_235:
       faceset: MainCharacters_DreamWorld
       faceindex: 5
-      text: \aubAi ai...\! Bem, isso não foi muito bem.
+      text: \aubAi ai...\! Bom, isso não foi muito bem.
 
 message_236:
       faceset: MainCharacters_DreamWorld
@@ -967,7 +967,7 @@ message_237:
 message_238:
       faceset: MainCharacters_DreamWorld
       faceindex: 39
-      text: \herHmm...\! Por que não começamos procurando pelo \c[11]POÇO SEM FUNDO\c[0]?\! Dá pra chegar lá bem facil de taxi.\! Tem sempre um na frente do \c[11]ÚLTIMO RESORT\c[0]!
+      text: \herHmm...\! Por que não começamos procurando pelo \c[11]POÇO SEM FUNDO\c[0]?\! Dá pra chegar lá bem facil de táxi.\! Tem sempre um na frente do \c[11]ÚLTIMO RESORT\c[0]!
 
 #Go into inventory to see BAD DRAWING picture.
 
@@ -997,12 +997,12 @@ message_306:
 message_310:
       faceset: MainCharacters_DreamWorld
       faceindex: 37
-      text: \herAh, é! Antes que eu esqueça...\! OMORI, pega isso!\! SR. MANDIBARÃO deu pra mim pra eu poder andar pelo \c[11]ÚLTIMO RESORT\c[0] mais rapidamente.
+      text: \herAh, é! Antes que eu esqueça...\! OMORI, pega isso!\! O SR. MANDIBARÃO deu pra mim pra eu poder andar pelo \c[11]ÚLTIMO RESORT\c[0] mais rápido.
 
 message_311:
-      text: HERO te deu um \c[4]CARTÃO V.I.P.\c[0]!\! Wow...
+      text: HERO te deu um \c[4]CARTÃO V.I.P.\c[0]!\! Uau...
 
 message_312:
       faceset: MainCharacters_DreamWorld
       faceindex: 39
-      text: \herAqui...\! Agora todos os elevadores serão mais rápidos.\! Só um aviso...\! Pode ficar meio turbulento!
+      text: \herAqui...\! Agora todos os elevadores serão mais rápidos.\! Só um aviso...\! Talvez fique meio turbulento!
