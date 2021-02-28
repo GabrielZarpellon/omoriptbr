@@ -17,7 +17,7 @@ message_1:
 message_2:
       faceset: MainCharacter_Basil
       faceindex: 1
-      text: \basÉ...\! é você mesmo!\!<br>Graças a Deus você está aqui... Eu estou tão aliviado.
+      text: \basÉ...\! é você mesmo!\!<br>Graças a Deus você está aqui... Eu tô tão aliviado.
 
 message_3:
       faceset: MainCharacter_Basil
@@ -27,22 +27,22 @@ message_3:
 message_4:
       faceset: MainCharacter_Basil
       faceindex: 4
-      text: \basMe desculpe...\! Talvez eu devesse ter tentado mais...
+      text: \basMe desculpa...\! Talvez eu devesse ter tentado mais...
 
 message_5:
       faceset: MainCharacter_Basil
       faceindex: 0
-      text: \basPor todo o tempo que eu estive aqui, fiquei vendo o meu \c[4]ÁLBUM DE FOTOS\c[0] para ter companhia...
+      text: \basPor todo o tempo que eu estive aqui, eu fiquei vendo o meu \c[4]ÁLBUM DE FOTOS\c[0] pra ter companhia...
 
 message_6:
       faceset: MainCharacter_Basil
       faceindex: 2
-      text: \basQuando eu me ficava com medo, eu olhava todas as nossas memórias felizes juntos para me acalmar...
+      text: \basQuando eu ficava com medo, eu olhava todas as nossas memórias felizes juntos pra me acalmar...
 
 message_7:
       faceset: MainCharacter_Basil
       faceindex: 1
-      text: \basEu sabia que você iria vir me salvar, OMORI!<br>Você é o meu melhor amigo, afinal!
+      text: \basEu sabia que você viria me salvar, OMORI!<br>Você é o meu melhor amigo, afinal!
 
 message_8:
       faceset: MainCharacter_Basil
@@ -66,7 +66,7 @@ message_10:
 message_20:
       faceset: MainCharacter_Basil
       faceindex: 6
-      text: \basEi, OMORI...\! Eu estava pensando...\!<br>Você sabe como eu fui parar aqui?
+      text: \basEi, OMORI...\! Eu tava pensando...\!<br>Você sabe como eu fui parar aqui?
 
 message_21:
       faceset: MainCharacter_Basil
@@ -105,7 +105,7 @@ message_30:
 message_31:
       faceset: MainCharacter_Basil
       faceindex: 2
-      text: \basComo vai todo mundo?\!<br>Eu espero que vocês não tenham se preocupado demais comigo...\!<br>Mal posso esperar para ver todo mundo novamente!
+      text: \basComo vai todo mundo?\!<br>Eu espero que vocês não tenham se preocupado muito comigo...\!<br>Mal posso esperar para ver todo mundo novamente!
 
 # =========================================================================================
 # Cutscene: Upon entering Forest Stump.
@@ -128,7 +128,7 @@ message_41:
 message_50:
       faceset: MainCharacter_Basil
       faceindex: 0
-      text: \basVocê está se sentindo bem, OMORI?\! Você está agindo meio estranho...
+      text: \basVocê tá se sentindo bem, OMORI?\! Você está agindo meio estranho...
 
 message_51:
       faceset: MainCharacter_Basil
@@ -147,7 +147,7 @@ message_60:
 message_61:
       faceset: MainCharacter_Basil
       faceindex: 3
-      text: \basÉ...\! umm...\! sobre a MARI...\!<br>Você sabe do que eu estou falando?
+      text: \basÉ...\! éé...\! sobre a MARI...\!<br>Você sabe do que eu tô falando?
 
 message_62:
       faceset: MainCharacter_Basil
@@ -157,7 +157,7 @@ message_62:
 message_63:
       faceset: MainCharacter_Basil
       faceindex: 3
-      text: \basAi!\! Esses insetos machucam mesmo...\! Eu acho que eles estão me picando!\! Ack! Eu não consigo tirar eles de mim!
+      text: \basAi!\! Esses insetos machucam mesmo...\! Eu acho que eles estão me picando!\! Ai! Eu não consigo tirar eles de mim!
 
 message_64:
       faceset: MainCharacter_Basil
@@ -245,7 +245,7 @@ message_111:
 message_107:
       faceset: MainCharacter_Basil
       faceindex: 4
-      text: \basEspera, OMORI.\! Eu... Eu acho que estou preso.
+      text: \basEspera, OMORI.\! Eu... Eu acho que eu tô preso.
 
 message_108:
       faceset: MainCharacter_Basil
@@ -292,12 +292,12 @@ message_122:
 message_123:
       faceset: MainCharacter_Basil
       faceindex: 1
-      text: \basHERO! É você!\! O que está fazendo aqui?
+      text: \basHERO! É você!\! O que tá fazendo aqui?
 
 message_124:
       faceset: MainCharacter_Basil
       faceindex: 1
-      text: \basVeja, OMORI! O HERO está aqui!\! vamos segui-lo!
+      text: \basVeja, OMORI! O HERO tá aqui!\! Vamos seguir ele!
 
 #FOLLOW HERO
 
@@ -316,7 +316,7 @@ message_126:
 message_127:
       faceset: MainCharacter_Basil
       faceindex: 3
-      text: \baE-Espera...\! O que...\! O que vocês estão fazendo?
+      text: \baE-Espera...\! O que...\! O que vocês tão fazendo?
 
 message_128:
       faceset: MainCharacter_Basil
@@ -337,7 +337,7 @@ message_134:
 message_130:
       faceset: MainCharacter_Basil
       faceindex: 4
-      text: \basE-Ei, OMORI...\! Você está sendo meio frio...\!<br>Eu fiz algo de errado?
+      text: \basE-Ei, OMORI...\! Você tá sendo meio frio...\!<br>Eu fiz algo de errado?
 
 message_131:
       faceset: MainCharacter_Basil
@@ -412,7 +412,7 @@ message_147:
 message_148:
       faceset: MainCharacter_Basil
       faceindex: 4
-      text: \basO-OMORI, Me ajuda!
+      text: \basO-OMORI, me ajuda!
 
 # =========================================================================================
 # NEUTRAL ROUTE: Upon entering Black Space Entrance.
@@ -426,7 +426,7 @@ message_150:
 message_151:
       faceset: MainCharacter_Basil
       faceindex: 1
-      text: \basVem, vamos lá! Todo mundo está esperando por nós!
+      text: \basVem, vamos lá! Todo mundo tá esperando por nós!
 
 #INSIDE THE TREEHOUSE
 
