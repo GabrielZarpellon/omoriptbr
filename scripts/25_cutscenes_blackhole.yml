@@ -247,7 +247,7 @@ message_94:
 message_95:
       faceset: MainCharacters_DreamWorld
       faceindex: 17
-      text: Eu quero ver também!\! Wow, eu tô bonitão ein!\kel
+      text: Eu quero ver também!\! Uau, eu tô bonitão ein!\kel
 
 #KEL runs up to the front of BASIL.
 
@@ -256,7 +256,7 @@ message_95:
 message_96:
       faceset: MainCharacter_Basil
       faceindex: 2
-      text: Oh hey, OMORI! Você queria ver a foto também?\!<br>Aqui, você pode segurar.\bas
+      text: Oh ei, OMORI! Você quer ver a foto também?\!<br>Aqui, você pode segurar.\bas
 
 message_97:
       text: BASIL te deu uma \c[4]FOTO EM GRUPO\c[0].
@@ -266,14 +266,14 @@ message_97:
 message_98:
       faceset: MainCharacter_Basil
       faceindex: 1
-      text: É uma foto agradável, não é?\! Vocês parecem tão felizes...\!<br>Eu devia adicionar a minha coleção!\bas
+      text: É uma foto agradável, não é?\! Vocês parecem tão felizes...\!<br>Eu devia colocar na minha coleção!\bas
 
 #BASIL takes out his PHOTO ALBUM.
 
 message_99:
       faceset: MainCharacters_DreamWorld
       faceindex: 18
-      text: \Com[2]\{Woo-hoo!\}<br>Outra foto perfeita para o álbum!\kel
+      text: \Com[2]\{Uuu-hul!\}<br>Outra foto perfeita pro álbum!\kel
 
 message_100:
       faceset: MainCharacters_DreamWorld
@@ -295,7 +295,7 @@ message_101:
 message_102:
       faceset: MainCharacter_Basil
       faceindex: 2
-      text: Oi, gente! Como vocês estão?\!<br>Vocês querem olhar o meu \c[4]ÁLBUM DE FOTOS\c[0]?\bas
+      text: Oi, gente! Como vocês estão?\!<br>Vocês querem ver o meu \c[4]ÁLBUM DE FOTOS\c[0]?\bas
 
 #[YES/NO]
 
@@ -314,12 +314,12 @@ message_104:
 message_110:
       faceset: MainCharacters_DreamWorld
       faceindex: 17
-      text: As fotos do Basil estão incríveis como sempre, hein?\kel
+      text: As fotos do BASIL tão incríveis como sempre, hein?\kel
 
 message_111:
       faceset: MainCharacters_DreamWorld
       faceindex: 37
-      text: Tudo bem, vamos lá!\! MARI sente falta de vocês já.\her
+      text: Tudo bem, vamos lá!\! A MARI tá sentindo falta de vocês.\her
 
 message_112:
       faceset: MainCharacters_DreamWorld
@@ -347,7 +347,7 @@ message_123:
       text: Quando você pegou seu novo violino pela primeira vez, você estava tão ansioso pra tocar comigo.\mar
 
 message_124:
-      text: Mas alcançar algo assim não é fácil.\mar
+      text: Mas me acompanhar não era fácil.\mar
 
 message_125:
       text: ...\mar
@@ -372,7 +372,7 @@ message_130:
 message_131:
       faceset: MainCharacter_Basil_dark
       faceindex: 31
-      text: \Com[2]Whoa, você me assustou, \n[8]!\her
+      text: \Com[2]Nossa, você me assustou, \n[8]!\her
 
 message_132:
       faceset: MainCharacter_Basil_dark
@@ -392,7 +392,7 @@ message_134:
 message_135:
       faceset: MainCharacter_Basil_dark
       faceindex: 15
-      text: Foi difícil pra mim, também.\! Eu ainda penso nela todo dia.\her
+      text: Foi difícil pra mim também.\! Eu ainda penso nela todo dia.\her
 
 message_136:
       faceset: MainCharacter_Basil_dark
@@ -402,7 +402,7 @@ message_136:
 message_137:
       faceset: MainCharacter_Basil_dark
       faceindex: 30
-      text: Mas eu sabia que ela como pessoa que todos nós fossemos felizes, mesmo se fosse sem ela.\her
+      text: Mas eu sei que ela desejava que todos nós fossemos felizes, mesmo se fosse sem ela.\her
 
 message_138:
       faceset: MainCharacter_Basil_dark
@@ -412,7 +412,7 @@ message_138:
 message_139:
       faceset: MainCharacter_Basil
       faceindex: 13
-      text: Você devia descansar um pouco.\!<br>Vai pro andar de cima. Eu vou com você em um momento.\her
+      text: Você devia descansar um pouco.\!<br>Pode ir subindo. Eu encontro com você já já.\her
 
 #ENTER PIANO ROOM AFTER LEAVING
 
@@ -425,7 +425,7 @@ message_141:
 #Player walks back (Cant get close to HERO)
 
 message_145:
-      text: There's no room for you.
+      text: Não há espaço para você.
 
 message_146:
       text: O forte do KEL e o HERO.\!<br>Faz um tempo desde que você teve companhia em casa.
