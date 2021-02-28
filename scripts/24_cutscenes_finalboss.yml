@@ -18,15 +18,15 @@ message_2:
 message_3:
       faceset: MainCharacters_DreamWorld
       faceindex: 46
-      text: Uh-oh... É a SWEETHEART e aquelas bruxas marinhas!\her
+      text: Oh não... É a SWEETHEART e aquelas bruxas marinhas!\her
 
 message_4:
       faceset: MainCharacters_DreamWorld
       faceindex: 31
-      text: Não vamos nos meter nisso de jeito nenhum.\!<br>Vamos dar o fora daqui!\kel
+      text: Não vamos nos meter nisso de jeito nenhum.\!<br>Bora dar o fora daqui!\kel
 
 message_5:
-      text: Parados ai, crianças.\!<br>Eu devo corrigi-las...\! vocês estão extremamente enganadas.\! <br>Nós não somos bruxas...\! mas seguidoras da ciência!\n<MOLLY>
+      text: Parados ai, crianças.\!<br>Eu preciso corrigí-las...\! vocês estão extremamente enganadas.\! <br>Nós não somos bruxas...\! mas seguidoras da ciência!\n<MOLLY>
 
 #MEDUSA turns to MOLLY.
 
@@ -34,7 +34,7 @@ message_6:
       text: É um erro comum, eu temo.\!<br>Humanos tendem a ter medo do que eles não entendem.\n<MEDUSA>
 
 message_7:
-      text: Além disso...\! Eu acho que sei por que as pessoas acham que somos bruxas...\n<MEDUSA>
+      text: Além disso...\! Eu acho que sei porque as pessoas acham que somos bruxas...\n<MEDUSA>
 
 #MEDUSA turns to MOLLY.
 
@@ -63,7 +63,7 @@ message_13:
 #SWEETHEART turns to elevator.
 
 message_14:
-      text: Se vocês são tão insistentes em pegar suas CONCHAS inúteis...\!<br>deixem essas crianças cubrirem o pagamento!\swh
+      text: Se vocês são tão insistentes em pegar suas CONCHAS inúteis...\!<br>deixem essas crianças cobrirem o pagamento!\swh
 
 message_15:
       text: \Com[2]\sinv[2]OHOHO\{HOHOHO\{HOHOHO\{HOHO!!\swh
@@ -71,7 +71,7 @@ message_15:
 #SWEETHEART walks into elevator. Elevator doors close.
 
 message_16:
-      text: \{ONDE VOCÊ PENSA QUE VAI!?\n<MARINA>
+      text: \{ONDE CÊ PENSA QUE VAI!?\n<MARINA>
 
 message_17:
       text: \quake[1]\{HUMPHREY!\! PARA ELA AGORA!!\n<MARINA>
@@ -80,7 +80,7 @@ message_17:
 #HUMPHREY appears in front of MARINA.
 
 message_18:
-      text: \sinv[1]Yoo-hoo!\sinv[0]\! Estou aqui para relatar que SWEETHEART foi eliminada.\n<HUMPHREY>
+      text: \sinv[1]Iuu-huu!\sinv[0]\! Estou aqui para relatar que a SWEETHEART foi eliminada.\n<HUMPHREY>
 
 message_19:
       text: Que bom que você pediu!\! Eu temia que eu não iria conseguir me segurar por muito tempo.\n<HUMPHREY>
@@ -94,7 +94,7 @@ message_21:
 #MARINA is surprised.
 
 message_22:
-      text: \{AQUELA MOÇA TRAÍU A GENTE!!\!\}<br>Eu sabia que tinha algo suspeito nela.\n<MARINA>
+      text: \{AQUELA MOÇA TRAIU A GENTE!!\!\}<br>Eu sabia que tinha algo suspeito nela.\n<MARINA>
 
 #MEDUSA looks at MARINA.
 
@@ -126,7 +126,7 @@ message_27:
 message_28:
       faceset: MainCharacters_DreamWorld
       faceindex: 31
-      text: H-Huh?\! E-Então, uh...\! é...\! sobre isso...\!<br>Só por curiosidade...\! Quantos que ela te deve mesmo?\kel
+      text: H-Hã?\! E-Então, éé...\! é...\! sobre isso...\!<br>Só por curiosidade...\! Quanto que ela te deve mesmo?\kel
 
 message_29:
       text: Bem... Vamos ver!\n<MOLLY>
@@ -144,14 +144,14 @@ message_31:
 message_32:
       faceset: MainCharacters_DreamWorld
       faceindex: 7
-      text: \quake[1]\com[2]\{1000000 CONCHAS!?!?\!\}<br>\quake[0]Nós não temos isso tudo de dinheiro!\aub
+      text: \quake[1]\com[2]\{1000000 CONCHAS!?!?\!\}<br>\quake[0]A gente não tem tudo isso de dinheiro!\aub
 
 #if you somehow have 634626246329 clams
 
 message_150:
       faceset: MainCharacters_DreamWorld
       faceindex: 7
-      text: \quake[1]\com[2]\{1000000 CONCHAS!?!?\!\}<br>\quake[0]Nós não podemos te dar todo esse dinheiro!\aub
+      text: \quake[1]\com[2]\{1000000 CONCHAS!?!?\!\}<br>\quake[0]A gente não pode te dar todo esse dinheiro!\aub
 
 message_33:
       text: ...\! Oh?\n<MOLLY>
@@ -283,7 +283,7 @@ message_60:
       text: Sim... Parece que nossas presas precisam ser disciplinadas.\! <br>Alguém precisa ensinar vocês a ter maneiras adequadas!\n<MEDUSA>
 
 message_61:
-      text: Para presas, vocês são todos muito exigentes...\!<br>\sinv[1]Vocês não querem ser vendidos...\! Vocês não querem ser mascotes...\!<br>Vocês realmente deviam aprender o seu lugar...\n<MARINA>
+      text: Para presas, vocês são todos muito exigentes...\!<br>\sinv[1]Vocês não querem ser vendidos...\! Vocês não querem ser mascotes...\!<br>Vocês deviam saber da posição de vocês...\n<MARINA>
 
 message_62:
       text: Bem...\! Tanto faz...\! Tudo bem com a gente.\n<MARINA>
@@ -331,7 +331,7 @@ message_95:
 #MOLLY turns to MARINA.
 
 message_96:
-      text: Hm? Eu já alimentei ele a última vez!\! Além disso...<br>Eu usei todas as minhas CONCHAS no software pro último trabalho.\n<MOLLY>
+      text: Hm? Eu já alimentei ele da última vez!\! Além disso...<br>eu usei todas as minhas CONCHAS no software pro último trabalho.\n<MOLLY>
 
 #Screen shakes.
 
@@ -345,7 +345,7 @@ message_98:
       text: Ok, tá bom então.\! Que tal você, MEDUSA?\n<MARINA>
 
 message_99:
-      text: Bem, eu...\! Eu não estava esperando alimentar o HUMPHREY novamente tão cedo.\! Se minha memória não me falha. Não era sua vez de alimentar ele, MARINA?\n<MEDUSA>
+      text: Bem, eu...\! Eu não esperava ter que alimentar o HUMPHREY tão cedo.\! Se minha memória não me falha. Não era sua vez de alimentar ele, MARINA?\n<MEDUSA>
 
 #Screen shakes.
 #MARINA is nervous.
@@ -382,7 +382,7 @@ message_106:
       text: O que vamos fazer agora!?\! O HUMPHREY vai digerir tudo!\n<MARINA>
 
 message_107:
-      text: Hmmm...\! Talvez... devemos planejar uma escapatória?\n<MEDUSA>
+      text: Hmmm...\! Talvez... a gente devia bolar um plano pra fugir?\n<MEDUSA>
 
 message_108:
       text: Nós já desperdiçamos tanta energia.\! Talvez finalmente seja nossa hora de dormir com os peixinhos...\n<MOLLY>
@@ -390,7 +390,7 @@ message_108:
 #HUMPHREY's face appears below SLIME GIRLS.
 
 message_109:
-      text: \sinv[1]\{YOO\{OOO-\{HOOOO\{OOOOOO!!!\n<HUMPHREY>
+      text: \sinv[1]\{IUU\{UUU-\{HUUUU\{UUUUUU!!!\n<HUMPHREY>
 
 #HUMPHREY swallows SLIME GIRLS.
 
@@ -408,7 +408,7 @@ message_112:
 message_113:
       faceset: MainCharacters_DreamWorld
       faceindex: 31
-      text: HUMPHREY está fora de controle!\kel
+      text: O HUMPHREY tá fora de controle!\kel
 
 message_114:
       faceset: MainCharacters_DreamWorld
@@ -435,10 +435,10 @@ message_130:
 message_131:
       faceset: MainCharacters_DreamWorld
       faceindex: 10
-      text: \Com[2]HUMPHREY, pare com isso!\! Você já não comeu o suficiente?\! A gente promete te alimentar depois!\aub
+      text: \Com[2]HUMPHREY, para com isso!\! Você já não comeu o suficiente?\! A gente promete te alimentar depois!\aub
 
 message_132:
-      text: Mas...\! Você pode me alimentar agora!\! <br>Só...\! \quake[1]me deixa eu te comer.\n<HUMPHREY>
+      text: Mas...\! Vocês podem me alimentar agora!\! <br>Só...\! \quake[1]me deixa eu te comer.\n<HUMPHREY>
 
 #Multiple HUMPHREY appear and surround party.
 
@@ -451,10 +451,10 @@ message_133:
 message_134:
       faceset: MainCharacters_DreamWorld
       faceindex: 33
-      text: Por favor não coma a gente, HUMPHREY!<br>Não queremos ser comidos!\kel
+      text: Por favor não come a gente, HUMPHREY!<br>A gente não quer virar comida!\kel
 
 message_135:
-      text: Bem, é um pouco tarde para isso, não é?\!<br>Devia ter pensado nisso antes de entrar na minha boca! \quake[1]Nyak, nyak!\quake[0]\n<HUMPHREY>
+      text: Bem, tá um pouco tarde para isso, não é?\!<br>Devia ter pensado nisso antes de entrar na minha boca! \quake[1]Nyak, nyak!\quake[0]\n<HUMPHREY>
 
 #HERO looks back.
 
@@ -466,7 +466,7 @@ message_136:
 message_137:
       faceset: MainCharacters_DreamWorld
       faceindex: 10
-      text: Não diga isso, HERO!\aub
+      text: Não fala isso, HERO!\aub
 
 message_138:
       faceset: MainCharacters_DreamWorld
@@ -477,7 +477,7 @@ message_139:
       text: \quake[1]Nyak, nyak, nyak, nyak, nyak, nyak, nyak, nyak!!\quake[0]\n<HUMPHREY>
 
 message_140:
-      text: \sinv[1]Ah, não precisam se debaterem, crianças!\n<HUMPHREY>
+      text: \sinv[1]Ah, não precisam se debater, crianças!\n<HUMPHREY>
 
 message_141:
       text: Na verdade...\!<br>É muito mais satisfatório quando se prepara a própria comida!\n<HUMPHREY>
@@ -515,7 +515,7 @@ message_182:
 message_183:
       faceset: MainCharacters_DreamWorld
       faceindex: 31
-      text: \kelNão se preocupe, AUBREY. A gente vai superar isso!\!<br>Já saimos de várias situações grudentas antes!
+      text: \kelNão se preocupa, AUBREY. A gente vai conseguir!\!<br>Já saimos de várias situações grudentas antes!
 
 message_184:
       faceset: MainCharacters_DreamWorld
@@ -548,7 +548,7 @@ message_161:
 message_162:
       faceset: MainCharacters_DreamWorld
       faceindex: 48
-      text: Huff...\! huff...\! Essa foi... huff...\! por perto.\her
+      text: Huff...\! huff...\! Essa foi... huff...\! por pouco.\her
 
 message_163:
       faceset: MainCharacters_DreamWorld
