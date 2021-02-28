@@ -8,7 +8,7 @@
 #ROCOCO is an artist who is an elf.
 
 message_0:
-    text: \n<???>\sinv[1]Le gasp!\sinv[0]\! P-Poderia mesmo ser verdade!?
+    text: \n<???>\sinv[1]Le soupir!\sinv[0]\! P-Poderia mesmo ser verdade!?
 
 message_1:
     text: \n<???>Ah, finalmente...\! Companhia...
@@ -36,7 +36,7 @@ message_6:
 message_7:
     faceset: MainCharacters_DreamWorld
     faceindex: 28
-    text: \kelEsse cara...\! é meio esquisito.\! Vamos dar o fora daqui.
+    text: \kelEsse cara...\! é meio esquisito.\! Bora dar o fora daqui.
 
 #*ROCOCO runs to block exit*
 
@@ -49,7 +49,7 @@ message_9:
     text: \kelCom...\! licença.
 
 message_10:
-    text: \n<ROCOCO>\{\com[2]\quake[1]POR FAVOR ESCUTEM! EU ESTOU TÃO SOLITÁRIO!!
+    text: \n<ROCOCO>\{\com[2]\quake[1]POR FAVOR ESCUTEM! EU TÔ TÃO SOLITÁRIO!!
 
 #*pause*
 
@@ -90,7 +90,7 @@ message_21:
 
 
 message_22:
-      text: \n<ROCOCO>Pois mesmo naquela época, eu sabia que tudo tem um propósito.\! Eu fui enviado para esse planeta e sobrevivi por uma razão, e apenas uma razão...\! para repopular minha espécie.
+      text: \n<ROCOCO>Pois mesmo naquela época, eu sabia que tudo tinha um propósito.\! Eu fui enviado para esse planeta e sobrevivi por uma razão, e apenas uma razão...\! para repopular minha espécie.
 
 #*pause*
 
@@ -101,7 +101,7 @@ message_24:
     text: \n<ROCOCO>Em certo ponto...\! eu e SWEETHEART nos apaixonamos, nos tornamos noivos, e nos mudamos para esse castelo gigante juntos!
 
 message_25:
-    text: \n<ROCOCO>Nós éramos inseparáveis, eu e ela... e nos amávamos de verdade!\! Eu faria qualquer coisa por ela, qualquer coisa mesmo!
+    text: \n<ROCOCO>Nós éramos inseparáveis, eu e ela... nós nos amávamos de verdade!\! Eu faria qualquer coisa por ela, qualquer coisa mesmo!
 
 message_26:
     text: \n<ROCOCO>Eu estava pronto para passar o resto de nossas vidas juntos...\! envelhecer...\! e criar centenas e centenas de filhos!
@@ -113,7 +113,7 @@ message_28:
     text: \n<ROCOCO>De qualquer forma, continuando minha história...
 
 message_29:
-    text: \n<ROCOCO>Enfim, toda época boa precisa ter um fim.\! Enquanto a fanbase da SWEETHEART crescia, nós se distanciávamos.
+    text: \n<ROCOCO>Enfim, toda época boa precisa ter um fim.\! Enquanto a fanbase da SWEETHEART crescia, nós nos distanciávamos.
 
 message_30:
     text: \n<ROCOCO>Ela começou a receber presentes e cartas de pretendentes de todo o universo...\! pedindo uma chance para provar o amor por ela.
@@ -144,7 +144,7 @@ message_38:
 message_39:
     faceset: MainCharacters_DreamWorld
     faceindex: 47
-    text: \herUau, senhor.\! Essa é uma história bem... umm...\| chocante.
+    text: \herUau, senhor.\! Essa é uma história bem... ééé...\| chocante.
 
 #ROCOCO shakes.
 
@@ -154,7 +154,7 @@ message_40:
 message_41:
     faceset: MainCharacters_DreamWorld
     faceindex: 4
-    text: \aubBom...\! Meus pesâmes por tudo isso...\! Nós estamos indo agora.
+    text: \aubBom...\! Meus pesâmes por tudo isso...\! A gente tem que ir agora.
 
 #party gets up
 
@@ -237,7 +237,7 @@ message_58:
 #Upon returning once painting is complete:
 
 message_59:
-    text: \n<ROCOCO>\sinv[1]Le gasp!\sinv[0]\! Vocês retornaram!
+    text: \n<ROCOCO>\sinv[1]Le soupir!\sinv[0]\! Vocês retornaram!
 
 message_60:
       text: \n<ROCOCO>Por favor admirem minha nova obra-prima.\! Já está exposta na galeria.
@@ -299,7 +299,7 @@ message_76:
     text: \"AS PERIPÉCIAS INCOMUNS DE OMORI\"<br>\!- Pelo O Grande Artista, ROCOCO
 
 message_77:
-    text: \n<COMENTÁRIO DO ARTISTA>"O que!? Você está surpreso?\! O que você está falando, hein? Um artista não pode mudar seu estilo!?"
+    text: \n<COMENTÁRIO DO ARTISTA>"O quê!? Você está surpreso?\! O que você está falando, hein? Um artista não pode mudar seu estilo!?"
 
 #5th piece: Renaissance (WIP)
 #Cost: 25000 CLAMS
@@ -308,7 +308,7 @@ message_78:
     text: \"A REVELAÇÃO FINAL\"<br>\!- Pelo O Grande Artista, ROCOCO
 
 message_79:
-    text: \n<COMENTÁRIO DO ARTISTA>"Não vou mentir para você.\! Eu tive dificuldade com essa, mas acho que ficou meio decente.\! Meu próximo trabalho será melhor!"
+    text: \n<COMENTÁRIO DO ARTISTA>"Não vou mentir para vocês.\! Eu tive dificuldade com essa, mas acho que ficou meio decente.\! Meu próximo trabalho será melhor!"
 
 #6th piece: Pixel Art (WIP)
 #Cost: 50000 CLAMS
@@ -330,23 +330,23 @@ message_1000:
 
 #Before HERO is in party:
 message_90:
-      text: \n<CARA JACARÉ>Ufa...\! Estou quase finalizando o tributo para o nosso funcionário do século.<br><br>Olhe só para mim fazendo estátuas...\! Nunca imaginei que eu poderia realmente conseguir, mas o chefe sempre acreditou em mim!
+      text: \n<CARA JACARÉ>Ufa...\! Eu tô quase finalizando o tributo pro nosso funcionário do século.<br><br>Olhe só para mim, fazendo estátuas...\! Nunca imaginei que eu poderia realmente conseguir, mas o chefe sempre acreditou em mim!
 
 #After HERO is in party:
 message_91:
-    text: \n<CARA JACARÉ>Ei HERO! Só estou terminando de finalizar sua estátua por ordens do chefe.\! Está ficando muito bonito, posso dizer...
+    text: \n<CARA JACARÉ>Ei HERO! Só tô terminando de finalizar sua estátua por ordens do chefe.\! Tá ficando muito bonito, posso dizer...
 
 #After Hero becomes the boss, the Gator Guy will move to his work station.
 #Since Hero is the boss, the GATOR GUY will offer to make a statue of OMORI, AUBREY or KEL (since Hero will already be completed.)
 
 message_92:
-    text: \n<CARA JACARÉ>Ei, chefe novo!\! Sempre pensei que você iria se tornar o chefe um dia.\! Espero que o trabalho esteja indo bem.
+    text: \n<CARA JACARÉ>Ei, novo chefe!\! Sempre pensei que você iria se tornar o chefe um dia.\! Espero que o trabalho esteja indo bem.
 
 message_93:
-    text: \n<CARA JACARÉ>Vocês quatro parecem ser um grupo unido, mas a sua estátua está um pouco solitária ali, HERO.
+    text: \n<CARA JACARÉ>Vocês quatro parecem ser um grupo unido, mas a sua estátua tá um pouco solitária ali, HERO.
 
 message_94:
-    text: \n<CARA JACARÉ>Se vocês quiserem que eu faça vocês todos juntos, eu posso fazer...\! Mas eu sou apenas um escultor humilde... não estou lucrando as altas granas como vocês.
+    text: \n<CARA JACARÉ>Se vocês quiserem que eu faça vocês todos juntos, eu posso fazer...\! Mas eu sou apenas um escultor humilde... não tô lucrando as altas granas como vocês.
 
 message_95:
       text: \n<CARA JACARÉ>Porém, eu devo ao antigo chefe um grande favor.\! Se você quiser que eu trabalhe, vocês ainda precisarão pagar pelos materiais...\! algo por volta de 3000 CONCHAS por cada.
@@ -366,7 +366,7 @@ message_98:
 #[NO/NEVERMIND]
 
 message_99:
-      text: \n<CARA JACARÉ>Certo! Você que manda, boss...\! mas do meu humilde ponto de vista, eu acho que sua estátua poderia ter alguns amigos.
+      text: \n<CARA JACARÉ>Certo! Você que manda, chefe...\! mas do meu humilde ponto de vista, eu acho que sua estátua poderia ter alguns amigos.
 
 message_1002:
       text: \n<CARA JACARÉ>Certo...\! Você que manda, chefe...
@@ -375,20 +375,20 @@ message_1002:
 
 #After you come back when the statue is complete:
 message_100:
-    text: \n<CARA JACARÉ>O que você acha, chefe?\! Eu acho que sua estátua está um pouco menos solitária agora.
+    text: \n<CARA JACARÉ>O que você acha, chefe?\! Eu acho que sua estátua tá um pouco menos solitária agora.
 message_101:
-    text: \n<CARA JACARÉ>Você quer que eu crie um novo amigo?\!<br>Isso vai lhe custar 3000 CONCHAS.
+    text: \n<CARA JACARÉ>Você quer que eu crie um novo amigo?\!<br>Isso vai te custar 3000 CONCHAS.
 
 #After OMORI, AUBREY, and KEL statues are complete:
 
 message_102:
-      text: \n<CARA JACARÉ>O que você acha, chefe?\! Eu acho que sua estátua está um pouco menos solitária agora.
+      text: \n<CARA JACARÉ>O que cê acha, chefe?\! Eu acho que sua estátua tá um pouco menos solitária agora.
 
 message_103:
     text: \n<CARA JACARÉ>Você sabe... eu estava conversando com seus amigos no piquenique e eu acho que eles deveriam ser convidados para esse grupo de estátuas!
 
 message_104:
-    text: \n<CARA JACARÉ>Você quer que eu crie um novo amigo?\!<br>Isso vai lhe custar 3000 CONCHAS.
+    text: \n<CARA JACARÉ>Você quer que eu crie um novo amigo?\!<br>Isso vai te custar 3000 CONCHAS.
 
 message_105:
       text: \n<CARA JACARÉ>Você quer que eu crie uma estátua de qual amigo seu?
@@ -396,12 +396,12 @@ message_105:
 
 #After completing MARI/BASIL statues:
 message_106:
-    text: \n<CARA JACARÉ>O que você acha, chefe?\! Eu acho que sua estátua está um pouco menos solitária agora.
+    text: \n<CARA JACARÉ>O que você acha, chefe?\! Eu acho que sua estátua tá um pouco menos solitária agora.
 
 #*GATOR GUY looks at statues*
 
 message_107:
-    text: \n<CARA JACARÉ>Cara... Agora sou eu que estou me sentindo sozinho...\! Se não for pedir muito, você acha que eu posso participar do seu grupo de estátuas?
+    text: \n<CARA JACARÉ>Cara... Agora sou eu que tô me sentindo sozinho...\! Se não for pedir muito, você acha que eu posso participar do seu grupo de estátuas?
 
 #After completing GATOR GUY statue:
 
@@ -417,7 +417,7 @@ message_110:
     text: \n<CARA JACARÉ>Obrigado por me fazer parte deste grupo, mesmo que apenas como uma estátua.\! Vocês são os caras.
 
 message_111:
-    text: \n<CARA JACARÉ>Aqui está meu número de telefone, chefe.\! Me ligue caso você precise de ajuda.
+    text: \n<CARA JACARÉ>Aqui tá meu número de telefone, chefe.\! Me ligue caso você precise de ajuda.
 
 message_112:
     text: HERO aprendeu \c[1]GATORADE\c[0]!
