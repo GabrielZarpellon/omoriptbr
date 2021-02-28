@@ -35,7 +35,7 @@ message_4:
 #SWEETHEART is surprised.
 
 message_5:
-      text: Não encoste no vidro, sua tola! Você ira arruinar o experimento!\n<MEDUSA>
+      text: Não encoste no vidro, sua tola! Você vai arruinar o experimento!\n<MEDUSA>
 
 message_6:
       text: \quake[1]\{\Com[2]BEM...\! \Com[2]EU...\! \Com[2]NUNCA!!\swh
@@ -63,13 +63,13 @@ message_11:
       text: O que disse? Eu te ouvi corretamente?\!<br>Mas ela é tudo que você pediu e mais!\n<MEDUSA>
 
 message_12:
-      text: Ah, sua simplezinha.\! Não há nada mais perfeito que eu...<br>Mas eu vejo que você não entende isso.\swh
+      text: Ah, sua simpleszinha.\! Não há nada mais perfeito que eu...<br>Mas tô vendo que você não entende isso.\swh
 
 message_13:
-      text: Você não é nada além de uma fraude.\!<br>Isso foi um enorme desperdício do meu tempo!<br>\!Estou sumindo daqui-\swh
+      text: Você não é nada além de uma fraude.\!<br>Isso foi um enorme desperdício do meu tempo!<br>\!Eu tô sumindo daqui-\swh
 
 message_14:
-      text: \Com[2]Ah, Eu já me cansei de suas baboseiras!<br>Cliente ou não, você realmente me tirou do sério!\!<br>Quem te ensinou a tagarelar assim?\n<MEDUSA>
+      text: \Com[2]Ah, eu me cansei das suas baboseiras!<br>Cliente ou não, você realmente me tirou do sério!\!<br>Quem te ensinou a tagarelar assim?\n<MEDUSA>
 
 message_15:
       text: Agora... Se me der licença, isso é um desperdício da minha preciosa energia...\! Eu tenho assuntos muito mais importantes para cuidar.\n<MEDUSA>
@@ -101,7 +101,7 @@ message_32:
 #MARINA performs surgery on a slanted panel.
 
 message_33:
-      text: Err...\! Uh...\! Oops...\n<MARINA>
+      text: Err...\! Éé...\! Oops...\n<MARINA>
 
 message_34:
       text: ...\n<MARINA>
@@ -129,7 +129,7 @@ message_39:
 #SWEETHEART turns to MUTANTHEART.
 
 message_40:
-      text: Você me desapontou muito!\! \Com[2]Estou sumindo daqui!\swh
+      text: Você me desapontou muito!\! \Com[2]Eu tô é sumindo daqui!\swh
 
 #SWEETHEART storms off.
 #MARINA steps forward.
@@ -154,7 +154,7 @@ message_53:
 #MOLLY turns to SWEETHEART.
 
 message_54:
-      text: Meu trabalho leva paciência...\! Pare de falar, querida! Eu preciso me concentrar.\n<MOLLY>
+      text: Meu trabalho requer paciência...\! Pare de falar, querida! Eu preciso me concentrar.\n<MOLLY>
 
 #MOLLY turns back around. MOLLY types and presses buttons.
 
@@ -187,12 +187,12 @@ message_61:
       text: ... ... ... \n<MOLLY>
 
 message_62:
-      text: Oh...\! Bem, isso não soa muito certo.\! <br>Algo deve ter dado errado no código.\n<MOLLY>
+      text: Oh...\! Bem, isso não parece muito certo.\! <br>Algo deve ter dado errado no código.\n<MOLLY>
 
 #MOLLY turns to SWEETHEART.
 
 message_63:
-      text: É por que você fez eu apressar meu trabalho!\! <br>Ao invés de amar, agora deve estar programado... \!\quake[1]pra matar!\n<MOLLY>
+      text: É por que você fez eu apressar meu trabalho!\! <br>Ao invés de amar, agora ela deve estar programada... \!\quake[1]pra matar!\n<MOLLY>
 
 message_64:
       text: TsOjbywgcG9yIGZhdm9yISBpc3NvIMOpIHVtIG1hbA==<br>ZW50ZW5kaWRvLCBldSBzw7MgcXVlcm8gc2VyIHN1YSBhbWlnYSE=<br>RSB0YWx2ZXogbWFpcyE=\n<ROBÔ-HEART>
@@ -226,7 +226,7 @@ message_70:
 #MOLLY types and presses buttons.
 
 message_71:
-      text: Ah, Quase me esqueci!\! Aquela garota... Ela me deve o pagamento!\! <br>Eu devo pega-la antes que ela saia.\n<MOLLY>
+      text: Ah, quase me esqueci!\! Aquela garota... Ela me deve o pagamento!\! <br>Tenho que ir atrás dela antes que ela saia.\n<MOLLY>
 
 #MOLLY types and presses buttons.
 
@@ -271,7 +271,7 @@ message_84:
 message_100:
       faceset: MainCharacters_DreamWorld
       faceindex: 4
-      text: Ufa... Essa passou perto.\aub
+      text: Ufa... Essa passou por perto.\aub
 
 message_101:
       faceset: MainCharacters_DreamWorld
@@ -290,7 +290,7 @@ message_110:
 #Talk to Humphrey Elevator (No Keycard)
 
 message_111:
-      text: \n<HUMPHREY>Oi, Eu sou HUMPHREY! Seu passe de acesso global a \c[11]HUMPHREY\c[0] ou o \c[11]LAR DAS GAROTAS GOSMENTAS\c[0].\! Estritamente falando, acho que sou o que vocês humanos chamam de \"elevador\".<br>Infelizmente, só podemos levar uma consulta por vez, então você tem que esperar a sua vez.<br><br>Porém...\! se você me der um \c[4]CARTÃO GOSMENTO\c[0], Talvez eu possa mecher uns pauzinhos pra vocês...\! \quake[1]Nyak, nyak!\quake[0]
+      text: \n<HUMPHREY>Oi, eu sou HUMPHREY! Seu passe de acesso global a \c[11]HUMPHREY\c[0] ou o \c[11]LAR DAS GAROTAS GOSMENTAS\c[0].\! Estritamente falando, acho que sou o que vocês humanos chamam de \"elevador\".<br>Infelizmente, só podemos levar uma consulta por vez, então você tem que esperar a sua vez.<br><br>Porém...\! se você me der um \c[4]CARTÃO GOSMENTO\c[0], talvez eu possa mexer uns pauzinhos pra vocês...\! \quake[1]Nyak, nyak!\quake[0]
 
 #Get Keycard
 
