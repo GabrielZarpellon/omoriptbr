@@ -98,7 +98,7 @@ message_47:
       text: Você abre o \c[4]LIVRO DE PIADAS\c[0]...
 
 message_48:
-      text: As frases desse livro são mui embarassosas para ler em voz alta.\! Talvez alguém mais velho conseguiria ler.
+      text: As frases desse livro são muito embarassosas para ler em voz alta.\! Talvez alguém mais velho conseguiria ler.
 
 message_49:
       text: \n<FANTASMA CHOROSA>Sério?\! Você me chamou aqui para nada?
@@ -149,7 +149,7 @@ message_67:
 #JOKE 5: Location: ORANGE OASIS on a cave wall.
 
 message_68:
-      text: \Quem é o rei dos queijos?\"
+      text: \"Quem é o rei dos queijos?\"
 
 message_69:
       text: \"O reiqueijão.\"
@@ -229,7 +229,7 @@ message_100:
       text: \n<FANTASMA>Essa é uma arma ancestral de poder indescritível.
 
 message_101:
-      text: \n<FANTASMA>Apenas um verdadeiro HERÓi pode empunhá-la.
+      text: \n<FANTASMA>Apenas um verdadeiro HERÓI pode empunhá-la.
 
 #God SFX
 
@@ -286,7 +286,7 @@ message_123:
 #Taxi Ride-
 
 message_140:
-      text: \n<PILOTO DE TÁXI>Ei, criança! Quer ir em algum lugar \SINV[1]lrgal\SINV[0]?\!<br>Você deveria ir ao \c[11]ÚLTIMO RESORT\c[0]!<br>É o lugar mais calor e famoso para estar esses dias!
+      text: \n<PILOTO DE TÁXI>Ei, criança! Quer ir em algum lugar \SINV[1]legal\SINV[0]?\!<br>Você deveria ir ao \c[11]ÚLTIMO RESORT\c[0]!<br>É o lugar mais calor e famoso para estar esses dias!
 
 message_141:
       text: \n<PILOTO DE TÁXI>Eu posso te levar lá se quiser, guri!\! É tudo o que falam.
@@ -313,19 +313,19 @@ message_151:
 
 #If HERO is in party
 message_152:
-      text: \n<PILOTO DE TÁXI>Precisa de uma viagem de volta para o \c[11]LAST RESORT\c[0]?\!<br>Qualquer coisa para a mão direita do chefe!
+      text: \n<PILOTO DE TÁXI>Precisa de uma viagem de volta para o \c[11]ÚLTIMO RESORT\c[0]?\!<br>Qualquer coisa para a mão direita do chefe!
 
 #If HERO is manager
 message_153:
-      text: \n<PILOTO DE TÁXI>Precisa de uma viagem de volta para o \c[11]LAST RESORT\c[0]?\!<br>Qualquer coisa para você, chefe!
+      text: \n<PILOTO DE TÁXI>Precisa de uma viagem de volta para o \c[11]ÚLTIMO RESORT\c[0]?\!<br>Qualquer coisa para você, chefe!
 
 #If HERO is in party
 message_154:
-      text: \n<PILOTO DE TÁXI>Precisa de uma viagem de volta para o \c[11]DEEP WELL\c[0]?\!<br>Qualquer coisa para a mão direita do chefe!
+      text: \n<PILOTO DE TÁXI>Precisa de uma viagem de volta para o \c[11]FUNDO DO POÇO\c[0]?\!<br>Qualquer coisa para a mão direita do chefe!
 
 #If HERO is manager
 message_155:
-      text: \n<PILOTO DE TÁXI>Precisa de uma viagem de volta para o \c[11]DEEP WELL\c[0]?\!<br>Qualquer coisa para você, chefe!
+      text: \n<PILOTO DE TÁXI>Precisa de uma viagem de volta para o \c[11]FUNDO DO POÇO\c[0]?\!<br>Qualquer coisa para você, chefe!
 
 
 # =========================================================================================
