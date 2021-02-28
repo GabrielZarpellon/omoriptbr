@@ -286,7 +286,7 @@ message_123:
 #Taxi Ride-
 
 message_140:
-      text: \n<PILOTO DE TÁXI>Ei, criança! Quer ir em algum lugar \SINV[1]legal\SINV[0]?\!<br>Você deveria ir ao \c[11]ÚLTIMO RESORT\c[0]!<br>É o lugar mais calor e famoso para estar esses dias!
+      text: \n<PILOTO DE TÁXI>Ei, criança! Quer ir em algum lugar \SINV[1]legal\SINV[0]?\!<br>Você deveria ir ao \c[11]ÚLTIMO RESORT\c[0]!<br>É o lugar mais quente e famoso para estar esses dias!
 
 message_141:
       text: \n<PILOTO DE TÁXI>Eu posso te levar lá se quiser, guri!\! É tudo o que falam.
