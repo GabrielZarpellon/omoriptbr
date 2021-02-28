@@ -25,7 +25,7 @@ message_2:
 message_3:
       faceset: MainCharacter_Basil_Dark
       faceindex: 20
-      text: Olhe ao redor.\! Você consegue ver agora, não consegue?\bas
+      text: Olha ao redor.\! Você consegue ver agora, não consegue?\bas
 
 message_4:
       faceset: MainCharacter_Basil_Dark
@@ -44,7 +44,7 @@ message_4:
 message_5:
       faceset: MainCharacter_Basil_Dark
       faceindex: 20
-      text: Veio a você naquele dia...\! O dia que a MARI morreu.\bas
+      text: Veio à você naquele dia...\! O dia que a MARI morreu.\bas
 
 message_6:
       faceset: MainCharacter_Basil_Dark
@@ -59,7 +59,7 @@ message_7:
 message_8:
       faceset: MainCharacter_Basil_Dark
       faceindex: 17
-      text: Tinha algo atrás de você... não era?\bas
+      text: Era algo atrás de você... não era?\bas
 
 #BASIL turns to \n[8].
 
@@ -88,7 +88,7 @@ message_12:
 message_13:
       faceset: MainCharacter_Basil_Dark
       faceindex: 25
-      text: \Com[2]\{\fn<OMORI_GAME>\quake[1]C-COMO VOCÊ PODE FAZER ISSO!?!?\bas
+      text: \Com[2]\{\fn<OMORI_GAME>\quake[1]C-COMO VOCÊ PÔDE FAZER ISSO!?!?\bas
 
 #BASIL turns to \n[8].
 
@@ -102,7 +102,7 @@ message_14:
 message_15:
       faceset: MainCharacter_Basil_Dark
       faceindex: 21
-      text: Ah...\! Tem algo ao redor de nós agora.\bas
+      text: Ah...\! Tem algo ao redor de nós.\bas
 
 message_16:
       faceset: MainCharacter_Basil_Dark
@@ -142,7 +142,7 @@ message_21:
 message_22:
       faceset: MainCharacter_Basil_Dark
       faceindex: 21
-      text: \basAh! Ali está!\! Você está vendo?
+      text: \basAh! Ali está!\! Você tá vendo?
 
 message_23:
       faceset: MainCharacter_Basil_Dark
@@ -162,7 +162,7 @@ message_25:
 message_26:
       faceset: MainCharacter_Basil_Dark
       faceindex: 19
-      text: Quando algo matou a MARI...\!<br>Quando algo arruinou minhas fotos...\!\bas
+      text: Quando algo matou a MARI...\!<br>Quando algo estragou minhas fotos...\!\bas
 
 message_27:
       faceset: MainCharacter_Basil_Dark
@@ -203,7 +203,7 @@ message_32:
 message_33:
       faceset: MainCharacter_Basil_Dark
       faceindex: 19
-      text: Eu tenho medo também, mas...\! isso é pro seu bem.\bas
+      text: Eu tô com medo também, mas...\! isso é pro seu bem.\bas
 
 # message_34:
 #       faceset: MainCharacter_Basil_Dark
@@ -253,7 +253,7 @@ message_51:
 message_52:
       faceset: MainCharacter_Basil
       faceindex: 28
-      text: \basEu não sei se já disse isso corretamente, mas...\! Me desculpe por te causar tanto problema.
+      text: \basEu não sei se já disse isso corretamente, mas...\! Me desculpa por te causar tanto problema.
 
 message_53:
       faceset: MainCharacter_Basil
@@ -278,7 +278,7 @@ message_56:
 message_57:
       faceset: MainCharacter_Basil
       faceindex: 16
-      text: \basToda essa dor que estavamos sentido...\! A culpa nos nossos corações...
+      text: \basToda essa dor que estávamos sentido...\! A culpa nos nossos corações...
 
 message_58:
       faceset: MainCharacter_Basil
@@ -323,7 +323,7 @@ message_64:
 message_65:
       faceset: MainCharacter_Basil
       faceindex: 31
-      text: \basHaha...\! Me desculpe...\! Parece que estou sendo um fardo de novo.
+      text: \basHaha...\! Me desculpa...\! Parece que estou sendo um fardo de novo.
 
 message_67:
       faceset: MainCharacter_Basil
@@ -352,7 +352,7 @@ message_70:
 #Talk to MARI at the Piano
 
 message_80:
-      text: \n[8]...\! Tá quase na hora.\mar
+      text: \n[8]...\! Está quase na hora.\mar
 
 message_81:
       text: Você passou por muita coisa esses últimos dias.\!<br>Você deve estar cansado...\mar
