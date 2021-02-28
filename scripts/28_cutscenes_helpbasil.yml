@@ -21,10 +21,10 @@ message_3:
       text: Ah não...\! Tem algo que a gente possa fazer pra ajudar?\her
 
 message_4:
-      text: É meio difícil dizer agora.\!<br>Quando o BASIL voltou, ele foi direto pro seu quarto e trancou a porta.\n<POLLY>
+      text: É meio difícil dizer agora.\!<br>Quando o BASIL voltou, ele foi direto pro quarto e trancou a porta.\n<POLLY>
 
 message_5:
-      text: Eu não ouvi uma palavra dele desde então.\!<br>Talvez ele precise de um tempo sozinho...\! mas...\! Eu não sei...\!<br>Eu só estou preocupada.\n<POLLY>
+      text: Eu não ouvi uma palavra dele desde então.\!<br>Talvez ele precise de um tempo sozinho...\! mas...\! Eu não sei...\!<br>Eu só tô preocupada.\n<POLLY>
 
 message_6:
       text: Vocês podiam tentar falar com ele?\n<POLLY>
@@ -69,7 +69,7 @@ message_25:
       text: ...\| ...\| ...\| ...\| ...
 
 message_26:
-      text: Ai ai...\! Talvez ele só precise de um tempo sozinho...\!<br>Desculpe incomodar vocês.\n<POLLY>
+      text: Ai ai...\! Talvez ele só precise de um tempo sozinho...\!<br>Desculpa incomodar vocês.\n<POLLY>
 
 message_27:
       faceset: MainCharacters_Faraway
@@ -97,7 +97,7 @@ message_31:
 message_32:
       faceset: MainCharacters_Faraway
       faceindex: 27
-      text: Diz alguma coisa, por favor?\!<br>A gente só quer saber se você tá bem.\aub
+      text: Fala alguma coisa, por favor?\!<br>A gente só quer saber se você tá bem.\aub
 
 message_33:
       text: ...\| ...\| ...\| ...\| ...
@@ -162,7 +162,7 @@ message_45:
 message_46:
       faceset: MainCharacters_Faraway
       faceindex: 22
-      text: Ow, isso doeu!\kel
+      text: Ai, isso doeu!\kel
 
 # =========================================================================================
 # Cutscene: Stay for Basil
@@ -173,7 +173,7 @@ message_46:
 message_70:
       faceset: MainCharacter_Basil_dark
       faceindex: 29
-      text: Ei, \n[8]...\! Eu sei que essa provavelmente não era sua última noite na cidade que você estava esperando.\her
+      text: Ei, \n[8]...\! Eu sei que essa provavelmente não era a última noite na cidade que você tava esperando.\her
 
 message_71:
       faceset: MainCharacter_Basil
@@ -183,27 +183,27 @@ message_71:
 message_72:
       faceset: MainCharacter_Basil
       faceindex: 44
-      text: Ugh...\! Isso é tão extravagante, HERO.\aub
+      text: Ugh...\! Isso foi tão brega, HERO.\aub
 
 message_73:
       faceset: MainCharacter_Basil_dark
       faceindex: 31
-      text: Ei! Eu só estou dizendo o que eu estou pensando!\her
+      text: Ei! Eu só tô dizendo o que eu tô pensando!\her
 
 message_74:
       faceset: MainCharacter_Basil_dark
       faceindex: 8
-      text: Heh, heh...\! HERO sempre foi um molenga...\! <br>Que nem você, AUBREY.\kel
+      text: Heh, heh...\! O HERO sempre foi um molenga...\! <br>Que nem você, AUBREY.\kel
 
 message_75:
       faceset: MainCharacter_Basil
       faceindex: 47
-      text: \{\Com[2]\quake[1]O-O QUE VOCÊ DISSE!?\aub
+      text: \{\Com[2]\quake[1]O-O QUE CÊ DISSE!?\aub
 
 message_76:
       faceset: MainCharacter_Basil_dark
       faceindex: 30
-      text: Haha... \!É tão legal sair juntos assim de novo.\!<br>Eu estive tão ocupado com a escola e os estudos.<br>Que eu realmente não tinha mais tempo pra fazer amigos.\her
+      text: Haha... \!É tão legal sair assim de novo.\!<br>Eu fiquei tão ocupado com a escola e os estudos,<br>que eu realmente não tinha mais tempo pra fazer amigos.\her
 
 message_77:
       faceset: MainCharacter_Basil
@@ -238,7 +238,7 @@ message_82:
 message_83:
       faceset: MainCharacter_Basil_dark
       faceindex: 29
-      text: Sabe... Eu ainda espero que você possa ver o BASIL antes de você sair, \n[8].\her
+      text: Sabe... Eu ainda espero que você possa ver o BASIL antes de ir, \n[8].\her
 
 message_84:
       faceset: MainCharacter_Basil_dark
@@ -266,7 +266,7 @@ message_88:
 message_89:
       faceset: MainCharacter_Basil
       faceindex: 47
-      text: Mas que...\! Ele já dormiu!?\aub
+      text: Mas o quê...\! Ele já dormiu!?\aub
 
 message_90:
       text: \sinv[1]Ronco...\| Ronco...\| Ronco...\| Ronco...\kel
@@ -274,7 +274,7 @@ message_90:
 message_91:
       faceset: MainCharacter_Basil_dark
       faceindex: 30
-      text: Pois é, esse é o KEL pra você...\! <br>Essa parte dele não mudou nem um pouco.\her
+      text: Pois é, assim é o KEL...\! <br>Essa parte dele não mudou nem um pouco.\her
 
 #HERO turns to PLAYER.
 
