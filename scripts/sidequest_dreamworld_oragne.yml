@@ -24,7 +24,7 @@ message_3:
 message_4:
       faceset: MainCharacters_DreamWorld
       faceindex: 28 #needs appropriate faceset
-      text: \kelMas por que?
+      text: \kelMas por quê?
 
 message_5:
       text: \n<JOÃO LARANJA>Porque...\! Eu estou...\! sniff...\!<br>Procurando pelo meu irmão gêmeo perdido...\! JOÃO LAJANRA...
@@ -36,12 +36,12 @@ message_7:
       text: \n<JOÃO LARANJA>Cada laranja é registrada com uma mensagem explicando quem eu sou e como me encontrar...
 
 message_8:
-      text: \n<JOÃO LARANJA>Eu tenho a esperança que se eu jogar elas em todas as direções, <br>uma delas vai chegar até ele e levá-lo até mim!
+      text: \n<JOÃO LARANJA>Eu tenho a esperança de que se eu jogar elas em todas as direções, <br>uma delas vai chegar até ele e trazê-lo até mim!
 
 message_9:
       faceset: MainCharacters_DreamWorld
       faceindex: 1 #needs appropriate faceset
-      text: \aubAwww...\! Isso é tão fofo.\!<br>Espero que você encontre seu irmão eventualmente...
+      text: \aubAwww...\! Isso é tão fofo.\!<br>Espero que você encontre seu irmão algum dia...
 
 message_10:
       text: \n<JOÃO LARANJA>Obrigado, jovem moça!\! Eu sei que eu vou!\! <br>Meu corpo é saudável e cheio de esperança e vigor!
@@ -78,7 +78,7 @@ message_17:
 message_18:
       faceset: MainCharacters_DreamWorld
       faceindex: 18 #needs appropriate faceset
-      text: \kelSim, e ele estava te procurando esse tempo todo!\!<br>Aqui, pegue isso! Ele nos disse para entregar à você!
+      text: \kelSim, e ele tava te procurando esse tempo todo!\!<br>Aqui, pegue isso! Ele nos disse pra entregar à você!
 
 message_19:
       text: Você entregou o \c[4]BRASÃO LARANJA\c[0] para o JOÃO LAJANRA.

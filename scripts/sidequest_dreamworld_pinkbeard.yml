@@ -19,7 +19,7 @@ message_101:
       text: \n<BARBA ROSA>CHEFE PIRATA ESPACIAL! Meu mais leal conselheiro!\!<br>Então?\! Onde ele tá?
 
 message_102:
-      text: \n<CHEFE PIRATA ESPACIAL>It's lookin a little grim, CAPITÃO...\! Ele deve ter ido de uma ver por todas...\! mas...\! Eu achei isso.
+      text: \n<CHEFE PIRATA ESPACIAL>A situação tá feia, CAPITÃO...\! Ele deve ter ido de uma vez por todas...\! mas...\! Eu achei isso.
 
 message_103:
       text: \n<BARBA ROSA>Hã? Que porcaria é esta?
@@ -125,7 +125,7 @@ message_20:
       text: \spxhAqui, pegue isto...\! Eu...\! Eu...\! Não vou precisar disso de novo...
 
 message_21:
-      text: Você ganhou um \c[13]ANÉL DE CASAMENTO\c[0].
+      text: Você recebeu um \c[13]ANÉL DE CASAMENTO\c[0].
 
 message_22:
       text: \spxhEu vou indo agora.\!<br>Não se preocupem comigo... Eu vou achar meu caminho pra casa...\!<br>Eu...\! Eu sei como voltar.
@@ -139,7 +139,7 @@ message_24:
       text: \spxhOh...\! Oi, Pai...
 
 message_25:
-      text: \n<BARBA ROSA>\Com[2]O que eu te disse sobre a SWEETHEART?\!<br>Você é areia de mais pro caminhãozinho dela...\!<br>Você deveria aprender a escutar seu velho as vezes!
+      text: \n<BARBA ROSA>\Com[2]O que eu te disse sobre a SWEETHEART?\!<br>Você é areia de mais pro caminhãozinho dela...\!<br>Você deveria aprender a escutar seu velho às vezes!
 
 message_26:
       text: \spxh...\! Eu...\! Eu me sinto cansado...\! Posso só ir pra cama?

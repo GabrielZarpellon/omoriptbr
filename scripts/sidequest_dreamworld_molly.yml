@@ -50,7 +50,7 @@ message_9:
       text: \n<MOLLY>Mas mesmo assim... Eu deveria pagar pelo esforço de vocês...\!<br>Ah, Já sei! Pega isso aqui!\!
 
 message_10:
-      text: Você ganhou \c[13]SALTOS ALTOS\c[0].
+      text: Você recebeu \c[13]SALTOS ALTOS\c[0].
 
 message_12:
       text: \n<MOLLY>Já que estou sem um corpo, Eu não vou precisar usar isso novamente!

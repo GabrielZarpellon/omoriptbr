@@ -37,7 +37,7 @@ message_8:
       text: \n<MARINA>\sinv[1]Ahhhhhhhh...\! Que sensação gostosa...\!<br>Realmente me sinto melhor tendo meus braços e pernas novamente~\sinv[1]
 
 message_9:
-      text: \n<MARINA>Hã?\! O que vocês esquizitos estão olhando?\!<br>Oh, já sei.\! Eu acho que deveria dar algo especial em troca do seu favor, certo?\! Tudo bem então...
+      text: \n<MARINA>Hã?\! O que vocês esquisitos estão olhando?\!<br>Oh, já sei.\! Eu acho que deveria dar algo especial em troca do seu favor, certo?\! Tudo bem então...
 
 #Marina burps
 
@@ -45,7 +45,7 @@ message_10:
       text: \n<MARINA>Hmm...\! Já sei, aqui. Pega isso aqui. \quake[1]Kikiki~\quake[0]
 
 message_11:
-      text: Você ganhou um \c[13]DEDO\c[0]!
+      text: Você recebeu um \c[13]DEDO\c[0]!
 
 message_12:
       text: \n<MARINA>Agora estamos quites!

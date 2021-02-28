@@ -28,7 +28,7 @@ message_5:
       text: \n<MEDUSA>Aqui, tome isso pelo seu esforço.
 
 message_6:
-      text: Você ganhou uma \c[5]POÇÃO MISTERIOSA\c[0].
+      text: Você recebeu uma \c[5]POÇÃO MISTERIOSA\c[0].
 
 message_7:
       text: \n<MEDUSA>Por que não tenta beber, querido?\!<br>Os efeitos devem se mostrar...\! divertidos...\! \sinv[1]Kukuku~\sinv[0]
