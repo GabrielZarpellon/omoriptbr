@@ -71,7 +71,7 @@ message_13:
       text: \n<SRA. FLAMINGO>Graa!\! (\i[1]\c[11]A COZINHA REAL\c[0])\!<br>Graa, graa!\! (\i[1]\c[11]QUARTOS DOS SERVOS\c[0])\!<br>Graa, graa, graa!\! (\i[8]\c[11]SALÃO DE BAILE REAL\c[0])
 
 message_14:
-      text: \n<SRA. FLAMINGO>Graa!\! (\i[1]\c[11]OS APOSENTOS REAIS\c[0])\!<br>Graa, graa!\! (\i[7]\c[11]A GALERIA REAL\c[0])\!<br>Graa, graa, graa!\! (\i[7]\c[11]THE ROYAL LIBRARY\c[0])
+      text: \n<SRA. FLAMINGO>Graa!\! (\i[1]\c[11]OS APOSENTOS REAIS\c[0])\!<br>Graa, graa!\! (\i[7]\c[11]A GALERIA REAL\c[0])\!<br>Graa, graa, graa!\! (\i[7]\c[11]A BIBLIOTECA REAL\c[0])
 
 message_15:
       text: \n<SRA. FLAMINGO>Graa!\! (\i[1]\c[11]A GALERIA REAL\c[0])\!<br>Graa, graa!\! (O destaque do mês é...)\!<br>Graa, graa, graa!\! (\"OEUVRES DA SWEETHEART\")
@@ -119,7 +119,7 @@ message_29:
       text: \n<SR. PÁSSARO?>Ker-craa...\! (Crescimento inteligente.)\!<br>Ker-craa... aaa...\! (Vai convenientemente se transformar em uma ponte após ser esmagado.)
 
 message_30:
-      text: \n<SR. PÁSSARO?>Ker-craa...\! (O experimento número 667 da MARINA.)\!<br>Ker-craa... aaa...\! (Cawww...dado... não cutuque o vidro.)
+      text: \n<SR. PÁSSARO?>Ker-craa...\! (O 667º experimento da MARINA.)\!<br>Ker-craa... aaa...\! (Cawww...dado... não cutuque o vidro.)
 
 message_31:
       text: \n<SR. PÁSSARO?>Ker-craa...\! (Trabalho de campo em progresso. Não perturbe.)
