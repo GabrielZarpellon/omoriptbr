@@ -37,11 +37,11 @@ message_124:
 
 
 message_125:
-      text: Um guarda-roupa feito para roupas...<br>mas atualmente está cheio de brinquedos antigos e doces.
+      text: Um guarda-roupa feito pra roupas...<br>mas atualmente está cheio de brinquedos antigos e doces.
 
 
 message_126:
-      text: Uma luminária de mesa.\! A MARI tem dificuldade para dormir, então ela lê livros antes de cair no sono.\! Costumo apagar essa luz pra ela depois que ela dorme.
+      text: Uma luminária de mesa.\! A MARI tem dificuldade pra dormir, então ela lê livros antes de cair no sono.\! Costumo apagar essa luz pra ela depois que ela dorme.
 
 
 message_127:
@@ -101,7 +101,7 @@ message_139:
       text: Uma tábua de cortar.\! A MARI acidentalmente cortou o dedo dela aqui.\! Foi a primeira vez que eu vi ela chorando.
 
 message_140:
-      text: Uma geladeira.\! Está cheio de comidas da MAMÃE e sobras do PAPAI....
+      text: Uma geladeira.\! Está cheio de comidas da MAMÃE e sobras do PAPAI...
 
 message_141:
       text: Uma torradeira velha.\! A MAMÃE disse que é até mais velha que eu.
@@ -151,7 +151,7 @@ message_155:
       text: Uma boa e grande TV.\! Assistir desenho animado num sábado de manhã era a melhor coisa
 
 message_156:
-      text: Uma luminária de chão.\! KEL e eu derrubamos a última por acidente.\! A MAMÃE não ficou muito feliz com isso....
+      text: Uma luminária de chão.\! KEL e eu derrubamos a última por acidente.\! A MAMÃE não ficou muito feliz com isso...
 
 message_157:
       text: Uma lareira acolhedora.\!<br>Minhas fotos de bebê estão sobre o manto.\! Eu não gosto de sorrir...\! nem nas fotos.
@@ -184,7 +184,7 @@ message_168:
       text: Alguns carrinhos de brinquedo.\! O KEL deve ter esquecido de levá-los para casa de novo.
 
 message_169:
-      text: Um monte de enfeites cafonas.\! A MAMÃE adora comprar isso...\! Ela até pediu ao PAPAI para construir prateleiras pra ela comprar mais..
+      text: Um monte de enfeites cafonas.\! A MAMÃE adora comprar isso...\! Ela até pediu ao PAPAI para construir prateleiras pra ela comprar mais...
 
 message_170:
       text: Um cacto.\! Foi um presente do pai de KEL quando nos mudamos para cá.\! Sobreviveu por muito tempo...
@@ -241,7 +241,7 @@ message_194:
       text: Um cabide de roupas vazio.
 
 message_230:
-      text: Uma luminária de mesa.\! A MAMÃE comprou esta na promoção.\! Me lembro especificamente porque ela me fez ir com ela...\! em um Domingo...
+      text: Uma luminária de mesa.\! A MAMÃE comprou esta na promoção.\! Me lembro especificamente porque ela me fez ir com ela...\! em um domingo...
 
 message_201:
       text: Plantas ornamentadas para decorar a escada.\! A MAMÃE guardou isso depois porque a MEWO fica tentando comê-las.
@@ -291,7 +291,7 @@ message_180:
       text: Um taco de beisebol.\! A MARI costumava jogar softball, mas parou quando machucou o joelho.
 
 message_181:
-      text: O brinquedo de pelúcia de AUBREY, \"SR. BERINJELA\".
+      text: O brinquedo de pelúcia da AUBREY, \"SR. BERINJELA\".
 
 message_182:
       text: Os livros de receitas do HERO.\!<br>A MARI deu de presente no aniversário dele.
@@ -318,7 +318,7 @@ message_400:
       text: Plantas feitas de papel.\! A AUBREY e o BASIL fizeram elas juntos.
 
 message_401:
-      text: Um iô-iô.\! Você só sabia passear com o cachorro.
+      text: Um iôiô.\! Você só sabia passear com o cachorro.
 
 message_402:
       text: Os sapatos velhos do KEL.\! Ele esquecia as coisas dele em sua casa com frequência.
@@ -524,12 +524,12 @@ message_38:
 #Photos
 
 message_17:
-      text: Alguma coisa pegou um de seus dedos.
+      text: Algo pegou um de seus dedos.
 
 #Photos
 
 message_18:
-      text: Alguma coisa está impedindo você de chegar mais perto.
+      text: Algo coisa está impedindo você de chegar mais perto.
 
 # =========================================================================================
 # PLAYER'S ROOM
@@ -630,7 +630,7 @@ message_308:
 message_309:
       faceset: MainCharacter_Mari
       faceindex: 11
-      text: Isso tem sido muito difícil para você.\her
+      text: Isso tem sido muito difícil pra você.\her
 
 message_310:
       faceset: MainCharacter_Mari
@@ -685,7 +685,7 @@ message_320:
 message_321:
       faceset: MainCharacters_Faraway
       faceindex: 42
-      text: O que quer que você escolha...\! Sempre vamos querer o que é melhor para você.\her
+      text: O que quer que você escolha...\! Sempre vamos querer o que é melhor pra você.\her
 
 message_322:
       faceset: MainCharacters_Faraway
