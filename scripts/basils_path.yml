@@ -14,17 +14,17 @@ message_0:
 message_1:
       faceset: MainCharacters_DreamWorld
       faceindex: 10
-      text: \aubVocê não conhece, KEL?\! Aquilo é uma BROTOPEIRA!
+      text: \aubVocê não sabe, KEL?\! Aquilo é uma BROTOPEIRA!
 
 message_2:
       faceset: MainCharacters_DreamWorld
       faceindex: 0
-      text: \aubBROTOPEIRAS são criaturas altamente inteligentes, mas viram perigosamente cruéis quando estão perdidas.
+      text: \aubAs BROTOPEIRAS são criaturas altamente inteligentes, mas ficam muito cruéis quando estão perdidas.
 
 message_3:
       faceset: MainCharacter_Basil
       faceindex: 1
-      text: \basEi, Sr. BROTOPEIRA! Você está bem aí?
+      text: \basEi, Sr. BROTOPEIRA! Você tá bem aí?
 
 #SPROUT MOLE does Question Mark
 
@@ -43,7 +43,7 @@ message_5:
 message_6:
       faceset: MainCharacters_DreamWorld
       faceindex: 46
-      text: \her\Com[2]Cuidado, pessoal! Ele está vindo em nossa direção!
+      text: \her\Com[2]Cuidado, pessoal! Ele tá vindo na nossa direção!
 
 #========================================================================================================================
 #UGLY PLANT CREATE - AFTER BATTLE
@@ -57,7 +57,7 @@ message_10:
 message_11:
       faceset: MainCharacter_Basil
       faceindex: 0
-      text: \basDesculpa...\! Ultimamente tem apareceido muitas BROTOPEIRAS PERDIDAS.\! Eu não gosto muito de lutar, mas tenho certeza de que tudo vai ficar bem com vocês aqui.
+      text: \basDesculpa...\! Ultimamente tem aparecido muitas BROTOPEIRAS PERDIDAS.\! Eu não gosto muito de lutar, mas tenho certeza de que tudo vai ficar bem com vocês aqui.
 
 message_12:
       faceset: MainCharacters_DreamWorld
@@ -79,12 +79,12 @@ message_16:
 message_17:
       faceset: MainCharacters_DreamWorld
       faceindex: 37
-      text: \herPronto, agora está no seu BOLSO.\! O diário é para você anotar, mas nós podemos escrever aí também!
+      text: \herPronto, agora tá no seu BOLSO.\! O diário é para você anotar, mas nós podemos escrever aí também!
 
 message_18:
       faceset: MainCharacters_DreamWorld
       faceindex: 38
-      text: \herCheque o seu BOLSO no MENU pressionando \DII[escape].
+      text: \herCheca o seu BOLSO no MENU pressionando \DII[escape].
 
 
 #========================================================================================================================
@@ -101,7 +101,7 @@ message_20:
 message_21:
       faceset: MainCharacter_Basil
       faceindex: 2
-      text: \basEstes são girassóis.\! Eles são chamados assim porque eles estão sempre voltados para o sol.
+      text: \basEstes são girassóis.\! Eles são chamados assim porque eles estão sempre voltados pro sol.
 
 message_22:
       faceset: MainCharacter_Basil
@@ -113,12 +113,12 @@ message_22:
 message_23:
       faceset: MainCharacter_Basil
       faceindex: 0
-      text: \basEstas flores são chamadas de lírio-do-vale.\! É dito que elas são capazes de expulsar maus espíritos e guiar as pessoas para um futuro melhor...
+      text: \basEstas flores são chamadas de lírio-do-vale.\! É dito que elas são capazes de expulsar maus espíritos e guiar as pessoas pra um futuro melhor...
 
 message_24:
       faceset: MainCharacter_Basil
       faceindex: 1
-      text: \basEu acho que é por isso que elas me lembram da MARI!\!<br>Eu sempre posso confiar nela para me ajudar a ficar bem!
+      text: \basEu acho que é por isso que elas me lembram da MARI!\!<br>Eu sempre posso confiar nela pra me ajudar a ficar bem!
 
 #========================================================================================================================
 #BATTLE TUTORIAL - ANGRY
@@ -134,7 +134,7 @@ message_30:
 message_31:
       faceset: MainCharacter_Basil
       faceindex: 3
-      text: \bas\Com[2]Por favor, Pare com isso Sr. BROTOPEIRA!<br>Você está pisoteando nas flores...
+      text: \bas\Com[2]Por favor, pare com isso Sr. BROTOPEIRA!<br>Você tá pisando nas flores...
 
 #SPROUT MOLE STOMP HARDER
 #SPROUT MOLE RAMS INTO PARTY
@@ -169,7 +169,7 @@ message_36:
 message_37:
       faceset: MainCharacter_Basil
       faceindex: 2
-      text: \basNós estamos quase chegando até minha casa.\! Vamos continuar seguindo para baixo deste caminho!
+      text: \basNós estamos quase chegando até minha casa.\! Vamos continuar seguindo pra baixo deste caminho!
 
 #========================================================================================================================
 #BASIL EXPLAINS FLOWERS 2
@@ -212,7 +212,7 @@ message_45:
 message_46:
       faceset: MainCharacters_DreamWorld
       faceindex: 19
-      text: \kelAs gladio-o que?
+      text: \kelAs gladío-o quê?
 
 message_47:
       faceset: MainCharacter_Basil
@@ -232,12 +232,12 @@ message_49:
 message_50:
       faceset: MainCharacters_DreamWorld
       faceindex: 18
-      text: \kelOh, entendo...<br>\!Então você está querendo dizer que a AUBREY é teimosa!
+      text: \kelAh, entendi...<br>\!Então você tá querendo dizer que a AUBREY é teimosa!
 
 message_51:
       faceset: MainCharacters_DreamWorld
       faceindex: 10
-      text: \aubEi! Não, Eu não sou!
+      text: \aubEi! Não, eu não sou!
 
 message_52:
       faceset: MainCharacter_Basil
@@ -253,7 +253,7 @@ message_52:
 message_60:
       faceset: MainCharacter_Basil
       faceindex: 3
-      text: \bas\Com[2]Oh não, de novo não!\! Por favor, pare de girar Sr. BROTOPEIRA!\! Você está destruindo as flores!
+      text: \bas\Com[2]Oh não, de novo não!\! Por favor, pare de girar Sr. BROTOPEIRA!\! Você tá destruindo as flores!
 
 #SPROUT MOLE TWIRLS HARDER
 #SPROUT MOLE TWIRLS INTO PARTY
@@ -305,12 +305,12 @@ message_74:
 message_75:
       faceset: MainCharacter_Basil
       faceindex: 1
-      text: \basEu acho que o que eu estou querendo dizer... é que até você poderia cuidar de um cacto, KEL!
+      text: \basEu acho que o que eu tô querendo dizer... é que até você poderia cuidar de um cacto, KEL!
 
 message_76:
       faceset: MainCharacters_DreamWorld
       faceindex: 18
-      text: \kelUau, massa!\! Cactus são incríveis!
+      text: \kelUau, que doido!\! Cactos são incríveis!
 
 message_77:
       faceset: MainCharacter_Basil
@@ -360,7 +360,7 @@ message_210:
       text: \basCactos são bem fortes e resilientes por natureza..\! Eles não precisam de muito cuidado e podem sobreviver a situações aparentemente impossíveis.
 
 message_211:
-      text: \basEu acho que o que eu estou querendo dizer... é que até você poderia cuidar de um cacto, KEL...
+      text: \basEu acho que o que eu tô querendo dizer... é que até você poderia cuidar de um cacto, KEL...
 
 message_213:
       text: \basE estas...\! Estas são tulipas brancas.\! Tulipas não são plantas muito chamativas.\! Elas não são grandes nem pequenas, não muito elaboradas ou extravagantes.
@@ -423,12 +423,12 @@ message_81:
 message_90:
       faceset: MainCharacters_DreamWorld
       faceindex: 39
-      text: \herAh cara, essa batalha é bem difícil...\! Mas não se preocupem!<br>Nós vamos conseguir se trabalharmos juntos!
+      text: \herAh cara, essa batalha tá bem difícil...\! Mas não se preocupem!<br>Nós vamos conseguir se trabalharmos juntos!
 
 message_91:
       faceset: MainCharacters_DreamWorld
       faceindex: 38
-      text: \herParece que eu vou ter que ensinar um pouco sobre trabalho em equipe!\! Vamos de novo, OMORI!<br>Nós vamos vencer ele dessa vez!
+      text: \herAcho que eu vou ter que ensinar um pouco sobre trabalho em equipe!\! Vamos de novo, OMORI!<br>Nós vamos vencer ele dessa vez!
 
 #========================================================================================================================
 #WHEN STEPPING ON FLOWER WHEN BASIL IS IN PARTY
@@ -451,12 +451,12 @@ message_93:
 message_100:
       faceset: MainCharacters_DreamWorld
       faceindex: 39
-      text: \herEspere, OMORI! A casa do BASIL não é por aí!
+      text: \herEspera, OMORI! A casa do BASIL não é por aí!
 
 message_101:
       faceset: MainCharacters_DreamWorld
       faceindex: 1
-      text: \aubOnde é que você está indo, OMORI?\!<br>Vamos ajudar o BASIL à organizar seu \c[4]ÁLBUM DE FOTOS\c[0]!
+      text: \aubOnde é que você tá indo, OMORI?\!<br>Vamos ajudar o BASIL à organizar seu \c[4]ÁLBUM DE FOTOS\c[0]!
 
 message_102:
       faceset: MainCharacter_Basil
@@ -472,7 +472,7 @@ message_102:
 #short pause
 
 message_156:
-      text: \c[4]ÁLBUM DE FOTOS\c[0] do BASIL.\! Seu bem mais precioso.
+      text: O \c[4]ÁLBUM DE FOTOS\c[0] do BASIL.\! Seu bem mais precioso.
 
 message_163:
       faceset: MainCharacters_DreamWorld
@@ -497,12 +497,12 @@ message_159:
 message_160:
       faceset: MainCharacters_DreamWorld
       faceindex: 39
-      text: Sabe...\! Eu na verdade estive trabalhando num livro que fala tudo sobre batalhas!\! Talvez um dia nós podemos estudar juntos.\! Eu vou dar para o OMORI por agora \her
+      text: Sabe...\! Eu na verdade estive trabalhando num livro que fala tudo sobre batalhas!\! Talvez um dia nós podemos estudar juntos.\! Eu vou deixar com o OMORI por enquanto.\her
 
 message_169:
       faceset: MainCharacters_DreamWorld
       faceindex: 38
-      text: \herConforme ficarmos mais fortes, Eu vou atualizar a seção de SEQUÊNCIAS do \c[4]GUIA DE AUTO AJUDA\c[0], então dê uma checada de vez em quanto!
+      text: \herConforme a gente fica mais forte, eu vou atualizando a seção de SEQUÊNCIAS do \c[4]GUIA DE AUTO AJUDA\c[0], então dê uma checada de vez em quanto!
 
 message_152:
       faceset: MainCharacters_DreamWorld
@@ -512,22 +512,22 @@ message_152:
 message_153:
       faceset: MainCharacters_DreamWorld
       faceindex: 36
-      text: \c[1]DONS\c[0] são poderosos e têm uma variedade de efeitos, mas cada um de nós podemos ter 4 \c[1]DONS\c[0] de cada vez.\her
+      text: \c[1]DONS\c[0] são poderosos e têm uma variedade de efeitos, mas cada um só pode ter 4 \c[1]DONS\c[0] de uma vez.\her
 
 message_154:
       faceset: MainCharacters_DreamWorld
       faceindex: 37
-      text: Depois que você aprendeu um \c[1]DOM\c[0], não se esqueça de equipá-lo no MENU, tá bem?\her
+      text: Depois que você aprendeu um \c[1]DOM\c[0], não se esqueça de equipar ele no MENU, tá bem?\her
 
 message_161:
       faceset: MainCharacters_DreamWorld
       faceindex: 26
-      text: Tá, tá... A gente sabe!\! Podemos ir logo para a casa do BASIL?\kel
+      text: Tá, tá... A gente sabe!\! Podemos ir logo pra casa do BASIL?\kel
 
 message_162:
       faceset: MainCharacters_DreamWorld
       faceindex: 47
-      text: Tá bom! Isso é tudo o que eu tinha para dizer!\! Paciência, KEL...\her
+      text: Tá bom! Isso é tudo o que eu tinha pra dizer!\! Paciência, KEL...\her
 
 #========
 #EMOTION
@@ -537,7 +537,7 @@ message_162:
 message_165:
       faceset: MainCharacters_DreamWorld
       faceindex: 39
-      text: Hmmm...\! Nós parecemos estar passando por muitos inimigos com EMOÇÕES.\her
+      text: Hmmm...\! Nós estamos passando por muitos inimigos com EMOÇÕES.\her
 
 message_166:
       faceset: MainCharacters_DreamWorld
