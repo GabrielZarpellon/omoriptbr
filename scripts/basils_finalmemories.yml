@@ -110,7 +110,7 @@ message_28:
       text: Você olha para a mão do HERO.\!<br>Ele tem um rei, uma rainha e um ás.
 
 message_29:
-      text: \herHeh heh...\! Falando de sorte... em, \n[8]?
+      text: \herHeh heh...\! Falando em sorte... em, \n[8]?
 
 #=================Talk to BASIL=================
 
@@ -147,7 +147,7 @@ message_42:
       text: \marOlha pra você... Um cara tão grande, e forte.
 
 message_43:
-      text: \herAaa... Agora não, MARI... Haha...
+      text: \herAaah... Agora não, MARI... Haha...
 
 message_44:
       text: \kel\sinv[1]\{UUU-HUUUUL!!!\!\}\sinv[0]<br>Nada supera uma boa e suculenta melancia em um dia quente de verão!
@@ -270,7 +270,7 @@ message_88:
 #*WHITE FLASH*
 
 message_89:
-      text: \marTô feliz que você tem usando mais sua câmera agora, BASIL.\!<br>Você parece estar gostando do seu novo hobby.
+      text: \marTô feliz que você tem usado mais sua câmera agora, BASIL.\!<br>Você parece estar gostando do seu novo hobby.
 
 message_90:
       text: \basSim!\! É bem divertido quando você pega o jeito.
@@ -442,7 +442,7 @@ message_152:
 #------Talk to Aubrey------------
 
 message_153:
-      text: \aubEba! Está decidido.
+      text: \aubEba! Tá decidido.
 
 message_154:
       text: \aubAlgum dia, eu vou pintar meu cabelo de rosa!
@@ -522,10 +522,10 @@ message_185:
       text: \aubHã? É assim que funciona?
 
 message_186:
-      text: \aubEntão, nesse caso...\!<br>Eu desejo...\! só tire nota dez na escola!
+      text: \aubEntão, nesse caso...\!<br>Eu desejo...\! que o KEL só tire nota dez na escola!
 
 message_187:
-      text: \kelEi, você não pode fazer isso!
+      text: \kelEi, cê não pode fazer isso!
 
 message_188:
       text: \basHmm...\! um desejo?\! Ahh...\! Mas o que eu pediria?\!<br>Eu já tenho tudo que eu poderia querer bem aqui!
@@ -555,7 +555,7 @@ message_196:
       text: \herGente, se não formos rápido, as velas vão derreter!\!<br>Todo mundo pronto pra cantar?
 
 message_197:
-      text: \kelSim, pode apostar!
+      text: \kelPode apostar que sim!
 
 message_198:
       text: \herVocê quer iniciar, MARI?
@@ -645,7 +645,7 @@ message_235:
       text: \marEsperamos que você goste, \n[8].
 
 message_236:
-      text: \marIsso é de todos nós para você.
+      text: \marIsso é de todos nós pra você.
 
 message_237:
       text: Você abriu a caixa do violino.
@@ -808,7 +808,7 @@ message_605:
       text: \whoVocê parecia tão tranquilo dormindo...\| Me lembra de quando você era só um bebê.
 
 message_607:
-      text: \whoVocê já ta indo?\| Não se preocupe com a gente...\| Te alcançaremos em um minutinho.
+      text: \whoVocê já tá indo?\| Não se preocupe com a gente...\| Te alcançaremos em um minutinho.
 
 #LAKE COOKIES
 
