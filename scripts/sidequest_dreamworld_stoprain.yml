@@ -6,7 +6,7 @@
 #Talk to Potatogirl
 
 message_1:
-      text: \n<CRIANÇA VEGETAL>\Com[2]Ahhhh!\! Está chovendo muito!\!<br>Isso está nos deixando pouco desconfortáveis!
+      text: \n<CRIANÇA VEGETAL>\Com[2]Ahhhh!\! Está chovendo muito!\!<br>Isso está nos deixando um pouco desconfortáveis!
 
 message_2:
       text: \n<CRIANÇA VEGETAL>Existe uma válvula mágica aqui perto que controla a nossa chuva, mas apenas O ESCOLHIDO consegue girar ela...
@@ -113,7 +113,7 @@ message_27:
 
 #Potato speaking:
 message_28:
-      text: \n<CRIANÇA VEGETALVEGGIE KID>Agora vão, heróis! Sua jornada os espera!
+      text: \n<CRIANÇA VEGETAL>Agora vão, heróis! Sua jornada os espera!
 
 #QUEST complete
 

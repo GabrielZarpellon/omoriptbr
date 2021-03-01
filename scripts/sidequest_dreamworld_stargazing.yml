@@ -6,7 +6,7 @@
 message_1:
     faceset: MainCharacters_DreamWorld
     faceindex: 19
-    text: \kelUou, senhora. Você é bem alta...
+    text: \kelUau, senhora. Você é bem alta...
 
 message_2:
     text: \n<PO>Obrigada, pequenino!\!<br>É mais um aborrecimento na maior parte do tempo, mas pelo menos eu tenho uma visão melhor das estrelas.
@@ -24,7 +24,7 @@ message_4:
 message_5:
     faceset: MainCharacters_DreamWorld
     faceindex: 11
-    text: \aubAhãm, ta certo, \n[3]. Continue sonhando...
+    text: \aubAhãm, tá certo, \n[3]. Continue sonhando...
 
 # =========================================================================================
 # PO - DEFAULT
