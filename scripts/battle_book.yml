@@ -42,7 +42,7 @@ message_7:
     text: SUCO
 
 message_8:
-    text: SUCO é necessário para poder usar \c[1]DONS\c[0], que têm uma variadade de efeitos.\! Diferentes \c[1]DONS\c[0] podem precisar diferentes quantias de SUCO.
+    text: SUCO é necessário para poder usar \c[1]DONS\c[0], que têm uma variadade de efeitos.\! Diferentes \c[1]DONS\c[0] podem precisar de diferentes quantias de SUCO.
 
 message_9:
     text: ATAQUE
@@ -72,7 +72,7 @@ message_17:
     text: ACERTO
 
 message_18:
-    text: ACERTO afeta na sua capacidade de atingir o inimigo.\! Quanto mais baixo for o seu acerto, mais chance você tem de errar ataques.
+    text: ACERTO afeta na sua capacidade de atingir o inimigo.\! Quanto mais baixo for o seu ACERTO, mais chance você tem de errar ataques.
 
 message_19:
     text: ENERGIA
@@ -94,7 +94,7 @@ message_22:
     text: EMOÇÕES podem determinar o quão efetivo seu ataque é.\! FELIZ vence NERVOSO...\! NERVOSO vence TRISTE...\! e TRISTE vence FELIZ!\! Elas também afetam status de ambos inimigos e amigos.\! Olhe para sua TABELA DE EMOÇÕES no seu BOLSO para uma visão clara.
 
 message_300:
-    text: E também, as EMOÇÕES de inimigos derrotados podem te dar bonus.\! FELIZ vai aumentar o drop de Itens e CLAMS, enquanto NERVOSO te dará mais EXP.<br>Infelizmente, TRISTE não te dá bonus, mas os inimigos são muito mais fáceis.
+    text: E também, as EMOÇÕES de inimigos derrotados podem te dar bônus.\! FELIZ vai aumentar o drop de Itens e CLAMS, enquanto NERVOSO te dará mais EXP.<br>Infelizmente, TRISTE não te dá bonus, mas os inimigos são muito mais fáceis.
 
 message_23:
     text: FELIZ
@@ -118,7 +118,7 @@ message_29:
     text: Quando um inimigo/amigo está ainda mais TRISTE, eles ficam DEPRIMIDOS.
 
 message_30:
-    text: Um inimigo/amigo DEPRIMIDO tem ainda mais DEFESA, mas bem menos VELOCIDADE.\! Parte do dano que seria causado para o CORAÇÃO vai para o SUCO..
+    text: Um inimigo/amigo DEPRIMIDO tem ainda mais DEFESA, mas bem menos VELOCIDADE.\! Parte do dano que seria causado para o CORAÇÃO vai para o SUCO...
 
 message_31:
     text: NERVOSO
@@ -222,7 +222,7 @@ message_53:
     text: OLHAR O KEL
 
 message_54:
-    text: KEL incomoda a  AUBREY e faz ela NERVOSA.
+    text: KEL incomoda a  AUBREY e faz ela ficar NERVOSA.
 
 message_154:
     text: KEL incomoda a AUBREY, fazendo ambos ficarem NERVOSOS e a aumentarem o ATAQUE.
