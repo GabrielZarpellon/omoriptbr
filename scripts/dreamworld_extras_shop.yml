@@ -36,7 +36,7 @@ message_205:
       text: \n<JASH DA RASPADINHA>Por favor espere, Senhor ou Madame.\! Antes de você ir...<br>Eu gostaria de te agradeçer por ser um patorcinador do JASH.
 
 message_206:
-      text: \n<JASH DA RASPADINHA>Por favor pegue este \c[13]CARTÃO DE VENDAS\c[0].\! Você não vai receber nenhum desconto aqui, mas tenho certeza que isso vai ser útil de alguma forma.
+      text: \n<JASH DA RASPADINHA>Por favor, pegue este \c[13]CARTÃO DE VENDAS\c[0].\! Você não vai receber nenhum desconto aqui, mas tenho certeza que isso vai ser útil de alguma forma.
 
 message_213:
       text: \n<JASH DO TOFU>Você não tem CONCHAS o bastante.
@@ -48,7 +48,7 @@ message_215:
       text: \n<JASH DO TOFU>Por favor espere, Senhor ou Madame.\! Antes de você ir...<br>Eu gostaria de te agradeçer por ser um patorcinador do JASH.
 
 message_216:
-      text: \n<JASH DO TOFU>Por favor pegue este \c[13]CARTÃO DE VENDAS\c[0].\! Você não vai receber nenhum desconto aqui, mas tenho certeza que isso vai ser útil de alguma forma.
+      text: \n<JASH DO TOFU>Por favor, pegue este \c[13]CARTÃO DE VENDAS\c[0].\! Você não vai receber nenhum desconto aqui, mas tenho certeza que isso vai ser útil de alguma forma.
 
 message_223:
       text: \n<JASH DO LIMÃO>Você não tem CONCHAS o bastante.
@@ -60,7 +60,7 @@ message_225:
       text: \n<JASH DO LIMÃO>Por favor espere, Senhor ou Madame.\! Antes de você ir...<br>Eu gostaria de te agradeçer por ser um patorcinador do JASH.
 
 message_226:
-      text: \n<JASH DO LIMÃO>Por favor pegue este \c[13]CARTÃO DE VENDAS\c[0].\! Você não vai receber nenhum desconto aqui, mas tenho certeza que isso vai ser útil de alguma forma.
+      text: \n<JASH DO LIMÃO>Por favor pegue, este \c[13]CARTÃO DE VENDAS\c[0].\! Você não vai receber nenhum desconto aqui, mas tenho certeza que isso vai ser útil de alguma forma.
 
 message_233:
       text: \n<JASH NEGOCIANTE>Você não tem CONCHAS o bastante.
@@ -72,7 +72,7 @@ message_235:
       text: \n<JASH NEGOCIANTE>Por favor espere, Senhor ou Madame.\! Antes de você ir...<br>Eu gostaria de te agradeçer por ser um patorcinador do JASH.
 
 message_236:
-      text: \n<JASH NEGOCIANTE>Por favor pegue este \c[13]CARTÃO DE VENDAS\c[0].\! Você não vai receber nenhum desconto aqui, mas tenho certeza que isso vai ser útil de alguma forma.
+      text: \n<JASH NEGOCIANTE>Por favor, pegue este \c[13]CARTÃO DE VENDAS\c[0].\! Você não vai receber nenhum desconto aqui, mas tenho certeza que isso vai ser útil de alguma forma.
 
 message_243:
       text: \n<JASH DA FESTA>Você não tem CONCHAS o bastante.
@@ -84,13 +84,13 @@ message_245:
       text: \n<JASH DA FESTA>Por favor espere, Senhor ou Madame.\! Antes de você ir...<br>Eu gostaria de te agradeçer por ser um patorcinador do JASH.
 
 message_246:
-      text: \n<JASH DA FESTA>Por favor pegue este \c[13]CARTÃO DE VENDAS\c[0].\! Você não vai receber nenhum desconto aqui, mas tenho certeza que isso vai ser útil de alguma forma.
+      text: \n<JASH DA FESTA>Por favor, pegue este \c[13]CARTÃO DE VENDAS\c[0].\! Você não vai receber nenhum desconto aqui, mas tenho certeza que isso vai ser útil de alguma forma.
 
 message_247:
       text: \n<JASH CONTRABANDISTA>Por favor espere, Senhor ou Madame.\! Antes de você ir...<br>Eu gostaria de te agradeçer por ser um patorcinador do JASH.
 
 message_248:
-      text: \n<JASH CONTRABANDISTA>Por favor pegue este \c[13]CARTÃO DE VENDAS\c[0].\! Você não vai receber nenhum desconto aqui, mas tenho certeza que isso vai ser útil de alguma forma.
+      text: \n<JASH CONTRABANDISTA>Por favor, pegue este \c[13]CARTÃO DE VENDAS\c[0].\! Você não vai receber nenhum desconto aqui, mas tenho certeza que isso vai ser útil de alguma forma.
 
 
 # =========================================================================================
@@ -108,7 +108,7 @@ message_11:
 message_12:
       faceset: MainCharacters_DreamWorld
       faceindex: 4
-      text: \aubhmmm...\! OMORI...\! Eu acho que aquela caixa de correio tá falando com a gente...\! <br>Vamos lá dar uma olhada...
+      text: \aubHmmm...\! OMORI...\! Eu acho que aquela caixa de correio tá falando com a gente...\! <br>Vamos lá dar uma olhada...
 
 #Mailbox opens
 message_13:
@@ -138,7 +138,7 @@ message_17:
 #NOT ENOUGH CLAMS
 
 message_18:
-      text: \maiEspere um pouco...\!<br>Você não tem CONCHAS suficiente!\!<br>O que você acha que tá rolando aqui? UMA CARIDADE!?
+      text: \maiEspere um pouco...\!<br>Você não tem CONCHAS o suficiente!\!<br>O que você acha que tá rolando aqui? UMA CARIDADE!?
 
 message_19:
       text: \mai\Com[2]O que você acha que tá rolando aqui? Uma caridade!?
@@ -156,10 +156,10 @@ message_187:
       text: Quantos você vai vender?\^
 #item selling prompt
 message_188:
-      text: \maiEm troca de seus bens, Eu vou te oferecer isso...\! Tá bom para você?
+      text: \maiEm troca de seus bens, Eu vou te oferecer isso...\! Tá bom pra você?
 #item buying cancel
 message_189:
-      text: \maiO que? Depois de tudo aquilo se só vai desistir!?
+      text: \maiO que? Depois de tudo aquilo você só vai desistir!?
 
 
 #IF HERO IS leader
@@ -215,10 +215,10 @@ message_70:
       text: \maiEi, crianças! Vocês teriam interesse em um \c[13]MACARRÃO DE PISCINA\c[0]?\!<br>Pode parecer simples, mas pode virar uma arma poderosa!
 
 message_71:
-      text: \maiAté mesmo sabendo disso...\! Vou te dar por um preço bem barato, 5000 CONCHAS bem barato mesmo!
+      text: \maiAté mesmo sabendo disso...\! Vou te dar por um preço bem barato, 5000 CONCHAS, bem barato mesmo!
 
 message_72:
-      text: \maiA esse preço, você vai tá roubando de mim basicamente!
+      text: \maiÀ esse preço, você vai tá roubando de mim basicamente!
 
 message_73:
       text: \maiO que você acha?\! Você quer?\$
@@ -226,11 +226,11 @@ message_73:
 
 #if yes
 message_74:
-      text: \maiExcelente!\! Por favor tome muito cuidado com isso!\! <br>\}\sinv[1]Kekeke...\LECLEAR
+      text: \maiExcelente!\! Por favor, tome muito cuidado com isso!\! <br>\}\sinv[1]Kekeke...\LECLEAR
 
 #if no
 message_75:
-      text: \maiOh, Entendo..\! Mas esse \c[13]MACARRÃO DE PISCINA\c[0] é tão raro e valioso...\!<br>Você deve considerar!\! E se eu deixasse tudo mais baratinho para você pelo preço de 2,500 CLAMS
+      text: \maiOh, Entendo..\! Mas esse \c[13]MACARRÃO DE PISCINA\c[0] é tão raro e valioso...\!<br>Você deve considerar!\! E se eu deixasse tudo mais baratinho pra você pelo preço de 2,500 CONCHAS?
 
 message_76:
       text: \maiQue tal?\! Você quer?\$
@@ -261,7 +261,7 @@ message_83:
 
 #[no]
 message_84:
-      text: \maiSabe...\! \Com[2]Tá bom!\!<br>Eu nem sei porque eu tô tentando tanto...
+      text: \maiSabe...\! \Com[2]Tá bom!\!<br>Eu nem sei porquê eu tô tentando muito...
 
 message_85:
       text: \maiSe você não vai comprar o \c[13]MACARRÃO DE PISCINA\c[0], então só leva!
@@ -304,7 +304,7 @@ message_98:
       text: \n<HOMEM GOSMA>Ei, você!\! Sim, você aí com o rosto lindo!
 
 message_99:
-      text: \n<HOMEM GOSMA>Poderia eu te interessar em uma honesta de verdade, completamente orgânica \c[3]ÁGUA ENGARRAFADA\c[0]?\! Nós estamos tendo uma liquidação!
+      text: \n<HOMEM GOSMA>Poderia eu te interessar em uma honesta, verdadeira, completamente orgânica \c[3]ÁGUA ENGARRAFADA\c[0]?\! Nós estamos tendo uma liquidação!
 
 #should be a variable reference to change depending on the amount
 message_100:
@@ -388,7 +388,7 @@ message_119:
 
 #Intro   start at 120
 message_120:
-      text: \n<JASH DO TOFU>Olá Senhor ou Madame. Vocês estariam interessados em comprar um bom \c[3]TOFU\c[0]?\! Vai-lhe custar exatamente 1 CONCHA.\$
+      text: \n<JASH DO TOFU>Olá Senhor ou Madame. Vocês estariam interessados em comprar um bom \c[3]TOFU\c[0]?\! Vai-lhes custar exatamente 1 CONCHA.\$
 
 #Purchase
 message_121:
@@ -543,7 +543,7 @@ message_150:
 
 #Leave Menu without Ordering
 message_151:
-      text: \n<ELEANOR>Nada dessa vez?\!<br>Sem problema! Por favor volte novamente em breve!
+      text: \n<ELEANOR>Nada dessa vez?\!<br>Sem problema! Por favor, volte novamente em breve!
 
 #Purchase
 message_152:
@@ -655,7 +655,7 @@ message_353:
       text: \n<HOMEM GOSMA>Incrível, obrigado.\! Tá logo ali se você quiser usar.
 
 message_354:
-      text: \n<HOMEM GOSMA>Eu tenho um \c[3]REFRI\c[0] muito, muito único feitos dos melhores \c[3]PÊSSEGOS BUNDUDOS\c[0].\! Estou falado do refri conhecido mundialmente, o \c[3]REFRI BUMBUM-PÊSSEGO\c[0], agora é seu por 600 CONCHAS!\$
+      text: \n<HOMEM GOSMA>Eu tenho um \c[3]REFRI\c[0] muito, muito único, feito dos melhores \c[3]PÊSSEGOS BUNDUDOS\c[0].\! Estou falado do refri conhecido mundialmente, o \c[3]REFRI BUMBUM-PÊSSEGO\c[0], agora é seu por 600 CONCHAS!\$
 
 message_355:
       text: \n<HOMEM GOSMA>Você vai amar o sabor.\! Você acha que tem mais gosto de bunda ou de pêssego?
