@@ -59,10 +59,10 @@ message_36:
 #OVELHA
 #Location: Last Resort
 message_8:
-      text: \n<OVELHA>Nós decidimos vir aqui na nossa lua de mel por que eles ofereceram um quarto grátis e uma experiência de um resort de luxo!
+      text: \n<OVELHA>Nós decidimos vir aqui na nossa lua de mel porque eles ofereceram um quarto grátis e a experiência de um resort de luxo!
 
 message_9:
-      text: \n<OVELHA>\Com[2]Luxo, é a minha bunda!\! Esse lugar é tão esfarrapado quanto parece.\!<br>Eu consigo ver a tinta descascando das paredes!
+      text: \n<OVELHA>\Com[2]Luxo é a minha bunda!\! Esse lugar é tão esfarrapado quanto parece.\!<br>Eu posso ver a tinta descascando das paredes!
 
 #LOBO
 #Location: Last Resort
@@ -83,7 +83,7 @@ message_13:
 #JULIA
 #Location: Last Resort
 message_14:
-      text: \n<JULIA>Eu começei a trabalhar aqui por que me ofereceram um bom salário, mas eu nem recebi meu primeiro salário ainda!
+      text: \n<JULIA>Eu começei a trabalhar aqui porque me ofereceram um bom salário, mas eu nem recebi meu primeiro salário ainda!
 
 #LUCY
 #Location: Last Resort
@@ -93,7 +93,7 @@ message_15:
 #PAM
 #Location: Last Resort
 message_16:
-      text: \n<PAM>Desculpa, eu não posso servir \c[3]SUCO DE FRUTAS\c[0] para menores de idade.
+      text: \n<PAM>Desculpa, eu não posso servir \c[3]SUCO DE FRUTAS\c[0] pra menores de idade.
 
 #RITA
 #Location: Last Resort
@@ -130,13 +130,13 @@ message_23:
       text: \n<TUBARÃO PICLES>Tubarões só podem nadar para a frente.<br>\!Isso não é inspirador?\! Eu acho...
 
 message_100:
-      text: \n<TUBARÃO PICLES>Tubarões tem varias camadas de dentes...\! que provavelmente são uteis para comer picles!
+      text: \n<TUBARÃO PICLES>Tubarões têm várias camadas de dentes...\! que provavelmente são úteis pra comer picles!
 
 message_101:
       text: \n<TUBARÃO PICLES>Tubarões não tem ossos!\! Nós na verdade somos feitos de orelhas e narizes humanos.
 
 message_102:
-      text: \n<TUBARÃO PICLES>Ao contrario do que muitos pensam, muitos tubarões não comem gente...\! exceto tubarões tigre...\! Esses caras comem qualquer coisa...
+      text: \n<TUBARÃO PICLES>Ao contrário do que muitos pensam, muitos tubarões não comem gente...\! exceto tubarões-tigre...\! Esses caras comem qualquer coisa...
 
 
 #PICKLES
@@ -144,7 +144,7 @@ message_24:
       text: \n<TUBARÃO PICLES>Dia 14 de novembro é o Dia Nacional do Picles.<br>\!Lembre-se de comer seu picles anual!
 
 message_104:
-      text: \n<TUBARÃO PICLES>Tem picles de mais?\! Você pode enterra-los no chão e buscar depois!\! Só se lembre de onde enterrou...
+      text: \n<TUBARÃO PICLES>Tem picles de mais?\! Você pode enterrar eles no chão e buscar depois!\! Só se lembre de onde enterrou...
 
 message_105:
       text: \n<TUBARÃO PICLES>Picles são usados como rituais de cortejo em certas culturas.\! Isso é tudo que vou dizer sobre isso!
@@ -168,7 +168,7 @@ message_25:
 #CARA JACARÉ
 #Location: Last Resort - Break Room
 message_26:
-      text: \n<CARA JACARÉ>I got everyone pizza!
+      text: \n<CARA JACARÉ>Eu pedi pizza pra geral!
 
 #CARA JACARÉ
 #Location: Last Resort - Construction
@@ -178,7 +178,7 @@ message_27:
 #CARA JACARÉ
 #Location: Last Resort - Break Room
 message_28:
-      text: \n<CARA JACARÉ>Nossas ações estão caindo... \!Quer dizer, subindo, a uma taxa alaramante!
+      text: \n<CARA JACARÉ>Nossas ações estão caindo... \!Quer dizer, subindo a uma taxa alarmante!
 
 #CARA JACARÉ
 #Location: Last Resort - Casino
@@ -257,7 +257,7 @@ message_32:
 #OVELHA
 #Location: ORANGE OASIS
 message_33:
-      text: \n<OVELHA>Tentamos ir para o \c[11]ÚLTIMO RESORT\c[0] para a nossa lua de mel...<br>mas isso não funcionou muito bem, então pegamos um trem até o \c[11]OASIS LARANJA\c[0]!
+      text: \n<OVELHA>Tentamos ir para o \c[11]ÚLTIMO RESORT\c[0] pra nossa lua de mel...<br>mas não deu muito certo, então pegamos um trem até o \c[11]OASIS LARANJA\c[0]!
 
 message_34:
       text: \n<OVELHA>Não tenho certeza do que eu esperava...\! É err...\!<br>É bem laranja.
@@ -265,7 +265,7 @@ message_34:
 #LOBO
 #Location: ORANGE OASIS
 message_35:
-      text: \n<LOBO>Huff... huff... \! É tão quente.\! Tem algúm hotel por aqui?
+      text: \n<LOBO>Huff... huff... \! É tão quente.\! Tem algum hotel por aqui?
 
 #ELEANOR
 #Location: MUSTARD SUBMERSIBLE
@@ -273,16 +273,16 @@ message_80:
       text: \n<SADIE>Oi, eu sou SADIE!\! Minhas irmãs e eu abrimos esse café juntas!
 
 message_81:
-      text: \n<SADIE>ELEANOR cuida do caixa, então por favor fale com ela se quiser uma \c[3]REFEIÇÃO COMBO\c[0]!
+      text: \n<SADIE>A ELEANOR cuida do caixa, então por favor fale com ela se quiser uma \c[3]REFEIÇÃO COMBO\c[0]!
 
 message_82:
-      text: \n<SADIE>E também, essas são minhas irmãs cantando!\!<br>Suas vozes não são lindas?
+      text: \n<SADIE>E aliás, essas são minhas irmãs cantando!\!<br>Suas vozes não são lindas?
 
 
 #JULIA
 #Location: Mustard Submersible
 message_85:
-      text: \n<JULIA>Eu deixei o \c[11]ÚLTIMO RESORT\c[0], e estou de volta aqui!\! Só não diga as minhas irmãs que eu senti falta delas!\! \SINV[1]Ufufu!\SINV[0]
+      text: \n<JULIA>Eu deixei o \c[11]ÚLTIMO RESORT\c[0] e estou de volta aqui!\! Só não diga as minhas irmãs que eu senti falta delas!\! \SINV[1]Ufufu!\SINV[0]
 
 #LUCY
 #Location: Mustard Submersible
@@ -292,10 +292,10 @@ message_90:
 #PAM
 #Location: Mustard Submersible
 message_95:
-      text: \n<PAM>Eu deixei o \c[11]ÚLTIMO RESORT\c[0], por que senti falta da SADIE e ELEANOR...\! mas parece que todo mundo chegou antes.
+      text: \n<PAM>Eu deixei o \c[11]ÚLTIMO RESORT\c[0] porque senti falta da SADIE e da ELEANOR...\! mas parece que todo mundo chegou antes.
 
 message_96:
-      text: \n<PAM>Eu acho que deveria estar preocupada com as CONCHAS agora mas...\!<br>Eu só estou feliz que estamos juntas de novo.\! Nós vamos conseguir de alguma forma!
+      text: \n<PAM>Eu acho que deveria estar preocupada com as CONCHAS mas...\!<br>Eu só estou feliz que estamos juntas de novo.\! Nós vamos conseguir de alguma forma!
 
 #SADIE
 #Location: Mustard Submersible
@@ -337,7 +337,7 @@ message_61:
 #CARA JACARÉ
 #Location: Last Resort
 message_62:
-      text: \n<CARA JACARÉ>O chefe não está com sua energia de sempre...\!<br>Eu me pergunto se algo aconteceu...
+      text: \n<CARA JACARÉ>O chefe não tá com sua energia de sempre...\!<br>Me pergunto se algo aconteceu...
 #After Cutscene: Feed Humphrey 1
 message_63:
       text: \n<CARA JACARÉ>\Com[2]Olá, HERO, senhor!\! \Com[2]Tenha um bom dia, senhor!
@@ -356,13 +356,13 @@ message_65:
 #After Cutscene: Feed Humphrey 1
 #Location: Last Resort
 message_66:
-      text: \n<CARA JACARÉ>Graças a liderança incrível do HERO, nosso modelo de negócios está mais eficiente que nunca!\! Estamos no caminho para o topo, baby!
+      text: \n<CARA JACARÉ>Graças à liderança incrível do HERO, nosso modelo de negócios está mais eficiente que nunca!\! Estamos no caminho para o topo, baby!
 
 #CARA JACARÉ
 #After Cutscene: Feed Humphrey 1
 #Location: Last Resort
 message_67:
-      text: \n<CARA JACARÉ>Você está cansado de andar, chefe?\!<br>Quer que eu te carregue?
+      text: \n<CARA JACARÉ>Você tá cansado de andar, chefe?\!<br>Quer que eu te carregue?
 
 #CARA JACARÉ
 #After Cutscene: Feed Humphrey 1
@@ -376,10 +376,10 @@ message_69:
       text: \n<CARA JACARÉ>Como vai, chefe?\! Você quer um \c[5]ELÁSTICO\c[0] de graça?\!<br>Não se preocupe.\! É por minha conta!
 
 message_70:
-      text: \n<CARA JACARÉ>Ei, você quer outro \c[5]ELÁSTICO\c[0], não quer?\!<br>Vá em frente, pegue!\! Tudo por você, chefe.
+      text: \n<CARA JACARÉ>Ei, você quer outro \c[5]ELÁSTICO\c[0], não quer?\!<br>Vá em frente, pegue!\! Tudo por você chefe.
 
 message_71:
-      text: \n<CARA JACARÉ>Você e seus amigos realmente gostam de \c[5]ELÁSTICOS\c[0]...\!<br>não que seja um problema.\! Eu tenho todos os \c[5]ELÁSTICOS\c[0] no mundo!
+      text: \n<CARA JACARÉ>Você e seus amigos realmente gostam de \c[5]ELÁSTICOS\c[0]...\!<br>não que seja um problema.\! Eu tenho todos os \c[5]ELÁSTICOS\c[0] do mundo!
 
 message_72:
       text: \n<CARA JACARÉ>Eu conheço essa cara!\! Essa é a cara de alguém que quer outro \c[5]ELÁSTICO\c[0]!\! Aqui vai, chefe!\! Com tudo que você fez pela gente, é o mínimo que posso fazer!
@@ -399,10 +399,10 @@ message_75:
 #extras_shop
 
 message_120:
-      text: Você gostaria de ouvir essa CONCHA MÚSICAL?
+      text: Você gostaria de ouvir essa CONCHA MUSICAL?
 
 message_121:
-      text: Fechar essa CONCHA MÚSICAL?
+      text: Fechar essa CONCHA MUSICAL?
 
 #BIKER gang
 
@@ -416,7 +416,7 @@ message_127:
       text: \n<QUEBRA CRÂNIOS>Seja gentíl com os outros!
 
 message_128:
-      text: \n<TIJOLO>Eu doo para a caridade!
+      text: \n<TIJOLO>Eu doo pra caridade!
 
 message_130:
       text: \n<SAPO>\}\quake[1]Ribbit...\quake[0]\! (Esperando algo acontecer?)
@@ -453,18 +453,18 @@ message_154:
 message_155:
       faceset: MainCharacters_DreamWorld
       faceindex: 3
-      text: \aubWow!\! Eu poderia me acostumar com isso!
+      text: \aubUau!\! Acho que eu poderia me acostumar com isso!
 
 #KEL
 message_156:
       faceset: MainCharacters_DreamWorld
       faceindex: 17
-      text: \kelSou eu, KEL do futuro!\! Eu terei tanto músculo, que eu mal poderei andar!
+      text: \kelSou eu, KEL do futuro!\! Eu terei tanto músculo que eu mal poderei andar!
 
 message_158:
       faceset: MainCharacters_DreamWorld
       faceindex: 18
-      text: \kelFaça pose! Hoo-hah!\! Eu vou pegar todas as garotas. Só aguarde.
+      text: \kelFaça pose! Huu-hah!\! Eu vou pegar todas as garotas. Só aguarde.
 
 message_159:
       faceset: MainCharacters_DreamWorld
@@ -480,7 +480,7 @@ message_160:
 message_161:
       faceset: MainCharacters_DreamWorld
       faceindex: 10
-      text: \aub\sinv[1]Ewwwwwwwwww!\sinv[0] Para com isso, HERO.\! Ou eu conto pra MARI!
+      text: \aub\sinv[1]Ecaaaaaaa!\sinv[0] Para com isso, HERO.\! Ou eu conto pra MARI!
 
 message_162:
       faceset: MainCharacters_DreamWorld
@@ -518,7 +518,7 @@ message_176:
       text: \n<BROTOPEIRA>Alô, quem é?
 
 message_177:
-      text: \n<BROTOPEIRA>Desculpe, você pegou o número errado.
+      text: \n<BROTOPEIRA>Desculpa, você pegou o número errado.
 
 message_178:
       text: \n<BROTOPEIRA>\com[2]Você acha isso engraçado, pirralho!?
@@ -527,7 +527,7 @@ message_179:
       text: \n<BROTOPEIRA>Minha mãe me avisou de gente que nem você!
 
 message_180:
-      text: \n<NOSE>\}Nose faz!\! \quake[1]Bzzt...
+      text: \n<NOSE>\}NOSE faz!\! \quake[1]Bzzt...
 
 #HERO BOSS
 message_200:
@@ -557,13 +557,13 @@ message_234:
       text: \n<CARA JACARÉ>Como vai, chefe?\! Obrigado por tomar conta dos negócios e tudo mais.\! Eu ouvi que você é incrível!
 
 message_224:
-      text: \n<CARA JACARÉ>Então... Eu cruzei com a Mãe no caminho pra cá e ela não parava de me irritar...\! Vestir óculos escuros dentro de casa faz mal para os olhos, ela diz.
+      text: \n<CARA JACARÉ>Então... eu cruzei com a MÃE no caminho pra cá e ela não parava de me irritar...\! Vestir óculos escuros dentro de casa faz mal pros olhos, diz ela.
 
 message_225:
       text: \n<CARA JACARÉ>Eu não posso só tirar meus óculos assim.\! Eles são tipo uma parte de mim!
 
 message_226:
-      text: \n<CARA JACARÉ>Cara... a Mãe está visitando de novo?\! Ela deve estar com saudade de mais.
+      text: \n<CARA JACARÉ>Cara... a MÃE tá visitando de novo?\! Ela deve estar com saudade de mais.
 
 message_227:
       text: \n<CARA JACARÉ>O que? a Mãe está aqui?\! Eu tenho que ir dizer oi depois!
