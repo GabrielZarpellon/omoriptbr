@@ -6,16 +6,16 @@
 #Remote 1
 
 message_1:
-      text: \n<CARA AMERICANO>Ei, colegas!\! Coméqui tá?\! Tenho que dizer...\! <br>Não há nada como passar um longo fim de semana com<br>sofá favorito e programa de TV favorito.
+      text: \n<CARA AMERICANO>Ei, brothers!\! Como é que tá?\! Tenho que dizer...\! <br>Não tem nada melhor que passar um bom fim de semana com<br>meu sofá e programa de TV favorito.
 
 message_2:
       text: \n<CARA AMERICANO>Só tem uma coisa me incomodando nesse dia quase perfeito...
 
 message_3:
-      text: \n<CARA AMERICANO>Eu não consigo encontrar o meu \c[4]CONTROLE REMOTO\c[0] em lugar nenhum e eu estou muito comfortável pra sair desse sofá!
+      text: \n<CARA AMERICANO>Eu não consigo encontrar o meu \c[4]CONTROLE REMOTO\c[0] em lugar nenhum e eu tô muito confortável pra sair desse sofá!
 
 message_4:
-      text: \n<CARA AMERICANO>Se vocês encontrarem, podem devolver pra mim?\! Valeu, rapazes.
+      text: \n<CARA AMERICANO>Se vocês encontrarem, podem devolver pra mim?\! Valeu rapazes.
 
 #Examine Couch
 
@@ -31,7 +31,7 @@ message_7:
       text: Você deu o \c[4]CONTROLE REMOTO\c[0] para o CARA AMERICANO.
 
 message_8:
-      text: \n<CARA AMERICANO>Valeu, rapaziada!\! Here, pega um \c[3]JOÃO LARANJA\c[0] na minha conta!
+      text: \n<CARA AMERICANO>Valeu, rapaziada!\! Here, pega um \c[3]JOÃO LARANJA\c[0] por minha conta!
 
 message_9:
       text: Você pegou \c[3]JOÃO LARANJA\c[0]!
@@ -39,10 +39,10 @@ message_9:
 #Remote 2
 
 message_10:
-      text: \n<CARA AMERICANO>Ei, rapazes!\! Tudo em cima?\! <br>Parece que eu perdi meu \c[4]CONTROLE REMOTO\c[0] de novo!
+      text: \n<CARA AMERICANO>Ei brothers!\! Tudo em cima?\! <br>Parece que eu perdi meu \c[4]CONTROLE REMOTO\c[0] de novo!
 
 message_11:
-      text: \n<CARA AMERICANO>Eu me lembro de me levantar para ir ao bathroom, <br>mas quando eu voltei, não estava lá...
+      text: \n<CARA AMERICANO>Eu me lembro de me levantar para ir ao bathroom, <br>mas quando eu voltei, não tava lá...
 
 message_12:
       text: \n<CARA AMERICANO>Vocês podem procurar pela casa por ele?\! <br>Tem que estar around here em algum lugar!
@@ -53,21 +53,21 @@ message_13:
       text: Você vê um \c[4]CONTROLE REMOTO\c[0] entre as toalhas.\! Você quer pegar?
 
 message_14:
-      text: \n<CARA AMERICANO>Obrigado, criançada!\! Eu estava pensando muito nele...<br>\! e acho que acidentalmente trouxe ele pro banheiro<br>e esqueci de trazer de volta.
+      text: \n<CARA AMERICANO>Obrigado, kids!\! Eu tava pensando muito nele...<br>\! e acho que acidentalmente trouxe ele pro banheiro<br>e esqueci de trazer de volta.
 
 message_15:
-      text: \n<CARA AMERICANO>Vocês me pouparam mais uma vez de sair desse couch<br>comfortável.\! Eu não posso agradecer o suficiente.\! Por favor, peguem outra lata de \c[3]JOÃO LARANJA!\c[0]\! Cês merecem!
+      text: \n<CARA AMERICANO>Vocês me pouparam mais uma vez de sair desse couch<br>confortável.\! Não sei nem como agradecer.\! Por favor, peguem outra lata de \c[3]JOÃO LARANJA!\c[0]\! Cês merecem!
 
 #Remote 3
 
 message_16:
-      text: \n<CARA AMERICANO>Eae, galerinha!\! Tranquilos?\! Eu não sei como isso vive acontecendo, mas eu perdi meu \c[4]CONTROLE REMOTO\c[0] de novo!
+      text: \n<CARA AMERICANO>Eaí dudes!\! Tranquilos?\! Eu não sei porque isso sempre acontece, mas eu perdi meu \c[4]CONTROLE REMOTO\c[0] de novo!
 
 message_17:
-      text: \n<CARA AMERICANO>Eu juro...\! dessa vez, tudo que eu fiz foi dormir com ele na mão, e quando acordei, tinha sumido!\! Deve ter um fantasma nessa casa ou algo assim...
+      text: \n<CARA AMERICANO>Eu juro...\! dessa vez, tudo que eu fiz foi dormir com ele na mão, e quando acordei, tinha sumido!\! Deve ter um fantasma nessa casa ou sei lá...
 
 message_18:
-      text: \n<CARA AMERICANO>Se vocês encontrarem denovo, poderiam me devolver?\!<br>Valeu mais uma vez, brothers!
+      text: \n<CARA AMERICANO>Se vocês encontrarem de novo poderiam me devolver?\!<br>Valeu mais uma vez, brothers!
 
 message_19:
       text: Você vê um \c[4]CONTROLE REMOTO\c[0] na torta.\! Você quer pegar?
@@ -76,7 +76,7 @@ message_20:
       text: \n<CARA AMERICANO>Hey, aí está!
 
 message_21:
-      text: Você deu o \c[4]CONTROLE REMOTO\c[0] pro CARA AMERICANO.
+      text: Você deu o \c[4]CONTROLE REMOTO\c[0] para o CARA AMERICANO.
 
 message_22:
       text: \n<CARA AMERICANO>Bem, vocês conseguiram de novo, guys!\! Vocês sabem o que isso significa...\! Aqui está outra doce lata de \c[3]JOÃO LARANJA!\c[0]
