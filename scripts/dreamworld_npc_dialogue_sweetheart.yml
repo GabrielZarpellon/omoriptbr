@@ -17,22 +17,22 @@ message_202:
 message_204:
       faceset: MainCharacters_DreamWorld
       faceindex: 4
-      text: \n<AUBREY>Droga... a gente tava tão perto também!
+      text: \n<AUBREY>Droga... a gente tava tão perto!
 
 message_205:
       faceset: MainCharacters_DreamWorld
       faceindex: 31
-      text: \n<KEL>\}Uh-oh... o que a gente faz agora?
+      text: \n<KEL>\}Ai droga... o que a gente faz agora?
 
 message_206:
       faceset: MainCharacters_DreamWorld
       faceindex: 46
-      text: \n<HERO>Pensa, HERO, pensa!\! Vamos lá... Como a gente sai dessa?\!<br>...\! Oh, Já sei!
+      text: \n<HERO>Pensa, HERO, pensa!\! Vamos lá... Como a gente sai dessa?\!<br>...\! Ah, já sei!
 
 message_207:
       faceset: MainCharacters_DreamWorld
       faceindex: 36
-      text: \n<HERO>...\! Ahem...\! Pelo contrário, sir cavaleiro, Eu acho que vocês nos confundiu por outras pessoas! Hm, hm, sim.
+      text: \n<HERO>...\! Ahem...\! Pelo contrário, sir cavaleiro, eu acho que você nos confundiu com outras pessoas! Hm, hm, sim.
 
 #KEL ? MARK THEN EXCLAMATION POINT
 #EVERYONE TURN AND PUTS ON SPROUT MOLE MASKS
@@ -45,23 +45,23 @@ message_208:
 message_209:
       faceset: MainCharacters_DreamWorld
       faceindex: 1
-      text: \n<AUBREY>Hoo, hoo, de fato! Ah sim, realmente!\! Eu também sou um amante de \c[3]TOFU\c[0] e da SWEETHEART!\! Mmm... Deliciosa SWEETHEA- Quero dizer, \c[3]TOFU\c[0].
+      text: \n<AUBREY>Hoo, hoo, de fato! Ah sim, realmente!\! Eu também sou uma amante de \c[3]TOFU\c[0] e da SWEETHEART!\! Mmm... Deliciosa SWEETHEA- Quero dizer, \c[3]TOFU\c[0].
 
 message_210:
-      text: \n<HAROLDO>Meu Deus! Meu olhos devem ter me enganado. Me desculpem, irmão.<br>\!É um pouco difícil de enxergar por este capacete.
+      text: \n<HAROLDO>Meu Deus! Meu olhos devem ter me enganado. Me desculpem, irmãos.<br>\!É um pouco difícil de enxergar com esse capacete.
 
 message_211:
-      text: \n<HAROLDO>Muito bem, sigam em frente.\! Eu vou retornar a minha patrulha.\! Seu grupo deve retornar a seus postos também, para que nossa querida SWEETHEART não note...
+      text: \n<HAROLDO>Muito bem, sigam em frente.\! Eu vou retornar a minha patrulha.\! Seu grupo deve retornar a seus postos também para que nossa querida SWEETHEART não note...
 
 message_212:
       faceset: MainCharacters_DreamWorld
       faceindex: 37
-      text: \n<HERO>Heh... Que vocês acharam deste rápido raciocínio?
+      text: \n<HERO>Heh... O que vocês acharam desse raciocínio rápido?
 
 message_213:
       faceset: MainCharacters_DreamWorld
       faceindex: 2
-      text: \n<AUBREY>Isso foi ótimo, HERO!\! Com estas \c[4]MÁSCARAS DE BROTOPEIRA\c[0], vamos conseguir sair daqui rápidinho!
+      text: \n<AUBREY>Isso foi ótimo, HERO!\! Com essas \c[4]MÁSCARAS DE BROTOPEIRA\c[0], vamos conseguir sair daqui rapidinho!
 
 message_214:
       faceset: MainCharacters_DreamWorld
@@ -71,14 +71,14 @@ message_214:
 message_215:
       faceset: MainCharacters_DreamWorld
       faceindex: 47
-      text: \n<HERO>Sim, KEL.... Devemos continuar com elas até sairmos daqui.\! Vamos lá... vamos continuar.
+      text: \n<HERO>Sim, KEL.... Precisamos continuar com elas até a gente sair.\! Vamos lá... vamos continuar.
 
 # =========================================================================================
 # Dreamworld NPC Dialogue: Sweetheart's Castle -> Guest List
 # =========================================================================================
 
 message_0:
-      text: \n<BROTOPEIRA DA LISTA DE CONVIDADOS>Minha nossa! Não há tempo para admitir a entrada destes convidados indesejáveis!\! Isso só mostra que nunca devemos subestimar a popularidade da nossa querida SWEETHEART...
+      text: \n<BROTOPEIRA DA LISTA DE CONVIDADOS>Minha nossa! Não há tempo para permitir a entrada destes convidados indesejáveis!\! Isso só mostra que nunca devemos subestimar a popularidade da nossa querida SWEETHEART...
 
 #guest mole puts up chart
 
@@ -89,11 +89,11 @@ message_2:
       text: \n<BROTOPEIRA DA LISTA DE CONVIDADOS>O que foi agora?\! Você precisam de ajuda em alguma coisa?
 
 message_3:
-      text: \n<BROTOPEIRA DA LISTA DE CONVIDADOS>Perguntem gentilmente para os convidados indesejáveis os seguirem e tragam-os até mim!\! Vocês podem fazer algo tão simples, não podem?
+      text: \n<BROTOPEIRA DA LISTA DE CONVIDADOS>Peçam gentilmente para os convidados indesejados para os seguirem e tragam-os até mim!\! Vocês podem fazer algo tão simples, não podem?
 
 #pan up
 message_4:
-      text: \n<BROTOPEIRA DA LISTA DE CONVIDADOS>\com[2]O que você está fazendo!?<br>Aquela BROTOPEIRA é um estimado convidado!
+      text: \n<BROTOPEIRA DA LISTA DE CONVIDADOS>\com[2]O que vocês estão fazendo!?<br>Aquela BROTOPEIRA é um convidado estimado!
 
 message_5:
       text: Qual é o código de vestimenta de novo?
@@ -102,10 +102,10 @@ message_6:
       text: Quantas BROTOPEIRAS faltam?
 
 message_7:
-      text: \n<BROTOPEIRA DA LISTA DE CONVIDADOS>Até mesmo daqui, Eu posso ver que tem \v[1001] convidados que estão vestidos inapropriadamente!
+      text: \n<BROTOPEIRA DA LISTA DE CONVIDADOS>Até mesmo daqui, eu posso ver que tem \v[1001] convidados que estão vestidos inapropriadamente!
 
 message_8:
-      text: \n<BROTOPEIRA DA LISTA DE CONVIDADOS>Até mesmo daqui, Eu posso ver que tem 1 convidado que está vestido inapropriadamente!
+      text: \n<BROTOPEIRA DA LISTA DE CONVIDADOS>Até mesmo daqui, eu posso ver que tem 1 convidado que está vestido inapropriadamente!
 
 message_10:
       text: \n<BROTOPEIRA DA LISTA DE CONVIDADOS>Esplêndido! Eu sabia que vocês levavam jeito!\!<br>Agora podemos finalmente nos livrar deste convidados não-rosados!
@@ -114,7 +114,7 @@ message_11:
       text: \n<BROTOPEIRA DA LISTA DE CONVIDADOS>E isso está resolvido!\!<br>Aqueles convidados não-rosados jamais irão ver a luz do dia novamente!
 
 message_12:
-      text: \n<BROTOPEIRA DA LISTA DE CONVIDADOS>\Com[2]\{GUARDAS!!\!\}<br>Escoltem estar BROTOPEIRAS até \c[11]A MASMORRA\C[0]!
+      text: \n<BROTOPEIRA DA LISTA DE CONVIDADOS>\Com[2]\{GUARDAS!!\!\}<br>Escoltem estas BROTOPEIRAS até \c[11]A MASMORRA\C[0]!
 
 message_20:
       text: \n<BROTOPEIRA ROSA>Como eles ousam me fazer esperar! Eu sou um convidado estimado!
@@ -146,16 +146,16 @@ message_42:
 # Dreamworld NPC Dialogue: Sweetheart's Castle -> bAKE cAKE
 # =========================================================================================
 message_60:
-      text: \n<TOUPEIRA CHEFE DA COZINHA>Urg... Meus queridos sous chefs...\!<br>Eu temo que a minha costa não consegue mais aguentar!\! É nessas horas infelizes que eu anuncio o minha aposentadoria.
+      text: \n<TOUPEIRA CHEFE DA COZINHA>Urg... Meus queridos sous chefs...\!<br>Eu acho que as minhas costas não conseguem mais aguentar!\! É nessas horas infelizes que eu anuncio minha aposentadoria.
 
 message_61:
-      text: \n<TOUPEIRA SOUS CHEF>Mas espere, chefe! Sem você, quem vai nos guiar em nossa tarefa de assar o bolo mais mangífico para o evento principal!?
+      text: \n<TOUPEIRA SOUS CHEF>Mas espera, chefe! Sem você, quem vai nos guiar em nossa tarefa de assar o bolo mais mangífico pro evento principal!?
 
 message_62:
       text: \n<TOUPEIRA CHEFE>Sous chefs, agora é a hora de um de vocês dar um passo para frente.\! Um bolo deve ser assado hoje! Nossas próprias vidas estão em linha!
 
 message_63:
-      text: \n<TOUPEIRA SOUS CHEF>Oh, Sim! Eu te entendo, chefe!\! Como o mais capaz de todos nós,<br>Eu vou me voluntariar a liderar esta tarefa!\!<br>Eu não vou falhar com vocês! Eu prometo...
+      text: \n<TOUPEIRA SOUS CHEF>Oh, sim! Eu te entendo, chefe!\! Como o mais capaz de todos nós,<br>eu vou me voluntariar a liderar essa tarefa!\!<br>Eu não vou falhar com vocês! Eu prometo...
 
 # =========------------------
 message_70:
@@ -168,12 +168,12 @@ message_74:
       text: \n<TOUPEIRA SOUS CHEF>Bah! Eu não preciso de ajuda de seus odiadores!\! Eu vou assar um bolo que irá acabar com todos os bolos, vocês verão!
 
 message_72:
-      text: \n<TOUPEIRA SOUS CHEF>Ei, vocês aí!\! Vocês quatro são SOUS CHEFS agora.\!<br>Me encontrem na cozinha, pronto!
+      text: \n<TOUPEIRA SOUS CHEF>Ei, vocês aí!\! Vocês quatro são SOUS CHEFS agora.\!<br>Me encontrem na cozinha, agora!
 
 # =========------------------
 
 message_73:
-      text: \n<TOUPEIRA SOUS CHEF>Por que demoraram tanto!?\! Se foquem nisso, não vão?\! Eu não posso sair dessa sala até eu assar o melhor bolo de toda a existência!
+      text: \n<TOUPEIRA SOUS CHEF>Por que demoraram tanto!?\! Vocês vão focar aqui, não vão?\! Eu não posso sair dessa sala até eu assar o melhor bolo de toda a existência!
 
 # =========------------------
 
@@ -185,10 +185,10 @@ message_81:
 
 # =========------------------
 message_82:
-      text: \n<TOUPEIRA SOUS CHEF>Vocês estão prontos para começar?\! Só sigam as minhas intruções e vocês vão ficar bem.\! Eu me lembro da receita do HEAD CHEF de cór!
+      text: \n<TOUPEIRA SOUS CHEF>Vocês estão prontos pra começar?\! Só sigam as minhas instruções e vocês vão ficar bem.\! Eu me lembro da receita do HEAD CHEF de cór!
 
 message_83:
-      text: \n<TOUPEIRA SOUS CHEF>Ei, não fiquem nervoso!\! Confiem em mim, Eu sei o que estou fazendo!
+      text: \n<TOUPEIRA SOUS CHEF>Ei, não fiquem nervoso!\! Confiem em mim, eu sei o que estou fazendo!
 
 message_84:
       text: \n<TOUPEIRA SOUS CHEF>Primerio, devemos pré-aquecer o forno à 75 GRAUS!
@@ -207,11 +207,11 @@ message_103:
       text: 350 GRAUS
 
 message_120:
-      text: PEGAR RANDOMICAMENTE
+      text: COLOCAR RANDOMICAMENTE
 # =========------------------
 
 message_104:
-      text: Você ligou o fonro.\! Ele agora está pré-aquecendo.
+      text: Você ligou o forno.\! Ele agora está pré-aquecendo.
 
 message_105:
       text: \n<TOUPEIRA SOUS CHEF>Excelente trabalho!\! A próxima coisa a se fazer é misturar dois ingredients principais em uma tigela...\! FLORES e BOLAS DE PING PONG!
@@ -263,7 +263,7 @@ message_123:
       text: \n<TOUPEIRA SOUS CHEF>Agora estamos progredindo!\! Por último mas não menos importante, pegue a SALSICHA e corte-a em pedaços!
 
 message_124:
-      text: \n<TOUPEIRA SOUS CHEF>Magnífico!\! Agora, misture tudo e meta no microondas!\! É bem fácil!
+      text: \n<TOUPEIRA SOUS CHEF>Magnífico!\! Agora, misture tudo e coloque no microondas!\! É bem fácil!
 
 # =========------------------
 
@@ -279,17 +279,17 @@ message_127:
       text: Você assou um BOLO.\! Uau! Parece muito bom!
 
 message_128:
-      text: Você assou um BOLO.\! Parece só ok.
+      text: Você assou um BOLO.\! Parece ok.
 
 message_129:
-      text: Você assou um BOLO.\! Não parece tá muito certo...
+      text: Você assou um BOLO.\! Não parece estar muito certo...
 
 message_130:
       text: Você assou um BOLO.\! ...\! Mas que diabos você colocou aqui!?
 
 # =========------------------
 message_131:
-      text: \n<TOUPEIRA SOUS CHEF>Ah! Tudo feito?\! Belo trabalho, Tenho que dizer!\!<br>Vamos provar!
+      text: \n<TOUPEIRA SOUS CHEF>Ah! Tudo feito?\! Belo trabalho, tenho que dizer!\!<br>Vamos provar!
 
 message_132:
       text: \n<TOUPEIRA SOUS CHEF>\com[2]\{MARAVILHOSO, QUE NEM EU ESPERAVA!!\!\}<br>Aqueles outros SOUS CHEFS vão se arrepender!
@@ -382,7 +382,7 @@ message_160:
       text: Mas que diabos você colocou aqui!?
 # =========------------------
 message_161:
-      text: Botar de volta o \v[1001]?
+      text: Quer devolver \v[1001]?
 # =========------------------
 message_162:
       text: \n<TOUPEIRA SOUS CHEF>Este é um bolo que o nosso último HEAD CHEF ficaria orgulhoso.\! Que a sua memória viva para sempre...
@@ -431,7 +431,7 @@ message_320:
       text: \n<JASH CONTRABANDISTA>Eu fui enviado à masmorra por contrabandear...\!<br>mas velhos hábitos nunca morrem.
 
 message_321:
-      text: \n<JASH CONTRABANDISTA>Dito isso, Eu tenho umas boas escolhas à venda, patrão.\! Interessado em comprar?
+      text: \n<JASH CONTRABANDISTA>Dito isso, eu tenho umas boas escolhas à venda, patrão.\! Interessado em comprar?
 
 message_322:
       text: \n<JASH CONTRABANDISTA>Eu tenho umas boas escolhas à venda, patrão.
@@ -444,7 +444,7 @@ message_350:
 message_351:
       faceset: MainCharacters_DreamWorld
       faceindex: 40
-      text: Hmm...\! Eu me pergunto para que foi isso...\her
+      text: Hmm...\! Pra que será que foi isso...\her
 
 message_352:
       text: Há uma alavanca em formato de coração escondida na lareira...\! Mas você já pressionou-a.
@@ -517,19 +517,19 @@ message_404:
       text: \n<BROTOPEIRA ROSA?>\}\"Aqui é 'BIGBOYZ' para 'ALPHA-3'...\! a ave saiu do ninho.\! Abortar a missão.\"\! \quake[1]Bzzt...\quake[0]
 
 message_405:
-      text: \n<BROTOPEIRA ROSA?>Desculpe, mas eu não sou a toupeira que você está procurando.
+      text: \n<BROTOPEIRA ROSA?>Desculpa, mas eu não sou a toupeira que você está procurando.
 
 message_406:
       text: \n<BROTOPEIRA ROSA?>O-ok...\! mas você tem que me explicar o que tá acontecendo!
 
 message_407:
-      text: \n<BROTOPEIRA ROSA?>Ew... Quem é você?\! Nunca fale comigo de novo.
+      text: \n<BROTOPEIRA ROSA?>Eca... Quem é você?\! Não fale comigo de novo.
 
 message_408:
       text: \n<BROTOPEIRA ROSA?>Eu tenho que ficar em uma outra fila?
 
 message_409:
-      text: \n<BROTOPEIRA ROSA?>Talvez, Eu vá com você...\! Mas talvez não.
+      text: \n<BROTOPEIRA ROSA?>Talvez eu vá com você...\! Mas talvez não.
 
 message_410:
       text: \n<BROTOPEIRA ROSA?>As leis desta terra são cruéis...
@@ -541,7 +541,7 @@ message_412:
       text: \n<BROTOPEIRA ROSA?>Minha presença é requisitada?\! Mas é claro que é.
 
 message_413:
-      text: \n<BROTOPEIRA ROSA?>Psh...\! ou o que?
+      text: \n<BROTOPEIRA ROSA?>Psh...\! ou o quê?
 
 message_414:
       text: \n<BROTOPEIRA ROSA?>Droga... Eu sabia que eu tinha pegado a gravata errada!
@@ -553,7 +553,7 @@ message_416:
       text: \n<BROTOPEIRA ROSA?>Eu? Eles tem que abrir uma exceção.\! Eu vou lá falar com eles!
 
 message_417:
-      text: \n<BROTOPEIRA ROSA?>Não! Talvez \sinv[1]you\sinv[0] você deva sair!
+      text: \n<BROTOPEIRA ROSA?>Não! Talvez \sinv[1]você\sinv[0] deva sair!
 
 message_418:
       text: \n<BROTOPEIRA ROSA?>Eu estou finalmente sendo importante?
@@ -574,7 +574,7 @@ message_423:
       text: \n<BROTOPEIRA ROSA?>Pode falar mais alto, meu filho? Eu não consigo te ouvir!
 
 message_424:
-      text: \n<BROTOPEIRA ROSA?>Mas... é claro! Você parece um \sinv[1]limpo\sinv[0] e arrumado cavaleiro!
+      text: \n<BROTOPEIRA ROSA?>Mas... é claro! Você parece um \sinv[1]limpinho\sinv[0] e arrumado cavaleiro!
 
 message_425:
       text: \n<BROTOPEIRA ROSA?>Não me toque!\! Você parece que tem germes!
@@ -631,14 +631,14 @@ message_462:
 message_501:
       faceset: MainCharacters_DreamWorld
       faceindex: 39
-      text: \herEi, é só eu ou não parece que tudo ficou mais quieto de repente?
+      text: \herEi, sou só eu ou parece que tudo ficou mais quieto de repente?
 
 message_502:
       faceset: MainCharacters_DreamWorld
       faceindex: 19
-      text: \kelNão tinha uma multidão de BROTOPEIRAS na entrada antes?\! Eu não vejo eles mais por aqui!
+      text: \kelNão tinha uma multidão de BROTOPEIRAS na entrada antes?\! Eu não tô vendo mais elas!
 
 message_503:
       faceset: MainCharacters_DreamWorld
       faceindex: 1
-      text: \aubEles finalmente devem ter ido para fora!\! Vamos segui-los, OMORI.\! Talvez eles possam nos guiar para fora daqui!
+      text: \aubElas finalmente devem ter saído!\! Vamos seguir elas, OMORI.\! Acho que elas podem guiar a gente pra fora daqui!
