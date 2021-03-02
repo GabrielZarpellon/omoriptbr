@@ -35,13 +35,13 @@
 #BISCUIT & DOUGHIE
 #Location: LAST RESORT (after beating Biscuit and Doughie)
 message_0:
-      text: \n<BOLACHO>Temo que perdemos todas as CONCHAS que ganhamos...
+      text: \n<BISCOITA>Temo que perdemos todas as CONCHAS que ganhamos...
 
 message_1:
-      text: \n<BOLACHO>Nós somos muito ruins nisso... \!não somos BISCOITA?
+      text: \n<BISCOITA>Nós somos muito ruins nisso... \!não somos BISCOITA?
 
 message_2:
-      text: \n<BISCOITA>\sinv[1]Ohooo...
+      text: \n<BOLACHO>\sinv[1]Ohooo...
 
 
 #Candle, Chip, Daddylonglegs, Demonboy, EvilChip, Mush, Weeping WILLOW same as night 2
