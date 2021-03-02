@@ -17,7 +17,7 @@ message_3:
       text: \n<TESTA ENRUGADA>É o aniversário de 10 anos do meu filho JESSE, e eu espero comprar algo que ele goste de verdade.
 
 message_4:
-      text: \n<TESTA ENRUGADA>Pode olhar pela loje e escolher um presente por mim?
+      text: \n<TESTA ENRUGADA>Pode olhar pela loja e escolher um presente por mim?
 
 #Examine Videogame
 message_5:
@@ -29,16 +29,16 @@ message_6:
 #Cutscene: Jesse's dad goes home
 
 message_7:
-      text: \n<TESTA ENRUGADA>Então...\! é isso que as criaças curtem hoje em dia?
+      text: \n<TESTA ENRUGADA>Então...\! é isso que as crianças curtem hoje em dia?
 
 message_8:
-      text: \n<TESTA ENRUGADA>\c[4]SUPER ULTRA COMEDOR DE BROTOPEIRA - REVANCHE DAS TOUPEIRAS III\c[0]?\! Acho que não entendi o porque, mas ok!
+      text: \n<TESTA ENRUGADA>\c[4]SUPER ULTRA COMEDOR DE BROTOPEIRA - REVANCHE DAS TOUPEIRAS III\c[0]?\! Acho que não entendi o porquê, mas ok!
 
 message_17:
       text: \n<TESTA ENRUGADA>Achei uma coisa legal enquanto estava varrendo mais cedo...\! <br>Você pode ficar com ela!
 
 message_18:
-      text: Você ganhou uma \c[4]CONCHA DO MAR\c[0].
+      text: Você recebeu uma \c[4]CONCHA DO MAR\c[0].
 
 message_9:
       text: \n<TESTA ENRUGADA>\quake[1]Gah!\!\quake[0] O preço desse jogo é...\! Ai...\! Meu bolso...
@@ -78,4 +78,4 @@ message_31:
 #home
 
 message_32:
-    text: \n<TESTA ENRUGADA>Ei! Vocês são aquelas crianças de cedo!\! Meu filho está lá em cima em seu quarto, mas ele não gosta muito de estranhos...
+    text: \n<TESTA ENRUGADA>Ei! Vocês são aquelas crianças de hoje mais cedo!\! Meu filho está lá em cima em seu quarto, mas ele não gosta muito de estranhos...

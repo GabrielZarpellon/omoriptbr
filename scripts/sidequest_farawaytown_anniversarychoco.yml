@@ -11,13 +11,13 @@ message_1:
       text: \n<CARA ATRAPALHADO>Quase esqueci que hoje era o meu aniversário de casamento...\! então aqui estou tentando consertar tudo de última hora... Harhar...
 
 message_2:
-      text: \n<CARA ATRAPALHADO>Eu sei que tenho sido idiota recentemente, então quero dar um presente impressionante para minha esposa!
+      text: \n<CARA ATRAPALHADO>Eu sei que tenho sido idiota recentemente, então quero dar um presente impressionante pra minha esposa!
 
 message_3:
       text: \n<CARA ATRAPALHADO>Só que...\! Como sempre...\! Eu não sei o que estou fazendo...\!<br>Estou aceitando qualquer ajuda nesse ponto.
 
 message_4:
-      text: \n<CARA ATRAPALHADO>Vocês...\! Crianças, poderiam me ajudar a escolher um presente para minha esposa no balcão?\! Obrigado mesmo!
+      text: \n<CARA ATRAPALHADO>Vocês...\! Crianças, poderiam me ajudar a escolher um presente pra minha esposa no balcão?\! Obrigado mesmo!
 
 #Examine CHOCOLATE / CARAMEL APPLES / CANDY:
 
@@ -44,7 +44,7 @@ message_30:
 # [No]
 
 message_8:
-      text: \n<CARA ATRAPALHADO>Talvez não...\! Esta é uma decisão muito difícil...\! Temos que pensar bastante!
+      text: \n<CARA ATRAPALHADO>Talvez não...\! Essa é uma decisão muito difícil...\! Temos que pensar bastante!
 
 #Cutscene: Sarah's Dad Buys CHOCOLATE
 
@@ -91,7 +91,7 @@ message_22:
       text: \n<MOÇA DO RABO DE CAVALO>De qualquer forma, obrigada pela ajuda.\!<br>Aqui vai um presente.
 
 message_23:
-      text: Você ganhou uma \c[3]FATIA DE PIZZA\c[0]!
+      text: Você recebeu uma \c[3]FATIA DE PIZZA\c[0]!
 
 message_25:
       text: O CARA ATRAPALHADO deve comprar \c[3]CHOCOLATE\c[0]?
