@@ -28,7 +28,7 @@ message_0:
 #SNOWGLOBE 1
 #Location: Frozen Forest
 message_1:
-      text: Você olhou dentro do GLOBO DE NEVE.\! Você vê um carro preso na neve.\! Crianças estão desenhando nas janelas do banco de trás.
+      text: Você olhou dentro do GLOBO DE NEVE.\! Você vê um carro preso na neve.\! Crianças estão desenhando com o dedo nas janelas do banco de trás.
 
 #SNOWGLOBE 2
 #Location: Frozen Forest
@@ -93,7 +93,7 @@ message_34:
       text: Você pescou um \c[3]TOFU\c[0]!
 
 message_35:
-      text: Você pescou um \c[3]GELEIA VITAL\c[0]!
+      text: Você pescou uma \c[3]GELEIA VITAL\c[0]!
 
 message_36:
       text: Sem sorte dessa vez...
