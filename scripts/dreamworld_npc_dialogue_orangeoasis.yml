@@ -34,7 +34,7 @@ message_3:
 #Jelly: Dream world P&J Quest
 #After Peanut and Jelly quest: (Palmie's House)
 message_4:
-      text: \n<GELEIA>Hehe...\! SRA. PALMIE vai ficar surpresa quando eu der à ela<br>esse\c[4]CARTÃO DE AGRADECIMENTO FOSSILIZADO\c[0]!\! Não é, AMENDOIM?
+      text: \n<GELEIA>Hehe...\! SRA. PALMIE vai ficar surpresa quando eu der pra ela<br>esse\c[4]CARTÃO DE AGRADECIMENTO FOSSILIZADO\c[0]!\! Não é, AMENDOIM?
 
 message_5:
       text: \n<AMENDOIM>Mhmm!
@@ -46,7 +46,7 @@ message_6:
       text: \n<HOMEM EM CHAMAS>...\! Você tem um olhar preocupado...\! Eu posso dizer que um grande problema o incomoda...
 
 message_7:
-      text: \n<HOMEM EM CHAMAS>Deixe me te dizer uma coisa, criança.\! Quando um tempo<br>árduo e difícl estiver a sua frente...\! tudo que você precisa é esperança!
+      text: \n<HOMEM EM CHAMAS>Deixe me te dizer uma coisa, criança.\! Quando um tempo<br>árduo e difícl estiver à sua frente...\! tudo que você precisa é esperança!
 
 message_8:
       text: \n<HOMEM EM CHAMAS>Seja esperançoso consigo mesmo e com o futuro!\!<br>Sim!\! Tudo é possível se você acreditar!\! E...\! caso tudo<br>falhe, saiba que eu vou acreditar em você, tá bem?
@@ -54,7 +54,7 @@ message_8:
 #Yes/No
 #Yes
 message_9:
-      text: \n<HOMEM EM CHAMAS>Excelente.\! Por favor aceite este ensinamento como um presente.
+      text: \n<HOMEM EM CHAMAS>Excelente.\! Por favor, aceite este ensinamento como um presente.
 
 message_12:
       text: HERO aprendeu \c[1]COMIDA PICANTE\c[0]!
@@ -148,7 +148,7 @@ message_61:
       text: \n<TOUPEIRA DE VERDADE>\com[2]Intrusos!\! Vão embora, PÃES-vivos!
 
 message_62:
-      text: \n<TOUPEIRA DE VERDADE>Não dormimos, assim como nossos mestres.\! Dia sim... dia não... É \sinv[1]pão fresco... pão fresco... pão fresco...\c[0]
+      text: \n<TOUPEIRA DE VERDADE>Não dormimos, assim como nossos mestres.\! Do dia... à noite... É \sinv[1]pão fresco... pão fresco... pão fresco...\c[0]
 
 message_63:
       text: \n<TOUPEIRA DE VERDADE>Os mestres têm recebido mais pedidos.\!<br>Eles devem estar chegando aos seus limites em breve.
@@ -165,7 +165,7 @@ message_67:
       text: \n<TOUPEIRA DE VERDADE>Sem os nossos mestres, estamos livres!\! Nós faremos deste lugar o nosso novo lar!
 
 message_68:
-      text: \n<TOUPEIRA DE VERDADE>Os nossos mestres nos tratavam bem...\! Sniff...\! Eu vou sentir falta das piadas do BISCOITO...
+      text: \n<TOUPEIRA DE VERDADE>Os nossos mestres nos tratavam bem...\! Sniff...\! Eu vou sentir falta das piadas do BOLACHO...
 
 message_70:
       text: \n<CACTO UHUU>Saudações.\! Obrigado por terem falado comigo.
