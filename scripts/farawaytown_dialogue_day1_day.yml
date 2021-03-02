@@ -34,7 +34,7 @@ message_4:
 #Location: FARAWAY PARK (Cutscene: Charlie & Angel Fight)
 
 message_10:
-      text: \n<ANGEL>O professor foi até a fonte na \c[11]PRAÇA TÃO-DISTANTE\c[0].\! <br>Ele disse que estava indo lá para se encontrar com algumas garotas...\! <br>é um encontro ou algo assim
+      text: \n<ANGEL>O professor foi até a fonte na \c[11]PRAÇA TÃO-DISTANTE\c[0].\! <br>Ele disse que tava indo lá pra se encontrar com algumas garotas...\! <br>é um encontro ou algo assim
 
 #===============CHARLIE=====================
 
@@ -59,19 +59,19 @@ message_30:
 #Location: Artist's house - Agree with me! Quest
 
 message_40:
-      text: \n<ARTIST>Hmmm...\! Essa talvez seja a minha melhor obra até agora!
+      text: \n<ARTISTA>Hmmm...\! Essa talvez seja a minha melhor obra até agora!
 
 #===============SHORT HAIR GIRL=====================
 
 #Location: Town Plaza (Near the fountain)
 
 message_50:
-      text: \n<GAROTA DE CABELO CURTO>Eu acabei de desejar que eu conheça o amor da minha vida hoje!
+      text: \n<GAROTA DE CABELO CURTO>Eu acabei de pedir pra que eu conheça o amor da minha vida hoje!
 
 #After Cutscene: The Maverick's Loss
 
 message_51:
-      text: \n<GAROTA DE CABELO CURTO>Uau...\! Aquele garoto com a peruca loura é tão maneiro...\!<br>Eu queria ser confiante como ele.
+      text: \n<GAROTA DE CABELO CURTO>Uau...\! Aquele garoto com a peruca loira é tão maneiro...\!<br>Eu queria ser confiante como ele.
 
 
 #===============FASHIONABLE MOM=====================
@@ -79,7 +79,7 @@ message_51:
 #Location: Supermarket
 
 message_60:
-      text: \n<MÃE ELEGSNTE>Meu filho BILLY é um defensor do meio ambiente.\! Ele e seus amigos estão sempre coletando \c[4]LIXO\c[0] na cidade.
+      text: \n<MÃE ELEGANTE>Meu filho BILLY é um defensor do meio ambiente.\! Ele e seus amigos estão sempre coletando \c[4]LIXO\c[0] na cidade.
 
 message_61:
       text: \n<MÃE ELEGANTE>É bom ver os jovens cuidando do planeta hoje em dia!
@@ -89,14 +89,14 @@ message_61:
 #Location: Supermarket
 
 message_70:
-      text: \n<HOMEM ESTRANHO>Todas as embalagens dessa seção podem ser recicladas para <br>criar novas embalagems de novo e de novo...\! <br>É um belo conceito, não concorda?
+      text: \n<HOMEM ESTRANHO>Todas as embalagens dessa seção podem ser recicladas pra <br>criar novas embalagems de novo e de novo...\! <br>É um belo conceito, não concorda?
 
 #===============SCHOOL PRINCIPAL=====================
 
 #Location: BRENT'S HOUSE
 
 message_80:
-      text: \n<DIRETORA DA ESCOLA>Muito bem, tutor...\! Se sinta livre para voltar amanhã!
+      text: \n<DIRETORA DA ESCOLA>Muito bem, tutor...\! Sinta-se livre para voltar amanhã!
 
 #===============OLD BEARDY=====================
 
@@ -109,7 +109,7 @@ message_91:
       text: \n<VELHO BARBUDO>\SINV[2]GW\{AH\{AHA\{HAH\{AHA!!\SINV[0]
 
 message_92:
-      text: \n<VELHO BARBUDO>Eu estive tentando decidir o que comer por uns dez minutos, mas eu não sei por que estou enrolando tanto...
+      text: \n<VELHO BARBUDO>Eu tô tentando decidir o que comer por uns dez minutos, mas eu não sei porque estou enrolando tanto...
 
 message_93:
       text: \n<VELHO BARBUDO>Qualquer opção que eu escolher com certeza será boa!
@@ -122,7 +122,7 @@ message_100:
       text: \n<VOVÓ DO COQUE AMARELO>Minha filha é normalmente tão atenciosa comigo...\! Me pergunto onde ela está.
 
 message_101:
-      text: \n<VOVÓ DO COQUE AMARELO>Ela sempre foi muito quieta, mas fez muitos amigos novos recentemente.\! Eu espero que ela não se esqueça de mim...
+      text: \n<VOVÓ DO COQUE AMARELO>Ela sempre foi muito quietinha, mas fez muitos amigos novos recentemente.\! Eu espero que ela não se esqueça de mim...
 
 #===============CRIS'S DAD=====================
 
@@ -132,14 +132,14 @@ message_110:
       text: Os olhos do CARA AMERICANO estão fixados na TV.
 
 message_111:
-      text: \n<CARA AMERICANO>\Com[2]O número 85 estava livre!\! \Com[2]Que tipo de passe foi esse!?
+      text: \n<CARA AMERICANO>\Com[2]O number 85 estava livre!\! \Com[2]Que tipo de passe was that!?
 
 #===============CRIS'S MOM=====================
 
 #Location: CRIS'S HOUSE in the kitchen
 
 message_120:
-      text: \n<MÃE AMERICANA>Você gostou da torta?\!<br>Estou trabalhando em deixar minha receita perfeita para a feira de fim de verão do condado!
+      text: \n<MÃE AMERICANA>Você gostou da minha pie?\!<br>Estou trabalhando em deixar minha receita perfeita pra feira de fim de verão do condado!
 
 message_121:
       text: \n<MÃE AMERICANA>Eu ganhei em todos os anos <br>em que participei até agora, e esse ano não vai ser diferente!\! Ohoho!
@@ -185,7 +185,7 @@ message_150:
       text: \n<HOMEM DE ÓCULOS>Olá, olá!\! Meu nome é GINO!
 
 message_151:
-      text: \n<HOMEM DE ÓCULOS>Eu sei o que você está pensando, mas não... Eu não sou o dono daqui...\! mas eles me dão uma <br>\c[3]PIZZA INTEIRA\c[0] de graça no meu aniversário todo ano, então isso é bem maneiro.
+      text: \n<HOMEM DE ÓCULOS>Eu sei o que você está pensando, mas não... Eu não sou o dono daqui...\! mas eles me dão uma <br>\c[3]PIZZA INTEIRA\c[0] de graça no meu aniversário todo ano, então isso é bem irado.
 
 #===============Hector (Dog)=====================
 
@@ -209,13 +209,13 @@ message_171:
 message_172:
       faceset: MainCharacters_Faraway
       faceindex: 12
-      text: \kel\n[8], esse é o JAY. Ele é o capitão do time de futebol da minha escola!\! Eu não sabia que você jogava basquete também!
+      text: \kel\n[8], esse é o JAY. Ele é o capitão do time de futebol da minha escola!\! Eu não sabia que cê jogava basquete também!
 
 message_173:
-      text: \n<ATLETA>Ehh...\! Huff...\! Eu só estou aqui para matar tempo.\! É mais um passa tempo do que qualquer outra coisa.
+      text: \n<ATLETA>Ehh...\! Huff...\! Eu só tô aqui para matar tempo.\! É mais um passa tempo do que qualquer outra coisa.
 
 message_174:
-      text: \n<ATLETA>Você está tentando entrar no time de basquete esse ano, não é, KEL?\! Talvez você possa me ensinar alguns de seus truques!
+      text: \n<ATLETA>Você tá tentando entrar no time de basquete esse ano, não é, KEL?\! Talvez você possa me ensinar alguns de seus truques!
 
 message_175:
       faceset: MainCharacters_Faraway
@@ -225,7 +225,7 @@ message_175:
 message_176:
       faceset: MainCharacters_Faraway
       faceindex: 12
-      text: \kelMas... vamos deixar para outro dia.\! Meu amigo de infância \n[8] está se mudando da cidade em alguns dias então hoje estamos passando o dia inteiro juntos.
+      text: \kelMas... vamos deixar pra outro dia.\! Meu amigo de infância \n[8] está se mudando da cidade em alguns dias então hoje estamos passando o dia inteiro juntos.
 
 message_177:
       faceset: MainCharacters_Faraway
@@ -238,7 +238,7 @@ message_178:
 message_179:
       faceset: MainCharacters_Faraway
       faceindex: 14
-      text: \kelParece bom! Te vejo outra hora então!
+      text: \kelPode ser! Te vejo depois então!
 
 #After talking again
 
@@ -254,7 +254,7 @@ message_190:
       text: \n<TESTA ENRUGADA>Ei, amigos! É bom ver vocês.\! Só varrendo por aí, coletando \c[4]LIXO\c[0], e limpando superfícies...\!<br>Vocês sabem...\! o trabalho de sempre.
 
 message_191:
-      text: \n<TESTA ENRUGADA>Ai ai...\! Tem tanta limpeza a ser feita...\! Simplesmente não é possível para uma pessoa só!
+      text: \n<TESTA ENRUGADA>Ai ai...\! Tem tanta limpeza pra fazer...\! Simplesmente não é possível pra uma pessoa só!
 
 
 #===============JESSE'S DAD=====================
@@ -263,10 +263,10 @@ message_191:
 
 #After completing Tutoting joy quest
 message_200:
-      text: \n<GAROTA PEQUENA>O papai é muito exigente comigo porque meu irmão mais velho, Michael, parou de ir à escola para se tornar um músico...
+      text: \n<GAROTA PEQUENA>O papai é muito exigente comigo porque meu irmão mais velho, MICHAEL, parou de ir à escola pra se tornar um músico...
 
 message_201:
-      text: \n<GAROTA PEQUENA>Ele toca guitarra na \c[11]PRAÇA TÃO-DISTANTE\c[0] às vezes!\!<br>Ele é muito bom
+      text: \n<GAROTA PEQUENA>Ele toca guitarra na \c[11]PRAÇA TÃO-DISTANTE\c[0] às vezes!\!<br>Ele é muito bom!
 
 #===============JESSE'S DAD=====================
 
@@ -291,7 +291,7 @@ message_221:
 #Location: Hobbeez - Pet Rock Fight
 
 message_230:
-      text: \n<GAROTA COLORIDA>Esse lugar é meio pequeno, mas tem vários colecionáveis antigos e raros.\! Pessoas vem lá da cidade para fazer compras aqui!
+      text: \n<GAROTA COLORIDA>Esse lugar é meio pequeno, mas tem vários colecionáveis antigos e raros.\! Pessoas vem lá da cidade pra fazer compras aqui!
 
 #===============KIM AND VANCE'S DAD =====================
 
@@ -299,7 +299,7 @@ message_230:
 
 #After hardware store- fix pipe quest 1, kim and vance's dad is in his house next to the pipe
 message_240:
-      text: \n<CARA RUDE>Grrr, grrr...\! O cano quebrou novamente...
+      text: \n<CARA RUDE>Grrr, grrr...\! O cano quebrou de novo...
 
 message_241:
       text: \n<CARA RUDE>Ratos...\! Acho que vou tentar de novo amanhã...
@@ -315,13 +315,13 @@ message_250:
       text: \SINV[2]Snip, snip...\! snip, snip, snip...\SINV[0]
 
 message_251:
-      text: \n<MULHER DOS ÓCULOS VERMELHOS>Ah, olá para vocês dois ai! Eu não esperava ver vocês tão cedo!
+      text: \n<MULHER DOS ÓCULOS VERMELHOS>Ah, olá pra vocês dois aí! Eu não esperava ver vocês tão cedo!
 
 message_252:
       text: \n<MULHER DOS ÓCULOS VERMELHOS>Olhem, aqui!\! Cuidar destes bonsais é um passa tempo meu.\!<br>Me ajuda a...\! aliviar o estresse.
 
 message_253:
-      text: \n<MULHER DOS ÓCULOS VERMELHOS>Depois disso, eu vou começar a preparar o jantar para meus filhos, KIM e VANCE.\! É bom que eles não se atrasem de novo...\! senão...
+      text: \n<MULHER DOS ÓCULOS VERMELHOS>Depois disso, eu vou começar a preparar o jantar pros meus filhos, KIM e VANCE.\! É bom que eles não se atrasem de novo...\! senão...
 
 message_254:
       text: \SINV[2]SNIP, \{SNIP, SNIP, \{SNIP, SNIP, \{SNIP!!
@@ -355,7 +355,7 @@ message_281:
       text: \n<GAROTO BONITO>Eu deveria tornar um hábito visitar esse parque...\!<br>Eu acho que às vezes tudo que se precisa fazer para relaxar é parar e sentir o cheiro das rosas!
 
 message_282:
-      text: \n<GAROTO BONITO>Oh não, parece que você se machucpu!\! Aqui está um \c[5]CURATIVO\c[0].\! Você pode conseguir mais na \c[11]FÁRMACIA\c[0] do \c[11]OUTROMERCADO\c[0].
+      text: \n<GAROTO BONITO>Oh não, parece que você se machucou!\! Aqui está um \c[5]CURATIVO\c[0].\! Você pode conseguir mais na \c[11]FÁRMACIA\c[0] do \c[11]OUTROMERCADO\c[0].
 
 message_283:
       text: Você recebeu um \c[5]CURATIVO\c[0].
@@ -399,7 +399,7 @@ message_320:
       text: \n<GAROTA DO RABO DE CAVALO>Minha mãe e eu vamos comprar coisas saudáveis aqui no \c[11]OUTROMERCADO\c[0] porque ela jogou todos os lanches e guloseimas da nossa casa no lixo...
 
 message_321:
-      text: \n<GAROTA DO RABO DE CAVALO>eu acho que ela está obcecada com coisas saudáveis pois meu pai só anda comendo porcaria ultimamente...\! Por que não podemos fazer os dois?
+      text: \n<GAROTA DO RABO DE CAVALO>Eu acho que ela está obcecada com coisas saudáveis pois meu pai só anda comendo porcaria ultimamente...\! Por que não podemos fazer os dois?
 
 
 #===============SARAHs MOM=====================
@@ -415,7 +415,7 @@ message_323:
 #Location: Gino's Pizza eating Pizza
 
 message_330:
-      text: \n<CARA ATRAPALHADO>Minha esposa fica me dizendo que estou ficando mais gordo e redondo, mas eu não consigo me segurar quando vivemos tão próximos da \c[11]PIZZARIA DO GINO\c[0]!
+      text: \n<CARA ATRAPALHADO>Minha esposa fica me dizendo que eu tô ficando mais gordo e redondo, mas eu não consigo me segurar quando vivemos tão próximos da \c[11]PIZZARIA DO GINO\c[0]!
 
 message_331:
       text: \n<CARA ATRAPALHADO>Oh...\! mmm...\! pizza...
@@ -451,4 +451,4 @@ message_421:
       text: \n<FARMACÊUTICO>Eu já cuidei de vocês...\! e...\! por sorte, parece que nenhum de vocês é alérgico, então provavelmente vão ficar bem!
 
 message_422:
-      text: \n<FARMACÊUTICO>Mas da próxima vez não brinquem com ninhos de vespa desse jeito.\! Elas não são nenhuma piada!
+      text: \n<FARMACÊUTICO>Mas da próxima vez não brinquem com ninhos de vespa desse jeito.\! Elas não são nenhuma piada! 
