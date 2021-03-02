@@ -23,10 +23,10 @@ message_1:
 #Daisy
 #Location: Forest Playground
 message_2:
-      text: \daiL-Licença, por favor não pise aqui...\!<br>Eu estou pegando flores \}para alguém especial...
+      text: \daiL-Licença, por favor não pise aqui...\!<br>Eu estou pegando flores \}pra alguém especial...
 
 message_3:
-      text: \daiEu peguei algumas flores \}para alguém especial... \!Espero que ele goste...
+      text: \daiEu peguei algumas flores \}pra alguém especial... \!Espero que ele goste...
 
 message_4:
       text: \daiEu quero entregar flores pra alguém, mas ele só se interessa em quebra-cabeças...\! Ai se eu pudesse achar um \c[4]QUEBRA-CABEÇAS DE FLORES\c[0] ou coisa do tipo... \!Talvez assim ele me notasse.
@@ -133,7 +133,7 @@ message_48:
 # ==============HEADBUTT=======================================
 
 message_60:
-      text: \berEi, caras! Valeu por trazerem minha \c[4]BOLA PERDIDA\c[0] de volta.\!<br>Como podem ver, Eu tô fazendo bom uso!
+      text: \berEi, caras! Valeu por trazerem minha \c[4]BOLA PERDIDA\c[0] de volta.\!<br>Como podem ver, eu tô fazendo bom uso!
 
 message_61:
       text: \n<VAN>É, ela com certeza está.
@@ -163,7 +163,7 @@ message_67:
       text: \berHeh.\! Isso me parece certo!
 
 message_68:
-      text: \berEntão \n[2], Vou te ensinar uma \c[1]Habilidade\c[0], só entre cabeçudos como nós.
+      text: \berEntão \n[2], Vou te ensinar um \c[1]DOM\c[0], só entre cabeçudos como nós.
 
 message_69:
       text: \berÉ minha especialidade... \c[1]CABEÇADA\c[0]! \!<br>É bem simples na verdade. \!Cê só tem que correr em direção à alguém e...
@@ -214,7 +214,7 @@ message_80:
       text: \aub\SINV[1]Eu tô... \!tonta...\SINV[0]
 
 message_81:
-      text: \ber\Com[2]\{WHOA! INCRÍVEL, AUBREY!!\}\!<br>Eu sabia que você tinha talento.
+      text: \ber\Com[2]\{UAU! INCRÍVEL, AUBREY!!\}\!<br>Eu sabia que você tinha talento.
 
 #ADD RAINBOW
 message_82:
@@ -314,7 +314,7 @@ message_100:
 #BUN
 #Location: Forest Playground
 message_101:
-      text: \bunEmtão o que quer fazer hoje, NOSE?
+      text: \bunEntão o que quer fazer hoje, NOSE?
 
 #CHARLENE
 #Location: Forest Playground
@@ -352,7 +352,7 @@ message_102:
 #VAN
 #Location: Forest Playground
 message_103:
-      text: \n<VAN>BERLY pode até parecer ser insensível, mas ela só tá se fazendo de durona. \!As vezes... Você tem que passar um tempo com a pessoa pra conhecer ela de verdade.
+      text: \n<VAN>BERLY pode até parecer ser insensível, mas ela só tá se fazendo de durona. \!Às vezes... Você tem que passar um tempo com a pessoa pra conhecer ela de verdade.
 
 message_104:
       text: \n<VAN>Você provavelmente entende isso, não é mesmo?
@@ -367,13 +367,13 @@ message_110:
 #BERLY (Gator Guy)
 #Location: Last Resort - Jawsum HQ Entrance
 message_111:
-      text: \berOra, ora, ora! Veja só o que temos aqui! \!Vocês tão tentando falar com o chefão, né? \!Desculpem incomodar vocês, mas eu não posse deixar ninguém entrar nem que a vaca tussa!
+      text: \berOra, ora, ora! Veja só o que temos aqui! \!Vocês tão tentando falar com o chefão, né? \!Desculpa incomodar vocês, mas eu não posse deixar ninguém entrar nem que a vaca tussa!
 message_112:
       faceset: MainCharacters_DreamWorld
       faceindex: 19
-      text: \kel\sinv[1]Awwwwww, cara...\sinv[0] sério? \!<br>\Com[2]Vamo lá, BERLY! A gente se conhece desde sempre! \!<br>Você não pode nos fazer um pequeno, favorzinho?
+      text: \kel\sinv[1]Ahhhhhh, cara...\sinv[0] sério? \!<br>\Com[2]Vamo lá, BERLY! A gente se conhece desde sempre! \!<br>Você não pode nos fazer um pequeno favorzinho?
 message_113:
-      text: \berResmungo, resmungo...\! Desculpa, KEL! São as ordens do chefe... \! Hoje é um grande dia então ele não quer nenhuma...\! pertubação. \!<br>Nós temos um evento de arrecadações de \c[3]TOFU\c[0] para essa noite!
+      text: \berResmungo, resmungo...\! Desculpa, KEL! São as ordens do chefe... \! Hoje é um grande dia então ele não quer nenhuma...\! pertubação. \!<br>Nós temos um evento de arrecadações de \c[3]TOFU\c[0] pra essa noite!
 message_114:
       faceset: MainCharacters_DreamWorld
       faceindex: 19
@@ -381,7 +381,7 @@ message_114:
 message_115:
       text: \ber\Com[2]Ei, tira disso! Eles me fizeram o líder da segurança por um motivo! \!Eles querem alguém forte... \!Alguém que pode fazer decisões difíceis! \!Uma pessoa de cabeça quente!
 message_116:
-      text: \berQuero dizer... olha para essa insígnia... \!É tão brilhante!
+      text: \berQuero dizer... olha pra essa insígnia... \!É tão brilhante!
 message_117:
       faceset: MainCharacters_DreamWorld
       faceindex: 26
@@ -395,7 +395,7 @@ message_119:
 message_120:
       faceset: MainCharacters_DreamWorld
       faceindex: 33
-      text: \kel\com[2]Por favor, BERLY! \!\SINV[2]Por favor, por favor, por favor, por favor, por favof!\sinv[0]
+      text: \kel\com[2]Por favor, BERLY! \!\SINV[2]Por favor, por favor, por favor, por favor, por favor!\sinv[0]
 message_121:
       text: \berOh...\! Certo... \!Eu vou te deixar passar dessa vez. \!<br>Mas só se você me der um pouco de \c[3]ÁGUA ENGARRAFADA\c[0] primeiro!\!<br>Eu tô com sede!
 #[Watch Alarm SFX]
@@ -434,7 +434,7 @@ message_127:
 #Location:
 
 message_128:
-      text: \berEi, são vocês pessoal! \!Eu ouvi do chefe que todos vocês estão saindo do \c[11]ÚLTIMO RESORTE\c[0]... \!Vocês tem que vir nos visitar uma hora dessas. A gente vai sentir muita falta de vocês por aqui!
+      text: \berEi, são vocês pessoal! \!Eu ouvi do chefe que todos vocês estão saindo do \c[11]ÚLTIMO RESORT\c[0]... \!Vocês tem que vir nos visitar uma hora dessas. A gente vai sentir muita falta de vocês por aqui!
 
 #BROWS (Dealer)
 #Location: Last Resort - Casino Area
@@ -469,7 +469,7 @@ message_135:
 #LADAO (Construction Worker)
 #Location: Construction Area
 message_136:
-      text: \ladEu vou construir esse lugar para ficar tão alto, que vai alcançar até a Lua!
+      text: \ladEu vou construir esse lugar pra ficar tão alto, que vai alcançar até a Lua!
 
 #NEB (Architect)
 #Location: Construction Area
@@ -484,7 +484,7 @@ message_138:
 #REN (Server)
 #Location: Last Resort - Casino Area
 message_139:
-      text: \n<SHAWN e REN>Esperamos que estejam aproveitando sua estadia no \c[11]ÚLTIMO RESORTE\c[0]! Por favor nos deixe saber quando vocês precisarem de algo!
+      text: \n<SHAWN e REN>Esperamos que estejam aproveitando sua estadia no \c[11]ÚLTIMO RESORT\c[0]! Por favor nos deixe saber quando vocês precisarem de algo!
 
 #VAN (Construction Worker)
 #Location: Construction Area
@@ -492,7 +492,7 @@ message_140:
       text: \n<VAN>O chefe me deixava trabalhar no departamento de seguranças, mas eles me disseram que eu era muito bonzinho.
 
 message_141:
-      text: \n<VAN>Eu ouvi que botaram a BERLY como chefe da segurança!\!<br>Eles dizem que ela é bem fria e calculista!
+      text: \n<VAN>Eu ouvi que botaram a BERLY como chefe da segurança!\!<br>Eles dizem que ela é bem durona e esperta!
 
 message_151:
       text: \n<VAN>Eu sinto falta da BERLY...
@@ -541,7 +541,7 @@ message_146:
 #NEB
 #Location: Forest Playground
 message_147:
-      text: \nebI really, really, really love puzzles.
+      text: \nebEu amo quebra-cabeças muito, muito, muito mesmo.
 
 #NOSE
 #Location: Forest Playground
@@ -563,7 +563,7 @@ message_149:
       text: \berComo se eu fosse me esquecer de você, seu grandalhão!
 #BERLY headbutts VAN.
 message_150:
-      text: \n<VAN>Awww, é que nem os velhos tempos...
+      text: \n<VAN>Ahhhh, é que nem os velhos tempos...
 
 #SW AT TRAIN STATION BLOCK
 
