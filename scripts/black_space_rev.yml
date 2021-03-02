@@ -455,7 +455,7 @@ message_226:
 message_227:
       faceset: MainCharacter_Basil
       faceindex: 2
-      text: \basCostumávamos cortá-las e comê-las o tempo todo na praia!\! Ainda me lembro do KEL com aquelas sementes de melancia no rosto, haha...
+      text: \basA gente costumava cortar e comer elas o tempo todo na praia!\! Ainda me lembro do KEL com aquelas sementes de melancia no rosto, haha...
 
 message_228:
       faceset: MainCharacter_Basil
@@ -554,7 +554,7 @@ message_262:
 message_263:
       faceset: MainCharacter_Basil
       faceindex: 3
-      text: \basSão tantas aranhas... Eu não consigo tirá-las!
+      text: \basSão tantas aranhas... Eu não consigo tirar elas!
 
 #BASIL looks around.
 
@@ -618,7 +618,7 @@ message_292:
 message_293:
       faceset: MainCharacter_Basil
       faceindex: 6
-      text: \bas...\! Huh?\! Espera, do que eu estou falando?
+      text: \bas...\! Hã?\! Espera, do que eu tô falando?
 
 message_294:
       faceset: MainCharacter_Basil
@@ -630,7 +630,7 @@ message_294:
 message_295:
       faceset: MainCharacter_Basil
       faceindex: 0
-      text: \basUm elevador?\! Para onde será que isso vai?\! Talvez nos leve de volta para casa!
+      text: \basUm elevador?\! Pra onde será que isso vai?\! Talvez nos leve de volta para casa!
 
 #*Go into elevator.
 #*Rest is same as before. End up in same map you came from.
@@ -657,12 +657,12 @@ message_320:
 message_321:
       faceset: MainCharacter_Basil
       faceindex: 1
-      text: \basTã-nã!\! Surpreso em me ver?\!<br>Estou me escondendo nesse toco desde que cheguei aqui.
+      text: \basTchã-rã!\! Surpreso em me ver?\!<br>Estou me escondendo nesse toco desde que cheguei aqui.
 
 message_322:
       faceset: MainCharacter_Basil
       faceindex: 6
-      text: \basNão sou o melhor em me defender, mas acho que sou muito bom em sobreviver, pelo menos.
+      text: \basNão sou o melhor em me defender, mas acho que sou muito bom em sobreviver pelo menos.
 
 message_323:
       faceset: MainCharacter_Basil
@@ -713,7 +713,7 @@ message_350:
 message_351:
       faceset: MainCharacter_Basil
       faceindex: 2
-      text: \basAh... Estou tão aliviado.
+      text: \basAh... Eu tô tão aliviado.
 
 message_352:
       faceset: MainCharacter_Basil
@@ -735,7 +735,7 @@ message_354:
 message_355:
       faceset: MainCharacter_Basil
       faceindex: 2
-      text: \basTodo o tempo que estive aqui, eu estive olhando o meu \c[4]ÁLBUM DE FOTOS\c[0] para me fazer compainha.
+      text: \basTodo esse tempo que eu estive aqui, eu fiquei olhando o meu \c[4]ÁLBUM DE FOTOS\c[0] para me fazer compainha.
 
 message_356:
       faceset: MainCharacter_Basil
@@ -800,12 +800,12 @@ message_366:
 message_367:
       faceset: MainCharacters_DreamWorld
       faceindex: 50
-      text: \her\n[3] e o \n[2] tem brigado muito de novo...\!<br>Você pode até pensar que eles se cansam depois de um tempo, mas os dois são cheios de energia.
+      text: \her\n[3] e o \n[2] têm brigado muito de novo...\!<br>Você pode até pensar que eles se cansam depois de um tempo, mas os dois são cheios de energia.
 
 message_368:
       faceset: MainCharacters_DreamWorld
       faceindex: 34
-      text: \kel\SINV[1]Caaaaaaaaaaaara...\sinv[0]\!<br>a AUBREY sempre consegue o que ela quer...
+      text: \kel\SINV[1]Maaaaaaaano...\sinv[0]\!<br>a AUBREY sempre consegue o que ela quer...
 
 #Heartbeat no longer plays.
 #STAB or use RED HAND to go back to BLACK SPACE Entrance.
@@ -831,7 +831,7 @@ message_392:
 #RED HANDS pull BASIL up.
 
 message_393:
-      text: \bas\com[2]Es-espera! O que você está fazendo!?
+      text: \bas\com[2]Es-espera! O que você tá fazendo!?
 
 message_394:
       text: \basFala pra elas pararem!
