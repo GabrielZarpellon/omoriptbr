@@ -108,7 +108,7 @@ message_8:
       text: Você vê um menino enterrando algo na grama.
 
 message_9:
-      text: Você vê um menino sentado em uma sala escura.\!<br>O menino mente e mente, sem parar.
+      text: Você vê um menino sentado em uma sala escura.
 
 message_10:
       text: Você vê um menino sentado em um piano.\!<br>O menino toca algumas notas, e murmura algo para si mesmo.
@@ -148,7 +148,7 @@ message_24:
       text: \fn<OMORI_GAME>Foi um acidente. Foi um acidente. Foi um acidente. <br>Foi um acidente. Foi um acidente. Foi um acidente. <br>Foi um acidente. Foi um acidente. \quake[1]Foi um acidente.\quake[0]
 
 message_25:
-      text: Você encontra um caderno.\! A mesma frase foi <br>escrita diversas vezes.
+      text: Você encontra um caderno.\! A mesma frase foi escrita diversas vezes.
 
 message_26:
       text: \fn<OMORI_GAME>\quake[1]É tudo culpa minha. É tudo culpa minha. É tudo culpa minha. <br>É tudo culpa minha. É tudo culpa minha. É tudo culpa minha. <br>É tudo culpa minha. É tudo culpa minha.\quake[0] É tudo culpa minha.
@@ -178,7 +178,7 @@ message_31:
       text: Você mastiga mais devagar...\! e perceba que seus molares estão faltando.
 
 message_32:
-      text: Uma orquídea garça branca.
+      text: Uma orquídea garça-branca.
 
 message_33:
       text: Você quer nadar?
@@ -255,7 +255,7 @@ message_102:
 #Beach
 
 message_103:
-      text: Você quer nadar de volta para o continente?
+      text: Você quer nadar de volta para a terra?
 
 message_104:
       text: Está muito quente.
@@ -264,7 +264,7 @@ message_105:
       text: \n<CARANGUEJO>Mal posso esperar pelo meu bronzeado!
 
 message_106:
-      text: CARANGUEJO está morrendo.
+      text: O CARANGUEJO está morrendo.
 
 message_107:
       text: É uma palmeira.
@@ -353,7 +353,7 @@ message_137:
       text: Você não sabia fazer essa dança.
 
 message_138:
-      text: PLUTÃO não se parece com ele mesmo.\!<br>Você achou melhor deixá-lo sozinho.
+      text: O PLUTÃO não se parece com ele mesmo.\!<br>Você achou melhor deixá-lo sozinho.
 
 message_139:
       text: \n<LOOMY>Oh! Bom, se não é meu velho amigo!\! Eu tenho a habilidade de me mover rapidamente entre lugares viajando através de banheiros!
@@ -423,13 +423,13 @@ message_170:
       text: \n<HERO>Ei, OMORI!\! Está com fome?
 
 message_171:
-      text: \n<HERO>Eu estava prestes a cozinhar uma coisa, mas estão faltando alguns ingredientes.\! Por que você não procura e traz de volta para mim?
+      text: \n<HERO>Eu estava prestes a cozinhar uma coisa, mas estão faltando alguns ingredientes.\! Por que você não procura e traz de volta pra mim?
 
 message_172:
-      text: \n<HERO>Achou alguma coisa para eu cozinhar?\!<br>Vai estar pronto em um minuto!
+      text: \n<HERO>Achou alguma coisa para eu cozinhar?\!<br>Vai ficar pronto em um minuto!
 
 message_173:
-      text: \n<HERO>Huh...\! não saiu como eu esperava, mas seria um desperdício não dar uma chance, então...
+      text: \n<HERO>Hã...\! não saiu como eu esperava, mas seria um desperdício não dar uma chance, então...
 
 message_174:
       text: \n<HERO>Aproveite!
@@ -454,7 +454,7 @@ message_182:
 message_183:
       faceset: MainCharacters_DreamWorld
       faceindex: 0
-      text: Eu vou te seguir para sempre!\aub
+      text: Eu vou te seguir pra sempre!\aub
 
 message_184:
       faceset: MainCharacters_DreamWorld
@@ -469,7 +469,7 @@ message_185:
 message_186:
       faceset: MainCharacters_DreamWorld
       faceindex: 5
-      text: Aquele idiota do KEL foi e escondeu meu BICHINHO DE PELÚCIA de novo...\!<br>Você vai me ajudar a encontrar, certo?\aub
+      text: Aquele idiota do KEL foi e escondeu meu BICHINHO DE PELÚCIA de novo...\!<br>Você vai me ajudar a encontrar, né?\aub
 
 message_187:
       faceset: MainCharacters_DreamWorld
@@ -489,7 +489,7 @@ message_189:
 message_190:
       faceset: MainCharacters_DreamWorld
       faceindex: 1
-      text: Eu estou em um encontro com o OMORI!\aub
+      text: Eu tô em um encontro com o OMORI!\aub
 
 message_191:
       faceset: MainCharacters_DreamWorld
@@ -504,7 +504,7 @@ message_192:
 message_193:
       faceset: MainCharacters_DreamWorld
       faceindex: 0
-      text: Huh? O que foi?\aub
+      text: Hã? O que foi?\aub
 
 message_194:
       faceset: MainCharacters_DreamWorld
@@ -544,17 +544,17 @@ message_200:
 message_201:
       faceset: MainCharacters_DreamWorld
       faceindex: 9
-      text: \com[2]Eu nunca vou perder para você!\aub
+      text: \com[2]Eu nunca vou perder pra você!\aub
 
 message_202:
       faceset: MainCharacters_DreamWorld
       faceindex: 11
-      text: Isso...\! não parece estar indo para lugar algum...\aub
+      text: Isso...\! não parece estar indo pra lugar algum...\aub
 
 message_203:
       faceset: MainCharacters_DreamWorld
       faceindex: 5
-      text: Eu não consigo mais lutar...\! Estou tão cansada...\aub
+      text: Eu não consigo mais lutar...\! Eu tô tão cansada...\aub
 
 message_204:
       faceset: MainCharacters_DreamWorld
@@ -626,7 +626,7 @@ message_230:
 # ========================================================================================
 
 message_300:
-      text:  Um brilho vermelho estranho irradia de fora.\!<br>Você se sente estranhamente atraído por isso.
+      text: Um brilho vermelho estranho irradia de fora.\!<br>Você se sente estranhamente atraído por isso.
 
 message_301:
       text: A porta está trancada.
@@ -682,7 +682,7 @@ message_310:
       text: \.\.\.\.\.\.\.\.\.\.\.\.\!\.\.\.\.\.\.\.\.\.\.\.\.\.\.
 
 message_311:
-      text: \aubEi, OMORI...\! Eu acho que sua irmã está nos ignorando.\! Acho que você deve ir falar com ele.
+      text: \aubEi, OMORI...\! Eu acho que sua irmã tá ignorando a gente.\! Acho que você devia ir falar com ela.
 
 message_312:
       text: \kelNão podemos ter um piquenique sem a MARI!
