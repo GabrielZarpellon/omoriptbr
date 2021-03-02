@@ -26,12 +26,12 @@ message_2:
 #Bangs
 #Location: Forest Playground
 message_10:
-      text: \banSe divertir é muito esforço, então assistir meus amigos se divertirem é o suficiente pra mim.
+      text: \banSe divertir dá muito trabalho, então assistir meus amigos se divertirem é o suficiente pra mim.
 
 #Bun
 #Location: Forest Playground
 message_11:
-      text: \bunNOSE é minha melhor amiga.\!<br>Ela não fala muito, mas ela é muito esperta!
+      text: \bunA NOSE é minha melhor amiga.\!<br>Ela não fala muito, mas ela é muito esperta!
 
 message_12:
       text: \daiD-desculpa, você pode por favor não vir por esse caminho?<br>Estou pegando flores \}para alguém especial...
@@ -41,7 +41,7 @@ message_13:
 
 #After Headbutt Quest
 message_14:
-      text: \berVamos lá, VAN.\! bota essa cabeça pra trabalhar!
+      text: \berVamos lá, VAN.\! Bota essa cabeça pra trabalhar!
 
 message_15:
       text: \n<BROWS>\Com[2]AAAHHH\{HHHHHHHH\{HHHHHHH!!!
@@ -58,7 +58,7 @@ message_21:
       text: \n<VAN>Pois é, ela realmente está.
 
 message_22:
-      text: \berEu estava pensando...\! Já que vocês foram tão gentis em me ajudar,<br>Eu vou ser generosa e te ensinar meu \c[1]DOM\c[0] especial.
+      text: \berEu tava aqui pensando...\! Já que vocês foram tão gentis em me ajudar,<br>eu vou ser generosa e te ensinar meu \c[1]DOM\c[0] especial.
 
 message_23:
       text: \berMas primeiro, eu tenho uma pergunta pra vocês...
@@ -76,13 +76,13 @@ message_25:
 message_26:
       faceset: MainCharacters_DreamWorld
       faceindex: 10
-      text: \kelWhoa, calma!\!<br>Não seja tão \{dura\}... entendeu?
+      text: \kelNossa, calma!\!<br>Não seja tão \{dura\}... entendeu?
 
 message_27:
       text: \berHeh.\! Me parece certo!
 
 message_28:
-      text: \berMuito bem \n[2], eu vou te ensinar um \c[1]DOM\c[0], só entre gente cabeça-dura como a gente.
+      text: \berMuito bem \n[2], eu vou te ensinar um \c[1]DOM\c[0], só para gente cabeça-dura como a gente.
 
 message_29:
       text: \berÉ a minha especialidade... \c[1]CABEÇADA\c[0]!<br>\!É bem simples. Você só vai até alguem e...
@@ -96,7 +96,7 @@ message_31:
 message_32:
       faceset: MainCharacters_DreamWorld
       faceindex: 4
-      text: \aubParece que isso iria doer...\!<br>E também zoar o meu cabelo.\!<br>E arruinar o meu arco.
+      text: \aubParece que isso vai doer...\!<br>E também zoar o meu cabelo.\!<br>E estragar o meu arco.
 
 message_33:
       text: \berOh vamos lá, \n[2]! Viva um pouco!<br>Ter um cabelo bagunçado nunca machucou ninguém.\!<br>\n[4] é a prova viva disso.
@@ -117,7 +117,7 @@ message_36:
 message_37:
       faceset: MainCharacters_DreamWorld
       faceindex: 3
-      text: \aubMas se eu vou fazer isso... eu vou dar o meu tudo!
+      text: \aubMas se eu vou fazer isso... eu vou dar tudo que eu tenho!
 
 message_38:
       text: \Com[2]\{WH\{\Com[2]HHH\{HHAA\{\Com[2]AAMMMM!!!
@@ -141,7 +141,7 @@ message_42:
 message_43:
       faceset: MainCharacters_DreamWorld
       faceindex: 4
-      text: \aub...Huh?\! O que tá acontecendo?
+      text: \aub...Hã?\! O que tá acontecendo?
 
 message_44:
       text: \berDe agora em diante...<br>Eu te declaro uma genuína \c[1]CABEÇUDA\c[0].
