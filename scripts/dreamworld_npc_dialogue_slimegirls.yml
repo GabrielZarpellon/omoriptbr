@@ -23,7 +23,7 @@ message_2:
 #FLOATING HUMPHREY
 #Location: Slime Girls Lair / Humphrey
 message_3:
-      text: \hum\sinv[1]Weeeeeeeeeeeeeeeeeeeeee!!
+      text: \hum\sinv[1]Uieeeeeeeeeeeeeeeeeeeeee!!
 
 #GAMBLER 1 HUMPHREY
 #Location: Slime Girls Lair / Humphrey
@@ -73,7 +73,7 @@ message_12:
       text: \humOk! Se é isso que todo mundo está fazendo...
 
 message_13:
-      text: \humAwww, cara... Dever de ponte de novo?\!<br>Quando eu vou poder comer algo?
+      text: \humAhhh, cara... Dever de ponte de novo?\!<br>Quando eu vou poder comer algo?
 
 message_22:
       text: \humVocê diz a cachoeira no sul daqui?\! Ok! Vamos ver quem chega primeiro!
@@ -144,7 +144,7 @@ message_32:
 message_33:
       faceset: MainCharacters_DreamWorld
       faceindex: 31
-      text: \kelPhew...\! Eu tinha certeza de que vocês iam me escolher...
+      text: \kelUfa...\! Eu tinha certeza de que vocês iam me escolher...
 
 message_34:
       faceset: MainCharacters_DreamWorld
@@ -173,7 +173,7 @@ message_45:
 
 #HARD PUZZLE HINT
 message_46:
-      text: \n<HUMPHREY SÁBIO>Um HUMPHREY SÁBIO uma vez disse...\!<br>\"Conte seus inimigos...\! Então, a ordem lhe levara á vitória.\"
+      text: \n<HUMPHREY SÁBIO>Um HUMPHREY SÁBIO uma vez disse...\!<br>\"Conte seus inimigos...\! Então, a ordem lhe levará á vitória.\"
 
 message_110:
       text: \n<HUMPHREY SÁBIO>\com[2]O que!? Vocês ainda estão presos nessa?\!<br>Ugh... tá bom.\! Que tal isso?
