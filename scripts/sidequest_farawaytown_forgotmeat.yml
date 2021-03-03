@@ -12,7 +12,7 @@ message_2:
       text: \n<PAI DO KEL>Você pode me poupar um tempo e me comprar um pouco daquela coisa barata no \c[11]OUTROMERCADO\c[0]?
 
 message_3:
-      text: \n<PAI DO KEL>Toma aqui um pouco de dinheiro...\! Só fale com o HOMEM DA CARNE na parte de trás. Ele deve te dar um pouco!
+      text: \n<PAI DO KEL>Toma aqui um pouco de dinheiro...\! É só falar com o HOMEM DA CARNE na parte de trás. Ele deve te dar um pouco!
 
 message_4:
       text: Você recebeu $20.00.
@@ -52,7 +52,7 @@ message_11:
       text: \n<PAI DO KEL>Ei, campeões!\! Aqui está um hamburger pra cada um, como prometido!
 
 message_12:
-      text: Você recebeu 4 \c[3]HAMBÚRGUERES\c[0].\! Wow...
+      text: Você recebeu 4 \c[3]HAMBÚRGUERES\c[0].\! Uau...
 
 message_13:
       text: \n<PAI DO KEL>Faz um tempo desde que eu vi todos vocês saindo juntos.\! <br>Isso me lembra de quando vocês eram todos crianças, haha...

@@ -27,7 +27,7 @@ message_5:
       text: \n<MOÇA DE TRANÇAS>...
 
 message_6:
-      text: \n<MOÇA DE TRANÇAS>Na verdade...\! Um...\! Vocês não saberiam cozinhar, saberiam?\! Eu talvez precise de um pouco de ajuda com o jantar...
+      text: \n<MOÇA DE TRANÇAS>Na verdade...\! Hm...\! Vocês não saberiam cozinhar, saberiam?\! Eu talvez precise de um pouco de ajuda com o jantar...
 
 message_7:
       faceset: MainCharacters_Faraway
@@ -87,7 +87,7 @@ message_17:
 #SEAN walks inside.
 
 message_18:
-      text: \n<CARA XADREZ>Wow... Qual é esse cheiro delicioso aqui?
+      text: \n<CARA XADREZ>Uau... Qual é esse cheiro delicioso aqui?
 
 message_19:
       text: \n<MOÇA DE TRANÇAS>Oh, olá SEAN!\! Nossos novos amigos estavam só ajudando a preparar o jantar para a festa de hoje!

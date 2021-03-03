@@ -6,7 +6,7 @@
 #Fix Pipe 1: Find in hardware store
 
 message_1:
-      text: \n<CARA RUDE>Ei, estranho! Como vai o seu dia?\!<br>Meu dia esteve ótimo!
+      text: \n<CARA RUDE>Ei, estranho! Como vai o seu dia?\!<br>Meu dia está sendo ótimo!
 
 message_2:
       text: \n<CARA RUDE>Quer saber por quê?\! Por que hoje é o dia que eu finalmente vou arrumar o vazamento na minha casa!
@@ -24,7 +24,7 @@ message_6:
       text: \n<CARA RUDE>Mas quer saber?\! Hoje é o dia em que tudo muda...\! Sim!\! Estou finalmente aqui na \c[11]REPARA-JÁ!\c[0]\! Minhas ferramentas estão prontas...\!<br>e eu...\! eu vou reparar!
 
 message_7:
-      text: \n<CARA RUDE>Phew...\! Desculpe ficar reclamando sobre isso assim.\!<br>Talvez esse vazamento esteve me deixando louco sem eu saber...
+      text: \n<CARA RUDE>Ufa...\! Desculpe ficar reclamando sobre isso assim.\!<br>Talvez esse vazamento esteve me deixando louco sem eu saber...
 
 message_8:
       text: \n<CARA RUDE>Minha casa está logo ao lado da \c[11]IGREJA\c[0] ao sudoeste daqui. \!<br>Se você quiser passar lá e assistir essa ocasião importante, por favor seja meu convidado!
@@ -70,10 +70,10 @@ message_16:
       text: \n<CARA RUDE>Esse vazamento teimoso está fazendo da minha vida um inferno.\! Eu estava ajustando ele um pouco, mas só piorou!\! Talvez seja hora de chamar um profissional...
 
 message_17:
-      text: \n<CARA RUDE>Urgh...\! No...\! O que eu estou dizendo!?\! Meu orgulho não me deixa fazer isso!\! Eu tenho que concertar eu mesmo!
+      text: \n<CARA RUDE>Urgh...\! Não...\! O que eu estou dizendo!?\! Meu orgulho não me deixa fazer isso!\! Eu tenho que consertar eu mesmo!
 
 message_18:
-      text: \n<CARA RUDE>\Com[2]Eu vou voltar pra você, seu vazamento estúpido!
+      text: \n<CARA RUDE>\Com[2]Eu voltarei, seu vazamento estúpido!
 
 message_19:
       text: \n<CARA RUDE>\Com[2]\quake[1]GYAAA\{AAAA\{AAAAA\{AAAAAAA!!!
@@ -83,7 +83,7 @@ message_19:
 #Examine Vance's House Door after talking to him in Hardware STORE
 
 message_20:
-      text: \n<CARA RUDE>Ei, são vocês de novo!\!<br>Vocês estão aqui por suporte moral ou o quê?
+      text: \n<CARA RUDE>Ei, são vocês de novo!\!<br>Vocês estão aqui como suporte moral ou o quê?
 
 message_21:
       text: \n<CARA RUDE>Heh, heh...\! Eu agradeço.
@@ -137,7 +137,7 @@ message_35:
       text: \n<CARA RUDE>E de alguma forma...\! Eu causei um dano irreversível a minha casa...
 
 message_36:
-      text: \n<CARA RUDE>Como eu sabia que isso iria acontecer?
+      text: \n<CARA RUDE>Como eu vou saber que isso iria acontecer?
 
 message_37:
       text: \n<CARA RUDE>Ai ai...\! Eu sou um fracasso...
@@ -213,7 +213,7 @@ message_64:
       text: \n<CARA RUDE>Em retorno, por favor pegue esse \c[4]CD\c[0].\! Eu encontrei em um buraco na parede!
 
 message_57:
-      text: \n<CARA RUDE>Sabe, eu tenho um filho e filha em torno da sua idade.\!<br>Seus nomes são VANCE e KIM!
+      text: \n<CARA RUDE>Sabe, eu tenho um filho e filha por volta da sua idade.\!<br>Seus nomes são VANCE e KIM!
 
 message_58:
       text: \n<CARA RUDE>A mãe deles e eu nos separamos quando KIM ainda era bebê...
