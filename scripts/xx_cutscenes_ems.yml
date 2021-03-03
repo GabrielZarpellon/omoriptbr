@@ -25,7 +25,7 @@ message_33:
 message_34:
       faceset: MainCharacters_DreamWorld
       faceindex: 16
-      text: Ok, galera.\! Me ouçam.\! Isso pode parecer estranho...<br>E se...\! nós comêssemos o queijo?\kel
+      text: Ok, galera.\! Me ouçam.\! Isso pode parecer estranho...<br>E se...\! a gente comer o queijo?\kel
 
 message_35:
       faceset: MainCharacters_DreamWorld
@@ -40,7 +40,7 @@ message_36:
 message_37:
       faceset: MainCharacters_DreamWorld
       faceindex: 10
-      text: \{\Com[2]EWWWWW, KEL!\aub\}
+      text: \{\Com[2]ECAAA, KEL!\aub\}
 
 message_38:
       faceset: MainCharacters_DreamWorld
@@ -55,7 +55,7 @@ message_39:
 message_40:
       faceset: MainCharacters_DreamWorld
       faceindex: 38
-      text: PASSE para mim, OMORI.\!<br>Eu já sei como lidar com isso.\her
+      text: PASSE pra mim, OMORI.\!<br>Eu já sei como lidar com isso.\her
 
 
 # =========================================================================================
