@@ -25,7 +25,7 @@ message_1:
 message_2:
       faceset: MainCharacter_Basil
       faceindex: 35
-      text: \n<BASIL>P-Por que... você está me olhando desse jeito?
+      text: \n<BASIL>P-Por que... você tá me olhando desse jeito?
 
 message_4:
       faceset: MainCharacter_Basil
@@ -37,7 +37,7 @@ message_4:
 #Location: Hobbeez looking at comics (Pet Rock Fight)
 
 message_10:
-      text: \n<ANGEL>\Com[2]O que você está olhando!?\! Só para que você saiba, eu sou um cliente recorrente aqui! Eu preciso ler todas as revistas em quadrinhos novas antes das aulas voltarem!
+      text: \n<ANGEL>\Com[2]O que você tá olhando!?\! Só pra que cê saiba, eu sou um cliente recorrente aqui! Eu preciso ler todas as revistas em quadrinhos novas antes das aulas voltarem!
 
 #========================== CHARLIE (CHARLENE)================================
 
@@ -51,7 +51,7 @@ message_20:
 #Location: FARAWAY PARK running in place in an open area
 
 message_30:
-      text: \n<O MAVERICK>\Com[2]Ah!\! Olha só quem está aqui! KEL e \n[8]!
+      text: \n<O MAVERICK>\Com[2]Ah!\! Olha só quem está aqui! O KEL e o \n[8]!
 
 message_31:
       text: \n<O MAVERICK>Você pode ter testemunhado a minha humilhação hoje mais cedo...\! Mas agora é a hora de eu, \Com[2]O MAVERICK, me redimir mais uma vez!
@@ -75,15 +75,15 @@ message_35:
 message_36:
       faceset: MainCharacters_Faraway
       faceindex: 24
-      text: \kelEu não sei...\! Eu sou bem rápido..
+      text: \kelEu não sei...\! Eu sou bem rápido...
 
 message_37:
-      text: \n<O MAVERICK>\Com[2]Hah!\! É isso o que você diz agora!\!<br>Espere só até ver os resultados do meu treinamento!
+      text: \n<O MAVERICK>\Com[2]Hah!\! Você tá dizendo isso agora!\!<br>Espera só até ver os resultados do meu treinamento!
 
 message_38:
       faceset: MainCharacters_Faraway
       faceindex: 22
-      text: \kelEu estou falando sério, MIKHAEL.\! É justo que eu te avise...\!<br>Eu sou rápido.\! Tipo \SINV[1]MUITO\SINV[0] rápido.
+      text: \kelEu estou falando sério, MIKHAEL.\! Eu tô sendo justo te avisando...\!<br>Eu sou rápido.\! Tipo \SINV[1]MUITO\SINV[0] rápido.
 
 message_39:
       faceset: MainCharacters_Faraway
@@ -130,7 +130,7 @@ message_47:
 message_48:
       faceset: MainCharacters_Faraway
       faceindex: 22
-      text: \kelAcho que não, MIKHAEL...\!<br>Tipo... está escurecendo, não acha?
+      text: \kelAcho que não, MIKHAEL...\!<br>Tipo... tá escurecendo, não acha?
 
 message_49:
       text: \n<O MAVERICK>Huff...\! huff...\! huff...\! huff...\! huff...\! huff...\! huff...\! huff...
@@ -146,7 +146,7 @@ message_51:
 message_52:
       faceset: MainCharacters_Faraway
       faceindex: 17
-      text: \kelTalvez outra hora...\! Eu e \n[8] estamos indo agora...\! Te vejo depois, MIKHAEL!
+      text: \kelTalvez outra hora...\! Eu e o \n[8] tamo indo agora...\! Te vejo depois, MIKHAEL!
 
 #cutscene ends
 
@@ -175,7 +175,7 @@ message_70:
 #Location: FARAWAY PARK
 
 message_80:
-      text: \n<HOMEM ESTRANHO>A sujeira do planeta...\! Me dá nojo...\!<br>Eu queria tanto poder só...\! acabar com toda ela.
+      text: \n<HOMEM ESTRANHO>A sujeira do planeta...\! me dá nojo...\!<br>Eu queria tanto poder só...\! acabar com toda ela.
 
 #========================== OLD BEARDY===============================
 
@@ -198,7 +198,7 @@ message_93:
 #Location: Church
 
 message_100:
-      text: \n<UM GÊMEO>\SINV[1]Nossa família vai para a \c[11]IGREJA\c[0] uma vez por semana...\SINV[0]
+      text: \n<UM GÊMEO>\SINV[1]Nossa família vai pra \c[11]IGREJA\c[0] uma vez por semana...\SINV[0]
 
 message_101:
       text: \n<O OUTRO GÊMEO>\SINV[1]Às vezes duas...\SINV[0]
@@ -217,16 +217,16 @@ message_110:
 
 #After cutscene: Awkward Dinner
 message_111:
-      text: \n<POLLY>Vocês estão provavelmente se perguntando quem eu sou, certo?\!<br>Não sou ninguém na verdade... apenas uma cuidadora que está cuidando da avó do BASIL.
+      text: \n<POLLY>Vocês devem estar se perguntando quem sou eu, certo?\!<br>Não sou ninguém na verdade... apenas uma cuidadora que tá cuidando da avó do BASIL.
 
 message_112:
-      text: \n<POLLY>Alguns meses atrás, os pais do BASIL me contrataram para cuidar dele pois eles viajam bastante para fora do país.
+      text: \n<POLLY>Alguns meses atrás, os pais do BASIL me contrataram pra cuidar dele porque eles viajam bastante pra fora do país.
 
 message_113:
       text: \n<POLLY>Eu tento fazer tudo que posso pelo BASIL, mas...
 
 message_114:
-      text: \n<POLLY>Desde que eu passei a estar aqui, eu não consigo evitar a sensação de que o BASIL está me evitando...
+      text: \n<POLLY>Desde que eu passei a estar aqui, eu sempre tenho a sensação de que o BASIL está me evitando...
 
 message_115:
       text: \n<POLLY>Eu imagino se estou fazendo algo de errado...
@@ -239,20 +239,20 @@ message_120:
       text: \n<PREGADOR>Hmm...\! Eu normalmente não toleraria uma briga no meio de um sermão...\! mas isso pareceu ser algo realmente importante.
 
 message_121:
-      text: \n<PREGADOR>Aquela garota chamada AUBREY veio aqui toda semana há alguns anos, mas ela nunca fala com ninguém.
+      text: \n<PREGADOR>Aquela garota chamada AUBREY vem aqui toda semana faz alguns anos, mas ela nunca fala com ninguém.
 
 message_122:
       text: \n<PREGADOR>Eu tentei falar com ela algumas vezes...<br>mas ela sempre me chama de...\! err...\! coisas ruins...
 
 message_123:
-      text: \n<PREGADOR>Ela parece muito pertubada.\! Talvez ela precise de um amigo.
+      text: \n<PREGADOR>Ela parece muito perturbada.\! Talvez ela precise de um amigo.
 
 #==========================Sarah===============================
 
 #Location: Sarah's House
 
 message_130:
-      text: \n<MENINA DO RABO DE CAVALO>Oh, oi!\! Eu ouvi comoção na cozinha.\!<br>O \c[4]ANEL DE CASAMENTO\c[0] do meu pai caiu na pia de novo?<br>\!Ele sempre faz isso...
+      text: \n<MENINA DO RABO DE CAVALO>Oh, oi!\! Eu ouvi uma comoção na cozinha.\!<br>O \c[4]ANEL DE CASAMENTO\c[0] do meu pai caiu na pia de novo?<br>\!Ele sempre faz isso...
 
 message_131:
       text: \n<MENINA DO RABO DE CAVALO>Mas ele não sabe que eu sei disso... Hehe...
@@ -263,17 +263,17 @@ message_132:
 #Talk to SARAH again
 
 message_133:
-      text: \n<MENINA DO RABO DE CAVALO>Desde que minha mãe começou a ficar louca com esse negócio de saúde, nós não temos nenhum salgadinho ou lanches em nossa casa...\! mas...
+      text: \n<MENINA DO RABO DE CAVALO>Desde que minha mãe começou a ficar louca com esse negócio de saúde, nós não temos nenhum salgadinho ou lanches na nossa casa...\! mas...
 
 message_134:
-      text: \n<MENINA DO RABO DE CAVALO>Achp que cenouras e aipos podem ter um gosto muito bom...\! se estiverem ensopadas de molho ranch...
+      text: \n<MENINA DO RABO DE CAVALO>Acho que cenouras e aipos têm um gosto muito bom...\! se estiverem ensopadas de molho ranch...
 
 #==========================Sarah's Dad===============================
 
 #Location: Sarah's House (Ring in the sink quest)
 
 message_140:
-      text: \n<CARA ATRAPALHADO>Hmm...\! Ei crianças, viram algum pacote de batatinhas por ai?\! Eu juro que comprei um pacote grandão há alguns dias atrás...
+      text: \n<CARA ATRAPALHADO>Hmm...\! Ei crianças, viram algum pacote de batatinhas por aí?\! Eu juro que comprei um pacote grandão há alguns dias atrás...
 
 #==========================Sarah's Mom===============================
 
