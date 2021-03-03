@@ -32,7 +32,7 @@ message_10:
 message_11:
       faceset: MainCharacters_Faraway
       faceindex: 12
-      text: \kelTudo bem, BASIL? Bom te ver aqui no parque!\!<br>Você está se sentindo melhor depois do que houve ontem?
+      text: \kelTudo bem, BASIL? Bom te ver aqui no parque!\!<br>Você tá se sentindo melhor depois do que aconteceu ontem?
 
 message_12:
       faceset: MainCharacter_Basil
@@ -42,7 +42,7 @@ message_12:
 message_13:
       faceset: MainCharacters_Faraway
       faceindex: 20
-      text: \kelVocê teve uma baita dor de barriga ontem, não teve?\!<br>É por isso que você foi ao banheiro...
+      text: \kelVocê teve uma baita dor de barriga ontem, não teve?\!<br>É por isso que cê foi ao banheiro...
 
 message_14:
       faceset: MainCharacter_Basil
@@ -52,7 +52,7 @@ message_14:
 message_15:
       faceset: MainCharacters_Faraway
       faceindex: 13
-      text: \kelVocê quer aproveitar o dia com a gente?\! \n[8] não vai estar aqui por muito tempo, você sabe...
+      text: \kelVocê quer aproveitar o dia com a gente?\! O \n[8] não vai estar aqui por muito tempo, cê sabe...
 
 message_16:
       faceset: MainCharacter_Basil
@@ -94,7 +94,7 @@ message_30:
       text: \n<ANGEL>\Com[2]\SINV[1]FWAA\{AAAA\{AAA\{AAAAAAA!!
 
 message_31:
-      text: \n<ANGEL>\n[8] e KEL! O que vocês estão fazendo aqui!?\!<br>Não sabem que é rude incomodar os outros enquanto estão comendo!?
+      text: \n<ANGEL>\n[8] e KEL! O que vocês tão fazendo aqui!?\!<br>Não sabem que é rude incomodar os outros enquanto estão comendo!?
 
 
 #==========================CHARLIE (CHARLENE)===============================
@@ -109,7 +109,7 @@ message_40:
 #Location: Gino's Pizza until Cutscene: Dropping off Stuff at Kel's
 
 message_50:
-      text: \n<KIM>\sinv[1]Ewwwwwww...\sinv[0] É um nerd!\!<br>Grrr, grrr... Nos deixem em paz!<br>Não temos nenhum assunto com vocês hoje!
+      text: \n<KIM>\sinv[1]Ecaaaaa...\sinv[0] É um nerd!\!<br>Grrr, grrr... Nos deixem em paz!<br>Não temos nenhum assunto com vocês hoje!
 
 #==========================The Maverick===============================
 
@@ -146,7 +146,7 @@ message_90:
 #Location: Gino's Pizza
 
 message_100:
-      text: \n<MÃE ELEGANTE>Minha filha mais velha está voltando da faculdade hoje à noite!\!<br>Eu tenho certeza que ela tem várias dicas sobre o que é maneiro e descolado hoje em dia...
+      text: \n<MÃE ELEGANTE>Minha filha mais velha tá voltando da faculdade hoje à noite!\!<br>Eu tenho certeza que ela tem várias dicas sobre o que é maneiro e descolado hoje em dia...
 
 message_101:
       text: \n<MÃE ELEGANTE>Ho-ho! Eu mal posso esperar para falar com ela!
@@ -209,7 +209,7 @@ message_151:
       text: \n<VOVÓ DO COQUE AMARELO>Os dois eram muito diferentes entre si, mas isso não era um problema.\! As pessoas sempre diziam que eles se balanceavam... Hek... hek...
 
 message_152:
-      text: \n<VOVÓ DO COQUE AMARELO>Posso não parecer, mas vou fazer 64 anos!\! Eu tive sete filhos , mas todos se mudaram exceto meu filho mais velho e minha filha mais nova.
+      text: \n<VOVÓ DO COQUE AMARELO>Posso não parecer, mas vou fazer 64 anos!\! Eu tive sete filhos, mas todos se mudaram exceto meu filho mais velho e minha filha mais nova.
 
 message_153:
       text: \n<VOVÓ DO COQUE AMARELO>Meu filho mais velho nunca sai de seu quarto, então ele provavelmente nunca vai sair de casa...
@@ -219,7 +219,7 @@ message_153:
 #Location: FARAWAY PARK
 
 message_160:
-      text: \n<CARA AMERICANO>Ufa...\! Preparar a carne é um "job" difícil...\! Mas quando eu afundo meus dentes em um "burger" suculento e apetitoso, \sinv[1]tudo\sinv[0] vai valer a pena.
+      text: \n<CARA AMERICANO>Ufa...\! Preparar a carne é um "job" difícil...\! Mas quando eu afundar meus dentes em um "burger" suculento e apetitoso, \sinv[1]tudo\sinv[0] vai valer a pena.
 
 message_161:
       text: \n<CARA AMERICANO>Mmm...\! Estou quase sentindo o "taste"...
@@ -235,14 +235,14 @@ message_163:
 #Location: FARAWAY PARK
 
 message_170:
-      text: \n<MÃE AMERICANA>Que dia lindo para um piquenique!\!<br>Eu trouxe minhas especialidades... Empadão de frango, torta de limão, e claro, minha torta de maçã conhecida mundialmente!
+      text: \n<MÃE AMERICANA>Que dia lindo para um piquenique!\!<br>Eu trouxe minhas especialidades... Empadão de frango, torta de limão, "and of course", minha torta de maçã conhecida mundialmente!
 
 #==========================CURTSEY==============================
 
 #Location: Hobbeez
 
 message_180:
-      text: \n<GAROTA FOFA>Eu trabalho na \c[11]LOJA DE DOCES\c[0], mas gosto de vir aqui durante o intervalo!\! Sempre tem algo novo para olhar então nunca fico entediada.
+      text: \n<GAROTA FOFA>Eu trabalho na \c[11]LOJA DE DOCES\c[0], mas gosto de vir aqui durante o intervalo!\! Sempre tem algo novo pra olhar então eu nunca fico entediada.
 
 #==========================GINO==============================
 
@@ -256,7 +256,7 @@ message_190:
 #Location: Player's Street
 
 message_200:
-      text: \n<HECTOR>\Com[2]Au! \{Au! \{Au!\}\} Au!\! \Com[2]\{Au! \}Au! \}Au?<br>\!(Am I a good boy?)
+      text: \n<HECTOR>\Com[2]Au! \{Au! \{Au!\}\} Au!\! \Com[2]\{Au! \}Au! \}Au?<br>\!(Eu sou um bom garoto?)
 
 #=========================JESSE'S DAD==============================
 
@@ -269,7 +269,7 @@ message_211:
       text: \n<TESTA ENRUGADA>Essa é a primeira vez que vi tantas pessoas tendo a iniciativa de coletar \c[4]LIXO\c[0]!\! Faz o meu trabalho ser bem mais fácil... Har har...
 
 message_212:
-      text: \n<TESTA ENRUGADA>Mas algo sobre eles me parece meio suspeito...
+      text: \n<TESTA ENRUGADA>Mas alguma coisa neles me parece meio suspeito...
 
 #=========================JOY==============================
 
@@ -301,7 +301,7 @@ message_233:
 #Location: Sean's House
 
 message_240:
-      text: \n<MOÇA DE TRANÇAS>Nós estamos no meio de aplicar nosso novo papel de parede...\!<br>Depois disso, vamos passar no \c[11]OUTROMERCADO\c[0] e fazer algumas compras para amanhã...\! Ocupada, Ocupada!
+      text: \n<MOÇA DE TRANÇAS>Nós estamos no meio de aplicar nosso novo papel de parede...\!<br>Depois disso, vamos passar no \c[11]OUTROMERCADO\c[0] e fazer algumas compras pra amanhã...\! Ocupada, ocupada!
 
 #=========================KEL'S DAD==============================
 
@@ -315,7 +315,7 @@ message_250:
       text: \kelUh-oh...\! Ei...\! uh...\! \n[8]...\! Vamos para outro lugar!
 
 message_251:
-      text: \n<PAI DO KEL>\Com[2]KEL! Filho, é você?\! O que você está fazendo aqui?\!<br>Não era para você estar fazendo tarefas para sua mãe?
+      text: \n<PAI DO KEL>\Com[2]KEL! Filho, é você?\! O que você está fazendo aqui?\!<br>Não era pra você estar fazendo tarefas para sua mãe?
 
 message_252:
       faceset: MainCharacters_Faraway
@@ -325,7 +325,7 @@ message_252:
 message_253:
       faceset: MainCharacters_Faraway
       faceindex: 16
-      text: \kelVamos lá, \n[8]... Não temos aquela coisa super importante que precisamos ir fazer?\! Sim... Precisamos ir!\! Não queremos nos atrasar!
+      text: \kelVamos lá, \n[8]... Lembra que a gente tem aquela coisa super importante pra fazer?\! Sim... Precisamos ir!\! Não queremos nos atrasar!
 
 message_254:
       text: \n<PAI DO KEL>Oh, tudo bem então. Te vejo depois, campeão!
@@ -360,7 +360,7 @@ message_281:
 #LOCATION: Church
 
 message_290:
-      text: \n<PREGADOR>Hoje eu ando tendo uma sensação estranha vindo do cemitério desde cedo.
+      text: \n<PREGADOR>Eu ando tendo uma sensação estranha vindo do cemitério desde cedo.
 
 #=========================SARAH==============================
 
@@ -374,10 +374,10 @@ message_300:
 #Location: Gino's Pizza
 
 message_310:
-      text: \n<CARA ATRAPALHADO>Minha esposa fica me dizendo que estou ficando mais gordo e redondo, mas eu não consigo me segurar quando vivemos tão próximos da \c[11]PIZZARIA DO GINO\c[0]!
+      text: \n<CARA ATRAPALHADO>Minha esposa fica me dizendo que eu tô ficando mais gordo e redondo, mas eu não consigo me segurar quando vivemos tão próximos da \c[11]PIZZARIA DO GINO\c[0]!
 
 message_311:
-      text: \n<CARA ATRAPALHADO>Ai ai...\! Eu realmente não deveria ir comprar nada.\! Noite passada, minha esposa sentiu o cheiro de pepperoni no meu hálito e ficou muito brava...
+      text: \n<CARA ATRAPALHADO>Ai ai...\! Eu realmente não deveria comprar nada.\! Noite passada, minha esposa sentiu o cheiro de pepperoni no meu hálito e ficou muito brava...
 
 
 #=========================SARAH's MOM==============================
