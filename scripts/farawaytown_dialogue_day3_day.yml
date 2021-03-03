@@ -9,10 +9,10 @@
 #Location: Hobbeez looking at trading cards in the display case. (Pet Rock Fight)
 
 message_0:
-      text: \n<ANGEL>Olhe só para essas cartinhas super raras e caras...\!<br>Eu quero completar minha coleção, mas eu só tenho $5!\! Mano, é ruim ser uma criança...
+      text: \n<ANGEL>Olha só pra essas cartinhas super raras e caras...\!<br>Eu quero completar minha coleção, mas eu só tenho $5!\! Mano, é ruim ser uma criança...
 
 message_1:
-      text: \n<ANGEL>\Com[2]Uau, o que é isso!?\! Uma nota de $20 novinha no meu bolso de trás!\! Tô com sorte!\! \SINV[2]Fufufufu...\SINV[0]\! Acho que dá pra comprar mais uma...
+      text: \n<ANGEL>\Com[2]Uau, que isso!?\! Uma nota de $20 novinha no meu bolso de trás!\! Tô com sorte!\! \SINV[2]Fufufufu...\SINV[0]\! Acho que dá pra comprar mais uma...
 
 #If player completes quest: Bring Angel home
 
@@ -40,7 +40,7 @@ message_13:
 #Location: Park (Ding-Dong)
 
 message_20:
-      text: \kim\Com[2]Ei, vejam só! É AUBREY e os nerds!
+      text: \kim\Com[2]Ei, vejam só! É a AUBREY e os nerds!
 
 message_21:
       faceset: MainCharacters_Faraway
@@ -48,13 +48,13 @@ message_21:
       text: \aubE aí, KIM! Como vai?
 
 message_22:
-      text: \kimOh, você sabe...\! Muito bem, muito bem...
+      text: \kimOh, cê sabe...\! Muito bem, muito bem...
 
 message_23:
-      text: \kimMeu pai disse que vai nos levar para uma festa irada hoje à noite...\! deve ser legal.
+      text: \kimMeu pai disse que vai levar a gente pra uma festa irada hoje à noite...\! deve ser legal.
 
 message_24:
-      text: \van\sinv[1]Awwwwwwwwwwww, yeah! Nós vamos se divertir!
+      text: \van\sinv[1]Awwwwwwwwwwww, yeah! Vamos nos divertir!
 
 
 #message_25:
@@ -67,7 +67,7 @@ message_24:
 #Location: Hobbeez
 
 message_30:
-      text: \n<MAVERICK>Eu estive tentando vencer esse jogo o dia todo, mas ele está acabando comigo.\! Sigh...\! Why is it so hard to find something that I, \Com[2]THE MAVERICK, am actually good at!?
+      text: \n<MAVERICK>Eu estive tentando vencer esse jogo o dia todo, mas ele tá acabando comigo.\! Ai ai...\! Porque é tão difícil encontrar algo que eu, \Com[2]O MAVERICK, seja realmente bom!?
 
 #==============VANCE===========================================
 #Location: Park (Ding-Dong)
@@ -91,7 +91,7 @@ message_60:
 #Location:  FARAWAY PARK
 
 message_70:
-      text: \n<GAROTA DE CABELO CURTO>Eu falei para a minha irmã sobre o meu crush!\! Ela quis que eu o mostrasse para ela, então estamos aqui de pé no local onde ele normalmente fica com seus amigos...
+      text: \n<GAROTA DE CABELO CURTO>Eu falei pra minha irmã sobre o meu crush!\! Ela quis que eu mostrasse ele pra ela, então estamos aqui de pé no local onde ele normalmente fica com os amigos...
 
 #==============FASHIONABLE MOM===========================================
 #Location:  FARAWAY PARK
@@ -106,10 +106,10 @@ message_81:
 #Location:  FARAWAY PARK
 
 message_90:
-      text: \n<GAROTA INTIMIDADORA>Quando a BEBE me contou sobre o crush dela, eu tive que ver com meus próprios olhos.\! Até agora, ele nem apareceu... mas a BEBE me disse para ficar atenta para uma pessoa com uma peruca loira obviamente falsa.
+      text: \n<GAROTA INTIMIDADORA>Quando a BEBE me contou sobre o crush dela, eu tive que ver com meus próprios olhos.\! Até agora, ele nem apareceu... mas ela me disse para ficar atenta pra uma pessoa com uma peruca loira obviamente falsa.
 
 message_91:
-      text: \n<GAROTA INTIMIDADORA>Ai ai...\! A BEBE tem um gosto horrível para garotos...\!<br>Quem vai cuidar dela quando eu voltar para a faculdade?
+      text: \n<GAROTA INTIMIDADORA>Ai ai...\! A BEBE tem um gosto horrível pra garotos...\!<br>Quem vai cuidar dela quando eu voltar para a faculdade?
 
 #INTIMIDATING GIRL: If Hero is the leader
 
@@ -117,7 +117,7 @@ message_92:
       text: \n<GAROTA INTIMIDADORA>Ei! HERO, é você! Teehee...\! É tão estranho ver você aqui ao invés de na faculdade.
 
 message_93:
-      text: \n<GAROTA INTIMIDADORA>Eu chuto que você também está visitando a família...\! Família é legal e tal, mas eu mal posso esperar para ver meus amigos de novo... Nada de interesse acontece em casa, sabe?
+      text: \n<GAROTA INTIMIDADORA>Eu chuto que você também tá visitando a família...\! Família é legal e tal, mas eu mal posso esperar para ver meus amigos de novo... Nada de interessante acontece em casa, sabe?
 
 #==============BRENT===========================================
 #Location:  Brent's House
@@ -161,7 +161,7 @@ message_140:
 #Location:  Cris's House
 
 message_150:
-      text: \n<MÃE AMERICANA>A última torta que eu preparei ficou com um cheiro meio estranho quando eu a tirei do forno...\! Espero que não esteja perdendo o jeito!
+      text: \n<MÃE AMERICANA>A última torta que eu preparei ficou com um cheiro "kinda weird" quando eu a tirei do forno...\! Espero que não esteja perdendo o jeito!
 
 #==============Daphne and Bowen===========================================
 #Location:  The Mavericks House (Pet Rock Fight)
@@ -185,7 +185,7 @@ message_170:
       text: \n<GURI DO FONE>Ai ai...\! Quando eu era mais novo, eu tinha dois grandes amigos chamados BRENT e JOY, mas eles começaram a levar a escola muito a sério, então parei de andar com eles.
 
 message_171:
-      text: \n<GURI DO FONE>Eu imagino como eles estão agora...
+      text: \n<GURI DO FONE>Eu imagino como eles tão agora...
 
 #==============JESSE'S DAD===========================================
 #Location:  FARAWAY PARK
@@ -204,7 +204,7 @@ message_190:
       text: \n<GAROTA PEQUENA>Meu irmão mais velho MICHAEL me disse que ele vai fugir de casa hoje e se tornar um músico...
 
 message_191:
-      text: \n<GAROTA PEQUENA>Não era para eu fazer isso... mas eu contei para o papai sem querer.\!<br>Espero que o Michael não fique bravo comigo...
+      text: \n<GAROTA PEQUENA>Não era pra eu ter feito isso... mas eu contei pro papai sem querer.\!<br>Espero que o MICHAEL não fique bravo comigo...
 
 #==============JOY'S DAD===========================================
 #Location:  Joy's House (Michael's Lunch quest)
@@ -219,10 +219,10 @@ message_201:
 #Location:  Sean's House (Cooking help quest)
 
 message_210:
-      text: \n<MOÇA DE TRANÇAS>Obrigada a todos vocês pela ajuda.<br>\!Vocês são genuinamente boas pessoas!
+      text: \n<MOÇA DE TRANÇAS>Obrigada a todos vocês pela ajuda.<br>\!Vocês são realmente boas pessoas!
 
 message_221:
-      text: \n<CARA XADREZ>Vejo vocês na festa hoje à noitet! Estaremos esperando!
+      text: \n<CARA XADREZ>Vejo vocês na festa hoje à noite! Estaremos esperando!
 
 #==============KEL'S DAD===========================================
 #Location: FARAWAY PARK (Forgot Meat quest)
@@ -232,7 +232,7 @@ message_230:
       text: \n<PAI DO KEL>Sabe, vocês deveriam aparecer aqui mais tarde.\!<br>Vocês vão com certeza querer provar os meus deliciosos \c[3]HAMBÚRGUERES\c[0]!
 
 message_231:
-      text: \n<PAI DO KEL>Mas agora vocês deviam ir e se divertir.\!<br>O tempo está perfeito hoje!
+      text: \n<PAI DO KEL>Mas agora vocês deviam sair e se divertir.\!<br>O tempo tá perfeito hoje!
 
 #==============KEL'S MOM===========================================
 #Location:  FARAWAY PARK
@@ -247,7 +247,7 @@ message_241:
 #Location:  HARDWARE STORE (fix pipe quest 3)
 
 message_250:
-      text: \n<CARA RUDE>Ei You know, Sabe, eu tenho um filho e uma filha da sua idade.\! Seus nomes são VANCE e KIM!
+      text: \n<CARA RUDE>Ei, sabe, eu tenho um filho e uma filha da sua idade.\! Eles se chamam VANCE e KIM!
 
 message_251:
       text: \n<CARA RUDE>A mãe deles e eu estamos separados desde que eles eram pequenos...
@@ -256,7 +256,7 @@ message_252:
       text: \n<CARA RUDE>Eu não vejo eles o quanto eu gostaria, então faço questão de mimar eles com \c[3]DOCES\c[0] quando eu posso! Heh heh...
 
 message_254:
-      text: \n<CARA RUDE>São boas crianças... sério!\! Eu me preocupo com eles às vezes porque eles estão sempre se metendo em encrencas, mas pelo menos eles têm um ao outro...
+      text: \n<CARA RUDE>São boas crianças... sério!\! Eu me preocupo com eles às vezes porque eles tão sempre se metendo em encrencas, mas pelo menos eles têm um ao outro...
 
 #==============KIM and VANCE'S MOM===========================================
 #Location:  Kim's House
@@ -268,7 +268,7 @@ message_260:
 #Location:  Artist's House, running around Angel
 
 message_270:
-      text: \n<BOM CACHORRO>\SINV[1]Awwwwo\{ooo\{ooo!\!\SINV[0]\QUAKE[1] \{Arf, arf, arf!\QUAKE[0]
+      text: \n<BOM CACHORRO>\SINV[1]Awwwwu\{uuu\{uuu!\!\SINV[0]\QUAKE[1] \{Au, au, au!\QUAKE[0]
 
 #==============Polly===========================================
 #Location:  Basil's House
@@ -283,7 +283,7 @@ message_281:
 #Location:  Church
 
 message_290:
-      text: \n<PREGADOR>Ah, tenho receio de que não teremos um sermão hoje, mas sintam-se livres para andar por aqui.\! Todos são bem-vindos.
+      text: \n<PREGADOR>Ah, infelizmente não teremos um sermão hoje, mas sintam-se livres para andar por aqui.\! Todos são bem-vindos.
 
 #==============Sally===========================================
 #Location:  FARAWAY PARK
