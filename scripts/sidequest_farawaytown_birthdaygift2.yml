@@ -93,7 +93,7 @@ message_21:
 message_22:
       faceset: MainCharacters_Faraway
       faceindex: 22 #insert number here
-      text: \kelSe você vai deixar ele esperando, ele pelo menos merece uma explicação!
+      text: \kelSe você o vai deixar esperando, ele merece ao menos uma explicação!
 
 message_23:
       faceset: MainCharacters_Faraway
@@ -117,7 +117,7 @@ message_60:
 message_61:
       faceset: MainCharacters_Faraway
       faceindex: 15
-      text: \kelVocê acha é?
+      text: \kelVocê acha?
 
 message_62:
       faceset: MainCharacters_Faraway
@@ -184,7 +184,7 @@ message_41:
       text: \n<TESTA ENRUGADA>Quando você for mais velho...\! você provavelmente não vai mais precisar de mim...\! então deixa eu fazer parte da sua vida por enquanto, ok?
 
 message_42:
-      text: \n<TESTA ENRUGADA>Agora...\! Sei que é seu aniversário...\! mas também sei que você gosta de ficar na sua esses dias...\! então por que não leva essa \c[3]FATIA DE BOLO\c[0] e come no seu quarto?
+      text: \n<TESTA ENRUGADA>Agora...\! Sei que é seu aniversário...\! mas também sei que você gosta de ficar na sua hoje em dia...\! então por que não leva essa \c[3]FATIA DE BOLO\c[0] e come no seu quarto?
 
 message_43:
       text: \n<TESTA ENRUGADA>É de morango...\! seu favorito...
@@ -205,7 +205,7 @@ message_48:
       text: \n<GURI DO FONE>\}Sniff...\! Sniff...\! Pai...\! Eu...\! Eu sinto muito...
 
 message_49:
-      text: \n<TESTA ENRUGADA>\Com[2]O-Oque foi, filho!?\! \Com[2]V-Você tá bem?\!<br>Fiz algo de errado!?
+      text: \n<TESTA ENRUGADA>\Com[2]O-O que foi, filho!?\! \Com[2]V-Você tá bem?\!<br>Fiz algo de errado!?
 
 message_50:
       text: \n<GURI DO FONE>\}N-Não...\! Eu tô bem...\!<br>Valeu pelo presente, pai...\! Eu...\! sniff...\! Eu gostei muito...
@@ -232,7 +232,7 @@ message_56:
       text: \n<TESTA ENRUGADA>Ai ai...\! Eu até trouxe um bolo...
 
 message_57:
-      text: Você ganhou uma \c[3]FATIA DE BOLO\c[0]!
+      text: Você recebeu uma \c[3]FATIA DE BOLO\c[0]!
 
 message_58:
       text: Uma triste \c[3]FATIA DE BOLO\c[0].
