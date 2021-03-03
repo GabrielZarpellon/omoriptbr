@@ -3,12 +3,12 @@
 # =========================================================================================
 
 message_0:
-    text: \n<HUMPHREY>Eu estou preparando a entrada para nossa nova atração, mas não está pronto ainda.\! Você devia voltar depois...\! tipo amanhã depois!
+    text: \n<HUMPHREY>Eu estou preparando a entrada para nossa nova atração, mas não está pronta ainda.\! Você devia voltar depois...\! tipo amanhã depois!
 
 #CHEFE
 
 message_1:
-    text: \n<CHEFE>Ei, lembram de mim?\! Eu sou o CHEFE e bem vindos ao desafio BOSS RUSH!\! Eu estive refletindo muito desde meus dias no parquinho.
+    text: \n<CHEFE>Ei, lembram de mim?\! Eu sou o CHEFE e bem-vindos ao desafio BOSS RUSH!\! Eu estive refletindo muito desde meus dias no parquinho.
 
 message_2:
     text: \n<CHEFE>Usando as últimas inovações da tecnologia, Eu criei um desafio supremo somente para os desafiantes mais legais.
@@ -23,7 +23,7 @@ message_5:
     text: \n<CHEFE>\sinv[1]Incrível!\sinv[0] Vamos te preparar aqui.
 
 message_12:
-    text: \n<CHEFE>Awww...\! Ok. Talvez da próxima vez!
+    text: \n<CHEFE>Ahhh...\! Ok. Talvez da próxima vez!
 
 
 
@@ -33,7 +33,7 @@ message_12:
 #AFTER BEATING CHALLENGE
 
 message_13:
-    text: \n<CHEFE>Ei, pessoal! Como vai?\! Vocês já fizeram o desafio BOSS RUSH...\! mas vocês querem tentar de novo?
+    text: \n<CHEFE>Ei, pessoal! Como vão?\! Vocês já fizeram o desafio BOSS RUSH...\! mas vocês querem tentar de novo?
 
 
 #Pan to teleport the first time.
@@ -83,7 +83,7 @@ message_16:
     text: \n<CHEFE>Volte sempre!
 
 message_17:
-    text: \n<CHEFE>Wow! Você realmente completou o desafio BOSS RUSH!\! Parabéns, caras legais!\! Sério, vocês são incríveis!
+    text: \n<CHEFE>Uau! Você realmente completou o desafio BOSS RUSH!\! Parabéns, caras legais!\! Sério, vocês são incríveis!
 
 message_18:
     text: \n<CHEFE>\com[539]\sinv[1]Ei, parabéns!\!\com[539]\sinv[0] Você recebeu o \c[4]TROFÉU LEGAL\c[0]!\! \com[539]Eu vou em frente e botar \com[539]isso no lobby pra você.
@@ -115,7 +115,7 @@ message_103:
 #===
 
 message_150:
-    text: A mesa chique para dois da MARI e BASIL.
+    text: A mesa chique para dois da MARI e do BASIL.
 
 #===
 
@@ -135,12 +135,12 @@ message_201:
       text: \n<PLUTÃO>Meu sonho de ter uma estação de transporte me levou ao redor do universo...\! Mas ainda é legal voltar para casa de vez em quando.
 
 message_202:
-      text: \n<PLUTÃO>As vezes, eu sinto falta dos meus amigos...\! como A TERRA aqui.
+      text: \n<PLUTÃO>Às vezes, eu sinto falta dos meus amigos...\! como A TERRA aqui.
 
 #earth floats DOWN
 
 message_203:
-      text: \n<PLUTÃO>A TERRA e eu somos amigos a um tempo.\! Antes de sermos confinados a este Sistema Solar...\! nós voamos por galáxia depois de galáxia, decimando tudo em nosso caminho.
+      text: \n<PLUTÃO>A TERRA e eu somos amigos a um tempo.\! Antes de sermos confinados à este Sistema Solar...\! nós voamos por galáxia depois de galáxia, decimando tudo em nosso caminho.
 
 message_204:
       text: \n<PLUTÃO>Eu ainda lembro desses dias com carinho.
