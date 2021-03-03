@@ -18,17 +18,17 @@ message_1:
 message_2:
       faceset: MainCharacters_Faraway
       faceindex: 22
-      text: \kelO quê!\! Você tá comprando refri mas vai deixar passar o bom e velho \c[3]JOÃO LARANJA\c[0]?\! Como pode!?
+      text: \kelO quê!\! Você tá comprando refri mas vai deixar passar o bom e velho \c[3]JOÃO LARANJA\c[0]?\! É sério!?
 
 message_3:
       faceset: MainCharacters_Faraway
       faceindex: 4
-      text: \aubEww! Você ainda bebe \c[3]JOÃO LARANJA\c[0]!?\! E tão doce que é nojento...\! como se fosse feito para bebês!
+      text: \aubEca! Você ainda bebe \c[3]JOÃO LARANJA\c[0]!?\! E tão doce que é nojento...\! É como se fosse feito pra bebês!
 
 message_4:
       faceset: MainCharacters_Faraway
       faceindex: 21
-      text: \kelAh é? Se foi feito para bebês, então por que iria conter...\! 150mg de cafeína por lata!?\! Tsk, tsk... Pesquise um pouco, AUBREY!
+      text: \kelAh é? Se foi feito para bebês, então porque que tem...\! 150mg de cafeína por lata!?\! Tsk, tsk... Pesquise um pouco, AUBREY!
 
 message_5:
       faceset: MainCharacters_Faraway
@@ -38,12 +38,12 @@ message_5:
 message_6:
       faceset: MainCharacters_Faraway
       faceindex: 23
-      text: \kelBem, agora você tá levando pro pessoal!\! Como ousa insultar meu caro amigo \c[3]JOÃO LARANJA\c[0]!\! Quando foi a última vez que você experimentou!?\! Urg... Eu te mostro!
+      text: \kelBom, agora cê tá levando pro pessoal!\! Como ousa insultar meu caro amigo \c[3]JOÃO LARANJA\c[0]!\! Quando foi a última vez que você experimentou!?\! Urg... Eu vou te mostrar!
 
 message_7:
       faceset: MainCharacters_Faraway
       faceindex: 6
-      text: \aubKEL!\! O-O que você está fazendo!?
+      text: \aubKEL!\! O-O que cê tá fazendo!?
 
 #*KEL pushes AUBREY aside and presses the \c[3]ORANGE JOE\c[0] button*
 #“A can of \c[3]ORANGE JOE\c[0] fell from the VENDING MACHINE.”
@@ -103,7 +103,7 @@ message_17:
 message_30:
       faceset: MainCharacters_Faraway
       faceindex: 27
-      text: \aubEi MARI...\! Sou eu de novo.\! \n[8], KEL, e HERO estão comigo dessa vez.
+      text: \aubEi MARI...\! Sou eu de novo.\!O  \n[8], o KEL e o HERO estão comigo dessa vez.
 
 message_31:
       faceset: MainCharacters_Faraway
@@ -113,12 +113,12 @@ message_31:
 message_32:
       faceset: MainCharacters_Faraway
       faceindex: 27
-      text: \aubÉ... Eu tento, mas em alguns dias é difícil.\!<br>Vocês visitam as vezes, também... não é?
+      text: \aubÉ... Eu tento, mas em alguns dias é difícil.\!<br>Vocês visitam as vezes também... não é?
 
 message_33:
       faceset: MainCharacters_Faraway
       faceindex: 19
-      text: \kelDe vez em quando.\!<br>Mas talvez eu devia visitar ela mais frequentemente...
+      text: \kelDe vez em quando.\!<br>Mas acho que eu deveria visitar mais vezes...
 
 message_41:
       faceset: MainCharacters_Faraway
@@ -183,7 +183,7 @@ message_51:
 message_52:
       faceset: MainCharacters_Faraway
       faceindex: 17
-      text: \kelEu estive pensando...\! A gente briga toda hora, né?
+      text: \kelEu tava aqui pensando...\! A gente briga toda hora, né?
 
 message_53:
       faceset: MainCharacters_Faraway
@@ -193,7 +193,7 @@ message_53:
 message_54:
       faceset: MainCharacters_Faraway
       faceindex: 13
-      text: \kelMas mesmo depois de tudo isso, Ainda somos amigos, né?
+      text: \kelMas mesmo depois de tudo isso, ainda somos amigos, né?
 
 message_55:
       faceset: MainCharacters_Faraway
@@ -203,7 +203,7 @@ message_55:
 message_56:
       faceset: MainCharacters_Faraway
       faceindex: 16
-      text: \kelHuh... Isso não é estranho?
+      text: \kelHã... Isso não é estranho?
 
 message_57:
       faceset: MainCharacters_Faraway
@@ -213,12 +213,12 @@ message_57:
 message_58:
       faceset: MainCharacters_Faraway
       faceindex: 29
-      text: \herHeh heh...\! Oh, vocês dois...\! Isso só significa que vocês dois estão comfortáveis perto um do outro.
+      text: \herHeh heh...\! Oh, vocês dois...\! Isso só significa que vocês dois estão confortáveis perto um do outro.
 
 message_59:
       faceset: MainCharacters_Faraway
       faceindex: 30
-      text: \herEu estou com um pouco de inveja que vocês ainda podem ser tão sinceros depois de tanto tempo.\! Eu acho que isso é algo muito especial.
+      text: \herEu tenho um pouco de inveja que vocês ainda conseguem ser tão sinceros depois de tanto tempo.\! Eu acho que isso é algo muito especial.
 
 message_60:
       faceset: MainCharacters_Faraway
@@ -241,7 +241,7 @@ message_80:
 message_81:
       faceset: MainCharacters_Faraway
       faceindex: 38
-      text: \herIsso de novo, KEL?\! Eu pensei que tinhamos acabado essa discussão!
+      text: \herIsso de novo, KEL?\! Eu pensei que a gente tinha acabado essa discussão!
 
 message_82:
       faceset: MainCharacters_Faraway
@@ -265,7 +265,7 @@ message_84:
 message_85:
       faceset: MainCharacters_Faraway
       faceindex: 22
-      text: \kelWow...\! Minha vida parece tão completa...\! Porém, tão vazia...
+      text: \kelUau...\! Minha vida parece tão completa...\! Porém, tão vazia...
 
 message_86:
       faceset: MainCharacters_Faraway
@@ -280,7 +280,7 @@ message_87:
 message_88:
       faceset: MainCharacters_Faraway
       faceindex: 29
-      text: \herHeh, heh... Eu estou só te provocando...\! Eu acho que você é esperto também, KEL!\! Esperto de seu próprio jeito...
+      text: \herHeh, heh... Eu só tô te provocando...\! Eu acho que você é esperto também, KEL!\! Esperto de seu próprio jeito...
 
 message_89:
       faceset: MainCharacters_Faraway
@@ -302,12 +302,12 @@ message_91:
 message_92:
       faceset: MainCharacters_Faraway
       faceindex: 37
-      text: \herE todo esse \c[3]JOÃO LARANJA\c[0] que você esteve bebendo!\! Não sabia que cafeína pode atrapalhar no crescimento?
+      text: \herÉ todo esse \c[3]JOÃO LARANJA\c[0] que você fica bebendo!\! Não sabia que cafeína pode atrapalhar no crescimento?
 
 message_93:
       faceset: MainCharacters_Faraway
       faceindex: 22
-      text: \kelAww, não bote a culpa no JOÃO LARANJA!\! Eu só tenho que balancear com a quantidade certa de leite!
+      text: \kelAww, não bota a culpa no JOÃO LARANJA!\! Eu só tenho que balancear com a quantidade certa de leite!
 
 message_94:
       faceset: MainCharacters_Faraway
@@ -338,29 +338,29 @@ message_110:
 message_111:
       faceset: MainCharacters_Faraway
       faceindex: 12
-      text: \kelVocê lembra quando a gente era criança, você e eu fugiamos de casa para ir até o \c[11]HOBBEEZ\c[0] no meio da noite?
+      text: \kelVocê lembra quando a gente era criança, você e eu fugíamos de casa para ir até o \c[11]HOBBEEZ\c[0] no meio da noite?
 
 message_112:
       faceset: MainCharacters_Faraway
       faceindex: 12
-      text: \kelA gente nunca acordava na hora pra ir para a escola na manhã seguinte, e o HERO e a MARI sempre perguntavam por que estavamos tão cansados.
+      text: \kelA gente nunca acordava na hora pra ir pra escola na manhã seguinte, e o HERO e a MARI sempre perguntavam porque a gente tava tão cansado.
 
 message_113:
       faceset: MainCharacters_Faraway
       faceindex: 13
-      text: \kelEu tenho certeza que eles suspeitavam de algo, que bom que eles nunca contararam para nossas mães...
+      text: \kelEu tenho certeza que eles suspeitavam de algo, que bom que eles nunca contaram pras nossas mães...
 
 message_114:
       faceset: MainCharacters_Faraway
       faceindex: 15
-      text: \kelNós éramos muito aventureiros naquela época, hein? Haha...
+      text: \kelNós éramos bem aventureiros naquela época, hein? Haha...
 
 #wait time 40 frame
 
 message_115:
       faceset: MainCharacters_Faraway
       faceindex: 15
-      text: \kelDe qualquer forma, devíamos terminar os afazeres da minha mãe...\! Ela esteve esperando o dia todo!
+      text: \kelDe qualquer forma, a gente devia terminar as tarefinhas da minha mãe...\! Ela ficou esperando o dia todo!
 
 
 #=========================DAY 3 AFTERNOON: PLAYER AND AUBREY ON THE SWINGS==================================
@@ -373,42 +373,42 @@ message_130:
 message_131:
       faceset: MainCharacters_Faraway
       faceindex: 2
-      text: \aubEu acho que ver você me pegou de surpresa...\! porém eu também acho que isso é uma desculpa terrível.
+      text: \aubEu acho que ver você me pegou de surpresa...\! mas eu também acho que isso é uma desculpa terrível.
 
 message_132:
       faceset: MainCharacters_Faraway
       faceindex: 27
-      text: \aubEu espero que esteja tudo bem com você...\! tenho certeza.
+      text: \aubEu espero que esteja tudo bem com você...\! de verdade.
 
 message_133:
       faceset: MainCharacters_Faraway
       faceindex: 27
-      text: \aubAs vezes eu acho que eu quem devia estar lá por você.
+      text: \aubDe vez em quando eu acho que era eu quem devia estar lá por você.
 
 message_137:
       faceset: MainCharacters_Faraway
       faceindex: 2
-      text: \aubEu não sei se iremos lidar com a morte da MARI...\! mas está tudo bem pegar leve.
+      text: \aubEu não sei se vamos conseguir lidar com a morte da MARI...\! mas está tudo bem pegar leve.
 
 message_138:
       faceset: MainCharacters_Faraway
       faceindex: 0
-      text: \aubSe dar tempo para sentir todas as emoções...\! e ter paciência.
+      text: \aubSe dar tempo pra sentir todas as emoções...\! e ter paciência.
 
 message_134:
       faceset: MainCharacters_Faraway
       faceindex: 1
-      text: \aubD-De qualquer forma, eu só quero que saiba...\! que eu ainda me importo com você e coisa assim.
+      text: \aubD-De qualquer forma, eu só quero que saiba...\! que eu ainda me importo com você e tal.
 
 message_135:
       faceset: MainCharacters_Faraway
       faceindex: 27
-      text: \aubEu estive pensando nisso desde que eu te vi, mas eu acho que você está meio pálido...\! e meio magro, também.
+      text: \aubEu fiquei pensando nisso desde que eu te vi, mas eu acho que você tá meio pálido...\! e meio magro, também.
 
 message_136:
       faceset: MainCharacters_Faraway
       faceindex: 1
-      text: \aubDepois de se mudar, me promete que vai sair de casa mais frequentemente, ok?
+      text: \aubDepois de se mudar, me prometa que vai sair de casa mais vezes, ok?
 
 #=========================DAY 3 DAY: PINWHEEL==================================
 
@@ -425,12 +425,12 @@ message_141:
 message_142:
       faceset: MainCharacters_Faraway
       faceindex: 17
-      text: \kelOh, Eu lembro!\! Você estava chorando na calçada por que perdeu seu sapato.
+      text: \kelOh, eu lembro!\! Você tava chorando na calçada porque perdeu seu sapato.
 
 message_143:
       faceset: MainCharacters_Faraway
       faceindex: 13
-      text: \kel\sinv[1]Awww... Pequena AUBREY com seu pequeno arco rosa!\!<br>Eu me lembro dela como se fosse ontem...
+      text: \kel\sinv[1]Awww... A pequena AUBREY com seu pequeno arco rosa!\!<br>Eu me lembro dela como se fosse ontem...
 
 message_144:
       faceset: MainCharacters_Faraway
@@ -445,7 +445,7 @@ message_145:
 message_146:
       faceset: MainCharacters_Faraway
       faceindex: 22
-      text: \kelH-Hã? Da onde você teve essa ideia?
+      text: \kelH-Hã? Da onde cê tirou essa ideia?
 
 message_147:
       faceset: MainCharacters_Faraway
