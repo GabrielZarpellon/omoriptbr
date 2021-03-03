@@ -529,10 +529,10 @@ message_87:
 #THEATER
 
 message_100:
-      text: \n<BROTOPEIRA>Como um crítico de cinema respeitável, acredito que todos os trabalhdos da SWEETHEART estão além da nossa compreensão!
+      text: \n<BROTOPEIRA>Como um crítico de cinema respeitável, acredito que todos os trabalhos da SWEETHEART estão além da nossa compreensão!
 
 message_101:
-      text: \n<BROTOPEIRA>Cara...\! Você parece muito familiar.\!<br>Eu já te ví na TV!?
+      text: \n<BROTOPEIRA>Cara...\! Você parece muito familiar.\!<br>Eu já te vi na TV!?
 
 message_102:
       text: \n<BROTOPEIRA>Quieto! Esse é meu filme favorito!
@@ -585,7 +585,7 @@ message_130:
       text: Ei, JIMZ! Faz um tempo, amigão!<br>\!Como foi seu fim de semana, cara?\n<BROTOPEIRA>
 
 message_131:
-      text: O que ta pegando, LINDA? Nunca mais te vi por aí!\!<br>Como que 'ta seu velho?\! Sinto falta daquele cara.\n<BROTOPEIRA>
+      text: O que ta pegando, LINDA? Nunca mais te vi por aí!\!<br>Como que ta seu velho?\! Sinto falta daquele cara.\n<BROTOPEIRA>
 
 message_132:
       text: E aí, SAL! Você perdeu peso! Bom para você!\n<BROTOPEIRA>
@@ -637,7 +637,7 @@ message_211:
       text: \spr\}Oba! SWEETHEART!
 
 message_212:
-      text: \sprOuvi que costumava ter uma livraria aqui...\!<br>mas a SWEETHEART construiu seu palco por cima...\!<br>Quem precisa ler quando se tem a SWEETHEART!?
+      text: \sprOuvi que costumava ter uma biblioteca aqui...\!<br>mas a SWEETHEART construiu seu palco por cima...\!<br>Quem precisa ler quando se tem a SWEETHEART!?
 
 message_213:
       text: \sprUm tomate com qualquer outro nome seria tão suculento quanto.
@@ -655,7 +655,7 @@ message_217:
       text: \sprEu vim aqui com minha família, mas nós fomos separados no caminho...\! Eu posso nunca mais vê-los.
 
 message_218:
-      text: \sprEu ouvi que a SWEETHEART é na verdade um \c[3]DONUT\c[0]...\!<br>Me pergunto se os rumores são reais...
+      text: \sprEu ouvi que a SWEETHEART é na verdade uma \c[3]ROSQUINHA\c[0]...\!<br>Me pergunto se os rumores são reais...
 
 #Elevator
 message_220:
