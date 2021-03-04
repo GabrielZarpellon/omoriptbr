@@ -35,7 +35,7 @@ message_8:
       text: \n<CARA ATRAPALHADO>Loucura, né?\! Você acharia que esse é o tipo de coisa que só acontece em filme...
 
 message_9:
-      text: \n<CARA ATRAPALHADO>Por sorte, minha esposa está fora o dia todo e não descobriu ainda.\! Eu estive tentando pegar por mais de uma hora e meus dedos já estão ficando com ematomas...
+      text: \n<CARA ATRAPALHADO>Por sorte, minha esposa está fora o dia todo e não descobriu ainda.\! Eu estive tentando pegar por mais de uma hora e meus dedos já estão ficando com hematomas...
 
 message_10:
       text: \n<CARA ATRAPALHADO>Ai ai...\! Eu realmente não quero contar para a minha esposa ou minha filha, SARAH, sobre isso...\! Eu nunca vou ouvir o final dessa história!
@@ -56,7 +56,7 @@ message_14:
       text: Você deu o \c[4]ANEL DE CASAMENTO\c[0] para o PAI DA SARAH.
 
 message_15:
-      text: \n<CARA ATRAPALHADO>\Com[2]Ei, esse é o anel!\! \Com[2]Obrigado!\! \Com[2]Obrigado, obrigado, obrigado!\!<br>Eu nunca vou me esquecer disso... eu prometo!\! Você e qualquer um de seus amigos são bem vindos aqui a qualquer hora!
+      text: \n<CARA ATRAPALHADO>\Com[2]Ei, esse é o anel!\! \Com[2]Obrigado!\! \Com[2]Obrigado, obrigado, obrigado!\!<br>Eu nunca vou me esquecer disso... eu prometo!\! Você e qualquer um de seus amigos são bem-vindos aqui a qualquer hora!
 
 message_16:
       text: \n<CARA ATRAPALHADO>Eu acho que já mencionei antes, mas eu tenho uma filha da sua idade.\! O nome dela é SARAH...\!<br>Ela provavelmente está no quarto dela agora!

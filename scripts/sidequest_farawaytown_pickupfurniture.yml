@@ -5,7 +5,7 @@
 
 #Talk to MÃE ELEGANTE
 message_1:
-      text: \n<MÃE ELEGANTE>Eu pedi para o meu filho ir para \c[11]REPARA-JÁ\c[0] comprar uma lampada nova para o meu quarto, mas ele está demorando um bom tempo...
+      text: \n<MÃE ELEGANTE>Eu pedi para o meu filho ir ao \c[11]REPARA-JÁ\c[0] comprar uma lâmpada nova para o meu quarto, mas ele está demorando um bom tempo...
 
 message_2:
       text: \n<MÃE ELEGANTE>\Com[2]Bah!\! Ele é tão lento com essas coisas!\!<br>Eu queria que alguém fosse falar para ele se apressar...<br>\!Eu não tenho o dia todo!
@@ -25,7 +25,7 @@ message_6:
       text: \n<HOMEM ESTRANHO>\Com[2]Eh!?\! Quem é você?\! O-O que você quer!?\!<br>Oh...\! Minha mãe tá me chamando?
 
 message_7:
-      text: \n<HOMEM ESTRANHO>\Com[2]Diz pra ela esperar!\!<br>Eu que vim todo caminho até aqui pra pegar essa \c[4]LUMINÁRIA DE PISO\c[0] que eu nem me importo.
+      text: \n<HOMEM ESTRANHO>\Com[2]Diz pra ela esperar!\!<br>Eu que vim todo o caminho até aqui pra pegar essa \c[4]LUMINÁRIA DE PISO\c[0] que eu nem me importo.
 
 message_8:
       text: \n<HOMEM ESTRANHO>Além disso...\! ela é tão exigente!\!<br>Eu não sei por que ela só não faz isso ela mesma...
@@ -34,7 +34,7 @@ message_9:
       text: \n<HOMEM ESTRANHO>Grr...\! Que situação de lixo...\!<br>Essas \c[4]LUMINÁRIAS DE PISO\c[0] são \c[4]LIXO\c[0]!\! \Com[2]Você é \c[4]LIXO\c[0]!
 
 message_10:
-      text: \n<HOMEM ESTRANHO>Heh...\! Sim...\! Tudo faz sentido agora...\!<br>Esse ,imdp...\! \quake[1]Esse mundo não é nada além de \c[4]LIXO\c[0]!\quake[0]
+      text: \n<HOMEM ESTRANHO>Heh...\! Sim...\! Tudo faz sentido agora...\!<br>Esse mundo...\! \quake[1]Esse mundo não é nada além de \c[4]LIXO\c[0]!\quake[0]
 
 message_11:
       text: \n<HOMEM ESTRANHO>Ei, você...\! Se a minha mãe quer tanto essa luminária, por que você não compra pra ela!?
@@ -52,7 +52,7 @@ message_32:
       text: \n<CARA DO REPARA-JÁ>Hmm...\! então você quer comprar uma \c[4]LUMINÁRIA DE PISO\c[0]?\! Vai dar $50.00.\! Você ainda quer?
 
 message_33:
-      text: \n<CARA DO REPARA-JÁ>Prazer fazer negócios com você, colega.
+      text: \n<CARA DO REPARA-JÁ>É um prazer fazer negócios com você, colega.
 
 #Talk to MÃE ELEGANTE
 
@@ -69,7 +69,7 @@ message_16:
       text: \n<MÃE ELEGANTE>Ai ai...\! Ele é tão temperamental...\!<br>Eu queria que ele não fizesse tudo parecer maior do que realmente é.
 
 message_17:
-      text: \n<MÃE ELEGANTE>De qualquer forma, você é bem gentil por trazer essa lampada pra mim.\! Por favor visitem a qualquer hora!\! Eu faço uma ótima xicara de \c[5]CAFÉ\c[0]!
+      text: \n<MÃE ELEGANTE>De qualquer forma, você é bem gentil por trazer essa lâmpada pra mim.\! Por favor visitem a qualquer hora!\! Eu faço uma ótima xicara de \c[5]CAFÉ\c[0]!
 
 message_18:
       text: Você pegou a \c[4]LUMINÁRIA DE PISO\c[0]!

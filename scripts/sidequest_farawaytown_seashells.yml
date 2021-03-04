@@ -37,7 +37,7 @@ message_2:
       text: \n<MENINA DE CABELO AZUL>Oh, espera! Eu te reconheço!\! É \n[8], não é?\!<br>Desculpe, faz um tempo.\! Acho que só nos encontramos algumas vezes...
 
 message_3:
-      text: \n<MENINA DE CABELO AZUL>Minha familia sempre viveu aqui, mas eu fui enviada ao internato a e eu voltei por volta de três anos atrás, eu acho?
+      text: \n<MENINA DE CABELO AZUL>Minha família sempre viveu aqui, mas eu fui enviada ao internato e eu voltei por volta de três anos atrás, eu acho?
 
 message_4:
       faceset: MainCharacters_Faraway
@@ -116,7 +116,7 @@ message_23:
       text: Você deu a \c[4]CONCHA\c[0] para a MENINA DE CABELO AZUL.
 
 message_24:
-      text: \n<MENINA DE CABELO AZUL>Wow, essa aqui é tão fofa...\! Hehe... Obrigada!
+      text: \n<MENINA DE CABELO AZUL>Uau, essa aqui é tão fofa...\! Hehe... Obrigada!
 #Talk to cris after collecting some seashells (before leaving room)
 
 

@@ -8,7 +8,7 @@
 message_1:
       faceset: MainCharacters_Faraway
       faceindex: 13
-      text: \kel\com[2]Whoa! Que desenho legal do parque que você tem aí!
+      text: \kel\com[2]Uau! Que desenho legal do parque que você tem aí!
 
 message_2:
       text: \who\Com[2]Ahh!\! O-Oh!\! Olá.\!<br>Obrigada... \!Estou só praticando...
@@ -71,10 +71,10 @@ message_15:
       text: \kelHuh? Tem algo errado?
 
 message_16:
-      text: \minOh, não é nada...\! Você é a primeira pessoa a dizer algo positivo dos meus desenhos.
+      text: \minOh, não é nada...\! Você é a primeira pessoa a dizer algo positivo sobre meus desenhos.
 
 message_17:
-      text: \minAs vezes quando me sinto para baixo, eu começo a me questionar, e fica difícil mover o lápis.
+      text: \minÀs vezes quando me sinto para baixo, eu começo a me questionar, e fica difícil mover o lápis.
 
 message_18:
       faceset: MainCharacters_Faraway
@@ -108,7 +108,7 @@ message_23:
 message_24:
       faceset: MainCharacters_Faraway
       faceindex: 14 #insert number here
-      text: \kelSim, você é!\!<br>Eu não gosto muito de frutas, mas eu comeria essas com certeza!\!<br>Você iria também, não é, \n[8]?
+      text: \kelSim, você é!\!<br>Eu não gosto muito de frutas, mas eu comeria essas com certeza!\!<br>Você também, não é, \n[8]?
 
 #[Nod/Shake]
 #[Nod]
@@ -137,7 +137,7 @@ message_28:
       text: \kelEi, estranha! Como está indo sua mais recente obra-prima?
 
 message_29:
-      text: \minKEL!\! \n[8]!\! Tão bom ver vocês de novo.\! Está indo bem...\!<br>Estou só desenhando todos os tipos diferentes de \c[3]DOCE\c[0] por aqui.
+      text: \minKEL!\! \n[8]!\! É tão bom ver vocês de novo.\! Está indo bem...\!<br>Estou só desenhando todos os tipos diferentes de \c[3]DOCE\c[0] por aqui.
 
 message_30:
       text: \minEles parecem tão deliciosos.\! Eu não acho que vou resistir comprar um pra mim.
@@ -145,7 +145,7 @@ message_30:
 message_31:
       faceset: MainCharacters_Faraway
       faceindex: 14 #insert number here
-      text: \kelSeu desenho está ótimo!\!<br>Você devia mostrar para a dona, SRTA. CANDICE.\!<br>Tenho certeza que ela vai gostar.
+      text: \kelSeu desenho está ótimo!\!<br>Você devia mostrar pra dona, a SRTA. CANDICE.\!<br>Tenho certeza que ela vai gostar.
 
 message_32:
       text: \minO-Oh, sério?\! Eu não sei...\! eu deveria?
@@ -249,7 +249,7 @@ message_53:
       text: \kelErr...\! Q-Quer dizer...\! Estou falando da criança!\!<br>Não eu...\! Heh heh...
 
 message_54:
-      text: \minHehe...\! Você é mente mal, KEL.\!<br>Não se preocupe. Não vou contar pra ninguem.\!<br>Eu nunca deduraria meu fã \#1!
+      text: \minHehe...\! Você mente mal, KEL.\!<br>Não se preocupe. Não vou contar pra ninguem.\!<br>Eu nunca deduraria meu fã \#1!
 
 message_55:
       text: \minEu meio que gosto...<br>\!Deixa o lugar mais único.
@@ -311,7 +311,7 @@ message_68:
 message_69:
       faceset: MainCharacters_Faraway
       faceindex: 14 #insert number here
-      text: \kel\Com[2]Woah! Isso é pra gente mesmo!?\! Wow, isso é tão incrível!\!<br>Eu pareço melhor aqui do que na vida real!
+      text: \kel\Com[2]Nossa! Isso é pra gente mesmo!?\! Uau, isso é tão incrível!\!<br>Eu pareço melhor aqui do que na vida real!
 
 message_70:
       faceset: MainCharacters_Faraway
@@ -319,12 +319,12 @@ message_70:
       text: \kelMuito obrigado, MINCY!\!<br>Você deixou seus fãs \#1 e \#2 muito felizes!
 
 message_71:
-      text: \minSem problemas...\! Vocês dois são um par engraçado.\! Se todo mundo tivesse amigos que nem você, aposto que o mundo seria um lugar muito mais feliz.
+      text: \minSem problemas...\! Vocês dois são um par engraçado.\! Se todo mundo tivesse amigos como você, aposto que o mundo seria um lugar muito mais feliz.
 
 message_72:
       faceset: MainCharacters_Faraway
       faceindex: 13 #insert number here
-      text: \kelWow...\! Essa é a coisa mais legal que alguém já disse pra gente...<br>né, \n[8]?
+      text: \kelUau...\! Essa é a coisa mais legal que alguém já disse pra gente...<br>né, \n[8]?
 
 message_73:
       faceset: MainCharacters_Faraway

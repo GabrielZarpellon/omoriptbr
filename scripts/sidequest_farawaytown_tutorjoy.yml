@@ -6,7 +6,7 @@
 #Examine and take language Tutor Flyer:
 
 message_0:
-      text: Tem anúncio de emprego nessa parede.\! Ler ele?
+      text: Tem um anúncio de emprego nessa parede.\! Ler ele?
 
 #Yes/No
 
@@ -40,7 +40,7 @@ message_5:
       text: \n<SOBRANCELHAS GROSSAS>Hmm...\! Uma entrevista é problema de mais!\! <br>Você deve saber linguagem de 2º grau, certo?
 
 message_7:
-      text: \n<SOBRANCELHAS GROSSAS>Vamos entre logo!\! Minha filha JOY está esperando por você no quarto dela!
+      text: \n<SOBRANCELHAS GROSSAS>Vamos, entre logo!\! Minha filha JOY está esperando por você no quarto dela!
 
 #Talk to Joy
 

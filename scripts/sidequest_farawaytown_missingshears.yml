@@ -8,21 +8,21 @@ message_1:
       text: \n<MULHER DE ÓCULOS VERMELHO>Deixe eu te contar uma história...\! Eu estava voltando do \c[11]REPARA-JÁ\c[0] depois de fazer uma compra com meu dinheiro suado...
 
 message_2:
-      text: \n<MULHER DE ÓCULOS VERMELHO>E quando eu olho para baixo...\! vejam só...
+      text: \n<MULHER DE ÓCULOS VERMELHO>E quando eu olho pra baixo...\! vejam só...
 
 message_3:
-      text: \n<MULHER DE ÓCULOS VERMELHO>Minha nova \c[4]TESOURA DE JARDIM\c[0] sumiu!\! Sim, é verdade...\!<br>Minha nova \c[4]TESOURA DE JARDIM\c[0] abriram um buraco na minha sacola plástica!
+      text: \n<MULHER DE ÓCULOS VERMELHO>Minha nova \c[4]TESOURA DE JARDIM\c[0] sumiu!\! Sim, é verdade...\!<br>Minha nova \c[4]TESOURA DE JARDIM\c[0] abriu um buraco na minha sacola plástica!
 
 message_4:
       text: \n<MULHER DE ÓCULOS VERMELHO>\Com[2]Oh, como eu me senti boba!
 
 message_5:
-      text: \n<MULHER DE ÓCULOS VERMELHO>Você acha que pode me ajudar a encontra-las?\!<br>Elas devem estar em algum lugar por aqui.
+      text: \n<MULHER DE ÓCULOS VERMELHO>Você acha que pode me ajudar a encontrá-la?\!<br>Ela deve estar em algum lugar por aqui.
 
 #Examine Gardening Shears
 
 message_6:
-      text: Você encontrou \c[4]TESOURA DE JARDIM\c[0].
+      text: Você encontrou a \c[4]TESOURA DE JARDIM\c[0].
 
 #Talk to Kim's Mom with Gardening SHEARS
 
@@ -30,7 +30,7 @@ message_7:
       text: \n<MULHER DE ÓCULOS VERMELHO>Ah, obrigada, garotos!\! Eu nunca mais irei cometer um erro bobo desses de novo.\! É raro ver jovens garotos dispostos a ajudar estranhos esses dias.
 
 message_8:
-      text: \n<MULHER DE ÓCULOS VERMELHO>Por favor sintam-se livres para entrar na minha casa qualquer hora!\!<br>Vocês sempre serão bem-vindos.
+      text: \n<MULHER DE ÓCULOS VERMELHO>Por favor sintam-se livres para entrar na minha casa a qualquer hora!\!<br>Vocês sempre serão bem-vindos.
 
 #Examine KIM's House Door at Sunset/Cutscene: Get out of here!
 
@@ -50,7 +50,7 @@ message_13:
       text: \n<MULHER DE ÓCULOS VERMELHO>KIM! O que deu em você, queridinha?
 
 message_14:
-      text: \n<MULHER DE ÓCULOS VERMELHO>Desculpe, garotos.\!<br>Talvez vocês possam nos juntar no jantar outra hora.
+      text: \n<MULHER DE ÓCULOS VERMELHO>Desculpe, garotos.\!<br>Talvez vocês possam se juntar ao jantar outra hora.
 
 #Door slams
 

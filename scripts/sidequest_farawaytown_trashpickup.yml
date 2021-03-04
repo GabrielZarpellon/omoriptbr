@@ -5,7 +5,7 @@
 
 #Talk to Old Lady
 message_0:
-      text: \n<IDOSA>Olá, jovemzinhos!\! Eu não sei se vocês viram onde estão pisando, mas tem bastante \c[4]LIXO\c[0] por essa cidade.
+      text: \n<IDOSA>Olá, jovenzinhos!\! Eu não sei se vocês viram onde estão pisando, mas tem bastante \c[4]LIXO\c[0] por essa cidade.
 
 message_1:
       text: \n<IDOSA>Se vocês acharem algum, pode trazer até mim para que eu possa descartar devidamente?
@@ -15,7 +15,7 @@ message_2:
 
 #Give trash
 message_5:
-      text: \n<IDOSA>Olá, jovemzinhos!\! Eu vejo que vocês tem um pouco de \c[4]LIXO\c[0] com vocês!\!<br>Obrigada, eu vou descartar esse lixo devidamente!
+      text: \n<IDOSA>Olá, jovenzinhos!\! Eu vejo que vocês tem um pouco de \c[4]LIXO\c[0] com vocês!\!<br>Obrigada, eu vou descartar esse lixo devidamente!
 
 #Talk to Old Lady after picking up some Trash:
 message_6:

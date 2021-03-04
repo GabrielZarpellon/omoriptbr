@@ -31,7 +31,7 @@ message_5:
       text: \n<DIRETORA DA ESCOLA>Ora, olá! Como posso ajudar?
 
 message_100:
-      text: Você deu a DIRETORA DA ESCOLA o \c[4]FOLHETO VERDE\c[0].
+      text: Você deu à DIRETORA DA ESCOLA o \c[4]FOLHETO VERDE\c[0].
 
 message_101:
       text: \n<DIRETORA DA ESCOLA>Ah, Entendi! Você está aqui para ser tutor do meu filho, BRENT!
@@ -40,7 +40,7 @@ message_6:
       text: \n<DIRETORA DA ESCOLA>Hmm...\! Tem mais de um de você, mas vocês parecem bem confiáveis.
 
 message_7:
-      text: \n<DIRETORA DA ESCOLA>Creio que é possivel que dois tutores sejam melhor que um...\! desde que vocês dividam o pagamento! Haha!
+      text: \n<DIRETORA DA ESCOLA>Creio que é possivel que dois tutores sejam melhores do que um...\! desde que vocês dividam o pagamento! Haha!
 
 message_8:
       text: \n<DIRETORA DA ESCOLA>Por favor entrem.\! BRENT está te esperando em seu quarto no andar de cima.
@@ -107,7 +107,7 @@ message_26:
       text: C) -2
 
 message_1000:
-      text: ESCOLHER ALEATÓRIAMENTE
+      text: ESCOLHER ALEATORIAMENTE
 
 #Correct choice:
 
@@ -126,12 +126,12 @@ message_30:
       text: \n<GAROTO INTELIGENTE>Ohh...\! Eu pensava que fosse -2?
 
 message_31:
-      text: \n<GAROTO INTELIGENTE>Heh heh...\! Você estava só me testando, certo?\!<br>Dessa forma, também desafia meu pensamento crítico!\!<br>Wow...\! Tutores são muito espertos...
+      text: \n<GAROTO INTELIGENTE>Heh heh...\! Você estava só me testando, certo?\!<br>Dessa forma, também desafia meu pensamento crítico!\!<br>Uau...\! Tutores são muito espertos...
 
 #After completing Math WORKSHEET
 
 message_32:
-      text: \n<GAROTO INTELIGENTE>Phew...\! Eu acho que já entendi isso muito melhor que antes...\! Obrigado!
+      text: \n<GAROTO INTELIGENTE>Ufa...\! Eu acho que já entendi isso muito melhor que antes...\! Obrigado!
 
 #After completing Math WORKSHEET
 
