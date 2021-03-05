@@ -128,11 +128,11 @@ message_32:
       text: Um computador antigo.
 #[YES/NO]
 message_33:
-      text: Não tem nada aqui a não ser um jogo chamado BLACKJACK.\!<br>O que você quer jogar?
+      text: Não tem nada aqui a não ser um jogo chamado VINTE-E-UM.\!<br>O que você quer jogar?
 #[YES/NO]
 #After -
 message_34:
-      text: Um computador antigo.\! Você quer jogar BLACKJACK?
+      text: Um computador antigo.\! Você quer jogar VINTE-E-UM?
 
 #Phone:
 #NIGHT 1 - Voicemail
@@ -175,10 +175,10 @@ message_44:
 
 #Grandfather Clock:
 message_45:
-      text: Um dos dois "relógios de avô".\! Eles pararam de funcionar há muito tempo, mas minha MÃE gosta de manter eles.
+      text: Um dos dois "relógios de avô".\! Eles pararam de funcionar há muito tempo, mas minha MÃE gosta de mantê-los.
 
 message_47:
-      text: Um guarda roupa.
+      text: Um guarda-roupa.
 
 message_48:
       text: Alguns livros.
@@ -244,11 +244,11 @@ message_60:
 
 #Kel's TV:
 message_61:
-      text: O console de vídeo game do KEL.\!<br>Parece ser usado bastante.
+      text: O console de videogame do KEL.\!<br>Parece ser usado bastante.
 
 #Trophies:
 message_62:
-      text: O lado do HERO do quarto está repleta de troféus e prêmios.
+      text: O lado do HERO do quarto está repleto de troféus e prêmios.
 
 message_63:
       text: \"COMPETIÇÃO ANUAL DE COMER CACHORRO-QUENTE - PRIMEIRO LUGAR\".
@@ -260,7 +260,7 @@ message_65:
       text: \"COMPETIÇÃO ESTADUAL DE SOLETRAÇÃO - PRIMEIRO LUGAR\".
 
 message_66:
-      text: \"OLIMPÍADA DE MATEMÁTICA ESTAUDAL - PRIMEIRO LUGAR\".
+      text: \"OLIMPÍADA DE MATEMÁTICA ESTADUAL - PRIMEIRO LUGAR\".
 
 message_67:
       text: \"COMPETIÇÃO ESTADUAL DE DEBATE - O QUE MAIS SE APRIMOROU\".
@@ -298,7 +298,7 @@ message_75:
       text: Você deixou os $20.00 no guarda roupa do KEL.
 #After taking $20 -
 message_76:
-      text: Guarda roupa do KEL...\! menos $20.00.
+      text: Guarda roupa do KEL...\! exceto $20.00.
 
 #Grandfather clock:
 message_77:
@@ -526,11 +526,11 @@ message_146:
 
 #Mirror:
 message_147:
-      text: Um pente de dentes largos em frente a um espelho.\!<br>O espelho tem anotações em toda parte.<br><br>\"Curvar os ombros quinze graus para trás\"...\!<br>\"Lembrar de flexionar todos os dedos ao posar\"...\!<br>\"Mostrar apenas um olho quando for provocado\"...<br>...\! Ugh...
+      text: Um pente de dentes largos em frente a um espelho.\!<br>O espelho tem anotações por toda parte.<br><br>\"Curvar os ombros quinze graus para trás\"...\!<br>\"Lembrar de flexionar todos os dedos ao posar\"...\!<br>\"Mostrar apenas um olho quando for provocado\"...<br>...\! Ugh...
 
 #Game Console:
 message_148:
-      text: Um console de vídeo game novinho.\!<br>É tão brilhante e lustroso!
+      text: Um console de videogame novinho.\!<br>É tão brilhante e lustroso!
 
 #Cactus:
 message_149:
@@ -636,7 +636,7 @@ message_191:
 
 #Bonsai Tree:
 message_192:
-      text: A bonsai tree.\! This one has a lot of personality.
+      text: Uma árvore de bonsai.\! Ela tem muita personalidade.
 
 message_193:
       text: Essa casa está totalmente cheia com livros sobre todos os assuntos.\! Esse é sobre algo conhecido como \"química orgânica\".
@@ -794,7 +794,7 @@ message_261:
 
 #Love Letter:
 message_262:
-      text: Tem uma carta de amor na mesa.\!<br>Hmm...\! É para quem?
+      text: Tem uma carta de amor na mesa.\!<br>Hmm...\! É pra quem?
 
 #Tea Party:
 message_263:
@@ -923,7 +923,7 @@ message_320:
 
 #Wallpaper:
 message_321:
-      text: This wallpaper's application has not been finished.
+      text: A aplicação desse papel de parede não foi finalizada.
 
 
 #============================
@@ -948,7 +948,7 @@ message_333:
 
 #Room Memo:
 message_334:
-      text: Um monte de papeis.\!<br>Alguém se esforçou muito planejanto uma dieta saudável para três pessoas.
+      text: Um monte de papéis.\!<br>Alguém se esforçou muito planejando uma dieta saudável para três pessoas.
 
 message_335:
       text: Uma gaiola.\! Tem um belo passáro azul dentro.\!<br>Ele parece saudável!\! ...\! Porém nervoso.
@@ -1122,7 +1122,7 @@ message_390:
 
 #Family Photos in Hallway:
 message_391:
-      text: Algumas fotos do BASIL com seus pais.\!<br>Você nunca os conheceu pessoalmente antes.
+      text: Algumas fotos do BASIL com seus pais.\!<br>Você nunca os conheceu pessoalmente.
 
 #Camera:
 message_392:
@@ -1140,7 +1140,7 @@ message_398:
       text: Uma cama vazia.
 
 message_396:
-      text: A avó do BASIL está respirando normalmente.
+      text: A avó do BASIL está respirando firmemente.
 
 message_397:
       text: Uma cama que parece confortável.
@@ -1151,7 +1151,7 @@ message_397:
 
 #Game Boy:
 message_410:
-      text: Um console de vídeo game portátil.
+      text: Um console de videogame portátil.
 
 #Arcade Machine:
 message_411:
@@ -1175,7 +1175,7 @@ message_395:
 
 #Game:
 message_415:
-      text: Um cartucho de vídeo game novinho.
+      text: Um cartucho de videogame novinho.
 
 #============================
 
@@ -1187,12 +1187,12 @@ message_430:
 
 #Coffee Machine:
 message_431:
-      text: Uma máquina de café.\!<br>Gostaria ded fazer uma xícara de \c[5]CAFÉ\c[0]?
+      text: Uma máquina de café.\!<br>Gostaria de fazer uma xícara de \c[5]CAFÉ\c[0]?
 #[YES/NO]
 #[YES]
 #*Coffee-making noise*
 message_432:
-      text: Você obteve \c[5]CAFÉ\c[0]!
+      text: Você conseguiu \c[5]CAFÉ\c[0]!
 
 #Recycle Trash Can:
 message_433:
@@ -1335,7 +1335,7 @@ message_481:
 
 #Cereal and Cooking Ingredients:
 message_482:
-      text: Cereais e utensílhos de cozinha.
+      text: Cereais e utensílios de cozinha.
 
 #Meats:
 message_483:
@@ -1343,7 +1343,7 @@ message_483:
 
 #Seafoods:
 message_484:
-      text: Frutos do mar.\! Cheira à peixe...
+      text: Frutos do mar.\! Cheira a peixe...
 
 #Frozen Pizza:
 message_485:
@@ -1455,7 +1455,7 @@ message_520:
       text: Um recorte de papelão do CAPITÃO SPACEBOY.
 
 message_521:
-      text: Um velho console de vídeo game ligado em uma TV.
+      text: Um velho console de videogame ligado em uma TV.
 
 #Poster:
 message_522:
@@ -1479,7 +1479,7 @@ message_532:
 
 #Wallpaper:
 message_533:
-      text: Amostras de papeis de parede.
+      text: Amostras de papéis de parede.
 
 #Tiles:
 message_534:
@@ -1602,7 +1602,7 @@ message_586:
 
 #Fruit Cart:
 message_587:
-      text: Um carrinho cheio de frutas.\! A maioria maçãs.
+      text: Um carrinho cheio de frutas.\! A maioria são maçãs.
 
 message_588:
       text: \"PARQUE TÃO-DISTANTE\"<br>\!\"O FUTURO PERTENCE AOS SONHADORES!\"
@@ -1684,7 +1684,7 @@ message_643:
 
 #Bed:
 message_644:
-      text: Essa cama é grande, mas o colchão é incosntante e cheio de calombos.\!<br>Você daria uma nota 6 de 10.
+      text: Essa cama é grande, mas o colchão é inconstante e cheio de calombos.\!<br>Você daria uma nota 6 de 10.
 
 #Bed:
 message_645:
@@ -1741,7 +1741,7 @@ message_658:
       text: Você abre o pote.\!<br>...\! Mmm...\! Tem cheiro de geleia.
 
 message_659:
-      text: Louçã suja.
+      text: Louça suja.
 
 message_660:
       text: Essa cama é grudenta.\! Tem um caramelo preso no lençol.\!<br>Você daria uma nota 2 de 10.
@@ -1827,13 +1827,13 @@ message_1012:
       text: Uma cesta de piquenique azul.\! Não é nada como a da MARI.
 
 message_1013:
-      text: Você obteve \c[5]CURATIVO\c[0].
+      text: Você conseguiu \c[5]CURATIVO\c[0].
 
 message_1014:
       text: Uma cômoda.
 
 message_1015:
-      text: Você obteve \c[5]KIT MÉDICO\c[0].
+      text: Você conseguiu \c[5]KIT MÉDICO\c[0].
 
 message_1016:
       text: Lírio-do-vale.\! Dizem que é capaz de espantar espíritos malignos e ajudar as pessoas a enxergar um futuro melhor.
