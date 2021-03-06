@@ -68,7 +68,7 @@ message_9:
 message_10:
       faceset: MainCharacters_DreamWorld
       faceindex: 29
-      text: \kelEsperem um segundo, galera.\! Onde está o HERO?
+      text: \kelEsperem um segundo, galera.\! Cadê o HERO?
 
 message_11:
       faceset: MainCharacter_Mari
@@ -83,7 +83,7 @@ message_12:
 message_13:
       faceset: MainCharacters_DreamWorld
       faceindex: 10
-      text: \aubNão diga isso! Está me deixando com medo...\!<br>Ele provavelmente deve estar nos esperando no piquenique.\!<br>Nós podemos ir até ele depois!
+      text: \aubNão diga isso! Tá me deixando com medo...\!<br>Ele provavelmente deve estar nos esperando no piquenique.\!<br>Nós podemos ir até ele depois!
 
 message_14:
       text: Você quer continuar andando através da névoa?
@@ -101,32 +101,32 @@ message_14:
 message_20:
       faceset: MainCharacters_DreamWorld
       faceindex: 20
-      text: \kelHey, guys... I don't know about this.\!<br>I'm starting to get worried.
+      text: \kelEi, pessoal... Não sei se devemos continuar.\!<br>Estou ficando preocupado.
 
 message_21:
       faceset: MainCharacters_DreamWorld
       faceindex: 8
-      text: \aubKEL?\! Worried?\! That doesn't sound like you at all.
+      text: \aubKEL?\! Preocupado?\! Isso não é normal pra você.
 
 message_24:
       faceset: MainCharacters_DreamWorld
       faceindex: 29
-      text: \kelIt's just...\! HERO wouldn't run off like that.
+      text: \kelÉ que...\! O HERO não iria fugir desse jeito.
 
 message_25:
       faceset: MainCharacter_Mari
       faceindex: 2
-      text: \marAre you sure you want to go back, KEL?\!<br>You were really excited to see the empty house earlier!
+      text: \marVocê tem certeza de que quer voltar, KEL?\!<br>Você estava muito animado pra ver a casa vazia!
 
 message_26:
       faceset: MainCharacter_Mari
       faceindex: 3
-      text: \marHERO knows how to take care of himself...\!<br>You can trust him!
+      text: \marO HERO sabe se cuidar...\!<br>Pode confiar nele!
 
 message_27:
       faceset: MainCharacters_DreamWorld
       faceindex: 22
-      text: \kelYeah...\! I guess, you're right.
+      text: \kelÉ...\! Eu acho que você tá certa.
 
 message_28:
       text: Você quer continuar andando através da névoa?
@@ -177,7 +177,7 @@ message_41:
 message_42:
       faceset: MainCharacter_Mari
       faceindex: 4
-      text: \marHmm... Você acha que ele voltou para buscar o HERO?
+      text: \marHmm... Você acha que ele voltou pra buscar o HERO?
 
 message_43:
       faceset: MainCharacters_DreamWorld
@@ -315,7 +315,7 @@ message_84:
 message_85:
       faceset: MainCharacter_Mari
       faceindex: 3
-      text: \marSomos apenas nós dois agora.\!<br>Mal temos tempo para isso ultimamente, huh?
+      text: \marSomos apenas nós dois agora.\!<br>Mal temos tempo para isso ultimamente, né?
 
 message_86:
       faceset: MainCharacter_Mari
