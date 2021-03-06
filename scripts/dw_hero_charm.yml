@@ -42,7 +42,7 @@ message_7:
     text: \n<CACHORRO QUENTE GOSTOSO>Eu queria agradecer a você por todo o seu trabalho voluntário no abrigo.\! Isso é para você!
 
 message_8:
-    text: CACHORRO QUENTE GOSTOSO te deu, de alguma forma, um \c[3]CACHORRO QUENTE\c[0].
+    text: CACHORRO QUENTE GOSTOSO lhe deu, de alguma forma, um \c[3]CACHORRO QUENTE\c[0].
 
 message_102:
     text: \n<CACHORRO QUENTE GOSTOSO>Vá em frente, HERO!\!<br>Seja o cuidador que você sempre foi destinado a ser!
@@ -73,7 +73,7 @@ message_14:
     text: \n<BROTOPEIRA SOLITÁRIA>Fique com esse presente.\! Você merece.
 
 message_75:
-    text: BROTOPEIRA SOLITÁRIA cuspiu um \c[3]DONUT\c[0] em suas mãos.
+    text: BROTOPEIRA SOLITÁRIA cuspiu uma \c[3]ROSQUINHA\c[0] em suas mãos.
 
 message_104:
     text: \n<BROTOPEIRA SOLITÁRIA>Vá em frente, HERO!\!<br>Seja o libertador que você sempre foi destinado a ser!
@@ -101,7 +101,7 @@ message_19:
     text: \n<BROTOPEIRA CAIXA>Este é um dos meus bens mais valiosos, mas pode ficar com ele.
 
 message_20:
-    text: BROTOPEIRA CAIXA lhe deu um \c[3]CONE DE NEVE\c[0].
+    text: BROTOPEIRA CAIXA lhe deu uma \c[3]RASPADINHA\c[0].
 
 message_106:
     text: \n<BROTOPEIRA CAIXA>Vá em frente, HERO!\!<br>Seja o guia que você sempre foi destinado a ser!
@@ -143,7 +143,7 @@ message_28:
     text: \n<QUERIDA TIFFANY>Serei eternamente grata.\! Tome esse presente.\! Acho que é o suficiente por agora!
 
 message_29:
-    text: QUERIDA TIFFANY lhe deu uma \c[3]BATIDA DE MANGA\c[0].
+    text: QUERIDA TIFFANY lhe deu uma \c[3]SMOOTHIE DE MANGA\c[0].
 
 message_109:
     text: \n<QUERIDA TIFFANY>Vá em frente, HERO!\!<br>Seja o anjo que você sempre foi destinado a ser!
@@ -196,7 +196,7 @@ message_39:
     text: \n<SILKER>Oh! Ei, HERO.\! Sua presença sempre tornou meu trabalho muito mais suportável.
 
 message_40:
-    text: \n<SILKER>Sempre penso naquela vez que você cobriu meu turno quando eu tive uma emergência de última hora.\! Você merege um pouco de gentileza também.\! Toma isso!
+    text: \n<SILKER>Sempre penso naquela vez que você cobriu meu turno quando eu tive uma emergência de última hora.\! Você merece um pouco de gentileza também.\! Toma isso!
 
 message_41:
     text: SILKER abriu sua carteira e lhe deu 500 CONCHAS.
@@ -288,7 +288,7 @@ message_80:
     text: HOAGIE pegou em sua camisa e lhe deu 5000 CLAMS.
 
 message_81:
-    text: \n<HOAGIE>Estou te desejando boas vibrações, HERO.\!<br>Seja o doador que você sempre foi destinado a ser!
+    text: \n<HOAGIE>Estou te desejando energias positivas, HERO.\!<br>Seja o doador que você sempre foi destinado a ser!
 
 #VIGARISTA DA CIDADE - Underwater Highway - Helped me recover through surgery → MILK
 
@@ -296,7 +296,7 @@ message_57:
     text: \n<VIGARISTA DA CIDADE>Bem, eu serei!\! Eu não esperava ver você de novo tão cedo, HERO!
 
 message_58:
-    text: \n<VIGARISTA DA CIDADE>Eu acabei de sair do hospital já que você me ajudou a recuperar da cirurgia.\! Eu roubei isso do hospiral, mas não conta pra ninguém!\! É para você!
+    text: \n<VIGARISTA DA CIDADE>Eu acabei de sair do hospital já que você me ajudou a recuperar da cirurgia.\! Eu roubei isso do hospital, mas não conta pra ninguém!\! É para você!
 
 message_59:
     text: VIGARISTA DA CIDADE foi até sua jaqueta e lhe deu um \c[3]LEITE\c[0].
@@ -352,7 +352,7 @@ message_69:
     text: \n<BOI-PEIXE>HERO!\! Acho que não te vejo desde que você salvou a fazenda!
 
 message_70:
-    text: \n<BOI-PEIXE>Nunca cheguei a te agradecer direito por isso e isso está me pesando muito... \! Agora é minha hora de te retribuir.\! Toma isso, parceiro.
+    text: \n<BOI-PEIXE>Nunca cheguei a te agradecer direito por aquilo e isso está me pesando muito... \! Agora é minha hora de te retribuir.\! Toma isso, parceiro.
 
 message_71:
     text: BOI-PEIXE lhe deu, de alguma forma, uma \c[3]REFEIÇÃO COMBO\c[0].
