@@ -175,14 +175,14 @@ message_31:
 message_40:
       faceset: MainCharacter_Mari
       faceindex: 4
-      text: \marOh-oh! Parece que a MIXTAPE do CAPITÃO NAMORADO foi jogada fora.\. Ela poderia estar no \c[11]FERRO-VELHO\c[0]?\.\^
+      text: \marOh-oh! Parece que a MIXTAPE do NAMORADO ESPACIAL foi jogada fora.\. Ela poderia estar no \c[11]FERRO-VELHO\c[0]?\.\^
 
 #After getting SBF'S MIXTAPE:
 
 message_41:
       faceset: MainCharacter_Mari
       faceindex: 6
-      text: \marÓtimo! Você finalmente achou a \c[4]MIXTAPE ESPECIAL\c[0].\. Agora tudo o que devem fazer é devolver ao CAPITÃO NAMORADO!\.\^
+      text: \marÓtimo! Você finalmente achou a \c[4]MIXTAPE ESPECIAL\c[0].\. Agora tudo o que devem fazer é devolver ao NAMORADO ESPACIAL!\.\^
 
 #Quest Completed:
 
@@ -214,7 +214,7 @@ message_45:
 message_50:
       faceset: MainCharacter_Mari
       faceindex: 5
-      text: \marPode parecer que não há escapatória do \c[11]SWEETHEART'S CASTLE\c[0], mas não desistam.\. Deve haver alguma saída!\.\^
+      text: \marPode parecer que não há escapatória do \c[11]CASTELO DA SWEETHEART\c[0], mas não desistam.\. Deve haver alguma saída!\.\^
 
 #After reaching SW Garden:
 
@@ -368,7 +368,7 @@ message_125:
 message_126:
       faceset: MainCharacter_Mari
       faceindex: 2
-      text: \marBem, a BROTHER SUSPEITA tem a \c[4]C.A.M.A.\c[0] agora...\. Eu me pergunto que tipo de mal ele vai fazer com ela.\.\^
+      text: \marBem, a BROTOPEIRA SUSPEITA tem a \c[4]C.A.M.A.\c[0] agora...\. Eu me pergunto que tipo de mal ele vai fazer com ela.\.\^
 
 # =========================================================================================
 
@@ -446,7 +446,7 @@ message_150:
 message_155:
       faceset: MainCharacter_Mari
       faceindex: 2
-      text: \marUau! Você lutou contra o CAPITÃO EX-MARIDO no topo da montanha?\. Isso parece...\. muito dramático...\. Ele deve estar indo para casa.\. Vá visitá-lo para ter certeza!\.\^
+      text: \marUau! Você lutou contra o EX-MARIDO ESPACIAL no topo da montanha?\. Isso parece...\. muito dramático...\. Ele deve estar indo para casa.\. Vá visitá-lo para ter certeza!\.\^
 
 message_156:
       faceset: MainCharacter_Mari
@@ -483,7 +483,7 @@ message_161:
 message_165:
       faceset: MainCharacter_Mari
       faceindex: 0
-      text: \marFANTASMA DE CARTOLA não vai começar a sua festa até que seus convidados cheguem, então é o seu dever achar eles.\. Você quer ver uma \c[11]FESTA FANTASMA\c[0] também, não quer?\.\^
+      text: \marFANTASMA DE CARTOLA não vai começar a sua festa até que seus convidados cheguem, então é o seu dever achar eles.\. Você quer ver uma \c[11]FESTA ASSOMBRADA\c[0] também, não quer?\.\^
 
 message_166:
       faceset: MainCharacter_Mari
@@ -493,7 +493,7 @@ message_166:
 message_167:
       faceset: MainCharacter_Mari
       faceindex: 0
-      text: \marAposto que vocês se divertiram na \c[11]FESTA FANTASMA\c[0].\. Quando vocês aprenderam a dançar?\.\^
+      text: \marAposto que vocês se divertiram na \c[11]FESTA ASSOMBRADA\c[0].\. Quando vocês aprenderam a dançar?\.\^
 
 
 # =========================================================================================
