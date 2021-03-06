@@ -61,7 +61,7 @@ terms:
         counterAttack: "%1 contra-atacou!"
         criticalToActor: "ACERTOU BEM NO CORAÇÃO!"
         criticalToEnemy: "ACERTOU BEM NO CORAÇÃO!"
-        debuffAdd: "%1's %2 went down!"
+        debuffAdd: "%2 de %1 diminuiu!"
         defeat: "%1 foi derrotado..."
         emerge: "%1 emergiu!"
         enemyDamage: "%1 levou %2 de dano!"
