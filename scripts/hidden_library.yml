@@ -13,7 +13,7 @@ message_0:
 #========================================================================================
 
 message_1:
-      text: \"Um por um, eles adormeceram na volta de carro.\! <br>Foi um longo dia na praia, afinal, e todos <br>estavam exaustos.\"
+      text: \"Um por um, eles adormeceram na volta de carro.\! <br>Foi um longo dia na praia afinal, e todos <br>estavam exaustos.\"
 
 message_2:
       text: \"☐☐☐ foi o primeiro a cair no sono, depois o resto.\"
@@ -103,7 +103,7 @@ message_50:
 
 
 message_70:
-      text: \"Este ano, ☐ foi sortudo o bastante para ser nomeado a uma mesa próxima de uma janela pequena.\"
+      text: \"Este ano, ☐ foi sortudo o bastante para ser nomeado a uma mesa próxima de uma pequena janela.\"
 
 message_71:
       text: \"Todo dia durante a aula, ☐ ele olharia apaticamente pela abertura...\! para as sombras das árvores, as nuvens rastejando ao alto.\"
