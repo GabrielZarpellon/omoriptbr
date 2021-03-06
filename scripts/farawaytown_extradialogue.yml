@@ -19,7 +19,7 @@ message_2:
 message_3:
       faceset: MainCharacters_Faraway
       faceindex: 16
-      text: \kelEh...\! Nada não. Não é como eu pudesse te culpar.
+      text: \kelEh...\! Nada não. Não é como se eu pudesse te culpar.
 
 #Kel walks up 1 step
 
@@ -62,7 +62,7 @@ message_9:
 message_10:
       faceset: MainCharacters_Faraway
       faceindex: 31
-      text: \herEu e KEL costumávamos fazer manobras pulando daquela estátua, mas quando pedimos pro \n[8] tentar...\! ele congelou e caiu no lago.
+      text: \herEu e KEL costumávamos fazer umas manobras pulando daquela estátua, mas quando a gente disso pro \n[8] tentar...\! ele congelou e caiu no lago.
 
 #*HERO turns to player*
 
@@ -81,14 +81,14 @@ message_12:
 message_13:
       faceset: MainCharacters_Faraway
       faceindex: 17
-      text: \kelNão, foi a MARI...\! Ela mergulhou antes que pudéssemos ter qualquer reação.
+      text: \kelNão, foi a MARI...\! Ela mergulhou antes da gente ter qualquer reação.
 
 #*AUBREY walks to front of pier*
 
 message_14:
       faceset: MainCharacters_Faraway
       faceindex: 27
-      text: \aubNunca vou me esquecer do momento em que ela te carregou para fora do lago.\! E quando você finalmente abriu os olhos, ela caiu em cima de você e começou a chorar.
+      text: \aubNunca vou me esquecer do momento em que ela te carregou pra fora do lago.\! E quando você finalmente abriu os olhos, ela caiu em cima de você e começou a chorar.
 
 message_15:
       faceset: MainCharacters_Faraway
@@ -128,7 +128,7 @@ message_23:
 
 #2nd talk
 message_25:
-      text: A AUBREY sempre agiu de acordo com suas emoções.\!<br>Ainda que ela tenha dificuldade em admitir o quanto ela se importa com todos,<br>suas ações provam o contrário.
+      text: A AUBREY sempre agiu de acordo com suas emoções.\!<br>Ainda que ela tenha dificuldade em admitir o quanto ela se importa com todos, suas ações provam o contrário.
 
 message_26:
       text: Ela sempre foi um pouco difícil de entender...\! mas você pode confiar que ela sempre vai tentar fazer a coisa certa.
