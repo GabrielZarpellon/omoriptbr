@@ -15,7 +15,7 @@ message_1:
 message_2:
     faceset: MainCharacter_Mari
     faceindex: 4
-    text: \marNo outro dia, NOSE estava me contando sobre uma folhinha fofa que ela conheceu...\! mas...\! quando ela tentou ser sua amiga, tudo que a folha queria falar era sobre o quanto ela odiava coelhos...
+    text: \marNo outro dia, a NOSE estava me contando sobre uma folhinha fofa que ela conheceu...\! mas...\! quando ela tentou conversar, tudo que a folha queria falar era sobre o quanto ela odiava coelhos...
 
 message_3:
     faceset: MainCharacter_Mari
@@ -29,19 +29,19 @@ message_3:
 message_10:
     faceset: MainCharacter_Mari
     faceindex: 0
-    text: \marOi, todo mundo! Vocês chegaram na hora certa para um agradável piquenique!
+    text: \marOi, todo mundo! Vocês chegaram na hora certa pra um agradável piquenique!
 
 message_11:
     faceset: MainCharacter_Mari
     faceindex: 3
-    text: \marSintam-se livres para descansar aqui!\! Já está tudo arrumado,<br>e eu ainda trouxe algumas frutas!
+    text: \marSintam-se à vontade pra descansar aqui!\! Já está tudo arrumado, e eu ainda trouxe algumas frutas!
 
 #After using fruit to heal:
 
 message_12:
     faceset: MainCharacters_DreamWorld
     faceindex: 18
-    text: \kelNhom, nhom, nhom...\!<br>\Com[2]Woo-hoo! Obrigado, MARI! Você é a melhor!
+    text: \kelNhom, nhom, nhom...\!<br>\Com[2]Uuu-hul! Obrigado, MARI! Você é a melhor!
 
 message_13:
     faceset: MainCharacter_Mari
@@ -51,7 +51,7 @@ message_13:
 message_14:
     faceset: MainCharacter_Basil
     faceindex: 1
-    text: \basAhh, MARI... Eu queria conseguir ser mais parecido com você!\!<br>Você sempre parece ter tudo sob controle.
+    text: \basAhh, MARI... Eu queria ser mais como você!\!<br>Você sempre parece ter tudo sob controle.
 
 message_15:
     faceset: MainCharacter_Mari
@@ -80,24 +80,24 @@ message_18:
 message_19:
     faceset: MainCharacters_DreamWorld
     faceindex: 9
-    text: \aubOMORI, pare de zoeira!\!<br>Isso é jeito de tratar sua irmã mais velha?
+    text: \aubOMORI, para de brincadeira!\!<br>Isso é jeito de tratar sua irmã mais velha?
 
 message_20:
     faceset: MainCharacter_Mari
     faceindex: 6
-    text: \mar\sinv[1]Ahhhhh...\sinv[1]\! Eu acho que vou ter que acreditar se todos vocês acham!
+    text: \mar\sinv[1]Ahhhhh...\sinv[1]\! Acho que vou ter que acreditar já que todos vocês acham!
 
 #Basil moves a step down
 
 message_21:
     faceset: MainCharacter_Basil
     faceindex: 1
-    text: \basMinha casa é por aqui...\!<br>Estamos todos prontos para ir?
+    text: \basMinha casa é por aqui...\!<br>Estamos todos prontos pra ir?
 
 message_23:
     faceset: MainCharacters_DreamWorld
     faceindex: 1
-    text: \aubEstou pronta se você estiver!
+    text: \aubTô pronta se você estiver!
 
 message_24:
     faceset: MainCharacters_DreamWorld
@@ -119,7 +119,7 @@ message_26:
 message_27:
     faceset: MainCharacters_DreamWorld
     faceindex: 9
-    text: \aubOMORI...\! A MARI teve o trabalho de juntar todas essas frutas deliciosas para nós e você não vai provar nenhuma?
+    text: \aubOMORI...\! A MARI teve o trabalho de juntar todas essas frutas deliciosas pra gente e você não vai provar nenhuma?
 
 # =========================================================================================
 # FLOATING FOREST
@@ -134,12 +134,12 @@ message_30:
 message_31:
     faceset: MainCharacter_Mari
     faceindex: 2
-    text: \marO vento aqui é mais forte aqui do que lá em baixo.\!<br>Imagino o porquê...
+    text: \marO vento aqui é mais forte do que lá em baixo.\!<br>Imagino o porquê...
 
 message_32:
     faceset: MainCharacter_Mari
     faceindex: 3
-    text: \marParece ser o clima perfeito para voar de asa-delta!
+    text: \marParece ser o clima perfeito pra voar de asa-delta!
 
 
 # =========================================================================================
@@ -179,7 +179,7 @@ message_51:
 message_52:
     faceset: MainCharacter_Mari
     faceindex: 2
-    text: \marEi, eu sei!\! Nós devíamos ir esquiar algum dia!\!<br>Não parece divertido, OMORI?
+    text: \marEi, eu sei!\! A gente devia ir esquiar algum dia!\!<br>Não parece divertido, OMORI?
 
 # =========================================================================================
 # JUNKYARD
@@ -193,7 +193,7 @@ message_60:
 message_61:
     faceset: MainCharacter_Mari
     faceindex: 6
-    text: \marVê, OMORI? Limpar tem benefícios!\!<br>É!\! Eu preciso ser um exemplo para o meu bagunceiro<br>irmãozinho!
+    text: \marViu OMORI? Limpar tem benefícios!\!<br>É!\! Eu preciso ser um exemplo pro meu irmãozinho bagunceiro!
 
 # =========================================================================================
 # PYREFLY FOREST-  BEFORE BOSS
@@ -203,17 +203,17 @@ message_61:
 message_70:
     faceset: MainCharacter_Mari
     faceindex: 2
-    text: \marAh, Eu estou tão aliviada que vocês finalmente apareceram!
+    text: \marAh, eu tô tão aliviada que vocês finalmente apareceram!
 
 message_71:
     faceset: MainCharacter_Mari
     faceindex: 5
-    text: \marEssa floresta é cheia de insetos assustadores...\!<br>Com certeza está me dando arrepios!
+    text: \marEssa floresta é cheia de insetos assustadores...\!<br>Está me dando arrepios!
 
 message_72:
     faceset: MainCharacter_Mari
     faceindex: 4
-    text: \marSem mencionar que eu fico escutando barulhos vindo de logo ali em frente...\!<br>Parece que pode ser algo potencialmente perigoso, então<br>vocês provavelmete deviam descansar.
+    text: \marSem mencionar que eu fico escutando barulhos vindo lá da frente...\!<br>Parece que pode ser algo bem perigoso, então vocês provavelmete deveriam descansar.
 
 message_73:
     faceset: MainCharacter_Mari
@@ -228,7 +228,7 @@ message_74:
 message_75:
     faceset: MainCharacter_Mari
     faceindex: 0
-    text: \marTem até um carro de mina correndo aqui...\! Me pergunto para o que foi usado?
+    text: \marTem até um carro de mina correndo aqui...\! Pro que será que foi usado?
 
 
 # =========================================================================================
@@ -238,12 +238,12 @@ message_75:
 message_80:
     faceset: MainCharacter_Mari
     faceindex: 3
-    text: \marEssas BROTOPEIRAS são criaturinhas tão fofinhas...\!<br> Eu só quero pegar uma e apertá-la! Hihi!
+    text: \marEssas BROTOPEIRAS são criaturinhas tão fofinhas...\!<br> Eu queria pegar uma e apertar! Hihi!
 
 message_81:
     faceset: MainCharacter_Mari
     faceindex: 2
-    text: \marVocê sabia? BROTOPEIRAS amam demais \c[3]TOFU\c[0]!\!<br>Eu comprei alguns \c[3]TOFUS\c[0] em um estande de \c[3]TOFU\c[0] mais cedo...<br>Sintam-se livres para comer alguns!
+    text: \marVocê sabia? BROTOPEIRAS amam muito \c[3]TOFU\c[0]!\!<br>Eu comprei alguns \c[3]TOFUS\c[0] em um estande de \c[3]TOFU\c[0] mais cedo...<br>Sintam-se livres pra comer alguns!
 
 # =========================================================================================
 # SWEETHEART'S CASTLE - PRISON B1
@@ -257,7 +257,7 @@ message_90:
 message_91:
     faceset: MainCharacter_Mari
     faceindex: 6
-    text: \marI Que tal comer alguns? Hihi...
+    text: \marI Que tal comer alguns picles de pepino? Hihi...
 
 message_92:
     faceset: MainCharacters_DreamWorld
@@ -288,7 +288,7 @@ message_96:
 message_97:
     faceset: MainCharacter_Mari
     faceindex: 2
-    text: \marRealente está quente aqui fora, né...\!<br>Lembrem-se de se manterem hidratados, pessoal!
+    text: \marRealmente tá quente aqui fora, né...\!<br>Lembrem-se de se manterem hidratados, pessoal!
 
 
 # =========================================================================================
@@ -303,12 +303,12 @@ message_100:
 message_101:
     faceset: MainCharacter_Mari
     faceindex: 6
-    text: \marNâo é o clima ideal para um piquenique, mas isso nunca me impediu antes!
+    text: \marNâo é o clima ideal pra um piquenique, mas isso nunca me impediu!
 
 message_102:
     faceset: MainCharacters_DreamWorld
     faceindex: 18
-    text: \kelSim! Toda hora é uma boa hora para um piquenique!
+    text: \kelSim! Toda hora é uma boa hora pra um piquenique!
 
 message_103:
     faceset: MainCharacter_Mari
@@ -327,7 +327,7 @@ message_110:
 message_111:
     faceset: MainCharacter_Mari
     faceindex: 6
-    text: \marEu trouxe um pouco de geleia para vocês!
+    text: \marEu trouxe um pouco de geleia pra vocês!
 
 message_112:
     faceset: MainCharacters_DreamWorld
@@ -337,7 +337,7 @@ message_112:
 message_113:
     faceset: MainCharacters_DreamWorld
     faceindex: 10
-    text: \aub\Com[2]KEL, seu patetão! Deixe um pouco para nós!
+    text: \aub\Com[2]KEL, seu patetão! Deixa um pouco pra gente!
 
 message_114:
     faceset: MainCharacters_DreamWorld
@@ -356,7 +356,7 @@ message_120:
 message_121:
     faceset: MainCharacter_Mari
     faceindex: 0
-    text: \marPor que você não aproveita um bom piquenique comigo?\!<br>Isso sempre parece te animar.
+    text: \marPor que você não aproveita um bom piquenique comigo?\!<br>Isso sempre te anima.
 
 # =========================================================================================
 # LAST RESORT CONSTRUCTION
@@ -379,7 +379,7 @@ message_126:
 message_127:
     faceset: MainCharacter_Mari
     faceindex: 6
-    text: \marE olhe ali!\! Você tem que admitir...\!<br>A vista \sinv[1]é\sinv[0] bem legal.
+    text: \marE olhe ali!\! Você tem que admitir...\!<br>A vista é \sinv[1]bem\sinv[0] legal.
 
 
 # =========================================================================================
@@ -391,17 +391,17 @@ message_127:
 message_130:
     faceset: MainCharacter_Mari
     faceindex: 6
-    text: \marEi OMORI, parece que alcançamos o fim da estrada... literalmente.
+    text: \marEi OMORI, acho que alcançamos o fim da estrada... literalmente.
 
 message_131:
     faceset: MainCharacter_Mari
     faceindex: 0
-    text: \marParece que tem uma longa ponte a frente.
+    text: \marParece que tem uma longa ponte ali na frente.
 
 message_132:
     faceset: MainCharacter_Mari
     faceindex: 2
-    text: \marNão importa o que faça, não olhe para baixo!
+    text: \marNão importa o que aconteça, não olhe pra baixo!
 
 message_133:
     faceset: MainCharacter_Mari
@@ -430,27 +430,27 @@ message_137:
 message_140:
     faceset: MainCharacter_Mari
     faceindex: 0
-    text: \marAgora, OMORI...\! eu sei o que você está pensando...\!<br>Você está pensando...\!<br>"Uau, mana. Esse é um lugar estranho para fazer um piquenique."
+    text: \marAgora, OMORI...\! eu sei o que você está pensando...\!<br>Você está pensando...\!<br>"Uau, mana. Esse é um lugar estranho pra fazer um piquenique."
 
 message_141:
     faceset: MainCharacter_Mari
     faceindex: 2
-    text: \marBem...\! Me deixe te contar...\!
+    text: \marBem...\! Deixa eu te contar...\!
 
 message_142:
     faceset: MainCharacter_Mari
     faceindex: 3
-    text: \marO recomendado deve ser fazer piqueniques somente em lugares normais como florestas ou campos...\!<br>Mas... onde está a diversão nisso?
+    text: \marO recomendado é fazer piqueniques somente em lugares normais como florestas ou campos...\!<br>Mas... onde está a diversão nisso?
 
 message_143:
     faceset: MainCharacter_Mari
     faceindex: 5
-    text: \marE se eu quiser estudar a anatomia de uma baleia enquanto como?\! O que eu faço?
+    text: \marE se eu quiser estudar a anatomia de uma baleia enquanto eu como?\! O que eu faço?
 
 message_144:
     faceset: MainCharacter_Mari
     faceindex: 6
-    text: \marPense alto, OMORI!\!<br>Eu preciso ser um exemplo para o meu um pouco entediante<br>irmãozinho!
+    text: \marPense além, OMORI!\!<br>Eu preciso ser um exemplo pro meu irmãozinho um pouco entediante!
 
 # =========================================================================================
 # FROZEN FOREST - BEFORE SNOW ANGELS
@@ -459,7 +459,7 @@ message_144:
 message_150:
     faceset: MainCharacter_Mari
     faceindex: 4
-    text: \mar\quake[1]Brrrr...\quake[0]\! Está um pouco frio aqui em cima ou sou só eu?\!<br>Não parece que esse lugar recebe muitos visitantes...
+    text: \mar\quake[1]Brrrr...\quake[0]\! Tá um pouco frio aqui em cima ou sou só eu?\!<br>Não parece que esse lugar recebe muitos visitantes...
 
 message_151:
     faceset: MainCharacter_Mari
@@ -479,7 +479,7 @@ message_155:
 message_156:
     faceset: MainCharacter_Mari
     faceindex: 4
-    text: \marEu tentei oferecer um pouco de comida para uma delas antes, mas ela me chamou de estúpida e jogou de volta em mim...
+    text: \marEu tentei oferecer um pouco de comida pra uma delas antes, mas ela me chamou de estúpida e jogou de volta em mim...
 
 
 message_157:
@@ -494,7 +494,7 @@ message_157:
 message_160:
     faceset: MainCharacter_Mari
     faceindex: 3
-    text: \marvejo que estão ocupados.\! Espero que estejam tendo uma boa aventura.
+    text: \marVejo que estão ocupados.\! Espero que estejam tendo uma boa aventura.
 
 message_161:
     faceset: MainCharacter_Mari
