@@ -61,7 +61,7 @@ message_10:
 message_11:
     faceset: MainCharacters_DreamWorld
     faceindex: 10
-    text: \aubPor que ele faz essas coisas?\! Ele é tão imaturo...\! <br>Quero dizer, o que eu fiz de ruim pra ele!?
+    text: \aubPor que ele faz essas coisas?\! Ele é tão imaturo...\! <br>Quero dizer, o que eu fiz de ruim para ele!?
 
 message_12:
     faceset: MainCharacters_DreamWorld
@@ -81,12 +81,12 @@ message_13:
 message_14:
     faceset: MainCharacters_DreamWorld
     faceindex: 17
-    text: \kelÉ um pet-drito... Ele não é incrível?
+    text: \kelÉ um pet drito... Ele não é incrível?
 
 message_15:
     faceset: MainCharacters_DreamWorld
     faceindex: 35
-    text: Um pequeno pet-drito olha fixamente para você dentro do BOLSO do \n[3]
+    text: Um pequeno pet drito olha fixamente para você dentro do BOLSO do \n[3]
 
 message_16:
     faceset: MainCharacters_DreamWorld
@@ -145,7 +145,7 @@ message_29:
 message_30:
       faceset: MainCharacters_DreamWorld
       faceindex: 30
-      text: \Com[2]M-Mas o que?\! Onde que você conseguiu isso?\kel
+      text: \Com[2]M-Mas o quê?\! Onde que você conseguiu isso?\kel
 
 message_31:
       faceset: MainCharacters_DreamWorld
@@ -167,7 +167,7 @@ message_33:
 message_34:
       faceset: MainCharacters_DreamWorld
       faceindex: 1
-      text: Na sua...\! o que?\aub
+      text: Na sua...\! o quê?\aub
 
 message_35:
       faceset: MainCharacters_DreamWorld
@@ -208,7 +208,7 @@ message_39:
 message_43:
     faceset: MainCharacters_DreamWorld
     faceindex: 38
-    text: \herA MARI e o BASIL nos convidaram pra um piquenique no parquinho!\!<br>Você quer ir lá ver eles??
+    text: \herA MARI e o BASIL nos convidaram pra um piquenique no parquinho!\!<br>Você quer ir lá ver eles?
 
 message_40:
     faceset: MainCharacters_DreamWorld
@@ -263,7 +263,7 @@ message_58:
   #AUBREY is off screen
 
 message_59:
-      text: \Com[2]Ei, espera um poquinho!\aub
+      text: \Com[2]Ei, espera um pouquinho!\aub
 
   #AUBREY pops out of the stump half-way
 
