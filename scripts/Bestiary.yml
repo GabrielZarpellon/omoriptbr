@@ -13,7 +13,7 @@ Information:
     listIndex: 0
 
     text: |
-        Critaturas fofas e felpudas
+        Criaturas fofas e felpudas
         que podem ou não atacar
         pessoas desavisadas...
 
@@ -21,7 +21,7 @@ Information:
 
 
         Eu acho que daria um
-        animal de estimação fofo
+        animal de estimação fofo!
 
         - AUBREY
 
@@ -55,9 +55,9 @@ Information:
 
     text: |
         Uma perigosa e hostil criatura
-        de planta. É dito que
-        ela é inteligente, Mas não é.
-        Tem cheiro de
+        de planta. Elas dizem ser
+        inteligentes, mas não acredite.
+        Elas não são. Tem cheiro de
         roupa suja.
 
         - OMORI
@@ -82,7 +82,7 @@ Information:
     listIndex: 4
 
     text: |
-        O coelho mais espirrável de todos.
+        O coelho mais espirrento de todos.
         Gosta de se esconder em estantes
         e embaixo da cama. Parece
         um pouco tímido...
@@ -106,7 +106,7 @@ Information:
 
 
         Eu acho que ele fica no
-        mundo da lua? Heh. Sacou?
+        mundo da lua! Heh. Sacou?
 
         -HERO
 
@@ -193,7 +193,7 @@ Information:
         - OMORI
 
 
-        Eu coletava esses à um tempo
+        Eu coletava esses a um tempo
         atrás! Então foi aqui onde tudo
         foi parar...
 
@@ -324,7 +324,7 @@ Information:
     listIndex: 17
 
     text: |
-        Espiritos de COELHO hostis,
+        Espíritos de COELHO hostis,
         gritando por vingança.
 
         - OMORI
@@ -514,7 +514,7 @@ Information:
     listIndex: 28
 
     text: |
-        A.K.A.
+        Também conhecida como
         PEQUENA MORANGO-COBRA,
         uma cobrinha com um nome
         enorme.
@@ -657,7 +657,7 @@ Information:
         - HERO
 
 
-        Nada mais que uma
+        Nada mais do que uma
         asinha de frango!
 
         - KEL
@@ -730,7 +730,7 @@ Information:
     text: |
         A criatura mais desprezível
         do planeta. Não tem amigos,
-        nunca é chamado para festas,
+        nunca é chamado para festas
         e é horrível em fazer piadas.
 
         - OMORI
@@ -945,7 +945,7 @@ Information:
 
     text: |
         Uma aparição um pouco fofa que
-        as vezes solta frases sinistras como
+        às vezes solta frases sinistras como
         “Quando não tiver mais espaço
         no Inferno, os pães deveram caminhar
         sob a Terra.”
@@ -1004,7 +1004,7 @@ Information:
     text: |
         Um pedaço de neve não
         intencionalmente amaldiçoado.
-        Me pergunto o por que ele esta vivo.
+        Me pergunto por que ele está vivo.
 
         - OMORI
 
@@ -1053,7 +1053,7 @@ Information:
         BROTOPEIRAS. É dito que
         ele ama toda a vida da 
         floresta e a maioria delas
-        vem dele.
+        vêm dele.
 
         Quando não está ocupado
         mantendo o equilíbrio da
@@ -1182,7 +1182,7 @@ Information:
         - OMORI
 
   451:
-    name: REI CARNIVORO
+    name: REI CARNÍVORO
     background: {name: 'battleback_sm_default', x: 0, y: 0}
     position: {x: 160, y: 500}
     character: {name: 'DW_NPC_18', index: 5}
@@ -1191,7 +1191,7 @@ Information:
     text: |
         Um dos muitos predadores 
         de BROTOPEIRAS. O REI 
-        CARNIVORO invade o habitat
+        CARNÍVORO invade o habitat
         das BROTOPEIRAS escavando
         o subsolo. Eles preferem 
         as suas BROTOPEIRAS quentes
@@ -1385,7 +1385,7 @@ Information:
     listIndex: 76
 
     text: |
-        Os capangas fieis e confiáveis
+        Os capangas fiéis e confiáveis
         do SR. MANDIBARÃO.
         É bem provável que todos eles
         tenham assinado contratos 
