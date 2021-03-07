@@ -34,7 +34,7 @@ message_8:
       text: Você está com fome.
 
 message_9:
-      text: Você de repente se sente ATERRORIZADO.
+      text: Você de repente se sente APAVORADO.
 
 #Examine Fridge
 
@@ -115,7 +115,7 @@ message_51:
       text: \"Eu achava que eu poderia voltar para ver você hoje, mas é o útlimo dia da venda de móveis e eu não consigo resistir uma boa barganha!\"<br>\"Você pode se cuidar por mais alguns dias, certo?\!<br>Além do mais, você já é grandinho!\"\n<VOICEMAIL DA MÃE>
 
 message_52:
-      text: \"Lembre-se de terminar suas tarefas antes de eu voltar.\! Eu deixei a lista na mesa próxima a porta.\! Okay, isso é tudo!\! Tchau, filhinho!\! MAMÃE te ama!\"\!\quake[1] \}Bzzt...\quake[0]\n<VOICEMAIL DA MÃE>
+      text: \"Lembre-se de terminar suas tarefas antes de eu voltar.\! Eu deixei a lista na mesa próxima a porta.\! Ok, isso é tudo!\! Tchau, filhinho!\! MAMÃE te ama!\"\!\quake[1] \}Bzzt...\quake[0]\n<VOICEMAIL DA MÃE>
 
 #Day 2:
 
