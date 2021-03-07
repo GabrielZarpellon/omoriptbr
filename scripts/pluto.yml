@@ -106,7 +106,7 @@ message_15:
     text: \herN-Não? Não podemos dizer que vimos...
 
 message_16:
-    text: \n<MANO PIRATA ESPACIAL>Sério?\! ... ... ... \!Bem, essa é a vida!\!<br>Vamo lá, vamos continuar procurando.\!<br>Encontraremos ele eventualmente!
+    text: \n<MANO PIRATA ESPACIAL>Sério?\! ... ... ... \!Bem, essa é a vida!\!<br>Vamo lá, vamos continuar procurando.\!<br>Encontraremos ele alguma hora!
 
 #SPACE PIRATES leave
 #KEL turns around
@@ -137,16 +137,16 @@ message_22:
     text: \whoEntendo! Cinco belos nomes para cinco belos jovens!
 
 message_23:
-    text: \pluMeu nome é PLUTÃO, eu sou um planeta interestelar...\!<br>Um fora da lei pode se dizer.\! Eu me desculpo por ter causado<br>tanto problema.
+    text: \pluMeu nome é PLUTÃO, eu sou um planeta interestelar...\!<br>Um fora da lei pode se dizer.\! Eu me desculpo por ter causado<br>tantos problemas.
 
 message_24:
-    text: \pluMas...\! Eu sinto que não é o meu propósito agir com uma mera decoração de jardim.
+    text: \pluMas...\! Eu sinto que não é o meu propósito agir como uma mera decoração de jardim.
 
 #PLUTO turns up
 #Background below turns into space parallax
 
 message_25:
-    text: \pluEu quero a liberdade para vagar pelo céus como eu quiser, que nem os passáros e as estrelas!
+    text: \pluEu quero a liberdade para vagar pelos céus como eu quiser, que nem os passáros e as estrelas!
 
 message_26:
     text: \pluSe isso me faz um planeta interestelar, então que seja.<br>\!Eles podem me chamar do que eles quiserem,<br>desde que eu esteja livre para fazer o que eu bem entendo!
@@ -249,7 +249,7 @@ message_42:
     text: \pluUma carona para o acampamento de \c[11]OUTRO MUNDO\c[0], saindo!
 
 message_49:
-    text: \pluEu não vou desaponta-los, jovens viajantes!\!<br>Deixem comigo!
+    text: \pluEu não vou desapontá-los, jovens viajantes!\!<br>Deixem comigo!
 
 
 # =========================================================================================
@@ -350,7 +350,7 @@ message_200:
     text: \pluEntão você quer ir para \v[1000]?
 
 message_210:
-    text: \pluVocê não disse que queria ir para o acampamento de \c[11]OUTRO MUNDO\c[0]?\! Sentem-se, relaxem, e aproveitem a carona.\! Essa tá por mim!
+    text: \pluVocê não disse que queria ir para o acampamento de \c[11]OUTRO MUNDO\c[0]?\! Sentem-se, relaxem, e aproveitem a carona.\! Essa é por minha conta!
 
 #YES --> You got it (message 48)
 #NO --> Greetings and welcome... (message 47)
@@ -382,7 +382,7 @@ message_121:
 # =========================================================================================
 
 message_160:
-  text: OUTRO MUNDO
+  text: O OUTRO-MUNDO
 
 message_161:
   text: OÁSIS LARANJA
