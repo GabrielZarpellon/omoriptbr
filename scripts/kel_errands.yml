@@ -7,7 +7,7 @@
 #==================================================================
 
 message_0:
-      text: \n<CARA DA PIZZA>Olá e bem vindo a \c[11]PIZZARIA DO GINO\c[0]!\!<br>O que eu posso fazer por vocês?
+      text: \n<CARA DA PIZZA>Olá e bem-vindo a \c[11]PIZZARIA DO GINO\c[0]!\!<br>O que eu posso fazer por vocês?
 
 message_1:
       faceset: MainCharacters_Faraway
@@ -70,7 +70,7 @@ message_12:
 #==================================================================
 
 message_20:
-      text: \n<SR. PADEIRO>Bem vindo a padaria da nossa família! O que você gostaria de comprar?
+      text: \n<SR. PADEIRO>Bem-vindo a padaria da nossa família! O que você gostaria de comprar?
 
 message_21:
       faceset: MainCharacters_Faraway
@@ -85,7 +85,7 @@ message_22:
 message_23:
       faceset: MainCharacters_Faraway
       faceindex: 17
-      text: \kelVocê sabia? Essa padaria pertence a família do MIKHAEL.\!<br>Eu acho que não da pra dizer muito bem, por que ele tá sempre usando aquela peruca amarela rídicula...
+      text: \kelVocê sabia? Essa padaria pertence a família do MIKHAEL.\!<br>Eu acho que não dá pra reconhecer muito bem, porque ele tá sempre usando aquela peruca amarela rídicula...
 
 message_24:
       faceset: MainCharacters_Faraway
