@@ -41,7 +41,7 @@ message_11:
 message_12:
     faceset: MainCharacters_DreamWorld
     faceindex: 18
-    text: \kelNhom, nhom, nhom...\!<br>\Com[2]Uhull! Obrigado, MARI! Você é a melhor!
+    text: \kelNhom, nhom, nhom...\!<br>\Com[2]Woo-hoo! Obrigado, MARI! Você é a melhor!
 
 message_13:
     faceset: MainCharacter_Mari
@@ -149,12 +149,12 @@ message_32:
 message_40:
     faceset: MainCharacter_Mari
     faceindex: 0
-    text: \marBem-vindos ao \c[11]OUTRO-MUNDO\c[0]...\! uma parada não oficial para viajantes espaciais e um bom lugar para acampar!
+    text: \marBem-vindos ao \c[11]OUTRO MUNDO\c[0]...\! uma parada não oficial para viajantes espaciais e um bom lugar para acampar!
 
 message_41:
     faceset: MainCharacter_Mari
     faceindex: 3
-    text: \mar\sinv[1]Ahhhhhhhh...\!\sinv[0]<br>Você não ama o cheiro das fogueiras?\! E o som de água corrente?\! E a brisa limpa do espaço?
+    text: \mar\sinv[1]Ahhhhhhhh...\!\sinv[0]<br>Você não ama o cheiro de fogueiras?\! E o som de água corrente?\! E a brisa limpa do espaço?
 
 message_42:
     faceset: MainCharacter_Mari
@@ -179,7 +179,7 @@ message_51:
 message_52:
     faceset: MainCharacter_Mari
     faceindex: 2
-    text: \marEi, eu sei!\! Nós devíamos esquiar algum dia!\!<br>Não parece divertido, OMORI?
+    text: \marEi, eu sei!\! Nós devíamos ir esquiar algum dia!\!<br>Não parece divertido, OMORI?
 
 # =========================================================================================
 # JUNKYARD
@@ -257,7 +257,7 @@ message_90:
 message_91:
     faceset: MainCharacter_Mari
     faceindex: 6
-    text: \marQue tal comer alguns picles de pepino? Hihi...
+    text: \marI Que tal comer alguns? Hihi...
 
 message_92:
     faceset: MainCharacters_DreamWorld
@@ -288,7 +288,7 @@ message_96:
 message_97:
     faceset: MainCharacter_Mari
     faceindex: 2
-    text: \marRealmente está quente aqui fora, né...\!<br>Lembrem-se de se manterem hidratados, pessoal!
+    text: \marRealente está quente aqui fora, né...\!<br>Lembrem-se de se manterem hidratados, pessoal!
 
 
 # =========================================================================================
@@ -337,7 +337,7 @@ message_112:
 message_113:
     faceset: MainCharacters_DreamWorld
     faceindex: 10
-    text: \aub\Com[2]KEL, seu patetão! Deixe um pouco pra gente!
+    text: \aub\Com[2]KEL, seu patetão! Deixe um pouco para nós!
 
 message_114:
     faceset: MainCharacters_DreamWorld
@@ -396,7 +396,7 @@ message_130:
 message_131:
     faceset: MainCharacter_Mari
     faceindex: 0
-    text: \marParece que tem uma longa ponte à frente.
+    text: \marParece que tem uma longa ponte a frente.
 
 message_132:
     faceset: MainCharacter_Mari
@@ -494,7 +494,7 @@ message_157:
 message_160:
     faceset: MainCharacter_Mari
     faceindex: 3
-    text: \marVejo que estão ocupados.\! Espero que estejam tendo uma boa aventura.
+    text: \marvejo que estão ocupados.\! Espero que estejam tendo uma boa aventura.
 
 message_161:
     faceset: MainCharacter_Mari
