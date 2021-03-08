@@ -291,7 +291,7 @@ message_63:
 #Jogen
 #Last Resort Hotel Room
 message_65:
-      text: \n<JOGEN>Sou o campeão do pedra, papel e tesoura!\! Se você me vencer no pedra,papel e tesoura, Eu vou te dar todas as minhas economias!
+      text: \n<JOGEN>Sou o campeão do pedra, papel e tesoura!\! Se você me vencer no pedra, papel e tesoura, Eu vou te dar todas as minhas economias!
 
 message_81:
       text: O que você vai escolher?
@@ -317,7 +317,7 @@ message_76:
 
 #ROCK:
 message_78:
-      text: \n<JOGEN>O que?\! Um empate!?\! Da próxima vez, eu serei vitorioso!
+      text: \n<JOGEN>O quê?\! Um empate!?\! Da próxima vez, eu serei vitorioso!
 
 
 #PAPER:
@@ -334,7 +334,7 @@ message_72:
       text: \n<JOGEN>Por favor não gaste tudo em um lugar só...
 
 message_74:
-      text: \n<JOGEN>E com a minha conta do banco vazia...\! Eu acho que vou ir pra estaca zero...\! Me tornarei o campeão novamente!
+      text: \n<JOGEN>E com a minha conta do banco vazia...\! Eu acho que vou pra estaca zero...\! Me tornarei o campeão novamente!
 
 
 #backing out
@@ -344,7 +344,7 @@ message_83:
 #Drew
 #Location: Last Resort Casino
 message_67:
-      text: \n<DREW>Oi, Sou novo aqui!\! Não ligo pro trampo, mas eu amo os funcionários.\! O SILKER está sempre contando piadas!\! Ele é um cara engraçado.
+      text: \n<DREW>Oi, Sou novo aqui!\! Não ligo pro trampo, mas eu amo os funcionários.\! O SILKER tá sempre contando piadas!\! Ele é um cara engraçado.
 
 #Morgan
 #Location: Otherworld Campsite
@@ -459,7 +459,7 @@ message_357:
 #Grunty
 #[UNPLACED]
 message_98:
-      text: \n<GRUNTY>Dá ultima vez que fui ao \c[11]CAVA-SAURO\c[0], encontrei tesouros incríveis!
+      text: \n<GRUNTY>Da última vez que fui ao \c[11]CAVA-SAURO\c[0], encontrei tesouros incríveis!
 
 message_99:
       text: \n<GRUNTY>Mas agora eu tentei o \c[11]CAVA-SAURO\c[0], e só achei algumas \c[3]BARRAS DE GRANOLA\c[0]...
@@ -584,7 +584,7 @@ message_126:
 #Goosey
 #Location: Train Station
 message_128:
-      text: \n<GOOSEY>Essa fila imensa é a desculpa perfeita para eu me adiantar no meu sono rejuvenecedor!
+      text: \n<GOOSEY>Essa fila imensa é a desculpa perfeita pra eu me adiantar no meu sono rejuvenecedor!
 
 
 
@@ -617,7 +617,7 @@ message_132:
 
 #Location 2: Last Resort
 message_133:
-      text: \n<JERKO>\com[2]O que esse chefe ta pensando falando para todo mundo esperar?\!<br>Quem ele acha que é!?\! Alguns de nós tem uma vida, sabe?
+      text: \n<JERKO>\com[2]O que esse chefe tá pensando falando pra todo mundo esperar?\!<br>Quem ele acha que é!?\! Alguns de nós tem uma vida, sabe?
 
 
 
@@ -707,7 +707,7 @@ message_156:
       text: \n<PELOTA>A água dessa lagoa é tão cristalina!\! Parece até que tem um mundo inteiro do outro lado!
 
 message_157:
-      text: \n<PELOTA>A água dessa lagoa está ficando meio turva...\! O que aconteceu?\! Era tão limpa antes...
+      text: \n<PELOTA>A água dessa lagoa tá ficando meio turva...\! O que aconteceu?\! Era tão limpa antes...
 
 #Loam
 #Location: Otherworld Lake
@@ -874,7 +874,7 @@ message_194:
 #Simple Roach
 #Location: SW Kitchen
 message_195:
-      text: \n<BARATA SIMPLES>\com[2]Ah! Fui encontrada!\! Por favor não conte para ninguém que eu estou aqui!\!<br>É que eu gosto de lanchar na dispensa...\! Assim... todo mundo faz isso!
+      text: \n<BARATA SIMPLES>\com[2]Ah! Fui encontrada!\! Por favor não conte pra ninguém que eu estou aqui!\!<br>É que eu gosto de lanchar na dispensa...\! Assim... todo mundo faz isso!
 
 message_196:
       text:
@@ -882,7 +882,7 @@ message_196:
 #Spaghetti
 #Location: Mr. Jawsum's Concierge
 message_197:
-      text: \n<ESPAGUETE>Esse cara do meu lado está tramando algo suspeito... mas eu não sei o que...
+      text: \n<ESPAGUETE>Esse cara do meu lado está tramando algo suspeito... mas eu não sei o quê...
 
 message_198:
       text:
@@ -902,7 +902,7 @@ message_201:
       text: \n<BAFINO>Uau! Pagar pela experiência VIP foi a melhor decisão que eu já fiz!
 
 message_202:
-      text: \n<BAFINO>Eu acabei de chegar de um bufê "tudo-que-você-consegue-gastar" muito caro, e ouvi dizer que vai ter um leilão valendo um \c[3]TOFU\c[0] hoje à noite!\! Pode contar que estarei la!
+      text: \n<BAFINO>Eu acabei de chegar de um bufê "tudo-que-você-consegue-gastar" muito caro, e ouvi dizer que vai ter um leilão valendo um \c[3]TOFU\c[0] hoje à noite!\! Pode contar que estarei lá!
 
 message_203:
       text:
@@ -1005,13 +1005,13 @@ message_413:
       text: \n<SR. SERTÃO>\sinv[1]Irraaaaa!\sinv[0]\! Essa é boa!\! Por onde eu começo?\! Hmm...\! Bom, esse lugar existe desde o ínicio do tempo, creio eu.
 
 message_419:
-      text: \n<SR. SERTÃO>Ele é diferente para cada um...\! mas dessa vez, é muito colorido e fofinho na maior parte...\! sem mencionar que é gigante!<br>Essa sua imaginação é poderosa, garoto.
+      text: \n<SR. SERTÃO>Ele é diferente pra cada um...\! mas dessa vez, é muito colorido e fofinho na maior parte...\! sem mencionar que é gigante!<br>Essa sua imaginação é poderosa, garoto.
 
 message_414:
       text: \n<SR. SERTÃO>Bem, sei que seu amigo não tá aqui!\! Mas eu acho que ocê sabe como descobrir essa resposta.\! Quando alguém busca a verdade...\! o mundo criará um conjunto de CHAVES.<br>e estas CHAVES...\! elas tomam uma forma diferente dependendo das intenções da pessoa.\! Ocê sabe como suas chaves se parecem, não é mesmo?\! É só apertar \DII[pageup]!
 
 message_417:
-      text: \n<SR. SERTÃO>\com[2]Não sabe que é falta de educação perguntar isso para um idoso?\! Eu diria que tenho uns 33000 anos, mais ou menos...\! mas não é como isso importasse agora.
+      text: \n<SR. SERTÃO>\com[2]Não sabe que é falta de educação perguntar isso pra um idoso?\! Eu diria que tenho uns 33000 anos, mais ou menos...\! mas não é como isso importasse agora.
 
 message_415:
       text: \n<SR. SERTÃO>Agora é bom vocês darem no pé!\! É uma longa jornada a seguir, jovens trombadinhas!
@@ -1197,7 +1197,7 @@ message_266:
       text: \n<BROTOPEIRA MORDOMO>Eu e os manos estamos pensando em ir ao karaokê essa semana.\! Vocês deviam ir com a gente!
 
 message_267:
-      text: \n<BROTOPEIRA MORDOMO>Vou cantar com minha alma no karaokê dessa semana!\! Ninguém pode superar meu cover de \"NÃO PARE SWEETHEART\"!
+      text: \n<BROTOPEIRA MORDOMO>Vou cantar com minha alma no karaokê dessa semana!\! Ninguém pode superar meu cover de \"DON'T STOP SWEETHEART\"!
 
 message_268:
       text: \n<BROTOPEIRA EMPREGADA>Eu também quero ir no karaokê...
@@ -1294,7 +1294,7 @@ message_314:
       text: \n<SIR MAXIMUS IV>Em uma reviravolta cruel do destino, eu perdi minha família inteira em um dia... \! Maldição...\! Se eu fosse mais forte...
 
 message_315:
-      text: \n<SIR MAXIMUS IV>Ai ai...\! REUBEN...\! vou tomar mais uma para afogar as mágoas.
+      text: \n<SIR MAXIMUS IV>Ai ai...\! REUBEN...\! vou tomar mais uma pra afogar as mágoas.
 
 message_316:
       text: \n<REUBEN>É pra já, MAX!
@@ -1336,7 +1336,7 @@ message_325:
 message_326:
       faceset: MainCharacters_DreamWorld
       faceindex: 47
-      text: \herO que?\! Você tentou comer as mesas?\! Você consegue fazer isso?
+      text: \herO quê?\! Você tentou comer as mesas?\! Você consegue fazer isso?
 
 #HERO looks at TABLEs
 
@@ -1382,7 +1382,7 @@ message_39:
       text: \n<BREEZY>\sinv[1]Esvazie a mente... Relaxe.\! Bem-vindo à vila de boa...
 
 message_340:
-      text: \n<PAPA CHIP>Eu souu o PAPA CHIP!
+      text: \n<PAPA CHIP>Eu sou o PAPA CHIP!
 
 message_341:
       text: \n<CRIANÇA PÃO>\quake[1]Hiss...
@@ -1390,7 +1390,7 @@ message_341:
 #Extras
 #Location: Slime Girls Lair
 message_500:
-      text: \n<HUMPHREY>Ei, qual é.\! Você tem que escolher alguem!\!<br>Me ajuda, ok?
+      text: \n<HUMPHREY>Ei, qual é.\! Você tem que escolher alguém!\!<br>Me ajuda, ok?
 
 
 #DEEPER Well/BLACK SPACE
@@ -1429,7 +1429,7 @@ message_606:
 #-
 
 message_609:
-      text: \n<AUSENTE>O universo está repleto de perguntas que você nunca vai responder.\! Mesmo assim...\! existem algumas que só você tem a resposta.<br>\!Quando a verdade for revelada, o que você vai fazer?
+      text: \n<AUSENTE>O universo está repleto de perguntas que você nunca vai responder.\! Mesmo assim...\! existem algumas que só você possui a resposta.<br>\!Quando a verdade for revelada, o que você vai fazer?
 
 #-
 
