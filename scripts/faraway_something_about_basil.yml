@@ -10,12 +10,12 @@
 message_1:
       faceset: MainCharacters_Faraway
       faceindex: 2
-      text: \aubSabe...\! depois que todos se separaram...\! eu me senti tão sozinho.
+      text: \aubSabe...\! depois que todos se separaram...\! eu me senti tão sozinha.
 
 message_2:
       faceset: MainCharacters_Faraway
       faceindex: 27
-      text: \aubMas agora, eu percebi que era que estava me afastando de todos.
+      text: \aubMas agora, eu percebo que era que estava me afastando de todos.
 
 message_3:
       faceset: MainCharacters_Faraway
@@ -30,17 +30,17 @@ message_4:
 message_5:
       faceset: MainCharacters_Faraway
       faceindex: 4
-      text: \aubEu senti como se todos tivessem me abandonado...<br>e abandonado a MARI também...
+      text: \aubEu senti como se todos tivessem me abandonado... e abandonado a MARI também...
 
 message_6:
       faceset: MainCharacters_Faraway
       faceindex: 2
-      text: \aubMas eu não enxergava como cada um 'tava lidando com a dor da sua própria maneira.
+      text: \aubMas eu não enxergava como cada um tava lidando com a dor da sua própria maneira.
 
 message_7:
       faceset: MainCharacters_Faraway
       faceindex: 0
-      text: \aubUm pouco depois, \n[8] parou de ir pra escola...\! Eu vi o BASIL almoçando sozinho na escola...\! então eu perguntei pra ele se poderíamos estudar na casa dele...
+      text: \aubUm pouco depois, o \n[8] parou de ir pras aulas...\! Eu vi o BASIL almoçando sozinho na escola...\! então eu perguntei pra ele se poderíamos estudar na casa dele...
 
 message_8:
       faceset: MainCharacters_Faraway
@@ -55,7 +55,7 @@ message_30:
 message_9:
       faceset: MainCharacters_Faraway
       faceindex: 0
-      text: \aubE quando a gente chegou no quarto dele, eu tentei conversar...\!<br>mas ele disse que precisava ir pro banheiro e saiu correndo.
+      text: \aubE quando a gente chegou no quarto dele, eu tentei conversar...\! mas ele disse que precisava ir pro banheiro e saiu correndo.
 
 message_50:
       faceset: MainCharacters_Faraway
@@ -75,7 +75,7 @@ message_11:
 message_12:
       faceset: MainCharacters_Faraway
       faceindex: 6
-      text: \aubEu não consegui acreditar...\! Ele tinha até rabiscado o rosto da MARI...
+      text: \aubEu não conseguia acreditar...\! Ele tinha até rabiscado o rosto da MARI...
 
 message_13:
       faceset: MainCharacters_Faraway
@@ -120,7 +120,7 @@ message_20:
 message_21:
       faceset: MainCharacters_Faraway
       faceindex: 8
-      text: \aubEngraçado.\! O que eu tenho feito foi pior do que o que BASIL fez, mas era eu quem estava com raiva dele...
+      text: \aubEngraçado.\! O que eu tenho feito foi pior do que o BASIL fez, mas era eu quem estava com raiva dele...
 
 message_22:
       faceset: MainCharacters_Faraway
@@ -138,7 +138,7 @@ message_23:
 message_24:
       faceset: MainCharacters_Faraway
       faceindex: 19
-      text: \kelNaquela época, eu não entendia muito bem o que estava acontecendo...\! Eu fiquei com medo de piorar tudo...\! então eu decidi só sair de tudo.
+      text: \kelNaquela época, eu não entendia muito bem o que tava acontecendo...\! Eu fiquei com medo de piorar tudo...\! então eu decidi só sair de tudo.
 
 message_25:
       faceset: MainCharacters_Faraway
@@ -252,7 +252,7 @@ message_47:
 message_48:
       faceset: MainCharacters_Faraway
       faceindex: 27
-      text: \aubA gente devia ir ver se o BASIL já tá em casa mais tarde.
+      text: \aubA gente devia ir ver mais tarde se o BASIL já tá em casa.
 
 message_49:
       faceset: MainCharacters_Faraway
