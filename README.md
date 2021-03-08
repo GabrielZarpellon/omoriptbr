@@ -1,8 +1,8 @@
-# omoriptbr
-Um mod que traduz o jogo OMORI para português. (A mod that translates OMORI to portuguese)
+<h1 align="center">Tradução PT-BR de OMORI</h1>
+<p align="center">Um mod que traduz o jogo OMORI para português. (A mod that translates OMORI to portuguese)</p>
 
 
---INTRODUÇÃO--
+<h2>--INTRODUÇÃO--</h2>
 
 Você agora acabou de baixar o mod que traduz o jogo OMORI para PT-BR, este arquivo README.md contêm informações
 importantes sobre como instalá-lo e mais alguns agradecimentos especiais do nosso time.
@@ -10,10 +10,10 @@ importantes sobre como instalá-lo e mais alguns agradecimentos especiais do nos
 Então.....você está esperando algo acontecer?
 
 
---TUTORIAL DE INSTALAÇÃO--
+<h2>--TUTORIAL DE INSTALAÇÃO--</h2>
 
 1ºEtapa:
-  Baixe um programa chamado Gilbert's Mod loader(GOMORI) via este link: https://github.com/GilbertGobbels/gomori/releases
+  Baixe um programa chamado Gilbert's Mod loader(GOMORI) via este <a href="https://github.com/GilbertGobbels/gomori/releases">link</a>
   (Baixe sempre a versão mais atualizada o possível, talvez você encontrará problemas se usar uma versão anterior à 2.2.0)
 
 2ºEtapa:
