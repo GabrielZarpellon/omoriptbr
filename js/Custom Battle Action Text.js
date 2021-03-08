@@ -784,8 +784,7 @@ switch (type) {
 
     //SPROUT MOLE//
     case 'SPROUT ATTACK':  // SPROUT MOLE ATTACK
-      text = user.name() + ' esbarra\r\n' 
-      text += 'em ' + target.name() + '!\r\n';
+      text = user.name() + ' esbarra em ' + target.name() + '!\r\n';
       text += hpDamageText;
       break;
 
