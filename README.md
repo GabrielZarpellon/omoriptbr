@@ -14,7 +14,7 @@ Então.....você está esperando algo acontecer?
 
 1ºEtapa:
   Baixe um programa chamado Gilbert's Mod loader(GOMORI) via este link: https://github.com/GilbertGobbels/gomori/releases
-  (Por favor, baixe sempre a versão mais atualizada o possível, talvez você encontrará problemas se usar uma versão anterior à 2.2.0)
+  (Baixe sempre a versão mais atualizada o possível, talvez você encontrará problemas se usar uma versão anterior à 2.2.0)
 
 2ºEtapa:
   Acesse os arquivos do jogo pela Steam(abra a Steam, vá ao jogo na sua biblioteca, clique na engrenagem à direita e depois em "Navegar pelos arquivos locais") ou 
