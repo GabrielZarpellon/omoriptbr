@@ -46,7 +46,7 @@ message_41:
       text: Espera aí, \n[8]! Não podemos simplesmente sair com toda essa grana!\! Nós precisamos comprar a \c[4]LUMINÁRIA DE PISO\c[0] primeiro!
 
 message_42:
-      text: \n<CARA DO REPARA-JÁ>Então os moleques querem comprar uma \c[4]LUMINÁRIA DE PISO\c[0], huh?\! Bom, a que vocês estão olhando custa mais ou menos...\! uh...\! $50.00.\! 'Cês' vão querer ou não?
+      text: \n<CARA DO REPARA-JÁ>Então os moleques querem comprar uma \c[4]LUMINÁRIA DE PISO\c[0], huh?\! Bom, a que vocês estão olhando custa mais ou menos...\! uh...\! $50.00.\! Cês vão querer ou não?
 
 message_43:
       text: \n<CARA DO REPARA-JÁ>Legal, aqui está sua \c[4]LUMINÁRIA DE PISO\c[0] novinha em folha.\!<br>Sem reembolsos ou trocas, beleza?\! É a política da empresa.
@@ -56,15 +56,15 @@ message_43:
 
 #If you are wearing a red headband
 message_51:
-      text: \n<CARA DA LARANJA>MEU DEUS!\! Isso é um...\! \c[13]ARCO VERMELHO\c[0]...\! que você está vestindo?\! Eu me recuso a te vender qualquer \c[3]SUCO DE LARANJA\c[0] até que você tire isso fora!
+      text: \n<CARA DA LARANJA>MEU DEUS!\! Isso é uma...\! \c[13]BANDANA VERMELHA\c[0]...\! que você está vestindo?\! Eu me recuso a te vender qualquer \c[3]SUCO DE LARANJA\c[0] até que você tire isso fora!
 
 #After buying 5 Orange juices
 message_52:
-      text: \n<CARA DA LARANJA>Ah, verdade! Antes que você vá, aqui está um pequeno presente por ser um freguês tão leal!\! É um \c[13]ARCO LARANJA\c[0], a cor das laranjas!\! Não há nada melhor!
+      text: \n<CARA DA LARANJA>Ah, verdade! Antes que você vá, aqui está um pequeno presente por ser um freguês tão leal!\! É uma \c[13]BANDANA LARANJA\c[0], a cor das laranjas!\! Não há nada melhor!
 
 #If HERO is wearing a red headband
 message_53:
-      text: \n<CARA DA LARANJA>Vejo que um dos seus amigos está vestindo um \c[13]ARCO VERMELHO\c[0]...\! Embora eu não aprove isso normalmente, combina muito bem com ele.\! Eu vou perdoá-lo, mas apenas essa vez!
+      text: \n<CARA DA LARANJA>Vejo que um dos seus amigos está vestindo um \c[13]BANDANA VERMELHA\c[0]...\! Embora eu não aprove isso normalmente, combina muito bem com ele.\! Eu vou perdoá-lo, mas apenas essa vez!
 
 message_54:
       faceset: MainCharacters_Faraway
@@ -73,22 +73,22 @@ message_54:
 
 #Receive orange headband
 message_55:
-      text: Você recebeu um \c[13]ARCO LARANJA\c[0]!
+      text: Você recebeu uma \c[13]BANDANA LARANJA\c[0]!
 
 #=========================Location: Apple Guy in the park=============================
 #== Fruitwaradrian
 
 #While wearing an Orange Headband
 message_60:
-      text: \n<CARA DA MAÇÃ>MEU DEUS!\! Isso é um...\! \c[13]ARCO LARANJA\c[0]...\! que você está vestindo? Eu me recuso a te vender qualquer \c[3]SUCO DE MAÇÃ\c[0] até que você tire isso fora!
+      text: \n<CARA DA MAÇÃ>MEU DEUS!\! Isso é uma...\! \c[13]BANDANA LARANJA\c[0]...\! que você está vestindo? Eu me recuso a te vender qualquer \c[3]SUCO DE MAÇÃ\c[0] até que você tire isso fora!
 
 #After buying 5 Apple juices
 message_61:
-      text: \n<CARA DA MAÇÃ>Ah, verdade! Antes que você vá, aqui está um pequeno presente por ser um freguês tão leal!\! É um \c[13]ARCO VERMELHO\c[0], a cor das maçãs!\! Vista ele com orgulho!
+      text: \n<CARA DA MAÇÃ>Ah, verdade! Antes que você vá, aqui está um pequeno presente por ser um freguês tão leal!\! É uma \c[13]BANDANA VERMELHA\c[0], a cor das maçãs!\! Vista ela com orgulho!
 
 #If HERO is wearing an orange headband
 message_62:
-      text: \n<CARA DA MAÇÃ>Vejo que um dos seus amigos está vestindo um \c[13]ARCO LARANJA\c[0]...\! Embora eu não aprove isso normalmente, combina muito bem com ele.\! Eu vou perdoá-lo, mas apenas essa vez!
+      text: \n<CARA DA MAÇÃ>Vejo que um dos seus amigos está vestindo uma \c[13]BANDANA LARANJA\c[0]...\! Embora eu não aprove isso normalmente, combina muito bem com ele.\! Eu vou perdoá-lo, mas apenas essa vez!
 
 message_63:
       faceset: MainCharacters_Faraway
@@ -97,7 +97,7 @@ message_63:
 
 #Receive Red Headband
 message_64:
-      text: Você recebeu um \c[13]ARCO VERMELHO\c[0]!
+      text: Você recebeu uma \c[13]BANDANA VERMELHA\c[0]!
 
 #=========================Location:Vances house =============================
 #== Fix pipe
@@ -202,13 +202,13 @@ message_108:
 #== Day 1 Church
 
 message_110:
-      text: Você quer entrar dentro da \c[11]IGREJA\c[0]?
+      text: Você quer entrar na \c[11]IGREJA\c[0]?
 
 message_111:
-      text: Você não deveria incomodar os outros durante a oração.
+      text: Você não deveria incomodar os outros durante um sermão.
 
 message_112:
-      text: Você não deveria incomodar os outros durante a oração
+      text: Você não deveria incomodar os outros durante um sermão.
 
 
 #=========================Location: Basils house=============================
@@ -305,7 +305,7 @@ message_174:
       text: \n<LOJISTA>Ei, campeão! Só um capricho aqui, você estaria interessado em comprar meu último \c[13]PET DRITO\c[0]?
 
 message_177:
-      text: \n<LOJISTA>Geralmente eles custam $25.00...\! mas você parece o cara certo pra esse aqui...\! então eu posso te vender por $10.00!\! Que 'cê' acha?\$
+      text: \n<LOJISTA>Geralmente eles custam $25.00...\! mas você parece o cara certo pra esse aqui...\! então eu posso te vender por $10.00!\! Que cê acha?\$
 
 message_175:
       text: \n<LOJISTA>Excelente.\! Você e seu novo \c[13]PET DRITO\c[0] são um bom par.\!<br>Cuide bem dele!
@@ -359,12 +359,12 @@ message_221:
       text: \kel!?\! Parece nutritivo e delicioso!
 
 message_222:
-      text: \n<POLLY>V-Você realmente acha?\! Estava com medo que você não gostasse...\! As pessoas sempre me dizem que meu gosto é um pouco insosso...
+      text: \n<POLLY>V-Você realmente acha?\! Estava com medo que você não gostasse...\! As pessoas sempre me dizem que meu gosto é um pouco sem graça...
 
 message_223:
       faceset: MainCharacters_Faraway
       faceindex: 14
-      text: \kelNão ligue para o quê as outras pessoas pensam!<br>\!Toda comida é boa pra mim!\! Vou comer qualquer gororoba que tu me jogar!
+      text: \kelNão ligue para o que as outras pessoas pensam!<br>\!Toda comida é boa pra mim!\! Vou comer qualquer gororoba que tu me jogar!
 
 
 #=========================Park=============================
@@ -411,7 +411,7 @@ message_246:
 #Hobbeez buying pet rock
 
 message_250:
-      text: \n<LOJISTA>Yo, campeão! Estaria interessado em comprar meu último \c[13]PET DRITO\c[0]?\! Esses brinquedos foram um sucesso com as crianças uns cinco anos atrás.<br>Eles custam mais ou menos $25.00 atualmente, mas... você parece o cara certo pra esse aqui, então eu posso te vender por $10.00...\! O que 'cê' acha?
+      text: \n<LOJISTA>Yo, campeão! Estaria interessado em comprar meu último \c[13]PET DRITO\c[0]?\! Esses brinquedos foram um sucesso com as crianças uns cinco anos atrás.<br>Eles custam mais ou menos $25.00 atualmente, mas... você parece o cara certo pra esse aqui, então eu posso te vender por $10.00...\! O que cê acha?
 
 message_251:
       text: \n<LOJISTA>Bom, tudo bem... mas esse \c[13]PET DRITO\c[0] está realmente te chamando!\!<br>Eu posso sentir.
@@ -545,7 +545,7 @@ message_317:
 message_313:
       faceset: MainCharacters_DreamWorld
       faceindex: 11
-      text: \aubHmm...\! Eu me pergunto se devemos contar à ele ...
+      text: \aubHmm...\! Eu me pergunto se devemos contar a ele ...
 
 message_314:
       text: \pesEu tenho certeza que a qualquer momento, o evento vai começar e eu vou ser guiado ao meu assento por ninguém menos que a própria SWEETHEART!
@@ -578,7 +578,7 @@ message_324:
       text: \pesEm troca de seu ato altruísta, eu concedo a você o presente supremo.
 
 message_325:
-      text: Você ganhou o \c[13]BUSTO DA SWEETHEART\c[0].
+      text: Você recebeu o \c[13]BUSTO DA SWEETHEART\c[0].
 
 message_326:
       text: \pes\sinv[1]Ah...\! Não é lindo?
@@ -611,10 +611,10 @@ message_341:
       text: \n<ROSA>Por que vocês estão aqui!? \!Eu estou brava! Vá embora!
 
 message_342:
-      text: \n<ROSA>Graças à vocês, minha querida SWEETHEART fugiu com aquele maldito CAPT. SPACEBOY...\! \com[2]de novo!
+      text: \n<ROSA>Graças à vocês, minha querida SWEETHEART fugiu com aquele maldito CAP. SPACEBOY...\! \com[2]de novo!
 
 message_344:
-      text: \n<ROSA>Afe...\! SWEETHEART estava a apenas algumas portas de distância...\! mas agora ela está galáxias de distância!\! Como eu irei segui-la agora!?\! Eu pareço que posso voar pra você!?
+      text: \n<ROSA>Afe...\! SWEETHEART estava a apenas algumas portas de distância...\! mas agora ela está a galáxias de distância!\! Como eu irei segui-la agora!?\! Eu pareço que posso voar pra você!?
 
 message_345:
       faceset: MainCharacters_DreamWorld
@@ -720,10 +720,10 @@ message_368:
     text: Você trocou a \c[4]CHANTAGEM\c[0] pela \c[4]COISA DO PESSI\c[0].
 
 message_369:
-    text: \n<ROSA>Eu quero que vocês saiam da minha casa agora.\!<br>Vocês já conseguiram o que queria, não conseguiram?
+    text: \n<ROSA>Eu quero que vocês saiam da minha casa agora.\!<br>Vocês já conseguiram o que queriam, não conseguiram?
 
 message_370:
-    text: \n<ROSA>\{\{\Com[2]AGORA CAI FORA! SOME DAQUI!
+    text: \n<ROSA>\{\{\Com[2]AGORA CAIAM FORA! SUMAM DAQUI!
 
 message_371:
     text: \n<ROSA>Vão embora! Estou furiosa com vocês!
@@ -732,7 +732,7 @@ message_371:
 #====================  Faraway =======================
 
 message_380:
-    text: \n<CARA AMERICANO>\com[2]Hey, sai da frente!\!<br>Não podem "see" que eu estou "watching" TV!?
+    text: \n<CARA AMERICANO>\com[2]Hey, saiam da frente!\!<br>Não podem "see" que eu estou "watching" TV!?
 
 #==================== Pizza Delivery 2 =======================
 
@@ -760,7 +760,7 @@ message_394:
 # Moms to do list and voice mail
 
 message_395:
-      text: LISTA DE TAREFAS DA MÃE.\!<br>Você não sente vontade de fazer elas agora.
+      text: LISTA DE TAREFAS DA MÃE.\!<br>Você não sente vontade de fazê-las agora.
 
 message_396:
       text: Você tem uma nova mensagem.
@@ -774,7 +774,7 @@ message_398:
 # Kels house dinner time
 
 message_399:
-      text: Você pegou a \c[4]COMIDA CASEIRA\c[0]...\! mas está frio.\!<br>Você pode aquecer usando o microondas.
+      text: Você pegou a \c[4]COMIDA CASEIRA\c[0]...\! mas está fria.\!<br>Você pode aquecer usando o microondas.
 
 # Characters sleeping in bedfort
 
@@ -886,7 +886,7 @@ message_422:
 message_423:
       faceset: MainCharacters_Faraway
       faceindex: 17
-      text: \kel\n[8], vêm ver a nossa cama-fortaleza!
+      text: \kel\n[8], vem ver a nossa cama-fortaleza!
 
 # Kel yelling at you to go to his room instead of the other rooms when you first go into his house
 
@@ -970,13 +970,13 @@ message_446:
 message_447:
       faceset: MainCharacters_Faraway
       faceindex: 38
-      text: \herOops! Antes que eu me esqueça...\! \n[8], aqui está o dinheiro pelas \c[4]FLORES\c[0] da minha mãe.\! Você não pensou que eu deixaria você pagar por isso, 'num' é?
+      text: \herOps! Antes que eu me esqueça...\! \n[8], aqui está o dinheiro pelas \c[4]FLORES\c[0] da minha mãe.\! Você não pensou que eu deixaria você pagar por isso, num é?
 
 message_448:
       text: Você pegou $10.00 do HERO.\! Uau...
 
 message_449:
-      text: \n<CARA DO REPARA-JÁ>Você estava querendo comprar algum hardware?
+      text: \n<CARA DO REPARA-JÁ>Você estava querendo comprar alguma ferramenta?
 
 message_450:
       faceset: MainCharacters_Faraway
@@ -1162,7 +1162,7 @@ message_558:
       text: \herEspera aí, \n[8]. Nós não pegamos as \c[4]FLORES\c[0] pra minha mãe ainda.
 
 message_559:
-      text: \"Para a melhor mãe de todo o mundo."\!<br>\"Do seu filho, HEROF.\"\! Uau...
+      text: \"Para a melhor mãe de todo o mundo."\!<br>\"Do seu filho, HERO.\"\! Uau...
 
 # Trying to go up stairs without Hero, day 2 night
 
@@ -1199,7 +1199,7 @@ message_564:
 message_565:
     faceset: MainCharacters_Faraway
     faceindex: 14
-    text: \kelOlhar esses quadrinhos trás de volta tantas memórias.\! É que nem nos velhos tempos, huh \n[8]?\! No entanto, o HERO nunca se interessou tanto nas comics...
+    text: \kelOlhar esses quadrinhos traz de volta tantas memórias.\! É que nem nos velhos tempos, huh \n[8]?\! No entanto, o HERO nunca se interessou tanto nas comics...
 
 message_566:
     faceset: MainCharacters_Faraway
@@ -1258,7 +1258,7 @@ message_583:
 message_584:
       faceset: MainCharacters_Faraway
       faceindex: 19
-      text: Wow, isso estava prestes a sair do controle...\!<br>Ainda bem que você tinha essa sua faca ou a gente ia-\kel
+      text: Uau, isso estava prestes a sair do controle...\!<br>Ainda bem que você tinha essa sua faca ou a gente ia-\kel
 
 #Kels orders
 
@@ -1286,7 +1286,7 @@ message_594:
 message_595:
       faceset: MainCharacters_Faraway
       faceindex: 37
-      text: \herEu me lembro agora!\! KEL trouxe essa torradeira aqui!\! Ele disse que queria que eu cozinhasse com isso...\! KEL era uma criança tão estranha...
+      text: \herEu me lembro agora!\! O KEL trouxe essa torradeira aqui!\! Ele disse que queria que eu cozinhasse com isso...\! KEL era uma criança tão estranha...
 
 #Graveyard with everyone, if you don't have any flowers
 message_596:
@@ -1337,7 +1337,7 @@ message_608:
       text: Você quer botar o \c[4]CD\c[0] de volta?
 
 message_609:
-      text: Você pode levar o \c[4]CD\c[0] pro caixa para pagar ele.
+      text: Você pode levar o \c[4]CD\c[0] pro caixa para pagar por ele.
 
 message_610:
       faceset: MainCharacters_Faraway
@@ -1548,7 +1548,7 @@ message_681:
 #      text: \n<PIZZA MAN>Oh what happened? Didn't get to deliver the pizzas after all? I.... see.
 
 message_683:
-      text: \n<CARA DO REPARA-JÁ>Aiai... Tanto faz, eu acho...\! As prateleiras vão ficar bagunçadas de novo, de qualquer forma.
+      text: \n<CARA DO REPARA-JÁ>Ai ai... Tanto faz, eu acho...\! As prateleiras vão ficar bagunçadas de novo, de qualquer forma.
 
 message_684:
       text: \n<LOJISTA>Não se segure!\! O destino está te chamando!
@@ -1558,7 +1558,7 @@ message_684:
 
 
 message_700:
-      text: \n<CARA JACARÉ>Bah! Agora vou ficar de mau humor o resto do dia.
+      text: \n<CARA JACARÉ>Bah! Agora vou ficar de mau humor pelo resto do dia.
 
 message_701:
       text: \n<CARA JACARÉ>Não conte à minha mãe que eu perdi, tá bom?
@@ -1602,4 +1602,4 @@ message_709:
       text: \berEntão você mudou de ideia?\! Tu vai me dar o seu \c[13]MACARRÃO DE PISCINA\c[0] ou não?
 
 message_720:
-      text: \n<TESTA ENRUGADA>Esse é um gravador legal que você tem aí, mas meu filho gosta de algo chamado video game...\! Você acha que pode me encontrar um desses?
+      text: \n<TESTA ENRUGADA>Esse é um gravador legal que você tem aí, mas meu filho gosta de algo chamado videogame...\! Você acha que pode me encontrar um desses?
