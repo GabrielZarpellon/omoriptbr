@@ -26,7 +26,7 @@ message_2:
     text: \pluEu entendo vocês...\!<br>Ainda estou sentindo as consequências de nossa batalha calorosa.<br>\!Foi uma memória que vou guardar para sempre!
 
 message_3:
-    text: \pluVocês ficaram incrivelmente fortes, mas como tudo, ainda há como melhorar.
+    text: \pluVocês ficaram incrivelmente fortes, mas assim como tudo, ainda há como melhorar.
 
 #*Pluto walks in front of KEL*
 
@@ -58,7 +58,7 @@ message_8:
 #*Pluto faces away*
 
 message_9:
-    text: \pluNão, estou com um presentimento de que está errado.
+    text: \pluNão, estou com um pressentimento de que está errado.
 
 #*Pluto turns to KEL and walks forward 1 step*
 
@@ -110,7 +110,7 @@ message_22:
     text: \n<VAN>O quê? Você queria alguma coisa, BERLY?
 
 message_23:
-    text: \n<BERLY>Sim, fique bem aqui e olhe para lá.
+    text: \n<BERLY>Sim, fique bem aqui e olhe pra lá.
 
 message_24:
     text: \n<VAN>Beleza!
@@ -123,7 +123,7 @@ message_25:
 message_26:
     faceset: MainCharacters_DreamWorld
     faceindex: 8
-    text: \aubO quê você quer agora, BERLY?
+    text: \aubO que você quer agora, BERLY?
 
 message_27:
     text: \n<BERLY>AUBREY!\! \sinv[1]AUBREY, AUBREY, AUBREY...\sinv[0]\!<br>Qual é a desse tom mal-educado?\! Hein? Somos melhores amigas!
@@ -134,7 +134,7 @@ message_28:
 message_29:
     faceset: MainCharacters_DreamWorld
     faceindex: 8
-    text: \aubEu sei quem o VAN é...
+    text: \aubEu sei quem é o VAN...
 
 message_30:
     text: \n<BERLY>Ótimo!\! Vá em frente e dê uma boa pancada nele!
@@ -154,7 +154,7 @@ message_33:
 #Talk to VAN as not---\aub
 #*BERLY jumps.*
 message_34:
-    text: \n<BERLY>Ei! Eu pedi pra a AUBREY! Não você!
+    text: \n<BERLY>Ei! Eu pedi pra AUBREY! Não você!
 
 #Talk to VAN as \aub
 #*AUBREY smashes VAN.*
@@ -279,7 +279,7 @@ message_56:
 #In CLUB SANDWICH in LAST RESORT
 
 message_70:
-    text: \n<SR. ESPANMANO>Ei, caras.\!<br>Estão todos aproveitando o \c[11]CLUBE SANDUÍCHE\c[0]?\!<br>Eu sei que estou...
+    text: \n<SR. ESPANMANO>Ei, caras.\!<br>Estão todos aproveitando o \c[11]CLUBE SANDUÍCHE\c[0]?\!<br>Eu sei que eu estou...
 
 message_71:
     text: \n<SR. ESPANMANO>Meus amigos me dizem que sou um bom julgador de caráter.
@@ -385,10 +385,10 @@ message_106:
     text: \n<J. MELO>Com uma técnica intrigante e precisa, alguém conseguiria nos libertar do nosso destino bulboso.
 
 message_107:
-    text: \n<J. MELO>Mas, essa técnica leva anos, talvez décadas, para dominar!\! Se você concordar em aprende-la, não há como dizer quanto tempo demoraria!
+    text: \n<J. MELO>Mas, essa técnica leva anos, talvez décadas, para dominar!\! Se você concordar em aprendê-la, não há como dizer quanto tempo demoraria!
 
 message_108:
-    text: \n<J. MELO>Mesmo com tempo, eu acredito que você fará coisas incríveis!\! Está pronto para aceitar o desafio e se tornar meu discipulo?
+    text: \n<J. MELO>Mesmo com tempo, eu acredito que você fará coisas incríveis!\! Está pronto para aceitar o desafio e se tornar meu discípulo?
 #[YES/NO]
 
 #[YES]
@@ -400,7 +400,7 @@ message_109:
 #*Screen returns*
 
 message_110:
-    text: \n<MESTRE J. MELO>Excelente! Excelente, excelente, excelente...\!<br>Você cresceu tanto!\! Infelizmente... esse bulbo não cresceu tanto...<br><br>Agora, use sua técnica aperfeiçoada nele que ele possa viver!
+    text: \n<MESTRE J. MELO>Excelente! Excelente, excelente, excelente...\!<br>Você cresceu tanto!\! Infelizmente... esse bulbo não cresceu tanto...<br><br>Agora, use sua técnica aperfeiçoada nele para que ele possa viver!
 
 #Talk to MASTER
 
@@ -415,7 +415,7 @@ message_113:
     text: \n<YOUNG SHROOM>Pegue isso! É um presente!
 
 message_114:
-    text: Você ganhou um \c[5]DENTE-DE-LEÃO\c[0]!
+    text: Você recebeu um \c[5]DENTE-DE-LEÃO\c[0]!
 
 message_115:
     text: \n<YOUNG SHROOM>Excelente! Excelente, excelente, excelente...
@@ -430,7 +430,7 @@ message_115:
 #Intro:
 
 message_119:
-    text: Um rosto peculiar está esculpido na parede.\!<br>Você não tem certeza do que significa.
+    text: Um rosto peculiar está esculpido na parede.\!<br>Você não tem certeza do que isso significa.
 
 message_120:
     text: \n<GRANDE ROSTO>Esses...\! buracos vazios, eu marco.\!<br>Neles...\! eu escondi meus pertences mais preciosos...\! sim.
@@ -504,7 +504,7 @@ message_135:
 message_136:
     faceset: MainCharacters_DreamWorld
     faceindex: 37
-    text: \herAh, ei! É esse lugar!\! Vocês querem entrar?\!<br>SR. MANDIBARÃO me disse a senha uma vez pra que eu pudesse completar uma de suas mensagens.
+    text: \herAh, ei! É esse lugar!\! Vocês querem entrar?\!<br>SR. MANDIBARÃO me disse a senha uma vez pra que eu pudesse completar uma de suas tarefas.
 
 message_137:
     faceset: MainCharacters_DreamWorld
@@ -557,7 +557,7 @@ message_155:
     text: \n<REUBEN>Todos nós temos nossos problemas.\!<br>Se você quiser desabafar, pode contar comigo.\!<br>Aqui, pegue um \c[3]REFRI DE UVA\c[0] por minha conta!
 
 message_156:
-    text: Você ganhou \c[3]REFRI DE UVA\c[0]!
+    text: Você recebeu \c[3]REFRI DE UVA\c[0]!
 
 #Talk to REUBEN at 4TH location:
 
@@ -570,7 +570,7 @@ message_158:
 
 #Talk to REUBEN again.
 message_159:
-    text: \n<REUBEN>Temos alguns caras interessantes de vez em quando, mas normalmente, é um lugar para relaxar.<br><br>Nem parece trabalho, har har!<br>Exceto quando pratos acumulam...
+    text: \n<REUBEN>Temos alguns caras interessantes de vez em quando, mas normalmente, é um lugar para relaxar.<br><br>Nem parece trabalho, har har!<br>Exceto quando acumula muitos pratos...
 
 message_160:
     text: \n<REUBEN>HOAGIE sempre diz que somos um par perfeito.\! Ele é um pouco durão por fora, mas eu entendo ele, sabe?
@@ -590,7 +590,7 @@ message_163:
 #Talk to HOAGIE after talking to REUBEN at 4TH location (once only):
 
 message_164:
-    text: \n<HOAGIE>REUBEN estava falando sobre mim denovo?\! Eu já disse para ele não fazer isso.\! ...\! Mas, é...\! Tanto faz...\! Não consigo me irritar com ele.
+    text: \n<HOAGIE>REUBEN estava falando sobre mim de novo?\! Eu já disse pra ele não fazer isso.\! ...\! Mas, é...\! Tanto faz...\! Não consigo me irritar com ele.
 
 #------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -753,7 +753,7 @@ message_204:
     text: \n<GUARDIÃO DO CASTELO>Vocês são corajosos em falar comigo, jovens.\!<br>Me digam. Estão gostando do castelo da SWEETHEART?
 
 message_205:
-    text: \n<GUARDIÃO DO CASTELO>Aquela garota.\! Ela é uma elaborada.\!<br>Esse lugar. Ele assume a forma mais desejada de uma pessoa.\!<br>Um lugar para retornar.\! Um lugar para chamar de casa.
+    text: \n<GUARDIÃO DO CASTELO>Aquela garota.\! Ela é elaborada.\!<br>Esse lugar. Ele assume a forma mais desejada de uma pessoa.\!<br>Um lugar para retornar.\! Um lugar para chamar de casa.
 
 message_206:
     text: \n<GUARDIÃO DO CASTELO>SWEETHEART veio até mim há muito tempo, uma pobre garota do deserto...\! e implorou de joelhos para deixá-la ter esse lugar.
@@ -808,7 +808,7 @@ message_231:
 
 #[NO]
 message_240:
-    text: \n<GUARDIÃO DO CASTELO>Você vai trocar de ideia logo.\!<br>Todas as almas anseiam por o que chamam de casa.
+    text: \n<GUARDIÃO DO CASTELO>Você vai trocar de ideia logo.\!<br>Todas as almas anseiam pelo o que chamam de casa.
 
 #Intro (If you speak to the Keeper for the first time in epilogue):
 
@@ -816,7 +816,7 @@ message_241:
     text: \n<GUARDIÃO DO CASTELO>Vocês são corajosos em falar comigo, jovens.\!<br>Me digam. Estão gostando do castelo da SWEETHEART?
 
 message_242:
-    text: \n<GUARDIÃO DO CASTELO>Aquela garota.\! Ela é uma elaborada.\!<br>Esse lugar. Ele assume a forma mais desejada de uma pessoa.\!<br>Um lugar para retornar.\! Um lugar para chamar de casa.
+    text: \n<GUARDIÃO DO CASTELO>Aquela garota.\! Ela é elaborada.\!<br>Esse lugar. Ele assume a forma mais desejada de uma pessoa.\!<br>Um lugar para retornar.\! Um lugar para chamar de casa.
 
 message_243:
     text: \n<GUARDIÃO DO CASTELO><GUARDIÃO DO CASTELO>SWEETHEART veio até mim há muito tempo, uma pobre garota do deserto...\! e implorou de joelhos para deixá-la ter esse lugar..
@@ -842,12 +842,12 @@ message_248:
 #[YES]
 
 message_255:
-    text: \n<GUARDIÃO DO CASTELO>O CASTELO DA SWEETHEART não existirá mais.\!<br>Está certo que é isso que deseja?
+    text: \n<GUARDIÃO DO CASTELO>O CASTELO DA SWEETHEART não existirá mais.\!<br>Está certo de que é isso que deseja?
 #[YES/NO]
 
 #*Keeper extends tendril to OMORI's head*
 message_256:
-    text: \n<GUARDIÃO DO CASTELO>Então eu devo te conceder a posse deste lugar.
+    text: \n<GUARDIÃO DO CASTELO>Então eu devo lhe conceder a posse deste lugar.
 
 #*Screen turns white*
 #Player and party are ported to Sprout Mole Colony outside of SW Stage door, but now the door is replaced with an FA door.
@@ -857,7 +857,7 @@ message_256:
 
 #[NO]
 message_257:
-    text: \n<GUARDIÃO DO CASTELO>Você vai trocar de ideia logo.\!<br>Todas as almas anseiam por o que chamam de casa.
+    text: \n<GUARDIÃO DO CASTELO>Você vai mudar de ideia logo.\!<br>Todas as almas anseiam pelo o que chamam de casa.
 
 #Note: Boring room will have the same flavor text play as the ones in BASIL's memories. (The smell of laundry fills the air, etc.) PLAYER and party can stop moving when the dialogue pops up.
 
@@ -898,7 +898,7 @@ message_272:
     text: \n<GAROTA DA PIPOCA>Sim, ótimo. Isso é perfeito.
 
 message_273:
-    text: Você ganhou \c[3]PIPOCA\c[0].
+    text: Você recebeu \c[3]PIPOCA\c[0].
 
 message_274:
     text: \n<GAROTA DA PIPOCA>Ei, você não tem CONCHAS o suficiente para \c[3]PIPOCA\c[0].
@@ -966,19 +966,19 @@ message_283:
 message_284:
     faceset: MainCharacters_DreamWorld
     faceindex: 27
-    text: \kel...\! Por que isso não está funcionando?
+    text: \kel...\! Por que isso não tá funcionando?
 
 #KEL presses the button a bunch of times
 
 message_285:
     faceset: MainCharacters_DreamWorld
     faceindex: 31
-    text: \kelAh, sim! Eu esqueci!\! Precisamos de um \c[4]CARTÃO LEGAL\c[0] para isso!
+    text: \kelAh, sim! Eu esqueci!\! Precisamos de um \c[4]CARTÃO LEGAL\c[0] pra isso!
 
 message_286:
     faceset: MainCharacters_DreamWorld
     faceindex: 19
-    text: \kelEles tomaram o meu por perder toda hora...\!<br>Eu juro que eles somem do nada, mesmo!
+    text: \kelEles tomaram o meu por perdê-lo toda hora...\!<br>Eu juro que eles somem do nada, mesmo!
 
 message_287:
     faceset: MainCharacters_DreamWorld
@@ -998,7 +998,7 @@ message_287:
 
 #Examine doll:
 message_300:
-    text: Uma boneca sem rosto.\!<br>Não parece que pertence à esse lugar.\!<br>Você gostaria de jogá-la fora?
+    text: Uma boneca sem rosto.\!<br>Não parece que pertence a esse lugar.\!<br>Você gostaria de jogá-la fora?
 #[YES/NO]
 
 #If you throw away, when you exit the room, the lights go off and on. If you go back into the room, the doll is back on the bed.
@@ -1023,7 +1023,7 @@ message_302:
 
 #Examine bridge:
 message_310:
-    text: Uma ponte se estende pela trincheira.\!<br>Você deseja atravessá-la?
+    text: Uma ponte se estende pelo fosso.\!<br>Você deseja atravessá-la?
 
 #------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -1052,7 +1052,7 @@ message_327:
 
 #[YES]
 message_324:
-    text: \n<CARA JACARÉ>Obrigado, cara.\!<br>Me elogie um pouco pro o chefe, que tal?
+    text: \n<CARA JACARÉ>Obrigado, cara.\!<br>Me elogie um pouco pro chefe, que tal?
 
 #[NO]
 message_325:
@@ -1074,7 +1074,7 @@ message_330:
 #Talk to BRANCH CORAL as OMORI.
 
 message_331:
-    text: \n<CORAL>Um bom tempo passou desde que você se aventurou longe assim.<br><br><br>Camadas mais fundas desse mundo abrem quando o SONHADOR se desespera mais.<br><br>Até imaginação é limitada.
+    text: \n<CORAL>Um bom tempo passou desde que você se aventurou longe assim.<br><br><br>Camadas mais fundas desse mundo se abrem quando o SONHADOR se desespera mais.<br><br>Até a imaginação é limitada.
 
 #*wait*
 message_332:
@@ -1105,7 +1105,7 @@ message_340:
 #*Everything except for the BRANCH CORAL, OMORI, and a small pool under the BRANCH CORAL are blacked out.*
 
 message_341:
-    text: \n<CORAL>O amigo que você perdeu não está nesse mundo.\!<br>No dia que ele foi removido, ele renasceu em algum outro lugar.
+    text: \n<CORAL>O amigo que você perdeu não está nesse mundo.\!<br>No dia em que ele foi removido, ele renasceu em algum outro lugar.
 
 message_342:
     text: \n<CORAL>Ele é especial para você.\! Um fio do destino conecta ambos.\! Ele não pode sair daquele lugar sozinho.
@@ -1128,16 +1128,16 @@ message_351:
     text: \n<CORAL>Antes desse mundo ser criado, existiam três grandes criaturas...\! a mais velha, a mais sábia e a favorita.
 
 message_352:
-    text: \n<CORAL>O mais velho está vivo, mas não é exatamente como antes.
+    text: \n<CORAL>O mais velho está vivo, mas não exatamente como antes.
 
 message_353:
     text: \n<CORAL>A idade removeu sua consciência e ele evoluiu para um parasita para si mesmo.\! Ele vive aqui, perto da caverna.
 
 message_354:
-      text: \n<CORAL>A mais sábia, contra a razão, cometeu um ato contra a vontade do SONHADOR.\! Foi um ato que nem eu sei.
+      text: \n<CORAL>A mais sábia, contra a razão, cometeu um ato contra a vontade do SONHADOR.\! Este ato é desconhecido até mesmo para mim.
 
 message_355:
-    text: \n<CORAL>Como consequência, ela perdeu sua inteligência e foi exilada...\! uma prisão especial muito, muito a fundo.
+    text: \n<CORAL>Como consequência, ela perdeu sua inteligência e foi exilada...\! uma prisão especial em algum lugar muito, muito fundo.
 
 message_356:
     text: \n<CORAL>O último e favorito, O GRANDE GATO AMARELO, foi escolhido para observar a sala favorita do SONHADOR.
@@ -1154,7 +1154,7 @@ message_365:
 #&Everything except for the BRANCH CORAL, OMORI, and a small pool under the BRANCH CORAL are blacked out.*
 
 message_366:
-    text: \n<CORAL>Estar no \c[11]ESPAÇO BRANCO\c[0] é ser nada.
+    text: \n<CORAL>Estar no \c[11]ESPAÇO BRANCO\c[0] é como ser nada.
 
 message_367:
     text: \n<CORAL>\c[11]ESPAÇO BRANCO\c[0] é o vazio, um lar sem conforto.<br>Um lugar para sobreviver, e não viver.
@@ -1190,15 +1190,15 @@ message_374:
 
 
 message_375:
-    text: \n<CORAL>Há um desafio que te ajudará muito nesse mundo.\!<br>É simples sem pensamento... e se você conseguir, sumirei também.
+    text: \n<CORAL>Há um desafio que te ajudará muito nesse mundo.\!<br>É muito simples... e se você conseguir, eu também sumirei.
 
 message_376:
-    text: \n<CORAL>Posso te oferecer esse sacrifício.\! Você aceitará essa possibilidade?
+    text: \n<CORAL>Eu te ofereço esse sacrifício.\! Você aceitará essa oportunidade?
 #[YES/NO]
 
 #[YES]
 message_377:
-    text: \n<CORAL>Eu entendo.\! Fique parado, SONHADOR.
+    text: \n<CORAL>Eu entendo.\! Fique bem parado, SONHADOR.
 
 #*wait*
 #*OMORI sinks into the floor*
@@ -1252,13 +1252,13 @@ message_384:
 #Talk to BRANCH CORAL again:
 
 message_385:
-    text: \n<CORAL>Vejo que retornou.<br>\!Eu te direi denovo...
+    text: \n<CORAL>Vejo que retornou.<br>\!Eu lhe direi de novo...
 
 message_386:
-    text: \n<CORAL>Há um desafio que te ajudará muito nesse mundo.\!<br>É simples sem pensamento... e se você conseguir, sumirei também.
+    text: \n<CORAL>Há um desafio que te ajudará muito nesse mundo.\!<br>É muito simples... e se você conseguir, eu também sumirei.
 
 message_387:
-    text: \n<CORAL>Posso te oferecer esse sacrifício.\! Você aceitará essa possibilidade?
+    text: \n<CORAL>Eu te ofereço esse sacrifício.\! Você aceitará essa oportunidade?
 
 #*Follow same sequence as above.*
 
