@@ -244,112 +244,112 @@ message_138:
 #  Sorting Items
 
 message_140:
-      text: BONECO DO CAP.SPACEBOY[BRINQUEDO]
+      text: BONECO DO CAP.SPACEBOY[TOY]
 
 message_141:
-      text: BLOCOS DE MONTAR[BRINQUEDO]
+      text: BLOCOS DE MONTAR[TOY]
 
 message_142:
-      text: SACO DE BOLINHAS DE GUDE[BRINQUEDO]
+      text: SACO DE BOLINHAS DE GUDE[TOY]
 
 message_143:
-      text: IOIÔ[BRINQUEDO]
+      text: IOIÔ[TOY]
 
 message_144:
-      text: MASSINHA SECA[BRINQUEDO]
+      text: MASSINHA SECA[TOY]
 
 message_145:
-      text: MOLA[BRINQUEDO]
+      text: MOLA[TOY]
 
 message_146:
-      text: PELÚCIA DE BROTOPEIRA[BRINQUEDO]
+      text: PELÚCIA DE BROTOPEIRA[TOY]
 
 message_147:
-      text: BONECA DA SWEETHEART[BRINQUEDO]
+      text: BONECA DA SWEETHEART[TOY]
 
 message_148:
-      text: CONTROLE DE CARRINHO[BRINQUEDO]
+      text: CONTROLE DE CARRINHO[TOY]
 
 message_149:
-      text: CARRINHO DE BRINQUEDO[BRINQUEDO]
+      text: CARRINHO DE BRINQUEDO[TOY]
 
 message_150:
-      text: PIPA QUEBRADA[BRINQUEDO]
+      text: PIPA QUEBRADA[TOY]
 
 message_151:
-      text: REGISTADORA DE BRINQUEDO[BRINQUEDO]
+      text: REGISTADORA DE BRINQUEDO[TOY]
 
 message_152:
-      text: XILOFONE COLORIDO[BRINQUEDO]
+      text: XILOFONE COLORIDO[TOY]
 
 message_153:
-      text: PIANO DE BRINQUEDO[BRINQUEDO]
+      text: PIANO DE BRINQUEDO[TOY]
 
 message_154:
-      text: JACKS DE METAL E BOLAS[BRINQUEDO]
+      text: JACKS DE METAL E BOLAS[TOY]
 
 message_155:
-      text: CATAVENTO PEQUENO[BRINQUEDO]
+      text: CATAVENTO PEQUENO[TOY]
 #delete the entry below
 message_156:
-      text: HQ \"AS AVENTURAS DO CAP. SPACEBOY\"[LIVRO]
+      text: HQ \"AS AVENTURAS DO CAP. SPACEBOY\"[BOOK]
 
 message_157:
-      text: LIVRO \"HUMPHREY FAMINTO\" LIVRO[LIVRO]
+      text: LIVRO \"HUMPHREY FAMINTO\"[BOOK]
 #delete the entry below
 message_158:
-      text: HQ \"VINGANÇA DE SWEETHEART\"[LIVRO]
+      text: HQ \"VINGANÇA DA SWEETHEART\"[BOOK]
 #delete the entry below
 message_159:
-      text: LIVRO DE COLORIR \"CAVANDO DINOS\"[LIVRO]
+      text: LIVRO DE COLORIR \"CAVANDO DINOS\"[BOOK]
 
 message_160:
-      text: LIVRO \"UM GUIA PARA O NOSSO SISTEMA SOLAR\"[LIVRO]
+      text: LIVRO \"UM GUIA PARA O NOSSO SISTEMA SOLAR\"[BOOK]
 
 message_161:
-      text: LIVRO \"DUETOS PARA PIANO E VIOLINO\"[LIVRO]
+      text: LIVRO \"DUETOS PARA PIANO E VIOLINO\"[BOOK]
 
 message_162:
-      text: LIVRO \"A PIRÂMIDE ALIMENTAR\"[LIVRO]
+      text: LIVRO \"A PIRÂMIDE ALIMENTAR\"[BOOK]
 #delete the entry below
 message_163:
-      text: LIVRO \"FANTASMA CHORONA\"[LIVRO]
+      text: LIVRO \"FANTASMA CHORONA\"[BOOK]
 
 message_164:
-      text: LIVRO \"ARRANHA-E-CHEIRE DE JOÃO LAJANRA\"[LIVRO]
+      text: LIVRO \"ARRANHA-E-CHEIRE DE JOÃO LAJANRA\"[BOOK]
 
 message_165:
-      text: \"PET DRITOS\" GUIA DE ESTRATÉGIA[LIVRO]
+      text: \"PET DRITOS\" GUIA DE ESTRATÉGIA[BOOK]
 #delete the entry below
 message_166:
-      text: LIVRO \"O GRANDE GATO AMARELO\"[LIVRO]
+      text: LIVRO \"O GRANDE GATO AMARELO\"[BOOK]
 
 message_167:
-      text: LIVRO \"O MENINO E SUA PIPA\"[LIVRO]
+      text: LIVRO \"O MENINO E SUA PIPA\"[BOOK]
 #delete the entry below
 message_168:
-      text: LIVRO \"O PARQUINHO NA FLORESTA\"[LIVRO]
+      text: LIVRO \"O PARQUINHO NA FLORESTA\"[BOOK]
 #delete the entry below
 message_169:
-      text: LIVRO \"O ESPANTALHO SOLITÁRIO\"[LIVRO]
+      text: LIVRO \"O ESPANTALHO SOLITÁRIO\"[BOOK]
 
 message_170:
-      text: LIVRO \"OS BENEFÍCIOS DO TOFU\"[LIVRO]
+      text: LIVRO \"OS BENEFÍCIOS DO TOFU\"[BOOK]
 
 message_171:
-      text: UMA VELHA LATA DE JOÃO LARANJA[LIXO]
+      text: UMA VELHA LATA DE JOÃO LARANJA[TRASH]
 
 message_172:
-      text: UMA PEÇA DE QUEBRA-CABEÇA[LIXO]
+      text: UMA PEÇA DE QUEBRA-CABEÇA[TRASH]
 
 message_173:
-      text: UMA MEIA VELHA FEDIDA[LIXO]
+      text: UMA MEIA VELHA FEDIDA[TRASH]
 
 message_174:
-      text: UMA TAMPA DE CANETA[LIXO]
+      text: UMA TAMPA DE CANETA[TRASH]
 
 message_175:
-      text: UM MONTE DE FIOS ENREDADOS[LIXO]
+      text: UM MONTE DE FIOS ENREDADOS[TRASH]
 
 message_180:
       text: Esta caixa é para os BRINQUEDOS.
@@ -651,7 +651,7 @@ message_618:
 message_619:
       faceset: MainCharacters_Faraway
       faceindex: 19
-      text: \kelEle de repente começou a gritar comigo sobre um monte de coisa.\! Algumas eram bem ofensivas, também...\! mas eu acho que já esqueci uma boa parte.
+      text: \kelEle de repente começou a gritar comigo sobre um monte de coisaS.\! Algumas eram bem ofensivas, também...\! mas eu acho que já esqueci uma boa parte.
 
 message_621:
       faceset: MainCharacters_Faraway
@@ -686,12 +686,12 @@ message_625:
 message_626:
       faceset: MainCharacters_Faraway
       faceindex: 24
-      text: \kelMas...\! pelo menos o HERO melhorou muito depois disso.\! Ele começou a se cuidar de novo...\! a focar mais na escola...\! e se juntou a um monte de coisa extrecurricular.
+      text: \kelMas...\! pelo menos o HERO melhorou muito depois disso.\! Ele começou a se cuidar de novo...\! a focar mais na escola...\! e se juntou a um monte de coisa extracurricular.
 
 message_627:
       faceset: MainCharacters_Faraway
       faceindex: 14
-      text: \kelEle é naturalmente bom em tudo mais ainda assim se esforça muito, então eu me orgulho dele!
+      text: \kelEle é naturalmente bom em tudo mas ainda assim se esforça muito, então eu me orgulho dele!
 
 message_628:
       faceset: MainCharacters_Faraway
@@ -701,7 +701,7 @@ message_628:
 message_629:
       faceset: MainCharacters_Faraway
       faceindex: 17
-      text: \kelDe qualquer forma, desculpa pela longa história.\! Eu acho que eu não contei isso para ninguém antes.
+      text: \kelDe qualquer forma, desculpa pela longa história.\! Eu acho que eu não contei isso pra ninguém antes.
 
 message_631:
       faceset: MainCharacters_Faraway
