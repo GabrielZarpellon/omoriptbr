@@ -5,12 +5,12 @@
 #SM TOWN Door Guard
 
 message_750:
-    text: \n<BROTOPEIRA>Ahãm...\! Posso ver seus \c[4]INGRESSOS DO SHOW\c[0] por favor?
+    text: \n<BROTOPEIRA>Ahãm...\! Posso ver seus \c[4]INGRESSOS DO SHOW\c[0], por favor?
 
 message_751:
     faceset: MainCharacters_DreamWorld
     faceindex: 1
-    text: \aubSim sim, claro senhor BROTOPEIRA!\!<br>Nós temos nossos ingressos bem aqui!
+    text: \aubSim sim, claro, senhor BROTOPEIRA!\!<br>Nós temos nossos ingressos bem aqui!
 
 message_752:
     text: AUBREY botou a mão no seu BOLSO e pegou o \c[4]INGRESSOS DO SHOW\c[0].
@@ -21,7 +21,7 @@ message_753:
     text: \aubAqui está, SR. BROTOPEIRA.
 
 message_754:
-    text: \n<BROTOPEIRA>Oh...\! \com[2]Oh, minha nossa!\! Não acredito no que vejo...\! Esses são ingressos pra primeira fila!\! Vocês...\! Vocês devem ter feito grandes sacrifícios para estarem aqui hoje...\! Eu vos aplaudo.
+    text: \n<BROTOPEIRA>Oh...\! \com[2]Oh, minha nossa!\! Não acredito no que vejo...\! Esses são ingressos para a primeira fila!\! Vocês...\! Vocês devem ter feito grandes sacrifícios para estarem aqui hoje...\! Eu vos aplaudo.
 
 message_755:
     text: \n<BROTOPEIRA>Perdoem-me por chamá-los de estranhos mais cedo.\!<br>Vendo novamente, vocês quatro são as BROTOPEIRAS mais normais que eu já vi.
@@ -29,12 +29,12 @@ message_755:
 #SM TOWN Ticket Vendor (Before Show)
 
 message_760:
-    text: \n<BROTOPEIRA>Aproveitem seus assentos VIP's, camaradas BROTOPEIRAS completamente normais!
+    text: \n<BROTOPEIRA>Aproveitem seus assentos VIPS, BROTOPEIRAS completamente normais!
 
 #SM TOWN Ticket Vendor (After Show)
 
 message_761:
-    text: \n<BROTOPEIRA>Uou! Que final explosivo!\!<br>A SWEETHEART não é a melhor?
+    text: \n<BROTOPEIRA>Uau! Que final explosivo!\!<br>A SWEETHEART não é a melhor?
 
 #Blackletter Video Tape
 
@@ -126,13 +126,13 @@ message_804:
 # === SW Garden Guards ===
 
 message_805:
-    text: \n<ALEX O ESTIMADO>Como um membro da ELITE ESTIMADA, eu tenho um palavra-chave que devo esconder...\! mas você provavelmente não saberia nada sobre isso.
+    text: \n<ALEX O ESTIMADO>Como um membro da ELITE ESTIMADA, eu tenho um palavra-chave que devo esconder...\! mas você provavelmente não sabe nada sobre isso.
 
 message_806:
     text: \n<BRIAN O DISTINTO>Olhe por onde pisa...\! Você está na presença de um membro da ELITE DISTINTA da SWEETHEART.\! Eu guardarei os segredos deste castelo com a minha vida!
 
 message_807:
-    text: \n<CAROL A ILUSTRE>Proteger a senha sagrada é uma tarefa árdua.<br>\!Quem sabe um dia, vocês jovens brotopeiras carregarão o mesmo peso da ELITE ILUSTRE.
+    text: \n<CAROL A ILUSTRE>Proteger a senha sagrada é uma tarefa árdua.<br>\!Quem sabe um dia vocês, jovens brotopeiras, carregarão o mesmo peso da ELITE ILUSTRE.
 
 message_808:
     text: \n<HELEN A CALAMITOSA>Uhh... Oi?\! Eu estou, tipo... super ocupada de pé aqui sendo um membro da ELITE CALAMITOSA e tal.\! Eu posso, tipo... ajudar vocês com alguma coisa?
@@ -238,7 +238,7 @@ message_851:
 message_860:
       faceset: MainCharacters_Faraway
       faceindex: 24
-      text: Mas pelo lado bom, pelo menos temos o \c[4]ÁLBUM DE FOTOS\c[0] do BASIL agora... e só nos custou metade do dia também!\! Isso que é trabalho em equipe!\! Que cê acha de um "toca aqui", \n[8]?\kel
+      text: Mas vendo o lado bom, pelo menos temos o \c[4]ÁLBUM DE FOTOS\c[0] do BASIL agora... e só nos custou metade do dia também!\! Isso que é trabalho em equipe!\! Que cê acha de um "toca aqui", \n[8]?\kel
 
 message_861:
       faceset: MainCharacters_Faraway
@@ -288,7 +288,7 @@ message_869:
 # === UWH TOLL ===
 
 message_870:
-    text: \n<JARÉ DO PEDÁGIO>Vocês pensaram que poderiam passar escondidos se tivesse apenas três de vocês moleques, huh? \!Esse não é apenas um pedágio...\! É um pedágio duplo!
+    text: \n<PEDAGIARÉ>Vocês pensaram que poderiam passar escondidos se fossem apenas três de vocês moleques, huh? \!Esse não é apenas um pedágio...\! É um pedágio duplo!
 
 # === STATIC VOID ===
 
@@ -315,7 +315,7 @@ message_996:
     text: A POÇÃO MISTERIOSA não funcionou no HERO.
 
 message_997:
-    text: O rótulo diz que a POÇÃO MISTERIOSA só funciona em baixo da água.
+    text: O rótulo diz que a POÇÃO MISTERIOSA só funciona embaixo da água.
 
 message_998:
     text: Os efeitos da POÇÃO MISTERIOSA acabaram...
@@ -423,7 +423,7 @@ message_353:
     text: \n<SR. ESPANTACADA>Hmph...\! Palavras não significam nada pra você, pelo que vejo.
 
 message_354:
-    text: \n<SR. ESPANTACADA>Ah...\! Eu me lembro quando as pessoas costumavam me ouvir...\!<br>Sabe... lá nos tempos da escola, todos costumavam me zuar por não ter pernas.
+    text: \n<SR. ESPANTACADA>Ah...\! Eu me lembro quando as pessoas costumavam me ouvir...\!<br>Sabe... lá nos tempos da escola, todos costumavam me zoar por não ter pernas.
 
 message_355:
     text: \n<SR. ESPANTACADA>Eles diziam coisas como...\!<br>"Oh olha! É o ESPANTACADA, de pé no mesmo lugar de sempre!\! Vamos usar ele como alvo de pontaria!"
@@ -432,19 +432,19 @@ message_356:
     text: \n<SR. ESPANTACADA>\sinv[1]Ohoooooo...\sinv[0]\! Crianças são tão maldosas... Tipo muito, muito cruéis...
 
 message_357:
-    text: \n<SR. ESPANTACADA>Heh heh...\! Você só está jogando bolas em mim!!\!<br>O que eu sequer tenho que reclamar?\!<br>Isso não é nada comparado ao que já tive que aturar.
+    text: \n<SR. ESPANTACADA>Heh heh...\! Você só está jogando bolas em mim!!\!<br>O que eu sequer tenho pra reclamar?\!<br>Isso não é nada comparado ao que já tive que aturar.
 
 message_358:
     text: \n<SR. ESPANTACADA>Sempre começa pequeno, sabe?\! Primeiro, eram \c[5]ELÁSTICOS DE BORRACHA\c[0]... depois \c[13]BOLAS DE BORRACHA\c[0]...\! Eu lembro que um garoto até jogou uma mesa em mim.
 
 message_359:
-    text: \n<SR. ESPANTACADA>É...\! Isso mesmo...\! Eu levei uma mesa inteira na cabeça!\! Eu costumava dizer pra mim mesmo... se eu consegui sobreviver aquilo, eu poderia sobreviver qualquer coisa.
+    text: \n<SR. ESPANTACADA>É...\! Isso mesmo...\! Eu levei uma mesa inteira na cabeça!\! Eu costumava dizer pra mim mesmo... se eu consegui sobreviver àquilo, eu poderia sobreviver qualquer coisa.
 
 message_360:
-    text: \n<SR. ESPANTACADA>Agora, sabe...\! Se eu tivesse mãos... nós poderíamos brincar de passe a bola.
+    text: \n<SR. ESPANTACADA>Agora, sabe...\! Se eu tivesse mãos... nós poderíamos brincar de passar a bola.
 
 message_361:
-    text: \n<SR. ESPANTACADA>Aqui, joga pra mim a bola.\! Eu vou tentar pegar.
+    text: \n<SR. ESPANTACADA>Aqui, joga a bola pra mim.\! Eu vou tentar pegar.
 
 message_362:
     text: \n<SR. ESPANTACADA>Droga...\! Acho que escorregou dos meus dedos...\! Haha...\! <br>Não se preocupe...\! Eu vou pegar na próxima.
@@ -483,7 +483,7 @@ message_371:
 #COUCH
 
 message_154:
-    text: Esse parece um bom lugar pra relaxar.\!<br>Você gostaria de dar um descanso?
+    text: Esse parece um bom lugar pra relaxar.\!<br>Você gostaria de ter um descanso?
 
 message_155:
     text: Já é hora de ir?
@@ -611,7 +611,7 @@ message_508:
 message_509:
       faceset: MainCharacters_DreamWorld
       faceindex: 1
-      text: Oh? O que é isso? Você está me pedindo ajuda, KEL?\! Que raro!\aub
+      text: Oh? O que é isso? Você tá me pedindo ajuda, KEL?\! Que raro!\aub
 
 message_510:
       faceset: MainCharacters_DreamWorld
@@ -713,7 +713,7 @@ message_520:
 message_852:
     faceset: MainCharacters_DreamWorld
     faceindex: 40
-    text: \herHmmm... Talvez a multidão diminua eventualmente...\! Vamos voltar depois.
+    text: \herHmmm... Talvez a multidão diminua alguma hora...\! Vamos voltar depois.
 
 #'MAXIMUS'
 
@@ -777,7 +777,7 @@ message_531:
     text: \n<BROTOPEIRA MORDOMO>\com[2]Você está delirando, irmão gêmeo!\!<br>Serei eu aquele que casará com a SWEETHEART!
 
 message_532:
-    text: \n<BROTOPEIRA MORDOMO>Oh, pelo amor! Isso não será competição alguma!\! Quando se trata de nós dois, eu sou de longe o mais fogoso!
+    text: \n<BROTOPEIRA MORDOMO>Oh, pelo amor! Isso não será competição alguma!\! Quando se trata de nós dois, eu sou de longe o mais impetuoso!
 
 message_533:
     text: \n<BROTOPEIRA MORDOMO>Não seja tolo, irmão! Nós somos exatamente iguais!\! Eu só sei que a SWEETHEART irá se apaixonar pela... minha personalidade!
@@ -786,10 +786,10 @@ message_534:
     text: \n<BROTOPEIRA MORDOMO>Tsc, tsc, tsc... Bobagem, irmão!\! Quando a hora chegar, ela ficará de pernas para o ar pelo meu novo bigode \sinv[1]estilooooso\sinv[0]!
 
 message_535:
-    text: \n<BROTOPEIRA MORDOMO>Hmph! Um bigode \sinv[1]estilooooso\sinv[0], você diz!?<br>\!Quê bigode!?\! Tudo que eu vejo é um par de pelos de nariz!
+    text: \n<BROTOPEIRA MORDOMO>Hmph! Um bigode \sinv[1]estilooooso\sinv[0], você diz!?<br>\!Que bigode!?\! Tudo que eu vejo é um par de pelos de nariz!
 
 message_536:
-    text: \n<BROTOPEIRA MORDOMO>Meu querido irmão...\! \com[2]Você realmente está me irritando!\!<br>Mas eu sei como resolvermos isso!
+    text: \n<BROTOPEIRA MORDOMO>Meu querido irmão...\! \com[2]Você realmente está me irritando!\!<br>Mas eu sei como resolver isso!
 
 message_537:
     text: \n<BROTOPEIRAS MORDOMOS>\{\{BROTOPEIRAS COMPANHEIRAS!!
@@ -873,7 +873,7 @@ message_558:
     text: \n<CASTELLA>Huff...\! huff...\! huff...
 
 message_901:
-    text: \n<CASTELLA>Aah! O que você está fazendo aqui!?\! Qual é, BROTOPEIRAS não são permitidas nos APOSENTOS DA SWEETHEART... Você ocnhece as regras!
+    text: \n<CASTELLA>Aah! O que você está fazendo aqui!?\! Qual é, BROTOPEIRAS não são permitidas nos APOSENTOS DA SWEETHEART... Você conhece as regras!
 
 message_902:
     text: \n<CASTELLA>Ah...\! Espera um pouco...\! Talvez você possa me ajudar.
@@ -911,7 +911,7 @@ message_565:
     text: \n<CASTELLA>Eu vou ficar encarando essa estátua e esperar que meus poderes psíquicos acordem.
 
 message_566:
-    text: \n<CASTELLA>Ufa... vocês salvaram a minha vida!\!<br>Eu deveria ter deixado essa tarefa pra especialistas!
+    text: \n<CASTELLA>Ufa... vocês salvaram a minha vida!\!<br>Eu devia saber que o melhor a se fazer é deixar essa tarefa para os especialistas!
 
 #AUBREY READYS
 
@@ -956,7 +956,7 @@ message_572:
     text: \n<BROTOPEIRA VIRTUOSA>\com[2]Não, não, não, não, não, não, não!\! Isso não servirá!\!<br>Você no centro-esquerdo! Você chama isso de cantar!?\!<br>O flamingo de plástico do meu primo canta melhor que você!
 
 message_573:
-    text: \n<BROTOPEIRA VIRTUOSA>E não pensem que eu não posso ver vocês ai no fundo dormindo durante o refrão!\! Se recomponham, senão a SWEETHEART nos jogará nas \c[11]MASMORRAS\C[0]!
+    text: \n<BROTOPEIRA VIRTUOSA>E não pensem que eu não posso ver vocês aí no fundo dormindo durante o refrão!\! Se recomponham, senão a SWEETHEART nos jogará nas \c[11]MASMORRAS\C[0]!
 
 message_574:
     faceset: MainCharacters_DreamWorld
@@ -978,7 +978,7 @@ message_578:
     text: \n<BROTOPEIRA VIRTUOSA>Sabe... Nós BROTOPEIRAS ficamos muito sonolentas escutando música...\! então como você pode imaginar, o coro fica se botando pra dormir!
 
 message_579:
-    text: \n<BROTOPEIRA VIRTUOSA>Aiai... Temo que teremos que recorrer à metodos...\!<br>\quake[1]alternativos...\!\quake[0] para mantê-los acordados...
+    text: \n<BROTOPEIRA VIRTUOSA>Ai ai... Temo que teremos que recorrer a metodos...\!<br>\quake[1]alternativos...\!\quake[0] para mantê-los acordados...
 
 message_580:
     faceset: MainCharacters_DreamWorld
@@ -1041,7 +1041,7 @@ message_593:
 #DANCING MOLES
 
 message_373:
-    text: \n<BROTOPEIRA DANÇARINA>Aiai...\! Eu quero dançar também, mas ninguém quer ser meu parceiro...
+    text: \n<BROTOPEIRA DANÇARINA>Ai ai...\! Eu quero dançar também, mas ninguém quer ser meu parceiro...
 
 message_374:
     text: \n<BROTOPEIRA DANÇARINA>...\! Algum de vocês quer dançar comigo?
@@ -1059,10 +1059,10 @@ message_378:
     text: \n<BROTOPEIRA DANÇARINA>Você quer dançar comigo novamente?
 
 message_379:
-    text: \n<BROTOPEIRA DANÇARINA>Yay...
+    text: \n<BROTOPEIRA DANÇARINA>Eba...
 
 message_799:
-    text: \n<BROTOPEIRA DANÇARINA>Aiai...\! O quê eu fiz para merecer essa solidão?
+    text: \n<BROTOPEIRA DANÇARINA>Ai ai...\! O quê eu fiz para merecer essa solidão?
 
 
 
@@ -1075,7 +1075,7 @@ message_799:
 message_594:
     faceset: MainCharacters_DreamWorld
     faceindex: 18
-    text: \kel\sinv[1]Woo-hoo! Finalmente saimos do castelo da SWEETHEART!\!\sinv[0]<br>Me pergunto sobre o quê é esse grande evento que todos estão se preparando...
+    text: \kel\sinv[1]Uhuuu! Finalmente saimos do castelo da SWEETHEART!\!\sinv[0]<br>Me pergunto sobre o quê é esse grande evento que todos estão se preparando...
 
 message_595:
     faceset: MainCharacters_DreamWorld
@@ -1092,7 +1092,7 @@ message_596:
 message_309:
     faceset: MainCharacters_DreamWorld
     faceindex: 31
-    text: \kel\{\{\quake[1]OWWW!! ISSO MACHUCOU!!\}\}
+    text: \kel\{\{\quake[1]AIII!! ISSO MACHUCOU!!\}\}
 
 message_310:
     faceset: MainCharacters_DreamWorld
@@ -1114,7 +1114,7 @@ message_311:
 message_312:
     faceset: MainCharacters_DreamWorld
     faceindex: 25
-    text: \kelTa legal, SWEETHEART... Você pediu por isso!
+    text: \kelTá legal, SWEETHEART... Você pediu por isso!
 
 message_313:
     faceset: MainCharacters_DreamWorld
@@ -1198,7 +1198,7 @@ message_3:
     text: \n<ALEX O ESTIMADO>...\! Hmm...\! Hmmmmmm...\!<br>Acho que eu não tenho escolha então...\!<br>Mas você precisa me prometer que não vai contar pra ninguém!<br>\Com[2]\{PROMETA DE DEDINHO!
 
 message_4:
-    text: \n<ALEX O ESTIMADO>E feito!\!<br>Ufa... eu estava preocupado que você fosse alguém indigno de minha confiança!<br>Agora...\! se aproxime...\!<br>\}A senha que me foi confiada é...\! "RECHEADA".\!<br>Entendeu?\! Me prometa que não conterá pra ninguém, ok?
+    text: \n<ALEX O ESTIMADO>E pronto!\!<br>Ufa... eu estava preocupado que você fosse alguém indigno de minha confiança!<br>Agora...\! se aproxime...\!<br>\}A senha que me foi confiada é...\! "RECHEADA".\!<br>Entendeu?\! Me prometa que não conterá pra ninguém, ok?
 
 message_5:
     text: \n<ALEX O ESTIMADO>Me desculpe, mas você precisa aprender a guardar segredo antes que eu possa te contar a senha secreta.
@@ -1209,10 +1209,10 @@ message_400:
     text: \n<BRIAN O DISTINTO>Existem quatro senhas que devem ser ditas para a estátua da SWEETHEART pra revelar o túnel secreto.<br><br>Naturalmente, como um dos escolhidos da elite, me foi dada a responsabilidade de guardar a segunda das quatro!
 
 message_6:
-    text: \n<BRIAN O DISTINTO>Você quer saber a senha, eh?\!<br>\com[2]Não tão rápido, amigo.\!<br>Eu preciso dizer... Você é terrivelmente alto pra uma BROTOPEIRA...
+    text: \n<BRIAN O DISTINTO>Você quer saber a senha, é?\!<br>\com[2]Não tão rápido, amigo.\!<br>Eu preciso dizer... Você é terrivelmente alto pra uma BROTOPEIRA...
 
 message_7:
-    text: \n<BRIAN O DISTINTO>\com[2]Como eu vou saber que você é um de nós, criaturas altamente inteligentes e majestosas?\! Você realmente acha que eu passaria a senha pra um espião em potencial? \!Ha!\! Não me faça rir!
+    text: \n<BRIAN O DISTINTO>\com[2]Como eu vou saber que você é uma de nós, criaturas altamente inteligentes e majestosas?\! Você realmente acha que eu passaria a senha pra um espião em potencial? \!Ha!\! Não me faça rir!
 
 message_8:
     text: \n<BRIAN O DISTINTO>Se você tem tanta certeza que é uma BROTOPEIRA, por que não me prova?\! Eu te digo a senha... se você conseguir adivinhar o que eu estou pensando nesse momento!
@@ -1291,10 +1291,10 @@ message_21:
     text: \n<HELEN A CALAMITOSA>Mas, ugh!\! Eu deveria guardar essa senha super secreta e tal, né? Mas, tipo, ela é sobre comida, e agora eu fico pensando em comida o tempo todo...<br>Isso me deixa tão faminta, que eu comecei a mastigar a grama pra me saciar! Pode acreditar nisso!? Eles deviam começar a providenciar comida pros guardas daqui!
 
 message_22:
-    text: \n<HELEN A CALAMITOSA>E então, que tipo de senha é essa de qualquer forma? "ROSQUINHA"?\! Que nem aquele apelido idiota que aquele cara azul estranho ficava chamando a SWEETHEART ou algo do tipo?<br>\com[2]Pelo amoooor!\! Isso não é segredo algum! Qualquer um poderia adivinhar isso! Eles sempre ficavam andando juntos que nem casalzinhos, chamando um ao outro de apelidos assim...<br>Dizendo coisas tipo, "Por que você não me pediu em casamento ainda?" e"Me desculpe. Meus amigos não aprovam nosso relacionamento..." o tempo todo... Ugh! Tão irritante!
+    text: \n<HELEN A CALAMITOSA>E então, que tipo de senha é essa de qualquer forma? "ROSQUINHA"?\! Que nem aquele apelido idiota que aquele cara azul estranho ficava chamando a SWEETHEART ou algo do tipo?<br>\com[2]Pelo amoooor!\! Isso não é segredo algum! Qualquer um poderia adivinhar isso! Eles sempre ficavam andando juntos que nem um casalzinho, chamando um ao outro de apelidos assim...<br>Dizendo coisas tipo, "Por que você não me pediu em casamento ainda?" e"Me desculpe. Meus amigos não aprovam nosso relacionamento..." o tempo todo... Ugh! Tão irritante!
 
 message_23:
-    text: \n<HELEN A CALAMITOSA>Mas, tanto faz...\! Eu ainda estou presa aqui guardando as senhas com esses outros três guardas...\! Esses caras não conseguiriam manter um segredo mesmo que suas vidas dependessem disso!<br>Hmph! É isso mesmo! Pode até ter pena de mim! Como se eu me importasse!\! Aqui estou eu, presa sozinha nesse cantinho do jardim, guardando a palavra "ROSQUINHA" entre tantas outras palavras!\! CARAMBOLAS!
+    text: \n<HELEN A CALAMITOSA>Mas, tanto faz...\! Eu ainda estou presa aqui guardando as senhas com outros três guardas...\! Esses caras não conseguiriam manter um segredo mesmo que suas vidas dependessem disso!<br>Hmph! É isso mesmo! Pode até ter pena de mim! Como se eu me importasse!\! Aqui estou eu, presa sozinha nesse cantinho do jardim, guardando a palavra "ROSQUINHA" entre tantas outras palavras!\! CARAMBOLAS!
 
 #PASSWORD STATUE PART 1
 
@@ -1526,7 +1526,7 @@ message_422:
     text: Você pegou \c[3]FRUTA DINO\c[0].
 
 message_423:
-    text: Você pegou \c[3]REFRI DINO DE MELÂNCIA\c[0].
+    text: Você pegou \c[3]REFRI DINO DE MELANCIA\c[0].
 
 message_424:
     text: Você pegou \c[3]NUGGET DINO\c[0].
@@ -1627,7 +1627,7 @@ message_88:
     text: Você deseja devolver os \c[3]\v[102]\c[0]?
 
 message_80:
-    text: \n<PAPAI FORNO>PAPAI FORNO vê vocês olhando aquela bandeija de BISCOITOS DE AVEIA.\! PAPAI FORNO te avisa agora pelo seu bem...\! Não se atreva!
+    text: \n<PAPAI FORNO>PAPAI FORNO vê vocês olhando aquela bandeja de BISCOITOS DE AVEIA.\! PAPAI FORNO te avisa agora pelo seu bem...\! Não se atreva!
 
 message_81:
     text: \n<PAPAI FORNO>Agora escute aqui...\! PAPAI FORNO salvou bastante exploradores avisando eles sobre a variedade de perigos nessas tumbas.
@@ -1656,7 +1656,7 @@ message_179:
     text: \n<PAPAI FORNO>\sinv[1]Hoho!\sinv[0]\! PAPAI FORNO te deseja boa sorte!
 
 message_180:
-    text: \n<PAPAI FORNO>Como sinal de boa vontade, PAPAI FORNO te dará algo que sabe que vai gostar!
+    text: \n<PAPAI FORNO>Como sinal de boa vontade, PAPAI FORNO te dará algo que você vai gostar!
 
 message_521:
     text: PAPAI FORNO te deu \c[3]PÃO\c[0]!
@@ -1723,10 +1723,10 @@ message_221:
 #'DOUGHIE & BISCUIT' - UNUSED
 
 message_222:
-    text: \n<BISCOITA>Eu juro que não sei por quê pensei que eles eram fantasmas.
+    text: \n<BISCOITA>Eu juro que não sei por que pensei que eles eram fantasmas.
 
 message_223:
-    text: \n<BOLACHO>Cozinhar foi divertido, mas eu gostei também de nossa batalha.
+    text: \n<BOLACHO>Cozinhar foi divertido, mas eu também gostei da nossa batalha.
 
 #'DOUGHIE & BISCUIT': Escape (Doom Entrance: 114) - UNUSED
 
@@ -1818,7 +1818,7 @@ message_91:
     text: \n<PEDAGIARÉ>Então vocês crianças querem acessar a rua do pedágio?\! Bom... claro!\! Mas enquanto isso, vamos deixar um pouco mais divertido.
 
 message_92:
-    text: \n<PEDAGIARÉ>Por que não roda essa roleta para mim?
+    text: \n<PEDAGIARÉ>Por que não roda essa roleta pra mim?
 
 message_93:
     text: \n<PEDAGIARÉ>\{\sinv[1]BELO GIRO, CARA!
@@ -1863,15 +1863,15 @@ message_106:
     text: \n<PEDAGIARÉ>Até, jaré...
 
 message_107:
-    text: \n<PEDAGIARÉ>Whoa, whoa, whoa! Onde está indo, amigão?
+    text: \n<PEDAGIARÉ>Epa, epa, epa! Onde está indo, amigão?
 
 message_108:
-    text: \n<PEDAGIARÉ>Devagar e sempre...<br>Não vê que isso é um pedágio?\!<br>\com[2]Pegue as CONCHAS ou saia daqui!
+    text: \n<PEDAGIARÉ>Devagar e sempre...<br>Não vê que isso é um pedágio?\!<br>\com[2]Pague as CONCHAS ou saia daqui!
 
 #TOLL GATE 2
 
 message_109:
-    text: \n<PEDAGIARÉ>Então você quer que eu abra o portão, hum?\!<br>Seria um prazer!\! Só vai te custar 2000 CONCHAS.\$
+    text: \n<PEDAGIARÉ>Então você quer que eu abra o portão, huh?\!<br>Seria um prazer!\! Só vai te custar 2000 CONCHAS.\$
 
 message_110:
     text: \n<PEDAGIARÉ>Vocês crianças são espertas! \v[1001] CONCHAS é um roubo!\!<br>\}...\! Heh...\! É como roubar \c[3]DOCE\c[0] de um bebê...
@@ -1880,7 +1880,7 @@ message_111:
     text: \n<PEDAGIARÉ>Querem dizer que não têm 2000 CONCHAS com vocês?<br>Que triste...\! Realmente, que má sorte...
 
 message_112:
-    text: \n<PEDAGIARÉ>Mass, ei!\! Não precisa ficar triste!<br>Eu tenho um plano infalível para tirar vocês dessa situação, sabe?
+    text: \n<PEDAGIARÉ>Mas, ei!\! Não precisa ficar triste!<br>Eu tenho um plano infalível para tirar vocês dessa situação, sabe?
 
 message_113:
     text: \n<PEDAGIARÉ>Ahem...\! Você só precisa assinar esses papéis, esses papéis, esses papéis e esses papéis...\! E vejam só! Você ganhará \v[979] CONCHAS facinho!
@@ -1894,7 +1894,7 @@ message_115:
     text: \n<PEDAGIARÉ>Aqui vai!\! 2000 CONCHAS!\! Fácil assim!
 
 message_116:
-    text: \n<PEDAGIARÉ>Ei, e também...\! Cuidado com o interesse.\!<br>Nós voltaremos para coletar...
+    text: \n<PEDAGIARÉ>Ei, e também...\! Cuidado com os juros.\!<br>Nós voltaremos para coletar...
 
 message_117:
     text: \n<PEDAGIARÉ>Qual é! Não seja um estranho!
@@ -1987,7 +1987,7 @@ message_139:
     text: \n<PILOTO DE TÁXI>Ei, criança! Quer ir em algum lugar legal?
 
 message_140:
-    text: \n<PILOTO DE TÁXI>Você deveria ir ao \c[11]ÚLTIMO RESORT\c[0]!<br>É o lugar mais dahora e famoso para estar esses dias, um verdadeiro paraíso na terra...\!<br>Você já deve ter ouvido falar!
+    text: \n<PILOTO DE TÁXI>Você deveria ir ao \c[11]ÚLTIMO RESORT\c[0]!<br>É o lugar mais maneiro e famoso para ir atualmente, um verdadeiro paraíso na terra...\!<br>Você já deve ter ouvido falar!
 
 message_141:
     text: \n<PILOTO DE TÁXI>Posso te levar lá pelo pequeno preço de 3000 CONCHAS!<br>Qual é... Não sejam tímidos!\! Eu não mordo...\! muito...
@@ -2026,7 +2026,7 @@ message_146:
 #     text: Down
 
 message_292:
-    text: Welcome to MEDUSA's waterslide!\!<br>Navigate the currents by holding down an ARROW KEY!
+    text: Bem-vindo ao toboágua da MEDUSA!\!<br>Controle a correnteza segurando uma TECLA DE SETA!
 
 ### NO LONGER USED ###
 
@@ -2061,7 +2061,7 @@ message_232:
 #RECEPTION HUMPHREY
 
 message_233:
-    text: \n<HUMPHREY RECEPCIONISTA>Bem-vindo!\! MARINA não está encontrando ninguém por agora...\! mas se você está curtindo a exibição, sinta-se livre para entrar na gaiola e esperar pelo próximo experimento disponível.
+    text: \n<HUMPHREY RECEPCIONISTA>Bem-vindo!\! MARINA não quer se encontrar com ninguém agora...\! mas se você está curtindo a exibição, sinta-se livre para entrar na gaiola e esperar pelo próximo experimento disponível.
 
 message_234:
     text: \n<HUMPHREY RECEPCIONISTA>Você saberá quando os gritos pararem.
@@ -2074,7 +2074,7 @@ message_372:
     text: \n<HUMPHREY>Gosto desse lugar!
 
 message_621:
-    text: \n<HUMPHREY>Escutei que tinham várias melâncias aqui, então vim e comi todas!\ Mmm... dee-licioso!
+    text: \n<HUMPHREY>Escutei que tinham várias melancias aqui, então vim e comi todas!\ Mmm... de-licioso!
 
 # -----------------------------------------------
 # - SLIME GIRLS: MEDUSA (250)
@@ -2090,7 +2090,7 @@ message_237:
     text: \n<HUMPHREY>Vocês sabiam que nós HUMPHREYS somos fortes o suficiente para ir contra a força de uma cachoeira?\! Olhe isso!
 
 message_238:
-    text: \n<HUMPHREY>Droga!\! Exceto por aquele cara, eu acho...<br>\!Oh bem! É só a seleção natural acontecendo.
+    text: \n<HUMPHREY>Droga!\! Exceto por aquele cara, eu acho...<br>\!Oh, bem! É só a seleção natural acontecendo.
 
 message_239:
     faceset: MainCharacters_DreamWorld
@@ -2127,7 +2127,7 @@ message_904:
 # -----------------------------------------------
 
 message_327:
-    text: \n<HUMPHREY>Todos os meus amigos me deixaram para trás para construir uma ponte...\! mas vou me vingar fazendo uma maior ainda!
+    text: \n<HUMPHREY>Todos os meus amigos me deixaram pra trás pra construir uma ponte...\! mas vou me vingar fazendo uma maior ainda!
 
 message_328:
     text: \n<HUMPHREY>Se você achar algum HUMPHREY por aí, mande ele para mim.
@@ -2216,7 +2216,7 @@ message_503:
 message_504:
       faceset: MainCharacters_DreamWorld
       faceindex: 18
-      text: Você consegue! Mostre para esse quebra-cabeça quem manda!\kel
+      text: Você consegue! Mostre pra esse quebra-cabeça quem manda!\kel
 
 message_505:
       faceset: MainCharacters_DreamWorld
@@ -2273,7 +2273,7 @@ message_454:
     text: \n<HUMPHREY>Com o poder da tecnologia moderna, posso mandar essa BROTOPEIRA pro outro lado!\! Olhem só!
 
 message_455:
-    text: \n<HUMPHREY>\com[2]O quê!? Um erro?\! ...\!<br>Alguém deve ter mexido com o programa.<br><br>Droga...\! Provavelmente foi a MOLLY denovo...\!<br>Ela sempre faz bobagens como essa...
+    text: \n<HUMPHREY>\com[2]O quê!? Um erro?\! ...\!<br>Alguém deve ter mexido com o programa.<br><br>Droga...\! Provavelmente foi a MOLLY de novo...\!<br>Ela sempre faz bobagens como essa...
 
 message_456:
     text: \n<HUMPHREY>Porcaria, MOLLY!\! Tudo funcionou perfeitamente hoje de manhã...
@@ -2281,7 +2281,7 @@ message_456:
 #SECOND HUMPHREY (Pattern)
 
 message_447:
-    text: \n<HUMPHREY>Olá, visitantes!\! Estice conduzindo um experimento no movimento HUMPHREY-por-HUMPHREY!\! Vocês chegaram na hora pra ver nosso teste final!
+    text: \n<HUMPHREY>Olá, visitantes!\! Estive conduzindo um experimento no movimento HUMPHREY-através-HUMPHREY!\! Vocês chegaram na hora pra ver nosso teste final!
 
 message_448:
     text: \n<HUMPHREY>Estão prontos, pessoal?\! Vamos fazer como praticamos!
@@ -2310,7 +2310,7 @@ message_476:
 #FOURTH HUMPHREY (Pattern)
 
 message_452:
-    text: \n<HUMPHREY>Ah! Olá, visitantes!\! Depois de meses e meses de trabalho e cansaço, Eu consegui criar a primeira máquina de holograma HUMPHREY!<br>Eles não parecem com os reais?\!<br>Sniff...\! Não poderia estar mais orgulhoso...
+    text: \n<HUMPHREY>Ah! Olá, visitantes!\! Depois de meses e meses de trabalho e cansaço, Eu consegui criar a primeira máquina de holograma HUMPHREY!<br>Eles não se parecem com os reais?\!<br>Sniff...\! Não poderia estar mais orgulhoso...
 
 message_453:
     text: \n<HUMPHREY>MOLLY me disse para eu esperar aqui, mas não sei o porquê!
@@ -2389,7 +2389,7 @@ message_177:
     text: HERO
 
 message_450:
-    text: \n<HUMPHREY>Espere um pouco! Não tão rápido amigão. Você ainda não acabou aqui!\! Certifique-se de passar por todos eles!
+    text: \n<HUMPHREY>Espere um pouco! Não tão rápido, amigão. Você ainda não acabou aqui!\! Certifique-se de passar por todos eles!
 
 # -----------------------------------------------
 # - SLIME GIRLS: LOST ROOM 1 (241) UNUSED
@@ -2409,7 +2409,7 @@ message_609:
 # -----------------------------------------------
 
 message_487:
-    text: \n<HUMPHREY INTELIGENTE>Uma baleia sábia uma vez disse...<br>"A ordem da rota te conduzirá para a solução!"\! ou algo assim...
+    text: \n<HUMPHREY INTELIGENTE>Uma baleia sábia uma vez disse...<br>"A ordem da rota te levará para a solução!"\! ou algo assim...
 
 # -----------------------------------------------
 # - SLIME GIRLS: MOLLY ROOM LEFT 2 (240)
@@ -2454,7 +2454,7 @@ message_336:
 message_337:
     faceset: MainCharacters_DreamWorld
     faceindex: 17
-    text: \kelEi, monte de sucata!<Br>Você vai mexer uns parafusos por nós, não vai?
+    text: \kelEi, monte de sucata!<Br>Você vai mexer uns parafusos pra gente, não vai?
 
 message_338:
       text: \n<SR. ESTEIROBÔ>\quake[1]Bzzzzzt!\! Ahh...\! Hmm...\! Pessoa rude...\!<br>Hehe...\! Como a MOLLY...\quake[0]
@@ -2492,10 +2492,10 @@ message_491:
     text: \n<HUMPHREY>E quando eu digo "sua direita", digo você, que está na minha frente... não algum observador hipotético que nos olha por trás de uma tela.
 
 message_492:
-    text: \n<HUMPHREY>Isso deve ser para um dos quebra-cabeças malucos da MOLLY denovo...
+    text: \n<HUMPHREY>Isso deve ser para um dos quebra-cabeças malucos da MOLLY de novo...
 
 message_493:
-    text: \n<HUMPHREY>Aquela garota gosta de jogar demais. Se ela apenas focasse, provavelmente poderia fazer tão bem pro mundo!
+    text: \n<HUMPHREY>Aquela garota gosta de jogar demais. Se ela apenas focasse, provavelmente poderia fazer tanto bem para o mundo!
 
 message_494:
     text: \n<HUMPHREY>É ótimo que chequei antes de escrever esse "M", senão eu quase escreveria outro "B"...
@@ -2566,10 +2566,10 @@ message_252:
     text: \n<RECICULTISTA>Ela recicla minha alma.<br>Ela me leva para um caminho de limpeza.
 
 message_253:
-    text: \n<RECICULTISTA>Que o garfo biodegrádavel leve nossos pecados para que possamos ser puros.
+    text: \n<RECICULTISTA>Que o garfo biodegradável leve nossos pecados para que possamos ser puros.
 
 message_254:
-    text: \n<RECICULTISTA>Um dia seremos reciclados nela para ser levados à um mundo sem lixo.
+    text: \n<RECICULTISTA>Um dia seremos reciclados nela para sermos levados a um mundo sem lixo.
 
 message_255:
     text: \n<RECICULTISTA>Ó, grande lata de lixo no céu, pedimos que nos limpe e tire nosso lixo!
@@ -2578,20 +2578,20 @@ message_256:
     text: \n<RECICULTISTA>Que o espírito da luva de borracha trabalhe por mim,<br>para que eu chegue mais perto da lata de lixo no céu e o mundo sem lixo.
 
 message_257:
-    text: \n<RECICULTISTA>A lata sagrada amava tanto esse mundo que nos deu seu único garfo biodegrádavel limpo, que quem acredita nela não deve sujar, mas ter uma vida sem lixo...
+    text: \n<RECICULTISTA>A lata sagrada amava tanto esse mundo que nos deu seu único garfo biodegradável limpo, que quem acredita nela não deve sujar, mas ter uma vida sem lixo...
 
 message_258:
     text: \n<RECICULTISTA>Irmãos e irmãs, todos nós devemos aceitar que somos lixos.
 
 message_259:
-    text: \n<RECICULTISTA>Mesmos se somos lixo, se continuarmos biodegrádaveis ainda seremos salvos.
+    text: \n<RECICULTISTA>Mesmos sendo lixo, se continuarmos biodegradáveis ainda poderemos ter salvação.
 
 # -----------------------------------------------
 # - RECYCULTIST: END PRAYER (341)
 # -----------------------------------------------
 
 message_260:
-    text: \n<RECICULTISTA>Em nome do garfo biodegrádavel...\!<br>Reduza, reuse e recicle.
+    text: \n<RECICULTISTA>Em nome do garfo biodegradável...\!<br>Reduza, reuse e recicle.
 
 # -----------------------------------------------
 # - RECYCULTIST: DEFEATED (341)
@@ -2610,7 +2610,7 @@ message_264:
     text: \n<RECICULTISTA>Eu sei que ele é nosso líder e tudo mais, mas construir uma grande torre de lixo parece algo profano, não acha?
 
 message_265:
-    text: \n<RECICULTISTA>Sniff... Sniff...\! Ewww...\!<br>Estou meio sujo. Preciso ir para casa tomar um banho.
+    text: \n<RECICULTISTA>Sniff... Sniff...\! Ecaaa...\!<br>Estou meio sujo. Preciso ir para casa tomar um banho.
 
 message_266:
     text: \n<RECICULTISTA>Ei...\! Você provavelmente não liga, mas...<br>Eu na verdade não acredito nisso.
@@ -2622,7 +2622,7 @@ message_268:
     text: \n<RECICULTISTA>Droga... Eu perdi...
 
 message_269:
-    text: \n<RECICULTISTA>Ei, não me julgue, tá!?<br>Só estou fazzendo isso por pontos do colégio...
+    text: \n<RECICULTISTA>Ei, não me julgue, tá!?<br>Só estou fazzendo isso por pontos da faculdade...
 
 # -----------------------------------------------
 # - RECYCULTIST: MISC (341)
@@ -2640,7 +2640,7 @@ message_248:
     text: \n<RECICULTISTA>Volte quando seus números excederem os nossos!\! Então teremos nossa batalha.
 
 message_282:
-    text: \n<RECICULTISTA>Uh-oh...\! parece que seu exército é maior agora.
+    text: \n<RECICULTISTA>oh-oh...\! parece que seu exército é maior agora.
 
 message_283:
     text: \n<RECICULTISTA>Parece que não temos outra escolha além de nos render...\! Beleza, vamos lá.\! Alguém livre para um churrasco hoje?
@@ -2661,16 +2661,16 @@ message_286:
 message_287:
       faceset: MainCharacters_Faraway
       faceindex: 37
-      text: Esse lugar não se encaixa com você...\! Por que não tomamos conta dessa bagunça antes que ela acumule mais?\her
+      text: Esse lugar não se encaixa com você...\! Por que não tomamos conta dessa bagunça antes que saia do controle?\her
 
 message_288:
     text: \n<RECICULTISTA>É, você provavelmente tem razão.
 
 message_289:
-    text: \n<RECICULTISTA>Eu adoraria ir com você, mas não parece estar sobrando espaço para mim...
+    text: \n<RECICULTISTA>Eu adoraria ir com você, mas não parece estar sobrando espaço pra mim...
 
 message_290:
-    text: \n<RECICULTISTA>Um desprezível carregador de plástico deseja minha aliança?\! Nunca!\!<br>...\! Mas...\! Talvez se você fosse alguém mais charmoso.
+    text: \n<RECICULTISTA>Um desprezível usuário de plástico deseja minha aliança?\! Nunca!\!<br>...\! Mas...\! Talvez se você fosse alguém mais charmoso.
 
 message_291:
     text: \n<RECICULTISTA>Eu deveria repensar minha vida...
@@ -2698,16 +2698,16 @@ message_275:
     text: \n<RECICLOPATA>O espírito da luva de borracha disse que esse mundo não serve mais para nós.\! Devemos construir, como a lata sagrada comanda...
 
 message_276:
-    text: \n<RECICLOPATA>Para alcançar o mundo sem lixo, onde humanos e materiais biodegrádaveis coexistem em harmonia!
+    text: \n<RECICLOPATA>Para alcançar o mundo sem lixo, onde humanos e materiais biodegradáveis coexistem em harmonia!
 
 message_277:
     text: \n<RECICLOPATA>Vocês crianças subiram um longo caminho para chegar aqui...\! mas temo que aqui será onde sua jornada termina.
 
 message_278:
-    text: \n<RECICLOPATA>Afinal, vocês não são nada além de lixo...\!<br>lixos, usadores de plástico sem sentimentos!
+    text: \n<RECICLOPATA>Afinal, vocês não são nada além de lixo...\!<br>lixo, usuários de plástico sem sentimentos!
 
 message_279:
-    text: \n<RECICLOPATA>Que a graça do garfo biodegrádavel desça diante de mim!
+    text: \n<RECICLOPATA>Que a graça do garfo biodegradável desça diante de mim!
 
 message_280:
     text: \n<RECICLOPATA>Prepare-se para ser \com[2]reciclado!
@@ -2751,7 +2751,7 @@ message_321:
     text: \n<RECICULTISTA>Lata sagrada, tu que estás no céu, livre de ferrugem e sujeira.
 
 message_322:
-    text: \n<RECICULTISTA>Venha a tua limpeza, seja feita a tua vontade, tanto na terra como no mundo sem lixo.
+    text: \n<RECICULTISTA>Venha a tua limpeza, seja feita a sua vontade, tanto na terra como no mundo sem lixo.
 
 message_323:
     text: \n<RECICULTISTA>Nos dê esse dia, a nossa luva diária, e nos perdoe pelas nossas ofensas, enquanto limpamos o lixo feito por aqueles que nos ofenderam.
@@ -2760,7 +2760,7 @@ message_324:
     text: \n<RECICULTISTA>Não caiamos em tentação, e livrai-nos dos que acumulam lixo.
 
 message_325:
-    text: \n<RECICULTISTA>Em nome do garfo biodegrádavel...
+    text: \n<RECICULTISTA>Em nome do garfo biodegradável...
 
 message_326:
     text: \n<RECICULTISTA>Reduza, reuse e recicle.
