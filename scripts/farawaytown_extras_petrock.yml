@@ -350,24 +350,24 @@ message_300:
 
 #Intro
 message_105:
-      text: \n<CARA DO REPARA-JÁ>Heh...\! Eu vejo que está mostrando seu \c[13]PET DRITO\c[0] aí!\! Eu geralmente não uso meu \c[13]PET DRITO\c[0] durante o horário de trabalho...\! mas você deve ser muito bom se o CAIXA te enviou.
+      text: \n<CARA DO CONSERTA-JÁ>Heh...\! Eu vejo que está mostrando seu \c[13]PET DRITO\c[0] aí!\! Eu geralmente não uso meu \c[13]PET DRITO\c[0] durante o horário de trabalho...\! mas você deve ser muito bom se o CAIXA te enviou.
 
 message_106:
-      text: \n<CARA DO REPARA-JÁ>Você está pronto para um desafio de \sinv[1]verdade\sinv[0]?
+      text: \n<CARA DO CONSERTA-JÁ>Você está pronto para um desafio de \sinv[1]verdade\sinv[0]?
 
 #yes
 message_107:
-      text: \n<CARA DO REPARA-JÁ>Como um dos quatro veteranos da \c[11]PRAÇA TÃO-DISTANTE\c[0], Eu tenho uma reputação a manter!\! Se você está pedindo para QUEBRAR, eu não irei cair tão fácil!
+      text: \n<CARA DO CONSERTA-JÁ>Como um dos quatro veteranos da \c[11]PRAÇA TÃO-DISTANTE\c[0], Eu tenho uma reputação a manter!\! Se você está pedindo para QUEBRAR, eu não irei cair tão fácil!
 
 #player win
 message_108:
-      text: \n<CARA DO REPARA-JÁ>\com[2]Não pode ser! Isso deve ser algum engano...\! P'TERRY...\! Como podemos perder?\! \sinv[1]Ai ai...\sinv[0]\! Tanto faz...\!<br>Hora de voltar ao trabalho...
+      text: \n<CARA DO CONSERTA-JÁ>\com[2]Não pode ser! Isso deve ser algum engano...\! P'TERRY...\! Como podemos perder?\! \sinv[1]Ai ai...\sinv[0]\! Tanto faz...\!<br>Hora de voltar ao trabalho...
 #player loses
 message_109:
-      text: \n<CARA DO REPARA-JÁ>Boa tentativa, moleque.\! Isso foi bem divertido, mas o P'TERRY é o QUEBRADOR superior!\! Boa sorte da próxima vez!
+      text: \n<CARA DO CONSERTA-JÁ>Boa tentativa, moleque.\! Isso foi bem divertido, mas o P'TERRY é o QUEBRADOR superior!\! Boa sorte da próxima vez!
 
 message_110:
-      text: \n<CARA DO REPARA-JÁ>Ha! Foi o que eu pensei!
+      text: \n<CARA DO CONSERTA-JÁ>Ha! Foi o que eu pensei!
 
 # =========================================================================================
       #Cool S

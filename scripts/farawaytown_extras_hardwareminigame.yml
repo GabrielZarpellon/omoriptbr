@@ -13,15 +13,15 @@ message_20:
 
 #Intro
 message_0:
-      text: \n<CARA DO REPARA-JÁ>Yo, moleque! Eu te vi encarando esse poster de PROCURA-SE AJUDA!\!<br>Tá interessado em um trabalho rápido?
+      text: \n<CARA DO CONSERTA-JÁ>Yo, moleque! Eu te vi encarando esse poster de PROCURA-SE AJUDA!\!<br>Tá interessado em um trabalho rápido?
 
 #[Nod/Shake]
 #[Nod]
 message_1:
-      text: \n<CARA DO REPARA-JÁ>Daora, moleque!\! Eu te ajudo a começar.
+      text: \n<CARA DO CONSERTA-JÁ>Daora, moleque!\! Eu te ajudo a começar.
 #[Shake]
 message_2:
-      text: \n<CARA DO REPARA-JÁ>Bom, tudo bem.<br>\!Se quiser um dinheiro extra, é só falar.
+      text: \n<CARA DO CONSERTA-JÁ>Bom, tudo bem.<br>\!Se quiser um dinheiro extra, é só falar.
 
 #Tool Names
 message_3:
@@ -65,10 +65,10 @@ message_15:
 
 # Trying to leave the shop without finishing your job
 message_16:
-      text: \n<CARA DO REPARA-JÁ>Ei! Onde você pensa que você vai?
+      text: \n<CARA DO CONSERTA-JÁ>Ei! Onde você pensa que você vai?
 
 message_17:
-      text: \n<CARA DO REPARA-JÁ>Achei que tivessemos um acordo!\! Organize as prateleiras e você é pago!
+      text: \n<CARA DO CONSERTA-JÁ>Achei que tivessemos um acordo!\! Organize as prateleiras e você é pago!
 
 # Complete
 message_18:
@@ -76,18 +76,18 @@ message_18:
 
 #Rule Explanation
 message_23:
-      text: \n<CARA DO REPARA-JÁ>Muito bem, moleque.\! Dê uma boa olhada nessas prateleiras atrás de você e verá que está tudo uma grande bagunça!
+      text: \n<CARA DO CONSERTA-JÁ>Muito bem, moleque.\! Dê uma boa olhada nessas prateleiras atrás de você e verá que está tudo uma grande bagunça!
 
 message_24:
-      text: \n<CARA DO REPARA-JÁ>Você acharia que com uma placa em cima da prateleira seria óbvio onde colocar as coisas, mas as pessoas não ligam esses dias...\! Ai ai...\! Eu odeio trabalhar no varejo...
+      text: \n<CARA DO CONSERTA-JÁ>Você acharia que com uma placa em cima da prateleira seria óbvio onde colocar as coisas, mas as pessoas não ligam esses dias...\! Ai ai...\! Eu odeio trabalhar no varejo...
 
 message_21:
-      text: \n<CARA DO REPARA-JÁ>De qualquer forma, a placa em cima da prateleira mostra o que deveria estar à mostra.\! Seu trabalho é mover tudo para seu lugar de direito, entendeu?\! Estou contando com você, moleque.
+      text: \n<CARA DO CONSERTA-JÁ>De qualquer forma, a placa em cima da prateleira mostra o que deveria estar à mostra.\! Seu trabalho é mover tudo para seu lugar de direito, entendeu?\! Estou contando com você, moleque.
 
 #Quest Finish
 
 message_22:
-      text: \n<CARA DO REPARA-JÁ>\sinv[1]Ronco...\| Ronco...\!\sinv[0] H-Hã? O que? Você finalmente acabou?\!<br>Excelente trabalho, moleque!\! Aqui está $30.00!\!<br>Não gaste tudo de uma vez!
+      text: \n<CARA DO CONSERTA-JÁ>\sinv[1]Ronco...\| Ronco...\!\sinv[0] H-Hã? O que? Você finalmente acabou?\!<br>Excelente trabalho, moleque!\! Aqui está $30.00!\!<br>Não gaste tudo de uma vez!
 
 #Return to Party:
 message_40:
@@ -96,4 +96,4 @@ message_40:
       text: \KelEi, \n[8]! Como foi?\! Enquanto você estava trabalhando,<br>Eu decidi jogar um pouco de basquete no parque!\!<br>Cara, aquilo foi divertido...\! Bom...\! Eu estou pronto pra ir quando você estiver!
 
 message_30:
-      text: \n<CARA DO REPARA-JÁ>Hmm...\! Vamos ver aqui...\! Uh... é! Você tá quase lá!\! Só entra na zona!
+      text: \n<CARA DO CONSERTA-JÁ>Hmm...\! Vamos ver aqui...\! Uh... é! Você tá quase lá!\! Só entra na zona!

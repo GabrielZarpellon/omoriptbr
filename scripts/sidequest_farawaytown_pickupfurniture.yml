@@ -5,7 +5,7 @@
 
 #Talk to MÃE ELEGANTE
 message_1:
-      text: \n<MÃE ELEGANTE>Eu pedi para o meu filho ir ao \c[11]REPARA-JÁ\c[0] comprar uma lâmpada nova para o meu quarto, mas ele está demorando um bom tempo...
+      text: \n<MÃE ELEGANTE>Eu pedi para o meu filho ir ao \c[11]CONSERTA-JÁ\c[0] comprar uma lâmpada nova para o meu quarto, mas ele está demorando um bom tempo...
 
 message_2:
       text: \n<MÃE ELEGANTE>\Com[2]Bah!\! Ele é tão lento com essas coisas!\!<br>Eu queria que alguém fosse falar para ele se apressar...<br>\!Eu não tenho o dia todo!
@@ -49,10 +49,10 @@ message_31:
       text: Esses $50.00 são para comprar uma \c[4]LUMINÁRIA DE PISO\c[0]...
 
 message_32:
-      text: \n<CARA DO REPARA-JÁ>Hmm...\! então você quer comprar uma \c[4]LUMINÁRIA DE PISO\c[0]?\! Vai dar $50.00.\! Você ainda quer?
+      text: \n<CARA DO CONSERTA-JÁ>Hmm...\! então você quer comprar uma \c[4]LUMINÁRIA DE PISO\c[0]?\! Vai dar $50.00.\! Você ainda quer?
 
 message_33:
-      text: \n<CARA DO REPARA-JÁ>É um prazer fazer negócios com você, colega.
+      text: \n<CARA DO CONSERTA-JÁ>É um prazer fazer negócios com você, colega.
 
 #Talk to MÃE ELEGANTE
 

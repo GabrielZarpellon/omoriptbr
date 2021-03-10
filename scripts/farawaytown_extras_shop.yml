@@ -259,34 +259,34 @@ message_56:
 
 #Intro
 message_26:
-      text: \n<CARA DO REPARA-JÁ>Welcome to \c[11]FIX-IT\c[0]...<br>Onde você compra coisas e \c[11]REPARA-JÁ\c[0]!\!<br>No que eu posso lhe interessar?
+      text: \n<CARA DO CONSERTA-JÁ>Welcome to \c[11]FIX-IT\c[0]...<br>Onde você compra coisas e \c[11]CONSERTA-JÁ\c[0]!\!<br>No que eu posso lhe interessar?
 #Purchase
 message_27:
-      text: \n<CARA DO REPARA-JÁ>Legal! Eu vou empacotar isso pra você agora mesmo.
+      text: \n<CARA DO CONSERTA-JÁ>Legal! Eu vou empacotar isso pra você agora mesmo.
 #Insufficient Funds
 message_28:
-      text: \n<CARA DO REPARA-JÁ>Desculpa, cara. Você não tem o suficiente pra comprar isso.
+      text: \n<CARA DO CONSERTA-JÁ>Desculpa, cara. Você não tem o suficiente pra comprar isso.
 #item buying prompt
 message_60:
-      text: \n<CARA DO REPARA-JÁ>Que tal isso? O total vai dar $<SHOPTOTAL>.00.\.\^
+      text: \n<CARA DO CONSERTA-JÁ>Que tal isso? O total vai dar $<SHOPTOTAL>.00.\.\^
 #max item message
 message_61:
-      text: \n<CARA DO REPARA-JÁ>Você não tem espaço pra isso!\.\^
+      text: \n<CARA DO CONSERTA-JÁ>Você não tem espaço pra isso!\.\^
 #on item list buy ok
 message_62:
-      text: \n<CARA DO REPARA-JÁ>Quantos você vai querer?\.\^
+      text: \n<CARA DO CONSERTA-JÁ>Quantos você vai querer?\.\^
 #item selling ok
 message_63:
-      text: \n<CARA DO REPARA-JÁ>De quantos você vai querer se livrar?\.\^
+      text: \n<CARA DO CONSERTA-JÁ>De quantos você vai querer se livrar?\.\^
 #item selling prompt
 message_64:
-      text: \n<CARA DO REPARA-JÁ>Iria dar... em torno desse preço.\.\^
+      text: \n<CARA DO CONSERTA-JÁ>Iria dar... em torno desse preço.\.\^
 #item selling cancel prompt
 message_65:
-      text: \n<CARA DO REPARA-JÁ>Bom trabalho.
+      text: \n<CARA DO CONSERTA-JÁ>Bom trabalho.
 #item buying cancel
 message_66:
-      text: \n<CARA DO REPARA-JÁ>Bom... Ok, então.
+      text: \n<CARA DO CONSERTA-JÁ>Bom... Ok, então.
 
           #apple guy / orange guy
 
@@ -425,4 +425,4 @@ message_209:
 
 #BATINO
 message_300:
-      text: \n<EMPREGADO DO REPARA-JÁ>MANDO faz eu fazer tudo por aqui.\! Como que é para eu alcançar a prateleira de cima se estamos esgotados em escadas?
+      text: \n<EMPREGADO DO CONSERTA-JÁ>MANDO faz eu fazer tudo por aqui.\! Como que é para eu alcançar a prateleira de cima se estamos esgotados em escadas?
