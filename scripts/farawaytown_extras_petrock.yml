@@ -13,12 +13,12 @@
 message_0:
       faceset: MainCharacters_Faraway
       faceindex: 17
-      text: \kelWhoa! Espera um segundo, \n[8]!\! <br>Esse é um \c[13]PET DRITO\c[0] que você acabou de comprar?
+      text: \kelÔ! Espera um segundo, \n[8]!\! <br>Esse é um \c[13]PET DRITO\c[0] que você acabou de comprar?
 
 message_1:
       faceset: MainCharacters_Faraway
       faceindex: 13
-      text: \kelWow!\! Eu não acredito...\! Isso é bem estranho já que não jogamos desde que éramos crianças...\! mas acontece que eu tenho o meu, também!
+      text: \kelUau!\! Eu não acredito...\! Isso é bem estranho já que não jogamos desde que éramos crianças...\! mas acontece que eu tenho o meu, também!
 
 #KEL takes something out of his pocket.
 
@@ -46,7 +46,7 @@ message_5:
 message_6:
       faceset: MainCharacters_Faraway
       faceindex: 23
-      text: \kel\sinv[1]Awww, yeahhhhh...\!\sinv[0] Estou animado!
+      text: \kel\sinv[1]Ahhh, yeahhhhh...\!\sinv[0] Estou animado!
 
 message_7:
       faceset: MainCharacters_Faraway
@@ -65,7 +65,7 @@ message_8:
 message_9:
       faceset: MainCharacters_Faraway
       faceindex: 13
-      text: \kelOh droga, eu perdi...\! Acho que estou meio enferrujado...\! <br>Bom, está tudo bem.
+      text: \kelOh droga, eu perdi...\! Acho que estou meio enferrujado...\! <br>Bom, tá tudo bem.
 
 message_10:
       faceset: MainCharacters_Faraway
@@ -78,7 +78,7 @@ message_10:
 message_12:
       faceset: MainCharacters_Faraway
       faceindex: 13
-      text: \kelHeh, heh...\! Acho que você está meio enferrujado, né?\! <br>Bom, está tudo bem.\! Eu tenho certeza que você vai pegar o jeito.
+      text: \kelHeh, heh...\! Acho que você está meio enferrujado, né?\! <br>Bom, tá tudo bem.\! Eu tenho certeza que você vai pegar o jeito.
 
 message_13:
       faceset: MainCharacters_Faraway
@@ -116,7 +116,7 @@ message_21:
 
 #player win
 message_22:
-      text: \n<GAROTA COLORIDA>Aww... Droga...\! Está tudo bem, MENINATOMATE. Não é culpa sua...\! Você deu o seu melhor!
+      text: \n<GAROTA COLORIDA>Ahh... Droga...\! Está tudo bem, MENINATOMATE. Não é culpa sua...\! Você deu o seu melhor!
 
 #player loses
 message_23:
@@ -158,7 +158,7 @@ message_39:
       text: \n<GAROTO BONITO>Ei, que surpresa!\! Essa foi uma boa batalha, mas talvez você precise de um pouco mais de prática...\! Conseguimos, MOÇA DA ROSA!\! Você é a melhor!
 
 message_40:
-      text: \n<GAROTO BONITO>Awww... Mas QUEBRAR é tão divertido...\! Talvez na próxima!
+      text: \n<GAROTO BONITO>Ahhh... Mas QUEBRAR é tão divertido...\! Talvez na próxima!
 
 # =========================================================================================
       #SAUCY K
@@ -166,13 +166,13 @@ message_40:
 
 #Intro
 message_42:
-      text: \n<ANGEL>Whoa, olha só! Você tem um \c[13]PET DRITO\c[0]?\! Você tem que me desafiar para QUEBRAR!\! Ninguém pode derrotar meu MOLHO-K!<br>Ele é o melhor \c[13]PET DRITO\c[0] de todos e eu irei provar!
+      text: \n<ANGEL>Ó, olha só! Você tem um \c[13]PET DRITO\c[0]?\! Você tem que me desafiar para QUEBRAR!\! Ninguém pode derrotar meu MOLHO-K!<br>Ele é o melhor \c[13]PET DRITO\c[0] de todos e eu irei provar!
 #yes
 message_43:
       text: \n<ANGEL>Você está mordendo mais do que pode engolir!\! Vamos, MOLHO-K!\! Vamos mostrar pra eles quem é o mais forte aqui!
 #no
 message_44:
-      text: \n<ANGEL>Wow... Tá bom!\! Seja um franguinho!
+      text: \n<ANGEL>Uau... Tá bom!\! Seja um franguinho!
 #player win
 message_45:
       text: \n<ANGEL>\com[2]\{\sinv[1]MOLHO-K!!\! NÃÃÃO\{OOO\{OOO\{OOO!!
@@ -190,7 +190,7 @@ message_47:
 
 #Intro
 message_50:
-      text: \n<RAI>Whoa, você tem um \c[13]PET DRITO\c[0] também?\! Eu acabei de entrar na onda de \c[13]PET DRITOS\c[0] não faz muito tempo...
+      text: \n<RAI>Uau, você tem um \c[13]PET DRITO\c[0] também?\! Eu acabei de entrar na onda de \c[13]PET DRITOS\c[0] não faz muito tempo...
 
 message_51:
       text: \n<RAI>O meu ainda está em seu estágio inicial, mas eu tenho certeza que ele será poderoso algum dia!\! Você quer QUEBRAR?
@@ -200,13 +200,13 @@ message_52:
       text: \n<RAI>Legal!\! Vamos, COELHO!\! Vamos trabalhar juntos!
 #player win
 message_53:
-      text: \n<RAI>Droga...\! Seu \c[13]PET DRITO\c[0] é bem forte.\! Eu acho que eu e o COELHO um caminho até chegar no seu nível.
+      text: \n<RAI>Droga...\! Seu \c[13]PET DRITO\c[0] é bem forte.\! Eu acho que eu e o COELHO temos um longo caminho até chegar no seu nível.
 #player loses
 message_54:
-      text: \n<RAI>Whoa, nós ganhamos!\! Eu realmente não esperava por essa... mas uma vitória é uma vitória! Haha!
+      text: \n<RAI>Uau, nós ganhamos!\! Eu realmente não esperava por essa... mas uma vitória é uma vitória! Haha!
 
 message_200:
-      text: \n<RAI>Awww...\! Mas eu e o COELHO precisamos práticar...
+      text: \n<RAI>Ahhh...\! Mas eu e o COELHO precisamos praticar...
 
 # =========================================================================================
       #PAPA CHIP
@@ -288,7 +288,7 @@ message_93:
 
 #player win
 message_90:
-      text: \n<GAROTA FOFA>N-Nós...\! perdemos?\! Wow...\! Eu estou muito chocada...
+      text: \n<GAROTA FOFA>N-Nós...\! perdemos?\! Uau...\! Eu estou muito chocada...
 
 message_91:
       text: \n<GAROTA FOFA>Eu acho que o CAIXA estava certo em te enviar até nós.\! Você parece ter muito potencial.\! Tenho certeza que irá longe!
