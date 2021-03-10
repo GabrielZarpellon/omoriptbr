@@ -23,7 +23,7 @@ message_3:
 message_4:
       faceset: MainCharacters_Faraway
       faceindex: 17
-      text: \kelOnde está essa aranhinha cha...
+      text: \kelOnde está essa aranhinha cha-...
 
 message_5:
       faceset: MainCharacters_Faraway
@@ -35,7 +35,7 @@ message_5:
 message_6:
       faceset: MainCharacters_Faraway
       faceindex: 12
-      text: \kelEstá tudo bem agora, HERO.\! Você já pode se acalmar.\!<br>A aranha já era!
+      text: \kelTá tudo bem agora, HERO.\! Você já pode se acalmar.\!<br>A aranha já era!
 
 message_7:
       faceset: MainCharacters_Faraway
@@ -60,7 +60,7 @@ message_10:
 message_11:
       faceset: MainCharacters_Faraway
       faceindex: 12
-      text: \kelAqui, olhe.\! Vê?\! Está mesmo morta.
+      text: \kelAqui, olhe.\! Vê?\! Tá morta mesmo.
 
 message_12:
       faceset: MainCharacters_Faraway
