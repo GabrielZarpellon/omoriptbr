@@ -22,7 +22,7 @@ message_1:
       text: \n<CARA DA PIZZA>\sinv[1]Legaaaallll...\sinv[0]\! Eu vou te ajudar a começar.
 #[Shake]
 message_2:
-      text: \n<CARA DA PIZZA>Awww, ok...\!<br>Se você precisar de um pouco de dinheiro de pizza, é só falar!
+      text: \n<CARA DA PIZZA>Ahhh, ok...\!<br>Se você precisar de um pouco de dinheiro de pizza, é só falar!
 
 #Rule Explanation
 #Quest Finish
@@ -38,7 +38,7 @@ message_3:
 
 # Randomized NPC Dialogue Success
 message_4:
-      text: \n<CLIENTE?>Ei!\! Wow, vocês vieram mais cedo do que eu esperava!\! Obrigado, garoto da entrega!
+      text: \n<CLIENTE?>Ei!\! Uau, vocês vieram mais cedo do que eu esperava!\! Obrigado, garoto da entrega!
 
 message_5:
       text: \n<CLIENTE?>Por que demorou tanto!?\! \c[11]PIZZARIA DO GINO\c[0] está piorando muito esses dias...
@@ -57,7 +57,7 @@ message_20:
       text: \n<CLIENTE?>Uh... É...\! Desculpe, você pegou a casa errada.\!<br>A gente não pediu nenhuma pizza \c[3]PIZZA\c[0]...
 
 message_21:
-      text: \n<CLIENTE?>\c[3]PIZZA\c[0] de graça!?\! Aww... Não precisava!
+      text: \n<CLIENTE?>\c[3]PIZZA\c[0] de graça!?\! Ahh... Não precisava!
 
 message_22:
       text: \n<CLIENTE?>Quem é você?\! A gente não pediu nenhuma droga de \c[3]PIZZA\c[0]!\! Cai fora daqui!
