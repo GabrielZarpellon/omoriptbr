@@ -64,7 +64,7 @@ message_9:
 #TVGIRL: Dang... All they've been showing lately is re-runs... When is something interesting going to show up?
                                       #>>>>>> changes to >>>>>>
 message_10:
-      text: \n<TV GIRL>Tem um novo programa que acabou de começar! \!<br>É um pouco dramático, mas muito interessante...<br>\!Já estou viciada!
+      text: \n<GURIATV>Tem um novo programa que acabou de começar! \!<br>É um pouco dramático, mas muito interessante...<br>\!Já estou viciada!
 
 
 # =========================================================================================
@@ -88,7 +88,7 @@ message_20:
 message_21:
       faceset: MainCharacters_DreamWorld
       faceindex: 30
-      text: \kel\Com[2]Ei! Por que vocÊ fez isso!?
+      text: \kel\Com[2]Ei! Por que você fez isso!?
 
 message_22:
       text: \berNão sei... \!Só fiquei com vontade.
