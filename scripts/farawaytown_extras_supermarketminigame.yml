@@ -37,7 +37,7 @@ message_4:
 message_5:
       faceset: MainCharacters_Faraway
       faceindex: 14
-      text: \KelEi, \n[8]!\! Como foi?\! Enquanto você esteve trabalhando, <br>Eu decidi sentar em um banco e conversar com estranhos!\!<br>Cara, aquilo foi divertido...\! Bom... Estou pronto para ir quando você estiver!
+      text: \KelEi, \n[8]!\! Como foi?\! Enquanto você esteve trabalhando, <br>eu decidi sentar em um banco e conversar com estranhos!\!<br>Cara, aquilo foi divertido...\! Bom... Estou pronto pra ir quando você estiver!
 
 #before killing all flies
 message_6:
