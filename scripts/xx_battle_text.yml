@@ -507,7 +507,7 @@ message_94:
 
 message_95:
    text: >
-    \>SR. MANDÍBARÃO: \<PARA QUE EU CONTRATEI VOCÊS!?
+    \>SR. MANDÍBARÃO: \<PRA QUE EU CONTRATEI VOCÊS!?
 
 # After Victory:
 
@@ -555,7 +555,7 @@ message_103:
 
 message_104:
    text: >
-    \>PLUTÃO: \<\<Hm.\! Bem feito, crianças.\!<br>Vocês chegaram longe.
+    \>PLUTÃO: \<\<Hm.\! Muito bem, crianças.\!<br>Vocês chegaram longe.
 
 message_105:
    text: >
@@ -1105,7 +1105,7 @@ message_204:
 
 message_205:
    text: >
-    \>VANCE: \<<br>Esse doce já tem uma decada de idade!
+    \>VANCE: \<<br>Esse doce já tem uma década de idade!
 
 # Getting Weaker:
 
@@ -1355,7 +1355,7 @@ message_263:
 
 message_264:
    text: >
-    \>O RECICLOPATA: \<<br>Todos saudem a LIXEIRA SAGRADA no céu!
+    \>O RECICLOPATA: \<<br>Todos saúdem a LIXEIRA SAGRADA no céu!
 
 # ============Enemy:  Extras
 
@@ -1513,12 +1513,12 @@ message_291:
 # Encouragement
 message_292:
    text: >
-    \>???: \<Você tem que continuar.\!<br>Não desista.\! Não importa quão impossível pareca...
+    \>???: \<Você tem que continuar.\!<br>Não desista.\! Não importa quão impossível pareça...
 
 # \n[8] gains PERSIST
 message_293:
    text: >
-    Você extende sua mão a voz... e se lembra como PERSISTIR.
+    Você estende sua mão à voz... e se lembra como PERSISTIR.
 
 # BASIL is struggling
 message_294:
@@ -2184,7 +2184,7 @@ message_613:
 
 message_614:
    text: >
-    Todos que estão trister ficaram mais fracos.
+    Todos que estão tristes ficaram mais fracos.
 
 # ============Kite Kid Epilouge
 message_620:

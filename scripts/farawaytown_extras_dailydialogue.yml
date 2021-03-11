@@ -61,14 +61,14 @@ message_30:
 #Location: Artist's house - Agree with me! Quest
 
 message_40:
-      text: \n<ARTIST>Hmmm...\! Essa obra...\! talvez seja a melhor que eu já tenha feito até agora!
+      text: \n<ARTISTA>Hmmm...\! Essa obra...\! talvez seja a melhor que eu já tenha feito até agora!
 
 #===============Bebe=====================
 
 #Location: Town Plaza (Near the fountain)
 
 message_50:
-      text: \n<BEBE>Eu acabei de desejar para que eu conheça meu verdadeiro amor hoje!
+      text: \n<BEBE>Eu acabei de desejar eu conheça meu verdadeiro amor hoje!
 
 #After Cutscene: The Maverick's Loss
 
@@ -98,7 +98,7 @@ message_70:
 #Location: BRENT'S HOUSE
 
 message_80:
-      text: \n<MÃE DO BRENT>Muito bem, tutor...\! Se sinta livre para voltar amanhã!
+      text: \n<MÃE DO BRENT>Muito bem, tutor...\! Sinta-se livre para voltar amanhã!
 
 #===============CARETAKER=====================
 
@@ -145,7 +145,7 @@ message_120:
 #Location: CANDY SHOP
 
 message_130:
-      text: \n<CURTSEY>Bem-vindos!\! Espero que os nossos \c[3]DOCES\c[0] os façam sorrir!
+      text: \n<CURTSEY>Bem-vindos!\! Espero que os nossos \c[3]DOCES\c[0] lhe façam sorrir!
 
 #===============Daphne & Bowen=====================
 
@@ -168,7 +168,7 @@ message_150:
       text: \n<GINO>Olá, olá!\! Meu nome é GINO!
 
 message_151:
-      text: \n<GINO>Não...\! Eu não sou o dono daqui...\! mas eles me dão uma <br>\c[3]PIZZA INTEIRA\c[0] de graça no meu aniversário todo ano, então isso é bem maneiro.
+      text: \n<GINO>Não...\! Eu não sou o dono daqui...\! mas eles me dão uma <br>\c[3]PIZZA INTEIRA\c[0] de graça no meu aniversário todo ano, então isso é bem irado.
 
 
 #===============Hector (Dog)=====================
@@ -201,7 +201,7 @@ message_173:
 message_174:
       faceset: MainCharacters_Faraway
       faceindex: 20
-      text: \kelClaro, definitivamente!\! Isso parece divertido...\! mas vamos deixar para outro dia.\! Meu amigo de infância \n[8] está se mudando da cidade em alguns dias então hoje estamos passando o dia inteiro juntos.\! Mas nós vamos treinar juntos alguma outra hora!
+      text: \kelClaro, definitivamente!\! Isso parece divertido...\! mas vamos deixar pra outro dia.\! Meu amigo de infância \n[8] está se mudando da cidade em alguns dias então hoje estamos passando o dia inteiro juntos.\! Mas nós vamos treinar juntos alguma outra hora!
 
 message_175:
       text: \n<ATLETA>Certo, nós podemos combinar algo semana que vem.\! Mesma hora, mesmo lugar, o que acha?
@@ -279,7 +279,7 @@ message_250:
       text: \n<MÃE DA KIM>Snip, snip...\! snip, snip, snip...
 
 message_251:
-      text: \n<MÃE DA KIM>Ah, olá para vocês dois ai!\! Eu não esperava ver vocês tão cedo!
+      text: \n<MÃE DA KIM>Ah, olá para vocês dois aí!\! Eu não esperava ver vocês tão cedo!
 
 message_252:
       text: \n<MÃE DA KIM>Olhem, aqui!\! Cuidar destes bonsais é um passa tempo meu.\! Me ajuda a...\! aliviar o estresse.
@@ -306,7 +306,7 @@ message_261:
 #Location: FARAWAY PARK - Company Quest 1
 
 message_270:
-      text: MINCY está desenhado diligentemente.
+      text: MINCY está desenhando diligentemente.
 
 #===============PRETTY BOY=====================
 
@@ -655,7 +655,7 @@ message_520:
       text: \n<MÃE DO O MAVERICK>Oh, querido...\! Sniff...\! Parece que nosso filho caçula não foi na \c[11]IGREJA\c[0] de novo...
 
 message_521:
-      text: \n<PAI DO O MAVERICK>hmmm...\! MIKHAEL...\! Onde você está?\! Por que você faz sua mãe se preocupar?
+      text: \n<PAI DO O MAVERICK>Hmmm...\! MIKHAEL...\! Onde você está?\! Por que você faz sua mãe se preocupar?
 
 #=========================================================================================
 # DAY 2 - DAY
@@ -682,7 +682,7 @@ message_531:
 message_540:
       faceset: MainCharacter_Basil
       faceindex: 20
-      text: \basE-E aí...\! KEL...\! E aí, \n[8]...
+      text: \basO-Oi...\! KEL...\! Oi, \n[8]...
 
 message_541:
       faceset: MainCharacters_Faraway
@@ -692,7 +692,7 @@ message_541:
 message_542:
       faceset: MainCharacter_Basil
       faceindex: 20
-      text: \basHuh?\! O-Ontem?\! O-O que você quer dizer?
+      text: \basHã?\! O-Ontem?\! O-O que você quer dizer?
 
 message_543:
       faceset: MainCharacters_Faraway
@@ -727,7 +727,7 @@ message_548:
 message_549:
       faceset: MainCharacters_Faraway
       faceindex: 20
-      text: \kelAwww...\! Tudo bem, então.\! Nos encontramos com você depois!
+      text: \kelAaaah...\! Tudo bem, então.\! Nos encontramos com você depois!
 
 message_550:
       faceset: MainCharacter_Basil
@@ -760,7 +760,7 @@ message_570:
 #Location: Gino's Pizza until Cutscene: Dropping off Stuff at Kel's
 
 message_580:
-      text: \n<KIM>Ewwww...\! É um nerd!\! Grrr, Grrr...<br>Nos deixem em paz! Não temos nenhum assunto com vocês hoje!
+      text: \n<KIM>Ecaaaa...\! É um nerd!\! Grrr, Grrr...<br>Nos deixem em paz! Não temos nenhum assunto com vocês hoje!
 
 #==========================The Maverick===============================
 
@@ -1071,7 +1071,7 @@ message_890:
       text: \n<ANGEL>FWAAAAAAAAAAAAA!!! O que você está fazendo na minha casa!?\! A minha irmã te deixou entrar?
 
 message_891:
-      text: \n<ANGEL>Fufufu...\! Agora é a hora perfeita para desafiar vocês dois para auma revanche!\! Preparados ou não, lá vou eu!
+      text: \n<ANGEL>Fufufu...\! Agora é a hora perfeita para desafiar vocês dois para uma revanche!\! Preparados ou não, lá vou eu!
 
 #[Battle: Angel]
 
@@ -1162,7 +1162,7 @@ message_940:
 #Location: Bebe's House
 
 message_950:
-      text: \n<BEBE>Estou pensando em escrever uma carta para meu crush sobre como eu me sinto...
+      text: \n<BEBE>Estou pensando em escrever uma carta pro meu crush sobre como eu me sinto...
 
 #====================Bebe's Mom==============================
 
@@ -1311,7 +1311,7 @@ message_1070:
 #talk again
 
 message_1071:
-      text: \n<SARAH>Estou tentando comer saudável, mas acabou o molho ranch... Como eu vou comer cenoura e aipo agora?
+      text: \n<SARAH>Estou tentando comer saudavelmente, mas acabou o molho ranch... Como eu vou comer cenoura e aipo agora?
 
 #====================SARAH'S DAD==============================
 
@@ -1601,7 +1601,7 @@ message_1360:
 #Location:  Artist's House, running around Angel
 
 message_1370:
-      text: \n<LUCAS>Awwooo!\! Arf, arf, arf!
+      text: \n<LUCAS>Auuuuuuu!\! Arf, arf, arf!
 
 #==============Polly===========================================
 #Location:  Basil's House

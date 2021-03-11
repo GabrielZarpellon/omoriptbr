@@ -75,7 +75,7 @@ message_84:
       text: \n<SR. PADEIRO>O total vai dar $<SHOPTOTAL>.00.\.\^
 #item selling cancel prompt
 message_85:
-      text: \n<SR. PADEIRO>Obrigado. Volte novamente!
+      text: \n<SR. PADEIRO>Obrigado. Volte sempre!
 #item buying cancel
 message_86:
       text: \n<SR. PADEIRO>Oh? Você mudou de ideia?
@@ -126,7 +126,7 @@ message_76:
       text: \n<SRTA. CANDICE>Oh, está tudo bem! Está tudo perfeitamente bem!<br>Risos, risos!
 
 message_77:
-      text: \n<SRTA. CANDICE>Por favor voltem novamente!\! (Senão...)
+      text: \n<SRTA. CANDICE>Por favor voltem sempre!\! (Senão...)
 
 message_78:
       text: \n<SRTA. CANDICE>Risos, risos!
@@ -259,7 +259,7 @@ message_56:
 
 #Intro
 message_26:
-      text: \n<CARA DO CONSERTA-JÁ>Welcome to \c[11]FIX-IT\c[0]...<br>Onde você compra coisas e \c[11]CONSERTA-JÁ\c[0]!\!<br>No que eu posso lhe interessar?
+      text: \n<CARA DO CONSERTA-JÁ>Bem-vindo ao \c[11]CONSERTA-JÁ\c[0]...<br>Onde você compra coisas e \c[11]CONSERTA-JÁ\c[0]!\!<br>No que eu posso lhe interessar?
 #Purchase
 message_27:
       text: \n<CARA DO CONSERTA-JÁ>Legal! Eu vou empacotar isso pra você agora mesmo.

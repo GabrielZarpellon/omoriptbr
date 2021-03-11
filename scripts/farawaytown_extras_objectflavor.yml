@@ -14,7 +14,7 @@ message_1:
 
 # Donut
 message_100:
-      text: A \c[3]ROSQUINHA\c[0] tem uma textura suave e fofa, além de que ser muito açucarada.
+      text: A \c[3]ROSQUINHA\c[0] tem uma textura suave e fofa, além de ser muito açucarada.
 
 # Candy
 message_101:
@@ -62,7 +62,7 @@ message_111:
 
 # Hamburger
 message_112:
-      text: O \c[3]HAMBURGUER\c[0] possui ingredientes combinados perfeitamente. Só faltou o queijo.
+      text: O \c[3]HAMBÚRGUER\c[0] possui ingredientes combinados perfeitamente. Só faltou o queijo.
 
 # Tasty Soda
 message_113:
@@ -78,7 +78,7 @@ message_115:
 
 # Orange Juice
 message_116:
-      text: O \c[3]SUCO DE MAÇÃ\c[0] foi realmente feito com as mais frescas laranjas.
+      text: O \c[3]SUCO DE LARANJA\c[0] foi realmente feito com as mais frescas laranjas.
 
 # Coffee
 message_117:

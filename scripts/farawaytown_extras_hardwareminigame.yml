@@ -9,7 +9,7 @@ message_19:
 message_20:
       faceset: MainCharacters_Faraway
       faceindex: 14
-      text: \kelOh! Você vai pegar esse emprego, \n[8]?\! Nesse caso, eu volto pra você mais tarde.\! Trabalhe duro, ok?
+      text: \kelOh! Você vai pegar esse emprego, \n[8]?\! Nesse caso, eu volto pra ver você mais tarde.\! Trabalhe duro, ok?
 
 #Intro
 message_0:
@@ -68,7 +68,7 @@ message_16:
       text: \n<CARA DO CONSERTA-JÁ>Ei! Onde você pensa que você vai?
 
 message_17:
-      text: \n<CARA DO CONSERTA-JÁ>Achei que tivessemos um acordo!\! Organize as prateleiras e você é pago!
+      text: \n<CARA DO CONSERTA-JÁ>Achei que tivéssemos um acordo!\! Organize as prateleiras e tu é pago!
 
 # Complete
 message_18:
@@ -87,7 +87,7 @@ message_21:
 #Quest Finish
 
 message_22:
-      text: \n<CARA DO CONSERTA-JÁ>\sinv[1]Ronco...\| Ronco...\!\sinv[0] H-Hã? O que? Você finalmente acabou?\!<br>Excelente trabalho, moleque!\! Aqui está $30.00!\!<br>Não gaste tudo de uma vez!
+      text: \n<CARA DO CONSERTA-JÁ>\sinv[1]Ronco...\| Ronco...\!\sinv[0] H-Hã? O quê? Você finalmente acabou?\!<br>Excelente trabalho, moleque!\! Aqui está $30.00!\!<br>Não gaste tudo de uma vez!
 
 #Return to Party:
 message_40:
