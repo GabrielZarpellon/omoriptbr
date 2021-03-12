@@ -617,8 +617,8 @@ switch (type) {
       break;
 
     case 'TEA TIME': // TEA TIME
-      text = user.name() + ' trouxe um pouco de chá para relaxar.\r\n';
-      text += target.name() + ` se sentiu refrescad${pronome1}!\r\n`;
+      text = user.name() + ' trouxe um cházinho pra relaxar.\r\n';
+      text += target.name() + ` se sentiu refrescad${pronome2}!\r\n`;
       if(result.hpDamage < 0) {
         var absHp = Math.abs(result.hpDamage);
         text += `${target.name()} recuperou ${absHp} de CORAÇÃO!\r\n`
