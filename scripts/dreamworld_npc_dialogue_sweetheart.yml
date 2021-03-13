@@ -214,7 +214,7 @@ message_104:
       text: Você ligou o forno.\! Ele agora está pré-aquecendo.
 
 message_105:
-      text: \n<TOUPEIRA SOUS CHEF>Excelente trabalho!\! A próxima coisa a se fazer é misturar dois ingredients principais em uma tigela...\! FLORES e BOLAS DE PING PONG!
+      text: \n<TOUPEIRA SOUS CHEF>Excelente trabalho!\! A próxima coisa a se fazer é misturar dois ingredientes principais em uma tigela...\! FLORES e BOLAS DE PING PONG!
 
 message_106:
       text: \n<TOUPEIRA SOUS CHEF>Vocês estão indo bem!\! Agora, vem o SAL e o QUEIJO!\!<br>É, bata-os juntos até virarem sopa.
@@ -257,7 +257,7 @@ message_118:
 # =========------------------
 
 message_122:
-      text: Você está carregando muitos ingredients.
+      text: Você está carregando muitos ingredientes.
 
 message_123:
       text: \n<TOUPEIRA SOUS CHEF>Agora estamos progredindo!\! Por último mas não menos importante, pegue a SALSICHA e corte-a em pedaços!
