@@ -227,7 +227,7 @@ message_48:
 message_49:
       faceset: MainCharacter_Basil
       faceindex: 1
-      text: \basAs gladíolos me lembram da AUBREY, porque ela é sempre verdadeira à si mesma!
+      text: \basAs gladíolos me lembram da AUBREY, porque ela é sempre verdadeira a si mesma!
 
 message_50:
       faceset: MainCharacters_DreamWorld
@@ -354,7 +354,7 @@ message_208:
       text: \basComo vocês já podem adivinhar, elas representam força de caráter.\! Alguém que é honesto, com fortes valores morais...\! Alguém que defende suas convicções...
 
 message_209:
-      text: \basAs gladíolos me lembram da AUBREY, porque ela é sempre verdadeira à si mesma.
+      text: \basAs gladíolos me lembram da AUBREY, porque ela é sempre verdadeira a si mesma.
 
 message_210:
       text: \basCactos são bem fortes e resilientes por natureza...\! Eles não precisam de muito cuidado e podem sobreviver a situações aparentemente impossíveis.
