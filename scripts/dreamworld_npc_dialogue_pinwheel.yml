@@ -106,38 +106,38 @@ message_24:
 # =========================================================================================
 
 message_25:
-      text: <ROCHA SÁBIA>Nem todo conselho é um bom conselho.
+      text: \n<ROCHA SÁBIA>Nem todo conselho é um bom conselho.
 
 message_26:
-      text: <ROCHA SÁBIA>Nunca façam contatos visuais enquanto comem uma banana.
+      text: \n<ROCHA SÁBIA>Nunca façam contatos visuais enquanto comem uma banana.
 
 message_27:
-      text: <ROCHA SÁBIA>Não é aconselhável ouvir conselhos de uma rocha.
+      text: \n<ROCHA SÁBIA>Não é aconselhável ouvir conselhos de uma rocha.
 
 message_28:
-      text: <ROCHA SÁBIA>Seus problemas vão alcança-los eventualmente.
+      text: \n<ROCHA SÁBIA>Seus problemas vão alcança-los eventualmente.
 
 message_29:
-      text: <ROCHA SÁBIA>Existem, aproximadamente, 384472 quilômetros entre a Terra e a Lua.
+      text: \n<ROCHA SÁBIA>Existem, aproximadamente, 384472 quilômetros entre a Terra e a Lua.
 
 # =========================================================================================
 # GOOD ADVICE
 # =========================================================================================
 
 message_30:
-      text: <ROCHA SÁBIA>Sigam seus corações, mas lembrem-se de levarem seus cérebros com vocês!
+      text: \n<ROCHA SÁBIA>Sigam seus corações, mas lembrem-se de levarem seus cérebros com vocês!
 
 message_31:
-      text: <ROCHA SÁBIA>Façam algo hoje que vocês se agradecerão amanhã!
+      text: \n<ROCHA SÁBIA>Façam algo hoje que vocês se agradecerão amanhã!
 
 message_32:
-      text: <ROCHA SÁBIA>A dor não dura para sempre.
+      text: \n<ROCHA SÁBIA>A dor não dura para sempre.
 
 message_33:
-      text: <ROCHA SÁBIA>A vida é curta, então sorriam enquanto ainda possuem dentes!
+      text: \n<ROCHA SÁBIA>A vida é curta, então sorriam enquanto ainda possuem dentes!
 
 message_34:
-      text: <ROCHA SÁBIA>Se a oportunidade não bater, vocês podem construir uma porta!
+      text: \n<ROCHA SÁBIA>Se a oportunidade não bater, vocês podem construir uma porta!
 
 message_35:
       text: Você não possui CONCHAS suficientes.
@@ -147,7 +147,7 @@ message_35:
 # =========================================================================================
 
 message_36:
-      text: <ROCHA SÁBIA>Sintam-se à vontade pra voltarem a qualquer momento!
+      text: \n<ROCHA SÁBIA>Sintam-se à vontade pra voltarem a qualquer momento!
 
 message_37:
       text: CONSELHO BOM (30 CONCHAS)
