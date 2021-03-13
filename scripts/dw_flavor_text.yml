@@ -1347,7 +1347,7 @@ message_901:
       text: Anúncios.
 
 message_902:
-      text: \"APRESENTAÇÃO ANUAL DE DANÇA SINCRONIZADA DO \c[11]FUNDO DO POÇO\c[0] -<br>O PRIMEIRO LUGAR SERÁ ENTREGUE À PIRUETAS DE PITSTOP\"
+      text: \"APRESENTAÇÃO ANUAL DE DANÇA SINCRONIZADA DO<br>\c[11]FUNDO DO POÇO\c[0] - O PRIMEIRO LUGAR SERÁ ENTREGUE À PIRUETAS DE PITSTOP\"
 
 message_903:
       text: Estantes cheias de flores.\! Cheira como a primavera.
