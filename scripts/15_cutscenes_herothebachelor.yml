@@ -246,7 +246,7 @@ message_68:
       text: E-Espera, mas eu acabei de falar que-\her
 
 message_69:
-      text: \sinv[1]\{AH, SIM, SIM! VOCÊ VAI SERVIR DIREITINHO.\!\}<br>Agora, qual é o seu nome mesmo?\swh
+      text: \sinv[1]\{AH, SIM! CÊ VAI SERVIR DIREITINHO.\!\}<br>Agora, qual é o seu nome mesmo?\swh
 
 message_70:
       faceset: MainCharacters_DreamWorld
