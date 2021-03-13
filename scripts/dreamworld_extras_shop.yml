@@ -230,7 +230,7 @@ message_74:
 
 #if no
 message_75:
-      text: \maiOh, Entendo..\! Mas esse \c[13]MACARRÃO DE PISCINA\c[0] é tão raro e valioso...\!<br>Você deve considerar!\! E se eu deixasse tudo mais baratinho pra você pelo preço de 2,500 CONCHAS?
+      text: \maiOh, Entendo...\! Mas esse \c[13]MACARRÃO DE PISCINA\c[0] é tão raro e valioso...\!<br>Você deve considerar!\! E se eu deixasse tudo mais baratinho pra você pelo preço de 2,500 CONCHAS?
 
 message_76:
       text: \maiQue tal?\! Você quer?\$
