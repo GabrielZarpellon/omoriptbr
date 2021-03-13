@@ -89,7 +89,7 @@ message_17:
       text: \berAqui nas minhas mãos eu tenho alguns canudos, tão vendo?\!<br>Todo mundo aqui tem que pegar um canudo.
 
 message_175:
-      text: \berQuem tiver o menor canudo vai ser "ele" e vai ter que achar todo mundo!\! Parece fácil, não é?
+      text: \berQuem tiver o menor canudo vai ser o pegador e vai ter que achar todo mundo!\! Parece fácil, não é?
 
 # *BERLY goes down in a row passing straws to everyone*
 
@@ -97,7 +97,7 @@ message_18:
       text: \berTodos nós estamos com os canudos?\! Bom!
 
 message_19:
-      text: \berAgora, vamos ver quem vai ser "ele"!
+      text: \berAgora, vamos ver quem vai ser o pegador!
 
 message_20:
       text: \berOra, ora, ora!\!<br>Parece que quem tem o menor canudo é...\! OMORI!
@@ -105,7 +105,7 @@ message_20:
 message_21:
       faceset: MainCharacters_DreamWorld
       faceindex: 19
-      text: \kelOh, pera... o OMORI é “ele”?
+      text: \kelOh, pera... o OMORI é o pegador?
 
 message_22:
       faceset: MainCharacters_DreamWorld
