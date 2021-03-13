@@ -190,7 +190,7 @@ message_41:
 message_42:
       faceset: MainCharacter_Basil
       faceindex: 1
-      text: \basRosas vem em diferentes formatos e cores, cada uma delas com um significado único.
+      text: \basRosas vêm em diferentes formatos e cores, cada uma delas com um significado único.
 
 message_43:
       faceset: MainCharacter_Basil
@@ -339,7 +339,7 @@ message_203:
       text: \basEu acho que é por isso que elas me lembram da MARI.\!<br>Eu sempre posso confiar nela para me ajudar a ficar bem.
 
 message_204:
-      text: \basRosas vem em diferentes formatos e cores, cada uma delas com um significado único.
+      text: \basRosas vêm em diferentes formatos e cores, cada uma delas com um significado único.
 
 message_205:
       text: \basRosas rosadas simbolizam admiração... Alaranjadas paixão... Amareladas amizade... e a lista continua.
