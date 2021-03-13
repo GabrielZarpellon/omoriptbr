@@ -503,7 +503,7 @@ message_112:
 message_113:
       faceset: MainCharacters_DreamWorld
       faceindex: 40
-      text: \herEstranho...\! Eu acho que eu ví ele se escondendo perto daquela árvore ali.
+      text: \herEstranho...\! Eu acho que eu vi ele se escondendo perto daquela árvore ali.
 
 message_114:
       faceset: MainCharacters_DreamWorld
@@ -518,7 +518,7 @@ message_115:
 message_116:
       faceset: MainCharacters_DreamWorld
       faceindex: 19
-      text: \kel\{\{\sinv[1]ALLLÔÔÔÔ!? BASIL!?!?
+      text: \kel\{\{\sinv[1]OOOLÁÁÁÁ!? BASIL!?!?
 
 # *Screen shakes*
 
