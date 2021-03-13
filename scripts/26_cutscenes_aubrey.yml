@@ -17,7 +17,7 @@ message_1:
 message_2:
       faceset: MainCharacters_Faraway
       faceindex: 29
-      text: Além disso, eu também fiz café da manhã.\!<br>Desce e come um pouco enquanto tá quente...\! <br>\Com[2]KEL já tá no segundo prato!\her
+      text: Ah, eu também fiz café da manhã.\!<br>Vem comer enquanto tá quente...\! <br>\Com[2]O KEL já tá no segundo prato!\her
 
 #Trigger: Talk to KEL.
 
