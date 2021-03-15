@@ -813,59 +813,59 @@ message_149:
 
 message_150:
    text: >
-    \>BOLACHO: \<Estamos condenado à assar pão por toda a eternidade...\! não é, BISCOITA?
+    \>BISCOITA: \<Estamos condenado à assar pão por toda a eternidade...\! não é, BISCOITA?
 
 message_151:
    text: >
-    \>BISCOITA: \<\sinv[1]Ohooo...
+    \>BOLACHO: \<\sinv[1]Ohooo...
 
 # Getting Weaker (50%, Depressed):
 
 message_152:
    text: >
-    \>BOLACHO: \<Nós estamos nos egotando de suprimentos! O que vamos fazer, BISCOITA!?
+    \>BISCOITA: \<Nós estamos nos egotando de suprimentos! O que vamos fazer, BISCOITA!?
 
 message_153:
    text: >
-    \>BISCOITA: \<\sinv[1]Ohooooooo!
+    \>BOLACHO: \<\sinv[1]Ohooooooo!
 
 # Getting Weaker (25%, Miserable):
 
 message_154:
    text: >
-    \>BOLACHO: \<Nós estamos esgotados em tudo!\! Temos quase nada restante...
+    \>BISCOITA: \<Nós estamos esgotados em tudo!\! Temos quase nada restante...
 
 message_155:
    text: >
-    \>BISCOITA: \<\sinv[1]Ohooo...
+    \>BOLACHO: \<\sinv[1]Ohooo...
 
 # After Defeat:
 
 message_156:
    text: >
-    \>BOLACHO: \<Todos nossos recursos foram esgotados...\! O que vamos fazer sem ingredientes?
+    \>BISCOITA: \<Todos nossos recursos foram esgotados...\! O que vamos fazer sem ingredientes?
 
 message_157:
    text: >
-    \>BISCOITA: \<\sinv[1]Ohooooo...
+    \>BOLACHO: \<\sinv[1]Ohooooo...
 
 # After Victory:
 
 message_158:
    text: >
-    \>BOLACHO: \<BISCOITA! É um milagre!\!<br>Nós fomos salvos pelos deuses!
+    \>BISCOITA: \<BOLACHO! É um milagre!\!<br>Nós fomos salvos pelos deuses!
 
 message_159:
    text: >
-    \>BISCOITA: \<\sinv[1]Ohooooo!
+    \>BOLACHO: \<\sinv[1]Ohooooo!
 
 message_160:
    text: >
-    \>BOLACHO: \<Agora acho que vamos voltar à fazer... \sinv[1]pão fresco...\! pão fresco...\! pão fresco...\sinv[0]
+    \>BISCOITA: \<Agora acho que vamos voltar à fazer... \sinv[1]pão fresco...\! pão fresco...\! pão fresco...\sinv[0]
 
 message_161:
    text: >
-    \>BISCOITA: \<\sinv[1]Ohoo...
+    \>BOLACHO: \<\sinv[1]Ohoo...
 
 # ============Enemy:  EX-MARIDO ESPACIAL
 
@@ -1373,16 +1373,16 @@ message_266:
 # Biscuit and Doughie Return to SAD
 message_267:
    text: >
-    \>BOLACHO: \<\sinv[1]<br>Pão fresco...\! Pão fresco...\! Todo dia, é pão fresco...
+    \>BISCOITA: \<\sinv[1]<br>Pão fresco...\! Pão fresco...\! Todo dia, é pão fresco...
 
 message_268:
    text: >
-    \>BISCOITA: \<\sinv[1]<br>Ohooooooooo...
+    \>BOLACHO: \<\sinv[1]<br>Ohooooooooo...
 
 # Perfectheart Hitting an emotion weakness
 message_269:
    text: >
-    \>PERFECTHEART: \<\sinv[1]Tsk... Tsk...\sinv[0]\! Mostrar as suas emoções só os fazem ser mais fáceis de entender.
+    \>HEART PERFEITA: \<\sinv[1]Tsk... Tsk...\sinv[0]\! Mostrar as suas emoções só os fazem ser mais fáceis de entender.
 
 # Snow Angel Pierce Heart Skill
 message_270:
@@ -1665,7 +1665,7 @@ message_346:
 
 message_347:
    text: >
-    \>CARA DA GELEIA: \<Use a \c[3]GELEIA VITAL\c[0]!\!<br>Realmente funciona!
+    \>CARA DA GELEIA: \<Use a \c[3]GELEIA VITAL\c[0]!\!<br>É muito útil!
 
 
 # =========================================================================================
