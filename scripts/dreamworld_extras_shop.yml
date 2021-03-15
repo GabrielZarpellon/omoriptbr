@@ -4,7 +4,7 @@
 
 #Placeholder intro
 message_1:
-      text: \n<JASH>Eu sou o JASH, mestre de muitos talentos e de trocas.<br>\!Como posso te ajudar hoje?
+      text: \n<JASH>Eu sou o JASH, mestre de muitos talentos e de profissões.<br>\!Como posso te ajudar hoje?
 
 #purchase
 message_2:
@@ -15,7 +15,7 @@ message_3:
       text: \n<JASH>Você não tem CONCHAS o bastante.
 
 message_4:
-      text: \n<JASH>Eu sou o JASH, mestre de muitos talentos e de trocas
+      text: \n<JASH>Eu sou o JASH, mestre de muitos talentos e de profissões
 
 message_5:
       text: \n<JASH>Por favor espere, Senhor ou Madame.\! Antes de você ir...<br>Eu gostaria de te agradeçer por ser um patorcinador do JASH.
@@ -30,7 +30,7 @@ message_203:
       text: \n<JASH DA RASPADINHA>Você não tem CONCHAS o bastante.
 
 message_204:
-      text: \n<JASH DA RASPADINHA>Eu sou o JASH, mestre de muitos talentos e de trocas.
+      text: \n<JASH DA RASPADINHA>Eu sou o JASH, mestre de muitos talentos e de profissões.
 
 message_205:
       text: \n<JASH DA RASPADINHA>Por favor espere, Senhor ou Madame.\! Antes de você ir...<br>Eu gostaria de te agradeçer por ser um patorcinador do JASH.
@@ -42,7 +42,7 @@ message_213:
       text: \n<JASH DO TOFU>Você não tem CONCHAS o bastante.
 
 message_214:
-      text: \n<JASH DO TOFU>Eu sou o JASH, mestre de muitos talentos e de trocas.
+      text: \n<JASH DO TOFU>Eu sou o JASH, mestre de muitos talentos e de profissões.
 
 message_215:
       text: \n<JASH DO TOFU>Por favor espere, Senhor ou Madame.\! Antes de você ir...<br>Eu gostaria de te agradeçer por ser um patorcinador do JASH.
@@ -54,7 +54,7 @@ message_223:
       text: \n<JASH DO LIMÃO>Você não tem CONCHAS o bastante.
 
 message_224:
-      text: \n<JASH DO LIMÃO>Eu sou o JASH, mestre de muitos talentos e de trocas.
+      text: \n<JASH DO LIMÃO>Eu sou o JASH, mestre de muitos talentos e de profissões.
 
 message_225:
       text: \n<JASH DO LIMÃO>Por favor espere, Senhor ou Madame.\! Antes de você ir...<br>Eu gostaria de te agradeçer por ser um patorcinador do JASH.
@@ -66,7 +66,7 @@ message_233:
       text: \n<JASH NEGOCIANTE>Você não tem CONCHAS o bastante.
 
 message_234:
-      text: \n<JASH NEGOCIANTE>Eu sou o JASH, mestre de muitos talentos e de trocas.
+      text: \n<JASH NEGOCIANTE>Eu sou o JASH, mestre de muitos talentos e de profissões.
 
 message_235:
       text: \n<JASH NEGOCIANTE>Por favor espere, Senhor ou Madame.\! Antes de você ir...<br>Eu gostaria de te agradeçer por ser um patorcinador do JASH.
@@ -78,7 +78,7 @@ message_243:
       text: \n<JASH DA FESTA>Você não tem CONCHAS o bastante.
 
 message_244:
-      text: \n<JASH DA FESTA>Eu sou o JASH, mestre de muitos talentos e de trocas.
+      text: \n<JASH DA FESTA>Eu sou o JASH, mestre de muitos talentos e de profissões.
 
 message_245:
       text: \n<JASH DA FESTA>Por favor espere, Senhor ou Madame.\! Antes de você ir...<br>Eu gostaria de te agradeçer por ser um patorcinador do JASH.
@@ -350,7 +350,7 @@ message_94:
 
 #Intro  start at 110
 message_110:
-      text: \n<JASH DA RASPADINHA>Eu sou o JASH, mestre de muitos talentos e de trocas.<br>\!Como posso te ajudar hoje?
+      text: \n<JASH DA RASPADINHA>Eu sou o JASH, mestre de muitos talentos e de profissões.<br>\!Como posso te ajudar hoje?
 
 #Purchase
 message_111:
@@ -464,7 +464,7 @@ message_139:
 
 #Intro    start at 140
 message_140:
-      text: \n<JASH DA FESTA>Eu sou o JASH, mestre de muitos talentos e de trocas.<br>\!Como posso te ajudar hoje?
+      text: \n<JASH DA FESTA>Eu sou o JASH, mestre de muitos talentos e de profissões.<br>\!Como posso te ajudar hoje?
 
 #Purchase
 message_141:
@@ -501,7 +501,7 @@ message_149:
 
 #Intro    start at 170
 message_170:
-      text: \n<JASH NEGOCIANTE>Eu sou o JASH, mestre de muitos talentos e de trocas.<br>\!Como posso te ajudar hoje?
+      text: \n<JASH NEGOCIANTE>Eu sou o JASH, mestre de muitos talentos e de profissões.<br>\!Como posso te ajudar hoje?
 
 #Purchase
 message_171:
