@@ -6,7 +6,7 @@ EmptyEnemyName: 'FATOS DO INIMIGOS!'
 Information:
 
   19:
-    name: COELHO DA FLORESTA
+    name: COELHO
     background: {name: 'battleback_vf_default', x: 0, y: 0}
     position: {x: 160, y: 425}
     character: {name: 'ENEMY_BUNNIES', index: 0}
@@ -26,7 +26,7 @@ Information:
         - AUBREY
 
   23:
-    name: COELHO DA FLORESTA?
+    name: COELHO?
     background: {name: 'battleback_vf_default', x: 0, y: 0}
     position: {x: 160, y: 425}
     character: {name: 'ENEMY_BUNNIES', index: 0}
@@ -47,7 +47,7 @@ Information:
         - KEL
 
   27:
-    name: BROTOPEIRA PERDIDA
+    name: BROTOPEIRA
     background: {name: 'battleback_vf_default', x: 0, y: 0}
     position: {x: 160, y: 425}
     character: {name: 'ENEMY_MOLES', index: 0}
@@ -90,15 +90,15 @@ Information:
         - OMORI
 
   37:
-    name: COELHO ESPACIAL
+    name: ESPAÇOELHO
     background: {name: 'battleback_ow_cattail', x: 0, y: 0}
     position: {x: 160, y: 300}
     character: {name: 'ENEMY_BUNNIES', index: 6}
     listIndex: 5
 
     text: |
-        Um COELHO DA FLORESTA comum
-        com uma bolha em sua cabeça.
+        Um COELHO comu com uma bolha
+        em sua cabeça.
         Isso permite que ele respire
         no espaço.
 
