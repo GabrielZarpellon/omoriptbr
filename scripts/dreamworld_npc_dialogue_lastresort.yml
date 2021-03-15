@@ -72,7 +72,7 @@ message_10:
 #ELEANOR
 #Location: MUSTARD SUBMERSIBLE
 message_11:
-      text: \n<SADIE>Oi, eu sou a SADIE...\! Minhas irmãs e eu começamos esse café...\! Mas já que estivemos apertadas em CONCHAS, muitas das minhas irmãs começaram a trabalhar no \c[11]ÚLTIMO RESORT\c[0].
+      text: \n<SADIE>Oi, eu sou a SADIE...\! Minhas irmãs e eu começamos esse café...\! Mas já que estivemos apertadas em CONCHAS, muitas delas começaram a trabalhar no \c[11]ÚLTIMO RESORT\c[0].
 
 message_12:
       text: \n<SADIE>Só tem eu e minha irmã ELEANOR sobrando...
