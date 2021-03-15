@@ -112,42 +112,42 @@ message_12:
 
 #Mailbox opens
 message_13:
-      text: \maiSim, sim! Olá, prezado cliente...<br>Bem-vindo à minha loja! Por favor compre alguma coisa! \}\sinv[1]Kekeke...
+      text: \n<CAIXA DE CORREIO>Sim, sim! Olá, prezado cliente...<br>Bem-vindo à minha loja! Por favor compre alguma coisa! \}\sinv[1]Kekeke...
 
 #MAILBOX - GENERAL
 
 #ENTER shop
 
 message_14:
-      text: \maiim, sim! Olá, prezado cliente...<br>Bem-vindo à minha loja! Por favor compre alguma coisa! \}\sinv[1]Kekeke...
+      text: \n<CAIXA DE CORREIO>Sim, sim! Olá, prezado cliente...<br>Bem-vindo à minha loja! Por favor compre alguma coisa! \}\sinv[1]Kekeke...
 
 #BUYING/SELLING
 
 message_15:
-      text: \maiObrigado, prezado cliente!\!<br>Foi bom fazer negócios com você.<br>\}\sinv[1]Kekeke...
+      text: \n<CAIXA DE CORREIO>Obrigado, prezado cliente!\!<br>Foi bom fazer negócios com você.<br>\}\sinv[1]Kekeke...
 
 #LEAVE SHOP AFTER BUYING SOMETHING
 
 message_16:
-      text: \maiMuito obrigado!
+      text: \n<CAIXA DE CORREIO>Muito obrigado!
 
 #LEAVE SHOP WITHOUT BUYING ANYTHING
 
 message_17:
-      text: \maiVou te avisando que não gosto de gente que só fica olhando...
+      text: \n<CAIXA DE CORREIO>Vou te avisando que não gosto de gente que só fica olhando...
 #NOT ENOUGH CLAMS
 
 message_18:
-      text: \maiEspere um pouco...\!<br>Você não tem CONCHAS o suficiente!\!<br>O que você acha que tá rolando aqui? UMA CARIDADE!?
+      text: \n<CAIXA DE CORREIO>Espere um pouco...\!<br>Você não tem CONCHAS o suficiente!\!<br>O que você acha que tá rolando aqui? UMA CARIDADE!?
 
 message_19:
-      text: \mai\Com[2]O que você acha que tá rolando aqui? Uma caridade!?
+      text: \n<CAIXA DE CORREIO>\Com[2]O que você acha que tá rolando aqui? Uma caridade!?
 #item buying prompt
 message_184:
-      text: \maiO total vai ser <SHOPTOTAL>\G.
+      text: \n<CAIXA DE CORREIO>O total vai ser <SHOPTOTAL>\G.
 #max item message
 message_185:
-      text: \maiVocê não tem espaço para isso...\! Se livre de alguma coisa primeiro!
+      text: \n<CAIXA DE CORREIO>Você não tem espaço para isso...\! Se livre de alguma coisa primeiro!
 #on item list buy ok
 message_186:
       text: Quantos você gostaria?\^
@@ -156,15 +156,15 @@ message_187:
       text: Quantos você vai vender?\^
 #item selling prompt
 message_188:
-      text: \maiEm troca de seus bens, Eu vou te oferecer isso...\! Tá bom pra você?
+      text: \n<CAIXA DE CORREIO>Em troca de seus bens, Eu vou te oferecer isso...\! Tá bom pra você?
 #item buying cancel
 message_189:
-      text: \maiO que? Depois de tudo aquilo você só vai desistir!?
+      text: \n<CAIXA DE CORREIO>O que? Depois de tudo aquilo você só vai desistir!?
 
 
 #IF HERO IS leader
 message_200:
-      text: \maiAh, se não é o HERO, meu cliente favorito e mais bonito também! Descontos para você como sempre! Então... por favor compre algo! \}\sinv[1]Kekeke...
+      text: \n<CAIXA DE CORREIO>Ah, se não é o HERO, meu cliente favorito e mais bonito também! Descontos para você como sempre! Então... por favor compre algo! \}\sinv[1]Kekeke...
 
 # =========================================================================================
 # MAILBOX: FOREST PLAYGROUND
@@ -212,62 +212,62 @@ message_200:
 #SELECTING POOL NOODLE
 
 message_70:
-      text: \maiEi, crianças! Vocês teriam interesse em um \c[13]MACARRÃO DE PISCINA\c[0]?\!<br>Pode parecer simples, mas pode virar uma arma poderosa!
+      text: \n<CAIXA DE CORREIO>Ei, crianças! Vocês teriam interesse em um \c[13]MACARRÃO DE PISCINA\c[0]?\!<br>Pode parecer simples, mas pode virar uma arma poderosa!
 
 message_71:
-      text: \maiAté mesmo sabendo disso...\! Vou te dar por um preço bem barato, 5000 CONCHAS, bem barato mesmo!
+      text: \n<CAIXA DE CORREIO>Até mesmo sabendo disso...\! Vou te dar por um preço bem barato, 5000 CONCHAS, bem barato mesmo!
 
 message_72:
-      text: \maiÀ esse preço, você vai tá roubando de mim basicamente!
+      text: \n<CAIXA DE CORREIO>À esse preço, você vai tá roubando de mim basicamente!
 
 message_73:
-      text: \maiO que você acha?\! Você quer?\$
+      text: \n<CAIXA DE CORREIO>O que você acha?\! Você quer?\$
 #yes/no
 
 #if yes
 message_74:
-      text: \maiExcelente!\! Por favor, tome muito cuidado com isso!\! <br>\}\sinv[1]Kekeke...\LECLEAR
+      text: \n<CAIXA DE CORREIO>Excelente!\! Por favor, tome muito cuidado com isso!\! <br>\}\sinv[1]Kekeke...\LECLEAR
 
 #if no
 message_75:
-      text: \maiOh, Entendo...\! Mas esse \c[13]MACARRÃO DE PISCINA\c[0] é tão raro e valioso...\!<br>Você deve considerar!\! E se eu deixasse tudo mais baratinho pra você pelo preço de 2,500 CONCHAS?
+      text: \n<CAIXA DE CORREIO>Oh, Entendo...\! Mas esse \c[13]MACARRÃO DE PISCINA\c[0] é tão raro e valioso...\!<br>Você deve considerar!\! E se eu deixasse tudo mais baratinho pra você pelo preço de 2,500 CONCHAS?
 
 message_76:
-      text: \maiQue tal?\! Você quer?\$
+      text: \n<CAIXA DE CORREIO>Que tal?\! Você quer?\$
 
 #yes/no
 message_77:
-      text: \maiVocê...\! \Com[2]Você ainda não quer??\!<br>\QUAKE[1]À esse preço!?!?\QUAKE[0]
+      text: \n<CAIXA DE CORREIO>Você...\! \Com[2]Você ainda não quer??\!<br>\QUAKE[1]À esse preço!?!?\QUAKE[0]
 
 message_78:
-      text: \maiGrr... Hmph...
+      text: \n<CAIXA DE CORREIO>Grr... Hmph...
 
 message_79:
-      text: \maiTá bem, tá bem... \!Eu tô de bom humor, então lá vai...
+      text: \n<CAIXA DE CORREIO>Tá bem, tá bem... \!Eu tô de bom humor, então lá vai...
 
 message_80:
-      text: \maiSe prepare para o melhor negócio de toda sua vida!<br>1000 CONCHAS, pegue ou vá embora!\$
+      text: \n<CAIXA DE CORREIO>Se prepare para o melhor negócio de toda sua vida!<br>1000 CONCHAS, pegue ou vá embora!\$
 
 #No
 message_81:
-      text: \maiVocê...\! Você é bem resistente...
+      text: \n<CAIXA DE CORREIO>Você...\! Você é bem resistente...
 
 message_82:
-      text: \maiHuff...\! Que tal...\! 500 CONCHAS...\$
+      text: \n<CAIXA DE CORREIO>Huff...\! Que tal...\! 500 CONCHAS...\$
 
 #[no]
 message_83:
-      text: \mai250 CONCHAS?\$
+      text: \n<CAIXA DE CORREIO>250 CONCHAS?\$
 
 #[no]
 message_84:
-      text: \maiSabe...\! \Com[2]Tá bom!\!<br>Eu nem sei porquê eu tô tentando muito...
+      text: \n<CAIXA DE CORREIO>Sabe...\! \Com[2]Tá bom!\!<br>Eu nem sei porquê eu tô tentando muito...
 
 message_85:
-      text: \maiSe você não vai comprar o \c[13]MACARRÃO DE PISCINA\c[0], então só leva!
+      text: \n<CAIXA DE CORREIO>Se você não vai comprar o \c[13]MACARRÃO DE PISCINA\c[0], então só leva!
 
 message_87:
-      text: \maiSe livra dessa coisa...\! Eu não quero vê-la de novo!
+      text: \n<CAIXA DE CORREIO>Se livra dessa coisa...\! Eu não quero vê-la de novo!
 
 message_88:
       text: Você conseguiu um \c[13]MACARRÃO DE PISCINA\c[0].
