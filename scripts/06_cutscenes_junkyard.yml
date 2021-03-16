@@ -145,7 +145,7 @@ message_57:
 message_58:
       faceset: MainCharacters_DreamWorld
       faceindex: 36
-      text: Eu não sei. Eu tento não pensar muito sobre isso.\her
+      text: Eu não sei. Tento não pensar muito sobre isso.\her
 
 message_59:
       text: O queijo foi comido, e o caminho liberado.
@@ -231,7 +231,7 @@ message_96:
       text: \Com[2]\{\quake[1]EEEEEH!! QUE COISA MAIS SELVAGEM!!\quake[0]\}\!<br>Violência nunca resolve nada, sabe.\ros
 
 message_97:
-      text: Hmf!\! Eu sou muito refinada para essas bobagens.\!<br>Adeus, meros peões... e vejo vocês nunca mais!\ros
+      text: Hmph!\! Eu sou muito refinada para essas bobagens.\!<br>Adeus, meros peões... e vejo vocês nunca mais!\ros
 
 #ROSA runs off screen
 
@@ -308,10 +308,10 @@ message_144:
 message_145:
       faceset: MainCharacters_DreamWorld
       faceindex: 17
-      text: Sem chance! Achado não é roubado.\!<br>Nós vamos botar isso na caixa de som do CAPITÃO, é lá onde ela pertence!\kel
+      text: Sem chance! Achado não é roubado.\!<br>Nós vamos botar isso na caixa de som do NAMORADO, é lá onde ela pertence!\kel
 
 message_146:
-      text: Hm?\! CAPITÃO...\! NAMORADO...\! você diz?\ros
+      text: Hm?\! NAMORADO...\! ESPACIAL...\! você diz?\ros
 
 #ADD Ohohoho
 
@@ -396,4 +396,4 @@ message_172:
 message_173:
       faceset: MainCharacters_DreamWorld
       faceindex: 17
-      text: Aquela plataforma parece ser um bom lugar para isso.\!<br>PASSE para mim! Eu lido com isso!\kel
+      text: Aquela plataforma parece ser um bom lugar pra isso.\!<br>PASSE pra mim! Eu lido com isso!\kel
