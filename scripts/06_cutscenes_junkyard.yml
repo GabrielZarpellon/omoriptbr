@@ -225,7 +225,7 @@ message_94:
 message_95:
       faceset: MainCharacters_DreamWorld
       faceindex: 30
-      text: Ei! A gente não veio até aqui pra nada!\!<br>Se não nos der essa \c[4]MIXTAPE ESPECIAL\c[0], nós teremos que tomar à força!\kel
+      text: Ei! A gente não veio até aqui pra nada!\!<br>Se não nos der essa \c[4]MIXTAPE ESPECIAL\c[0], nós teremos que pegar à força!\kel
 
 message_96:
       text: \Com[2]\{\quake[1]EEEEEH!! QUE COISA MAIS SELVAGEM!!\quake[0]\}\!<br>Violência nunca resolve nada, sabe.\ros
@@ -319,10 +319,10 @@ message_147:
       text: Oh, sua criança ignorante.\!<br>Não ouviu as últimas notícias?\ros
 
 message_148:
-      text: Uma fonte confiável me disse que o <br>NAMORADO ESPACIAL e a SWEETHEART já se separaram faz tempo!\ros
+      text: Uma fonte confiável me disse que o NAMORADO ESPACIAL e a SWEETHEART já se separaram faz tempo!\ros
 
 message_149:
-      text: Por que você acha que essa \c[4]MIXTAPE ESPECIAL\c[0] tá fazendo no \c[11]FERRO-VELHO\c[0] hein?\! Porque foi o NAMORADO ESPACIAL que a jogou aqui!\ros
+      text: Por que você acha que essa \c[4]MIXTAPE ESPECIAL\c[0] tá no \c[11]FERRO-VELHO\c[0] hein?\! Porque foi o NAMORADO ESPACIAL que a jogou aqui!\ros
 
 message_150:
       faceset: MainCharacters_DreamWorld
