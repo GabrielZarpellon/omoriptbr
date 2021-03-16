@@ -137,7 +137,7 @@ message_22:
     text: \whoEntendo! Cinco belos nomes para cinco belos jovens!
 
 message_23:
-    text: \pluMeu nome é PLUTÃO, eu sou um planeta interestelar...\!<br>Um fora da lei pode se dizer.\! Eu me desculpo por ter causado<br>tantos problemas.
+    text: \n<PLUTÃO>Meu nome é PLUTÃO, eu sou um planeta interestelar...\!<br>Um fora da lei pode se dizer.\! Eu me desculpo por ter causado tantos problemas.
 
 message_24:
     text: \n<PLUTÃO>Mas...\! Eu sinto que não é o meu propósito agir como uma mera decoração de jardim.
@@ -149,7 +149,7 @@ message_25:
     text: \n<PLUTÃO>Eu quero a liberdade para vagar pelos céus como eu quiser, que nem os passáros e as estrelas!
 
 message_26:
-    text: \n<PLUTÃO>Se isso me faz um planeta interestelar, então que seja.<br>\!Eles podem me chamar do que eles quiserem,<br>desde que eu esteja livre para fazer o que eu bem entendo!
+    text: \n<PLUTÃO>Se isso me faz um planeta interestelar, então que seja.<br>\!Eles podem me chamar do que eles quiserem, desde que eu esteja livre para fazer o que eu bem entendo!
 
 #Background below turns to normal
 #PLUTO turns to party
@@ -194,7 +194,7 @@ message_34:
     text: \n<PLUTÃO>Esta realização me revigorou!\!<br>E já que me ajudaram de maneira tão generosa, Eu devo retornar o meu favor!
 
 message_35:
-    text: \n<PLUTÃO>...\! Ahem!\! Eu sou o PLUTÃO da "LINHA ESPACIAL PLUTÃO" agora.\!<br>Por favor, finjam que vocês acabaram de chegar na minha estação.
+    text: \n<PLUTÃO>...\! Ahem!\! Eu sou o PLUTÃO da "LINHA ESPACIAL PLUTÃO" agora.\!<br>Por favor, finjam que vocês acabaram de chegar na estação.
 
 #PLUTO turns around
 
@@ -246,7 +246,7 @@ message_53:
 #PLUTO turn to party
 
 message_42:
-    text: \n<PLUTÃO>Uma carona para o acampamento de \c[11]OUTRO MUNDO\c[0], saindo!
+    text: \n<PLUTÃO>Uma carona para o acampamento de \c[11]OUTRO-MUNDO\c[0], saindo!
 
 message_49:
     text: \n<PLUTÃO>Eu não vou desapontá-los, jovens viajantes!\!<br>Deixem comigo!
@@ -294,7 +294,7 @@ message_133:
     text: \n<PLUTÃO>Ahem...\! Repita depois de mim.
 
 message_134:
-    text: \n<PLUTÃO>\Com[2]\{\quake[1]QUANDO FAÇO \c[1]FLEXÃO\c[0], FICO FORTÃO!!\}
+    text: \n<PLUTÃO>\Com[2]\{\quake[1]QUANDO FAÇO \c[1]FLEXÃO\c[0], SOU FORTÃO!!\}
 
 message_135:
     text: \n<PLUTÃO>Agora é com você.
