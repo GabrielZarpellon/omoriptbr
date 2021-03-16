@@ -45,7 +45,7 @@ message_10:
       text: Pressione \DII[pageup] para abrir o MENU DA FORCA.
     #  \c[4]  \c[0]
 message_11:
-      text: Pressione \DII[pagedown] para abir o MAPA DO ESPAÇO MENTAL.
+      text: Pressione \DII[pagedown] para abrir o MAPA DO ESPAÇO MENTAL.
 
 message_12:
       text: Nada além de estática.
