@@ -128,10 +128,10 @@ message_23:
       text: Droga, KEL! Olha o que cê fez!\aub
 
 message_24:
-      text: \Com[2]\{\quake[1]FWAHAHA\{HAHA\{HAHA!!\sinv[0]
+      text: \n<NAMORADO ESPACIAL>\Com[2]\{\quake[1]FWAHAHA\{HAHA\{HAHA!!\sinv[0]
 
 message_25:
-      text: \Com[2]\quake[1]\{TEMAM-ME, EU DESPERTEI!!\quake[0]
+      text: \n<NAMORADO ESPACIAL>\Com[2]\quake[1]\{TEMAM-ME, EU DESPERTEI!!\quake[0]
 
 message_26:
       text: \n<NAMORADO ESPACIAL>...\! Hmph...\! <br>Um segundo.
