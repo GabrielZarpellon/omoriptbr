@@ -5,10 +5,10 @@
 #Trigger: Entering SBF's House with SWEETHEART MIXTAPE.
 
 message_0:
-      text: Eita nós! Vocês pirralhos realmente conseguiram!\! Tá meio suja, mas é a nossa \c[4]MIXTAPE ESPECIAL\c[0] com certeza!\!<br>Muito obrigado, carinha.\spg
+      text: \n<CARA PIRATA ESPACIAL>Eita nós! Vocês pirralhos realmente conseguiram!\! Tá meio suja, mas é a nossa \c[4]MIXTAPE ESPECIAL\c[0] com certeza!\!<br>Muito obrigado, carinha.
 
 message_1:
-      text: Com isso nós finalmente vamos conseguir acordar o NAMORADO ESPACIAL!\spg
+      text: \n<CARA PIRATA ESPACIAL>Com isso nós finalmente vamos conseguir acordar o NAMORADO ESPACIAL!
 
 #KEL walks up to you.
 
@@ -23,10 +23,10 @@ message_3:
 #KEL slowly walks to SPACE BOYFRIEND.
 
 message_4:
-      text: \Com[2]Q-Quê? Eles realmente?\!<br>De verdade desta vez?\!<br>Oh não...\! Mas isso significaria que...\spg
+      text: \n<CARA PIRATA ESPACIAL>\Com[2]Q-Quê? Eles realmente?\!<br>De verdade desta vez?\!<br>Oh não...\! Mas isso significaria que...
 
 message_5:
-      text: Então não temos mais motivos para tocar a \c[4]MIXTAPE ESPECIAL\c[0] de novo...\! Toda esperança...\! foi perdida.\spg
+      text: \n<CARA PIRATA ESPACIAL>Então não temos mais motivos para tocar a \c[4]MIXTAPE ESPECIAL\c[0] de novo...\! Toda esperança...\! foi perdida.
 
 #KEL jumps.
 
@@ -112,13 +112,13 @@ message_19:
       text: Uh-oh...\! Eu tenho certeza que isso vai dar errado...\her
 
 message_20:
-      text: \Com[2]\quake[1]O que...\| \Com[2]é...\| \Com[2]esse...\sbf\quake[0]
+      text: \n<NAMORADO ESPACIAL>\Com[2]\quake[1]O que...\| \Com[2]é...\| \Com[2]esse...\sbf\quake[0]
 
 message_21:
-      text: \Com[2]\quake[1]\{\{BARULHO...\sbf\quake[0]
+      text: \n<NAMORADO ESPACIAL>\Com[2]\quake[1]\{\{BARULHO...\sbf\quake[0]
 
 message_22:
-      text: \Com[2]\quake[1]\{\{\{INFERNAL!?!?\sbf\quake[0]
+      text: \n<NAMORADO ESPACIAL>\Com[2]\quake[1]\{\{\{INFERNAL!?!?\sbf\quake[0]
 
 #Screen shakes. SPACE PIRATE guy flies O.S. at an alarming speed.
 
@@ -134,42 +134,42 @@ message_25:
       text: \Com[2]\quake[1]\{TEMAM-ME, EU DESPERTEI!!\sbf\quake[0]
 
 message_26:
-      text: ...\! Hmph...\! <br>Um segundo.\sbf
+      text: \n<NAMORADO ESPACIAL>...\! Hmph...\! <br>Um segundo.
 
 #SPACE BOYFRIEND teleports to front of cassette player and changes the song to pre-battle music.
 
 message_27:
-      text: Hmhmhmhm...\|<br>\Com[2]\{\quake[1]FWAHAHAH\{AHAHAHA!!\sbf\sinv[0]
+      text: \n<NAMORADO ESPACIAL>Hmhmhmhm...\|<br>\Com[2]\{\quake[1]FWAHAHAH\{AHAHAHA!!\sbf\sinv[0]
 
 message_28:
-      text: Muito melhor!\! Agora, onde eu estava...?\! Ah, sim!\sbf
+      text: \n<NAMORADO ESPACIAL>Muito melhor!\! Agora, onde eu estava...?\! Ah, sim!
 
 message_29:
-      text: \Com[2]Crianças tolas!\!<br>Eu devo-lhes agradecer por me acordar.\!<br>Cansei de ficar nesta cama, fingindo estar doente.\sbf
+      text: \n<NAMORADO ESPACIAL>\Com[2]Crianças tolas!\!<br>Eu devo-lhes agradecer por me acordar.\!<br>Cansei de ficar nesta cama, fingindo estar doente.
 
 message_30:
-      text: Como sempre digo...\! <br>\{\quake[1]SENTIMENTO É PRA MANÉS!!\sbf\}
+      text: \n<NAMORADO ESPACIAL>Como sempre digo...\! <br>\{\quake[1]SENTIMENTO É PRA MANÉS!!\sbf\}
 
 message_31:
-      text: Aquela praga, SWEETHEART...\!<br>Ela vai pagar por ter me deixado!\sbf
+      text: \n<NAMORADO ESPACIAL>Aquela praga, SWEETHEART...\!<br>Ela vai pagar por ter me deixado!\sbf
 
 message_32:
-      text: Eu fiz tudo por ela! Eu dei tudo pra ela!\!<br>\{TUDO! TÁ ME OUVINDO!?!?\sbf\}
+      text: \n<NAMORADO ESPACIAL>Eu fiz tudo por ela! Eu dei tudo pra ela!\!<br>\{TUDO! TÁ ME OUVINDO!?!?\sbf\}
 
 message_33:
-      text: Aquela ingrata, aquela va...\! Aughhhhhh... \sbf
+      text: \n<NAMORADO ESPACIAL>Aquela ingrata, aquela va...\! Aughhhhhh... \sbf
 
 message_34:
-      text: \quake[1]AAAAAU\Com[2]\{UUUGGGGG\Com[2]\{GGGGGHHHHH\Com[2]\{HHHHH!!!\sbf\quake[0]
+      text: \n<NAMORADO ESPACIAL>\quake[1]AAAAAU\Com[2]\{UUUGGGGG\Com[2]\{GGGGGHHHHH\Com[2]\{HHHHH!!!\sbf\quake[0]
 
 message_35:
-      text: \quake[1]\{SÓ ESQUEÇA!!\! ESQUEÇA TUDO!!\sbf\quake[0]
+      text: \n<NAMORADO ESPACIAL>\quake[1]\{SÓ ESQUEÇA!!\! ESQUEÇA TUDO!!\sbf\quake[0]
 
 message_37:
-      text: Eu vou encontrá-la SWEETHEART...\sbf
+      text: \n<NAMORADO ESPACIAL>Eu vou encontrá-la SWEETHEART...
 
 message_38:
-      text: \{E VOU TE FAZER PAGAR POR TUDO!!\sbf\quake[0]
+      text: \n<NAMORADO ESPACIAL>\{E VOU TE FAZER PAGAR POR TUDO!!\sbf\quake[0]
 
 message_39:
       faceset: MainCharacters_DreamWorld
@@ -182,16 +182,16 @@ message_40:
       text: \{\{\Com[2]EX-NAMORADO ESPACIAL!!\aub
 
 message_41:
-      text: Interessante.\! Você está me desafiando?\!<br>\{VOCÊ SE QUER SABE QUEM EU SOU!?\sxbf
+      text: \n<EX-NAMORADO ESPACIAL>Interessante.\! Você está me desafiando?\!<br>\{VOCÊ SE QUER SABE QUEM EU SOU!?
 
 message_42:
-      text: \{EU SOU O CAPITÃO DOS PIRATAS ESPACIAIS!\sxbf
+      text: \n<EX-NAMORADO ESPACIAL>\{EU SOU O CAPITÃO DOS PIRATAS ESPACIAIS!
 
 message_43:
-      text: Eu tenho controle sob todos os planetas do sistema solar e posso voar pelo espaço e além!\sxbf
+      text: \n<EX-NAMORADO ESPACIAL>Eu tenho controle sob todos os planetas do sistema solar e posso voar pelo espaço e além!
 
 message_44:
-      text: \Com[2]O poder de todo o universo está sob o meu comando!\sxbf
+      text: \n<EX-NAMORADO ESPACIAL>\Com[2]O poder de todo o universo está sob o meu comando!
 
 message_45:
       faceset: MainCharacters_DreamWorld
@@ -204,13 +204,13 @@ message_46:
       text: Se você quer sair por ai causando problemas,<br>você vai ter que passar por nós primeiro!\her
 
 message_47:
-      text: ...\sxbf
+      text: \n<EX-NAMORADO ESPACIAL>...
 
 message_48:
-      text: Hmph...\! Então é assim que vai ser.\!<br>Se vocês insistem em me parar...\!<br>Temo que vamos fazer isso do jeito difícil.\sxbf
+      text: \n<EX-NAMORADO ESPACIAL>Hmph...\! Então é assim que vai ser.\!<br>Se vocês insistem em me parar...\!<br>Temo que vamos fazer isso do jeito difícil.
 
 message_49:
-      text: \{\quake[1]VOU DERRUBAR TODOS VOCÊS!!\quake[0]\sxbf
+      text: \n<EX-NAMORADO ESPACIAL>\{\quake[1]VOU DERRUBAR TODOS VOCÊS!!\quake[0]
 
 message_50:
-      text: \{\{\quake[1]VAMOS LUTAR, VERMES TERRÁQUEOS!!\quake[0]\sxbf
+      text: \n<EX-NAMORADO ESPACIAL>\{\{\quake[1]VAMOS LUTAR, VERMES TERRÁQUEOS!!\quake[0]
