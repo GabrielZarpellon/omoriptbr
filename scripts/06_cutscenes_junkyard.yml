@@ -35,7 +35,7 @@ message_5:
 message_6:
       faceset: MainCharacters_DreamWorld
       faceindex: 2
-      text: Só me deixe como a LÍDER selecionando PASSAR no MENU ou segurando \DII[tag]! \!<br>Eu vou me livrar desse monte de quinquilharia aí, fácil fácil!\aub
+      text: Só me deixe como a LÍDER selecionando PASSAR no MENU ou segurando \DII[tag]! \!<br>Eu vou me livrar desse monte de coisa aí fácil fácil!\aub
 
 
 message_7:
@@ -60,7 +60,7 @@ message_30:
       text: \Com[2]Ei, SR. ESTEIROBÔ!\!<br>Muda essas esteiras aí pra gente agora!\kel
 
 message_31:
-      text: \n<SR. ESTEIROBÔ>\quake[1]Bzzt...\! Hmf...\! Pessoa rude...\quake[0]
+      text: \n<SR. ESTEIROBÔ>\quake[1]Bzzt...\! Hmph...\! Pessoa rude...\quake[0]
 
 message_32:
       faceset: MainCharacters_DreamWorld
