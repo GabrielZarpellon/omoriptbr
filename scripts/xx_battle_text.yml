@@ -823,7 +823,7 @@ message_151:
 
 message_152:
    text: >
-    \>BISCOITA: \<Nós estamos nos egotando de suprimentos! O que vamos fazer, BISCOITA!?
+    \>BISCOITA: \<Nós estamos nos egotando de suprimentos! O que vamos fazer, BOLACHO?
 
 message_153:
    text: >
@@ -1590,7 +1590,7 @@ message_308:
 
 message_309:
    text: >
-    \>HERO: \<Usando nossa ENERGIA, podemos derrotar esse inimigo juntos!\! Só ATAQUE que você vai ver!
+    \>HERO: \<Usando nossa ENERGIA, podemos derrotar esse inimigo juntos!\! ATAQUE e você vai ver!
 
 message_310:
    text: >
@@ -1598,7 +1598,7 @@ message_310:
 
 message_311:
    text: >
-    \>HERO: \<Depois que você ataca, por um tempo limitado você pode usar ENERGIA para fazer uma SEQUÊNCIA.
+    \>HERO: \<Depois que você ataca, por um tempo você pode usar ENERGIA para fazer uma SEQUÊNCIA.
 
 message_312:
    text: >
@@ -1614,7 +1614,7 @@ message_314:
 
 message_315:
    text: >
-    \>HERO: \<Quando levamos dano, também ganhamos ENERGIA!\! Pense como uma chance de dar a volta por cima!
+    \>HERO: \<Quando levamos dano, também ganhamos ENERGIA!\! É como uma chance de contra-atacar!
 
 message_316:
    text: >
