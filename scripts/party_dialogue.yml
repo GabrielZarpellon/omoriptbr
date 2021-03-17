@@ -1814,64 +1814,64 @@ message_440:
 message_441:
       faceset: MainCharacter_Mari
       faceindex: 3
-      text: \marOi, pessoal!\! Taking a break from wandering, I see.\! Are you enjoying yourselves?
+      text: \marOi, pessoal!\! Fazendo uma pausa depois de andar por aí, entendi.\! Estão se divertindo?
 
 message_442:
       faceset: MainCharacters_DreamWorld
       faceindex: 19
-      text: \kelYeah, it's been a while.\!<br>But you know what...\! My legs just can't keep still!
+      text: \kelSim, faz um bom tempo.\!<br>Mas quer saber...\! Minhas pernas não param quietas!
 
 message_443:
       faceset: MainCharacter_Mari
       faceindex: 0
-      text: \marOh, you're bored, KEL?\! Well then, I may know of something that will interest you.
+      text: \marOh, tá entediado, KEL?\! Então, talvez eu sabia de algo que te interesse.
 
 message_444:
       faceset: MainCharacter_Mari
       faceindex: 7
-      text: \marWord is there's an old, empty house past the large fog south of the playground.
+      text: \marDizem que tem uma velha casa vazia depois daquela grande parede de névoa ao sul do parquinho.
 
 message_445:
       faceset: MainCharacters_DreamWorld
       faceindex: 6
-      text: \aubAn old, empty house?\! Sounds kind of spooky...
+      text: \aubUma casa velha e vazia?\! Parece ser algo assustador...
 
 message_446:
       faceset: MainCharacters_DreamWorld
       faceindex: 47
-      text: \herMARI...\! You always like to do scary things like this.\!<br>How do you have the stomach for it?
+      text: \herMARI...\! Você sempre gosta de fazer coisas assustadoras assim.\!<br>Como você tem um estômago pra essas coisas?
 
 message_447:
       faceset: MainCharacter_Mari
       faceindex: 6
-      text: \marI don't know...\!<br>Sometimes it's fun to get a little scared, don't you think?
+      text: \marEu não sei...\!<br>Às vezes é divertido se assustar um pouco, não acha?
 
 message_448:
       faceset: MainCharacters_DreamWorld
       faceindex: 18
-      text: \kelI understand you completely, MARI.\!<br>Come on, guys! Where's your sense of adventure?\!<br>Don't tell me you're all too chicken!
+      text: \kelEu te entendo, MARI.\!<br>Vamos lá, galera! Cadê os seus instintos de aventura?\!<br>Não me digam que são galinhas!
 
 message_449:
       faceset: MainCharacters_DreamWorld
       faceindex: 8
-      text: \aubAlright, fine...\! I'm in.
+      text: \aubCerto, tudo bem...\! Tô dentro.
 
 message_450:
       faceset: MainCharacters_DreamWorld
       faceindex: 42
-      text: \herSigh... I guess I'll go too, since everyone else is going.
+      text: \herAi ai... Acho que eu também vou, já que todo mundo tá indo.
 
 message_451:
       faceset: MainCharacter_Mari
       faceindex: 6
-      text: \marThat's the spirit, everyone.\!<br>Don't be scared. We're all going together!
+      text: \marEsse é o espírito, pessoal.\!<br>Não tenham medo. Estamos indo juntos!
 
 #MARI joined your party.
 
 #(Note: After this cutscene, Silent Cat disappears)
 
 message_455:
-      text: An unfinished game of cards.
+      text: Um jogo de cartas não finalizado.
 
 #------------------------------------------------------------------------------------------
 
@@ -1885,26 +1885,26 @@ message_455:
 message_460:
       faceset: MainCharacter_Mari
       faceindex: 2
-      text: \marThis isn't the way to the empty house!<br>\!Did you guys want to go do something else instead?
+      text: \marEsse não é o caminho para a casa vazia!<br>\!Vocês querem fazer outra coisa?
 #[YES/NO]
 
 #[YES]
 message_461:
       faceset: MainCharacter_Mari
       faceindex: 3
-      text: \marNo problem!\! Just come visit me at the path south of the playground when you're ready!
+      text: \marSem problema!\! Venham me visitar no caminho ao sul do parquinho quando estiverem prontos!
 
 #[NO]
 message_462:
       faceset: MainCharacter_Mari
       faceindex: 0
-      text: \marLet's head back to the forest path then...<br>the one south of the playground!
+      text: \marEntão vamos voltar para o caminho da floresta...<br>Aquele ao sul do parquinho!
 
 #------------------------------------------------------------------------------------------
 
 #Upon examining flower fields:
 message_465:
-      text: A dead flower.
+      text: Uma flor morta.
 
 #------------------------------------------------------------------------------------------
 
@@ -1913,26 +1913,26 @@ message_465:
 message_470:
       faceset: MainCharacter_Mari
       faceindex: 3
-      text: \marNice! You're all here.\! The empty house is just at the end of this path.
+      text: \marLegal! Vocês estão todos aqui.\! A casa fica no fim desse caminho.
 
 #*Or
 
 message_471:
       faceset: MainCharacter_Mari
       faceindex: 3
-      text: \marNice! We're all here!
+      text: \marLegal! Estamos todos aqui!
 
 #*Then
 
 message_472:
       faceset: MainCharacter_Mari
       faceindex: 2
-      text: \marThe house is just at the end of this path.
+      text: \marA casa fica no fim desse caminho.
 
 message_473:
       faceset: MainCharacter_Mari
       faceindex: 6
-      text: \marLet's go!
+      text: \marVamos lá!
 
 #MARI joined the party. (If you reach picnic here after leaving)
 
@@ -1979,11 +1979,11 @@ message_473:
 message_494:
       faceset: MainCharacter_Mari
       faceindex: 4
-      text: \marSigh...\! I guess there really is nothing here after all.
+      text: \marAi ai...\!Acho que realmente não tem nada aqui.
 
 #Examine black hole:
 message_495:
-      text: It's a long way down...\| Do you want to jump?
+      text: É uma queda e tanto...\| Você quer pular?
 
 #[YES/NO]
 
@@ -1994,12 +1994,12 @@ message_495:
 message_497:
       faceset: MainCharacter_Mari
       faceindex: 2
-      text: \marOMORI! What are you doing?<br>\!You look like you were just about to fall in!
+      text: \marOMORI! O que você tá fazendo?<br>\!Parece que você está prestes a cair!
 
 message_498:
       faceset: MainCharacter_Mari
       faceindex: 4
-      text: \marStay with me, OMORI...\! I don't want to lose you again.
+      text: \marFique comigo, OMORI...\! Eu não quero te perder de novo.
 
 #*OMORI must stab himself in front of his friends.
 #*While OMORI is stabbing, his frames switch between OMORI and PLAYER's.
@@ -2010,7 +2010,7 @@ message_498:
 #*PLAYER can fall into the hole now that he's alone.
 
 message_499:
-      text: It's a long way down...
+      text: É uma queda e tanto...
 
 #[YES/NO]
 
