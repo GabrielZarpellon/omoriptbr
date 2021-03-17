@@ -927,7 +927,7 @@ message_426:
       text: \sinv[1]Swish... Swish... Swish...\sinv[0]
 
 message_427:
-      text: Lavanderia suja.
+      text: Roupas sujas.
 
 #SIGNS
 
@@ -942,7 +942,7 @@ message_502:
 
 
 message_503:
-      text: \"CUIDADO - PISCINA SOB CONSTRUÇÃO\"
+      text: \"CUIDADO - PISCINA EM CONSTRUÇÃO\"
 
 message_504:
       text: \"CUIDADO - PISCINA ASSOMBRADA\"
@@ -1455,7 +1455,7 @@ message_938:
 #Quarters
 
 message_939:
-      text: Uma cama de BROTOPEIRAS.\! Cheira a lavanderia suja.
+      text: Uma cama de BROTOPEIRAS.\! Cheira a roupa suja.
 
 #LAST RESORT OUTSIDE
 
