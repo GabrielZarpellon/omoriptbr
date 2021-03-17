@@ -50,7 +50,7 @@ message_7:
       text: \n<BROTOPEIRA CHEFE>Existem quatro tipos de \c[3]TOFU\c[0]...\!<br>firme, extra firme, macio e sedoso!
 
 message_8:
-      text: \n<BROTOPEIRA CHEFE>Um \c[3]TOFU\c[0] firme pode ser frito, assado, encubado, e praticamente qualquer coisa.\! Isso é porque ele mante sua forma e ainda absorve sabor!
+      text: \n<BROTOPEIRA CHEFE>Um \c[3]TOFU\c[0] firme pode ser frito, assado, encubado, e praticamente qualquer coisa.\! Isso é porque ele mantém sua forma e ainda absorve sabor!
 
 message_9:
       text: \n<BROTOPEIRA CHEFE>Um \c[3]TOFU\c[0] macio é melhor preparado cru ou drenado.\! É ótimo para sobremesas, batidas, molhos e temperos!
@@ -68,7 +68,7 @@ message_13:
       text: \n<BROTOPEIRA CHEFE>A melhor maneira de adicionar sabor ao \c[3]TOFU\c[0] é esperar até dourar e depois marinar.\! Ele vai absorver todos os sabores até que o molho se transforme em um xarope grudento!
 
 message_14:
-      text: \n<BROTOPEIRA CHEFE>Se quiserem saber mais desse maravilhoso e majestoso \c[3]TOFU\c[0], falem comigo novamente.\! Ho-ho!
+      text: \n<BROTOPEIRA CHEFE>Se quiserem saber mais sobre o maravilhoso e majestoso \c[3]TOFU\c[0], falem comigo novamente.\! Ho-ho!
 
 #DOUBLE MOLE
 #Location: Sprout Mole Village
@@ -152,12 +152,12 @@ message_40:
 #STUDENT MOLE 2
 #Location: Sprout Mole Village
 message_41:
-      text: \n<BROTOPEIRA ESTUDANTE>Vocês acham que ainda seremos amigos depois de nos graduarmos?
+      text: \n<BROTOPEIRA ESTUDANTE>Vocês acham que ainda seremos amigos depois que graduarmos?
 
 #STUDENT MOLE 3
 #Location: Sprout Mole Village
 message_42:
-      text: \n<BROTOPEIRA ESTUDANTE>Apesar de toda a minha \QUAKE[1]raiva\QUAKE[0], ainda sou só uma brotopeira em uma jaula.
+      text: \n<BROTOPEIRA ESTUDANTE>Apesar de toda a minha \QUAKE[1]raiva\QUAKE[0], ainda sou apenas uma brotopeira em uma jaula.
 
 #SUE CHEF MOLE 1 & SUE CHEF MOLE 2
 #Location: Sprout Mole Village
@@ -561,7 +561,7 @@ message_109:
 #AFTER SW WEDDING
 
 message_110:
-      text: \n<BROTOPEIRA>Sniff...\! SWEETHEART fez novamente.\! Estou totalmente comovido.
+      text: \n<BROTOPEIRA>Sniff...\! A SWEETHEART conseguiu mais uma vez.\! Estou totalmente comovido.
 
 message_111:
       text: \n<BROTOPEIRA>Você é o HERO? Como em \sinv[1]o\sinv[0] HERO de \"SWEETHEART EM BUSCA DE CORAÇÕES\"!?\! Sua atuação foi ótima!\! Eu realmente acreditei que você rejeitou a SWEETHEART!
