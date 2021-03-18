@@ -123,7 +123,7 @@ message_32:
       text: Oh nossa, oh nossa!\! Eu mal consigo conter meu entusiasmo.\!<br>Esse show vai ser o mais eletrizante de todos!\n<BROTOPEIRA>
 
 message_33:
-      text: Oh deuses, oh deuses!\! Devemos nos apressar!\! <br>Os nossos \c[4]INGRESSOS DO SHOW\c[0] de primeira fileira estão bem aqui!\!<br>Estamos no momento das nossas vidas, e não devemos nos atrasar!\n<BROTOPEIRA>
+      text: Oh deuses!\! Devemos nos apressar!\! <br>Os nossos \c[4]INGRESSOS DO SHOW\c[0] de primeira fileira estão bem aqui!\!<br>Esse é o momento das nossas vidas, e não devemos nos atrasar!\n<BROTOPEIRA>
 
 message_34:
       text: Agora... qual era o caminho mesmo?\n<BROTOPEIRA>
