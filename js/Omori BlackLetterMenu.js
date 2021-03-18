@@ -1098,7 +1098,11 @@ Sprite_OmoBlackletter.prototype.setupBitmap = function() {
     // Set Bitmap
     this.bitmap = ImageManager.loadSystem('Blackletters_menu');
     // Get Index
-    var index = this._letter.charCodeAt(0) - 65;
+    if(this._letter === "C"){
+      index = 26;
+    }else{
+      var index = this._letter.charCodeAt(0) - 65;
+    }
     var bx = (index % 5) * 32
     var by = Math.floor(index / 5) * 32
     this.setFrame(bx, by, 32, 32);
