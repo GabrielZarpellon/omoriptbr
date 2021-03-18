@@ -84,7 +84,7 @@ message_10:
 #SPACE PIRATE turns to party
 
 message_11:
-    text: \n<MANO PIRATA ESPACIAL>Ei, crianças! Estamos procurado um planeta interestelar de alto nível e refinado chamado PLUTÃO.\! Ele é um cara grande, circular, acinzentado e com grandes músculos protuberantes.
+    text: \n<MANO PIRATA ESPACIAL>Ei, crianças! Estamos procurado um planeta interestelar de alto nível e refinado chamado PLUTÃO.\! É um cara grande, circular, cinza e com grandes músculos protuberantes.
 
 message_12:
     text: \n<MANO PIRATA ESPACIAL>Meio difícil de passar despercebido...\!<br>Vocês viram ele?
@@ -194,7 +194,7 @@ message_34:
     text: \n<PLUTÃO>Esta realização me revigorou!\!<br>E já que me ajudaram de maneira tão generosa, Eu devo retornar o meu favor!
 
 message_35:
-    text: \n<PLUTÃO>...\! Ahem!\! Eu sou o PLUTÃO da "LINHA ESPACIAL PLUTÃO" agora.\!<br>Por favor, finjam que vocês acabaram de chegar na estação.
+    text: \n<PLUTÃO>...\! Ahem!\! Sou o PLUTÃO da "LINHA ESPACIAL PLUTÃO" agora.\!<br>Por favor, finjam que vocês acabaram de chegar na estação.
 
 #PLUTO turns around
 
@@ -288,13 +288,13 @@ message_131:
     text: \n<PLUTÃO>KEL, Eu tenho que dizer... Você fez um ótimo trabalho lutando pela sua vida ali.
 
 message_132:
-    text: \pluVocê tem o potencial de se tornar muito forte!\! Deixe-me te ensinar um \c[1]DOM\c[0] que possa ser útil no futuro.
+    text: \n<PLUTÃPO>Você tem o potencial de se tornar muito forte!\! Deixe-me te ensinar um \c[1]DOM\c[0] que possa ser útil no futuro.
 
 message_133:
     text: \n<PLUTÃO>Ahem...\! Repita depois de mim.
 
 message_134:
-    text: \n<PLUTÃO>\Com[2]\{\quake[1]QUANDO FAÇO \c[1]FLEXÃO\c[0], SOU FORTÃO!!\}
+    text: \n<PLUTÃO>\Com[2]\{\quake[1]QUANDO FAÇO \c[1]FLEXÃO\c[0], FICO FORTÃO!!\}
 
 message_135:
     text: \n<PLUTÃO>Agora é com você.
@@ -302,7 +302,7 @@ message_135:
 message_136:
     faceset: MainCharacters_DreamWorld
     faceindex: 17
-    text: \kel\Com[2]\{QUANDO FAÇO \c[1]FLEXÃO\c[0],\} Sou \}...
+    text: \kel\Com[2]\{QUANDO FAÇO \c[1]FLEXÃO\c[0],\} Fico \}...
 
 message_137:
     faceset: MainCharacters_DreamWorld
