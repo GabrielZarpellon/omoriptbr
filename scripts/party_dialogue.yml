@@ -706,7 +706,7 @@ message_181:
 message_182:
       faceset: MainCharacter_Mari
       faceindex: 5
-      text: \mar\com[2]Para de disaparecer assim!
+      text: \mar\com[2]Para de desaparecer assim!
 
 message_183:
       faceset: MainCharacter_Mari
@@ -820,7 +820,7 @@ message_201:
 message_202:
       faceset: MainCharacters_DreamWorld
       faceindex: 3
-      text: \aubNão se preocupem, gente!\! Se alguém ou algo tentar te machucar,<br>eu vou esmagar!\! Pode contar comigo!
+      text: \aubNão se preocupem, gente!\! Se alguém ou algo tentar te machucar, eu vou esmagar!\! Pode contar comigo!
 
 message_203:
       faceset: MainCharacter_Mari
