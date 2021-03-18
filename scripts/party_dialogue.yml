@@ -1983,7 +1983,7 @@ message_494:
 
 #Examine black hole:
 message_495:
-      text: É uma queda e tanto...\| Você quer pular?
+      text: É uma longa queda...\| Você quer pular?
 
 #[YES/NO]
 
@@ -2010,7 +2010,7 @@ message_498:
 #*PLAYER can fall into the hole now that he's alone.
 
 message_499:
-      text: É uma queda e tanto...
+      text: É uma longa queda...
 
 #[YES/NO]
 
