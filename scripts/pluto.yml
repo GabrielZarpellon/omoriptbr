@@ -126,7 +126,7 @@ message_19:
     text: \whoMas que raciocínio rápido! Estou impressionado!
 
 message_20:
-    text: \whoVocês têm minha eterna gratidão.<br>Quais são seus nomes, Se eu posso perguntar?
+    text: \whoVocês têm minha eterna gratidão.<br>Quais são seus nomes, se puderem me dizer?
 
 message_21:
     faceset: MainCharacters_DreamWorld
@@ -183,7 +183,7 @@ message_31:
 
 
 message_32:
-    text: \n<PLUTÃO>Agora, depois de muito tempo...\!<br>Eu finalmente eu estou livre para seguir o meu sonho...\!<br>em dirigir minha própria empresa de transportação!
+    text: \n<PLUTÃO>Agora, depois de muito tempo...\!<br>Eu finalmente estou livre para seguir o meu sonho...\!<br>em dirigir minha própria empresa de transportação!
 
 message_33:
     text: \n<PLUTÃO>Eu vou chamar de “LINHA ESPACIAL PLUTÃO”!
@@ -191,7 +191,7 @@ message_33:
 #message 18
 
 message_34:
-    text: \n<PLUTÃO>Esta realização me revigorou!\!<br>E já que me ajudaram de maneira tão generosa, Eu devo retornar o meu favor!
+    text: \n<PLUTÃO>Esta realização me revigorou!\!<br>E já que me ajudaram de maneira tão generosa, eu devo retornar o meu favor!
 
 message_35:
     text: \n<PLUTÃO>...\! Ahem!\! Sou o PLUTÃO da "LINHA ESPACIAL PLUTÃO" agora.\!<br>Por favor, finjam que vocês acabaram de chegar na estação.
