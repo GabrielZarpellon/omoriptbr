@@ -23,7 +23,7 @@ message_2:
 message_3:
       faceset: MainCharacters_Faraway
       faceindex: 17 #insert number here
-      text: \kel\com[2]Whoa! Um \c[4]CD\c[0] caiu de trás do poster...\!<br>Estranho...\! Me pergunto quem escondeu ele alí?\!<br>Eu acho...\! que a gente pode só pegar?
+      text: \kel\com[2]Nossa! Um \c[4]CD\c[0] caiu de trás do poster...\!<br>Estranho...\! Me pergunto quem escondeu ele alí?\!<br>Eu acho...\! que a gente pode só pegar?
 
 message_4:
       text: Você pegou o \c[4]CD ALEGRE\c[0].
