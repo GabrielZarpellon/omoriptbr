@@ -63,7 +63,7 @@ message_12:
 message_13:
       faceset: MainCharacters_Faraway
       faceindex: 18
-      text: Ok, eu vou ser honesto com você, \n[8].\! <br>Eu realmente não esperava você sair hoje, então eu não tenho ideia do que fazer.\kel
+      text: Ok, eu vou ser honesto com você, \n[8].\! <br>Eu realmente não esperava que você fosse sair hoje, então eu não tenho ideia do que fazer.\kel
 
 message_14:
       faceset: MainCharacters_Faraway
@@ -141,7 +141,7 @@ message_51:
 message_52:
       faceset: MainCharacters_Faraway
       faceindex: 12
-      text: É o mesmo de sempre...\! <br>Jogos do CAPT. SPACEBOY, filmes da SWEETHEART, alguns \c[13]PET DITROS\c[0]...\! exceto que agora eles são vintage!\kel
+      text: É o mesmo de sempre...\! <br>Jogos do CAPT. SPACEBOY, filmes da SWEETHEART, alguns \c[13]PET DRITOS\c[0]...\! exceto que agora eles são vintage!\kel
 
 #KEL has an idea.
 
@@ -153,7 +153,7 @@ message_53:
 message_54:
       faceset: MainCharacters_Faraway
       faceindex: 12
-      text: Ele tá estudando pra ser médico, então eu deveria comprar pra ele...\!<br>medicina?\kel
+      text: Ele tá estudando pra ser médico, então eu deveria comprar pra ele...remédio?\kel
 
 #KEL puts his hand behind his head.
 
