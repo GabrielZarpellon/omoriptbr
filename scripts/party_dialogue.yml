@@ -356,7 +356,7 @@ message_92:
 message_93:
       faceset: MainCharacters_DreamWorld
       faceindex: 36
-      text: \herNós todos estamos dando o nosso melhor...\! Acho que devíamos procucar fora desta floresta.
+      text: \herNós todos estamos dando o nosso melhor...\! Acho que devíamos procurar fora desta floresta.
 
 message_94:
       faceset: MainCharacters_DreamWorld
@@ -449,7 +449,7 @@ message_110:
 message_111:
       faceset: MainCharacters_DreamWorld
       faceindex: 36
-      text: \herVocê não tem porquê ter medo enquanto estivermos todos juntos.\! O BASIL deve tá muito sozinho...\! Ele precisa da gente!
+      text: \herVocê não tem porque ter medo enquanto estivermos todos juntos.\! O BASIL deve tá muito sozinho...\! Ele precisa da gente!
 
 message_112:
       faceset: MainCharacter_Mari
@@ -577,7 +577,7 @@ message_145:
 message_146:
       faceset: MainCharacters_DreamWorld
       faceindex: 18
-      text: \kelEi olhem, Eu achei uma \c[5]LATA\c[0]!
+      text: \kelEi olhem, eu achei uma \c[5]LATA\c[0]!
 
 message_147:
       text: Você conseguiu uma \c[5]LATA\c[0].
