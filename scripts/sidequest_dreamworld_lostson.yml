@@ -6,7 +6,7 @@
 #Talk to Mr DUCKIE
 
 message_0:
-      text: \n<SR. PATINHO>Eu não queria te incomodar, Mas você viu o meu filho em algum lugar?\! Nos distraímos por um segundo, e ele já fugiu de novo!
+      text: \n<SR. PATINHO>Eu não queria te incomodar, mas você viu o meu filho em algum lugar?\! Nos distraímos por um segundo, e ele já fugiu de novo!
 message_1:
       text: \n<SR. PATINHO>Você poderia ficar de olho por mim?\!<br>Você vai reconhecê-lo quando o encontrar.\! Ele é igual a mim! Haha!
 
@@ -78,4 +78,4 @@ message_19:
       text: \n<PATINHO JR.>Oba!
 
 message_20:
-      text: \n<SRA. PATINHO>O Junior não sabe como parar quieto.\! Ele quer sair toda hora!
+      text: \n<SRA. PATINHO>O JUNIOR não sabe como parar quieto.\! Ele quer sair toda hora!
