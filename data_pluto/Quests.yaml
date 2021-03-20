@@ -74,8 +74,8 @@
   Duckie:
     world: 1
     name:
-      en: PARADEIRO DE DUCKIE JR
-      jp: PARADEIRO DE DUCKIE JR
+      en: PARADEIRO DE PATINHO JR
+      jp: PARADEIRO DE PATINHO JR
     text:
       0:
         - 'XX_QUEST.message_200'
