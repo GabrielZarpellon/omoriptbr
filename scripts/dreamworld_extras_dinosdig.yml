@@ -174,13 +174,13 @@ message_32:
 #Purchase
 
 message_101:
-      text: \n<BRETT>Você quer comprar uma \c[4]COLHER DE PLÁSTICO\c[0] (10 DIGS) por 3 DINO DÓLARES?
+      text: \n<BRETT>Você quer comprar uma \c[4]COLHER DE PLÁSTICO\c[0] (10 USOS) por 3 DINO DÓLARES?
 
 message_102:
-      text: \n<BRETT>Você quer comprar uma \c[4]COLHER DE MADEIRA\c[0] (15 DIGS) por 6 DINO DÓLARES?
+      text: \n<BRETT>Você quer comprar uma \c[4]COLHER DE MADEIRA\c[0] (15 USOS) por 6 DINO DÓLARES?
 
 message_103:
-      text: \n<BRETT>Você quer comprar uma \c[4]COLHER DE PRATA\c[0] (20 DIGS) por 10 DINO DÓLARES?
+      text: \n<BRETT>Você quer comprar uma \c[4]COLHER DE PRATA\c[0] (20 USOS) por 10 DINO DÓLARES?
 
 #buy
 message_30:
