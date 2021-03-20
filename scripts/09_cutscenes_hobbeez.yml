@@ -197,7 +197,7 @@ message_71:
 message_72:
       faceset: MainCharacters_Faraway
       faceindex: 12
-      text: O HERO tinha uma cópia quando éramos crianças, <br>nosso cachorro, HECTOR, destruiu.\kel
+      text: O HERO tinha esse livro quando éramos crianças, mas <br>nosso cachorro, HECTOR, destruiu ele.\kel
 
 message_73:
       faceset: MainCharacters_Faraway
@@ -207,7 +207,7 @@ message_73:
 message_74:
       faceset: MainCharacters_Faraway
       faceindex: 18
-      text: Mas antes disso...\!<br>Precisamos perguntar a pergunta mais importante!\!<br>Quanto...\! que custa?\kel
+      text: Mas antes disso...\!<br>Precisamos fazer a pergunta mais importante!\!<br>Quanto...\! que custa?\kel
 
 message_75:
       faceset: MainCharacters_Faraway
