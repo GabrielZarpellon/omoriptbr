@@ -86,7 +86,7 @@ if (hpDam != 0) {
     hpDamageText = '...Foi um ataque fraco.\r\n' + hpDamageText;
   }
 } else if (result.isHit() === true) {
-  var hpDamageText = "O ataque de " + user.name() + " não fez nada.";
+  var hpDamageText = "O ataque de " + user.name() + " fez nada.";
 } else {
   var hpDamageText = "O ataque de " + user.name() + " falhou!";
 }
