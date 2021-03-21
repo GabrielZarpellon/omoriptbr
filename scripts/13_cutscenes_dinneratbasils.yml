@@ -254,7 +254,7 @@ message_93:
 message_94:
       faceset: MainCharacter_Basil
       faceindex: 43
-      text: A VOVÓ não consegue ouvir a gente, sabe?\! <br>Ela não ta se sentindo bem ultimamente...\bas
+      text: A VOVÓ não consegue ouvir a gente, sabe?\! <br>Ela não está se sentindo bem ultimamente...\bas
 
 message_95:
       faceset: MainCharacter_Basil
@@ -294,7 +294,7 @@ message_101:
 message_103:
       faceset: MainCharacter_Basil
       faceindex: 32
-      text: Muito aconteceu desde que essas fotos foram tiradas.\!<br>As vezes, tudo parece que foi só um sonho ruim.\bas
+      text: Muita coisa aconteceu desde que essas fotos foram tiradas.\!<br>As vezes, tudo parece que foi só um sonho ruim.\bas
 
 message_106:
       faceset: MainCharacter_Basil
@@ -336,7 +336,7 @@ message_121:
 message_122:
       faceset: MainCharacters_Faraway
       faceindex: 24
-      text: nham... nham... nham... nham...\! Como eu estava dizendo<br>antes, POLLY... \!Amanhã... nham... \!<br>Meu irmão mais velho, HERO finalmente vai voltar da faculdade.\kel
+      text: nham... nham... nham... nham...\! Como eu estava dizendo<br>antes, POLLY... \!Amanhã... nham... \! Meu irmão mais velho, HERO, finalmente vai voltar da faculdade.\kel
 
 message_123:
       faceset: MainCharacters_Faraway
@@ -346,7 +346,7 @@ message_123:
 message_124:
       faceset: MainCharacters_Faraway
       faceindex: 24
-      text: Mesmo assim...\! nham...\! Eu tô bem ansioso pra ver ele...<br>nham...\! Toda vez que ele volta,<br>a primeira coisa que nós fazemos é comparar a nossa altura...\! nham...\kel
+      text: Mesmo assim...\! nham...\! Eu tô bem ansioso pra ver ele...<br>nham...\! Toda vez que ele volta,<br>vamos direto comparar a nossa altura...\! nham...\kel
 
 message_125:
       faceset: MainCharacters_Faraway
@@ -361,7 +361,7 @@ message_126:
 message_127:
       faceset: MainCharacters_Faraway
       faceindex: 24
-      text: Ah, ei!\! nham...\!<br>Que cê ta fazendo com o \c[4]ÁLBUM DE FOTOS\c[0] do BASIL ai, \n[8]?\kel
+      text: Ah, ei!\! nham...\!<br>Que cê tá fazendo com o \c[4]ÁLBUM DE FOTOS\c[0] do BASIL aí, \n[8]?\kel
 
 #BASIL looks nervous.
 
@@ -373,7 +373,7 @@ message_128:
 message_129:
       faceset: MainCharacters_Faraway
       faceindex: 24
-      text: Nossa, sério?\! nham...\! Isso é tão legal da sua parte.\! Faz sentido...\! <br>nham...\! especialmente já que o \n[8] tá se mudando e tudo mais.\kel
+      text: Sério?\! nham...\! Muito legal da sua parte.\! Faz sentido...\! <br>nham...\! especialmente já que o \n[8] tá se mudando e tudo mais.\kel
 
 #BASIL drops his fork.
 
@@ -385,7 +385,7 @@ message_130:
 message_131:
       faceset: MainCharacters_Faraway
       faceindex: 24
-      text: Ah é!\! Eu pensei que já tinha falado...\! nham...\! <br>Eu devo ter esquecido.\! nham...\! Ele tá se mudando em...\! três dias, <br>Eu acho?\! nham...\! Desculpa... Pensei que já soubesse.\kel
+      text: Ah é!\! Eu pensei que já tinha falado...\! nham...\! <br>Eu devo ter esquecido.\! nham...\! Ele tá se mudando daqui a...\! três dias, <br>Eu acho?\! nham...\! Desculpa... Pensei que já soubesse.\kel
 
 message_132:
       faceset: MainCharacter_Basil
