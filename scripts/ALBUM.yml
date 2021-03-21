@@ -106,7 +106,7 @@ faraway_message18:
 faraway_message19:
     background: 0
     position: 2
-    text: \n<29/4>Está chovendo muito hoje!<br>\!A chuva sempre parece vir do nada durante a primavera.<br>A AUBREY pediu para eu tirar uma foto dela com sua nova capa de chuva.\! É sua cor favorita, rosa!
+    text: \n<29/4>Está chovendo muito hoje!<br>\!A chuva sempre vem do nada na primavera.<br>A AUBREY pediu para eu tirar uma foto dela com sua nova capa.\! É sua cor favorita, rosa!
 
 faraway_message20:
     background: 0
@@ -116,7 +116,7 @@ faraway_message20:
 faraway_message21:
     background: 0
     position: 2
-    text: \n<29/4>Só o KEL sendo o KEL de novo...<br><br><br>Nós fomos ao HOBBEEZ, mas o dono da loja disse pro KEL deixar o casaco no lado de fora porque ele estava molhando todos os quadrinhos.\!<br>Desculpa, CAIXA.
+    text: \n<29/4>Só o KEL sendo o KEL de novo...<br><br><br>Nós fomos ao HOBBEEZ, mas o dono da loja disse pro KEL tirar o casaco porque ele estava molhando todos os quadrinhos. Desculpa, CAIXA.
 
 faraway_message22:
     background: 0
@@ -181,7 +181,7 @@ faraway_message33:
 faraway_message34:
     background: 0
     position: 2
-    text: \n<20/7 - ANIVERSÁRIO DO \n[8]>O \n[8] não sai da caixa, então o KEL botou uma tigela de comida dentro.\!<br>Eu acho que essa caixa vai ser a nova casa do \n[8] e da MEWO.
+    text: \n<20/7 - ANIVERSÁRIO DO \n[8]>O \n[8] não sai da caixa, então o KEL botou uma tigela de comida dentro.\!<br>Acho que essa caixa vai ser a casa do \n[8] e da MEWO.
 
 faraway_message35:
     background: 0
