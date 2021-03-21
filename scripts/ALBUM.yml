@@ -126,7 +126,7 @@ faraway_message22:
 faraway_message23:
     background: 0
     position: 2
-    text: \n<25/5>A MARI comprou picolés para todo mundo, um de cada sabor!<br>O \!\n[8] pegou de limão, o HERO pegou de cerveja-de-raiz, o KEL pegou de laranja, a AUBREY pegou de melancia e a MARI pegou de uva!<br>O meu era de banana...\! Tinha um gosto ok.
+    text: \n<25/5>A MARI comprou picolés para todo mundo, um de cada sabor!<br>O \n[8] pegou de limão, o HERO pegou de cerveja-de-raiz, o KEL pegou de laranja, a AUBREY pegou de melancia e a MARI pegou de uva!<br>O meu era de banana...\! Tinha um gosto ok.
 
 faraway_message24:
     background: 0

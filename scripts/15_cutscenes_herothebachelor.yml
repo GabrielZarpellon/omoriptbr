@@ -197,7 +197,7 @@ message_57:
 #SMM turns to CONTESTANT #2.
 
 message_58:
-      text: Agora para o CONTESTANTE \#2.\! A gente te faz a mesma pergunta.\! <br>Não tem resposta certa ou errada. Apenas responda honestamente!\smm
+      text: Agora para o CONTESTANTE \#2.\! Faremos a mesma pergunta.\! <br>Não tem resposta certa ou errada. Apenas responda honestamente!\smm
 
 message_59:
       text: CONTESTANTE \#2...\!<br>Você jura sua fidelidade a SWEETHEART pelo resto da sua vida?\smm
@@ -205,7 +205,7 @@ message_59:
 #CONTESTANT #2 is sweating.
 
 message_60:
-      text: Bem, éé...\! claro!<br>Se isso significa que eu não vou ser levado para \c[11]A MASMORRA\C[0]...\n<CONTESTANTE \#2>
+      text: Bem, é...\! claro!<br>Se isso significa que eu não vou ser levado para \c[11]A MASMORRA\C[0]...\n<CONTESTANTE \#2>
 
 #SWEETHEART is annoyed.
 
@@ -235,7 +235,7 @@ message_65:
 #SWEETHEART is in love.
 
 message_66:
-      text: Minha nossa...\! Este aqui.\! Ele é absolutamente impecável!\! <br>É possivel?\! SWEETHEART...\! \sinv[1]está apaixonada?\swh
+      text: Minha nossa...\! Este aqui.\! Ele é absolutamente impecável!\! <br>É possível?\! SWEETHEART...\! \sinv[1]está apaixonada?\swh
 
 message_67:
       text: \{\Com[2]QUE REVIRAVOLTA EMOCIONANTE!\!\}<br>Isso deve ser o destino! O par perfeito!\smm

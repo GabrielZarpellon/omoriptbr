@@ -98,7 +98,7 @@ message_13:
 message_14:
       faceset: MainCharacters_DreamWorld
       faceindex: 39
-      text: Bora, AUBREY. Agora é sério.\!<br>Vamos contar pra MARI que o OMORI tá bem\!<br>Você sabe como ela sempre se preocupa com ele...\her
+      text: Bora, AUBREY. Agora é sério.\!<br>Vamos contar pra MARI que o OMORI tá bem.\!<br>Você sabe como ela sempre se preocupa com ele...\her
 
 message_15:
       faceset: MainCharacters_DreamWorld
@@ -123,7 +123,7 @@ message_32:
       text: Oh nossa, oh nossa!\! Eu mal consigo conter meu entusiasmo.\!<br>Esse show vai ser o mais eletrizante de todos!\n<BROTOPEIRA>
 
 message_33:
-      text: Oh deuses!\! Devemos nos apressar!\! <br>Os nossos \c[4]INGRESSOS DO SHOW\c[0] de primeira fileira estão bem aqui!\!<br>Esse é o momento das nossas vidas, e não devemos nos atrasar!\n<BROTOPEIRA>
+      text: Oh deuses!\! Devemos nos apressar!\! <br>Nossos \c[4]INGRESSOS DO SHOW\c[0] de primeira fileira estão bem aqui!\!<br>Esse é o momento das nossas vidas, e não devemos nos atrasar!\n<BROTOPEIRA>
 
 message_34:
       text: Agora... qual era o caminho mesmo?\n<BROTOPEIRA>
@@ -223,7 +223,7 @@ message_64:
 message_65:
       faceset: MainCharacters_DreamWorld
       faceindex: 8
-      text: Hmph! Isso não foi muito engraçado, KEL...\aub
+      text: Hmph! Isso não foi engraçado, KEL...\aub
 
 # =========================================================================================
 # Cutscene: Sweetheart's Bachelor Contest
@@ -257,7 +257,7 @@ message_100:
 #Applause
 
 message_101:
-      text: Antes do nosso show, gostariamos de um momento para honrar a vida de alguém que foi uma inspiração para todos nós. \!<br>Nosso amado líder, SINHÔ BROTOPEIRA.\smm
+      text: Antes de começar, gostariamos de um momento para honrar a vida de alguém que foi uma inspiração para todos nós. \!<br>Nosso amado líder, SINHÔ BROTOPEIRA.\smm
 
 #The curtain opens and a portrait of YE OLD SPROUT is shown.
 
@@ -278,7 +278,7 @@ message_105:
 #Curtains open, changing the graphic behind to SWEETHEART'S Show Graphic.
 
 message_106:
-      text: Da última vez \"SWEETHEART EM BUSCA DE CORAÇÕES\"...\!<br>Nossa princesa favorita...\! Mais uma vez...\! falhou em se apaixonar qualquer um dos nossos solteiros elegíveis!\smm
+      text: Da última vez em \"SWEETHEART EM BUSCA DE CORAÇÕES\"...\!<br>Nossa princesa favorita...\! Mais uma vez...\! falhou em se apaixonar qualquer um dos nossos solteiros elegíveis!\smm
 
 message_107:
       text: Dessa vez...\! nós juntamos três novos contestantes atraentes!\! Algum deles irá capturar o coração da SWEETHEART?\! Vamos revelar eles agora!\smm
@@ -431,7 +431,7 @@ message_154:
       text: \n<BROTOPEIRA>Estamos dando nosso melhor, guarda!
 
 message_155:
-      text: \n<BROTOPEIRA>Isso é o mais rapido que a gente consegue ir!
+      text: \n<BROTOPEIRA>Isso é o mais rápido que a gente consegue ir!
 
 message_156:
       text: \n<BROTOPEIRA>Por que isso não tá funcionando!? Estou enjoado.

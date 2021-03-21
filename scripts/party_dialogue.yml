@@ -761,7 +761,7 @@ message_191:
 message_502:
       faceset: MainCharacter_Mari
       faceindex: 3
-      text: \marPessoal... Eu sei que está difícil agora, mas temos que ficar positivos!\! Deviamos todos tentar ser como o BASIL!\! Mesmo quando BASIL tá chateado, ele sempre consegue sorrir.
+      text: \marPessoal... Eu sei que está difícil agora, mas temos que ficar positivos!\! Devíamos todos tentar ser como o BASIL!\! Mesmo quando BASIL tá chateado, ele sempre consegue sorrir.
 
 message_192:
       faceset: MainCharacter_Mari
@@ -980,7 +980,7 @@ message_235:
 message_236:
       faceset: MainCharacters_DreamWorld
       faceindex: 5
-      text: \aubMas você me prometeu mais cedo que a gente podia!\!<br>Por favor, HERO! Deviamos pelo menos dar uma olhada.
+      text: \aubMas você me prometeu mais cedo que a gente podia!\!<br>Por favor, HERO! Devíamos pelo menos dar uma olhada.
 
 message_237:
       faceset: MainCharacters_DreamWorld
