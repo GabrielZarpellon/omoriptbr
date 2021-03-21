@@ -82,7 +82,7 @@ message_21:
       text: \n<FANTASMA PRINCESA>Oh não, parece que me encontro perdida novamente...\!<br>Oh... como sou atrapalhada.
 
 message_22:
-      text: Você entregou um \c[4]MAPA ASSUSTADOR\c[0] ao FANTASMA PRINCESA.
+      text: Você entregou um \c[4]MAPA ASSUSTADOR\c[0] à FANTASMA PRINCESA.
 
 message_23:
       text: \n<FANTASMA PRINCESA>Oh, céus! O que é isso?\!<br>Um mapa para a festa do sir CARTOLA? É claro, é isso mesmo!
