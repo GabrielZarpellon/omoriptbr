@@ -1,0 +1,381 @@
+# -----------------------------------------------
+# - FOUND CONSUMABLE
+# -----------------------------------------------
+message_0:
+    text: Você pegou \v[49]!
+
+# -----------------------------------------------
+# - FOUND TOYS
+# -----------------------------------------------
+message_1:
+    text: Você pegou \v[49]!
+
+# -----------------------------------------------
+# - FOUND PRESENT
+# -----------------------------------------------
+message_2:
+    text: É um \v[49]!\! Você deseja pegar?
+
+# -----------------------------------------------
+# - JOINS YOUR PARTY
+# -----------------------------------------------
+message_3:
+    text: \v[49] entrou no seu time!
+
+# -----------------------------------------------
+# - YES/NO
+# -----------------------------------------------
+message_4:
+    text: SIM
+message_5:
+    text: NÃO
+
+# -----------------------------------------------
+# - X LEFT THE PARTY
+# -----------------------------------------------
+message_6:
+    text: \v[49] saiu do seu time.
+
+# -----------------------------------------------
+# - BLACKLETTER
+# -----------------------------------------------
+message_7:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 39
+    text: Espera, \n[1]! Tem uma CARTA no chão ali. Nós devíamos ir ver primeiro. \her
+
+# -----------------------------------------------
+# - GO OUTSIDE / CLOSE DOOR
+# -----------------------------------------------
+message_8:
+    text: ABRIR A PORTA
+message_9:
+    text: NÃO ABRIR
+
+# -----------------------------------------------
+# - NOD / SHAKE
+# -----------------------------------------------
+message_10:
+    text: SIM
+message_11:
+    text: NÃO
+
+# -----------------------------------------------
+# - FOUND ITEM
+# -----------------------------------------------
+message_12:
+    text: Você ganhou \itemget.
+
+message_612:
+    text: Você ganhou um \itemget.
+
+message_613:
+    text: Você ganhou um \itemget.
+
+message_610:
+    text: A máquina de RECICLAGEM dispensou \c[13]\itemget\c[0].
+
+message_611:
+    text: A máquina de RECICLAGEM dispensou um \c[13]\itemget\c[0].
+
+# -----------------------------------------------
+# - AUBREY GOLD
+# -----------------------------------------------
+message_13:
+    text: Você ganhou \v[249] CONCHAS!
+
+# -----------------------------------------------
+# - SWEETHEART DUNGEON: GUEST LIST
+# -----------------------------------------------
+message_30:
+    text: PEDIR PRA ESSA PESSOA SAIR?
+
+# -----------------------------------------------
+# - SHOP DEFAULTS
+# -----------------------------------------------
+
+message_40:
+    text: COMPRAR
+
+message_41:
+    text: VENDER
+
+message_42:
+    text: SAIR
+
+#data.texts.maxItemMessage
+message_50:
+    text: maxItemMessage
+
+#data.texts.notEnoughMoneyMessage
+message_51:
+    text: notEnoughMoneyMessage
+
+#data.texts.onItemListBuyOkMessage
+message_52:
+    text: onItemListBuyOkMessage
+
+#data.texts.onItemListSellOkMessage
+message_53:
+    text: onItemListSellOkMessage
+
+#data.texts.itemBuyingPromptMessage
+message_54:
+    text: itemBuyingPromptMessage
+
+#data.texts.itemSellingPromptMessage
+message_55:
+    text: itemSellingPromptMessage
+
+#data.texts.itemBuyingConfirmationMessage
+message_56:
+    text: itemBuyingConfirmationMessage
+
+#data.texts.itemSellingConfirmationMessage
+message_57:
+    text: itemSellingConfirmationMessage
+
+#data.texts.itemBuyingCancelMessage
+message_58:
+    text: itemBuyingCancelMessage
+
+#data.texts.itemSellingCancelMessage
+message_59:
+    text: itemSellingCancelMessage
+
+# -----------------------------------------------
+# - DREAMWORLD SHOP DEFAULTS
+# -----------------------------------------------
+
+#data.texts.maxItemMessage
+message_60:
+    text: DW maxItemMessage
+
+#data.texts.notEnoughMoneyMessage
+message_61:
+    text: DW notEnoughMoneyMessage
+
+#data.texts.onItemListBuyOkMessage
+message_62:
+    text: DW onItemListBuyOkMessage
+
+#data.texts.onItemListSellOkMessage
+message_63:
+    text: DW onItemListSellOkMessage
+
+#data.texts.itemBuyingPromptMessage
+message_64:
+    text: DW itemBuyingPromptMessage
+
+#data.texts.itemSellingPromptMessage
+message_65:
+    text: DW itemSellingPromptMessage
+
+#data.texts.itemBuyingConfirmationMessage
+message_66:
+    text: DW itemBuyingConfirmationMessage
+
+#data.texts.itemSellingConfirmationMessage
+message_67:
+    text: DW itemSellingConfirmationMessage
+
+#data.texts.itemBuyingCancelMessage
+message_68:
+    text: DW itemBuyingCancelMessage
+
+#data.texts.itemSellingCancelMessage
+message_69:
+    text: DW itemSellingCancelMessage
+
+# -----------------------------------------------
+# - BATTLE SYSTEM LOG MESSAGES
+# -----------------------------------------------
+
+message_100:
+    text: O que %1 e seus amigos vão fazer?
+
+message_101:
+    text: O que \n[8] vai fazer?
+
+message_102:
+    text: O que %1 e %2 vão fazer?
+
+message_103:
+    text: O que \n[8] e seus amigos vão fazer?
+
+message_104:
+    text: O que %1 vai fazer?
+
+message_105:
+    text: Usar em quem?
+
+message_106:
+    text: Pressione \DII[shift] pra mudar os lados.
+
+message_107:
+    text: PLACEHOLDER TEXT ALT SOMETHING OMORI FIGHT
+
+# -----------------------------------------------
+# - FEARS DIALOGUE
+# -----------------------------------------------
+message_200:
+    text: Você tem medo de altura.
+
+message_201:
+    text: Você tem medo de aranhas.
+
+message_202:
+    text: Você tem medo de se afogar.
+
+message_210:
+    text: Você olha praa frente e segura sua faca firmemente.
+
+message_220:
+    text: Você olha para a água e se sente calmo.\! As ondeas parecem gentis e acolhedoras.
+
+# -----------------------------------------------
+# - FLAG CHECKERS
+# -----------------------------------------------
+message_300:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: \her\Com[2]Calma aí, OMORI! Nós podemos explorar depois, mas primeiro precisamos checar o BASIL!
+
+# -----------------------------------------------
+# - Can't leave house
+# -----------------------------------------------
+message_301:
+    text: Você não pode sair agora.
+
+# -----------------------------------------------
+# - Break Time
+# -----------------------------------------------
+
+message_399:
+    text: Você quer se divertir com seus amigos?
+
+message_400:
+    text: Você quer jogar cartas com seus amigos?
+
+message_401:
+    text: Você quer montar um castelo de areia com seus amigos?
+
+message_402:
+    text: Você quer soltar pipa com seus amigos?
+
+message_403:
+    text: Você quer ir pescar com seus amigos?
+
+message_404:
+    text: Você quer sentar aqui com seus amigos?
+
+#frozen forest
+message_405:
+    text: Você quer se aconchegar com seus amigos?
+
+message_406:
+    text: Você quer assistir um filme com seus amigos?
+
+message_407:
+    text: Você quer tomar chá com seus amigos?
+
+message_408:
+    text: Você quer jantar com seus amigos?
+
+message_409:
+    text: Você quer brincar em uma piscina de bolinhas com seus amigos?
+
+message_410:
+    text: Você quer se exercitar com seus amigos?
+
+message_411:
+    text: Você quer relaxar com seus amigos?
+
+message_412:
+    text: Você quer ler quadrinhos com seus amigos?
+
+message_420:
+    text: Você quer fazer um piquenique com seus amigos?
+
+#====
+#FA DOORS
+
+message_430:
+    text: Toc, toc...
+
+message_431:
+    text: Não teve resposta.
+
+message_432:
+    text: ...\! A porta está trancada.
+
+#==
+
+message_500:
+    text: Agora você tem acesso ao \c[4]MENU DO JOGO DA FORCA\c[0].
+
+message_501:
+    text: Você pegou o \c[4]MAPA DO ESPAÇO MENTAL\c[0].
+
+#==
+
+message_510:
+    text: O portão não se abre.
+
+#===
+
+message_600:
+    text: O laço com seus amigos se tornou mais forte.\!<br>Os movimentos de SEQUÊNCIA de todos melhoraram!
+
+#===
+
+message_641:
+    text: 15 TECLAS restantes...
+
+message_642:
+    text: 14 TECLAS restantes...
+
+message_643:
+    text: 13 TECLAS restantes...
+
+message_644:
+    text: 12 TECLAS restantes...
+
+message_645:
+    text: 11 TECLAS restantes...
+
+message_646:
+    text: 10 TECLAS restantes...
+
+message_647:
+    text: 9 TECLAS restantes...
+
+message_648:
+    text: 8 TECLAS restantes...
+
+message_649:
+    text: 7 TECLAS restantes...
+
+message_650:
+    text: 6 TECLAS restantes...
+
+message_651:
+    text: 5 TECLAS restantes...
+
+message_652:
+    text: \fn<OMORI_GAME>4 TECLAS restantes...
+
+message_653:
+    text: \fn<OMORI_GAME>3 TECLAS restantes...
+
+message_654:
+    text: \fn<OMORI_GAME>2 TECLAS restantes...
+
+#message_655:
+#    text: UNUSED
+
+message_656:
+    text: \fn<OMORI_GAME>1 TECLA restante...
+
+message_657:
+    text: \fn<OMORI_GAME>0 TECLAS restantes...
