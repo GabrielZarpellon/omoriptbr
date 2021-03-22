@@ -329,6 +329,9 @@ message_600:
 
 #===
 
+message_643:
+    text: 13 TECLAS restantes...
+
 message_644:
     text: 12 TECLAS restantes...
 
