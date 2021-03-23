@@ -37,6 +37,7 @@ var _TDS_ = _TDS_ || {} ; _TDS_.OmoriBattleSystem = _TDS_.OmoriBattleSystem || {
 // };
 
 
+const FEMALE_STATE_LIST_OFFSET = 13;
 
 var yep_compatibilityTest = Game_Battler.prototype.startDamagePopup;
 Game_Battler.prototype.startDamagePopup = function() {
@@ -2522,7 +2523,8 @@ Window_OmoriBattleActorStatus.prototype.refresh = function() {
   // If Actor Exists
   if (actor) {
     this.setStatusBack(actor.statusBackIndex());
-    this.setStatusHeader(actor.statusListIndex());
+    const offset = (GNA.CHARACTERS[actor._name].GENDER === GNA.GENDER.FEMININE ? FEMALE_STATE_LIST_OFFSET : 0);
+    this.setStatusHeader(actor.statusListIndex() + offset);
     this._faceSprite.setAnimRow(actor.statusFaceIndex())
     this.setupStatusParticles(actor.statusStateParticlesData())
   };

@@ -171,6 +171,14 @@ const CHARACTERS = {
         GENDER: GENDER.MASCULINE,
         NUMBER: NUMBER.SINGULAR,
     },
+    MILKSHAKOELHO: {
+        GENDER: GENDER.MASCULINE,
+        NUMBER: NUMBER.SINGULAR,
+    },
+    BROTOPEIRA: {
+        GENDER: GENDER.FEMININE,
+        NUMBER: NUMBER.SINGULAR,
+    },
 };
 // --------------------------------------------------------------------------------------
 
