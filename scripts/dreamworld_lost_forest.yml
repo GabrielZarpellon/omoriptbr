@@ -60,7 +60,7 @@ message_12:
 
 #MAP 2
 message_13:
-    text:  \n<PAPAI PERNAS-LONGAS>Às vezes, quando escondemos coisas de nós mesmos, criamos verdades diferentes e, eventualmente, esquecemos nosso caminho.\!<br>Você já encontrou o seu ou ainda está perdido?
+    text:  \n<PAPAI PERNAS-LONGAS>Às vezes, quando escondemos coisas de nós mesmos, criamos verdades diferentes e esquecemos nosso caminho.\! Você já encontrou o seu ou ainda está perdido?
 
 #MAP 5
 message_18:
@@ -103,7 +103,7 @@ message_30:
     text: \n<PAPAI PERNAS-LONGAS>Então ele compôs seus mundos acima do reino escuro...\! selando-o com seus poderes combinados.
 
 message_31:
-    text:  \n<PAPAI PERNAS-LONGAS>No entanto, apesar de seus esforços, a presença da escuridão nunca diminuiu.\! Mesmo com novos aliados, a escuridão continuou a arranhar e arranhar o fundo da mente do SONHADOR.
+    text:  \n<PAPAI PERNAS-LONGAS>E apesar de seus esforços, a presença da escuridão nunca diminuiu.\! Mesmo com novos aliados, a escuridão continuou a arranhar o fundo da mente do SONHADOR.
 
 message_32:
     text: \n<PAPAI PERNAS-LONGAS>O barulho pode ter diminuído, mas nunca foi embora.
@@ -115,10 +115,10 @@ message_34:
     text:  \n<PAPAI PERNAS-LONGAS>O que o SONHADOR havia criado era algo do qual ele não poderia fazer parte, algo fora de si mesmo.
 
 message_35:
-    text:  \n<PAPAI PERNAS-LONGAS>O poder do próprio SONHADOR foi o seu maior adversário.\!<br>O conhecimento... ou a ausência dele, se tornaria o maior presente do SONAHDOR.
+    text:  \n<PAPAI PERNAS-LONGAS>O poder do próprio SONHADOR foi o seu maior adversário.\!<br>O conhecimento... ou a ausência dele, se tornaria o maior presente do SONHADOR.
 
 message_36:
-    text:  \n<PAPAI PERNAS-LONGAS>Para realmente escapar dos perigos de sua própria criação e ascender em um estado de ignorância...\! Só então o barulho deixaria de agitar a sanidade do SONHADOR.
+    text:  \n<PAPAI PERNAS-LONGAS>Para escapar dos perigos de sua própria criação e ascender ao estado de ignorância...\! Só então o barulho deixaria de agitar a sanidade do SONHADOR.
 
 message_37:
     text:  \n<PAPAI PERNAS-LONGAS>Então...\! o SONHADOR assumiu outro nome...\!<br>e escolheu esquecer de si mesmo.
@@ -145,7 +145,7 @@ message_41:
     text: \n<PAPAI PERNAS-LONGAS>Crianças, eu devo avisá-los...
 
 message_42:
-    text:  \n<PAPAI PERNAS-LONGAS>Como acontece com todas as coisas que nascem dentro e fora deste mundo, um fim também ameaçará este.\! Embora o SONHADOR possa ter subjugado o inexorável, a escuridão continua.
+    text:  \n<PAPAI PERNAS-LONGAS>Como ocorre com todos que nascem dentro e fora deste mundo, o fim é eminente.\! Embora o SONHADOR possa ter dominado o eterno, a escuridão continua.
 
 message_43:
     text:  \n<PAPAI PERNAS-LONGAS>Nenhuma bandagem pode impedir uma ferida eterna...\! e chegará uma hora em que sua influência se espalhará.<br><br>Mesmo que o SONHADOR possa ter se esquecido do perigo, um perigo nunca se esquece de ser um perigo.
