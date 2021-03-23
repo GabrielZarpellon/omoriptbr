@@ -567,7 +567,7 @@ switch (type) {
 
     case 'PASS OMORI 2': //KEL PASS OMORI 2
       text = 'OMORI pegou a bola do KEL!\r\n';
-      text += 'OMORI arremeça a bola em\r\n';
+      text += 'OMORI arremssa a bola em\r\n';
       text += target.name() + '!\r\n';
       var OMORI = $gameActors.actor(1);
       if(OMORI.isStateAffected(6)) {text += "OMORI se sentiu FELIZ!\r\n"}
@@ -581,7 +581,7 @@ switch (type) {
       break;
 
     case 'PASS HERO':  // KEL PASS HERO
-      if(target.index() <= unitLowestIndex) {text = user.name() + ' arremeça nos inimigos!\r\n';}
+      if(target.index() <= unitLowestIndex) {text = user.name() + ' arremessa nos inimigos!\r\n';}
       text += hpDamageText;
       break;
 
@@ -1378,7 +1378,7 @@ switch (type) {
 
     //THERESE//
     case 'THERESE ATTACK': //THERESE ATTACK
-      text = user.name() + ' arremeça uma flecha em ' + target.name() + '!\r\n';
+      text = user.name() + ' arremessa uma flecha em ' + target.name() + '!\r\n';
       text += hpDamageText;
       break;
 
