@@ -387,7 +387,7 @@ message_195:
       text: Uma estação de transporte.\!<br>Não parece estar aberta.
 
 message_196:
-      text: Uma estação da LINHA ESPACIAL PLUTÃO.\!<br>Quer eperar aqui pelo PLUTÃO?
+      text: Uma estação da LINHA ESPACIAL PLUTÃO.\!<br>Quer esperar aqui pelo PLUTÃO?
 
 message_197:
       text: Uma velha TV.\! Você pode ouvir alguém digitando dentro dela.
@@ -475,7 +475,7 @@ message_458:
       text: \"MAIS HUMANO - MENÇÃO HONROSA\"
 
 message_459:
-      text: \"CENTAURO MAIS PEQUETITICO - 1° LUGAR\"
+      text: \"CENTAURO MAIS PEQUITITICO - 1° LUGAR\"
 
 
 #============================
@@ -695,7 +695,7 @@ message_284:
       text: Garrafas vazias.
 
 message_285:
-      text: \c[3]SUCO DE FFRUTAS\c[0].\! não é para crianças.
+      text: \c[3]SUCO DE FRUTAS\c[0].\! não é para crianças.
 
 message_286:
       text: Um suporte para chapéus.
@@ -862,7 +862,7 @@ message_373:
       text: Um suporte de roupas.
 
 message_374:
-      text: Uma ordinária planta caseira.\! As folhas são duras e frágeis.
+      text: Uma planta caseira ordinária.\! As folhas são duras e frágeis.
 
 message_375:
       text: Latas vazias.
@@ -1053,7 +1053,7 @@ message_58:
       text: Uma linda pintura das estrelas...<br>\!Mas exala o cheiro de plátisco queimado.
 
 message_59:
-      text: Um grande espelha para a cara lindona da SWEETHEART.
+      text: Um grande espelho para a cara lindona da SWEETHEART.
 
 message_590:
       text: Férias particulares da SWEETHEART.

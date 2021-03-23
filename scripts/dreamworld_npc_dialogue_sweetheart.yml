@@ -185,7 +185,7 @@ message_81:
 
 # =========------------------
 message_82:
-      text: \n<TOUPEIRA SOUS CHEF>Vocês estão prontos pra começar?\! Só sigam as minhas instruções e vocês vão ficar bem.\! Eu me lembro da receita do HEAD CHEF de cór!
+      text: \n<TOUPEIRA SOUS CHEF>Vocês estão prontos pra começar?\! Só sigam as minhas instruções e vocês vão ficar bem.\! Eu me lembro da receita do CHEFE DE COZINHA de cór!
 
 message_83:
       text: \n<TOUPEIRA SOUS CHEF>Ei, não fiquem nervosos!\! Confiem em mim, eu sei o que estou fazendo!
@@ -366,7 +366,7 @@ message_155:
       text: \n<TOUPEIRA SOUS CHEF>E é assim que se assa um bolo!
 
 message_156:
-      text: \n<TOUPEIRA SOUS CHEF>Mmm... Sim! Vai ser isso!\!<br>Finalmente, um bolo que o nosso último HEAD CHEF ficaria orgulhoso.
+      text: \n<TOUPEIRA SOUS CHEF>Mmm... Sim! Vai ser isso!\!<br>Finalmente, um bolo que o nosso último CHEFE DE COZINHA ficaria orgulhoso.
 
 message_157:
       text: \n<TOUPEIRA SOUS CHEF>Que a sua memória viva para sempre...
@@ -385,7 +385,7 @@ message_161:
       text: Quer devolver \v[1001]?
 # =========------------------
 message_162:
-      text: \n<TOUPEIRA SOUS CHEF>Este é um bolo que o nosso último HEAD CHEF ficaria orgulhoso.\! Que a sua memória viva para sempre...
+      text: \n<TOUPEIRA SOUS CHEF>Este é um bolo que o nosso último CHEFE DE COZINHA ficaria orgulhoso.\! Que a sua memória viva para sempre...
 
 message_163:
       text: \n<TOUPEIRA SOUS CHEF>Vocês podem ir agora, serviçais! Sejam livres!
@@ -403,10 +403,10 @@ message_167:
       text: Uma variadade de ingredientes.\! Alguns mais apetitosos do que outros.
 
 message_168:
-      text: \n<TOUPEIRA SOUS CHEF>Que a memória do nosso último HEAD CHEF vive para sempre...
+      text: \n<TOUPEIRA SOUS CHEF>Que a memória do nosso último CHEFE DE COZINHA vive para sempre...
 
 message_169:
-      text: \n<TOUPEIRA SOUS CHEF>Meu bolo foi realmente um sucesso!\! O último HEAD CHEF ficaria orgulhoso.\! Que a sua memória viva para sempre...
+      text: \n<TOUPEIRA SOUS CHEF>Meu bolo foi realmente um sucesso!\! O último CHEFE DE COZINHA ficaria orgulhoso.\! Que a sua memória viva para sempre...
 
 # =========================================================================================
 # Dreamworld NPC Dialogue: Sweetheart's Castle -> Elevator

@@ -262,7 +262,7 @@ message_65:
 message_66:
       faceset: MainCharacters_Faraway
       faceindex: 25
-      text: Vamo lá, \n[8].\! Você ja sabe como é.\kel
+      text: Vamos lá, \n[8].\! Você já sabe como é.\kel
 
 # =========================================================================================
 # Cutscene:  Kim & Vance's Loss
@@ -314,7 +314,7 @@ message_92:
 message_93:
       faceset: MainCharacters_Faraway
       faceindex: 23
-      text: \Com[2]Espera! Onde vocês pensam que vão?\! <br>A gente ganhou, então você precisa contar onde a AUBREY está!\kel
+      text: \Com[2]Espera! Onde vocês pensam que vão?\! <br>A gente ganhou, então vocês precisam contar onde a AUBREY está!\kel
 
 message_94:
       text: Ah...\! É... é verdade.\kim
@@ -419,7 +419,7 @@ message_123:
 message_124:
       faceset: MainCharacters_Faraway
       faceindex: 21
-      text: \}Oh!\! Ali está ela na direita!.\! Hmmm...\! Ela ta só...\! sentada ali...\!<br>toda normal...\! Que estranho!\kel
+      text: \}Oh!\! Ali está ela na direita!\! Hmmm...\! Ela ta só...\! sentada ali...\!<br>toda normal...\! Que estranho!\kel
 
 #KEL turns to PLAYER.
 
@@ -454,7 +454,7 @@ message_128:
 message_140:
       faceset: MainCharacters_Faraway
       faceindex: 16
-      text: Nossa! Eu não esperava que você só ia entrar assim, \n[8].\! <br>Bem...\! Agora não tem volta...\!<br>\}Vamo nessa, a gente tem que ficar quietinho.\kel
+      text: Nossa! Eu não esperava que você só ia entrar assim, \n[8].\!<br>Bem...\! Agora não tem volta...\!<br>\}Vamo nessa, a gente tem que ficar quietinho.\kel
 
 #[Trigger: PLAYER walks near AUBREY.]
 
@@ -556,7 +556,7 @@ message_175:
 message_176:
       faceset: MainCharacters_Faraway
       faceindex: 19
-      text: \}Quando a MARI...\! faleceu...\! a gente tava lidando com nossas próprias coisas.\! <br>Eramos crianças.\! Era difícil!\kel
+      text: \}Quando a MARI...\! faleceu...\! a gente tava lidando com nossas próprias coisas.\! <br>Éramos crianças.\! Era difícil!\kel
 
 message_177:
       faceset: MainCharacters_Faraway
@@ -600,12 +600,12 @@ message_183:
 message_184:
       faceset: MainCharacters_Faraway
       faceindex: 0
-      text: \}Quando a MARI morreu, você seguiu em frente tão rapido.\aub
+      text: \}Quando a MARI morreu, você seguiu em frente tão rápido.\aub
 
 message_185:
       faceset: MainCharacters_Faraway
       faceindex: 2
-      text: \}Você sabe porque eu venho aqui toda semana?\!<br>Depois de todo esse tempo, eu ainda estou tentando encontrar um pouco de paz...\! <br>mas parece que não é hoje que isso vai acontecer.\aub
+      text: \}Você sabe porque eu venho aqui toda semana?\!<br>Depois de todo esse tempo, ainda estou tentando encontrar um pouco de paz...\! <br>Mas parece que não é hoje que isso vai acontecer.\aub
 
 message_186:
       faceset: MainCharacters_Faraway
