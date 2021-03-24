@@ -215,7 +215,7 @@ message_37:
 message_50:
       faceset: MainCharacters_Faraway
       faceindex: 31
-      text: Alô?\! Tem alguém em casa?\her
+      text: Olá?\! Tem alguém em casa?\her
 
 #HERO turns to KEL.
 
@@ -235,7 +235,7 @@ message_52:
 message_53:
       faceset: MainCharacters_Faraway
       faceindex: 32
-      text: Alô?\! AUBREY?\! Tem alguem em casa??\her
+      text: Olá?\! AUBREY?\! Tem alguem em casa??\her
 
 message_54:
       faceset: MainCharacters_Faraway
