@@ -2058,7 +2058,7 @@ switch (type) {
       break;
 
     case 'PLUTO HEADBUTT':  // PLUTO HEADBUTT
-      text = user.name() + ' se propulsiona pra frente e';
+      text = user.name() + ' se propulsiona pra frente e \r\n';
       text += 'bate em ' + target.name() + '!\r\n';
       text += hpDamageText;
       break;
