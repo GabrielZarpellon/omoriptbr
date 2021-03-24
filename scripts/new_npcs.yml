@@ -874,7 +874,7 @@ message_194:
 #Simple Roach
 #Location: SW Kitchen
 message_195:
-      text: \n<BARATA SIMPLES>\com[2]Ah! Fui encontrada!\! Por favor não conte pra ninguém que eu estou aqui!\!<br>É que eu gosto de lanchar na dispensa...\! Assim... todo mundo faz isso!
+      text: \n<BARATA SIMPLES>\com[2]Ah! Fui encontrada!\! Por favor não conte pra ninguém que eu estou aqui!\! É que eu gosto de lanchar na dispensa...\! Assim... todo mundo faz isso!
 
 message_196:
       text:

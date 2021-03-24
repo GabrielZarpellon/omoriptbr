@@ -197,7 +197,7 @@ message_57:
 #SMM turns to CONTESTANT #2.
 
 message_58:
-      text: Agora para o CONTESTANTE \#2.\! Faremos a mesma pergunta.\! <br>Não tem resposta certa ou errada. Apenas responda honestamente!\smm
+      text: Agora para o CONTESTANTE \#2.\! Faremos a mesma pergunta.\! Não tem resposta certa ou errada. Apenas responda honestamente!\smm
 
 message_59:
       text: CONTESTANTE \#2...\!<br>Você jura sua fidelidade a SWEETHEART pelo resto da sua vida?\smm

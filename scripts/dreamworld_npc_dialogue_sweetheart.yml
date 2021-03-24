@@ -6,7 +6,7 @@ message_200:
       text: \n<HAROLDO>\com[2]\{\{\quake[1]PAREM AÍ, PRISIONEIROS!!
 
 message_201:
-      text: \n<HAROLDO>Vocês pensaram mesmo que poderiam escapar tão fácilmente!?
+      text: \n<HAROLDO>Vocês pensaram mesmo que poderiam escapar tão facilmente!?
 
 message_202:
       text: \n<HAROLDO>É para \c[11]A MASMORRA\C[0] que vocês quatro vão!
@@ -155,7 +155,7 @@ message_62:
       text: \n<TOUPEIRA CHEFE>Sous chefs, agora é a hora de um de vocês dar um passo para frente.\! Um bolo deve ser assado hoje! Nossas próprias vidas estão em linha!
 
 message_63:
-      text: \n<TOUPEIRA SOUS CHEF>Oh, sim! Eu te entendo, chefe!\! Como o mais capaz de todos nós,<br>eu vou me voluntariar a liderar essa tarefa!\!<br>Eu não vou falhar com vocês! Eu prometo...
+      text: \n<TOUPEIRA SOUS CHEF>Oh, sim! Eu te entendo, chefe!\! Como o mais capaz de todos nós, eu vou me voluntariar a liderar essa tarefa!\!<br>Eu não vou falhar com vocês! Eu prometo...
 
 # =========------------------
 message_70:
@@ -333,7 +333,7 @@ message_500:
       text: \n<TOUPEIRA SOUS CHEF>\com[2]\{\{EI! SEM ROUBAR!!
 # =========------------------
 message_145:
-      text: \n<TOUPEIRA SOUS CHEF>Vai embora mesmo...\! Aquele cara era tão puxa saco.\!<br>Agora, vocês estão prontos mesmo para assar este bolo?
+      text: \n<TOUPEIRA SOUS CHEF>Melhor assim...\! Aquele cara era tão puxa saco.\!<br>Agora, vocês estão prontos mesmo para assar este bolo?
 
 message_146:
       text: \n<TOUPEIRA SOUS CHEF>Legal! Então, a primeira coisa a se fazer é pré-aquecer o forno a 350 GRAUS.
