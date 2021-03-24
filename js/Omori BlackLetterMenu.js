@@ -646,7 +646,7 @@ Window_OmoBlackLetterWord.prototype.createLetterSprites = function() {
   // Initialize Letter Sprites
   this._letterSprites = [];
   // Set Starting X
-  var sx = 29;
+  var sx = 26;
   // Go Through Word
   for (var i = 0; i < word.length; i++) {
     // Get Letter
@@ -666,9 +666,9 @@ Window_OmoBlackLetterWord.prototype.createLetterSprites = function() {
       this._letterSprites.push(sprite)
       // Add Child
       this.addChild(sprite);
-      sx += 29;
+      sx += 26;
     } else {
-      sx += 20;
+      sx += 15;
     };
   };
 };
