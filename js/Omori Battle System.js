@@ -2523,8 +2523,7 @@ Window_OmoriBattleActorStatus.prototype.refresh = function() {
   // If Actor Exists
   if (actor) {
     this.setStatusBack(actor.statusBackIndex());
-    const offset = (GNA.CHARACTERS[actor._name].GENDER === GNA.GENDER.FEMININE ? FEMALE_STATE_LIST_OFFSET : 0);
-    this.setStatusHeader(actor.statusListIndex() + offset);
+    this.setStatusHeader(actor.statusListIndex());
     this._faceSprite.setAnimRow(actor.statusFaceIndex())
     this.setupStatusParticles(actor.statusStateParticlesData())
   };
