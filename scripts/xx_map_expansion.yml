@@ -753,7 +753,7 @@ message_204:
     text: \n<GUARDIÃO DO CASTELO>Vocês são corajosos em falar comigo, jovens.\!<br>Me digam. Estão gostando do castelo da SWEETHEART?
 
 message_205:
-    text: \n<GUARDIÃO DO CASTELO>Aquela garota.\! Ela é elaborada.\!<br>Esse lugar. Ele assume a forma mais desejada de uma pessoa.\!<br>Um lugar para retornar.\! Um lugar para chamar de casa.
+    text: \n<GUARDIÃO DO CASTELO>Aquela garota. Ela é elaborada.\!<br>Esse lugar. Ele assume a forma mais desejada de uma pessoa.\!Um lugar para retornar.\!Um lugar para chamar de casa.
 
 message_206:
     text: \n<GUARDIÃO DO CASTELO>SWEETHEART veio até mim há muito tempo, uma pobre garota do deserto...\! e implorou de joelhos para deixá-la ter esse lugar.
@@ -765,7 +765,7 @@ message_208:
     text: \n<GUARDIÃO DO CASTELO>Mas... ela ainda quer mais.\! Deve ser uma maldição.
 
 message_209:
-    text: \n<GUARDIÃO DO CASTELO>Logo, ela partirá e não voltará.\! Eu sei isso.
+    text: \n<GUARDIÃO DO CASTELO>Logo, ela partirá e não voltará.\! Eu sei disso.
 
 message_210:
     text: \n<GUARDIÃO DO CASTELO>E quando eu decidir que ela achou uma nova casa em algum lugar, eu buscarei um novo dono.
@@ -816,7 +816,7 @@ message_241:
     text: \n<GUARDIÃO DO CASTELO>Vocês são corajosos em falar comigo, jovens.\!<br>Me digam. Estão gostando do castelo da SWEETHEART?
 
 message_242:
-    text: \n<GUARDIÃO DO CASTELO>Aquela garota.\! Ela é elaborada.\!<br>Esse lugar. Ele assume a forma mais desejada de uma pessoa.\!<br>Um lugar para retornar.\! Um lugar para chamar de casa.
+    text: \n<GUARDIÃO DO CASTELO>Aquela garota. Ela é elaborada.\!<br>Esse lugar. Ele assume a forma mais desejada de uma pessoa.\!Um lugar para retornar.\!Um lugar para chamar de casa.
 
 message_243:
     text: \n<GUARDIÃO DO CASTELO><GUARDIÃO DO CASTELO>SWEETHEART veio até mim há muito tempo, uma pobre garota do deserto...\! e implorou de joelhos para deixá-la ter esse lugar...
