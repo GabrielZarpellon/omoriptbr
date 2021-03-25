@@ -1075,7 +1075,7 @@ message_799:
 message_594:
     faceset: MainCharacters_DreamWorld
     faceindex: 18
-    text: \kel\sinv[1]Uhuuu! Finalmente saimos do castelo da SWEETHEART!\!\sinv[0]<br>Me pergunto sobre o quê é esse grande evento que todos estão se preparando...
+    text: \kel\sinv[1]Uhuuu! Finalmente saímos do castelo da SWEETHEART!\!\sinv[0]<br>Me pergunto sobre o que é esse grande evento que todos estão se preparando...
 
 message_595:
     faceset: MainCharacters_DreamWorld
@@ -1102,7 +1102,7 @@ message_310:
 message_650:
     faceset: MainCharacters_DreamWorld
     faceindex: 30
-    text: \kelUgh...\! Essa topiaria da SWEETHEART acabou de atirar um laser na gente!
+    text: \kelUgh...\! Essa topiária da SWEETHEART acabou de atirar um laser na gente!
 
 message_311:
     faceset: MainCharacters_DreamWorld
@@ -1195,10 +1195,10 @@ message_2:
     text: \n<ALEX O ESTIMADO>Huh? Você realmente precisa?\! Tipo, você realmente, realmente precisa??\!<br>Tipo... realmente, realmente, realmente precisa?\! Tipo realmente, realmente, realmente, realmente, realmente, realmente, realmente precisa disso?
 
 message_3:
-    text: \n<ALEX O ESTIMADO>...\! Hmm...\! Hmmmmmm...\!<br>Acho que eu não tenho escolha então...\!<br>Mas você precisa me prometer que não vai contar pra ninguém!<br>\Com[2]\{PROMETA DE DEDINHO!
+    text: \n<ALEX O ESTIMADO>...\! Hmm...\! Hmmmmmm...\!<br>Acho que eu não tenho escolha então...Mas você precisa me prometer que não vai contar pra ninguém!<br>\Com[2]\{PROMETA DE DEDINHO!
 
 message_4:
-    text: \n<ALEX O ESTIMADO>E pronto!\!<br>Ufa... eu estava preocupado que você fosse alguém indigno de minha confiança!<br>Agora...\! se aproxime...\!<br>\}A senha que me foi confiada é...\! "RECHEADA".\!<br>Entendeu?\! Me prometa que não conterá pra ninguém, ok?
+    text: \n<ALEX O ESTIMADO>E pronto!\!<br>Ufa... eu estava preocupado que você fosse alguém indigno de minha confiança!<br>Agora...\! se aproxime...\!<br>\}A senha que me foi confiada é...\! "GELATINOSA".\!<br>Entendeu?\! Me prometa que não contará pra ninguém, ok?
 
 message_5:
     text: \n<ALEX O ESTIMADO>Me desculpe, mas você precisa aprender a guardar segredo antes que eu possa te contar a senha secreta.
@@ -1209,10 +1209,10 @@ message_400:
     text: \n<BRIAN O DISTINTO>Existem quatro senhas que devem ser ditas para a estátua da SWEETHEART pra revelar o túnel secreto.<br><br>Naturalmente, como um dos escolhidos da elite, me foi dada a responsabilidade de guardar a segunda das quatro!
 
 message_6:
-    text: \n<BRIAN O DISTINTO>Você quer saber a senha, é?\!<br>\com[2]Não tão rápido, amigo.\!<br>Eu preciso dizer... Você é terrivelmente alto pra uma BROTOPEIRA...
+    text: \n<BRIAN O DISTINTO>Você quer saber a senha, é?\com[2]Não tão rápido, amigo.\!<br>Eu preciso dizer, você é muito alto pra uma BROTOPEIRA...
 
 message_7:
-    text: \n<BRIAN O DISTINTO>\com[2]Como eu vou saber que você é uma de nós, criaturas altamente inteligentes e majestosas?\! Você realmente acha que eu passaria a senha pra um espião em potencial? \!Ha!\! Não me faça rir!
+    text: \n<BRIAN O DISTINTO>\com[2]Como eu vou saber que você é uma de nós, criaturas inteligentes e majestosas?\! Você acha que eu passaria a senha pra um espião? \!Ha!\! Não me faça rir!
 
 message_8:
     text: \n<BRIAN O DISTINTO>Se você tem tanta certeza que é uma BROTOPEIRA, por que não me prova?\! Eu te digo a senha... se você conseguir adivinhar o que eu estou pensando nesse momento!
@@ -1247,7 +1247,7 @@ message_13:
     text: \n<BRIAN O DISTINTO>Eu definitivamente deveria estar pensando na SWEETHEART!<br>Talvez você seja mais BROTOPEIRA do que eu!
 
 message_14:
-    text: \n<BRIAN O DISTINTO>Me perdoem por ter duvidado de vocês.\! Acho que existem todos os tipos de BROTOPEIRAS por aí!<br><br>Agora...\! se aproximem...\!<br>\}A senha que me foi confiada é...\! "GELEIA".\!<br>Você ouviu?\! Prometa-me que não vai contar pra ninguém, ok?
+    text: \n<BRIAN O DISTINTO>Me perdoem por ter duvidado de vocês.\! Acho que existem todos os tipos de BROTOPEIRAS por aí!<br><br>Agora...\! se aproximem...\!<br>\}A senha que me foi confiada é...\! "ROSQUINHA".\!<br>Você ouviu?\! Prometa-me que não vai contar pra ninguém, ok?
 
 #PUZZLE MOLE 3 (Bottom Left)
 
@@ -1291,10 +1291,10 @@ message_21:
     text: \n<HELEN A CALAMITOSA>Mas, ugh!\! Eu deveria guardar essa senha super secreta e tal, né? Mas, tipo, ela é sobre comida, e agora eu fico pensando em comida o tempo todo...<br>Isso me deixa tão faminta, que eu comecei a mastigar a grama pra me saciar! Pode acreditar nisso!? Eles deviam começar a providenciar comida pros guardas daqui!
 
 message_22:
-    text: \n<HELEN A CALAMITOSA>E então, que tipo de senha é essa de qualquer forma? "ROSQUINHA"?\! Que nem aquele apelido idiota que aquele cara azul estranho ficava chamando a SWEETHEART ou algo do tipo?<br>\com[2]Pelo amoooor!\! Isso não é segredo algum! Qualquer um poderia adivinhar isso! Eles sempre ficavam andando juntos que nem um casalzinho, chamando um ao outro de apelidos assim...<br>Dizendo coisas tipo, "Por que você não me pediu em casamento ainda?" e"Me desculpe. Meus amigos não aprovam nosso relacionamento..." o tempo todo... Ugh! Tão irritante!
+    text: \n<HELEN A CALAMITOSA>E então, que tipo de senha é essa de qualquer forma? "RECHEADA"?\! Que nem aqueles apelidos idiotas que aquele cara azul estranho ficava chamando a SWEETHEART?<br>\com[2]Pelo amoooor!\! Isso não é segredo algum!<br>Qualquer um poderia adivinhar isso!\!Eles sempre ficavam andando juntos que nem um casalzinho, chamando um ao outro de apelidos...<br>Dizendo coisas tipo: "Por que você não me pediu em casamento ainda?" ou "Me desculpe, meus amigos não aprovam nosso relacionamento..." o tempo todo... Ugh! Tão irritante!
 
 message_23:
-    text: \n<HELEN A CALAMITOSA>Mas, tanto faz...\! Eu ainda estou presa aqui guardando as senhas com outros três guardas...\! Esses caras não conseguiriam manter um segredo mesmo que suas vidas dependessem disso!<br>Hmph! É isso mesmo! Pode até ter pena de mim! Como se eu me importasse!\! Aqui estou eu, presa sozinha nesse cantinho do jardim, guardando a palavra "ROSQUINHA" entre tantas outras palavras!\! CARAMBOLAS!
+    text: \n<HELEN A CALAMITOSA>Mas, tanto faz...\!<br>Eu ainda estou presa aqui guardando as senhas com outros três guardas...\! Esses caras não conseguiriam manter um segredo mesmo que suas vidas dependessem disso!\!<br>Hmph! É isso mesmo! Pode até ter pena de mim, como se eu me importasse!\! Aqui estou eu, sozinha nesse cantinho do jardim, guardando a palavra "RECHEADA" entre tantas outras palavras!\! CARAMBOLAS!
 
 #PASSWORD STATUE PART 1
 
@@ -1372,13 +1372,13 @@ message_43:
     text: DOCE
 
 message_44:
-    text: GELEIA
+    text: ROSQUINHA
 
 message_45:
-    text: RECHEADA
+    text: GELATINOSA
 
 message_46:
-    text: ROSQUINHA
+    text: RECHEADA
 
 #PASSWORD STATUE PART 2
 
