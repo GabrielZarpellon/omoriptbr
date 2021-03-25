@@ -50,7 +50,7 @@ message_5:
 
 message_10:
    text: >
-    \>GURI DA PIPA: \<Deixa eu te mostrar o verdadeiro poder de mim e o da minha pipa!
+    \>GURI DA PIPA: \<Deixa eu te mostrar o meu verdadeiro poder e o da minha pipa!
 
 # Before Kid's Kite "Repair"
 
@@ -88,7 +88,7 @@ message_16:
 
 message_17:
    text: >
-    \>GURI DA PIPA: \<Haha! Que nem prediz o vento!\! Eu e a minha pipa somos inbatíveis.
+    \>GURI DA PIPA: \<Haha! Que nem prediz o vento!\! Eu e a minha pipa somos imbatíveis.
 
 
 # ============Enemy:  PLUTO
@@ -227,7 +227,7 @@ message_40:
 
 message_41:
    text: >
-    \>SIR MAXIMUS: \<Contemplem! Minha família gastou gerações aperfeiçoando esta técnica...
+    \>SIR MAXIMUS: \<Contemplem! Minha família passou gerações aperfeiçoando esta técnica...
 
 message_42:
    text: >
@@ -315,7 +315,7 @@ message_58:
 
 message_59:
    text: >
-    \>SIR MAXIMUS II: \<Este é um dia glorioso para o meu povo!
+    \>SIR MAXIMUS II: \<Esse é um dia glorioso para o meu povo!
 
 # ============Enemy:  Sir Maximus 3
 
@@ -385,7 +385,7 @@ message_71:
 
 message_72:
    text: >
-    \>SWEETHEART: \<É uma pena que vocês não poderam vê-las por mais tempo!
+    \>SWEETHEART: \<É uma pena que vocês não poderão vê-las por mais tempo!
 
 # Getting Weaker (20%, Manic):
 
@@ -395,7 +395,7 @@ message_75:
 
 message_76:
    text: >
-    \>SWEETHEART: \<Baratas são resilientes, Suponho eu!
+    \>SWEETHEART: \<Baratas são resilientes, suponho eu!
 
 message_77:
    text: >
@@ -412,7 +412,7 @@ message_78:
 
 message_79:
    text: >
-    \>SWEETHEART: \<Não...\! É isso...\!<br>o que eles chamam de derrota?
+    \>SWEETHEART: \<Não...\! É isso...\!<br>O que eles chamam de derrota?
 
 message_80:
    text: >
@@ -477,7 +477,7 @@ message_88:
 
 message_89:
    text: >
-    \>SR. MANDÍBARÃO: \<AGENTE PRECISA DE MAIS HOMENS, ME OUVIRAM!?
+    \>SR. MANDÍBARÃO: \<A GENTE PRECISA DE MAIS HOMENS, ME OUVIRAM!?
 
 message_90:
    text: >
@@ -497,7 +497,7 @@ message_92:
 
 message_93:
    text: >
-    \>SR. MANDÍBARÃO: \<O que você quer dizer que estamos sem capangas!?\! Isso é impossível!
+    \>SR. MANDÍBARÃO: \<O que você quer dizer com "estamos sem capangas"!?\! Isso é impossível!
 
 # After Defeat:
 
@@ -721,7 +721,7 @@ message_133:
 
 message_134:
    text: >
-    \>HEART PERFEITA: \<<br>Lembrem-se, crianças...\! Vocês trouxeram isso sobre vocês!
+    \>HEART PERFEITA: \<<br>Lembrem-se, crianças...\! Vocês trouxeram isso pra vocês mesmas!
 
 # Getting Weaker (50%):
 
@@ -813,7 +813,7 @@ message_149:
 
 message_150:
    text: >
-    \>BISCOITA: \<Estamos condenado à assar pão por toda a eternidade...\! não é, BISCOITA?
+    \>BISCOITA: \<Estamos condenados à assar pão por toda a eternidade...\! não é, BISCOITA?
 
 message_151:
    text: >
@@ -823,7 +823,7 @@ message_151:
 
 message_152:
    text: >
-    \>BISCOITA: \<Nós estamos nos egotando de suprimentos! O que vamos fazer, BOLACHO?
+    \>BISCOITA: \<Nós estamos nos esgotando de suprimentos! O que vamos fazer, BOLACHO?
 
 message_153:
    text: >
@@ -1169,7 +1169,7 @@ message_216:
 
 message_217:
    text: >
-    \>AUBREY: \<<br>Agora...\! me deixa em paz.
+    \>AUBREY: \<<br>Agora...\! me deixem em paz.
 
 # ============Enemy:  Aubrey & Scooter Squad (Lake):
 
@@ -1368,7 +1368,7 @@ message_265:
 # Sweetheart Return to HAPPY
 message_266:
    text: >
-    \>SWEETHEART: \<É inútil, seus tolos!\! Vocês não podem enfraquecer minha energia postivia!
+    \>SWEETHEART: \<É inútil, seus tolos!\! Vocês não podem enfraquecer minha energia positiva!
 
 # Biscuit and Doughie Return to SAD
 message_267:
@@ -1408,7 +1408,7 @@ message_273:
 # Before swallow 1
 message_274:
    text: >
-    \>HUMPHREY: \<\sinv[1]Só um aviso...vai ficar uma bagunça!\| É hora de vocês entrarem na minha pança!
+    \>HUMPHREY: \<\sinv[1]Só um aviso...isso vai ficar uma bagunça!\| É hora de vocês entrarem na minha pança!
 
 # Before swallow 2
 message_275:
@@ -1418,7 +1418,7 @@ message_275:
 # Before Swallow 3
 message_276:
    text: >
-    \>HUMPHREY: \<\sinv[1]Relaxem... Não há nada à que temer.\| Ei, OMORI... não tá ficando quente aqui?
+    \>HUMPHREY: \<\sinv[1]Relaxem... Não há nada a que temer.\| Ei, OMORI... não tá ficando quente aqui?
 
 # Before Swallow 4
 message_277:
@@ -1547,7 +1547,7 @@ message_298:
 
 message_299:
    text: >
-    \>AUBREY: \<Então o que você tá dizendo é que é a hora perfeita pra atacar! \!Bora, OMORI!\! Vamo arrebentar!
+    \>AUBREY: \<Então você tá dizendo que é hora de atacar!\!Bora arrebentar, OMORI!\!
 
 # HAPPY MOLE
 message_300:
@@ -1714,7 +1714,7 @@ message_357:
 
 message_360:
    text: >
-    O grupo de \v[1003] tem a iniciativa
+    O grupo de \v[1003] tem a iniciativa.
 
 # message_361:
 #    text: >
@@ -1810,7 +1810,7 @@ message_416:
 
 message_417:
    text: >
-    REI RASTEJANTE come uma BROTOPEIRA!
+    REI RASTEJANTE come a BROTOPEIRA!
 
 # ============JUNKYARD EXTRA
 
@@ -1939,7 +1939,7 @@ message_462:
 
 message_463:
    text: >
-    \>HUMPHREY: A presa forte no mais fraco.\! Não sabiam?\! Isso é biologia!
+    \>HUMPHREY: O mais forte preda o mais fraco.\! Não sabiam?\! Isso é biologia!
 
 message_464:
    text: >
@@ -2070,7 +2070,7 @@ message_543:
 
 message_544:
    text: >
-    \}Essa garota é uma ameaça para nossa vizinhança.\| Não tem esperança para pecadoras como ela!
+    \}Essa garota é uma ameaça para nossa vizinhança.\| Não há esperança para pecadoras como ela!
 
 message_545:
    text: >
@@ -2078,7 +2078,7 @@ message_545:
 
 message_546:
    text: >
-    \}Crianças esses dias não tem respeito...\|<br>Espero que minhas crianças não sejam como ela.
+    \}Crianças esses dias não tem respeito...\|<br>Espero que meus filhos não sejam como ela.
 
 # ============PEPPER SPRAY
 message_547:
@@ -2115,12 +2115,12 @@ message_553:
 # Start
 message_600:
    text: >
-    \>PLUTÃO: \<Esta será a nossa batalha final.\! Mostrem me tudo o que vocês tem.
+    \>PLUTÃO: \<Esta será a nossa batalha final.\! Mostrem-me tudo o que vocês tem.
 
 # At 50% HP
 message_601:
    text: >
-    \>PLUTÃO: \<Ah...\! Parece que eu subestimeis você novamente.
+    \>PLUTÃO: \<Ah...\! Parece que eu subestimei vocês novamente.
 
 # After Earth Finale
 message_602:
@@ -2129,12 +2129,12 @@ message_602:
 
 message_603:
    text: >
-    \>PLUTÃO: \<Eu quero nada mais que a vitória!\! Deixem me mostrar minha determinação!
+    \>PLUTÃO: \<Eu quero nada mais que a vitória!\! Deixem-me mostrar minha determinação!
 
 # Turn 1 of charging
 message_604:
    text: >
-    \>PLUTÃO: \<Estou feliz por ter conhecido cada um de vocês...\! e a assistir vocês crescerem.
+    \>PLUTÃO: \<Estou feliz por ter conhecido cada um de vocês...\! e assistir vocês crescerem.
 
 # Turn 2 of charging
 message_605:
@@ -2180,7 +2180,7 @@ message_615:
 # Pluto's presence
 message_613:
    text: >
-    A radiança dos músculos de PLUTÃO te intimidam!
+    A radiância dos músculos de PLUTÃO te intimidam!
 
 message_614:
    text: >
@@ -2193,7 +2193,7 @@ message_620:
 
 message_621:
    text: >
-    \>GURI DA PIPA: \<Enquanto o vento nos assoprar, nos somos inbátiveis!
+    \>GURI DA PIPA: \<Enquanto o vento nos assoprar, nos somos imbatíveis!
 
 # ============EX-MARIDO ESPACIAL
 # An image appears
@@ -2229,7 +2229,7 @@ message_636:
 # Angry Memories
 message_637:
    text: >
-    \>EX-MARIDO ESPACIAL: \<É a minha SWEETHEART... mas ela está...\! balançando sua maça em mim
+    \>EX-MARIDO ESPACIAL: \<É a minha SWEETHEART... mas ela está...\! balançando sua arma em mim
 
 message_638:
    text: >
@@ -2251,7 +2251,7 @@ message_641:
 # Correct answer: Happy
 message_642:
    text: >
-    \>EX-MARIDO ESPACIAL: \<Ah...\! Eu ainda penso caridosamente daqueles tempos...
+    \>EX-MARIDO ESPACIAL: \<Ah...\! Eu ainda penso carinhosamente naqueles tempos...
 
 # Correct answer: Sad
 message_643:
@@ -2270,7 +2270,7 @@ message_644:
 # Wrong answer
 message_646:
    text: >
-    \>EX-MARIDO ESPACIAL: \<Aaah...\! Ninguém verdadeiramente entende as profundezas da minha dor.
+    \>EX-MARIDO ESPACIAL: \<Aaah...\! Ninguém entende verdadeiramente as profundezas da minha dor.
 
 message_647:
    text: >
@@ -2289,7 +2289,7 @@ message_660:
 # Happy
 message_661:
    text: >
-    \>MUTANTE-HEART: \<\}\sinv[1]FElIZ...\. por favor!
+    \>MUTANTE-HEART: \<\}\sinv[1]FELIZ...\. por favor!
 # Sad
 message_662:
    text: >
@@ -2318,7 +2318,7 @@ message_750:
 
 message_751:
    text: >
-    Você tentou FOCAR...\|<br>mas a tontura foi de mais para você.
+    Você tentou FOCAR...\|<br>mas a tontura foi demais para você.
 
 # ============PERSIST (Something)
 
@@ -2365,7 +2365,7 @@ message_803:
 
 message_804:
    text: >
-    \>BASIL: \<Talvez algum dia...\| as coisas possam voltar para o jeito que eram antes.
+    \>BASIL: \<Talvez algum dia...\| as coisas possam voltar ao jeito que eram antes.
 
 message_805:
    text: >
