@@ -11,7 +11,7 @@ message_0:
       text: \kelEi, vizinha! Como vai?
 
 message_1:
-      text: \n<MENINA DE CABELO AZUL>Ei, KEL!\! Oh, e quem são esses com você?
+      text: \n<MENINA DE CABELO AZUL>Ei, KEL!\! Oh, e quem tá com você?
 
 message_32:
       faceset: MainCharacters_Faraway
@@ -69,7 +69,7 @@ message_10:
       text: \n<MENINA DE CABELO AZUL>Oh, eu não trabalho tão duro assim...\! Eu acho divertido, honestamente!\! E além disso...\! mesmo que eu ame nadar em piscinas, eu amo nadar no oceano ainda mais!
 
 message_11:
-      text: \n<MENINA DE CABELO AZUL>Eu amo tudo sobre o oceano...\! a praia...\! <br>o som das ondas...\! até o cheiro das algas...\!<br>Ah...\! Hehe...\! Desculpa, deve parecer que eu sou meio obcecada.
+      text: \n<MENINA DE CABELO AZUL>Eu amo tudo sobre o oceano...\! a praia...\! <br>o som das ondas...\! até o cheiro das algas...\!<br>Ah...\! Hehe...\! Desculpa, devo parecer obcecada.
 
 message_12:
       faceset: MainCharacters_Faraway
@@ -77,7 +77,7 @@ message_12:
       text: \kelEstá tudo bem!\! <br>É sempre bom gostar de alguma coisa, não é?
 
 message_13:
-      text: \n<MENINA DE CABELO AZUL>Hehe...\! Eu acho...\! Na verdade, eu acho que isso tudo começou por causa que o internato que eu fui era em uma ilha e eu gostei muito de lá!
+      text: \n<MENINA DE CABELO AZUL>Hehe...\! Eu acho...\! Na verdade, eu acho que isso tudo começou porque o internato que eu fui era em uma ilha e eu gostei muito de lá!
 
 message_14:
       text: \n<MENINA DE CABELO AZUL>O oceano me lembra dos amigos que fiz lá...\!<br>Eu espero que um dia eu possa ver eles de novo.
@@ -99,7 +99,7 @@ message_18:
       text: \n<MENINA DE CABELO AZUL>Oh, \n[8] está se mudando?\! Hmmm...\! Bem, estar longe dos meus amigos foi bem difícil no começo...\! mas mudança é uma parte da vida!
 
 message_19:
-      text: \n<MENINA DE CABELO AZUL>É as memórias que fazemos com eles que temos que apreciar.
+      text: \n<MENINA DE CABELO AZUL>São as memórias que fazemos com eles que temos que apreciar.
 
 message_20:
       text: \n<MENINA DE CABELO AZUL>Quer saber...\! Eu acabei de decidir uma coisa.<br>\!Se você ver alguma \c[4]CONCHA\c[0], pode trazer elas até mim?

@@ -400,7 +400,7 @@ message_109:
 #*Screen returns*
 
 message_110:
-    text: \n<MESTRE J. MELO>Excelente! Excelente, excelente, excelente...\!<br>Você cresceu tanto!\! Infelizmente... esse bulbo não cresceu tanto...<br><br>Agora, use sua técnica aperfeiçoada nele para que ele possa viver!
+    text: \n<MESTRE J. MELO>Excelente! Excelente, excelente, excelente...\!<br>Você cresceu tanto!\! Infelizmente... esse bulbo não cresceu tanto...<br>Agora, use sua técnica aperfeiçoada nele para que ele possa viver!
 
 #Talk to MASTER
 

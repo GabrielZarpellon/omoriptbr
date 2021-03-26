@@ -1195,7 +1195,7 @@ message_2:
     text: \n<ALEX O ESTIMADO>Huh? Você realmente precisa?\! Tipo, você realmente, realmente precisa??\!<br>Tipo... realmente, realmente, realmente precisa?\! Tipo realmente, realmente, realmente, realmente, realmente, realmente, realmente precisa disso?
 
 message_3:
-    text: \n<ALEX O ESTIMADO>...\! Hmm...\! Hmmmmmm...\!<br>Acho que eu não tenho escolha então...Mas você precisa me prometer que não vai contar pra ninguém!<br>\Com[2]\{PROMETA DE DEDINHO!
+    text: \n<ALEX O ESTIMADO>...\! Hmm...\! Hmmmmmm...\!<br>Acho que eu não tenho escolha... Mas me prometa que não vai contar pra ninguém!<br>\Com[2]\{PROMETA DE DEDINHO!
 
 message_4:
     text: \n<ALEX O ESTIMADO>E pronto!\!<br>Ufa... eu estava preocupado que você fosse alguém indigno de minha confiança!<br>Agora...\! se aproxime...\!<br>\}A senha que me foi confiada é...\! "GELATINOSA".\!<br>Entendeu?\! Me prometa que não contará pra ninguém, ok?
