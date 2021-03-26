@@ -55,7 +55,7 @@ message_24:
       text: ...\cha
 
 message_25:
-      text: Heh.\! Então vamos para o nosso ponto de encontro secreto?\! Nham... \! <br>É um lugar perfeito para um encontro!\! Nham...\! Eu vou trazer uma das minhas moças especias.\mav
+      text: Heh.\! Então vamos para o nosso ponto de encontro secreto?\! Nham... \! É um lugar perfeito para um encontro!\! Nham...\! Eu vou trazer uma das minhas moças especias.\mav
 
 message_26:
       text: Nadar...\! Nham, nham, nham, nham...\! Parece... \! <br>Nham, nham, nham, nham, nham, nham, nham, nham...\! <br>bem divertido.\van
@@ -210,7 +210,7 @@ message_107:
 message_120:
       faceset: MainCharacters_Faraway
       faceindex: 14
-      text: Bem, aqui estamos... Sinta-se em casa!\!<br>Olha! Eu ganhei uma cesta de basquete e uma caixa de som<br>Como eu sempre quis.\! Aqui, eu vou tocar uma música pra você!\kel
+      text: Bem, aqui estamos... Sinta-se em casa!\!<br>Olha! Ganhei uma cesta de basquete e uma caixa de som como sempre quis.\! Aqui, vou tocar uma música pra você!\kel
 
 #KEL walks up to BOOMBOX. BOOMBOX plays fish song.
 
@@ -277,7 +277,7 @@ message_143:
       text: Oh, está tudo bem!\! Eu...\! Eu tenho certeza que ele vai aparecer eventualmente.\! <br>Ele fugiu mais cedo e não voltou ainda...\n<POLLY>
 
 message_144:
-      text: Se você ver ele, pode dizer pra ele voltar pra casa?\!<br>Eu tô muito preoucupada com ele.\n<POLLY>
+      text: Se você ver ele, pode dizer pra ele voltar pra casa?\!<br>Eu tô muito preocupada com ele.\n<POLLY>
 
 message_145:
       faceset: MainCharacters_Faraway

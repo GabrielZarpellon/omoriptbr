@@ -142,7 +142,7 @@ message_29:
       text: \quake[1]\{\{\Com[2]EU PROTESTO!!\quake[0]\who
 
 message_30:
-      text: \Com[2]\{PARE ESSE CASAMENTO IMEDIATAMENTE!!\who
+      text: \Com[2]\{PAREM O CASAMENTO IMEDIATAMENTE!!\who
 
 #Camera pans to party.
 #AUBREY is at the end of the aisle.
@@ -179,7 +179,7 @@ message_35:
 message_36:
       faceset: MainCharacters_DreamWorld
       faceindex: 31
-      text: \}AUBREY, o que cê tá fazendo...?\!<br>Ela vai nos enviar de volta para \c[11]A MASMORRA\C[0] de novo...\kel
+      text: \}AUBREY, o que cê tá fazendo...?\!<br>Ela vai mandar a gente para \c[11]A MASMORRA\C[0] de novo...\kel
 
 #Camera pans to SWEETHEART. Guards are behind her now.
 

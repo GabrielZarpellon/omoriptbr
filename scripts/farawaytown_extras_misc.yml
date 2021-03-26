@@ -65,7 +65,7 @@ message_13:
       text: \n<RAI>Eu sou o RAI! Eu me orgulho de ser tipo um connoisseur de músicas.
 
 message_14:
-      text: \n<RAI>Se você botar um \c[4]CD\c[0] na \c[4]JUKEBOX\c[0] logo ali, Eu aposto que consigo dizer qual artista fez qual música!
+      text: \n<RAI>Se você botar um \c[4]CD\c[0] na \c[4]JUKEBOX\c[0] logo ali, eu aposto que consigo dizer qual artista fez qual música!
 
 message_15:
       text: \n<RAI>Eu sou o RAI! Eu me orgulho de ser tipo um connoisseur de músicas...\! e também me orgulho de ser tipo um connoisseur de jogos de carta!

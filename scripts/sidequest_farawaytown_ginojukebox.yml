@@ -118,40 +118,40 @@ message_212:
 # Jukebox NPC
 # Chatting about currently playing music/artist
 message_50:
-      text: \n<RAI>Eu conheço essa canção\! Isso é um cover de \"HANGING WITH THE BOYS\" por SLIME GIRLS.
+      text: \n<RAI>Eu conheço essa canção.\! Isso é um cover de \"HANGING WITH THE BOYS\" por SLIME GIRLS.
 
 message_60:
-      text: \n<RAI>Eu conheço essa canção\! Isso é um cover de \"WHITE SPACE\" por CLOVER & SEALIFE.
+      text: \n<RAI>Eu conheço essa canção.\! Isso é um cover de \"WHITE SPACE\" por CLOVER & SEALIFE.
 
 message_70:
-      text: \n<RAI>Eu conheço essa canção\! Essa é uma canção original por TOBY FOX.
+      text: \n<RAI>Eu conheço essa canção.\! Essa é uma canção original por TOBY FOX.
 
 message_80:
-      text: \n<RAI>Eu conheço essa canção\! Isso é um cover de \"WORLD'S END VALENTINE\" por LUMENTA-TAN.
+      text: \n<RAI>Eu conheço essa canção.\! Isso é um cover de \"WORLD'S END VALENTINE\" por LUMENTA-TAN.
 
 message_90:
-      text: \n<RAI>Eu conheço essa canção\! Isso é um cover de \"STARDUST DIVING\" por SAMM NEILAND.
+      text: \n<RAI>Eu conheço essa canção.\! Isso é um cover de \"STARDUST DIVING\" por SAMM NEILAND.
 
 message_100:
-      text: \n<RAI>Eu conheço essa canção\! Isso é um cover de \"NOT-SO-EMPTY-HOUSE\" por TOFIE.
+      text: \n<RAI>Eu conheço essa canção.\! Isso é um cover de \"NOT-SO-EMPTY-HOUSE\" por TOFIE.
 
 message_110:
-      text: \n<RAI>Eu conheço essa canção\! Isso é um cover de \"UNDERWATER PROM QUEENS\" por BANSHEEBEAT.
+      text: \n<RAI>Eu conheço essa canção.\! Isso é um cover de \"UNDERWATER PROM QUEENS\" por BANSHEEBEAT.
 
 message_120:
-      text: \n<RAI>Eu conheço essa canção\! Isso é um cover de \"SNOW FOREST - A SINGLE FLOWER BLOOMS\" por MADELEINE GLENN.
+      text: \n<RAI>Eu conheço essa canção.\! Isso é um cover de \"SNOW FOREST - A SINGLE FLOWER BLOOMS\" por MADELEINE GLENN.
 
 message_130:
-      text: \n<RAI>Eu conheço essa canção\! Isso é um cover de \"NOT-SO-EMPTY-HOUSE\" por SHISHIR.
+      text: \n<RAI>Eu conheço essa canção.\! Isso é um cover de \"NOT-SO-EMPTY-HOUSE\" por SHISHIR.
 
 message_140:
-      text: \n<RAI>Eu conheço essa canção\! Isso é um cover de \"PYREFLY FOREST - CAT'S CRADLE\" por JAMES ROACH.
+      text: \n<RAI>Eu conheço essa canção.\! Isso é um cover de \"PYREFLY FOREST - CAT'S CRADLE\" por JAMES ROACH.
 
 message_150:
-      text: \n<RAI>Eu conheço essa canção\! Isso é um cover de \"LOST AT A SLEEPOVER\" por OMNIBOI.
+      text: \n<RAI>Eu conheço essa canção.\! Isso é um cover de \"LOST AT A SLEEPOVER\" por OMNIBOI.
 
 message_160:
-      text: \n<RAI>Eu conheço essa canção\! Isso é um cover de \"GOOD FOR HEALTH BAD FOR IMAGINATION\" por VOIA.
+      text: \n<RAI>Eu conheço essa canção.\! Isso é um cover de \"GOOD FOR HEALTH BAD FOR IMAGINATION\" por VOIA.
 
 #secret track
 message_170:

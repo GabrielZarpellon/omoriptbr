@@ -5,7 +5,7 @@
 #Trigger: Enter KEL's House.
 
 message_0:
-      text: KEL!\! HERO!\! Onde vocês dois estavam?\!<br>Está tão tarde... Eu tava muito preoucupada!\n<MÃE DO KEL>
+      text: KEL!\! HERO!\! Onde vocês dois estavam?\!<br>Está tão tarde... Eu tava muito preocupada!\n<MÃE DO KEL>
 
 message_1:
       faceset: MainCharacters_Faraway
