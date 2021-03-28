@@ -1100,7 +1100,7 @@ message_260:
 message_265:
       faceset: MainCharacter_Mari
       faceindex: 3
-      text: \marOMORI, Eu estou tão orgulhosa de você.\!<br>Você nadou até aqui mesmo sempre tendo medo de água.
+      text: \marOMORI, eu estou tão orgulhosa de você.\!<br>Você nadou até aqui mesmo sempre tendo medo de água.
 
 #*pause*
 
@@ -1157,7 +1157,7 @@ message_281:
 
 #*pause*
 message_282:
-      text: \marNão é mais meu local de fala, mas..<br>\!Eu espero que ainda esteja aí...\! \n[8]...\!<br>Eu realmente sinto sua falta.
+      text: \marNão é mais meu local de fala, mas...<br>\!Eu espero que ainda esteja aí...\! \n[8]...\!<br>Eu realmente sinto sua falta.
 
 #*Window curtains open*
 #*As curtain opens screen turns white. DW MARI sprite replaced with white MARI*
@@ -1740,7 +1740,7 @@ message_430:
 message_431:
       faceset: MainCharacters_DreamWorld
       faceindex: 18
-      text: \kelAUBREY, você está sempre se preocupando com nada!\! <br>Vamos lá! Você devia aprender a relaxar e curtir as vezes.
+      text: \kelAUBREY, você está sempre se preocupando com nada!\! <br>Vamos lá! Você devia aprender a relaxar e curtir às vezes.
 
 message_432:
       faceset: MainCharacters_DreamWorld
@@ -2276,12 +2276,12 @@ message_570:
 message_571:
       faceset: MainCharacter_Basil
       faceindex: 0
-      text: Obrigado...\! Mas eu não tirei todas.\!<br>A MARI gosta de roubar minha câmera as vezes.\bas
+      text: Obrigado...\! Mas eu não tirei todas.\!<br>A MARI gosta de roubar minha câmera às vezes.\bas
 
 message_572:
       faceset: MainCharacter_Mari
       faceindex: 6
-      text: Só as vezes!\mar
+      text: Só às vezes!\mar
 
 message_573:
       faceset: MainCharacter_Basil

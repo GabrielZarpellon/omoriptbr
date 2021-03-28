@@ -902,7 +902,7 @@ message_201:
       text: \n<BAFINO>Uau! Pagar pela experiência VIP foi a melhor decisão que eu já fiz!
 
 message_202:
-      text: \n<BAFINO>Eu acabei de chegar de um bufê "tudo-que-você-consegue-gastar" muito caro, e ouvi dizer que vai ter um leilão valendo um \c[3]TOFU\c[0] hoje à noite!\! Pode contar que estarei lá!
+      text: \n<BAFINO>Eu acabei de chegar de um bufê "tudo-que-você-consegue-gastar" muito caro, e ouvi dizer que vai ter um leilão valendo um \c[3]TOFU\c[0] hoje à noite!\!<br> Pode contar que estarei lá!
 
 message_203:
       text:
@@ -1142,7 +1142,7 @@ message_247:
     text: \n<CARA JACARÉ>Aconteceu algo com o chefe...\! Faz um tempo que não ouço ele rir.\! ...\! Meio que sinto falta...
 
 message_248:
-      text: \n<CARA JACARÉ>Vou sentir sua falta, AUBREY.\! Lemmbre-se da nossa conversa, ok?\! Não leve as coisas tão a sério!\! Tudo bem rir as vezes.
+      text: \n<CARA JACARÉ>Vou sentir sua falta, AUBREY.\! Lemmbre-se da nossa conversa, ok?\! Não leve as coisas tão a sério!\! Tudo bem rir às vezes.
 
 message_249:
       text: Esse é o fim da rodovia.

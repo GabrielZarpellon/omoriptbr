@@ -809,7 +809,7 @@ message_405:
 message_406:
       faceset: MainCharacters_Faraway
       faceindex: 28
-      text: \herEi...\! Então, eu estou feliz que estamos saindo juntos e tudo mais...\! mas eu também estou me sentindo mal por deixar a Mãe sozinha...
+      text: \herEi...\! Então, eu estou feliz que estamos saindo juntos e tudo mais...\! mas eu também estou me sentindo mal por deixar a mãe sozinha...
 
 message_407:
       faceset: MainCharacters_Faraway
@@ -850,7 +850,7 @@ message_412:
 message_413:
       faceset: MainCharacters_Faraway
       faceindex: 30
-      text: \her\sinv[1]Ei, Mãe... Eu te trouxe algumas \c[4]FLORES\c[0]!
+      text: \her\sinv[1]Ei, mãe... Eu te trouxe algumas \c[4]FLORES\c[0]!
 
 message_414:
       text: \n<MÃE DO KEL>O-Oh...\! Essas são pra mim?

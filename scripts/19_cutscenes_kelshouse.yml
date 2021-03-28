@@ -131,12 +131,12 @@ message_45:
 message_46:
       faceset: MainCharacters_Faraway
       faceindex: 29
-      text: Você aprende muito se mudando pra um lugar novo, e é bom ter<br>um novo começo!\! Eu tô meio triste de ver você ir, mas vai<br>ficar tudo bem desde que mantenhamos contato.\her
+      text: Você aprende muito se mudando pra um lugar novo, e é bom ter um novo começo!\! Eu tô meio triste de ver você ir, mas vai ficar tudo bem desde que mantenhamos contato.\her
 
 message_47:
       faceset: MainCharacters_Faraway
       faceindex: 13
-      text: Ai ai...\! Realmente tivemos várias memórias juntos.\! As vezes eu tenho saudades daqueles dias...\!<br>Só de bobeira...\! Comendo besteira...\! Bebendo suco...\kel
+      text: Ai ai...\! Realmente tivemos várias memórias juntos.\! Às vezes eu tenho saudades daqueles dias...\!<br>Só de bobeira...\! Comendo besteira...\! Bebendo suco...\kel
 
 message_48:
       faceset: MainCharacters_Faraway
@@ -146,7 +146,7 @@ message_48:
 message_49:
       faceset: MainCharacters_Faraway
       faceindex: 29
-      text: Vocês tinham tudo...\!<br>Uma TV grandona, todos os brinquedos novos, um grande piano...\!<br>e, é claro, nossa própria casa na árvore!\her
+      text: Vocês tinham tudo...\!<br>Uma TV grandona, todos os brinquedos novos, um grande piano...\! e, é claro, nossa própria casa na árvore!\her
 
 message_50:
       faceset: MainCharacters_Faraway

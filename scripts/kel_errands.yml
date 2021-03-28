@@ -28,13 +28,13 @@ message_4:
 message_5:
       faceset: MainCharacters_Faraway
       faceindex: 16
-      text: \kelMas...\! está...\! no menu, não está?
+      text: \kelMas...\! está...\! no cardápio, não está?
 
 message_6:
       text: \n<CARA DA PIZZA>Hmm...\! é...\! você está certo...\! Eu acho...
 
 message_7:
-      text: \n<CARA DA PIZZA>Ok! Eu vou ir buscar!
+      text: \n<CARA DA PIZZA>Ok! Eu vou ir buscar os sanduíches!
 
 #KEL turns to PLAYER.
 
@@ -46,7 +46,7 @@ message_8:
 message_9:
       faceset: MainCharacters_Faraway
       faceindex: 15
-      text: \kelVocê pensaria que é por alguma razão legal tipo que ele salvou um cachorrinho quando era criança ou algo assim...\! mas não...\!<br>Ele só gosta bastante de sanduíches!
+      text: \kelVocê pensaria que é por alguma razão legal tipo que ele salvou um cachorrinho quando era criança ou algo assim...\! mas não...\! Ele só gosta bastante de sanduíches!
 
 message_10:
       text: \n<CARA DA PIZZA>Ok, aqui está seu \c[3]SANDUÍCHE DO HERO\c[0].\! Por favor aproveite!
