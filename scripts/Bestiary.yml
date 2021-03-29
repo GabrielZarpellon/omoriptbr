@@ -1356,7 +1356,7 @@ Information:
 
 
   508:
-    name: SR.MANDIBARÃO
+    name: SR.MANDÍBARÃO
     background: {name: 'battlebacks_dw_jawsum', x: -90, y: 0}
     position: {x: 160, y: 525}
     character: {name: 'DW_jawsum', index: 1}
@@ -1386,7 +1386,7 @@ Information:
 
     text: |
         Os capangas fiéis e confiáveis
-        do SR. MANDIBARÃO.
+        do SR. MANDÍBARÃO.
         É bem provável que todos eles
         tenham assinado contratos 
         questionáveis com ele.

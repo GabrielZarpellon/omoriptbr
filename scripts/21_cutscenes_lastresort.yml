@@ -24,7 +24,7 @@ message_206:
       text: 5F
 
 message_207:
-      text: ESCRITÓRIO DO SR.MANDIBARÃO
+      text: ESCRITÓRIO DO SR. MANDÍBARÃO
 
 message_208:
       text: RECEPÇÃO
@@ -325,14 +325,14 @@ message_58:
 message_59:
       faceset: MainCharacters_DreamWorld
       faceindex: 6
-      text: \com[540]D-Desculpa, SR. MANDIBARÃO... surgiu um problema.\aub
+      text: \com[540]D-Desculpa, SR. MANDÍBARÃO... surgiu um problema.\aub
 
 #KEL jumps.
 
 message_60:
       faceset: MainCharacters_DreamWorld
       faceindex: 16
-      text: \sinv[1]\{\{OI, SR. MANDIBARÃO!!\kel
+      text: \sinv[1]\{\{OI, SR. MANDÍBARÃO!!\kel
 
 message_61:
       text: \}Droga! Você de novo, KEL?\! Eu pensei que tinham te enviado pra bem, bem longe daqui!\!<br>Eu não te disse pra não sair do seu lugar?\jaw
@@ -371,7 +371,7 @@ message_68:
 message_69:
       faceset: MainCharacters_DreamWorld
       faceindex: 8
-      text: Ai ai...\! Vamos, vamos lá.\!<br>O escritório do SR. MANDIBARÃO é subindo esse elevador.\aub
+      text: Ai ai...\! Vamos, vamos lá.\!<br>O escritório do SR. MANDÍBARÃO é subindo esse elevador.\aub
 
 message_72:
       faceset: MainCharacters_DreamWorld
@@ -395,7 +395,7 @@ message_80:
 message_81:
       faceset: MainCharacters_DreamWorld
       faceindex: 11
-      text: Oi, SR. MANDIBARÃO...\aub
+      text: Oi, SR. MANDÍBARÃO...\aub
 
 message_82:
       text: Ahem...\! Muito bem, crianças, deixe-me explicar isso pra vocês.\jaw
@@ -415,14 +415,14 @@ message_84:
 message_85:
       faceset: MainCharacters_DreamWorld
       faceindex: 31
-      text: Droga, ele tá certo! Nós não podemos quebrar uma promessa!\! <br>O que faremos, AUBREY?\kel
+      text: Droga, ele tá certo! Nós não podemos quebrar uma promessa!\! O que faremos, AUBREY?\kel
 
 #AUBREY walks up one step.
 
 message_86:
       faceset: MainCharacters_DreamWorld
       faceindex: 4
-      text: SR. MANDIBARÃO...\! É verdade que fizemos uma promessa pra você...\!<br>mas nós também prometemos um ao outro que achariamos nosso amigo BASIL juntos!\aub
+      text: SR. MANDÍBARÃO...\! É verdade que fizemos uma promessa pra você...\! mas nós também prometemos um ao outro que acharíamos nosso amigo BASIL juntos!\aub
 
 message_87:
       faceset: MainCharacters_DreamWorld
@@ -435,7 +435,7 @@ message_88:
 message_89:
       faceset: MainCharacters_DreamWorld
       faceindex: 2
-      text: Sério?\! Uau! Obrigada, SR. MANDIBARÃO. <br>Você é muito gentíl.\aub
+      text: Sério?\! Uau! Obrigada, SR. MANDÍBARÃO. <br>Você é muito gentíl.\aub
 
 message_90:
       faceset: MainCharacters_DreamWorld
@@ -474,14 +474,14 @@ message_96:
       text: HERO é, sem dúvidas, o melhor empregado que já contratei na minha vida.\jaw
 
 message_97:
-      text: Sua mera presença melhora o meu resultado de trabalho em 700%!\! <br>Eu seria um tolo de largar a barbatana de um cara como ele.\jaw
+      text: Sua mera presença melhora o meu resultado de trabalho em 700%!\! Eu seria um tolo de largar a barbatana de um cara como ele.\jaw
 
 #HERO comes in.
 
 message_98:
       faceset: MainCharacters_DreamWorld
       faceindex: 36
-      text: Ei, SR. MANDIBARÃO! Eu acabei de preparar o leilão de \c[3]TOFU\c[0] como você pediu!\her
+      text: Ei, SR. MANDÍBARÃO! Eu acabei de preparar o leilão de \c[3]TOFU\c[0] como você pediu!\her
 
 message_99:
       faceset: MainCharacters_DreamWorld
@@ -564,7 +564,7 @@ message_111:
 message_112:
       faceset: MainCharacters_DreamWorld
       faceindex: 43
-      text: SR. MANDIBARÃO...\! Me desculpa, mas...\!<br>Com todo respeito, o leilão de \c[3]TOFU\c[0] pode esperar!\her
+      text: SR. MANDÍBARÃO...\! Me desculpa, mas...\!<br>Com todo respeito, o leilão de \c[3]TOFU\c[0] pode esperar!\her
 
 message_113:
       text: Hmph...\! Você machucou meus sentimentos, HERO.\!<br>Você não esqueceu do nosso contrato, não é?\jaw
@@ -587,12 +587,12 @@ message_116:
 message_117:
       faceset: MainCharacters_DreamWorld
       faceindex: 43
-      text: Eu não escuto a AUBREY por causa de um contrato...\! <br>Eu escuto ela por que ela é minha amiga!\her
+      text: Eu não escuto a AUBREY por causa de um contrato...\! <br>Eu escuto ela porque ela é minha amiga!\her
 
 message_118:
       faceset: MainCharacters_DreamWorld
       faceindex: 44
-      text: Me desculpe, SR. MANDIBARÃO...\!<br>Meus amigos são mais importantes que um mísero pedaço de papel.\her
+      text: Me desculpe, SR. MANDÍBARÃO...\!<br>Meus amigos são mais importantes que um mísero pedaço de papel.\her
 
 message_119:
       text: \quake[1]Mísero...\! pedaço...\! de papel?\quake[0]\jaw
@@ -727,7 +727,7 @@ message_162:
 message_163:
       faceset: MainCharacters_DreamWorld
       faceindex: 43
-      text: SR. MANDIBARÃO...\! Antes de sairmos...\!<br>Eu só quero dizer que... \her
+      text: SR. MANDÍBARÃO...\! Antes de sairmos...\!<br>Eu só quero dizer que... \her
 
 message_164:
       faceset: MainCharacters_DreamWorld
@@ -745,7 +745,7 @@ message_166:
 message_167:
       faceset: MainCharacters_DreamWorld
       faceindex: 36
-      text: Obrigado de novo, SR. MANDIBARÃO...\her
+      text: Obrigado de novo, SR. MANDÍBARÃO...\her
 
 #HERO turns to party.
 
@@ -997,7 +997,7 @@ message_306:
 message_310:
       faceset: MainCharacters_DreamWorld
       faceindex: 37
-      text: \herAh, é! Antes que eu esqueça...\! OMORI, pega isso!\! O SR. MANDIBARÃO deu pra mim pra eu poder andar pelo \c[11]ÚLTIMO RESORT\c[0] mais rápido.
+      text: \herAh, é! Antes que eu esqueça...\! OMORI, pega isso!\! O SR. MANDÍBARÃO deu pra mim pra eu poder andar pelo \c[11]ÚLTIMO RESORT\c[0] mais rápido.
 
 message_311:
       text: HERO te deu um \c[4]CARTÃO V.I.P.\c[0]!\! Uau...
