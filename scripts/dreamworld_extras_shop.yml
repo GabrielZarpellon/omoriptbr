@@ -643,7 +643,7 @@ message_300:
 # HOMEM GOSMAS
 
 message_350:
-      text: \n<HOMEM GOSMA>Parece que você quer um pouco de \c[3]LEITE\c[0] fresco, fresquinho dos \c[11]CURRAIS DE BOI-PEIXES\c[0]!\! É o \c[3]LEITE\c[0] mais fresco fresquinho e vai ser bem refrescante por apenas 500 CONCHAS!\$
+      text: \n<HOMEM GOSMA>Parece que você quer um pouco de \c[3]LEITE\c[0] fresco, fresquinho dos \c[11]CURRAIS DE BOI-PEIXES\c[0]!\!<br><br> É o \c[3]LEITE\c[0] mais fresco fresquinho e vai ser bem refrescante por apenas 500 CONCHAS!\$
 
 message_351:
       text: \n<HOMEM GOSMA>É o mais fresco!
@@ -655,7 +655,7 @@ message_353:
       text: \n<HOMEM GOSMA>Incrível, obrigado.\! Tá logo ali se você quiser usar.
 
 message_354:
-      text: \n<HOMEM GOSMA>Eu tenho um \c[3]REFRI\c[0] muito, muito único, feito dos melhores \c[3]PÊSSEGOS BUNDUDOS\c[0].\! Estou falado do refri conhecido mundialmente, o \c[3]REFRI BUMBUM-PÊSSEGO\c[0], agora é seu por 600 CONCHAS!\$
+      text: \n<HOMEM GOSMA>Eu tenho um \c[3]REFRI\c[0] muito, muito único, feito dos melhores \c[3]PÊSSEGOS BUNDUDOS\c[0].\!<br><br> Estou falando do refri conhecido mundialmente, o \c[3]REFRI BUMBUM-PÊSSEGO\c[0], agora é seu por 600 CONCHAS!\$
 
 message_355:
       text: \n<HOMEM GOSMA>Você vai amar o sabor.\! Você acha que tem mais gosto de bunda ou de pêssego?
