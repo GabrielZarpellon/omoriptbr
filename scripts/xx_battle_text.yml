@@ -1508,7 +1508,7 @@ message_290:
 # CALM DOWN reminder.
 message_291:
    text: >
-    \>???: \<Firme seu batimento cardíaco...\!<br>Não tenha medo.\! Não é tão assustador quanto pensa.
+    \>???: \<Firme seu batimento cardíaco...\!<br>Não tenha medo.\!<br>Não é tão assustador quanto pensa.
 
 # Encouragement
 message_292:
