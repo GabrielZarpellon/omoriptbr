@@ -335,7 +335,7 @@ message_60:
       text: \sinv[1]\{\{OI, SR. MANDÍBARÃO!!\kel
 
 message_61:
-      text: \}Droga! Você de novo, KEL?\! Eu pensei que tinham te enviado pra bem, bem longe daqui!\!<br>Eu não te disse pra não sair do seu lugar?\jaw
+      text: \n<SR.MANDÍBARÃO>\}Droga! Você de novo, KEL?\! Eu pensei que tinham te enviado pra bem, bem longe daqui!\!<br>Eu não te disse pra não sair do seu lugar?
 
 message_62:
       faceset: MainCharacters_DreamWorld
@@ -343,7 +343,7 @@ message_62:
       text: Bem, eu vim todo o caminho até aqui pra te contar...<br>que eu me demito!\! E eu tô levando a AUBREY comingo!\kel
 
 message_63:
-      text: \}Bem engraçado.\! Meu escritório, KEL.\! Agora.\jaw
+      text: \n<SR.MANDÍBARÃO>\}Bem engraçado.\! Meu escritório, KEL.\! Agora.
 
 message_64:
       faceset: MainCharacters_DreamWorld
@@ -388,7 +388,7 @@ message_72:
 #MR. JAWSUM turns to party.
 
 message_80:
-      text: Ah... Você finalmente tá aqui.\jaw
+      text: \n<SR.MANDÍBARÃO>Ah... Você finalmente tá aqui.
 
 #Camera pans to MR. JAWSUM.
 
@@ -398,17 +398,17 @@ message_81:
       text: Oi, SR. MANDÍBARÃO...\aub
 
 message_82:
-      text: Ahem...\! Muito bem, crianças, deixe-me explicar isso pra vocês.\jaw
+      text: \n<SR.MANDÍBARÃO>Ahem...\! Muito bem, crianças, deixe-me explicar isso pra vocês.
 
 #MR. JAWSUM pulls out a contract.
 
 message_83:
-      text: Como o contrato afirma:\! Você concordou trabalhar pra mim, pra melhor ou pior, sem pagamento, pelo resto da sua vida.\jaw
+      text: \n<SR.MANDÍBARÃO>Como o contrato afirma:\! Você concordou trabalhar pra mim, pra melhor ou pior, sem pagamento, pelo resto da sua vida.
 
 #MR. JAWSUM puts away the contract.
 
 message_84:
-      text: Agora, um contrato é uma promessa...<br>\!e você não iria quebrar uma promessa, não é?\jaw
+      text: \n<SR.MANDÍBARÃO>Agora, um contrato é uma promessa...<br>\!e você não iria quebrar uma promessa, não é?
 
 #KEL looks at AUBREY.
 
@@ -430,7 +430,7 @@ message_87:
       text: Uh... É, é isso aí!\! <br>Isso significa que você tem que deixar a gente ir!\kel
 
 message_88:
-      text: Hmm... Acho que posso respeitar isso.\! Uma promessa é uma promessa.\! AUBREY, eu te deixo sair...\! mas você tem que levar o KEL com você.\jaw
+      text: \n<SR.MANDÍBARÃO>Hmm... Acho que posso respeitar isso.\! Uma promessa é uma promessa.\! AUBREY, eu te deixo sair...\! mas você tem que levar o KEL com você.
 
 message_89:
       faceset: MainCharacters_DreamWorld
@@ -457,24 +457,24 @@ message_92:
       text: Ah, é! A gente pode levar o meu irmão HERO com a gente?\kel
 
 message_93:
-      text: ...\jaw
+      text: \n<SR.MANDÍBARÃO>...
 
 message_94:
-      text: Heh...\! Você é uma criança engraçada, KEL.\jaw
+      text: \n<SR.MANDÍBARÃO>Heh...\! Você é uma criança engraçada, KEL.
 
 message_95:
-      text: Você quer que eu te dê o HERO!?\jaw
+      text: \n<SR.MANDÍBARÃO>Você quer que eu te dê o HERO!?
 
 #add JAWHAWHAW
 
 message_137:
-      text: \Com[2]\{\quake[1]ISSO É RICO!!\! RICO, OUVIU!!!\jaw
+      text: \n<SR.MANDÍBARÃO>\Com[2]\{\quake[1]ISSO É RICO!!\! RICO, OUVIU!!!
 
 message_96:
-      text: HERO é, sem dúvidas, o melhor empregado que já contratei na minha vida.\jaw
+      text: \n<SR.MANDÍBARÃO>HERO é, sem dúvidas, o melhor empregado que já contratei na minha vida.
 
 message_97:
-      text: Sua mera presença melhora o meu resultado de trabalho em 700%!\! Eu seria um tolo de largar a barbatana de um cara como ele.\jaw
+      text: \n<SR.MANDÍBARÃO>Sua mera presença melhora o meu resultado de trabalho em 700%!\! Eu seria um tolo de largar a barbatana de um cara como ele.
 
 #HERO comes in.
 
@@ -501,13 +501,13 @@ message_100:
 #ADD JAWHAWHAW
 
 message_101:
-      text: \{VIRAM SÓ, CRIANÇAS!?\jaw
+      text: \n<SR.MANDÍBARÃO>\{VIRAM SÓ, CRIANÇAS!?
 
 message_135:
-      text: Incrível trabalho, HERO!\! Simplesmente incrível!\! <br>Eu talvez até considere te pagar um dia desses...\jaw
+      text: \n<SR.MANDÍBARÃO>Incrível trabalho, HERO!\! Simplesmente incrível!\! <br>Eu talvez até considere te pagar um dia desses...
 
 message_136:
-      text: \jaw\Com[2]\Sinv[2]\{\{JAWHAW\{HAWHAW\{HAWHAW!!\Sinv[0]
+      text: \n<SR.MANDÍBARÃO>\Com[2]\Sinv[2]\{\{JAWHAW\{HAWHAW\{HAWHAW!!\Sinv[0]
 
 message_102:
       faceset: MainCharacters_DreamWorld
@@ -556,10 +556,10 @@ message_109:
 #HERO attempts to walk out.
 
 message_110:
-      text: Opa calma aí, HERO. Não tão rápido!\!<br>Você ainda tem um trabalho inacabado pra fazer.\jaw
+      text: \n<SR.MANDÍBARÃO>Opa calma aí, HERO. Não tão rápido!\!<br>Você ainda tem um trabalho inacabado pra fazer.
 
 message_111:
-      text: Você ainda tem que inaugurar os VIPs pro leilão hoje!\jaw
+      text: \n<SR.MANDÍBARÃO>Você ainda tem que inaugurar os VIPs pro leilão hoje!
 
 message_112:
       faceset: MainCharacters_DreamWorld
@@ -567,7 +567,7 @@ message_112:
       text: SR. MANDÍBARÃO...\! Me desculpa, mas...\!<br>Com todo respeito, o leilão de \c[3]TOFU\c[0] pode esperar!\her
 
 message_113:
-      text: Hmph...\! Você machucou meus sentimentos, HERO.\!<br>Você não esqueceu do nosso contrato, não é?\jaw
+      text: \n<SR.MANDÍBARÃO>Hmph...\! Você machucou meus sentimentos, HERO.\!<br>Você não esqueceu do nosso contrato, não é?
 
 message_114:
       faceset: MainCharacters_DreamWorld
@@ -580,7 +580,7 @@ message_115:
       text: Grrr... Esquece!\! O BASIL precisa da gente! <br>Temos que ir, HERO!\aub
 
 message_116:
-      text: Não escute ela, HERO! Por que você iria!?\! <br>Você nem assinou um contrato com ela!\jaw
+      text: \n<SR.MANDÍBARÃO>Não escute ela, HERO! Por que você iria!?\! <br>Você nem assinou um contrato com ela!
 
 #HERO walks one step to MR. JAWSUM.
 
@@ -598,18 +598,18 @@ message_119:
       text: \quake[1]Mísero...\! pedaço...\! de papel?\quake[0]\jaw
 
 message_120:
-      text: Você me desrespeita, garoto.\! Eu cuido de você... um jovemzinho sem experiência... e te transformo no empregado supremo!\jaw
+      text: \n<SR.MANDÍBARÃO>Você me desrespeita, garoto.\! Eu cuido de você... um jovenzinho sem experiência... e te transformo no empregado supremo!
 
 message_121:
-      text: Você não faria nada se não fosse por mim!\jaw
+      text: \n<SR.MANDÍBARÃO>Você não faria nada se não fosse por mim!
 
 #MR. JAWSUM snaps fingers. Doors open behind him and GATOR GUYS surround party.
 
 message_122:
-      text: A punição por quebrar o contrato...\quake[1]\!<br>\{É A MORTE!!\jaw
+      text: \n<SR.MANDÍBARÃO>A punição por quebrar o contrato...\quake[1]\!<br>\{É A MORTE!!
 
 message_123:
-      text: Eu vou te ensinar a respeitar seus superiores!\jaw
+      text: \n<SR.MANDÍBARÃO>Eu vou te ensinar a respeitar seus superiores!
 
 # =========================================================================================
 # Cutscene: Pluto's Return
@@ -618,18 +618,18 @@ message_123:
 #Trigger: Defeat Mr. Jawsum.
 
 message_124:
-      text: Isso já basta!\!<br>Afastem-se, homens. Não chegaremos a lugar nenhum assim.\jaw
+      text: \n<SR.MANDÍBARÃO>Isso já basta!\!<br>Afastem-se, homens. Não chegaremos a lugar nenhum assim.
 
 #GATOR GUYS step back.
 
 message_125:
-      text: Hmph...\! Devo admitir...\! Vocês são crianças bem fortes.\! <br>Mas isso não importa agora.\jaw
+      text: \n<SR.MANDÍBARÃO>Hmph...\! Devo admitir...\! Vocês são crianças bem fortes.\! <br>Mas isso não importa agora.
 
 message_126:
-      text: HERO não é o único empregado supremo na força de trabalho.\! <br>Eu tenho...\! mais um.\jaw
+      text: \n<SR.MANDÍBARÃO>HERO não é o único empregado supremo na força de trabalho.\! <br>Eu tenho...\! mais um.
 
 message_127:
-      text: Você já pode entrar...\! PLUTÃO.\jaw
+      text: \n<SR.MANDÍBARÃO>Você já pode entrar...\! PLUTÃO.
 
 #PLUTO walks in and walks toward party.
 
@@ -641,23 +641,23 @@ message_128:
 #PLUTO walks one step forward.
 
 message_129:
-      text: ...\! Desculpe, KEL.\plu
+      text: \n<PLUTÃO>...\! Desculpe, KEL.
 
 message_130:
-      text: Isso não é nada pessoal.\! <br>São só negócios.\plu
+      text: \n<PLUTÃO>Isso não é nada pessoal.\! <br>São só negócios.\plu
 
 message_131:
-      text: Vamos ver como vocês lutam...<br>\!contra a força de um ex-planeta.\!<br>PLUTÃO!\! Mostre a essas crianças seu poder verdadeiro!\jaw
+      text: \n<SR.MANDÍBARÃO>Vamos ver como vocês lutam...<br>\!contra a força de um ex-planeta.\!<br>PLUTÃO!\! Mostre a essas crianças seu poder verdadeiro!
 
 #PLUTO turns to MR. JAWSUM.
 
 message_132:
-      text: É pra já, senhor.\plu
+      text: \n<PLUTÃO>É pra já, senhor.
 
 #PLUTO turns to party.
 
 message_133:
-      text: Me desculpem, pessoal...\!<br>Mas esse é o fim da estrada pra vocês.\plu
+      text: \n<PLUTÃO>Me desculpem, pessoal...\!<br>Mas esse é o fim da estrada pra vocês.
 
 #PLUTO flexes and buffs up.
 
@@ -668,41 +668,41 @@ message_133:
 #Trigger: Defeat Pluto.
 
 message_150:
-      text: Huff... huff...\! Todos vocês ficaram muito fortes.\! <br>Huff... \! Eu estou... tão orgulhoso de vocês.\plu
+      text: \n<PLUTÃO>Huff... huff...\! Todos vocês ficaram muito fortes.\! <br>Huff... \! Eu estou... tão orgulhoso de vocês.
 
 message_151:
-      text: Mas...\! Ainda sim... Eu tenho um trabalho a fazer.<br>E eu planejo acabá-lo.\plu
+      text: \n<PLUTÃO>Mas...\! Ainda sim... Eu tenho um trabalho a fazer.<br>E eu planejo acabá-lo.
 
 message_152:
-      text: Preparem-se, crianças...\!<br>\{ESSA É A DEFINIÇÃO DE PODER!!!\plu
+      text: \n<PLUTÃO>Preparem-se, crianças...\!<br>\{ESSA É A DEFINIÇÃO DE PODER!!!
 
 message_173:
-      text: \quake[1]Quando...\!\quake[1] Eu...\!\quake[1] Faço...\!\quake[1] Flexão...\!\plu
+      text: \n<PLUTÃO>\quake[1]Quando...\!\quake[1] Eu...\!\quake[1] Faço...\!\quake[1] Flexão...\!
 
 #PLUTO begins charging up.
 #Screen shakes.
 
 message_153:
-      text: \Com[2]\quake[1]\{\{ME SINTO FOR\{TÃÃÃ\{OOOOO!!!\plu
+      text: \n<PLUTÃO>\Com[2]\quake[1]\{\{ME SINTO FOR\{TÃÃÃ\{OOOOO!!!
 
 #Screen shakes again.
 
 message_154:
-      text: Tá bom, tá bom... Já deu, já deu!\jaw
+      text: \n<SR.MANDÍBARÃO>Tá bom, tá bom... Já deu, já deu!
 
 message_155:
-      text: Ai ai...\! Calma, PLUTÃO.<br>\!Eu já tô perdendo um empregado supremo hoje.\!<br>Eu não quero perder dois!\jaw
+      text: \n<SR.MANDÍBARÃO>Ai ai...\! Calma, PLUTÃO.<br>\!Eu já tô perdendo um empregado supremo hoje.\!<br>Eu não quero perder dois!
 
 message_156:
-      text: Mas senhor, eu consigo derrotá-los!<br>Só me dê mais um pouco de tempo.\plu
+      text: \n<PLUTÃO>Mas senhor, eu consigo derrotá-los!<br>Só me dê mais um pouco de tempo.
 
 message_157:
-      text: Não se preoucupe, PLUTÃO.<br>Eu não vou arriscar mais recursos hoje.\jaw
+      text: \n<SR.MANDÍBARÃO>Não se preoucupe, PLUTÃO.<br>Eu não vou arriscar mais recursos hoje.
 
 #MR. JAWSUM turns around.
 
 message_158:
-      text: Só saia daqui!<br>\!Vocês não eram nada além de uma dor na minha cauda!\jaw
+      text: \n<SR.MANDÍBARÃO>Só saia daqui!<br>\!Vocês não eram nada além de uma dor na minha cauda!
 
 #HERO walks up.
 
@@ -712,15 +712,15 @@ message_159:
       text: O-Obrigado, senhor.\! Você não vai se arrepender...\her
 
 message_160:
-      text: Hmph...\! É, é.\jaw
+      text: \n<SR.MANDÍBARÃO>Hmph...\! É, é.
 
 #PLAYER attempts to walk out.
 
 message_161:
-      text: ...\jaw
+      text: \n<SR.MANDÍBARÃO>...
 
 message_162:
-      text: Não tem nada que eu possa fazer pra você ficar, né?\! <br>É uma pena.\! Você poderia ter alcançado seu potencial verdadeiro aqui.\jaw
+      text: \n<SR.MANDÍBARÃO>Não tem nada que eu possa fazer pra você ficar, né?\! <br>É uma pena.\! Você poderia ter alcançado seu potencial verdadeiro aqui.
 
 #HERO takes another step forward.
 
@@ -735,12 +735,12 @@ message_164:
       text: Mesmo depois de sequestrar todos os meus amigos e enganar a gente a assinar um contrato ambíguo...\! Eu ainda acho que você é um cara bem decente.\her
 
 message_165:
-      text: HERO...\! Isso pode ser uma surpresa pra você, mas...\!<br>Eu sempre pensei de você como o filho que eu nunca tive.\!<br>Eu sei que você irá fazer grandes coisas lá fora.\jaw
+      text: \n<SR.MANDÍBARÃO>HERO...\! Isso pode ser uma surpresa pra você, mas...\!<br>Eu sempre pensei de você como o filho que eu nunca tive.\!<br>Eu sei que você irá fazer grandes coisas lá fora.
 
 #MR. JAWSUM takes out the contracts and eats them.
 
 message_166:
-      text: \{\quake[1]AGORA, VAZEM DAQUI!!\!\}<br>Não veem que estou ocupado!?\jaw
+      text: \n<SR.MANDÍBARÃO>\{\quake[1]AGORA, VAZEM DAQUI!!\!\}<br>Não veem que estou ocupado!?
 
 message_167:
       faceset: MainCharacters_DreamWorld
@@ -770,7 +770,7 @@ message_171:
       text: Espere por nós, BASIL! Nós vamos te encontrar daqui a pouco.\aub
 
 message_172:
-      text: Agora essa é a dedicação que eu gosto de ver...\!<br>Peguem eles, suas crianças birutas.\jaw
+      text: \n<SR.MANDÍBARÃO>Agora essa é a dedicação que eu gosto de ver...\!<br>Peguem eles, suas crianças birutas.
 
 
 #----- MARI IN THE elevator
@@ -967,7 +967,7 @@ message_237:
 message_238:
       faceset: MainCharacters_DreamWorld
       faceindex: 39
-      text: \herHmm...\! Por que não começamos procurando pelo \c[11]POÇO SEM FUNDO\c[0]?\! Dá pra chegar lá bem facil de táxi.\! Tem sempre um na frente do \c[11]ÚLTIMO RESORT\c[0]!
+      text: \herHmm...\! Por que não começamos procurando pelo \c[11]POÇO SEM FUNDO\c[0]?\! Dá pra chegar lá bem fácil de táxi.\! Tem sempre um na frente do \c[11]ÚLTIMO RESORT\c[0]!
 
 #Go into inventory to see BAD DRAWING picture.
 
