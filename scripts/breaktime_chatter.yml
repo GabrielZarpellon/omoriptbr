@@ -604,7 +604,7 @@ message_104:
 message_105:
     faceset: MainCharacter_Mari
     faceindex: 6
-    text: \marOh...\! Nada fora do ordinário.\! eu digo “olá” e tento conversar com as pessoas que passam por aqui...
+    text: \marOh...\! Nada fora do ordinário.\! Eu digo “olá” e tento conversar com as pessoas que passam por aqui...
 
 message_106:
     faceset: MainCharacters_DreamWorld
@@ -665,7 +665,7 @@ message_116:
 message_117:
     faceset: MainCharacters_DreamWorld
     faceindex: 19
-    text: \kel\com[2]\sinv[1]Que chato!\sinv[0] Next!
+    text: \kel\com[2]\sinv[1]Que chato!\sinv[0] Próximo!
 
 #------------------------------------------------------------------------------------------------------------------------
 
