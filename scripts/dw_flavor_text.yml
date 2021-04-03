@@ -1268,7 +1268,7 @@ message_835:
       text: Páginas de pesquisa, escritas em uma língua que você não sabe ler.
 
 message_836:
-      text: Uma mistura duvidosa, é melhor não tocar nelas.
+      text: Uma mistura duvidosa, é melhor não tocar nela.
 
 message_837:
       text: Plantas usadas para pesquisa.
@@ -1323,10 +1323,10 @@ message_852:
 #Molly
 
 message_855:
-      text: Disperdício.
+      text: Lixo.
 
 message_856:
-      text: Disperdício nuclear.
+      text: Lixo nuclear.
 
 message_857:
       text: Ferramentas para... pesquisa.
@@ -1465,7 +1465,7 @@ message_940:
 #MARINA office
 
 message_941:
-      text: Planos de um experimento bem sucedido.
+      text: Planos de um experimento bem-sucedido.
 
 message_942:
       text: Uma caixa cheia de geleca.
@@ -1477,7 +1477,7 @@ message_944:
       text: Um computador quebrado.
 
 message_945:
-      text: Planos de um experimento mal sucedido.
+      text: Planos de um experimento malsucedido.
 
 message_946:
       text: Restos de um velho escritório.
