@@ -409,16 +409,16 @@ message_111:
 
 
 message_112:
-    text: \n<JOVEM COGUMELO>Finalmente, estou livre!\! Excelente, excelente, excelente...
+        text: \n<JOVEM COGUMELO>Finalmente, estou livre!\! Excelente, excelente, excelente...
 
 message_113:
-    text: \n<YOUNG SHROOM>Pegue isso! É um presente!
+    text: \n<JOVEM COGUMELO>Pegue isso! É um presente!
 
 message_114:
     text: Você recebeu um \c[5]DENTE-DE-LEÃO\c[0]!
 
 message_115:
-    text: \n<YOUNG SHROOM>Excelente! Excelente, excelente, excelente...
+    text: \n<JOVEM COGUMELO>Excelente! Excelente, excelente, excelente...
 #------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #Aubrey Loot --- \n<LARGE FACE>
