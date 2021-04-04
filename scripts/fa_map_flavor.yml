@@ -6,17 +6,16 @@
 
 #For Sale Sign:
 message_1:
-      text: Uma placa escrita \"À VENDA\" com um adesivo grande e vermelho escrito \"VENDIDA\".\!<br>Sua casa foi vendida.\!<br>Em três dias, você se mudará para um lugar novo.
+      text: Uma placa escrita \"À VENDA\" com um adesivo vermelho escrito \"VENDIDA\".\!<br>Sua casa foi vendida. <br>Em três dias, você se mudará pra um lugar novo.
 
 message_2:
-      text: Uma placa escrita \"À VENDA\" com um adesivo grande e vermelho escrito \"VENDIDA\".\!<br>Sua casa foi vendida.\!<br>Em dois dias, você se mudará para um lugar novo.
+      text: Uma placa escrita \"À VENDA\" com um adesivo vermelho escrito \"VENDIDA\".\!<br>Sua casa foi vendida. <br>Em dois dias, você se mudará pra um lugar novo.
 
 message_3:
-      text: Uma placa escrita \"À VENDA\" com um adesivo grande e vermelho escrito \"VENDIDA\".\!<br>Sua casa foi vendida.\!<br>Amanhã, você se mudará para um lugar novo.\!<br>...\!<br>Você vai sentir saudade daqui.
+      text: Uma placa escrita \"À VENDA\" com um adesivo vermelho escrito \"VENDIDA\".\!<br>Sua casa foi vendida. <br>Amanhã, você se mudará pra um lugar novo.\!<br>...\!<br>Você vai sentir saudades daqui.
 
 message_4:
-      text: Uma placa escrita \"À VENDA\" com um adesivo grande e vermelho escrito \"VENDIDA\".\!<br>Sua casa foi vendida.\!<br>Hoje, você se mudará para um lugar novo.
-
+      text: Uma placa escrita \"À VENDA\" com um adesivo vermelho escrito \"VENDIDA\".\!<br>Sua casa foi vendida. <br>Hoje, você se mudará pra um lugar novo.
 #Mailbox:
 message_5:
       text: Uma clássica caixa de correio branca.
