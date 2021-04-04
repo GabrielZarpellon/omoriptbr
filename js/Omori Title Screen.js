@@ -230,7 +230,7 @@ Scene_OmoriTitleScreen.prototype.createVersionText = function() {
   let padding = 4;
   this._gameVersion.position.set(0,0);
   this._gameVersion.bitmap.fontSize = 24;
-  this._gameVersion.bitmap.drawText("V1.0.4", padding ,padding , this._gameVersion.bitmap.width, 16, "left");
+  this._gameVersion.bitmap.drawText("V1.0.7", padding ,padding , this._gameVersion.bitmap.width, 16, "left");
 }
 
 //=============================================================================
