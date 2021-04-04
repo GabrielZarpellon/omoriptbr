@@ -21,7 +21,7 @@ message_753:
     text: \aubAqui está, SR. BROTOPEIRA.
 
 message_754:
-    text: \n<BROTOPEIRA>Oh...\! \com[2]Oh, minha nossa!\! Não acredito no que vejo...\! Esses são ingressos para a primeira fila!\! Vocês...\! Vocês devem ter feito grandes sacrifícios para estarem aqui hoje...\! Eu vos aplaudo.
+    text: \n<BROTOPEIRA>Oh...\! \com[2]Oh, minha nossa!\! Não acredito no que vejo...\! Esses são ingressos para a primeira fila!\! Vocês...\! Devem ter feito grandes sacrifícios para estarem aqui...\! Eu vos aplaudo.
 
 message_755:
     text: \n<BROTOPEIRA>Perdoem-me por chamá-los de estranhos mais cedo.\!<br>Vendo novamente, vocês quatro são as BROTOPEIRAS mais normais que eu já vi.
@@ -111,7 +111,7 @@ message_801:
 # === SW Garden Statue ===
 
 message_802:
-      text: \n<ESTÁTUA IMPRESSIONANTE>Você disse, "ESQUECE."
+      text: \n<ESTÁTUA IMPRESSIONANTE>Você disse, "DEIXA PRA LÁ."
 
 # === Vast Forest ===
 
@@ -238,7 +238,7 @@ message_851:
 message_860:
       faceset: MainCharacters_Faraway
       faceindex: 24
-      text: Mas vendo o lado bom, pelo menos temos o \c[4]ÁLBUM DE FOTOS\c[0] do BASIL agora... e só nos custou metade do dia também!\! Isso que é trabalho em equipe!\! Que cê acha de um "toca aqui", \n[8]?\kel
+      text: Mas pelo lado bom, ao menos temos o \c[4]ÁLBUM DE FOTOS\c[0] do BASIL agora... e só nos custou metade do dia!\! Isso que é trabalho em equipe!\! Que tal um "toca aqui", \n[8]?\kel
 
 message_861:
       faceset: MainCharacters_Faraway
@@ -978,7 +978,7 @@ message_578:
     text: \n<BROTOPEIRA VIRTUOSA>Sabe... Nós BROTOPEIRAS ficamos muito sonolentas escutando música...\! então como você pode imaginar, o coro fica se botando pra dormir!
 
 message_579:
-    text: \n<BROTOPEIRA VIRTUOSA>Ai ai... Temo que teremos que recorrer a metodos...\!<br>\quake[1]alternativos...\!\quake[0] para mantê-los acordados...
+    text: \n<BROTOPEIRA VIRTUOSA>Ai ai... Temo que teremos que recorrer a métodos...\!<br>\quake[1]alternativos...\!\quake[0] para mantê-los acordados...
 
 message_580:
     faceset: MainCharacters_DreamWorld
@@ -1192,7 +1192,7 @@ message_1:
     text: \n<ALEX O ESTIMADO>Huh?\! Você quer saber a senha?\!<br>Oh não...\! Desculpe...\! Eu não deveria contar pra ninguém...
 
 message_2:
-    text: \n<ALEX O ESTIMADO>Huh? Você realmente precisa?\! Tipo, você realmente, realmente precisa??\!<br>Tipo... realmente, realmente, realmente precisa?<br>Tipo realmente, realmente, realmente, realmente, realmente, realmente, realmente precisa disso?
+    text: \n<ALEX O ESTIMADO>Huh? Você realmente precisa?\! Tipo, você realmente, realmente precisa??\!<br>Tipo... realmente, realmente, realmente precisa?\! Tipo realmente, realmente, realmente, realmente, realmente, realmente, realmente precisa disso?
 
 message_3:
     text: \n<ALEX O ESTIMADO>...\! Hmm...\! Hmmmmmm...\!<br>Acho que eu não tenho escolha... Mas me prometa que não vai contar pra ninguém!<br>\Com[2]\{PROMETA DE DEDINHO!
@@ -1209,10 +1209,10 @@ message_400:
     text: \n<BRIAN O DISTINTO>Existem quatro senhas que devem ser ditas para a estátua da SWEETHEART pra revelar o túnel secreto.<br><br>Naturalmente, como um dos escolhidos da elite, me foi dada a responsabilidade de guardar a segunda das quatro!
 
 message_6:
-    text: \n<BRIAN O DISTINTO>Você quer saber a senha, é?\!<br>\com[2]Não tão rápido, amigo.\!<br>Eu preciso dizer... <br>Você é terrivelmente alto pra uma BROTOPEIRA...
+    text: \n<BRIAN O DISTINTO>Você quer saber a senha, é?\com[2]Não tão rápido, amigo.\!<br>Eu preciso dizer, você é muito alto pra uma BROTOPEIRA...
 
 message_7:
-    text: \n<BRIAN O DISTINTO>\com[2]Como eu vou saber que você é uma de nós, criaturas altamente inteligentes e majestosas?\! Você realmente acha que eu passaria a senha pra um espião em potencial?<br>Ha!\! Não me faça rir!
+    text: \n<BRIAN O DISTINTO>\com[2]Como eu vou saber que você é uma de nós, criaturas inteligentes e majestosas?\! Você acha que eu passaria a senha pra um espião? \!Ha!\! Não me faça rir!
 
 message_8:
     text: \n<BRIAN O DISTINTO>Se você tem tanta certeza que é uma BROTOPEIRA, por que não me prova?\! Eu te digo a senha... se você conseguir adivinhar o que eu estou pensando nesse momento!
@@ -1288,13 +1288,13 @@ message_403:
     text: \n<HELEN A CALAMITOSA>Existem quatro senhas que devem ser ditas para a estátua da SWEETHEART pra revelar o túnel secreto.<br><br>Naturalmente, como um dos escolhidos da elite, me foi dada a responsabilidade de guardar a última das quatro!
 
 message_21:
-    text: \n<HELEN A CALAMITOSA>Mas, ugh!\! Eu deveria guardar essa senha super secreta e tal, né? Mas tipo, ela é sobre comida, e agora eu fico pensando em comida o tempo todo...<br>Isso me deixa tão faminta, que eu comecei a mastigar a grama pra me saciar! Pode acreditar nisso!? Eles deviam começar a providenciar comida pros guardas daqui!
+    text: \n<HELEN A CALAMITOSA>Mas, ugh!\! Eu deveria guardar essa senha super secreta e tal, né? Mas, tipo, ela é sobre comida, e agora eu fico pensando em comida o tempo todo...<br>Isso me deixa tão faminta, que eu comecei a mastigar a grama pra me saciar! Pode acreditar nisso!? Eles deviam começar a providenciar comida pros guardas daqui!
 
 message_22:
-    text: \n<HELEN A CALAMITOSA>Que tipo de senha é essa!? "RECHEADA"?<br>Que nem aqueles apelidos idiotas que aquele cara azul estranho ficava chamando a SWEETHEART!?<br>\com[2]Pelo amoooor!\! Isso não é segredo algum!<br>Qualquer um poderia adivinhar isso! Eles sempre ficavam andando juntos que nem um casalzinho,<br>chamando um ao outro de apelidos assim...<br>Dizendo coisas tipo "Por que você não me pediu em casamento ainda?" e "Me desculpe. Meus amigos não aprovam nosso relacionamento..." o tempo todo...<br>Ugh! Tão irritante!
+    text: \n<HELEN A CALAMITOSA>E então, que tipo de senha é essa de qualquer forma? "RECHEADA"?\! Que nem aqueles apelidos idiotas que aquele cara azul estranho ficava chamando a SWEETHEART?<br>\com[2]Pelo amoooor!\! Isso não é segredo algum!<br>Qualquer um poderia adivinhar isso!\!Eles sempre ficavam andando juntos que nem um casalzinho, chamando um ao outro de apelidos...<br>Dizendo coisas tipo "Por que você não me pediu em casamento ainda?" ou "Me desculpe, meus amigos não aprovam nosso relacionamento..." o tempo todo... Ugh! Tão irritante!
 
 message_23:
-    text: \n<HELEN A CALAMITOSA>Mas, tanto faz...<br>Eu ainda estou presa aqui guardando as senhas com outros três guardas... <br>Esses caras não conseguiriam manter um segredo mesmo que suas vidas dependessem disso!<br>Hmph! É isso mesmo! Pode até ter pena de mim! <br>Como se eu me importasse! <br>Aqui estou eu, presa sozinha nesse cantinho do jardim, guardando a palavra "RECHEADA" entre tantas outras palavras! CARAMBOLAS!
+    text: \n<HELEN A CALAMITOSA>Mas, tanto faz...\!<br>Eu ainda estou presa aqui guardando as senhas com outros três guardas...\! Esses caras não conseguiriam manter um segredo mesmo que suas vidas dependessem disso!\!<br>Hmph! É isso mesmo! Pode até ter pena de mim, como se eu me importasse!\! Aqui estou eu, sozinha nesse cantinho do jardim, guardando a palavra "RECHEADA" entre tantas outras palavras!\! CARAMBOLAS!
 
 #PASSWORD STATUE PART 1
 
@@ -1313,30 +1313,30 @@ message_26:
 #ADJECTIVE
 
 message_27:
-    text: PLANETA
+    text: MÁGICO
 
 message_28:
-    text: FLAMINGO
+    text: FLAMEJANTE
 
 message_29:
-    text: BROTOPEIRA
+    text: ROMÂNTICO
 
 message_30:
-    text: ABACAXI
+    text: BONITO
 
 #NOUN
 
 message_31:
-    text: MÁGICO
+    text: PLANETA
 
 message_32:
-    text: FLAMEJANTE
+    text: FLAMINGO
 
 message_33:
-    text: ROMÂNTICO
+    text: TOUPEIRA
 
 message_34:
-    text: BONITO
+    text: ABACAXI
 
 #DESCRIPTOR
 
@@ -2061,7 +2061,7 @@ message_232:
 #RECEPTION HUMPHREY
 
 message_233:
-text: \n<HUMPHREY RECEPCIONISTA>Bem-vindo!\! MARINA não quer ver ninguém agora...\! mas se você está curtindo a exibição, sinta-se livre para entrar na gaiola e esperar pelo próximo experimento disponível.
+    text: \n<HUMPHREY RECEPCIONISTA>Bem-vindo!\! MARINA não quer ver ninguém agora...\! mas se você está curtindo a exibição, sinta-se livre para entrar na gaiola e esperar pelo próximo experimento disponível.
 
 message_234:
     text: \n<HUMPHREY RECEPCIONISTA>Você saberá quando os gritos pararem.
@@ -2622,7 +2622,7 @@ message_268:
     text: \n<RECICULTISTA>Droga... Eu perdi...
 
 message_269:
-    text: \n<RECICULTISTA>Ei, não me julgue, tá!?<br>Só estou fazzendo isso por pontos da faculdade...
+    text: \n<RECICULTISTA>Ei, não me julgue, tá!?<br>Só estou fazendo isso por pontos da faculdade...
 
 # -----------------------------------------------
 # - RECYCULTIST: MISC (341)
