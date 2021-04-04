@@ -1313,30 +1313,30 @@ message_26:
 #ADJECTIVE
 
 message_27:
-    text: MÁGICO
+    text: PLANETA
 
 message_28:
-    text: FLAMEJANTE
+    text: FLAMINGO
 
 message_29:
-    text: ROMÂNTICO
+    text: BROTOPEIRA
 
 message_30:
-    text: BONITO
+    text: ABACAXI
 
 #NOUN
 
 message_31:
-    text: PLANETA
+    text: MÁGICO
 
 message_32:
-    text: FLAMINGO
+    text: FLAMEJANTE
 
 message_33:
-    text: TOUPEIRA
+    text: ROMÂNTICO
 
 message_34:
-    text: ABACAXI
+    text: BONITO
 
 #DESCRIPTOR
 
