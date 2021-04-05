@@ -252,97 +252,97 @@ message_81:
 #SMM walks onto the stage.
 
 message_100:
-      text: Senhoras e Toupeiros...\!<br>Bem-vindos a um episódio especial de...\!<br>\"SWEETHEART EM BUSCA DE CORAÇÕES!\"\smm
+      text: Senhoras e Toupeiros...\!<br>Bem-vindos a um episódio especial de...\!<br>\"SWEETHEART EM BUSCA DE CORAÇÕES!\"\n<BROTOPEIRA MIKE>
 
 #Applause
 
 message_101:
-      text: Antes de começar, gostariamos de um momento para honrar a vida de alguém que foi uma inspiração para todos nós. \!<br>Nosso amado líder, SINHÔ BROTOPEIRA.\smm
+      text: Antes de começar, gostariamos de um momento para honrar a vida de alguém que foi uma inspiração para todos nós. \!<br>Nosso amado líder, SINHÔ BROTOPEIRA.\n<BROTOPEIRA MIKE>
 
 #The curtain opens and a portrait of YE OLD SPROUT is shown.
 
 message_102:
-      text: Ele era o pai que nenhum de nós merecia.\! <br>Teremos um momento de silêncio em sua memória.\smm
+      text: Ele era o pai que nenhum de nós merecia.\! <br>Teremos um momento de silêncio em sua memória.\n<BROTOPEIRA MIKE>
 
 message_103:
-      text: ...\| ...\| ...\| ...\| ...  \smm
+      text: ...\| ...\| ...\| ...\| ...  \n<BROTOPEIRA MIKE>
 
 message_104:
-      text: Que ele descanse em paz.\smm
+      text: Que ele descanse em paz.\n<BROTOPEIRA MIKE>
 
 #Curtains close.
 
 message_105:
-      text: \sinv[1]\{E AGORA...\. CONTINUANDO O SHOW!!\smm
+      text: \sinv[1]\{E AGORA...\. CONTINUANDO O SHOW!!\n<BROTOPEIRA MIKE>
 
 #Curtains open, changing the graphic behind to SWEETHEART'S Show Graphic.
 
 message_106:
-      text: Da última vez em \"SWEETHEART EM BUSCA DE CORAÇÕES\"...\!<br>Nossa princesa favorita...\! Mais uma vez...\! falhou em se apaixonar qualquer um dos nossos solteiros elegíveis!\smm
+      text: Da última vez em \"SWEETHEART EM BUSCA DE CORAÇÕES\"...\!<br>Nossa princesa favorita...\! Mais uma vez...\! falhou em se apaixonar qualquer um dos nossos solteiros elegíveis!\n<BROTOPEIRA MIKE>
 
 message_107:
-      text: Dessa vez...\! nós juntamos três novos contestantes atraentes!\! Algum deles irá capturar o coração da SWEETHEART?\! Vamos revelar eles agora!\smm
+      text: Dessa vez...\! nós juntamos três novos contestantes atraentes!\! Algum deles irá capturar o coração da SWEETHEART?\! Vamos revelar eles agora!\n<BROTOPEIRA MIKE>
 
 #Contestant #1 comes out and makes a circle around the stage.
 
 message_108:
-      text: CONTESTANTE \#1 é um nativo da VILA BROTOPEIRA!\smm
+      text: CONTESTANTE \#1 é um nativo da VILA BROTOPEIRA!\n<BROTOPEIRA MIKE>
 
 message_109:
-      text: Chegando a 1 metro de altura!\! Sua comida favorita é \c[3]TOFU\c[0]. Ele tem uma enorme coleção de flamingos de plástico... e adora longas caminhadas por túneis estreitos!\smm
+      text: Chegando a 1 metro de altura!\! Sua comida favorita é \c[3]TOFU\c[0]. Ele tem uma enorme coleção de flamingos de plástico... e adora longas caminhadas por túneis estreitos!\n<BROTOPEIRA MIKE>
 
 message_110:
-      text: \Com[2]\{PALMAS PRO CONTESTANTE \#1!\smm
+      text: \Com[2]\{PALMAS PRO CONTESTANTE \#1!\n<BROTOPEIRA MIKE>
 
 #Applause.
 #Contestant #2 comes out and makes a circle around the stage.
 
 message_111:
-      text: CONTESTANTE \#2 é... Isso mesmo, você adivinhou!\! <br>Também um nativo da VILA BROTOPEIRA!\smm
+      text: CONTESTANTE \#2 é... Isso mesmo, você adivinhou!\! <br>Também um nativo da VILA BROTOPEIRA!\n<BROTOPEIRA MIKE>
 
 message_112:
-      text: Cuidado! Ele tá vindo com tudo, com um-metro-e-dois-centímetros-inteiros!\!<br>Seus hobbies incluem andar, correr e rastejar!\smm
+      text: Cuidado! Ele tá vindo com tudo, com um-metro-e-dois-centímetros-inteiros!\!<br>Seus hobbies incluem andar, correr e rastejar!\n<BROTOPEIRA MIKE>
 
 message_113:
-      text: Sua combinação de cores favorita é marrom e verde, e ele passa os fins de semana rolando na roupa suja!<br>\!Mmm... quente.\smm
+      text: Sua combinação de cores favorita é marrom e verde, e ele passa os fins de semana rolando na roupa suja!<br>\!Mmm... quente.\n<BROTOPEIRA MIKE>
 
 message_114:
-      text: \Com[2]\{PALMAS PRO CONTESTANTE \#2!\smm
+      text: \Com[2]\{PALMAS PRO CONTESTANTE \#2!\n<BROTOPEIRA MIKE>
 
 #Applause.
 
 message_115:
-      text: E agora pra algo completamente diferente!\smm
+      text: E agora pra algo completamente diferente!\n<BROTOPEIRA MIKE>
 
 #Contestant #3 comes out and makes a circle around the stage.
 
 message_116:
-      text: CONTESTANTE \#3 lá de \c[11]OUTRO-MUNDO\c[0]!\smm
+      text: CONTESTANTE \#3 lá de \c[11]OUTRO-MUNDO\c[0]!\n<BROTOPEIRA MIKE>
 
 message_117:
-      text: É como se ele tivesse caído do céu... literalmente!\!<br>De acordo com ele e a gente, faz dele um pegador.\! <br>Uma salva de palmas pro SNALEY!\smm
+      text: É como se ele tivesse caído do céu... literalmente!\!<br>De acordo com ele e a gente, faz dele um pegador.\! <br>Uma salva de palmas pro SNALEY!\n<BROTOPEIRA MIKE>
 
 #Scattered applause.
 
 message_118:
-      text: E agora...\! É o momento que todos vocês estavam esperando...\smm
+      text: E agora...\! É o momento que todos vocês estavam esperando...\n<BROTOPEIRA MIKE>
 
 message_119:
-      text: \{\sinv[1]ESCUREÇAM AS LUZES!!\smm
+      text: \{\sinv[1]ESCUREÇAM AS LUZES!!\n<BROTOPEIRA MIKE>
 
 #Lights dim.
 
 message_120:
-      text: \sinv[1]Ela emite...\| beleza... \|Ela exala...\| elegância...\|<br>Ela realmente tem...\| O rosto mais carnudo...\smm
+      text: \sinv[1]Ela emite...\| beleza... \|Ela exala...\| elegância...\|<br>Ela realmente tem...\| O rosto mais carnudo...\n<BROTOPEIRA MIKE>
 
 message_121:
-      text: Sim!\! Você sabe de quem a gente está falando!<br>\!Ela é tudo que tem de incrível e maravilhoso, e ela está prestes a pisar neste palco!\smm
+      text: Sim!\! Você sabe de quem a gente está falando!<br>\!Ela é tudo que tem de incrível e maravilhoso, e ela está prestes a pisar neste palco!\n<BROTOPEIRA MIKE>
 
 message_122:
-      text: Por favor...\! Deem uma grande e calorosa boas vindas...<br>\!a primeira... \!e única... \!a magnífica...\smm
+      text: Por favor...\! Deem uma grande e calorosa boas vindas...<br>\!a primeira... \!e única... \!a magnífica...\n<BROTOPEIRA MIKE>
 
 message_123:
-      text: \{\{\{\Com[2]SWEETHEA-\smm
+      text: \{\{\{\Com[2]SWEETHEA-\n<BROTOPEIRA MIKE>
 
 #Lightning strikes and hits SNALEY. He gets fried and turns into ashes, then blows away.
 #There is a blackout.
