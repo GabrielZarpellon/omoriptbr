@@ -328,10 +328,10 @@ message_73:
 #CAPT. SPACEBOY down the aisle.
 
 message_74:
-      text: \Com[2]Minha SWEETHEART!\! Oh, minha SWEETHEART!<br>Ah, estou tão aliviado que cheguei aqui a tempo.\cap
+      text: \Com[2]Minha SWEETHEART!\! Oh, minha SWEETHEART!<br>Ah, estou tão aliviado que cheguei aqui a tempo.\n<CAP. SPACEBOY>
 
 message_75:
-      text: Você tem que parar com essa loucura agora!\cap
+      text: Você tem que parar com essa loucura agora!\n<CAP. SPACEBOY>
 
 message_76:
       faceset: MainCharacters_DreamWorld
@@ -345,24 +345,24 @@ message_78:
       text: Eu pensei que tinha dito...<br>pra nunca aparecer na minha frente de novo!\swh
 
 message_79:
-      text: \sinv[1]Oh, SWEETHEART!\! Minha, SWEETHEART!\!<br>Minha doce rosquinha recheada de geleia!\cap
+      text: \sinv[1]Oh, SWEETHEART!\! Minha, SWEETHEART!\!<br>Minha doce rosquinha recheada de geleia!\n<CAP. SPACEBOY>
 
 message_80:
-      text: Por favor, olhe dentro do seu coração e me dê outra chance.\cap
+      text: Por favor, olhe dentro do seu coração e me dê outra chance.\n<CAP. SPACEBOY>
 
 message_81:
-      text: Eu não devia ter te deixado esperando todos esses dias.\cap
+      text: Eu não devia ter te deixado esperando todos esses dias.\n<CAP. SPACEBOY>
 
 message_82:
       text: Você...\! O-O que você está fazendo?\swh
 
 message_83:
-      text: Me desculpe não ter feito isso antes.\cap
+      text: Me desculpe não ter feito isso antes.\n<CAP. SPACEBOY>
 
 #CAPT. SPACEBOY holds up ring, gets on his knees and pulls out a ring.
 
 message_84:
-      text: \{\sinv[1]CASE COMIGO, SWEETHEART!!\}<br>Aqui mesmo neste palco!\cap
+      text: \{\sinv[1]CASE COMIGO, SWEETHEART!!\}<br>Aqui mesmo neste palco!\n<CAP. SPACEBOY>
 
 message_85:
       text: Oh... minha nossa!\! Isso... Isso foi tão derrepente!\!<br>Quão...\! Quão...\! Quão...\! \Com[2]\sinv[1]Quão romântico!\swh
