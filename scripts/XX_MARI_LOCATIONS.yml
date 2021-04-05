@@ -430,7 +430,7 @@ message_137:
 message_140:
     faceset: MainCharacter_Mari
     faceindex: 0
-    text: \marAgora, OMORI...\! eu sei o que você está pensando...\!<br>Você está pensando...\!<br>"Uau, mana. Esse é um lugar estranho pra fazer um piquenique."
+    text: \marAgora, OMORI...\! eu sei o que você está pensando...\!<br>Você está pensando...\!<br><br>"Uau, mana. Esse é um lugar estranho pra fazer um piquenique."
 
 message_141:
     faceset: MainCharacter_Mari
