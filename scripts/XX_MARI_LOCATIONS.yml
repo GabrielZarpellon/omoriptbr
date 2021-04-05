@@ -213,7 +213,7 @@ message_71:
 message_72:
     faceset: MainCharacter_Mari
     faceindex: 4
-    text: \marSem mencionar que eu fico escutando barulhos vindo lá da frente...\!<br>Parece que pode ser algo bem perigoso, então vocês provavelmete deveriam descansar.
+    text: \marSem mencionar que eu fico escutando barulhos vindo lá da frente...\!<br><br>Parece que pode ser algo bem perigoso, então vocês provavelmente deveriam descansar.
 
 message_73:
     faceset: MainCharacter_Mari
