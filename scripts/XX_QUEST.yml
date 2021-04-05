@@ -18,7 +18,7 @@ message_0:
 message_1:
     faceset: MainCharacter_Mari
     faceindex: 3
-    text: \marBem, olá você, AUBREY! Tá bem fofa hoje.<br>\!Você sempre cuida tão bem do seu cabelo.
+    text: \marEi, olá, AUBREY! Tá bem fofa hoje.<br>\!Você sempre cuida tão bem do seu cabelo.
 
 #If KEL is leader:
 message_2:

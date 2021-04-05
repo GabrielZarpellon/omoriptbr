@@ -130,7 +130,7 @@ message_30:
 #Location: Deeper Well Whirlpool
 
 message_31:
-      text: \n<CIPHER>O sol brilhava mais forte...\| quando ela estava aqui...
+      text: \n<CIFRA>O sol brilhava mais forte...\| quando ela estava aqui...
 
 message_32:
       text:
@@ -192,7 +192,7 @@ message_46:
 #Decay
 #Location: Deeper Well
 message_47:
-      text: \n<DECAY>O tempo sempre se move pra frente.\! Eventualmente, a verdade ficará clara...\! Você sabe muito bem...\! não é mesmo, SONHADOR?
+      text: \n<DECADÊNCIA>O tempo sempre se move pra frente.\! Eventualmente, a verdade ficará clara...\! Você sabe muito bem...\! não é mesmo, SONHADOR?
 
 message_48:
       text:
@@ -1416,7 +1416,7 @@ message_603:
 #-
 
 message_604:
-      text: \n<AUGHT>Quando os problemas surgem, há sempre a opção de correr e fugir.\! Mas um dia, você pode acabar se encontrando correndo sozinho.
+      text: \n<NADA>Quando os problemas surgem, há sempre a opção de correr e fugir.\! Mas um dia, você pode acabar se encontrando correndo sozinho.
 
 #-
 
@@ -1429,7 +1429,7 @@ message_606:
 #-
 
 message_609:
-      text: \n<AUSENTE>O universo está repleto de perguntas que você nunca vai responder.\! Mesmo assim...\! existem algumas que só você possui a resposta.<br>\!Quando a verdade for revelada, o que você vai fazer?
+      text: \n<AUSENTE>O universo está repleto de perguntas que você nunca vai responder.\! Mesmo assim...\! existem algumas que só você possui a resposta.\!<br>Quando a verdade for revelada, o que você vai fazer?
 
 #-
 

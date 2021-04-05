@@ -49,7 +49,7 @@ message_21:
       text: Encontre a válvula no canto superior esquerdo do mapa e examine-a.
 
 message_22:
-      text: Chuvisca, e os habitantes da \c[11]VILA DA CHUVA\c[0] estão confortáveis denovo.
+      text: Chuvisca, e os habitantes da \c[11]VILA DA CHUVA\c[0] estão confortáveis de novo.
 
 # =========================================================================================
 # WEEPING WILLOW
@@ -274,7 +274,7 @@ message_122:
 #Then the mirror slide will fade out.
 
 message_123:
-      text: Você quer jogar denovo?
+      text: Você quer jogar de novo?
 
 #no
 #Mirror disappears

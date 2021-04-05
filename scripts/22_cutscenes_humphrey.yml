@@ -20,7 +20,7 @@ message_1:
 #SWEETHEART is surprised, then frustrated.
 
 message_2:
-      text: \Com[2]O que? Vocês quatro de novo!?\! Por que vocês continuam aparecendo?\swh
+      text: \Com[2]O quê? Vocês quatro de novo!?\! Por que vocês continuam aparecendo?\swh
 
 message_3:
       faceset: MainCharacters_DreamWorld
@@ -43,7 +43,7 @@ message_6:
       text: Ah, não...\! Isso significa que você e o MARIDO ESPACIAL estão...\aub
 
 message_7:
-      text: Hmph!\! Por mim ele é o EX-MARIDO ESPACIAL agora!\swh
+      text: Hmph!\! Pra mim ele é o EX-MARIDO ESPACIAL agora!\swh
 
 message_8:
       faceset: MainCharacters_DreamWorld
@@ -221,7 +221,7 @@ message_78:
 message_79:
       faceset: MainCharacters_DreamWorld
       faceindex: 11
-      text: É meio nojento se na verdade.\aub
+      text: É meio nojento na verdade.\aub
 
 #HUMPHREY appears in front of AUBREY.
 

@@ -1833,7 +1833,7 @@ message_96:
     text: \n<PEDAGIARÉ>Também será o preço do seu pedágio.\!<br>Vai pagar?
 
 message_97:
-    text: \n<PEDAGIARÉ>\com[2]\{\{\sinv[1]HOOWEE, TEMOS UM VENCEDOR!!!
+    text: \n<PEDAGIARÉ>\com[2]\{\{\sinv[1]UHUU, TEMOS UM VENCEDOR!!!
 
 message_98:
     text: \n<PEDAGIARÉ>\v[1012] CONCHAS é minha oferta final!<br>Qual é! Você tem que aceitar!\$
@@ -1845,7 +1845,7 @@ message_100:
     text: \n<PEDAGIARÉ>Hmph...\! Correr não vai mudar o preço, pirralho.
 
 message_101:
-    text: \n<PEDAGIARÉ>Agora espere um pouco...\!<br>Os números não batem...\!<br>Você vai ter que girar denovo.
+    text: \n<PEDAGIARÉ>Agora espere um pouco...\!<br>Os números não batem...\!<br>Você vai ter que girar de novo.
 
 message_102:
     text: \n<PEDAGIARÉ>Que tal mais um giro por precaução?
@@ -1950,7 +1950,7 @@ message_128:
     text: \n<PEDAGIARÉ>Chefe, olha! Eu não estava dormindo... Só estava-
 
 message_129:
-    text: \n<PEDAGIARÉ>Ah... Vocês só são umas crianças...\!<br>  Aposto que só querem que eu abra o portão.
+    text: \n<PEDAGIARÉ>Ah... Vocês só são umas crianças...\!<br>Aposto que só querem que eu abra o portão.
 
 message_130:
     text: \n<PEDAGIARÉ>Bem, vou ser realista com vocês... Esses preços dos pedágios são quebrados. \!Vai te custar 3000 CONCHAS mas eu acharia outro caminho se fosse você.<br>Então ainda quer que eu abra o portão?\$
@@ -2248,7 +2248,7 @@ message_481:
     text: \n<HUMPHREY OPERADOR>Esse é o HUMPHREY para HUMPHREY... Copia?
 
 message_482:
-    text: \n<HUMPHREY OPERADOR>Mhmm...\! Sim...\!<br>Você já tentou desligar e ligar denovo?
+    text: \n<HUMPHREY OPERADOR>Mhmm...\! Sim...\!<br>Você já tentou desligar e ligar de novo?
 
 message_483:
     text: \n<HUMPHREY OPERADOR>É difícil ter algum progresso aqui, já que a MOLLY sempre está mexendo no nosso experimento...<br><br>Queria ser designado para o quadrante da MEDUSA...\!<br>É lá que os verdadeiros trabalhadores estão...<br>Me disseram que eles tem até um tobogã!
