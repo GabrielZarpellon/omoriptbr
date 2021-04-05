@@ -78,53 +78,53 @@ message_12:
 
 #Trigger: Examine Front Row Seats.
 message_30:
-      text: Saudaçoes, fãs da SWEETHEART.<br>Nós nos desculpamos pela interrupção.\! <br>Bem-vindos de volta ao nosso programa!\smm
+      text: Saudaçoes, fãs da SWEETHEART.<br>Nós nos desculpamos pela interrupção.\! <br>Bem-vindos de volta ao nosso programa!\n<BROTOPEIRA MIKE>
 
 message_31:
-      text: Durante o intervalo, lamentamos informar que uma tragédia ocorreu aqui mesmo nesse palco.\smm
+      text: Durante o intervalo, lamentamos informar que uma tragédia ocorreu aqui mesmo nesse palco.\n<BROTOPEIRA MIKE>
 
 #Curtain opens, revealing a portrait of SNALEY.
 
 message_32:
-      text: É hoje que anunciamos o súbito falecimento do<br>CONTESTANTE \#3...\smm
+      text: É hoje que anunciamos o súbito falecimento do<br>CONTESTANTE \#3...\n<BROTOPEIRA MIKE>
 
 message_33:
-      text: Nós lembraremos ele com carinho pelos poucos segundos que conhecemos ele.\! Ele era uma alma única e insubstituível.\smm
+      text: Nós lembraremos ele com carinho pelos poucos segundos que conhecemos ele.\! Ele era uma alma única e insubstituível.\n<BROTOPEIRA MIKE>
 
 #Curtains close and open, changing the graphic behind to SWEETHEART'S Show Graphic. SPROUT MOLE #1 and #2 are already in their right spots.
 
 message_34:
-      text: \Com[2]\{\sinv[1]MAS O SHOW DEVE CONTINUAR!!\smm
+      text: \Com[2]\{\sinv[1]MAS O SHOW DEVE CONTINUAR!!\n<BROTOPEIRA MIKE>
 
 message_35:
-      text: Dê as calorosas boas vindas ao CONTESTANTE \#3...\!<br>Vindo longe lá da \c[11]FLORESTA VASTA\c[0]...\!<br>É o nosso HERO em armadura reluzente!\smm
+      text: Dê as calorosas boas vindas ao CONTESTANTE \#3...\!<br>Vindo longe lá da \c[11]FLORESTA VASTA\c[0]...\!<br>É o nosso HERO em armadura reluzente!\n<BROTOPEIRA MIKE>
 
 message_36:
-      text: Olha isso gente.\!<br>HERO é um homão, com um tamanho enorme de 1,7 metros!\smm
+      text: Olha isso gente.\!<br>HERO é um homão, com um tamanho enorme de 1,7 metros!\n<BROTOPEIRA MIKE>
 
 #Someone whistles.
 
 message_37:
-      text: Suas paixões incluem assar, cozinhar, e limpar...\!<br>E se isso não parece o homem perfeito, observem seu sorriso de matar e personalidade suave!\smm
+      text: Suas paixões incluem assar, cozinhar, e limpar...\!<br>E se isso não parece o homem perfeito, observem seu sorriso de matar e personalidade suave!\n<BROTOPEIRA MIKE>
 
 #Wild applause.
 
 message_38:
-      text: E agora, mais uma vez...<br>é hora de introduzir a estrela do show!\smm
+      text: E agora, mais uma vez...<br>é hora de introduzir a estrela do show!\n<BROTOPEIRA MIKE>
 
 message_39:
-      text: \{\Com[2]ESCUREÇAM AS LUZES, POR FAVOR!!\smm
+      text: \{\Com[2]ESCUREÇAM AS LUZES, POR FAVOR!!\n<BROTOPEIRA MIKE>
 
 #The lights dim.
 
 message_40:
-      text: \sinv[1]Ela emite...\| beleza... \|Ela exala...\| elegância...\|<br>Ela realmente tem...\| o rosto mais carnudo...\smm
+      text: \sinv[1]Ela emite...\| beleza... \|Ela exala...\| elegância...\|<br>Ela realmente tem...\| o rosto mais carnudo...\n<BROTOPEIRA MIKE>
 
 message_41:
-      text: Sim!\! Você sabe de quem a gente está falando!<br>\!Ela é tudo que tem de incrível e maravilhoso, e ela está prestes a pisar neste palco!\smm
+      text: Sim!\! Você sabe de quem a gente está falando!<br>\!Ela é tudo que tem de incrível e maravilhoso, e ela está prestes a pisar neste palco!\n<BROTOPEIRA MIKE>
 
 message_42:
-      text: Ela é a primeira... \!a única... \!a magnífica...\smm
+      text: Ela é a primeira... \!a única... \!a magnífica...\n<BROTOPEIRA MIKE>
 
 message_43:
       text: \Com[2]\sinv[2]OHOHO\{HOHOHO\{HOHOHO\{HOHO!!\swh
@@ -140,7 +140,7 @@ message_45:
       text: \Com[2]\sinv[2]\{\{OH\Com[2]OHO\{HO\Com[2]HOHO\Com[2]\{HO\Com[2]HOHOHOHO!!!\swh
 
 message_46:
-      text: Uma excelente entrada, minha soberana!\smm
+      text: Uma excelente entrada, minha soberana!\n<BROTOPEIRA MIKE>
 
 #Wild applause.
 #SWEETHEART jumps off from cake.
@@ -158,15 +158,15 @@ message_50:
       text: \Com[2]\sinv[2]\{\{OH\Com[2]OHO\{HO\Com[2]HOHO\Com[2]\{HO\Com[2]HOHOHOHO~!!!\swh
 
 message_51:
-      text: SWEETHEART...\! Nós trouxemos três dos melhores solteiros no mundo a esse palco.\! Seria hoje o dia que um deles irá roubar seu coração?\smm
+      text: SWEETHEART...\! Nós trouxemos três dos melhores solteiros no mundo a esse palco.\! Seria hoje o dia que um deles irá roubar seu coração?\n<BROTOPEIRA MIKE>
 
 #SMM and SWEETHEART turn to face the CONTESTANTs.
 
 message_52:
-      text: Vamos começar com algumas perguntas.\! <br>Uma coisa que a SWEETHEART valoriza mais em um companheiro é completa e absoluta obediência!\smm
+      text: Vamos começar com algumas perguntas.\! <br>Uma coisa que a SWEETHEART valoriza mais em um companheiro é completa e absoluta obediência!\n<BROTOPEIRA MIKE>
 
 message_106:
-      text: Você, CONTESTANTE \#1, concorda...\! que jura sua fidelidade a SWEETHEART pelo resto da sua vida?\!<br>CONTESTANTE \#1! Qual é sua resposta?\smm
+      text: Você, CONTESTANTE \#1, concorda...\! que jura sua fidelidade a SWEETHEART pelo resto da sua vida?\!<br>CONTESTANTE \#1! Qual é sua resposta?\n<BROTOPEIRA MIKE>
 
 #CONTESTANT #1 is confused.
 
@@ -176,7 +176,7 @@ message_53:
 #SMM turns to SWEETHEART.
 
 message_54:
-      text: Se fazendo de difícil então!\! O que você acha desta resposta, SWEETHEART?\smm
+      text: Se fazendo de difícil então!\! O que você acha desta resposta, SWEETHEART?\n<BROTOPEIRA MIKE>
 
 #SWEETHEART is annoyed.
 
@@ -197,10 +197,10 @@ message_57:
 #SMM turns to CONTESTANT #2.
 
 message_58:
-      text: Agora para o CONTESTANTE \#2.\! Faremos a mesma pergunta.\! Não tem resposta certa ou errada. Apenas responda honestamente!\smm
+      text: Agora para o CONTESTANTE \#2.\! Faremos a mesma pergunta.\! Não tem resposta certa ou errada. Apenas responda honestamente!\n<BROTOPEIRA MIKE>
 
 message_59:
-      text: CONTESTANTE \#2...\!<br>Você jura sua fidelidade a SWEETHEART pelo resto da sua vida?\smm
+      text: CONTESTANTE \#2...\!<br>Você jura sua fidelidade a SWEETHEART pelo resto da sua vida?\n<BROTOPEIRA MIKE>
 
 #CONTESTANT #2 is sweating.
 
@@ -217,10 +217,10 @@ message_61:
 #SMM turns to HERO.
 
 message_62:
-      text: CONTESTANTE \#3! Parece que você é o único restante.\!<br>Irei perguntar a mesma pergunta mais uma vez.<br>De novo, sem pressão.\smm
+      text: CONTESTANTE \#3! Parece que você é o único restante.\!<br>Irei perguntar a mesma pergunta mais uma vez.<br>De novo, sem pressão.\n<BROTOPEIRA MIKE>
 
 message_63:
-      text: Você, HERO, concorda jurar sua fidelidade à SWEETHEART pelo resto da sua vida?\smm
+      text: Você, HERO, concorda jurar sua fidelidade à SWEETHEART pelo resto da sua vida?\n<BROTOPEIRA MIKE>
 
 message_64:
       faceset: MainCharacters_DreamWorld
@@ -238,7 +238,7 @@ message_66:
       text: Minha nossa...\! Este aqui.\! Ele é absolutamente impecável!\! <br>É possível?\! SWEETHEART...\! \sinv[1]está apaixonada?\swh
 
 message_67:
-      text: \{\Com[2]QUE REVIRAVOLTA EMOCIONANTE!\!\}<br>Isso deve ser o destino! O par perfeito!\smm
+      text: \{\Com[2]QUE REVIRAVOLTA EMOCIONANTE!\!\}<br>Isso deve ser o destino! O par perfeito!\n<BROTOPEIRA MIKE>
 
 message_68:
       faceset: MainCharacters_DreamWorld
