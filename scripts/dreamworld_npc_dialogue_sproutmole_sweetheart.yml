@@ -597,65 +597,65 @@ message_133:
 #SPROUT CROWD
 
 message_200:
-      text: \sprEu dei todo o meu suprimento de \c[3]TOFU\c[0] por esse assento!
+      text: \n<BROTOPEIRA>Eu dei todo o meu suprimento de \c[3]TOFU\c[0] por esse assento!
 
 message_201:
-      text: \sprEu dei minhas poupanças por esse assento!
+      text: \n<BROTOPEIRA>Eu dei minhas poupanças por esse assento!
 
 message_202:
-      text: \sprEu dei minha casa por esse assento!
+      text: \n<BROTOPEIRA>Eu dei minha casa por esse assento!
 
 message_203:
-      text: \sprEu dei minha alma por esse assento!
+      text: \n<BROTOPEIRA>Eu dei minha alma por esse assento!
 
 #REST OF CROWD
 
 message_204:
-      text: \spr\sinv[1]SWEETHEART... SWEETHEART...<br>Ela é única pra mim!\sinv[0]
+      text: \n<BROTOPEIRA>\sinv[1]SWEETHEART... SWEETHEART...<br>Ela é única pra mim!\sinv[0]
 
 message_205:
-      text: \sprSWEETHEART é perfeita!\! Ela não comete erros!
+      text: \n<BROTOPEIRA>SWEETHEART é perfeita!\! Ela não comete erros!
 
 message_206:
-      text: \sprMeu amor pela SWEETHEART não tem limites!
+      text: \n<BROTOPEIRA>Meu amor pela SWEETHEART não tem limites!
 
 message_207:
-      text: \sprSWEETHEART...\! Ela é uma deusa caminhando entre nós...<br>\!Somos muito abençoados.
+      text: \n<BROTOPEIRA>SWEETHEART...\! Ela é uma deusa caminhando entre nós...<br>\!Somos muito abençoados.
 
 #UNIQUE SPROUT CROWD
 
 message_208:
-      text: \sprO show nem começou e já estou tremendo!\! \quake[1]<br>Por que a tremedeira não para!?\quake[0]
+      text: \n<BROTOPEIRA>O show nem começou e já estou tremendo!\! \quake[1]<br>Por que a tremedeira não para!?\quake[0]
 
 message_209:
-      text: \spr\"S\" é para \"SURPREENDENTE\".\! \"W\" é para \"W...IIINCRÍVEL\".\!<br>\"E\" é para \"EXTRAORDINÁRIA\".\! \"E\" é para \"EXCEPCIONAL\".\!<br>\"T\" é para...\! \"TOFU\"...\! Mmm...\! Um \c[3]TOFU\c[0] delicioso...
+      text: \n<BROTOPEIRA>\"S\" é para \"SURPREENDENTE\".\! \"W\" é para \"W...IIINCRÍVEL\".\!<br>\"E\" é para \"EXTRAORDINÁRIA\".\! \"E\" é para \"EXCEPCIONAL\".\!<br>\"T\" é para...\! \"TOFU\"...\! Mmm...\! Um \c[3]TOFU\c[0] delicioso...
 
 message_210:
-      text: \spr\"H\" é para \"HONORÁVEL\".\! \"E\" é para \"EXEMPLAR\".\!<br>\"A\" é para \"ATRATIVA\".\! R é para \"RADICAL.\"\!<br>E \"T\" é para...\! \"TALENTOSA!\", é claro!
+      text: \n<BROTOPEIRA>\"H\" é para \"HONORÁVEL\".\! \"E\" é para \"EXEMPLAR\".\!<br>\"A\" é para \"ATRATIVA\".\! R é para \"RADICAL.\"\!<br>E \"T\" é para...\! \"TALENTOSA!\", é claro!
 
 message_211:
-      text: \spr\}Oba! SWEETHEART!
+      text: \n<BROTOPEIRA>\}Oba! SWEETHEART!
 
 message_212:
-      text: \sprOuvi que costumava ter uma biblioteca aqui...\!<br>mas a SWEETHEART construiu seu palco por cima...\!<br>Quem precisa ler quando se tem a SWEETHEART!?
+      text: \n<BROTOPEIRA>Ouvi que costumava ter uma biblioteca aqui...\!<br>mas a SWEETHEART construiu seu palco por cima...\!<br>Quem precisa ler quando se tem a SWEETHEART!?
 
 message_213:
-      text: \sprUm tomate com qualquer outro nome seria tão suculento quanto.
+      text: \n<BROTOPEIRA>Um tomate com qualquer outro nome seria tão suculento quanto.
 
 message_214:
-      text: \sprSó estou aqui para me divertir!
+      text: \n<BROTOPEIRA>Só estou aqui para me divertir!
 
 message_215:
-      text: \sprEu só gostava da SWEETHEART ironicamente...\!<br>e agora aqui estou...\! O que houve comigo?
+      text: \n<BROTOPEIRA>Eu só gostava da SWEETHEART ironicamente...\!<br>e agora aqui estou...\! O que houve comigo?
 
 message_216:
-      text: \sprNo início, Eu estava cético sobre essa coisa da SWEETHEART, mas acho que to começando a entender...
+      text: \n<BROTOPEIRA>No início, Eu estava cético sobre essa coisa da SWEETHEART, mas acho que to começando a entender...
 
 message_217:
-      text: \sprEu vim aqui com minha família, mas nós fomos separados no caminho...\! Eu posso nunca mais vê-los.
+      text: \n<BROTOPEIRA>Eu vim aqui com minha família, mas nós fomos separados no caminho...\! Eu posso nunca mais vê-los.
 
 message_218:
-      text: \sprEu ouvi que a SWEETHEART é na verdade uma \c[3]ROSQUINHA\c[0]...\!<br>Me pergunto se os rumores são reais...
+      text: \n<BROTOPEIRA>Eu ouvi que a SWEETHEART é na verdade uma \c[3]ROSQUINHA\c[0]...\!<br>Me pergunto se os rumores são reais...
 
 #Elevator
 message_220:
@@ -676,4 +676,4 @@ message_228:
       text: \n<???>Essa sala é apenas para BROTOPEIRAS!
 
 message_250:
-      text: \sprNão machuca em ter \c[3]TOFU\c[0] com você o tempo todo.\! Eu já consegui me safar de várias situações complicadas com \c[3]TOFU\c[0]!
+      text: \n<BROTOPEIRA>Não machuca em ter \c[3]TOFU\c[0] com você o tempo todo.\! Eu já consegui me safar de várias situações complicadas com \c[3]TOFU\c[0]!
