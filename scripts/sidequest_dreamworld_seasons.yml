@@ -47,7 +47,7 @@ message_10:
 
 #Talk to Fall MOLE
 message_11:
-      text: \n<BROTOPEIRA DE OUTONO>Outono...\! folhas de outono...\! roupas confortáveis...\! o cheirinho de canela...\! a hora perfeita para se aconchegar com um livro...\! e os feriados quase chegando...\! Não tem como não amar!
+      text: \n<BROTOPEIRA DE OUTONO>Outono...\! folhas de outono...\! roupas confortáveis...\! o cheirinho de canela...\! a hora perfeita para se aconchegar com um livro...\! e os feriados quase chegando...\! <br>Não tem como não amar!
 
 message_12:
       text: \n<BROTOPEIRA DE OUTONO>O Outono é a melhor estação! Você não concorda?
