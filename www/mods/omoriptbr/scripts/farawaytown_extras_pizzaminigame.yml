@@ -1,0 +1,177 @@
+
+
+# =========================================================================================
+# MINI-GAME: Pizza Delivery
+# =========================================================================================
+
+#Placeholder intro
+
+
+message_10:
+      text: Um anúncio de emprego para a \c[11]PIZZARIA DO GINO\c[0].\!<br>Você já completou esse trabalho hoje.
+
+message_11:
+      text: Você pegou o poster de 'PROCURA-SE AJUDA'.\! Talvez você possa perguntar sobre o emprego no balcão.
+
+message_0:
+      text: \n<CARA DA PIZZA>Então...\! Eu vejo que está olhando para esse poster de PROCURA-SE AJUDA que eu botei ali.\! Você está interessado em um emprego?
+
+#[Nod/Shake]
+#[Nod]
+message_1:
+      text: \n<CARA DA PIZZA>\sinv[1]Legaaaallll...\sinv[0]\! Eu vou te ajudar a começar.
+#[Shake]
+message_2:
+      text: \n<CARA DA PIZZA>Ahhh, ok...\!<br>Se você precisar de um pouco de dinheiro de pizza, é só falar!
+
+#Rule Explanation
+#Quest Finish
+#Return to Party
+message_40:
+      faceset: MainCharacters_Faraway
+      faceindex: 24
+      text: \kelEi, \n[8]! Como foi o trabalho?\! Enquanto você esteve trabalhando, eu decidi sentar em um banco e conversar com estranhos!\!<br>Cara, aquilo foi divertido...\! Bom... Estou pronto pra ir quando você estiver!
+
+# Door Knock Greeting
+message_3:
+      text: \com[2]\{\{\sinv[1]ENTREGA DE PIZZA!!
+
+# Randomized NPC Dialogue Success
+message_4:
+      text: \n<CLIENTE?>Ei!\! Uau, vocês vieram mais cedo do que eu esperava!\! Obrigado, garoto da entrega!
+
+message_5:
+      text: \n<CLIENTE?>Por que demorou tanto!?\! \c[11]PIZZARIA DO GINO\c[0] está piorando muito esses dias...
+
+message_6:
+      text: \n<CLIENTE?>Pizza chegou?\! Ótimo. Só deixa no chão.\!<br>Eu vou buscar.
+
+message_7:
+      text: \n<CLIENTE?>\Com[2]Deliciosa, deliciosa \c[3]PIZZA\c[0]!\! Eu estou vindo te buscar, minha querida!
+
+message_8:
+      text: \n<CLIENTE?>\}O-Obrigado...
+
+# Randomized NPC Dialogue Fail
+message_20:
+      text: \n<CLIENTE?>Uh... É...\! Desculpe, você pegou a casa errada.\!<br>A gente não pediu nenhuma pizza \c[3]PIZZA\c[0]...
+
+message_21:
+      text: \n<CLIENTE?>\c[3]PIZZA\c[0] de graça!?\! Ahh... Não precisava!
+
+message_22:
+      text: \n<CLIENTE?>Quem é você?\! A gente não pediu nenhuma droga de \c[3]PIZZA\c[0]!\! Cai fora daqui!
+
+message_23:
+      text: \n<CLIENTE?>Como ousa trazer \c[3]PIZZA\c[0] a minha casa estritamente-vegana!\! Você devia se envergonhar!
+
+message_24:
+      text: \n<CLIENTE?>Você está perturbando meu tempo de qualidade comigo mesmo.\! Saia de uma vez!
+
+# Continue looking after failing
+message_25:
+      text: Isso não foi muito bom...\! Você deveria encontrar a casa certa.
+
+# After checking the house again
+message_26:
+      text: Você já incomodou essa pessoa.
+
+# Too many fails
+message_35:
+      text: O estranho pegou a \c[3]PIZZA\c[0].
+
+# Minigame Complete
+message_36:
+      text: Essas foram todas...\! É hora de voltar para \c[11]PIZZARIA DO GINO\c[0]!
+
+message_37:
+      text: \n<CARA DA PIZZA>Ei, novato!\! Você é justo o cara que eu queria ver!\!<br>De acordo com o feedback recente, parece que a nota total de satisfação dos clientes é de \v[823]/10.
+
+# Move On GOOD
+message_38:
+      text: Contra todas as possibilidades, você entregou com sucesso a \c[3]PIZZA\c[0].\!<br>É hora de seguir em frente para o próximo pedido.
+
+# Move On BAD
+message_39:
+      text: Você falhou em entregar a \c[3]PIZZA\c[0].\!<br>É hora de seguir em frente para o próximo pedido...
+
+# Initialized
+message_41:
+      text: Você recebeu \c[4]NOTAS DE PIZZA\c[0].
+
+# Time runs out
+message_42:
+      text: Você não entregou todas as \c[3]PIZZAS\c[0] a tempo.
+
+# Trying to leave the area
+message_43:
+      text: Você não pode sair sem entregar a \c[3]PIZZA\c[0] antes.
+
+message_44:
+      text: \n<CARA DA PIZZA>E já que você foi tão bom, aqui está outro brinde!
+
+message_45:
+      text: \n<CARA DA PIZZA>É uma das minhas músicas favoritas.
+
+message_46:
+      text: \n<CARA DA PIZZA>Você pode tocar na JUKEBOX bem ali!
+
+message_15:
+      text: VER NOTA
+
+message_16:
+      text: SAIR DO TRABALHO
+
+message_17:
+      text: ESQUECE
+
+message_19:
+      text: O que você gostaria de fazer?
+
+# Expression of disappointment from quitting
+message_18:
+      text: Bem...\! isso não deve ser bom para os negócios.
+#===
+
+#Job Description
+
+message_50:
+      text: \n<CARA DA PIZZA>Você quer ouvir a boa notícia ou a má notícia primeiro?
+#GOOD NEWS / #BAD NEWS
+
+message_51:
+      text: \n<CARA DA PIZZA>Ah, Eu vou começar com a boa notícia.<br>\!A boa notícia é que...\! temos três pedidos diferentes de \c[3]PIZZA\c[0] hoje!\!
+
+message_60:
+      text: \n<CARA DA PIZZA>A má noticia é que...\! nosso garoto das entregas está doente de novo...
+
+message_52:
+      text: \n<CARA DA PIZZA>Esses clientes são todos frequentes, então paramos de gravar seus endereços.
+
+message_61:
+      text: \n<CARA DA PIZZA>Eu não lembro onde eles moram de cabeça, mas eu lembro como suas casas se parecem!
+
+message_53:
+      text: \n<CARA DA PIZZA>Aqui! Só pegue essas notas e você vai ficar bem!
+
+#*Screen goes black*
+#wait: 20
+#*Pizza bell SFX*
+#wait: 20
+
+message_54:
+      text: \n<CARA DA PIZZA>Não seja tímido!\! Vista seu uniforme com orgulho!
+
+#wait: 20 frames
+
+message_55:
+      text: \n<CARA DA PIZZA>Agora lembre-se, você tem três \c[3]PIZZAS\c[0] a entregar.\! Quando acabar, só pedale de volta pra cá.\! Estou contando com você!
+
+#wait: 20 frames
+#*Screen returns. You are in the pizza mini-game now.#
+
+message_100:
+      text: CARA DA PIZZA te deu suas \c[4]NOTAS DE PIZZA\c[0].
+
+message_101:
+      text: \n<CARA DA PIZZA>Eu vou pegar seu uniforme!

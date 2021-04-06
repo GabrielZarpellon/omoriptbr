@@ -1,0 +1,36 @@
+
+# =========================================================================================
+# PERFECT WIND
+# ========================================================================================
+
+message_0:
+    text: Um guri olha muito concentrado para sua pipa.\!<br>Você quer incomodá-lo?
+
+message_1:
+    text: \kitSou apenas um guri com uma pipa.\!<br>Nós podemos não parecer muito, mas temos uma ligação imbatível.\!<br>Não é algo que todo mundo pode entender.
+
+message_2:
+    text: \kitNós vamos mostrar como somos fortes quando trabalhamos juntos!
+
+message_3:
+    text: \kitHunf... Eu sabia.\! Nós não podemos agir com o nosso potencial máximo sem as condições meteorológicas perfeitas.
+
+# KITE KID - DEFEAT - IF PINWHEEL ISNT FIXED
+
+message_4:
+    text: \kitO vento parece meio fraco hoje...\!<br>Talvez tenha algo de errado com um dos cata-ventos.
+
+# KITE KID - DEFEAT - IF PINWHEEL IS FIXED BY CLIMBING IT WITH KEL. WATERMELON FALLS. GET SILLY STRING FROM WATERMELON.
+
+message_5:
+    text: \kitTalvez eu e minha pipa devêssemos tentar voar em outro lugar...
+
+# TAG DIALOGUE
+
+message_6:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 28
+    text: \kelHã?\! Como isso subiu até aqui?
+
+message_7:
+    text: Esse cata-vento não parece estar funcionando.\!<br>Quem sabe se alguém pudesse arremessar algo nele...

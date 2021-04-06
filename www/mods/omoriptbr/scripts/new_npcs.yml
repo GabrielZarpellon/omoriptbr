@@ -1,0 +1,1479 @@
+# =========================================================================================
+# Dreamworld NPC dialogue
+# =========================================================================================
+
+#DW_ManonFire
+#Shamboo
+#Location: Mr Jawsum's Concierge
+message_0:
+      text: \n<SHAMBOO>Eu e o SR. MANDÍBARÃO...\! Temos muitas coisas para discutir...\! Sim...\! Muitas, muitas coisas...
+
+message_1:
+      text:
+
+#Nereene
+#Location: SW Library
+message_2:
+      text: \n<NEREENE>Nossa! Já faz um bom tempo desde que vi vocês quatro.\! Tramando algo, posso presumir?
+message_3:
+      text: \n<NEREENE>Aprenderam a lição depois de se aventurarem saíndo dos túneis?\! Da próxima vez não terão tanta sorte!
+
+message_4:
+      text:
+
+#Guava
+#Location: Train Station
+message_5:
+      text: \n<GUAVA>Eu não me importo em esperar!\!<br>Esperar faz parte da vida.
+
+message_6:
+      text: \n<GUAVA>Eu estou esperando pelo trem faz tanto tempo...\! Eu nem me lembro por que eu vim aqui!
+
+#Mimi
+#Orange Oasis
+
+message_7:
+      text: \n<MIMI>Uau... É uma maçãzona!
+
+message_8:
+      text:
+
+#Mira
+#takes places of AUBREY as secretary
+message_9:
+      text: \n<MIRA>Oi! Meu nome é MIRA!\! Sou nova aqui!
+
+
+message_10:
+      text: \n<MIRA>Oi, chefe!\! Por hoje terminamos tudo, então você já pode relaxar!
+
+#Silker
+#Location: Last Resort Casino
+
+message_11:
+      text: \n<SILKER>Dia vai, dia vem. É sempre a mesma coisa.\!<br>Tanto faz...\! É um emprego, eu acho.\! Pelo menos... seria se eu fosse pago.
+
+message_12:
+      text:
+#Jussie
+#Location: Last Resort Casino
+message_13:
+      text: \n<JUSSIE>O mano me pediu pra esperar aqui, mas nem sei se ele vai voltar.\! Você conhece alguém chamado SR. MANDÍBARÃO?\!<br>O mano falou que arranjou umas oportunidades com ele...
+
+message_14:
+      text:
+#Hayes
+#Location: Last Resort Casino
+
+message_15:
+      text: \n<HAYES>Ah...\! É ótimo tirar uma folga, finalmente!
+
+message_16:
+      text: \n<HAYES>Vocês também são da cidade?\! Vocês parecem ser crianças da cidade.\! A comida é boa mas o esgoto é horrível, não é mesmo?
+
+
+message_17:
+      text:
+
+#Turmoil
+#Location: Underwater Highway outside of Mustard Sub
+
+message_18:
+      text: \n<TURMOIL>Bah... Esqueci meus bastões de fumaça em casa mais uma vez...
+
+message_19:
+      text:
+
+#Russell
+#Location: Last Resort Casino
+message_20:
+      text: \n<RUSSELL>Humma humma...\! Se estou contando direito...\! então...\!<br>Humma humma...
+
+message_21:
+      text:
+
+#Albacore
+#Location: Underwater Highway Cave
+message_22:
+      text: \n<ALBACORE>Você está aqui por que não quis pagar o pedágio?\! Já é o terceiro grupo fazendo isso essa semana!
+
+message_23:
+      text: \n<ALBACORE>Ir por esse caminho é bem inconveniente, mas pelo menos você não precisa gastar as doces, doces CONCHAS...\! Mas o último pedágio vocês vão querer pagar.\! Confia!
+
+message_24:
+      text:
+#James
+#Location: Last Resort Casino
+message_25:
+      text: \n<JAMES>Eu amo assistir meu suado dinheirinho entrar nessa máquina e nunca mais sair.\! Assistir...\! tudo...\! desaparecer...
+
+message_26:
+      text:
+
+#Honeydew
+#Location: Mr Jawsum's Concierge
+message_27:
+      text: \n<HONEYDEW>O chefe me chamou para uma reunião importante, mas ele não está disponível agora...\! Não sei...\! Eu deveria esperar aqui ou trabalhar!?
+
+message_28:
+      text:
+#Crusher Blast
+#[UNPLACED]
+
+message_29:
+      text: \n<IMPACTO TRITURADOR>Me chamaram pra fazer o trabalho braçal.\! Mas a gerência é ruim.\!<br>Estou prevendo a queda do império.
+
+message_30:
+      text: \n<IMPACTO TRITURADOR>Ha. Ha.\! O gerente mudou.\! Assim como eu previ.
+
+#Cipher
+#Location: Deeper Well Whirlpool
+
+message_31:
+      text: \n<CIFRA>O sol brilhava mais forte...\| quando ela estava aqui...
+
+message_32:
+      text:
+#Gascon
+#Location: Otherworld Campsite
+
+message_33:
+      text: \n<GASCON>Ah diacho, esqueci minha câmera em casa.\! Acampar sem poder tirar fotos não é a mesma coisa...
+
+message_34:
+      text:
+
+#Teacup Spirit
+#Location: SW Library
+message_35:
+      text:  \n<ESPIRITO DA XÍCARA>\sinv[1]Oohoooooo... Tenho uma perguuuuuuuuunta pra você!\sinv[0]\!<br>Você acha que fantasmas devem ser considerados um gás?
+
+message_36:
+      text:
+
+#Canopy
+#Location: Train Station
+
+message_37:
+      text: \n<CANOPY>Eu observo com meu olhinho...\!<br>Um guarda-chuva colorido cheio de perninhas!
+
+#Breezy
+#[UNPLACED: Orange Oasis Club Sandwich]
+
+
+message_40:
+      text:
+
+message_42:
+      text:
+#--------------------------------------------------------------------------------------------------
+#DW_NPC_18
+
+#Child on Stilts
+#[UNPLACED]
+message_43:
+      text: \n<CRIANÇA COM PERNA DE PAU>Eu tô preso e não consigo descer.
+
+message_44:
+      text: \n<CRIANÇA COM PERNA DE PAU>Eu já aceitei minha situação
+
+#--------------------------------------------------------------------------------------------------
+#DW_NPC_19
+
+#Barbracoa
+#Location: Last Resort Hallway
+message_45:
+      text: \n<BARBRACOA>\sinv[1]Oh! Meus queridos filhos trabalham tão duro...\!\sinv[0]<br>É bom que vocês não estejam atrapalhando eles...\! senão...
+
+
+message_46:
+      text: \n<BARBRACOA>Eu vou \com[2]dar um soco em vocês tão forte que vão se esquecer que dia é hoje!
+
+#Decay
+#Location: Deeper Well
+message_47:
+      text: \n<DECADÊNCIA>O tempo sempre se move pra frente.\! Eventualmente, a verdade ficará clara...\! Você sabe muito bem...\! não é mesmo, SONHADOR?
+
+message_48:
+      text:
+
+#Dowon
+#SW GALLERY
+message_49:
+      text: \n<DOWON>DOWON pensava que DOWON entendia sobre arte...\! Mas depois que veio aqui, DOWON não sabe mais.
+
+message_50:
+      text:
+
+#Parsnip
+#[UNPLACED]
+message_51:
+      text: \n<PARSNIP>Eu sou o oitavo experimento da MARINA...\! provavelmente.\! Ela me fez com musgo e mudas de feijão quando ainda era uma adolescente.
+
+message_52:
+      text: \n<PARSNIP>\sinv[1]Nyeeeeeeeehhh...
+
+message_352:
+      text: \n<PARSNIP>\sinv[1]Nyaaaaahhhhhh...
+
+#Renbi
+#Location: Last Resort Entrance
+message_53:
+      text: \n<RENBI>Haha... Cara, aquela é uma piada boa...\! ...\!<br>Que piada...\! super...\! engraçada...
+
+message_54:
+      text:
+
+#Burro
+#[UNPLACED]
+message_55:
+      text: \n<BURRO>Eu sou o quinto experimento da MARINA.\! Ela me fez com papelão e \c[3]DOCE\c[0] quando ainda era uma criança.
+
+message_350:
+      text: \n<BURRO>\com[2]Ooh!\! Meus docinhos!
+
+message_351:
+      text: \n<BURRO>É bom ter reconhecimento.
+
+#Peeve
+#[UNPLACED]
+message_57:
+      text: \n<PEEVE>Eu sou o sexto experimento da MARINA.\! Ela me fez com balões e mágica quando ainda era uma adolescente.
+
+message_353:
+      text:
+
+message_354:
+      text:
+
+#------------------------------------------------------------------------------------------
+#DW_NPC_20
+
+#Gallipot
+#[UNPLACED]
+message_56:
+      text: \n<GALLIPOT>Olá, jovens viajantes!\! Por favor provem alguns de meus refrescos.\!<br>Eu que fiz tudo!
+
+message_58:
+      text: \n<GALLIPOT>Você gostaria de um \c[3]SUCO DE LARANJA\c[0] fresco por 150 CONCHAS?\$
+
+message_59:
+      text: \n<GALLIPOT>Você gostaria de um \c[3]REFRI DE PÊSSEGO\c[0] fresco por 130 CONCHAS?\$
+
+message_60:
+      text: \n<GALLIPOT>Você gostaria de um \c[3]LEITE\c[0] fresco por 150 CONCHAS?\$
+
+message_62:
+      text: \n<GALLIPOT>Minha especialidade!\!<br>Continuem refrescados, jovens viajantes!
+
+message_68:
+      text: \n<GALLIPOT>Sinto muito, jovens viajantes.\!<br>Vocês não possuem CONCHAS suficientes...
+
+#------------------------------------------------------------------------------------------
+#DW_NPC_24
+
+#Nova
+#Location: Train Station
+message_61:
+      text: \n<SPOT>Não é ótimo o ar aqui?\! Dá pra sentir a limpeza!
+
+message_103:
+      text: \n<SPOT>Não é doce o ar aqui?\! Dá pra sentir o açúcar!
+
+
+
+#Gonzo
+#Location: Underwater Highway
+message_63:
+      text: \n<GONZO>Essa rodovia é maior do que eu pensava...\!<br>Mas agora vai ser uma caminhada pra voltar ao início.\!<br>...\! Eu devia continuar andando.
+
+
+#Jogen
+#Last Resort Hotel Room
+message_65:
+      text: \n<JOGEN>Sou o campeão do pedra, papel e tesoura!\! Se você me vencer no pedra, papel e tesoura, Eu vou te dar todas as minhas economias!
+
+message_81:
+      text: O que você vai escolher?
+
+message_86:
+      text: PEDRA
+
+message_88:
+      text: PAPEL
+
+message_90:
+      text: TESOURA
+
+message_92:
+      text: NADA
+
+message_94:
+      text: \n<JOGEN>\{\com[2]\sinv[1]PREPARAAAAR...\| EEEEEEE...
+
+#SCISSORS:
+message_76:
+      text: \n<JOGEN>\com[2]Ha! Eu venci!\! O campeão reina invicto!
+
+#ROCK:
+message_78:
+      text: \n<JOGEN>O quê?\! Um empate!?\! Da próxima vez, eu serei vitorioso!
+
+
+#PAPER:
+message_64:
+      text: \n<JOGEN>...\! Huh...\! Então essa é a derrota.\! Você me derrotou, desafiante.
+
+message_66:
+      text: \n<JOGEN>Como prometido, você receberá todas as minhas economias.
+
+message_70:
+      text: Você recebeu 3 CONCHAS.
+
+message_72:
+      text: \n<JOGEN>Por favor não gaste tudo em um lugar só...
+
+message_74:
+      text: \n<JOGEN>E com a minha conta do banco vazia...\! Eu acho que vou pra estaca zero...\! Me tornarei o campeão novamente!
+
+
+#backing out
+message_83:
+      text: \n<JOGEN>Fugindo de uma luta, é?\! Isso não é muito heroico!
+
+#Drew
+#Location: Last Resort Casino
+message_67:
+      text: \n<DREW>Oi, Sou novo aqui!\! Não ligo pro trampo, mas eu amo os funcionários.\! O SILKER tá sempre contando piadas!\! Ele é um cara engraçado.
+
+#Morgan
+#Location: Otherworld Campsite
+
+message_69:
+      text: \n<MORGAN>Aquela MÁQUINA DE RECICLAGEM acabou de me dar um prêmio maneiro quando reciclei algumas LATAS!\! Reciclar vale a pena!
+
+#Urchin
+#Location: Underwater Highway
+message_71:
+      text: \n<URCHIN>Por favor evite meus espinhos a todo custo. Obrigado.
+
+#Sully
+#[UNPLACED]
+message_73:
+      text: \n<SULLY>Eu sou o sétimo experimento da MARINA...\! apesar dos números já estarem ficando misturados a essa altura.\! Ela me fez com passáros quando ainda era uma adolescente.
+
+message_355:
+      text: \n<SULLY>Isso me enche de raiva.
+
+message_356:
+      text: \n<SULLY>Isso contribui para minha abundante felicidade.
+
+#Yellow
+#[UNPLACED]
+message_75:
+      text: \n<YELLOW>Aww... droga!\! Falta só um \c[4]DÓLAR DINO\c[0] para eu poder comprar uma \c[4]COLHER DE PRATA\c[0]!
+
+#Chow
+#Location: Train Station
+message_77:
+      text: \n<CHOW>Eu só vi esse trem andar uma vez, e já fazem anos...\! Provavelmente vai para um lugar totalmente diferente agora.
+
+message_105:
+      text: \n<CHOW>Eu nunca estive nessa parada antes.\! Mal posso esperar para explorar o \c[11]OÁSIS LARANJA\c[0]... um lugar cheio de possibilidades!
+
+#Sydney
+#[UNPLACED]
+message_79:
+      text: \n<SYDNEY>Um hamster com uma pochete é essencialmente um canguru pequeno.
+
+
+#Treble
+#Location: Otherworld Campsite
+message_80:
+      text: \n<TREBLE>Ah...\! A vista aqui é espetacular.
+
+#Andy
+#Location: Train Station
+message_82:
+      text: \n<ANDY>Quando eu espero por muito tempo, eu fico agitado!\! \com[2]Quero me mexer! Quero me mexer!
+
+
+#Fred
+#Location: Train Station
+
+message_84:
+      text: \n<FRED>Estou em meu caminho para conduzir negócios importantes.\! E depois, eu vou conduzir negócios mais importantes.
+
+#Location 2: Mr. Jawsum's Concierge
+
+message_85:
+      text: \n<FRED>Eu estou esperando aqui para conduzir alguns negócios importantes.\! E depois, eu vou conduzir negócios mais importantes.
+
+
+
+#Whizzy Whitney
+#Location: Train Station
+
+message_87:
+      text: \n<WHITNEY VELOZ>Yeah! Eu sou muito rápido, mas não tão rápido quanto um trem!\!<br>É importante saber seus limites!
+
+
+
+#Batzy
+#Location: Sprout Mole Colony
+message_89:
+      text: \n<BATZY>Meus amigos costumavam viver nesses túneis, mas todos eles saíram para procurar seu líder, que desapareceu...\! Vocês acham que eles vão voltar um dia?
+
+message_101:
+      text: \n<BATZY>Meus amigos estão voltando lentamente!\! Bem...\! ao menos a maioria.
+
+#Ricoli Ravioli
+#[UNPLACED]
+message_91:
+      text: \n<RICOLI RAVIOLI>Bem vindos ao \c[11]OÁSIS LARANJA\c[0], onde a lua brilha mais forte!\! Eu sou RICOLI RAVIOLI, um entusiasta da culinária.
+
+
+#Gluten
+#Sweetheart Gallery
+message_93:
+      text: \n<GLÚTEM>Essas pinturas...\! Elas despertaram algo dentro de mim.\! Espero que não seja permanente.
+
+
+#Artichoke
+#[UNPLACED]
+message_95:
+      text: \n<ALCACHOFRA>Os tesouros em exibição aqui vieram de lugares do mundo todo!\!<br>Eu queria viajar pelo mundo um dia...
+
+#Fuchsia
+#[UNPLACED]
+message_96:
+      text: \n<FÚCSIA>Eu sou o primeiro experimento da MARINA.\! Ela me fez com areia e frutas quando ainda era um bebê.
+
+message_97:
+      text: \n<FÚCSIA>Hehe...\! Faz cócegas...
+
+message_357:
+      text: FÚCSIA fez uma estrelinha.
+
+
+#Grunty
+#[UNPLACED]
+message_98:
+      text: \n<GRUNTY>Da última vez que fui ao \c[11]CAVA-SAURO\c[0], encontrei tesouros incríveis!
+
+message_99:
+      text: \n<GRUNTY>Mas agora eu tentei o \c[11]CAVA-SAURO\c[0], e só achei algumas \c[3]BARRAS DE GRANOLA\c[0]...
+
+#Frank
+#Location: Train Station
+message_100:
+      text: \n<FRANK>Se essa fila não se mexer logo...\!<br>O cara na minha frente vai ver só.
+
+
+#Krispy
+#Location: Last Resort Casino
+message_102:
+      text: \n<KRISPY>Dá próxima vez que eu decidir tirar férias em um lugar aleatório, me lembre de checar as avaliações antes.
+
+
+#Tuna Can
+#Location: Underwater Highway
+
+message_104:
+      text: \n<LATA DE ATUM>Acabou todo o meu atum!
+
+#Zarf
+#Location: Otherworld Campsite
+message_106:
+      text: \n<ZARF>Muitos humanos por aqui hoje...\! Vocês sempre foram fãs de viagem espacial.
+
+#Jorge
+#Location: Last Resort Entrance
+message_107:
+      text: \n<JORGE>Ei! Crianças, vocês estão aqui de férias ou são funcionários?\! Com toda essa construção acontecendo, eles podiam ao menos investir em alguns uniformes...
+
+#Basket Case
+#Location: Last Resort Entrance
+
+message_108:
+      text: \n<MALETA>Hoje, eu acidentalmente trombei em um dos funcionários...\! então ela me chamou de pateta e me deu uma cabeçada que me jogou pra longe.
+
+message_109:
+      text: \n<MALETA>Quem iria imaginar que cabeçadas podiam doer tanto!?\! Eu definitivamente não.
+
+message_110:
+      text: \n<MALETA>No caminho até aqui, pisei sem querer no pé de uma BROTOPEIRA...\! então ela me xingou de plebeu miserável e me deu um tapão.
+
+message_111:
+      text: \n<MALETA>Hunf...\! Devo ter machucado muito o pé dela...
+
+#Owangee
+#[UNPLACED]
+message_112:
+      text: \n<LALANJA>Esse lugar é ruim para as minhas cáries...\!<br>mas quem é que precisa de dentes!?
+
+message_113:
+      text:
+
+#Applefly
+#[UNPLACED]
+message_114:
+      text: \n<MOSCAÇÃ>Eu sou o quarto experimento da MARINA.\! Ela me fez com maçãs sujas quando ainda era uma criança.
+
+message_115:
+      text: \n<MOSCAÇÃ>Oh?
+
+message_358:
+      text: \n<MOSCAÇÃ>Ok, pare!
+
+message_370:
+      text: \n<MOSCAÇÃ>\sinv[1]Bzzzzzz...\| Ooo...\| Isso...\| Bzzzzzzzzzzzz...\!<br>Mmmmmmmmmmmm...\! Aí mesmo, atrás do caule...
+
+#Snug
+#Location: Otherworld Campsite
+message_116:
+      text: \n<SNUG>É nesses momentos que eu me lembro como o nosso universo é algo lindo!
+
+message_117:
+      text:
+
+#Wily
+#UNPLACED]
+message_118:
+      text: \n<WILY>O \c[11]OÁSIS LARANJA\c[0] é cheio de pessoas velhas que estão aqui há muitos, muitos anos.
+
+message_119:
+      text: \n<WILY>Mas eu tenho esperança...\! Um dia, esse lugar será uma cidade próspera!\! Tem muito espaço para o desenvolvimento!
+
+#Cinder
+#Location: Last Resort Casino
+message_120:
+      text: \n<CINZAS>Mano... não me sinto bem.\!<br>Sou eu ou esse lugar está girando?
+
+message_121:
+      text:
+
+#Dango
+#Location: Train Station
+message_122:
+      text: \n<DANGO>Eu não aguento falar com esse cara abelhudo.\! Ele está me enlouquecendo!
+
+message_123:
+      text:
+
+#-----------------------------------------------------------------------------------------------------------------------------------------
+#DW_NPC_25
+
+#Aliana
+#Location: Cattail Field
+message_124:
+      text: \n<ALIANA>O céu não é algo lindo?\! É legal saber que compartilho essa vista com várias outras pessoas.
+
+#Ghian
+#Loation: Outskirts
+message_125:
+      text: \n<GHIAN>Estou acabado depois dessa caminhada difícil!\! Eu nem sei se vou sentir minhas pernas amanhã.
+
+#Chelle
+#Location: Cattail Field
+message_126:
+      text: \n<CHELLE>Carambolas...\! Eu juro que deixei minha \c[3]ROSQUINHA\c[0] por aqui...
+
+
+
+#Goosey
+#Location: Train Station
+message_128:
+      text: \n<GOOSEY>Essa fila imensa é a desculpa perfeita pra eu me adiantar no meu sono rejuvenecedor!
+
+
+
+#Tiffany Darling
+#Location: Last Resort Casino
+message_130:
+      text: \n<TIFFANY QUERIDA>\sinv[2]Nyoh hoh hoh!\sinv[0]\! Mais uma vitória para mim!\!<br>Hoje é meu dia de sorte!
+
+message_134:
+      text: \n<TIFFANY QUERIDA>\sinv[2]Pegue essas CONCHAS! Eu não preciso delas!\!<br>Sou rica! Rica! E você também!
+
+message_127:
+      text: Você recebeu 100 CONCHAS!
+
+message_129:
+      text: Você recebeu 500 CONCHAS!
+
+message_139:
+      text: Você recebeu 1000 CONCHAS!
+
+message_141:
+      text: Você recebeu 2000 CONCHAS!
+
+message_131:
+      text: \n<TIFFANY QUERIDA>\sinv[2]Nyoh hoh hoh!\sinv[0]\! Essa exposição é simplesmente magnífica!
+#Jerko
+#Location: Train Station
+message_132:
+      text: \n<JERKO>Pode falar pro cara na minha frente ir mais depressa?\!<br>Alguns de nós tem uma vida, sabe?
+
+#Location 2: Last Resort
+message_133:
+      text: \n<JERKO>\com[2]O que esse chefe tá pensando falando pra todo mundo esperar?\!<br>Quem ele acha que é!?\! Alguns de nós tem uma vida, sabe?
+
+
+
+#Mott
+
+#Location: Train Station
+message_137:
+      text: \n<MOTT>Ando vendo alguns CARAS JACARÉS por aqui recentemente...\!<br>Isso significa que o chefão voltou aos negócios...<br><br>Huh?\! Você não conhece o chefão?\! Bem, logo você vai.
+
+#Location: Mr. Jawsum's Concierge
+message_135:
+      text: \n<MOTT>SR. MANDÍBARÃO...\! Esse é um nome que chama a atenção de todo mundo por aqui.
+
+message_136:
+      text: \n<MOTT>Ouvi dizer que ele é do tipo que não suja as próprias mãos...\! e eu não o culpo por isso!\! Eu faria o mesmo se eu pudesse ter qualquer coisa com um estalar de dedos!
+
+
+#Miggie
+#Location: Last Resort Casino
+message_138:
+      text: \n<MIGGIE>Eu viajei da cidade até aqui para isso?\! Eu preciso de férias para as minhas férias...
+
+
+
+#Tapioca
+#Location: Underwater Highway
+message_140:
+      text: \n<TAPIOCA>A água aqui é um pouco mais quente do que na caverna lá nas montanhas.
+
+
+
+#Brooke
+#Location: Train Station
+message_142:
+      text: \n<BROOKE>Eu sempre me encontro em situações precárias.\!<br>Eu imagino se isso conta...
+
+#Location 2: Last Resort Casino
+message_143:
+      text: \n<BROOKE>Eu sempre me encontro em situações precárias.\!<br>Eu imagino se isso conta...
+
+message_144:
+      text:
+
+#Megaphone
+#Location: Train Station
+message_145:
+      text: \n<MEGAFONE>Muitos trens costumavam passar por essa floresta, mas agora só tem um.
+
+
+message_146:
+      text:
+
+#Cat Pyramid
+#Location: SW Art Gallery
+message_147:
+      text: \n<PIRÂMIDE GATO>Que apresentação espetacular!\! Essa visita valeu muito a pena a viagem que fiz partindo do \c[11]OÁSIS LARANJA\c[0]!
+
+
+#Gasper
+#Location: Train Station
+message_149:
+      text: \n<GASPER>\sinv[1]La... Lala... la... lala... la!\sinv[1]
+
+message_150:
+      text: \n<GASPER>Minha cantoria faz o tempo passar mais rápido para mim...\! e mais lento para os outros!
+
+
+#Cowblin
+#Location: Train Station
+message_152:
+      text: \n<VACABLIN>Mamãe pediu para eu vestir uma jaqueta porque ela achou que ia esfriar...
+
+message_153:
+      text: \n<VACABLIN>Uuh...\! Está tão quente agora...\! mas eu não quero tirar minha jaqueta...\! porque eu teria que carregá-la.
+
+message_154:
+      text: \n<VACABLIN>Uuh...\! Agora está ainda mais quente do que antes...
+
+#Square
+#Location: Train Station
+message_155:
+      text: \n<QUADRADO>\com[2]Chomp! Chomp! Chomp!
+
+#Pellet
+#[UNPLACED]
+message_156:
+      text: \n<PELOTA>A água dessa lagoa é tão cristalina!\! Parece até que tem um mundo inteiro do outro lado!
+
+message_157:
+      text: \n<PELOTA>A água dessa lagoa tá ficando meio turva...\! O que aconteceu?\! Era tão limpa antes...
+
+#Loam
+#Location: Otherworld Lake
+message_158:
+      text: \n<ARGILA>\sinv[1]ARGILOSA...\! ARGILA ARGILA...\! ARGILA ARGILOSA...\! é argilosa.
+
+
+
+#This Guy
+#[UNPLACED]
+message_160:
+      text: \n<ESSE CARA>Eu sou o segundo experimento da MARINA...\! Ela me fez com argila e pedras quando ainda era um bebê.
+
+#POKE
+message_159:
+      text: \n<ESSE CARA>Hmm...\! Tocar é legal...\! mas prefiro um "toca aqui".
+
+#PET
+message_161:
+      text: \n<ESSE CARA>Hmm...\! Carinho é legal...\! mas prefiro um aperto de mão.
+
+#Red Smile
+#[UNPLACED]
+message_162:
+      text: \n<SORRISO VERMELHO>
+
+message_163:
+      text:
+
+#Porinu
+#[UNPLACED]
+message_164:
+      text: \n<PORINU>Eu sou o terceiro experimento da MARINA.\! Ela me fez com uma luva de borracha quando ainda era uma criancinha.
+
+message_165:
+      text: \n<PORINU>\com[2]Que!?\! Quem está ai!?
+
+message_359:
+      text: \n<PORINU>\com[2]Quem fez isso!?\! Se revele!
+
+#Sereno
+#[UNPLACED]
+message_166:
+      text: \n<SERENO>As lendas falam sobre dois irmãos gêmeos que são guardiões do \c[11]OÁSIS LARANJA\c[0] , e vigiam tudo com seus olhos perspicazes.\! Dizem que eles podem levantar os mortos...\! além de outras coisas...
+
+message_167:
+      text: \n<SERENO>Eu não sei se há muitas verdades nessas lendas, mas não seria interessante?
+
+#Brelle
+#SW GALLERY
+message_168:
+      text: \n<BRELLE>Uau... essa obra mexeu muito comigo...\! A representação crua do imenso ego da artista é realmente algo de tirar o fôlego.
+
+message_169:
+      text:
+
+#Mooncake
+#Location: Train Station
+message_170:
+      text: \n<BOLOLUA>BLOOKIE fica triste fácil, mas ele só precisa de alguém para ouvi-lo de vez em quando...\! e esse alguém sou eu!
+
+message_171:
+      text:
+
+#Blookie
+#Location: Train Station
+message_172:
+      text: \n<BLOOKIE>Todo mundo aqui é tão diferente e interessante...\! Eu imagino o que me faz diferente e interessante...
+
+message_173:
+      text:
+
+#Whatever
+#Location: Train Station
+message_174:
+      text: \n<TANTOFAZ>Eu preciso de pilhas enormes de grana.
+
+#Location 2: Mr. Jawsum's Concierge
+message_175:
+      text: \n<TANTOFAZ>Eu preciso de pilhas enormes de grana.
+
+message_176:
+      text:
+
+#Babo
+#Location: Frozen Forest
+message_177:
+      text: \n<BABO>BABO gosta de frio...\! faz BABO grato quando está quente...
+
+
+message_178:
+      text:
+
+#Hoffy
+#Location: Last Resort Casino
+message_179:
+      text: \n<HOFFY>Preciso fazer uma pausa dos caça-níqueis...\!<br>Está começando a dar cãibra nos meus braços.
+
+message_180:
+      text:
+
+#Andrew
+#Location: Last Resort Casino
+message_181:
+      text: \n<ANDREW>Hoje eu estou planejando ganhar pra valer!\!<br>Irra, Isso mesmo! Pensando positivo!
+
+message_182:
+      text:
+
+#Quaspy
+#Location: Outskirts
+message_183:
+      text: \n<QUASPY>Durante nossa caminhada agora há pouco, Eu percebi um rosto afundado em um penhasco.\! Eu me pergunto o que é aquilo.
+
+
+message_184:
+      text:
+
+#Citrus
+#Location: Train Station
+message_185:
+      text: \n<CITRUS>Na verdade eu não curto muito os trens.\! Eu estou aqui pela música!
+
+message_186:
+      text:
+
+#Lulu
+#Location: Last Resort Casino
+message_187:
+      text: \n<LULU>Acho que reservei o ônibus errado...\! Esse lugar parecia diferente nos anúncios...
+
+message_188:
+      text:
+
+#Amelia
+#Location: Last Resort Casino
+message_189:
+      text: \n<AMELIA>Gah... Como eu acabei aqui?\!<br>Essa semana aconteceu cada coisa...
+
+#SW GALLERY
+message_190:
+      text: \n<AMELIA>Uau, essa é uma exibição incrível...\! No entanto, é estranho.\! Eu não lembrava que esse castelo estava aqui antes.\! Talvez eu esteja vendo coisas...
+
+#-------------------------------------------------------------------------------------------
+#DW_NPC_26
+
+#Soy Sauce
+#Location: Last Resort Casino
+message_191:
+      text: \n<MOLHO DE SOJA>Aww, Catapimbas! Eu perdi de novo!\! Eu sei que essa máquina é uma marmelada!<br>\!Eu apostaria meu pé que estou certo!
+
+#SW GALLERY
+message_192:
+      text: \n<MOLHO DE SOJA>Galerias são para exibir coisas maneiras!\! Eles deviam estar me exibindo!\! Eu também sou maneiro!
+
+#Tater
+#Location: Train Station
+message_193:
+      text: \n<TATER>Eu já vou me levantar.\! Só... me dá um minutinho.
+
+message_194:
+      text:
+
+#Simple Roach
+#Location: SW Kitchen
+message_195:
+      text: \n<BARATA SIMPLES>\com[2]Ah! Fui encontrada!\! Por favor não conte pra ninguém que eu estou aqui!\! É que eu gosto de lanchar na dispensa...\! Assim... todo mundo faz isso!
+
+message_196:
+      text:
+
+#Spaghetti
+#Location: Mr. Jawsum's Concierge
+message_197:
+      text: \n<ESPAGUETE>Esse cara do meu lado está tramando algo suspeito... mas eu não sei o quê...
+
+message_198:
+      text:
+
+#Wollie
+#Location: Last Resort Casino
+message_199:
+      text: \n<WOLLIE>Você ganha umas, você perde outras...\!<br>Pelo menos, isso é o esperado.\!<br>Exceto eu.\! Eu só perco...\! sempre.
+
+
+message_200:
+      text:
+
+#Bafino
+#Location: Last Resort Casino
+message_201:
+      text: \n<BAFINO>Uau! Pagar pela experiência VIP foi a melhor decisão que eu já fiz!
+
+message_202:
+      text: \n<BAFINO>Eu acabei de chegar de um bufê "tudo-que-você-consegue-gastar" muito caro, e ouvi dizer que vai ter um leilão valendo um \c[3]TOFU\c[0] hoje à noite!\!<br> Pode contar que estarei lá!
+
+message_203:
+      text:
+
+#Scuba
+#Location: Mr. Jawsum's Concierge
+message_204:
+      text: \n<SCUBA>Oh... Atrasei meus pagamentos novamente...\! o SR. MANDÍBARÃO vai botar minha cabeça em um espeto!\! Ai de mim... Ai de mim...
+
+message_205:
+      text:
+
+#Darville
+#Location: Train Station
+message_207:
+      text: \n<DARVILLE>Oh, cara... estou em apuros agora...\!<br>Hunf...\! Por que tem que ser sempre eu!?
+
+message_209:
+      text: \n<DARVILLE>...\! Isso não te interessa, guri.\! Tome cuidado com quem você se associa.\! Eu tenho experiência com isso!
+
+#Location: Mr. Jawsum's Concierge
+message_206:
+      text: \n<DARVILLE>Aww, cara...\! Sempre tenho que contar ao MANDÍBARÃO que outro investidor recusou a proposta!\! Mas não é minha culpa, certo!?\! ...\! Sem chance que vou falar isso pra ele.
+
+#Obaaa
+#Location: Train Station
+message_208:
+      text: \n<OBAAA>\sinv[1]Obaaaaaaaaaaaaaaaaa!\sinv[0]
+
+
+#Diving Man
+#Location: Underwater Highway
+message_210:
+      text: \n<MERGULHADOR>Eu esperava ver a vida marinha...\!<br>mas não esperava por isso...
+
+message_211:
+      text:
+#-------------------------------------------------------------------------------------------------------
+#DW_NPC_27
+
+#Maestro
+#Location: Junkyard Entrance - Before Junkyard
+message_212:
+      text: \n<MAESTRO>Meus cavalheiros.\! Estou procurando por arte.\!<br>Não se preocupe...\! pois eu irei lhe avisar quando encontrar!
+
+#Location: Junkyard Entrance - After Junkyard
+message_213:
+      text: \n<MAESTRO>Curioso, eu encontrei arte no lugar mais inesperado!\!<br>A madame certamente estará satisfeita.
+
+#Location 2: SW Art Gallery
+message_214:
+      text: \n<MAESTRO>Para trás!\! Essa não é a obra de arte mais refinada que seus olhos já presenciaram?
+
+#Buckaroo
+#[UNPLACED]
+message_400:
+      text: \n<SR. SERTÃO>Como vão voces, meus cumpadi?\! meu nome é SR. SERTÃO...\! e eu tava mais ocupado que uma mariposa em uma lâmpada viajando pelo mundo na minha juventude!
+
+message_401:
+      text: \n<SR. SERTÃO>Hoje em dia... sô mais reservado.\! Fico na colina dando conselhos pra quem pedir.
+
+message_402:
+      text: \n<SR. SERTÃO>O povo que tá aqui desde sempre...\! Eles sabem mais do que parece...
+
+message_403:
+      text: \n<SR. SERTÃO>Temos um terceiro olho, arrisco dizer...\! um sexto sentido...\! se é que ocê me entende.
+
+message_404:
+      text: \n<SR. SERTÃO>Seus três amigos com cabelo roxo estão cheios de amor e espírito...\! Mas ocê, garoto do cabelo preto.\! Sua aura é toda bizonha!
+
+message_405:
+      text: \n<SR. SERTÃO>É escura e distorcida...\! e isso não vai mudar tão cedo.\! Cê tem uma baita jornada pela frente.
+
+message_406:
+      text: \n<SR. SERTÃO>Não quero te desanimar, garoto.\! Todo mundo tem sua própria jornada...\! e eu preciso ajudar você com a sua!
+
+message_407:
+      text: \n<SR. SERTÃO>Eu posso responder um bocado de perguntas...\!<br>então manda ver, tô à disposição!
+
+#NOTHING
+
+message_408:
+      text: \n<SR. SERTÃO>Ocê não quer aprender nada de um velho como eu?\! A vida é sua...\! mas eu vou continuar aqui...\! torcendo...\!\sinv[1] e retorcendo...\sinv[0] por você!
+
+#NOTHING
+
+message_409:
+      text: ONDE ESTOU?
+
+message_410:
+      text: ONDE ESTÁ O BASIL?
+
+message_411:
+      text: QUANTOS ANOS VOCÊ TEM?
+
+message_412:
+      text: NÃO PERGUNTAR NADA
+
+message_413:
+      text: \n<SR. SERTÃO>\sinv[1]Irraaaaa!\sinv[0]\! Essa é boa!\! Por onde eu começo?\! Hmm...\! Bom, esse lugar existe desde o ínicio do tempo, creio eu.
+
+message_419:
+      text: \n<SR. SERTÃO>Ele é diferente pra cada um...\! mas dessa vez, é muito colorido e fofinho na maior parte...\! sem mencionar que é gigante!<br>Essa sua imaginação é poderosa, garoto.
+
+message_414:
+      text: \n<SR. SERTÃO>Bem, sei que seu amigo não tá aqui!\! Mas eu acho que ocê sabe como descobrir essa resposta.\! Quando alguém busca a verdade...\! o mundo criará um conjunto de CHAVES.<br>e estas CHAVES...\! elas tomam uma forma diferente dependendo das intenções da pessoa.\! Ocê sabe como suas chaves se parecem, não é mesmo?\! É só apertar \DII[pageup]!
+
+message_417:
+      text: \n<SR. SERTÃO>\com[2]Não sabe que é falta de educação perguntar isso pra um idoso?\! Eu diria que tenho uns 33000 anos, mais ou menos...\! mas não é como isso importasse agora.
+
+message_415:
+      text: \n<SR. SERTÃO>Agora é bom vocês darem no pé!\! É uma longa jornada a seguir, jovens trombadinhas!
+
+message_416:
+      text: \n<SR. SERTÃO>Estou torcendo...\!\sinv[1] e retorcendo...\sinv[0] por você!
+
+message_418:
+      text: \n<SR. SERTÃO>E isso é tudo que ela escreveu!\! Você quer me perguntar mais alguma coisa?
+
+message_420:
+      text: SR. SERTÃO se tranformou em areia.
+
+message_421:
+      text: Uma escultura de areia de um velho peculiar.
+
+message_422:
+      text: \n<???>Olá sô!
+
+#rootin and tootin
+#buckaroo
+
+
+#Fiesta
+#Location: Last Resort Casino
+message_218:
+      text: \n<FIESTA>Cansei dos caça-níqueis, mas não tem muitas coisas para fazer por aqui...\! Eu deveria voltar para a cidade!
+
+message_219:
+      text:
+
+#Touchdown
+#Location: Mr. Jawsum's Concierge
+message_220:
+      text: \n<TOUCHDOWN>Ouvi dizer que o MANDÍBARÃO tem um novo guarda-costas que é bem durão, mas ele não tem chance contra TOUCHDOWN!
+
+
+message_221:
+      text:
+
+#Trevor
+#Location: Frozen Forest
+message_222:
+      text: \n<TREVOR>Não havia neve onde eu cresci, mas mesmo assim me faz ter saudades da infância...\! Eu me pergunto por que...
+
+message_223:
+      text:
+
+#Mountain
+#Location: Train Station
+message_224:
+      text: \n<MONTANHA>É uma benção existir.
+
+message_225:
+      text:
+
+#Cesar
+#Location: Last Resort Casino
+message_226:
+      text: \n<CESAR>Esse lugar é incrível!\! Estou tendo o melhor dia da minha vida!
+
+#Message in the bottle
+#Location: Otherworld Lake
+message_227:
+      text: Uma mensagem engarrafada.\! Você quer ler?
+
+message_228:
+      text: \"Quando a lua acerta o seu olho como uma grande torta de pizza, isso é...\"
+
+message_229:
+      text: Você completou a mensagem e jogou a garrafa de volta no lago.
+
+#Lemonade Jash
+#Location: Train Station
+message_230:
+      text: \n<JASH LIMÃO>Eu gosto de me considerar um JASH bem calmo...\!<br>mas se tem algo que não suporto...\! são os fura-filas...
+
+#Gibs
+#Location: Train Station
+message_231:
+      text: \n<GIBS>Não tem todas as \sinv[1]belezinhas?\sinv[0]\! Ah, tudo bem.\! Qualquer coisa ajuda.\!<br>Essa música é uma das minhas favoritas.\! Por favor aproveite!
+
+message_232:
+      text: \n<GIBS>Aaah...\! Tudo bem.\! Tá tudo uma \sinv[1]belezinha...\sinv[0]
+
+#Gumbo
+#Location: OTHERWORLD
+message_233:
+      text: \n<GUMBO>GUMBO... \!\{\sinv[1]FELIZ!\sinv[0]
+
+message_234:
+      text: Você está certo de que essa piscina é assombrada.\!<br>Você quer entrar?
+
+#Sprout Mole
+#Location: Train STATION
+message_235:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 31
+    text: \kel\Com[2]\{AHHHHHHHHHH, SOCORRO!!\!\}<br>É uma plantinha feia!
+
+message_236:
+    text: \n<BROTOPEIRA>Com licença!\! Eu não sou nehuma plantinha feia!\!<br>Eu sou uma BROTOPEIRA, uma criatura muito inteligente e altamente qualificada.
+
+message_237:
+    text: \n<BROTOPEIRA>Você está se referindo à uma BROTOPEIRA PERDIDA.\!<br>Quando BROTOPEIRAS se perdem, elas podem acabar ficando hostis e atacar sem aviso!
+
+message_238:
+    text: \n<BROTOPEIRA>Hmm...\! Na verdade...\! Onde eu estou?\!<br>... \!Será que eu estou... \!perdida?
+
+message_239:
+    text: \n<BROTOPEIRA>Urgg...\! De repente, eu não me sinto tão bem...
+
+message_240:
+    text: \n<BROTOPEIRA PERDIDA>...\| ...\| ...
+
+message_241:
+    text: \n<BROTOPEIRA PERDIDA>\sinv[1]\{\com[2]EEEE\{EEEEEE\{EEEEEEEEEEEEEE!!!
+
+#Gator Guy Rubber BAND
+
+message_245:
+    text: Você conseguiu \c[5]ELÁSTICO\c[0].
+
+message_246:
+    text: \n<CARA JACARÉ>Você finalmente causou uma boa impressão pro chefe, KEL?\! Você é um pestinha, mas vou te proteger.
+
+message_247:
+    text: \n<CARA JACARÉ>Aconteceu algo com o chefe...\! Faz um tempo que não ouço ele rir.\! ...\! Meio que sinto falta...
+
+message_248:
+      text: \n<CARA JACARÉ>Vou sentir sua falta, AUBREY.\! Lemmbre-se da nossa conversa, ok?\! Não leve as coisas tão a sério!\! Tudo bem rir às vezes.
+
+message_249:
+      text: Esse é o fim da rodovia.
+
+message_251:
+      text: \n<BROTOPEIRA SUSPEITA>\com[2]\quake[1]\{\{EEEEEE\{EEEE\{EEEEEEEEK!!
+
+#TOILET
+
+message_252:
+      text: Você quer voltar para o \c[11]ÚLTIMO RESORT\c[0]?
+
+message_253:
+      text: Você quer voltar para o \c[11]FUNDO DO POÇO\c[0]?
+
+
+#SPROUT MOLES IN ART Gallery
+message_255:
+      text: \n<BROTOPEIRA EMPREGADA>Me deixe passar! Você não sabe o quanto eu esperei para ver a nova obra da SWEETHEART!
+
+message_256:
+      text: \n<BROTOPEIRA MORDOMO>Deixe-me entrar por favor! eu prometo que vou dar uma boa nota!
+
+message_257:
+      text: \n<BROTOPEIRA MORDOMO>De volta para suas estações, vocês dois!\!<br>Vocês sabem que os convidados têm prioridade!
+
+message_258:
+      text: \n<BROTOPEIRA MORDOMO>Você não passará!
+
+message_259:
+      text: \n<BROTOPEIRA EMPREGADA>Galera, parem com isso!\! Vocês não estão ajudando!
+
+message_260:
+      text: \n<BROTOPEIRA EMPREGADA>Ai ai...\! Supostamente era para termos HAROLDOS tomando conta da entrada do show...\! mas ouvi dizer que estão todos no SALÃO DE BAILE e na BIBLIOTECA...
+
+message_261:
+      text: \n<BROTOPEIRA EMPREGADA>Sejá lá o que está acontecendo deve ser um baita evento se é mais importante do que a nova exibição da SWEETHEART!
+
+message_262:
+      text: \n<BROTOPEIRA EMPREGADA>Sejam bem-vindos à \c[11]GALERIA REAL\c[0]!\!<br>Por favor aproveitem um \c[3]TOFU\c[0] complementar!
+
+message_263:
+      text: \n<BROTOPEIRA EMPREGADA>Bem-vindos à \c[11]GALERIA REAL\c[0]!\!<br>A exibição desse mês é \"OEUVRES DE SWEETHEART\"!
+
+message_264:
+      text: Você conseguiu \c[3]TOFU\c[0]!
+
+message_265:
+      text: \n<BROTOPEIRA MORDOMO>Ei, cara... Você tá bem?\! Seu rosto está pálido!
+
+message_266:
+      text: \n<BROTOPEIRA MORDOMO>Eu e os manos estamos pensando em ir ao karaokê essa semana.\! Vocês deviam ir com a gente!
+
+message_267:
+      text: \n<BROTOPEIRA MORDOMO>Vou cantar com minha alma no karaokê dessa semana!\! Ninguém pode superar meu cover de \"DON'T STOP SWEETHEART\"!
+
+message_268:
+      text: \n<BROTOPEIRA EMPREGADA>Eu também quero ir no karaokê...
+
+message_269:
+      text: \n<BROTOPEIRA EMPREGADA>SWEETHEART pode fazer qualquer coisa!\! Ela sabe pintar, cantar, dançar, e até criar filmes!\! ...\! Eu só queria que ela me notasse...
+
+#LAST RESORT BREAKROOM
+
+message_280:
+      text: \n<CARA JACARÉ>Fica de boa.\! Não vamos brigar com você...\!<br>Pelo menos não na hora do almoço.
+
+message_281:
+      text: \n<CARA JACARÉ>Não somos responsáveis se algo sumir dos armários.\!<br>Deixem as coisas valiosas em casa, pessoal!
+
+message_282:
+      text: \n<CARA JACARÉ>Eu juro...\! O próximo cara que deixar restos de peixe no micro-ondas vai se ver comigo...
+
+#LAST RESORT CONSTRUCTION AFTER GETTING HERO
+
+
+message_286:
+      text: \n<CARA JACARÉ>Então vocês finalmente decidiram seguir em frente, huh?\!<br>Não se esqueçam da gente quando chegarem no topo!
+
+message_285:
+      text: \n<CARA JACARÉ>Tenham uma jornada segura, galera.\!<br>Sniff... Vocês cresceram tão rápido...
+
+message_287:
+      text: \n<CARA JACARÉ>Os humanos sempre anseiam por coisas maiores e melhores.\! Não voltem aqui chorando quando a parada ficar séria!
+
+message_288:
+      text: \n<CARA JACARÉ>Você tem certeza que não quer ficar mais um pouco, HERO?\!<br>...\! Bem...\! Valeu a tentativa.
+
+#LAST RESORT CONSTRUCTION AFTER HERO IS BOSS
+
+message_290:
+      text: \n<CARA JACARÉ>Ei, vocês voltaram!\!<br>Eu sabia que não ia se esquecer da gente, chefe.
+
+message_289:
+      text: \n<CARA JACARÉ>Olhem para vocês, já estão crescidos...\!<br>Se eu fosse a mãe de vocês, estaria orgulhosa...
+
+message_291:
+      text: \n<CARA JACARÉ>Bem, olha só quem está aqui!\!<br>Ouvi dizer que você é o novo dono dessa empresa.\!<br>É bom que cuide da gente, chefe!
+
+message_292:
+      text: \n<CARA JACARÉ>HERO! Eu sabia que você ia voltar para nós!\!<br>A vida tá sendo boa com você, garotão?
+
+#MINA AND Family
+
+message_300:
+      text: \n<MINA>Olá e sejam bem-vindos!\! Por favor sintam-se em casa!
+
+#Eats cheesecake
+
+message_301:
+      text: \n<RELL>Nunca tem um momento de tédio nessa casa...\!<br>Não é mesmo, VICTOR?
+
+message_302:
+      text: \n<VICTOR>\sinv[1]Uwwaaa...?
+
+message_303:
+      text: \n<JOJO>Mamãe diz que se a gente não se comportar, vamos ser mandados para o \c[11]ABISMO SOMBRIO\c[0]...\! Mas não me importo!\! Eu não tenho medo de monstros!
+
+message_304:
+      text: \n<LUKE>\sinv[1]Zzzzzzzzzzzzzzz...\! Só mais um pepperoni... por favor...
+
+message_305:
+      text: \n<NOVA>\sinv[2]Boing! Boing! Boing!
+
+message_306:
+      text: \n<ADONUS>Eu e meus irmãos cavamos um \sinv[1]loooooongo\sinv[0] túnel, e ele tem uma passagem secreta que ninguém conhece!
+
+message_307:
+      text: \n<NATHAN>Eu quero ir procurar tesouros no \c[11]CAVA-SAURO\c[0] depois, mas tenho que pedir para minha mãe antes...
+
+#CLUB SANDWICH:
+
+#LAST RESORT
+
+message_310:
+      text: \n<BROTOPEIRA MIKE>\com[2]Hicc...\! ...\! \sinv[1]CAPITÃO SPACEBOY isso...\! CAPITÃO SPACEBOY aquilo...\! mas e quanto a BROTOPEIRA MIKE?
+
+message_311:
+      text: \n<CARA JACARÉ>Essa atmosfera é top de linha.\! Eu aposto que o REUBEN prepara um \sinv[1]booooooom \c[3]SUCO DE FRUTA\c[0]...\sinv[0]
+
+message_312:
+      text: \n<CARA JACARÉ>O CLUBE SANDUÍCHE está em um nível superior aos outros.\!<br>REUBEN e HOAGIE estão evoluindo a parada!
+
+
+#PYREFLY FOREST
+
+#direction fix
+message_314:
+      text: \n<SIR MAXIMUS IV>Em uma reviravolta cruel do destino, eu perdi minha família inteira em um dia... \! Maldição...\! Se eu fosse mais forte...
+
+message_315:
+      text: \n<SIR MAXIMUS IV>Ai ai...\! REUBEN...\! vou tomar mais uma pra afogar as mágoas.
+
+message_316:
+      text: \n<REUBEN>É pra já, MAX!
+
+message_317:
+      text: \n<ROSA>Bah! São vocês quatro novamente!\!<br>Vocês já não arruinaram minha vida o suficiente!?
+
+message_318:
+      text: \n<ROSA>Graças a vocês, SWEETHEART está desaparecida!\!<br>Espero que estejam felizes com suas ações!
+
+message_319:
+      text: \n<URSO MAIS RARO>\sinv[1]Awroo?
+
+message_320:
+      text: \n<BROTOPEIRA>\{\sinv[1]SOCORRO! EU NÃO SEI O QUE FAZER!!
+
+#OTHERWORLD
+
+#ems intro
+message_321:
+      text: \n<EMS>\}Ei, olá, HERO!
+
+message_322:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 37
+      text: \herOi, EMS! Tudo bem com você?
+
+message_323:
+      text: \n<EMS>\}Estou bem...\! O HOAGIE me mandou para o sofá como um castigo...
+
+message_324:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 46
+      text: \herHuh? Você está de castigo?\! O que você fez?
+
+message_325:
+      text: \n<EMS>\}Nadinha...\! Eu só tentei comer aquelas mesas...
+
+message_326:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 47
+      text: \herO quê?\! Você tentou comer as mesas?\! Você consegue fazer isso?
+
+#HERO looks at TABLEs
+
+message_327:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 42
+      text: \herOh...\! Entendo...\! As mesas são feitas de \c[3]PÃO\c[0]...
+
+#ems afterwards
+
+message_328:
+      text: \n<EMS>\}Eu não vou comer as mesas...\! Eu não vou comer as mesas...
+
+message_329:
+      text: \n<A TERRA>...
+
+message_330:
+      text: \n<PIRATA ESPACIAL>Não diga a ninguém que eu te contei isso, mas...\!<br>É difícil ser um PIRATA ESPACIAL...
+
+message_331:
+      text: \n<PIRATA ESPACIAL>Qual é a desse show de hoje?\! Eu já ouvi muitas coisas sem graça na minha vida, mas essa ganha de lavada!
+
+message_332:
+      text: \n<PIRATA ESPACIAL>Fazer comédia stand-up é difícil...
+
+message_333:
+      text: \n<PIRATA ESPACIAL>\com[2]\sinv[2]\{\{AHAHAHAHAHAHA!!
+
+message_334:
+      text: \n<PIRATA ESPACIAL>Ei, Vocês ouviram isso!?\! A TERRA é uma bagunça!
+
+message_335:
+      text: \n<PIRATA ESPACIAL>Há quanto tempo estamos aqui?\!<br>Vocês acham que o CAPITÃO sequer percebeu que não estamos trabalhando?
+
+#ORANGE OASIS
+
+#Izzy
+
+message_41:
+      text: \n<IZZY>\sinv[1]Relaxe um pouco... Respire levemente.\!<br>É hora de descansar esses músculos cerebrais com algumas músicas.
+
+message_39:
+      text: \n<BREEZY>\sinv[1]Esvazie a mente... Relaxe.\! Bem-vindo à vila de boa...
+
+message_340:
+      text: \n<PAPA CHIP>Eu sou o PAPA CHIP!
+
+message_341:
+      text: \n<CRIANÇA PÃO>\quake[1]Hiss...
+
+#Extras
+#Location: Slime Girls Lair
+message_500:
+      text: \n<HUMPHREY>Ei, qual é.\! Você tem que escolher alguém!\!<br>Me ajuda, ok?
+
+
+#DEEPER Well/BLACK SPACE
+
+
+message_601:
+      text: \n<LACUNA>Suas memórias tem um preço.\! Para ganhar uma memória, outra deve ser coberta por névoa.\! Mas de qualquer forma...\! Todas as memórias irão se esvair eventualmente.
+
+message_615:
+      text: \n<LACUNA>Talvez você já tenha percebido...\! a maldição do \c[11]FUNDO DO POÇO\c[0].
+#-
+
+message_602:
+      text: \n<VAZIO>Com o tempo, o que é importante mudará.\! Você deve escolher o que manter e o que jogar fora.
+
+message_613:
+      text: Uma criatura balbucia palavras sem sentido.
+
+#-
+message_603:
+      text: \n<NULO>Humanos são criaturas que possuem limites.\! Seus limites te definem.\! O que te faz humano?
+
+#-
+
+message_604:
+      text: \n<NADA>Quando os problemas surgem, há sempre a opção de correr e fugir.\! Mas um dia, você pode acabar se encontrando correndo sozinho.
+
+#-
+
+message_607:
+      text: \n<PARVENU>E se isso depender de você?\! E se isso depender exclusivamente de você?
+
+message_606:
+      text: \n<PARVENU>Continue, SONHADOR.\! Você é o único que consegue.
+
+#-
+
+message_609:
+      text: \n<AUSENTE>O universo está cheio de perguntas que você nunca vai responder.\! Mesmo assim...\! há algumas que só você possui a resposta.\!<br>Quando a verdade for revelada, o que você vai fazer?
+
+#-
+
+message_610:
+      text: \n<MENOS>É egoísta sonhar por tanto tempo enquanto existem aqueles que estão esperando por você.
+
+#-
+
+
+
+message_608:
+      text: \n<MUDO>Um fardo profano foi dado a você.\! Você tem o poder de mudar o futuro.\! O que você fará, SONHADOR?\! O que fará?
+
+#-
+
+message_611:
+      text: \n<BRECHA>Da última vez que você caiu em águas profundas... \!Você foi mesmo salvo?\! Ou foi amaldiçoado?
+
+#-
+
+message_612:
+      text: \n<VÁCUO>O quão longe você irá para salvar um amigo?
+
+#-
+
+message_614:
+      text: \n<VAZIO>Nem todos podem escolher.
+
+#-
+
+
+message_148:
+      text: \n<VACA VAGANTE>\sinv[1]Vagando... vagando... vagando...
+
+#- Burpmo
+
+message_151:
+      text: \n<BURPMO>Eu sou BURPMO, e não seria outra pessoa a não ser eu mesmo!
+
+message_313:
+      text: \n<BURPMO>Eu sou BURPMO, e não aceitaria que fosse diferente!
+
+#-- Abyss Skeletons
+
+
+message_444:
+      text: \n<AUBREY?>Sniff...\| Sniff...\| OMORI...

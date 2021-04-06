@@ -1,0 +1,150 @@
+# =========================================================================================
+# Mom's Dialogue
+# =========================================================================================
+
+#Mom's MOM'S VOICEMAIL
+
+                  #Examine phone
+message_0:
+      text: \"Ei \n[8], é a MAMÃE.\! Eu ainda estou na cidade arrumando as coisas para nossa nova casa.\! Você já terminou de embalar tudo?\"\n<VOICEMAIL DA MÃE>
+
+message_1:
+      text: \"Os carregadores estarão na nossa casa em poucos dias, então eu deixei uma lista de coisas para você fazer antes deles chegarem.\"\n<VOICEMAIL DA MÃE>
+
+message_2:
+      text: \"E também, desculpa!\! A MAMÃE errou feio!\"\n<VOICEMAIL DA MÃE>
+
+message_3:
+      text: \"Eu me esqueci de dizer para a companhia elétrica que nós precisamos de mais dias para nos mudarmos, então as luzes podem apagar às vezes.\"\n<VOICEMAIL DA MÃE>
+
+message_4:
+      text: \"De qualquer forma...\! Eu sei que se mudar pode ser um pouco estressante agora, mas acho que uma mudança de cenário vai ser bom para nós!\"\n<VOICEMAIL DA MÃE>
+
+message_5:
+      text: \"Eu sei que você não tem falado com ninguém, mas você talvez queira dar tchau para seus velhos amigos.\"\n<VOICEMAIL DA MÃE>
+
+message_6:
+      text: \"KEL tem tentado muito falar contigo depois que botamos a casa à venda.\! Ele tem nos ligado toda semana pelos útlimos meses!\"\n<VOICEMAIL DA MÃE>
+
+message_7:
+      text: \"Ele parece um pouco sozinho...\! Talvez você devesse visitar ele.\!<br>Ok, isso é tudo.\! Tchau, filhinho!\! MAMÃE te ama!\"\! \quake[1]\}Bzzt...\quake[0]\n<VOICEMAIL DA MÃE>
+
+#SFX: Stomach Gurgle
+message_8:
+      text: Você está com fome.
+
+message_9:
+      text: Você de repente se sente APAVORADO.
+
+#Examine Fridge
+
+message_10:
+      text: Você olha na geladeira...\! e acha um \c[4]BIFE FRIO\c[0].\! Pegar?
+
+#[Yes/No]
+#[Yes]
+message_11:
+      text: Você pegou o \c[4]BIFE FRIO\c[0].\!<br>Você provavelmente deveria esquentá-lo antes de comer.
+#[No]
+#[Exit dialogue]
+
+
+                #Examine Microwave
+message_12:
+      text: Você botou o \c[4]BIFE FRIO\c[0] no microondas.
+
+                #Examine Steak Knife
+message_13:
+      text: Você pegou a \c[13]FACA DE CARNE\c[0].
+
+# Auto-equip steak KNIFE
+
+message_14:
+      text: O \c[4]BIFE\c[0] está pronto.
+
+                # Examine BED
+
+message_15:
+      text: Uma cama muito, muito confortável.\!<br>Você gostaria de ir dormir?
+
+
+# =========================================================================================
+# MOM'S STICKY NOTEs
+# =========================================================================================
+
+#EXAMINE note
+
+message_20:
+      text: Há um bilhete colado no espelho.
+
+message_21:
+      text: Há um bilhete colado na parede.
+
+#First line always
+
+message_22:
+      text: \"Oi, \n[8]! Este é um bilhete da MAMÃE.\"\n<BILHETE DA MÃE>
+
+#Bathroom mirror
+
+message_23:
+      text: \"Lembre-se de escovar seus dentes todos os dias!\"\n<BILHETE DA MÃE>
+
+#Living Room
+
+message_24:
+      text: \"Se você sair de casa, lembre-se de olhar para ambos os lados antes de atravessar a rua!\"\n<BILHETE DA MÃE>
+
+#Bedroom
+
+message_25:
+      text: \"Eu deixei comida na geladeira no andar de baixo.<br>É \c[4]BIFE\c[0]... o seu favorito!\"\n<BILHETE DA MÃE>
+
+#last Line always
+
+message_29:
+      text: \"Te amo, beijos.\"\n<BILHETE DA MÃE>
+
+
+#Day 1:
+
+message_50:
+      text: \"Ei \n[8], é a MAMÃE.\!<br>Como você está?\! Se alimentando bem?\"\n<VOICEMAIL DA MÃE>
+
+message_51:
+      text: \"Eu achava que eu poderia voltar para ver você hoje, mas é o útlimo dia da venda de móveis e eu não consigo resistir uma boa barganha!\"<br>\"Você pode se cuidar por mais alguns dias, certo?\!<br>Além do mais, você já é grandinho!\"\n<VOICEMAIL DA MÃE>
+
+message_52:
+      text: \"Lembre-se de terminar suas tarefas antes de eu voltar.\! Eu deixei a lista na mesa próxima a porta.\! Ok, isso é tudo!\! Tchau, filhinho!\! MAMÃE te ama!\"\!\quake[1] \}Bzzt...\quake[0]\n<VOICEMAIL DA MÃE>
+
+#Day 2:
+
+message_55:
+      text: \"Ei \n[8], é a MAMÃE.\! Você está bem?\! Você não tem respondido os meus voicemails!\! Se continuar me ignorando, eu vou começar a me preocupar de novo!\"\n<VOICEMAIL DA MÃE>
+
+message_56:
+      text: \"Eu espero que você esteja fazendo suas tarefas...\! Nem mesmo eu acho que poderia terminar tudo em um dia!\"\n<VOICEMAIL DA MÃE>
+
+message_57:
+      text: \"Você foi visitar o KEL?\! Se não, tá tudo bem... Eu entendo.\! Faça as coisas como você achar melhor...\"\n<VOICEMAIL DA MÃE>
+
+message_58:
+      text: \"A propósito, pode checar o armário no andar de baixo se há algo que você quer levar?\! Provavelmente a gente só vai jogar fora o que você não quiser mais.\"\n<VOICEMAIL DA MÃE>
+
+message_59:
+      text: \"Só falta dois dias para eu ir te buscar.\!<br>Ok, isso é tudo por agora!\!  Tchau, filhinho!\! MAMÃE te ama!\"\!\quake[1] \}Bzzt...\quake[0]\n<VOICEMAIL DA MÃE>
+
+#Day 3:
+
+message_60:
+      text: \"Ei \n[8], é a MAMÃE.\! Amanhã é o grande dia!\!<br>Os carregadores vão estar aqui pela manhã.\! Eu dei a eles as chaves, então não enlouqueça em vê-los na casa."\n<VOICEMAIL DA MÃE>
+
+message_61:
+      text: \"Lembre-se de terminar de organizar tudo hoje.\! Eu vou estar no carro te esperando.\! Só sair de casa quando estiver pronto.\"\n<VOICEMAIL DA MÃE>
+
+message_62:
+      text: \"Okay, isso é tudo!\! Tchau, filhinho!\! MAMÃE te ama!\"\!\quake[1] \}Bzzt...\quake[0]\n<VOICEMAIL DA MÃE>
+
+#Day 4:
+message_66:
+      text: \"Ei \n[8], é a MAMÃE.\! Estou te esperando lá fora, então saia de casa quando estiver pronto.\! Tchau, filhinho!\! MAMÃE te ama!\"\!\quake[1] \}Bzzt...\quake[0]\n<VOICEMAIL DA MÃE>

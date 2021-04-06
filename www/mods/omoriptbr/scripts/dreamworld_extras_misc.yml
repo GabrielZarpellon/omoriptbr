@@ -1,0 +1,466 @@
+# =========================================================================================
+# Dreamworld Extras
+# =========================================================================================
+
+#Waking up in White Space on Night 1:
+
+message_0:
+      text: Você procurou uma CHAVE NEGRA nos seus bolsos...\!<br>mas ela não estava lá.
+
+#After completing all 3 slime girls routes:
+
+message_1:
+      text: \swh\Com[2]\{NINGUÉM AQUI PODE FAZER QUALQUER COISA!?!?
+
+#Before putting together Basil's photo album:
+
+message_2:
+      faceset: MainCharacter_Basil
+      faceindex: 0
+      text: \basHmm... droga...\!<br>Eu não acho que me lembro da ordem de todas essas fotos...
+
+message_3:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 38
+      text: \herNão se preocupe, BASIL.\! O OMORI tem uma ótima memória, eu tenho certeza que ele consegue arrumar isso!
+
+# Examining Mirror when Alone
+
+message_4:
+      text: Você vê que está sózinho no espelho.\!<br>Você não gosta disso.
+
+# Picking up knife in white space:
+
+message_5:
+      text: Você encara seu reflexo na faca.\!<br>Ele te conhece bem.
+
+#When checking out a telescope
+message_6:
+      text: Um telescópio brilhante.\! Você quer apreciar a vista?
+
+# =========================================================================================
+# Rain town
+# =========================================================================================
+
+message_20:
+      text: Os habitantes da \c[11]VILA DA CHUVA\c[0] estão em perigo!\! Tem muita chuva caindo nas terras deles, e está deixando eles desconfortáveis!
+
+message_21:
+      text: Encontre a válvula no canto superior esquerdo do mapa e examine-a.
+
+message_22:
+      text: Chuvisca, e os habitantes da \c[11]VILA DA CHUVA\c[0] estão confortáveis de novo.
+
+# =========================================================================================
+# WEEPING WILLOW
+# =========================================================================================
+
+#WEEPING WILLOW rises from the lake.
+
+message_40:
+      text: \n<FANTASMA CHOROSA>Ah...\! Olá, sou eu, FANTASMA CHOROSA, a deusa do lago.\!<br>Obrigada pelas conchas, eu acho.
+
+message_41:
+      text: \n<FANTASMA CHOROSA>Eles dizem que dinheiro pode comprar felicidade,<br>mas aparentemente não está funcionando...
+
+message_42:
+      text: \n<FANTASMA CHOROSA>Você pode fazer algo divertido para mim?\!<br>Talvez contar uma piada?
+
+#If Player does not have Joke Book or has no Jokes
+
+message_43:
+      text: \n<FANTASMA CHOROSA>...\! Parece que você não tem muito material.\!<br>Volte quando ter uma piada ou duas.
+
+#[IF PLAYER HAS JOKE BOOK WITH AT LEAST 1 JOKE]
+
+message_44:
+      text: \n<FANTASMA CHOROSA>Ak...\! Tudo bem, o que é?
+
+message_45:
+      text: Você quer contar uma piada do <br>\c[4]LIVRO DE PIADAS\c[0] para a FANTASMA CHOROSA?
+
+#yes/no
+
+#yes (if Hero)
+message_46:
+      text: Que piada você gostaria de ler?
+
+#List of jokes appear
+
+#Badumtss! SFX plays. (Party member except HERO will face forward at the same time, or none of them face forward.)
+
+#Depending on the joke that is told, WEEPING WILLOW will cry with an intensity of 1, 2, or 3.
+
+
+
+#yes (if not Hero)
+message_47:
+      text: Você abre o \c[4]LIVRO DE PIADAS\c[0]...
+
+message_48:
+      text: As frases desse livro são muito embaraçosas para ler em voz alta.\! Talvez alguém mais velho conseguiria ler.
+
+message_49:
+      text: \n<FANTASMA CHOROSA>Sério?\! Você me chamou aqui para nada?
+
+message_50:
+      text: \n<FANTASMA CHOROSA>Ah...\! Que perda de tempo...
+
+#WEEPING WILLOW sinks back down into the lake.
+
+
+#================================ JOKES ==================================
+
+#Every time a PLAYER finds a joke on a poster, a badumtss! SFX will play and the party members will all face forward at the same time.
+
+#JOKE 1: Location: OTHERWORLD stuck on a storage unit
+
+message_60:
+      text: \"Você já ouviu falar no restaurante na lua?\"
+
+message_61:
+      text: \"A comida é ótima, mas o lugar não tem atmosfera.\"
+
+#JOKE 2: Location: CATTAIL FIELD stuck on the OLD BARN.
+
+message_62:
+      text: \"Por que o espantalho ganhou um prêmio?\"
+
+message_63:
+      text: \"Porque ele se destacou no seu campo.\"
+
+
+#JOKE 3: Location: SPROUT MOLE TOWN next to a bike.
+
+message_64:
+      text: \"Qual é a diferença entre uma bicicleta e uma privada?\"
+
+message_65:
+      text: \"A bicicleta você senta para correr e a privada você corre para sentar.\"
+
+#JOKE 4: Location: FROZEN FOREST in an igloo.
+
+message_66:
+      text: \"How does a penguin build a house?\"
+
+message_67:
+      text: \"Igloos it together.\"
+
+#JOKE 5: Location: ORANGE OASIS on a cave wall.
+
+message_68:
+      text: \"Quem é o rei dos queijos?\"
+
+message_69:
+      text: \"O reiqueijão.\"
+
+#JOKE 6: Location: DEEP WELL in UNDERWATER HIGHWAY.
+
+message_70:
+      text: \"Por que a sala de aula parece um mar?\"
+
+message_71:
+      text: \"Porque professores navegam, alunos boiam e notas afundam.\"
+
+#JOKE 7: Location: DEEP WELL in the CONSTRUCTION SITE.
+
+message_72:
+      text: \"Quer ouvir uma piada sobre construções?\"
+
+message_73:
+      text: \"Ainda estou trabalhando nela.\"
+
+message_74:
+      text: Você anotou a piada no seu \c[4]LIVRO DE PIADAS\c[0].
+
+message_75:
+      text: Você pegou \c[4]LIVRO DE PIADAS\c[0]!
+
+#================================ CRYING RESPONSES ==================================
+
+# Crying level 1
+
+message_90:
+      text: \n<FANTASMA CHOROSA>Sniff...\! Essa piada...\! Essa piada foi tão ruim...\!<br>Que quase faz eu querer...
+
+message_91:
+      text: \n<FANTASMA CHOROSA>Sniff...\! Sniff...\! \SINV[1]Uaaaaaaaaaaa...\SINV[0]
+
+#WEEPING WILLOW sinks back down into the lake.
+
+# Crying Level 2
+
+message_92:
+      text: \n<FANTASMA CHOROSA>\SINV[1]ueeeee...\SINV[0]\!\Com[2]\SINV[2]Ueaa\{aaeeeeaaaa\{aaaaaaaaaaaa!!\SINV[0]
+
+#WEEPING WILLOW sinks back down into the lake.
+
+# Crying Level 3
+
+message_93:
+      text: \n<FANTASMA CHOROSA>\Com[2]\Quake[1]UEE\{\Com[2]AAAAA\{\Com[2]AAAAAA\{AAAAA\{AAAA!!!\Quake[0]
+
+# Tolerable Joke:
+
+message_94:
+      text: \n<FANTASMA CHOROSA>Sniff... \!Sniff... \!Haha...
+
+message_95:
+      text: \n<FANTASMA CHOROSA>E-ei...\! Essa piada foi engraçada...
+
+message_96:
+      text: \n<FANTASMA CHOROSA>\sinv[1]Hahahaha...
+
+#WEEPING WILLOW transforms to happy WEEPING WILLOW
+
+message_97:
+      text: \n<FANTASMA>Ah...\! Eu me sinto um pouco melhor agora.
+
+#GOD RAYS appeared
+#A sword floats down in front of Party
+
+message_98:
+      text: \n<FANTASMA>Obrigado por me animarem, viajantes.
+
+message_99:
+      text: \n<FANTASMA>Aqui está a recompensa pelos seus esforços valentes.
+
+message_100:
+      text: \n<FANTASMA>Essa é uma arma ancestral de poder indescritível.
+
+message_101:
+      text: \n<FANTASMA>Apenas um verdadeiro HERÓI pode empunhá-la.
+
+#God SFX
+
+message_102:
+      text: \n<FANTASMA>Ah... Os deuses estão me chamando.\!<br>Estou com medo que seja minha hora de partir.
+
+message_103:
+      text: \n<FANTASMA>Nosso tempo juntos foi curto, mas foi uma...\!<br>em grande parte...\! experiência agradável.
+
+message_104:
+      text: \n<FANTASMA>Talvez nos encontraremos novamente em outra vida.\!<br>Até mais, viajantes! Foi divertido!
+
+#God rays disappear
+
+#Examine sword
+
+message_110:
+      text: Você pegou a \c[13]ESPADA LOL\c[0].
+
+# =========================================================================================
+# Hide and Seek with yourself
+# =========================================================================================
+
+#Night 3, upon entering FOREST PLAYGROUND, no one will be there.
+#If PLAYER examines the tetherball pole, it will prompt the message:
+
+message_120:
+      text: Você quer jogar esconde-esconde?
+
+#yes
+#Screen turns black.
+
+message_121:
+      text: 5...\! 4...\! 3...\! 2...\! 1...
+
+#The mirror will appear on a random location on the map.
+#If you examine the mirror, the mirror slide will show. (Only OMORI is in the mirror)
+
+message_122:
+      text: Te achei!
+
+#Then the mirror slide will fade out.
+
+message_123:
+      text: Você quer jogar de novo?
+
+#no
+#Mirror disappears
+
+# =========================================================================================
+# Deep Well
+# =========================================================================================
+
+#Taxi Ride-
+
+message_140:
+      text: \n<PILOTO DE TÁXI>Ei, criança! Quer ir em algum lugar \SINV[1]legal\SINV[0]?\!<br>Você deveria ir ao \c[11]ÚLTIMO RESORT\c[0]!<br>É o lugar mais quente e famoso para estar esses dias!
+
+message_141:
+      text: \n<PILOTO DE TÁXI>Eu posso te levar lá se quiser, guri!\! É tudo o que falam.
+
+message_142:
+      text: \n<PILOTO DE TÁXI>Qual é...\! Não seja tímido!\! Eu não mordo...\! muito.
+
+message_143:
+      xt: \n<PILOTO DE TÁXI>Ei, criança! Quer voltar para o \c[11]FUNDO DO POÇO\c[0]?\! Eu vou dirigir o quanto quiser!\! Isso não é muito trabalho para mim... Eu sou pago por isso! Keh heh!
+
+message_144:
+      text: \n<PILOTO DE TÁXI>Hmm...\! Parece que você está com pouca grana...\!<br>Bom, tudo bem.\! Só vou levar tudo que tem-
+
+message_145:
+      text: \n<PILOTO DE TÁXI>Ei, espere um minuto! Você não tem nada!\!<br>Deve ter sido enganado muito bem, guri... Tenho pena de você.
+
+#after Ride
+
+message_150:
+      text: \n<PILOTO DE TÁXI>Estrada um pouco acidentada, mas nada tão ruim.\! Volte quando quiser, criança.
+
+message_151:
+      text: \n<PILOTO DE TÁXI>Volte quando quiser, crianças.
+
+#If HERO is in party
+message_152:
+      text: \n<PILOTO DE TÁXI>Precisa de uma viagem de volta para o \c[11]ÚLTIMO RESORT\c[0]?\!<br>Qualquer coisa para a mão direita do chefe!
+
+#If HERO is manager
+message_153:
+      text: \n<PILOTO DE TÁXI>Precisa de uma viagem de volta para o \c[11]ÚLTIMO RESORT\c[0]?\!<br>Qualquer coisa para você, chefe!
+
+#If HERO is in party
+message_154:
+      text: \n<PILOTO DE TÁXI>Precisa de uma viagem de volta para o \c[11]FUNDO DO POÇO\c[0]?\!<br>Qualquer coisa para a mão direita do chefe!
+
+#If HERO is manager
+message_155:
+      text: \n<PILOTO DE TÁXI>Precisa de uma viagem de volta para o \c[11]FUNDO DO POÇO\c[0]?\!<br>Qualquer coisa para você, chefe!
+
+
+# =========================================================================================
+# First Time In OTHERWORLD
+# =========================================================================================
+
+
+message_200:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 18
+    text: \kel\Com[2]\{\{PRIMEIRO!!!\}\}
+
+message_201:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 48
+    text: \herHuff... Huff...\! A escada...
+
+message_202:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 48
+    text: \herEla...\! Huff... Huff...\! Nunca acaba...
+
+message_203:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 18
+    text: \kel\sinv[1]\{\{BAHAHAHAHA!!!\}
+
+message_204:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 17
+    text: \kel\Com[2]Esse é um pequeno passo para o KEL...\.<br>e um grande passo para os KELIANOS!!
+
+message_205:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 10
+    text: \aubEi, não é assim que se fala!
+
+message_206:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 18
+    text: \kelVocê não decide como se fala...<br>Você não chegou aqui primeiro!
+
+message_207:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 9
+    text: \aubEi, espere um pouco...\!<br>\Com[2]\{ESSE É O MEU \c[4]CERTIFICADO\c[0]??\}\!
+
+message_208:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 10
+    text: \aub\{TIRA ISSO DAÍ JÁ!\}
+
+message_209:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 11
+    text: \aubE se alguém ver ele?
+
+message_210:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 19
+    text: \kelSem chance!<br>Olha esta coisa balançando no vento.
+
+message_211:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 23
+    text: \kel\sinv[1]Tão majestosa...\| Tão linda...
+
+message_212:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 6
+    text: \aub\Com[2]\{HERO! FAÇA ALGO!\}
+
+message_213:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 48
+    text: \her\}Huff... Huff...\!\{ Um... Segundo... \!\}Huff... Huff...\!\{ Apenas... \}Huff... Huff...\!\{ Preciso respirar... \}Huff... Huff...
+
+message_214:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 48
+    text: \herNa verdade...\!\} Huff... Huff...\{\! Me dê um minuto...
+
+message_215:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 11
+    text: \aub... ... ...\! Esquece.
+
+message_216:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 40
+    text: \herCara, eu sei que há um motivo para nunca termos subido essa coisa, mas eu não consigo entender...
+
+message_217:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 39
+    text: \herEstá na ponta da minha língua...
+
+message_218:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 36
+    text: \herAh, bem...\! Lá vai!
+
+message_219:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 17
+    text: \kelEi OMORI, esse não é o caminho certo para a casa do BASIL!
+
+
+# =========================================================================================
+# MOONWALK
+# =========================================================================================
+
+message_250:
+      text: Você gostaria de fazer o moonwalk?
+
+#YES/NO
+
+#back of sign
+
+message_252:
+      text: Tem uma mensagem escrita do outro lado.
+
+message_253:
+      text: \"Por favor... não faça o erro que eu fiz...<br>\!-M\"
+
+# =========================================================================================
+# BATTLE: THE WORLD
+# =========================================================================================
+
+message_300:
+      text: A TERRA parece pacífica.\!<br>Você quer perturbá-la?
+
+# =========================================================================================
+# PYREFLY IX WEB
+# =========================================================================================
+
+message_400:
+      text: A teia é muito forte para ser cortada.

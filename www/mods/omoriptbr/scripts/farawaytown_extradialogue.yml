@@ -1,0 +1,174 @@
+
+# =========================================================================================
+# Faraway extra dialogue
+# =========================================================================================
+
+#SECRET LAKE CUTSCENE - DAY 3 AFTER GETTING AUBREY:
+
+#Intro
+message_1:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelEntão é aqui que você fica com seus novos amigos, né?
+
+message_2:
+      faceset: MainCharacters_Faraway
+      faceindex: 0
+      text: \aubSim... e daí?
+
+message_3:
+      faceset: MainCharacters_Faraway
+      faceindex: 16
+      text: \kelEh...\! Nada não. Não é como se eu pudesse te culpar.
+
+#Kel walks up 1 step
+
+message_4:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \kelÉ um lugar bem maneiro...
+
+#*KEL walks to lake*
+
+message_5:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelO lago tá um pouco mais turvo agora, mas eu lembro de quando a gente vinha nadar aqui toda hora!
+
+message_6:
+      faceset: MainCharacters_Faraway
+      faceindex: 11
+      text: \aubO lago é assim desde sempre...\! Você só não se importava tanto.
+
+message_7:
+      faceset: MainCharacters_Faraway
+      faceindex: 15
+      text: \kelHeh heh... Talvez, talvez.\!<br>Então... por que paramos de nadar aqui?
+
+message_8:
+      faceset: MainCharacters_Faraway
+      faceindex: 27
+      text: \aubVocê não se lembra?\! A MARI parou de querer vir aqui depois do dia em que o \n[8] quase se afogou...
+
+#*KEL jumps*
+
+message_9:
+      faceset: MainCharacters_Faraway
+      faceindex: 20
+      text: \kelMano, eu me esqueci totalmente disso!
+
+#*HERO walks to lake*
+
+message_10:
+      faceset: MainCharacters_Faraway
+      faceindex: 31
+      text: \herEu e KEL costumávamos fazer umas manobras pulando daquela estátua, mas quando a gente disse pro \n[8] tentar...\! ele congelou e caiu no lago.
+
+#*HERO turns to player*
+
+message_11:
+      faceset: MainCharacters_Faraway
+      faceindex: 34
+      text: \herVocê se lembra, \n[8]?\! Tudo aconteceu tão rápido...
+
+message_12:
+      faceset: MainCharacters_Faraway
+      faceindex: 34
+      text: \herE mesmo nós já estando na água, não foi a gente que te salvou.
+
+#*KEL turns to PLAYER*
+
+message_13:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelNão, foi a MARI...\! Ela mergulhou antes da gente ter qualquer reação.
+
+#*AUBREY walks to front of pier*
+
+message_14:
+      faceset: MainCharacters_Faraway
+      faceindex: 27
+      text: \aubNunca vou me esquecer do momento em que ela te carregou pra fora do lago.\! E quando você finalmente abriu os olhos, ela caiu em cima de você e começou a chorar.
+
+message_15:
+      faceset: MainCharacters_Faraway
+      faceindex: 2
+      text: \aub...\! Eu nunca tinha visto ela daquele jeito antes...
+#*HERO walks right in front of PLAYER*
+
+message_16:
+      faceset: MainCharacters_Faraway
+      faceindex: 31
+      text: \herA MARI realmente te amava, \n[8].\! Você sabe disso, não é?
+
+
+# =========================================================================================
+# Sleepover final messages - Day 3 night after basil's memories
+# =========================================================================================
+
+#Examine sleeping Kel
+
+#1st talk
+#message_20:
+#      text: Even though KEL is just as you remember him...\!<br>you still can tell he has grown while you were gone.\!<br>Something about that hurts, but you don't know why.
+
+#2nd talk
+message_21:
+      text: O KEL sempre esteve do seu lado.\! E mesmo que ele seja um pouco descuidado algumas vezes, você sabe que ele tem um bom coração.
+
+message_22:
+      text: Mais do que tudo, ele só quer que todos ao seu redor sejam felizes.\! Ele sempre foi alguém que você pode contar para levantar o astral.
+
+message_23:
+      text: Você realmente vai sentir muita falta dele.
+
+#1st talk
+#message_24:
+#      text: Loud, angry, violent...\! AUBREY has changed a lot...\!<br>But, she still hardly makes a noise when she sleeps.
+
+#2nd talk
+message_25:
+      text: A AUBREY sempre agiu de acordo com suas emoções.\!<br>Ainda que ela tenha dificuldade em admitir o quanto ela se importa com todos, suas ações provam o contrário.
+
+message_26:
+      text: Ela sempre foi um pouco difícil de entender...\! mas você pode confiar que ela sempre vai tentar fazer a coisa certa.
+
+message_27:
+      text: Você realmente vai sentir muita falta dela.
+
+#1st talk
+#message_28:
+#      text: HERO looks peaceful...\! but you can't help but worry.\!<br>For a moment, you wonder what his life would have been like if MARI was still there.
+
+#2nd talk
+message_29:
+      text: O HERO sempre foi alguém que te apoiou.\! Ele é sábio, capaz, carinhoso e sempre dá mais importância para os outros do que para si mesmo.
+
+message_30:
+      text: Ele é o tipo de pessoa que sempre vai estar lá para te ajudar, mesmo que seja difícil.
+
+message_31:
+      text: Você realmente vai sentir muita falta dele.
+
+
+#RECYCLEPATH AFTERWARDS
+
+message_35:
+      faceset: MainCharacters_Faraway
+      faceindex: 22
+      text: \kel\n[8]...\! Ãh...\! \n[8]...?
+
+message_36:
+      faceset: MainCharacters_Faraway
+      faceindex: 0
+      text: \aubEi, você tá bem?\! Você ficou olhando pro nada por uns cinco minutos...
+
+message_37:
+      faceset: MainCharacters_Faraway
+      faceindex: 38
+      text: \herHaha...\! Sobre o que você tá sonhando acordado, \n[8]?
+
+message_38:
+      faceset: MainCharacters_Faraway
+      faceindex: 30
+      text: \herSua expressão...\! Estava tão calma.

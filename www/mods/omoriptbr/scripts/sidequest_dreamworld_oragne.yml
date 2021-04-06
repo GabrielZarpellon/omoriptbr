@@ -1,0 +1,141 @@
+
+# =========================================================================================
+# Long Lost Brother
+# ========================================================================================
+
+#Talk to Orange Joe:
+
+message_0:
+      text: JOÃO LARANJA está arremessando laranjas.
+
+message_1:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 28 #needs appropriate faceset
+      text: \kelHey...\! hã...\! o que você tá fazendo?
+
+message_2:
+      text: \n<JOÃO LARANJA>Meu nome é JOÃO LARANJA e estou arremessando LARANJAS!
+
+message_3:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18 #needs appropriate faceset
+      text: \kelUau! Que irado!
+
+message_4:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 28 #needs appropriate faceset
+      text: \kelMas por quê?
+
+message_5:
+      text: \n<JOÃO LARANJA>Porque...\! Eu estou...\! sniff...\!<br>Procurando pelo meu irmão gêmeo perdido...\! JOÃO LAJANRA...
+
+message_6:
+      text: \n<JOÃO LARANJA>Nós fomos separados no nascimento, mas no meu coração cítrico eu sei que ele está em algum lugar.
+
+message_7:
+      text: \n<JOÃO LARANJA>Cada laranja é registrada com uma mensagem explicando quem eu sou e como me encontrar...
+
+message_8:
+      text: \n<JOÃO LARANJA>Eu tenho a esperança de que se eu jogar elas em todas as direções, <br>uma delas vai chegar até ele e trazê-lo até mim!
+
+message_9:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 1 #needs appropriate faceset
+      text: \aubAwww...\! Isso é tão fofo.\!<br>Espero que você encontre seu irmão algum dia...
+
+message_10:
+      text: \n<JOÃO LARANJA>Obrigado, jovem moça!\! Eu sei que eu vou!\! <br>Meu corpo é saudável e cheio de esperança e vigor!
+
+message_11:
+      text: \n<JOÃO LARANJA>Mas...\! só pra garantir...\! Se você ver o meu irmão, <br>por favor dê à ele esse \c[4]BRASÃO LARANJA\c[0].\! <br>Eu sei que isso o levará até mim de alguma forma.
+
+message_12:
+      text: Você recebeu um \c[4]BRASÃO LARANJA\c[0].
+
+message_13:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 17
+      text: \kelNão tema, meu querido amigo JOÃO LARANJA.\! Nós vamos achar o seu irmão com certeza!
+
+#Cutscene: Found at Last!
+
+message_14:
+      text: \whoHã?\! Quem sou eu?\! Quem são vocês?
+
+message_15:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19 #needs appropriate faceset
+      text: \kelEspere um segundo...\! Você me parece familiar.\!<br>O formato do corpo...\! Esse exterior cítrico...\! É inegável!
+
+message_16:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18 #needs appropriate faceset
+      text: \kelVocê deve ser o irmão gêmeo do JOÃO LARANJA...\! JOÃO LAJANRA!
+
+message_17:
+      text: \n<JOÃO LAJANRA>Meu nome...\! é JOÃO LAJANRA?\! E...\! Eu tenho um irmão gêmeo?
+
+message_18:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18 #needs appropriate faceset
+      text: \kelSim, e ele tava te procurando esse tempo todo!\!<br>Aqui, pegue isso! Ele nos disse pra entregar à você!
+
+message_19:
+      text: Você entregou o \c[4]BRASÃO LARANJA\c[0] para o JOÃO LAJANRA.
+
+message_20:
+      text: \n<JOÃO LAJANRA>Esse...\! Esse brasão!\! Poderia ser?\! <br>Desde pequeno, eu busquei por toda parte pelo meu verdadeiro lar...
+
+message_21:
+      text: \n<JOÃO LAJANRA>A única coisa que eu sempre tive é esse pingente com um brasão em formato de laranja gravado nele...
+
+message_22:
+      text: \n<JOÃO LAJANRA>É igual ao o que aparece nesse \c[4]BRASÃO LARANJA\c[0]!
+
+message_23:
+      text: \n<JOÃO LAJANRA>Agora tudo faz muito mais sentido...\! <br>Eu sei quem eu sou!\! Eu devo ser o...\!<br>JOÃO LAJANRA!
+
+#ORANGE JOE walks in.
+
+message_24:
+      text: \n<JOÃO LARANJA>\Com[2]Irmão!\! Eu não acredito no que estou vendo!\! É mesmo você!
+
+message_25:
+      text: \n<JOÃO LAJANRA>Sim, irmão!\! Sou eu...\! JOÃO LAJANRA!
+
+message_26:
+      text: \n<JOÃO LARANJA>Não tem erro!\! Eu posso sentir em meu coração cítrico.\!<br>Oh, como eu senti sua falta, querido irmão!
+
+message_27:
+      text: \n<JOÃO LAJANRA>Sim!\! Meu corpo está cheio de esperança e vigor!\!<br>Como eu esperei por esse dia!\!<br>Nós finalmente nos encontramos, querido irmão!
+
+message_28:
+      text: \n<JOÃO LARANJA>Vamos nos abraçar!
+
+#ORANGE JOE AND ORAGNE JOE hug?
+
+message_29:
+      text: \n<JOÃO LARANJA>Eu preciso agradecer vocês, crianças...\! Eu pensei sobre o meu irmão por todos os dias de minha vida, e ele finalmente está aqui!
+
+message_30:
+      text: \n<JOÃO LARANJA>Por favor pegue isso como um símbolo de minha gratidão.
+
+message_31:
+      text: Você recebeu uma \c[3]GELEIA VITAL\c[0]!
+
+message_32:
+      text: \n<JOÃO LAJANRA>Sim!\! Obrigado por nos reunir...\!<br>Eu esperei por tanto tempo para encontrar meu lar de verdade!\! <br>Leve isso!\! É um presente meu!
+
+message_33:
+      text: Você recebeu outra \c[3]GELEIA VITAL\c[0]!
+
+message_34:
+      text: \n<JOÃO LARANJA>Venha agora, querido irmão! Vamos para casa!
+
+message_35:
+      text: \n<JOÃO LAJANRA>Você é muito gracioso, querido irmão!\!<br>Como celebração de nosso encontro, vamos andar juntos!
+
+message_36:
+      text: \n<JOÃO LARANJA e JOÃO LAJANRA>\sinv[1]Esperança e vigor!\! Esperança e vigor!\! Esperança e vigor!
+
+#ORANGE JOE AND ORAGNE JOE walk off

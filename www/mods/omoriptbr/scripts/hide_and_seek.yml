@@ -1,0 +1,926 @@
+
+# =========================================================================================
+# Hide and Seek
+# ========================================================================================
+
+#Upon leaving proximity of tetherball pole. On the way down, BERLY stops you.
+
+message_0:
+      text: \berEi, espera aí um segundinho! Onde é que cês todos pensam que estão indo!?
+
+message_1:
+      text: \berVocês não podem sair sem se juntar aqui em uma partida de esconde-esconde!
+
+message_2:
+      text: \n<VAN>Fiquem e joguem com a gente!\! Quanto mais melhor!
+
+message_3:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 46
+      text: \herVocê quer brincar de esconde-esconde de novo?
+
+# KEL and AUBREY look at each other.
+
+message_4:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 31
+      text: \kelMas...\! Você sabe como isso acabou na última vez...
+
+message_5:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 11
+      text: \aubS-Sim...\! Desculpa, BERLY.\!<br>A gente vai ter que deixar essa pra depois.
+
+message_6:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19
+      text: \kelAgora nós estamos indo para a casa do BASIL...\! então...\! nos vemos mais tarde!
+
+# KEL and AUBREY try to walk down.
+
+message_7:
+      text: \ber\com[2]Não tão rápido!\! Vocês tão tentando me evitar de novo!?\!<br>Qual o problema de vocês dois?\! É a minha cara?\!<br>Meu exterior áspero e resistente?
+
+message_8:
+      text: \berPelo menos eu não sou tão ruim quanto o CHEFE!\! Foi uma boa eu ter banido ele do parquinho depois do que aconteceu da última vez...
+
+# BERLY looks around.
+
+message_9:
+      text: \berEu me pergunto o que aquele babaca tá fazendo agora?\!<br>...\! Eh...\! Melhor assim!
+
+message_10:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: \herEntão...\! Você quer brincar de esconde-esconde, BASIL?
+
+message_11:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: \basTanto faz para mim.\! Não tô com pressa pra ir até a minha casa.\! Eu acho que vou deixar essa decisão para o OMORI.\!<br>O que você quer fazer?
+
+# BERLY walks up to OMORI.
+
+message_12:
+      text: \berOMORI, OMORI! Meu melhor amigo!<br>\!Vamos lá! Você sabe brincar de esconde-esconde, não?
+
+# [YES/NO]
+# [YES]
+
+message_13:
+      text: \berHeh, foi isso o que eu pensei!\! O que está impedindo vocês então?\!<br>Bora lá, vamos brincar! Eu vou reunir todo mundo!
+# [NO]
+message_14:
+      text: \ber\com[2]Hein!? Você não sabe brincar de esconde-esconde!?\!<br>Que tipo de criança é você afinal?<br><br>Isso significa que você tem que jogar com a gente!\!<br>Eu vou explicar as regras depois que eu reunir todo mundo!
+
+# *BERLY blows her whistle*
+# The following NPCs are in a line in the following order:
+# Charlene, Van, MIKAL, Happy, Brows, Bangs, Bun, Nose, Hero, Kel, Aubrey, Basil, Omori
+# (Only the last 5's order really matters)
+# Split into 2 rows if you need to
+
+message_15:
+      text: \ber\Com[2]\{ATEN-ÇÃO!
+
+message_16:
+      text: \berCerto, seus bocós! Aqui estão as regras!\! Vamos nos divertir com uma rápida partida de esconde-esconde!
+
+message_17:
+      text: \berAqui nas minhas mãos eu tenho alguns canudos, tão vendo?\!<br>Todo mundo aqui tem que pegar um canudo.
+
+message_175:
+      text: \berQuem tiver o menor canudo vai ser o pegador e vai ter que achar todo mundo!\! Parece fácil, não é?
+
+# *BERLY goes down in a row passing straws to everyone*
+
+message_18:
+      text: \berTodos nós estamos com os canudos?\! Bom!
+
+message_19:
+      text: \berAgora, vamos ver quem vai ser o pegador!
+
+message_20:
+      text: \berOra, ora, ora!\!<br>Parece que quem tem o menor canudo é...\! OMORI!
+
+message_21:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19
+      text: \kelOh, pera... o OMORI é o pegador?
+
+message_22:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: \aubMas o OMORI não gosta de ficar sozinho...
+
+message_23:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: \herVocê vai ficar bem, OMORI?
+
+message_24:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: \basEu posso ir no seu lugar se quiser.\!<br>Eu não me importo... sério!
+
+message_25:
+      text: \berEi, eu tô escutando vocês tramando algo aí!\!<br>São os canudos que fazem as regras, não eu!
+
+message_26:
+      text: \berVamos lá, não sejam bebezões! Não é tão ruim.\!<br>O OMORI vai ficar de boa!
+
+# *BERLY goes to tetherball pole*
+
+message_170:
+      text: \berQuando você tiver pronto para jogar, vai pro poste de espirobol e fecha os olhos.\! \com[2]Sem bisbilhotar! Senão!
+
+# If you try to leave:
+
+message_27:
+      text: \ber\com[2]Ei, onde é que você pensa que vai? Fugir!?<br>Volta aqui!
+
+message_28:
+      text: \berVai pro poste de espirobol e coloca sua cabeça nele!
+
+# *Black screen*
+
+message_173:
+      text: 5...\| 4...\| 3...\| 2...\| 1...\| \sinv[1]\Com[2]\{COMEÇOU!
+
+# *Play hide and seek bgm*
+
+# Hide and seek visual reference: https://www.dropbox.com/s/r30h9u2v36iyhbg/hideandseekguide.psd?dl=0
+
+message_29:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19
+      text: \kelUau! Você me achou!
+
+message_30:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 16
+      text: \kelAgora eu posso te ajudar a achar todo mundo!\!<br>Só não conta pra BERLY sobre isso, beleza? Heh heh...
+
+message_31:
+      text: KEL juntou-se ao grupo.
+
+# Note: KEL forces you to find him. If you try to walk away, he'll say...
+
+message_32:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: \kelOMORI!\! Psiuu... OMORI!\! Eu tô aqui!
+
+message_33:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 1
+      text: \aubAhh... Você me achou...\! Droga... Hehe...\!<br>Vamos encontrar todo mundo juntos, OMORI!
+
+message_34:
+      text: AUBREY juntou-se ao grupo.
+
+# \her(Only appears after you get AUBREY and KEL)
+
+message_35:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 47
+      text: \herEi pessoal! Huff...\! Sabe... Huff...\! Achei um lugar ótimo para me esconder, mas o SHAWN e a REN... huff...\! me convidaram pra participar de uma... huff...\! rotina de exercícios!
+
+message_36:
+      text: \n<REN>É divertido!
+
+message_37:
+      text: \n<SHAWN>E bom para você!
+
+message_38:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 48
+      text: \herVocês deveriam tentar isso aqui!\!<br>É huff...\! realmente... huff...\! um treino...\!<br>Ai cara, eu tô tão... huff... cansado...
+
+message_39:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19
+      text: \kelUau...\! Você realmente não sabe como dizer “não” pras pessoas, né HERO?
+
+message_40:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 2
+      text: \aubVamos lá, HERO! Nós temos que ajudar o OMORI a achar todo mundo!
+
+message_41:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 46
+      text: \herCerto, certo... huff...\! Já tô indo!
+
+message_42:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 38
+      text: \herTchau, SHAWN! Tchau, REN! Isso foi divertido!
+
+message_43:
+      text: \n<REN>É! Vamos fazer isso de novo outra hora!
+
+message_44:
+      text: \n<SHAWN>Te vejo mais tarde, HERO!
+
+message_176:
+      text: HERO juntou-se ao grupo.
+
+# NOSE AND BUN:
+# *Slide shakes*
+
+message_45:
+      text: \whoNose avante!
+
+message_46:
+      text: \whoShh... Se você fizer muito barulho, eles vão ouvir a gente!
+
+message_47:
+      text: \n<NOSE>\com[2]NOSE avante! BUN avante!
+
+message_48:
+      text: \n<BUN>Ahh! Fica quieta, NOSE! Estamos nos escondendo, lembra?
+
+# *KEL examines slide.*
+
+message_49:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: \kel\Com[2]A-ha!\! Nós achamos vocês! BUN e NOSE!
+
+message_50:
+      text: \n<BUN>NOSE... Eles acharam a gente!
+
+message_51:
+      text: \n<NOSE>\}Nose... avante...
+
+message_52:
+      text: \n<BUN>Oh... Você sabe que eu não posso ficar brava contigo.\!<br>Vamos brincar de adoleta!
+
+message_53:
+      text: \n<HAPPY>\sinv[1]Boing! Sou eu, HAPPY!
+
+message_54:
+      text: \n<HAPPY>Você me achou, então isso significa que eu tenho que fazer alguma outra coisa...
+
+message_55:
+      text: \n<HAPPY>Oh, já sei! Eu vou contar o alfabeto de trás para frente!
+
+message_56:
+      text: \n<HAPPY>Z...\! Y...\! X...\! W...\! V...\! U...\! O...\! M...\! Hmm...\! O...
+
+message_57:
+      text: \n<BANGS>Droga, você me achou.\! Acho que isso significa que eu perdi...
+
+message_58:
+      text: \n<BANGS>Sabe o que a HAPPY iria dizer agora?
+
+message_59:
+      text: \n<BANGS>Ela iria dizer algo tipo...<br>"BANGS, você deve sempre dar seu melhor em tudo!\!<br>De que jeito as pessoas vão ver o quão íncrivel você é?"
+
+message_60:
+      text: \n<BANGS>...\! Fica pra próxima, eu acho.
+
+message_61:
+      text: \n<BROWS>\SINV[2]\Com[2]AAAHHH\{HHHHHHHH\{HHHHHHH!!!\LECLEAR
+
+# MIKAL
+
+message_62:
+      text: \n<MIKAL>\Com[2]Ahn!? Onde é que eu tô?
+
+message_63:
+      text: \n<MIKAL>Aff...\! Eu estava sonhando que eu estava numa praia particular com serviçais abanando folhas de palmeira...\! quando do nada...
+
+message_64:
+      text: \n<MIKAL>\Com[2]Pá!\! Aqui tô eu!
+
+message_65:
+      text: \n<MIKAL>Eu devo ter dormido enquanto eu me escondia...\! Fim de jogo para mim então.
+
+message_66:
+      text: \n<VAN>Acontece que...\! Não há muitos lugares para alguém do meu tamanho se esconder...\! mas foi bem divertido!\! Enquanto a BERLY estiver feliz, eu tô feliz.
+
+# -----------------------------------------------------------------------------------------------------------------------------
+
+# After being found, the character will take their place back in BERLY's line-up in the FOUND PEOPLE ZONE.
+
+# NOSE and \n<BUN>(Facing each other)
+
+message_177:
+      text: \n<SHARLEEN>...
+
+message_67:
+      text: \n<NOSE e BUN>\sinv[1]Adoleta! Le petit petit polá!\sinv[0]
+
+message_68:
+      text: \n<NOSE e BUN>\sinv[1]le café com chocolá! Adoleta!
+
+message_69:
+      text: \n<HAPPY>Q... R... S... T... U... H... I... J...\! Umm...
+
+# \n<BANGS>(upside down)
+
+message_70:
+      text: \n<BANGS>O chão é bom aqui.
+
+message_71:
+      text: \n<BROWS>\SINV[2]\Com[2]AAAHHH\{HHHHHHHH\{HHHHHHH!!!\LECLEAR
+
+message_72:
+      text: \n<MIKAL>\sinv[1]Zzzzzzzzzzzzzzzz...
+
+message_73:
+      text: \n<VAN>Enquanto a BERLY estiver feliz, eu tô feliz.
+
+# -----------------------------------------------------------------------------------------------------------------------------
+
+# MARI acts as a helper and lets OMORI know how many people are left to find (excluding BASIL):
+
+message_74:
+      faceset: MainCharacter_Mari
+      faceindex: 0
+      text: \marOi, OMORI!\! Tô vendo que todo mundo decidiu ficar pra brincar de esconde-esconde!
+
+message_75:
+      faceset: MainCharacter_Mari
+      faceindex: 3
+      text: \marSe você estiver passando por dificuldades, eu posso te ajudar.\!<br>A irmãzona sempre estará aqui pra você! Hehe...
+
+message_76:
+      faceset: MainCharacter_Mari
+      faceindex: 1
+      text: \marEntão...\! Você gostaria da minha ajuda?
+
+# [YES/NO]
+
+message_77:
+      faceset: MainCharacter_Mari
+      faceindex: 2
+      text: \marPelo o que eu estou vendo...<br>Ainda há \v[1001] amigos faltando!
+
+message_78:
+      faceset: MainCharacter_Mari
+      faceindex: 3
+      text: \marVocê consegue, OMORI!\! Estou torcendo por você!
+
+# -----------------------------------------------------------------------------------------------------------------------------
+
+# When walking down to roadblocks:
+
+message_79:
+      text: \n<NEB>Pst... pst... pst...
+
+message_80:
+      text: \n<DAISY>Hehe... pst... pst... pst...
+
+message_81:
+      text: \n<SHARLEEN>\}...\! Ah...
+
+# Você sente que está interrompendo algo importante
+# *OMORI takes a step back*
+
+# -----------------------------------------------------------------------------------------------------------------------------
+
+# Note: Remember to deactivate mailbox intro event in hide-and-seek mode
+
+# -----------------------------------------------------------------------------------------------------------------------------
+
+# \ber(Only appears after finding everyone else)
+
+message_82:
+      text: Há um canudo no chão.\! Puxar para fora?
+
+message_83:
+      text: \ber\quake[1]PWW\{\Com[2]WWWAH\{\Com[2]HH\{HH!!
+
+message_84:
+      text: \berVocês demoraram muito...\!<br>Eu achei que eu ia sufocar lá dentro!
+
+message_85:
+      text: \berO que cês acharam do meu esconderijo?\! Bem legal, né?
+
+message_86:
+      text: \berParece que você achou todo mundo também!\!<br>Inesperado...\! mas eu gosto disso!
+
+message_87:
+      text: \berVamos fazer uma chamada final!
+
+# *Black screen to move everyone into position*
+
+# *BERLY whistles*
+
+message_88:
+      text: \berSHARLEEN!
+
+message_89:
+      text: \n<SHARLEEN>\}A-Aqui...
+
+message_90:
+      text: \berVAN!
+
+message_91:
+      text: \n<VAN>Sempre aqui, amigão.
+
+message_92:
+      text: \berMIKAL!
+
+message_93:
+      text: \n<MIKAL>\sinv[1]Zzzzzzzzzzzzzzzz...
+
+# *BERLY punches MIKAL*
+
+message_94:
+      text: \n<MIKAL>Au! Qual é o seu problema!?
+
+message_95:
+      text: \berHAPPY!
+
+message_96:
+      text: \n<HAPPY>Aqui, aqui!
+
+message_97:
+      text: \berBROWS!
+
+message_98:
+      text: \n<BROWS>\{\SINV[2]\Com[2]AAAHHH\{HHHHHHHH\{HHHHHHH!!!\LECLEAR
+
+message_99:
+      text: \berBANGS!
+
+message_100:
+      text: \n<BANGS>Aqui...
+
+message_101:
+      text: \berBUN!
+
+message_102:
+      text: \n<BUN>BUN tá aqui!
+
+message_103:
+      text: \berNOSE!
+
+message_104:
+      text: \n<NOSE>Nose avante!
+
+message_105:
+      text: \berHERO!
+
+message_106:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 49
+      text: \herPresente!
+
+message_107:
+      text: \berKEL!
+
+message_108:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 24
+      text: \kelUaaah...\! Você realmente tem que fazer isso toda hora, BERLY?
+
+# *BERLY hits KEL*
+
+message_109:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 30
+      text: \kelEi! não tinha necessidade di-
+
+# *BERLY hits KEL again*
+
+message_110:
+      text: \berAUBREY!
+
+message_111:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 1
+      text: \aubAqui estou!
+
+# *BERLY has a question mark appear over her head*
+
+message_112:
+      text: \berAhn? Cadê o BASIL?
+
+message_113:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 40
+      text: \herEstranho...\! Eu acho que eu vi ele se escondendo perto daquela árvore ali.
+
+message_114:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: \aubBASIL! Onde você está?\! Consegue ouvir a gente?
+
+message_115:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: \kelBASIL!\! Você já pode sair agora!\! Você já ganhou!
+
+message_116:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19
+      text: \kel\{\{\sinv[1]OOOLÁÁÁÁ!? BASIL!?!?
+
+# *Screen shakes*
+
+# *Tree disguise slips and reveals BASIL's hair*
+# Note: Use https://www.dropbox.com/s/uwzgyu9cnmiprt3/BOSS_draft.psd?dl=0 for now
+
+message_117:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: \herEi, ali tá o BASIL!
+
+message_118:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 28
+      text: \kelBASIL, você tá bem?
+
+message_119:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 26
+      text: \kelVocê...\! você tá bem?
+
+message_120:
+      text: \n<CHEFE>\com[2]\sinv[1]\{HWEHWE\{HWEHW\{EHWE!!
+
+message_121:
+      text: \berO que tá acontecendo ali!?
+
+message_122:
+      text: \berCHEFE! Eu devia saber que era você!
+
+message_123:
+      text: \berSeu canalha inútil...\! Solta o BASIL!
+
+message_124:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 30
+      text: \kelÉ! O que o BASIL fez de mal para você!?
+
+message_125:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: \aubBASIL é o nosso amigo!\! Não ouse machucar ele!
+
+message_126:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 44
+      text: \herLarga o BASIL, CHEFE!\! Ele não fez nada de errado!
+
+message_127:
+      text: \n<CHEFE>\com[2]\sinv[1]\{HWEHWE\{HWEHW\{EHWE!!
+
+message_128:
+      text: \n<CHEFE>Seus estúpidos!\! Vocês acham que isso é sobre o BASIL?
+
+message_129:
+      text: \n<CHEFE>Não se façam de burros!\! Vocês sabem por que eu tô aqui!
+
+message_130:
+      text: \n<CHEFE>Como ousam não me convidar para brincar de esconde-esconde?!
+
+message_131:
+      text: \n<CHEFE>Fui eu que mostrei para vocês como se brinca em primeiro lugar!
+
+message_138:
+      text: \n<CHEFE>\com[2]E vocês nem tão brincando direito!\! Como vocês podem chamar isso de esconde-esconde sem violência!?
+
+# *BOSS takes BASIL's flower crown and throws it*
+
+message_132:
+      faceset: MainCharacter_Basil
+      faceindex: 3
+      text: \basMinha \c[4]TIARA DE FLORES\c[0]!
+
+message_133:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: \aubEi! Essa é a \c[4]TIARA DE FLORES\c[0] que fizemos pro BASIL!
+
+message_134:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 30
+      text: \kelComo você pôde!?\! Solta ele, seu valentão!
+
+message_135:
+      text: \n<CHEFE>Não!\! Se eu não posso jogar com todo mundo, então ninguém pode!
+
+message_136:
+      text: \n<CHEFE>Essa é uma zona somente para o CHEFE agora...E vocês...
+
+message_137:
+      text: \n<CHEFE>\com[2]\quake[1]\{\{NÃO ESTÃO CONVIDADOS!!
+
+# *BOSS battle*
+
+
+# After BOSS battle:
+
+#jump
+message_139:
+      text: \n<CHEFE>\{ISSO NÃO É JUSTO!!
+
+#jump#jump#jump
+
+message_140:
+      text: \n<CHEFE>\com[2]\{REVANCHE!!\! QUERO UMA REVANCHE!!
+
+#KEL punches BOSS
+
+message_141:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: \aubBASIL... Você tá machucado?
+
+message_142:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: \basAh, não se preocupe comigo.\! Eu tô bem.
+
+message_143:
+      faceset: MainCharacter_Basil
+      faceindex: 2
+      text: \basCHEFE...\! Deve ser ruim ver as pessoas se divertindo sem você...
+
+message_144:
+      faceset: MainCharacter_Basil
+      faceindex: 0
+      text: \basMas isso não significa que você pode arruinar a diversão dos outros...
+
+message_145:
+      text: \n<CHEFE>Hum!\! Eu sei disso!
+
+#BASIL takes offf the no boss bulletin
+
+message_146:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: \basPronto...\! Melhor agora?
+      # Blahblhablha
+
+message_147:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: \aubBASIL! Tem certeza de que é bom fazer isso?
+
+message_148:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 31
+      text: \kelO CHEFE é coisa ruim!\! Foi bom o OMORI ter aguentado aquele ataque final, se não todos nós teríamos sido TORRADOS...
+
+message_149:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: \basTá tudo bem, eu confio nele.\! Quando vocês estavam lutando, ele realmente cuidou para que eu não me machucasse.
+
+message_301:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: \herIsso é verdade, CHEFE?
+
+#BOSS turns around
+
+message_302:
+      text: \n<CHEFE>...\! Hum!
+
+message_303:
+      text: \n<CHEFE>Isso é um monte de baboseiras...\! Eu não preciso ouvir essas mentiras!
+
+#BOSS goes back to where teh tree was and pulls up the tree halfway.
+
+message_304:
+      text: \n<CHEFE>Esse é meu lugar!\! Ninguém é bem-vindo aqui!
+
+#BOSS pulls up the tree full
+
+#Everyone goes "..."
+
+message_305:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 47
+      text: \herBem...\! Ele provavelmente não vai ser um problema enquanto ficar aí.
+
+message_306:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 37
+      text: \herEu acho que isso significa que podemos ir pra casa do BASIL agora.
+
+message_307:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: \basPor mim tudo bem!
+
+#BASIL walks up to BOSS tree
+
+message_320:
+      faceset: MainCharacter_Basil
+      faceindex: 2
+      text: \basNós estamos saindo, CHEFE.\! Não cause problemas, tá bem?
+
+message_308:
+      text: \n<CHEFE>...
+
+#BASIL walks toward you
+
+message_309:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: \basTá, Estou pronto!\! Vamos lá!
+
+
+# -----------------------------------------------------------------------------------------------------------------------------
+
+#KEL became toast
+
+message_150:
+      text: \herNa verdade, espere um pouco... Eu acho que o KEL foi TORRADO!
+
+message_151:
+      text: \aubHã? Ah, você tem razão.
+
+message_152:
+      text: \aubInútil como sempre, para variar.
+
+message_153:
+      text: \herIsso não é bom...\! Alguém tem um pouco de \c[3]GELEIA VITAL\c[0] sobrando para-
+
+message_154:
+      text: \n<CARA DA GELEIA VITAL>\com[2]\{ALGUÉM DISSE \{\c[3]GELEIA VITAL\c[0]!?
+
+# -----------------------------------------------------------------------------------------------------------------------------
+
+# LIFE JAM GUY: (Use placeholder graphic)
+
+message_155:
+      text: \n<CARA DA GELEIA VITAL>Ei, crianças! Eu sou o cara da \c[3]GELEIA VITAL\c[0]!<br>\!Eu vendo \c[3]GELEIA VITAL\c[0]!\! É muito útil!
+
+message_156:
+      text: \n<CARA DA GELEIA VITAL>Gostariam de uma amostra grátis?
+
+# [YES/NO]
+
+# If [YES], he destroys everyone in battle except you (because of plot armor).
+# *fade out of battle*
+
+message_157:
+      text: \n<CARA DA GELEIA VITAL>Não sejam ridículos...\! \com[2]É claro que querem!
+
+message_158:
+      text: \n<CARA DA GELEIA VITAL>Bem gostosa, né?<br>\!Agora... gostariam de comprar um pouco de \c[3]GELEIA VITAL\c[0]?<br>\!Só custa 250 CONCHAS.\$
+
+message_159:
+      text: \n<CARA DA GELEIA VITAL>Vocês gostariam de comprar um pouco de \c[3]GELEIA VITAL\c[0]?<br>\!Só custa 250 CONCHAS.\$
+
+message_160:
+      text: Você ganhou \c[3]GELEIA VITAL\c[0].
+
+message_161:
+      text: \n<CARA DA GELEIA VITAL>Hm, você não tem CONCHAS suficientes.<br>\!Volte quando tiver mais!
+
+message_162:
+      text: \n<CARA DA GELEIA VITAL>Haha, tudo bem.\! Você vai precisar delas depois.
+
+message_163:
+      text: \n<CARA DA GELEIA VITAL>\com[2]\c[3]GELEIA VITAL\c[0]!\! Totalmente funcional!
+
+message_164:
+      text: \n<CARA DA GELEIA VITAL>O que acharam da amostra grátis?\! Haha, estou brincando.\!<br>Sei que amaram ela!
+
+message_165:
+      text: \n<CARA DA GELEIA VITAL>Ah! Vejo que ainda está machucado.\! Sem problemas! Eu vou te curar, haha!
+
+# Note: He'll probably do something similar later with SUPER LIFE JAM
+
+message_180:
+      text: \basHaha, que pessoa estranha.\!<br>Como você está, KEL?
+
+message_181:
+      text: \kelHm? Por que a pergunta?
+
+message_182:
+      text: \aubVocê acabou de ficar TORRADO! Não se lembra?
+
+message_183:
+      text: \kelEu fiquei TORRADO? Não sei, isso parece meio bizarro. Se algo estranho assim tivesse acontecido, eu me lembraria.
+
+message_184:
+      text: \kelUau, você achou todo mundo, OMORI? Você é muito bom em esconde-esconde, hein?
+
+message_185:
+      text: \aub... Nós estamos indo pra casa do BASIL agora.
+
+# -----------------------------------------------------------------------------------------------------------------------------
+
+message_171:
+      text: \berEi, OMORI! Adivinha só?\!<br>Eu tenho alguns planos para hoje... Grandes planos!\! Só espera aí um pouquinho.\! Vai entender o que eu quero dizer!
+
+message_172:
+      text: \n<VAN>A BERLY fala tão rápido quando ela tá animada.\!<br>Fica difícil de acompanhar...
+
+message_174:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 0
+      text: Qual é a pressa, OMORI?\!<br>Nós deveríamos dar um "Olá" para todo mundo primeiro!\aub
+
+
+# -----------------------------------------------------------------------------------------------------------------------------
+#BEFORE YOU TALK TO THE pole
+
+message_250:
+      text: Hmm... Eu posso me esconder por aqui?\n<VAN>
+
+message_251:
+      text: \}...\! Eu vou tentar o meu melhor...\n<SHARLEEN>
+
+message_252:
+      text: \sinv[1]Uaaah...\! Tô com sono...\n<MIKAL>
+
+message_253:
+      text: \{Yay!\} É hora de \{\sinv[1]brincar!\}\n<HAPPY>
+
+message_254:
+      text: \sinv[1]Ahhh?\sinv[0]\n<BROWS>
+
+message_255:
+      text: Aff...\! Eu não sei onde me esconder.\!<br>Eu não tenho criatividade alguma...\n<BANGS>
+
+message_256:
+      text: Me pergunto onde eu e a NOSE podemos nos esconder...\n<BUN>
+
+message_257:
+      text: Nose avante!\n<NOSE>
+
+message_258:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 37
+      text: \herVocê vai ficar bem, OMORI.\! Acredite em você mesmo!
+
+message_259:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: \kelVocê ganha essa de lavada, amigão!
+
+message_260:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 3
+      text: \aubVocê consegue!\! Eu acredito em você, OMORI!
+
+message_261:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: \basNão se preocupa, OMORI.\! Eu sei que você vai ficar bem!
+
+message_262:
+      text: \berSó chegue no poste quando quiser começar.\!<br>Vamos, OMORI! Não seja um bebezão!
+
+
+#---
+#SHAWN AND REN
+
+message_263:
+      text: \n<SHAWN E REN>Huff... Huff... Huff...\!<br>Nós não estamos brincando...\! Estamos nos exercitando!
+
+message_264:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19
+      text: \kelOnde é que você tá indo, OMORI?\! Você não pode sair agora! Nós nem ganhamos ainda!
+
+
+# -----------------------------------------------------------------------------------------------------------------------------
+#RECKUT
+#after the RECKUT cutscene, he hides in his tree. and every time you talk to him, he pulls the tree down, and then after, he pulls it back up.
+
+#DAY 0-1
+
+message_279:
+      text: \n<CHEFE>...
+
+#DAY 0-2:OTHERWORLD
+
+message_280:
+      text: Ahn? O BASIL está desaparecido de novo?\!<br>Não fui eu dessa vez, eu juro!\!<br>Agora deixa eu me arrepender sozinho!\n<CHEFE>
+
+#DAY 1:SWEETHEART
+
+message_281:
+      text: Vocês não acharam o BASIL, ainda?\!<br>Vocês são uns perdedores!\n<CHEFE>
+
+
+message_282:
+      text: ...\! Me avisem se encontrarem ele, tá bem?\!<br>Eu só quero saber se ele está seguro...\n<CHEFE>
+
+#DAY 2:DEEP WELL
+#RECKUT IS GONE
+
+# -----------------------------------------------------------------------------------------------------------------------------
+
+message_400:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19
+      text: \kelNós não podemos sair, OMORI! Nós não ganhamos ainda!
+
+message_401:
+      text: \n<NEB E DAISY>\}\sinv[1]Cochicho, cochicho...\| cochicho, cochicho...
+
+message_402:
+      text: Você provavelmente não deveria atrapalhar isso.

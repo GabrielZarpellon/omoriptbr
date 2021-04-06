@@ -1,0 +1,108 @@
+# =========================================================================================
+# Farawaytown extras daily dialogue
+# =========================================================================================
+
+# ===================STRANGER 1================
+#OLIVE BEANIE, by bus stop
+
+message_1:
+      text: \n<GORRO VERDE>Hmm...\! Parece que o ônibus atrasou hoje.
+
+message_2:
+      text: \n<GORRO VERDE>Ou talvez eu que tenha me atrasado...
+
+message_3:
+      text: \n<GORRO VERDE>Mano...\! Tomara que eu não perca ele de novo.
+
+message_4:
+      text: \n<GORRO VERDE>Quando eu era mais novo, minha família ia muito pra esse parque.\! Eu lembro que tinha um lago com uma estátua no meio...\! mas eu não consigo achar de jeito nenhum.
+
+# ===================STRANGER 2================
+#Older man with glasses
+
+message_10:
+      text: \n<IDOSO DE ÓCULOS>Eu vou me encontrar com alguém, mas essa pessoa tá atrasada...\! Não conte para ninguém que eu fiquei esperando em pé!
+
+# ===================STRANGER 3================
+#Brown hair lady
+
+message_20:
+      text: \n<MOÇA DE CABELO MARROM>Uhh...\! Posso te ajudar?
+
+# ===================STRANGER 4================
+#Newsreporter
+
+message_30:
+      text: \n<REPÓRTER>Eu trabalho na emissora de notícias na cidade, mas às vezes eu dirijo até o \c[11]PARQUE TÃO-DISTANTE\c[0] nos intervalos.\! Tem algo muito relaxante sobre esse lugar.
+
+# ===================STRANGER 5================
+#Pencil in hair man
+
+message_40:
+      text: \n<HOMEM DO LÁPIS>Eu preciso de algo para beber.\! Eu tô trabalhando no meu próximo grande projeto e preciso de algo pra me manter acordado!
+
+# ===================STRANGER 6================
+#Glasses boy
+
+message_50:
+      text: \n<GAROTO DE ÓCULOS>Meu romance favorito acabou de receber uma adaptação pros quadrinhos!\! ...\! Mas o personagem principal não se parece nada com o que eu tinha imaginado...
+
+# ===================STRANGER 7================
+#Tall man
+
+message_60:
+      text: \n<ESTRANHO>Eu tenho muita certeza que tô perdido.\! Tanto em corpo...\! como em alma.
+
+# ===================STRANGER 8================
+#Messy hair man
+
+message_70:
+      text: \n<HOMEM DESPENTEADO>Eu amo bananas.\! Eu poderia observá-las o dia todo.
+
+message_71:
+      text: \n<HOMEM DESPENTEADO>Ontem enquanto eu estava comendo uma banana...\! Eu encontrei um lugar maneiro cheio de mato e com um lago, fica atrás do parque.
+
+message_72:
+      text: \n<HOMEM DESPENTEADO>Mas logo depois, um bando de desordeiros em seus patinetes chegaram e me expulsaram.
+
+message_73:
+      text: \n<HOMEM DESPENTEADO>\com[2]E pra piorar, eles jogaram a minha banana fora!
+
+message_74:
+      text: \n<HOMEM DESPENTEADO>Hunf...\! Eu não posso deixar essas crianças mandarem em mim!\!<br>Eu sou um adulto agora!\! ...\! Um jovem adulto pelo menos...
+
+
+# ===================STRANGER 9================
+#Doctor
+
+message_80:
+      text: \n<PROFISSIONAL>Vejamos...\! Que remédio melhor me ajudaria em um voo de 30 horas?
+
+# ===================STRANGER 10================
+#Player lookalike
+
+message_90:
+      text: \n<GAROTO MAGRO>Tá olhando o que, sinhô?
+
+# ===================STRANGER 11================
+#Kel lookalike
+
+message_100:
+      text: \n<GAROTO ENERGÉTICO>Estou jogando esse jogo com o meu melhor amigo!
+
+# ===================MOVERS================
+
+message_101:
+      text: \n<ESTRANHO>\sinv[1]Adeus...\| Adeus...\| Adeus...
+
+message_102:
+      text: \n<ESTRANHO>Que tipo de futuro o aguarda?
+
+message_103:
+      text: \n<ESTRANHO>Sua mãe está esperando por você lá fora.
+
+message_104:
+      text: \n<ESTRANHO>É hora de se mudar desse lugar e recomeçar.
+
+message_105:
+      text: \n<ESTRANHO>Que você viva uma vida longa e feliz.

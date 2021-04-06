@@ -1,0 +1,30 @@
+# =========================================================================================
+# Lost Forest
+# ========================================================================================
+
+#Talk to Mush:
+
+message_0:
+      text: \n<COGU>Olá, estranho.\! Eu sou o COGU e meu sonho sempre foi ser consumido e aproveitado.\! <br>Você vai finalmente realizar o meu desejo e me comer?
+
+#[Nod/Shake]
+#[Nod]
+
+message_1:
+      text: \n<COGU>Oh, obrigado, estranho.\!<br>Você não sabe o quanto estou grato por isso!
+
+#MUSH jumps into your sprite
+
+message_2:
+      text: \c[3]COGU\c[0] estava muito alegre e animado enquanto foi mastigado.
+
+message_3:
+      text: \c[3]COGU\c[0] aprimorou 1 CORAÇÃO, 1 SUCO, 1 ATAQUE, 1 DEFESA, 1 VELOCIDADE, and 1 SORTE!
+
+message_5:
+      text: Você recebeu \c[3]COGU\c[0].
+
+#[Shake]
+
+message_4:
+      text: \n<COGU>Oh...\! Tá bom, então.

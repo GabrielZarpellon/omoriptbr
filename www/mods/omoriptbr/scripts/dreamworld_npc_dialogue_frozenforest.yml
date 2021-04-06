@@ -1,0 +1,114 @@
+# =========================================================================================
+# Dreamworld NPC dialogue
+# =========================================================================================
+
+# ==============FROZEN FOREST====================================
+
+
+                        #====NIGHT 1-2 and Night 2====
+
+#FISHING BEAR
+#Location: Frozen Lake
+message_0:
+      text: \n<URSO PESCADOR>Só estou esperando pela próxima grande pescada!
+
+#SNOW CONE JASH
+#FROZEN Lake
+#DREAMWORLD Shop yaml
+
+                        #====NIGHT 3 and 4====
+#FISHING BEAR
+#Location: Frozen Lake
+#Same as NIGHT 1-2.
+
+#SNOW CONE JASH
+#Location: Frozen Lake
+#Same as NIGHT 1-2.
+
+#SNOWGLOBE 1
+#Location: Frozen Forest
+message_1:
+      text: Você olhou dentro do GLOBO DE NEVE.\! Você vê um carro preso na neve.\! Crianças estão desenhando com o dedo nas janelas do banco de trás.
+
+#SNOWGLOBE 2
+#Location: Frozen Forest
+message_2:
+      text: Você olhou dentro do GLOBO DE NEVE.\! Você vê uma pequena casa no topo de uma montanha de neve.\! Parece ser quente por dentro.
+
+#SNOWGLOBE 3
+#Location: Frozen Forest
+message_3:
+      text: Você olhou dentro do GLOBO DE NEVE.\! Você vê crianças descendo uma colina com trenós.\! Elas parecem estar se divertindo.
+
+#MOUNTAIN
+message_10:
+      text: Você se encontra no sopé de uma montanha.
+
+message_11:
+      text: Você se encontra de volta onde iniciou.
+
+#====
+
+#FISHING
+
+message_20:
+      text: Você pescou uma BROTOPEIRA!<br>\!E depois jogou de volta no rio.
+
+message_21:
+      text: Você pescou uma bota velha...<br>\!E depois jogou de volta no rio.
+
+message_23:
+      text: Você pescou um caranguejo!<br>\!E depois jogou de volta no rio.
+
+message_24:
+      text: Você pescou um polvo!<br>\!E depois jogou de volta no rio.
+
+message_25:
+      text: Você pescou um resíduo nuclear...<br>\!E depois jogou de volta no rio.
+
+message_26:
+      text: Você pescou uma máquina de vendas!
+
+message_27:
+      text: Você pescou um \"O\".<br>\!E depois jogou de volta no rio.
+
+message_29:
+      text: Você pescou uma laranja.<br>\!E depois jogou de volta no rio.
+
+message_30:
+      text: Você pescou uma MENSAGEM EM UMA GARRAFA!
+
+message_31:
+      text: \n<MENSAGEM EM UMA GARRAFA>\"Quando a lua acerta o seu olho como uma grande torta de pizza, isso é _____.\"
+
+#Show Choices OMORI, AUBREY, KEL, HERO
+
+message_32:
+      text: Você pescou um peixe plástico...<br>\!E depois jogou de volta no rio.
+
+message_33:
+      text: Você pescou um peixe real!<br>\!E depois jogou de volta no rio.
+
+message_34:
+      text: Você pescou um \c[3]TOFU\c[0]!
+
+message_35:
+      text: Você pescou uma \c[3]GELEIA VITAL\c[0]!
+
+message_36:
+      text: Sem sorte dessa vez...
+
+message_40:
+      text: OMORI
+
+message_41:
+      text: AUBREY
+
+message_42:
+      text: KEL
+
+message_43:
+      text: HERO
+
+message_44:
+      text: Você jogou a garrafa de volta no rio.

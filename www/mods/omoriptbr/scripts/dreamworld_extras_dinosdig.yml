@@ -1,0 +1,241 @@
+# =========================================================================================
+# Dino's Dig
+# =========================================================================================
+
+#-------------------------
+#Dino intro
+#-------------------------
+message_1:
+      text: \n<DINO>E aí, pequenos aventureiros!\!<br>Sejam bem-vindos ao CAVA-SAURO! Eu sou DINO, o fundador do CAVA-SAURO!
+
+message_2:
+      text: \n<DINO>Ahem...\! Vocês estão com fome de tesouro?\! Vocês estão preparados para terem uma colherada de aventura?\! Se sim, vocês vieram ao lugar certo!
+
+
+message_3:
+      text: \$\n<DINO>Aqui no CAVA-SAURO nós criamos a aventura de caça ao tesouro suprema... que você pode experienciar pelo pequeno preço de 100 CONCHAS!
+
+message_4:
+      text: \$\n<DINO>Você estão prontos para aproveitar a diversão e o entusiasmo de escavar por tesouros?
+
+#[Nod/Shake]
+
+#[Nod]
+message_5:
+      text: \n<DINO>\SINV[1]\{\{DINO-TÁSTICO!!\}\}\SINV[0]
+#Skip to GAME TUTORIAL
+
+#[Shake]
+message_6:
+      text: \n<DINO>Ahh... O que foi?\!<br>Eu pensei que vocês eram do tipo aventureiro...
+
+#-------------------------
+#GAME TUTORIAL
+#-------------------------
+message_7:
+      text: \n<DINO>Certo, garotada. Vamos por partes.\! Aqui no CAVA-SAURO, nós cavamos com \c[4]COLHERES\c[0]!
+
+#IF YOU DON'T HAVE A SPOON (EVERY TIME)
+message_106:
+      text: \n<DINO>Como você não tem uma \c[4]COLHER\c[0], eu vou te dar uma \c[4]COLHER DE BATATA\c[0] de graça!
+
+message_8:
+      text: \n<DINO>Escolha qual \c[4]COLHER\c[0] você gostaria de usar.
+
+#OPEN SPOON MENU AND SELECT SPOON
+#Note: SPOONS that show up in the choices should be based off what is in your inventory
+
+message_100:
+      text: Você quer usar a \c[4][VARIABLE]\c[0]?
+#[YES/NO]
+
+message_9:
+      text: \n<DINO>Aqui está! Isso aí, mano!\!<br>Você aprende rápido, não é?
+
+message_10:
+      text: \n<DINO>Em nosso local de escavação especial, a \c[11]PIRÂMIDE ALIMENTAR\c[0], vocês poderão descobrir tesouros super irados de todo o universo...\! e a melhor parte é que... vocês podem ficar com tudo o que encontrarem!
+
+message_11:
+      text: \n<DINO>\sinv[1]\com[2]\{ISSO É UMA DINO-GARANTIA!
+
+message_12:
+      text: \n<DINO>Deixe-me contar sobre nosso local de escavação.\! A \c[11]PIRÂMIDE ALIMENTAR\c[0] tem quatro níveis.\! Vocês sempre irão começar no primeiro nível, mas se tiverem sorte...
+
+message_13:
+      text: \n<DINO>Vocês podem encontrar uma \c[4]CHAVE DA PIRÂMIDE\c[0] que destranca o PORTÃO DA PIRÂMIDE para o próximo nível!\! Quanto mais longe vocês irem, os tesouros serão cada vez melhores!
+
+message_14:
+      text: \n<DINO>Mas tem uma pegadinha!\! Cada \c[4]COLHER\c[0] possui um número de usos limitados antes de se quebrar.\! Por exemplo, \c[4]COLHERES DE BATATA\c[0] vão quebrar depois de você cavar 5 vezes!
+
+message_15:
+      text: \n<DINO>Se a sua \c[4]COLHER\c[0] quebrar, a caça ao tesouro termina, os PORTÕES DA PIRÂMIDE se fecham, e vamos chamá-los de volta para a entrada.
+
+message_16:
+      text: \n<DINO>Você entendeu tudo o que eu disse até agora?
+#[YES/NO]
+
+#[YES]
+#message_5:
+#      text: \n<DINO>\SINV[1]\{\{DINO-TASTIC!!\}\}\SINV[0]
+
+#[NO]
+#message_10-16
+
+message_17:
+      text: \n<DINO>E agora é a hora do nosso DINO aviso...\! Tesouros não são as únicas coisas que vocês encontrarão na \c[11]PIRÂMIDE ALIMENTAR\c\c[0].
+
+message_18:
+      text: \n<DINO>Durante a caça, vocês podem encontrar algumas criaturas encrenqueiras querendo brigar...\! Não somos responsáveis por nenhum dano causado a vocês ou suas propriedades durante a aventura, entenderam?
+
+
+message_19:
+      text: \n<DINO>Se uma criatura nocautear vocês durante uma luta, vai ser um fim de jogo de verdade!
+
+message_20:
+      text: \n<DINO>Bom, Acho que isso é tudo!\! Agora o que falta é vocês subirem essas escadas, sentirem o doce ar da \c[11]PIRÂMIDE ALIMENTAR\c[0], e começar a cavar!
+
+message_21:
+      text: \n<DINO>\sinv[1]Tenham uma aventura DINO-TÁSTICA!
+
+#-------------------------
+#GAME end
+#-------------------------
+message_23:
+      text: \n<DINO>\{\Com[2]\sinv[1]A COLHERZONA QUEBROU!\! ISSO É FIM DE JOGO!!\sinv[0]
+
+#[Transport to DINO'S DIG ENTRANCE]
+
+message_24:
+      text: \n<DINO>Vocês encontraram vários tesouros maneiros?\.<br>Espero que tenham gostado dessa aventura DINO-TÁSTICA!
+
+#-------------------------
+#DINO DEFAULT
+#-------------------------
+
+message_25:
+      text: \n<DINO>E aí, pequenos aventureiros! Bem-vindos ao CAVA-SAURO!
+
+message_26:
+      text: \$\n<DINO>Vocês estão prontos para mais uma aventura DINO-TÁSTICA!?<br>Vai custar apenas 100 CONCHAS!
+
+#[Nod/Shake]
+#[Nod]
+message_27:
+      text: \n<DINO>Espero que estejam prontos para mais uma aventura DINO-TÁSTICA!
+
+#[Shake]
+message_28:
+      text: \n<DINO>Ahh... O que foi?\!<br>Eu pensei que vocês eram do tipo aventureiro...
+
+#DINO walks to inside of DINO'S DIG
+
+#IF YOU DON'T HAVE A SPOON (EVERY TIME)
+#message_106:
+#      text: Since you don't have a SPOON, I'll give you a \c[4]POTATO SPOON\c[0] for free!
+
+message_111:
+      text: \n<DINO>Qual COLHER vocês irão escolher dessa vez?
+
+#OPEN SPOON MENU AND SELECT SPOON
+#Note: SPOONS that show up in the choices should be based off what is in your inventory
+
+message_110:
+      text: \n<DINO>Vocês estão prontos!\!<br>Se lembram das regras do CAVA-SAURO?
+#[YES/NO]
+
+#[YES]
+#message 10-21 (same as intro)
+
+
+#[NO]
+message_112:
+      text: \n<DINO>Sim, eu sabia que vocês aprendem rápido!
+
+#message_21 (EVERY TIME)
+
+
+#=====
+#IF YOU DONT HAVE ENOUGH CLAMS:
+
+message_113:
+      text: \n<DINO>Ei, caras...\! Eu gostaria de oferecer essa aventura DINO-TÁSTICA de graça, mas nós também precisamos de CONCHAS...\! Voltem aqui quanto tiverem 100 CONCHAS, certo?
+
+#-------------------------
+#DINO 2- DINO shops
+#-------------------------
+
+#Default>
+message_29:
+      text: \n<BRETT>Bem-vinos à DINO LOJA!\!<br>De acordo com o meu registro, vocês tem um total de \v[1020] DINO DÓLARES!
+
+message_32:
+      text: \n<BRETT>Se quiserem comprar uma \c[4]COLHER\c[0], é só me avisar que irei ajudá-los!
+
+#Purchase
+
+message_101:
+      text: \n<BRETT>Você quer comprar uma \c[4]COLHER DE PLÁSTICO\c[0] (10 USOS) por 3 DINO DÓLARES?
+
+message_102:
+      text: \n<BRETT>Você quer comprar uma \c[4]COLHER DE MADEIRA\c[0] (15 USOS) por 6 DINO DÓLARES?
+
+message_103:
+      text: \n<BRETT>Você quer comprar uma \c[4]COLHER DE PRATA\c[0] (20 USOS) por 10 DINO DÓLARES?
+
+#buy
+message_30:
+      text: \n<BRETT>Escolha maneira! Espero que encontrem muitos tesouros!
+
+#Insufficient funds
+message_31:
+      text: \n<BRETT>Foi mal, galera. Vocês não possuem DINO DÓLARES o suficiente...
+
+#Dino 3
+
+message_33:
+      text: \n<CHAD>A \c[11]PIRÂMIDE ALIMENTAR\c\c[0] tem várias coisas perdidas.\!<br>Artefatos ancestrais...\! Relíquias antigas perdidas pelo tempo...\! As possibilidades são infinitas!
+
+# =========================================================================================
+# Excavation
+# =========================================================================================
+
+message_50:
+      text: Vocês precisam de uma \c[4]COLHER\c[0] para cavar.
+
+message_51:
+      text: Você encontrou o \c[13]HECTOR\c[0]!
+
+message_52:
+      text: E mais uma \c[4]COLHER\c[0] bateu as botas...
+
+message_53:
+      text: !
+
+message_54:
+      text: A sua \c[4]COLHER\c[0] quebrou!
+
+message_55:
+      text: Você usou a \c[4]CHAVE DA PIRÂMIDE\c[0].
+
+
+# =========================================================================================
+# Excavation
+# =========================================================================================
+
+message_120:
+      text: \"CAVA-SAURO... AGORA COM MAIS EXP!\.<br>VENHA PEGAR A SUA EXP AGORA!\"
+
+message_121:
+      text: \n<DINO>\sinv[1]\{\{COMO VOCÊS ESTÃO, AVENTUREIROS?
+
+message_122:
+      text: \n<DINO>Vocês souberam?\! Nós deixamos nossas criaturas maiores... e mais malignas... do que nunca!\! E vocês sabem o que isso significa...
+
+message_123:
+      text: \n<DINO>\sinv[1]\{\{MAIS EXP!!
+
+message_124:
+      text: \n<DINO>Vamos lá, aventureiros! O que vocês estão esperando?
+
+message_125:
+      text: \n<DINO>Embarquem em sua aventura dino-tástica hoje mesmo!
