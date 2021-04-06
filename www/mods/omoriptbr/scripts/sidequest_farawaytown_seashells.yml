@@ -1,0 +1,157 @@
+
+# =========================================================================================
+# Sidequest: Seashells
+# =========================================================================================
+
+#intro
+
+message_0:
+      faceset: MainCharacters_Faraway
+      faceindex: 14 #insert number here
+      text: \kelEi, vizinha! Como vai?
+
+message_1:
+      text: \n<MENINA DE CABELO AZUL>Ei, KEL!\! Oh, e quem tá com você?
+
+message_32:
+      faceset: MainCharacters_Faraway
+      faceindex: 14 #insert number here
+      text: \kelEu trouxe meu irmão e meus amigos!
+
+message_33:
+      faceset: MainCharacters_Faraway
+      faceindex: 14 #insert number here
+      text: \kelEssa é a AUBREY!
+
+message_34:
+      faceset: MainCharacters_Faraway
+      faceindex: 14 #insert number here
+      text: \kelEsse é meu irmão HERO!
+
+message_35:
+      faceset: MainCharacters_Faraway
+      faceindex: 14 #insert number here
+      text: \kelE esse é meu amigo \n[8]!
+
+message_2:
+      text: \n<MENINA DE CABELO AZUL>Oh, espera! Eu te reconheço!\! É \n[8], não é?\!<br>Desculpe, faz um tempo.\! Acho que só nos encontramos algumas vezes...
+
+message_3:
+      text: \n<MENINA DE CABELO AZUL>Minha família sempre viveu aqui, mas eu fui enviada ao internato e eu voltei por volta de três anos atrás, eu acho?
+
+message_4:
+      faceset: MainCharacters_Faraway
+      faceindex: 14 #insert number here
+      text: \kelEi, \n[8]! CRIS é minha vizinha e ela é bem legal!\! Ela é a nadadora mais rápida da escola!
+
+message_5:
+      faceset: MainCharacters_Faraway
+      faceindex: 14 #insert number here
+      text: \kel\sinv[1]Quando ela está na água, as pessoas comparam ela com uma sereia...\! ou um tubarão...\! ou até mesmo um torpedo!\sinv[0]
+
+message_6:
+      text: \n<MENINA DE CABELO AZUL>Oh, KEL... Seus elogios nunca acabam, haha...
+
+message_7:
+      text: \n<MENINA DE CABELO AZUL>Você não estava fazendo o teste para entrar na equipe junior de basquete esse ano?\! Tenho certeza que você irá caber na equipe direitinho... Hehe...
+
+message_8:
+      faceset: MainCharacters_Faraway
+      faceindex: 14 #insert number here
+      text: \kelBem, eu vou tentar!\! Eu estive jogando de vez em quando com os estranhos no parque!\! Eu acho que estou ficando melhor, mas é difícil dizer...\! Heh...
+
+message_9:
+      faceset: MainCharacters_Faraway
+      faceindex: 15 #insert number here
+      text: \kelMas se eu praticasse tanto no basquete quanto você pratica natação, eu provavelmente teria uma chance melhor...
+
+message_10:
+      text: \n<MENINA DE CABELO AZUL>Oh, eu não trabalho tão duro assim...\! Eu acho divertido, honestamente!\! E além disso...\! mesmo que eu ame nadar em piscinas, eu amo nadar no oceano ainda mais!
+
+message_11:
+      text: \n<MENINA DE CABELO AZUL>Eu amo tudo sobre o oceano...\! a praia...\! <br>o som das ondas...\! até o cheiro das algas...\!<br>Ah...\! Hehe...\! Desculpa, devo parecer obcecada.
+
+message_12:
+      faceset: MainCharacters_Faraway
+      faceindex: 17 #insert number here
+      text: \kelEstá tudo bem!\! <br>É sempre bom gostar de alguma coisa, não é?
+
+message_13:
+      text: \n<MENINA DE CABELO AZUL>Hehe...\! Eu acho...\! Na verdade, eu acho que isso tudo começou porque o internato que eu fui era em uma ilha e eu gostei muito de lá!
+
+message_14:
+      text: \n<MENINA DE CABELO AZUL>O oceano me lembra dos amigos que fiz lá...\!<br>Eu espero que um dia eu possa ver eles de novo.
+
+message_15:
+      text: \n<MENINA DE CABELO AZUL>Mas...\! por enquanto, eu acho que vou ficar só coletando \c[4]CONCHAS\c[0] e coisas do tipo.
+
+message_16:
+      faceset: MainCharacters_Faraway
+      faceindex: 17 #insert number here
+      text: \kelSabe... essa história meio que me lembrou disso, mas...\!<br>o \n[8] na verdade vai se mudar daqui em breve!
+
+message_17:
+      faceset: MainCharacters_Faraway
+      faceindex: 13 #insert number here
+      text: \kelTalvez você possa dar umas dicas de como lidar com a mudança!
+
+message_18:
+      text: \n<MENINA DE CABELO AZUL>Oh, \n[8] está se mudando?\! Hmmm...\! Bem, estar longe dos meus amigos foi bem difícil no começo...\! mas mudança é uma parte da vida!
+
+message_19:
+      text: \n<MENINA DE CABELO AZUL>São as memórias que fazemos com eles que temos que apreciar.
+
+message_20:
+      text: \n<MENINA DE CABELO AZUL>Quer saber...\! Eu acabei de decidir uma coisa.<br>\!Se você ver alguma \c[4]CONCHA\c[0], pode trazer elas até mim?
+
+message_21:
+      text: \n<MENINA DE CABELO AZUL>Elas são meio difíceis de encontrar, mas eu vou ter certeza de que vai valer a pena!
+
+#Talk to Cris with SEASHELLS
+
+message_22:
+      text: \n<MENINA DE CABELO AZUL>Oh, ei! Você encontrou uma \c[4]CONCHA\c[0]!
+
+message_23:
+      text: Você deu a \c[4]CONCHA\c[0] para a MENINA DE CABELO AZUL.
+
+message_24:
+      text: \n<MENINA DE CABELO AZUL>Uau, essa aqui é tão fofa...\! Hehe... Obrigada!
+#Talk to cris after collecting some seashells (before leaving room)
+
+
+message_25:
+      text: A MENINA DE CABELO AZUL está mexendo com alguma coisa em suas mãos.
+
+message_26:
+      text: \n<MENINA DE CABELO AZUL>\com[2]Ei! Sem espiar!
+
+#Talk to Cris after collecting all SEASHELLS
+
+message_27:
+      text: \n<MENINA DE CABELO AZUL>\com[2]E... pronto!\! Finalmente está pronto!
+
+message_28:
+      text: \n<MENINA DE CABELO AZUL>Obrigado por coletar todas essas \c[4]CONCHAS\c[0] fofas pra mim!\!<br>Aqui tem uma coisa que eu fiz pra você.
+
+message_29:
+      text: \n<MENINA DE CABELO AZUL>Meus amigos fizeram uma pra mim quando eu saí do internato na ilha...\! então pensei que pudesse compartilhar esse sentimento com alguém!
+
+message_30:
+      text: Você recebeu um \c[13]COLAR DE CONCHAS\c[0].
+
+message_31:
+      text: \n<MENINA DE CABELO AZUL>Espero que te lembre do tempo que passou aqui!\!<br>Boa sorte com tudo! Tenho certeza que vai ficar tudo bem!
+
+message_107:
+      text: \n<MENINA DE CABELO AZUL>Espero que ver esse \c[13]COLAR DE CONCHAS\c[0] te lembre do seu tempo aqui!\! Boa sorte com tudo! Tenho certeza que tudo vai ficar bem!
+
+message_100:
+      text: Você encontrou uma \c[4]CONCHA\c[0]!
+
+
+message_105:
+      text: \n<MENINA DE CABELO AZUL>Oi KEL e \n[8]!\! Se você ver alguma \c[4]CONCHA\c[0], podem trazer elas até mim?
+
+message_106:
+      text: \n<MENINA DE CABELO AZUL>Elas são meio difíceis de encontrar, mas eu vou ter certeza de que vai valer a pena!

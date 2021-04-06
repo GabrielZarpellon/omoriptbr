@@ -1,0 +1,97 @@
+
+# =========================================================================================
+# Sidequest: Michael's Lunch
+# =========================================================================================
+
+#Talk to Joy's Dad
+
+message_1:
+      text: \n<SOBRANCELHAS GROSSAS>Ei, crianças...\! Eu tenho um favor a pedir.\!<br>Vocês podem deixar essa \c[4]LANCHEIRA\c[0] com o garoto do violão na \c[11]PRAÇA DA CIDADE\c[0]?
+
+message_40:
+      text: \n<SOBRANCELHAS GROSSAS>Ai ai...\! Aquela criança sonha muito alto...\! Ele deve ter puxado a mãe.
+#yes/no
+
+message_50:
+      text: \n<SOBRANCELHAS GROSSAS>Oh...\! Hmm...\! Mas é tão difícil dizer adeus...
+
+#if yes
+message_2:
+      text: \n<SOBRANCELHAS GROSSAS>Obrigado...\! Eu agradeço.
+
+message_3:
+      text: Você recebeu uma \c[4]LANCHEIRA\c[0].
+
+#Talk to Michael
+
+message_4:
+      text: \n<CARA DO VIOLÃO>Hoje é o dia...\! Eu estou finalmente saindo da cidade para virar um músico...\! Todas essas palavras grandes que eu disse sobre conseguir virar uma estrela...
+
+message_5:
+      text: \n<CARA DO VIOLÃO>Eu irei seguir em frente com o que disse e vou tentar meu melhor na cidade grande!\! Me deseje sorte!
+
+message_6:
+      text: Você deu a \c[4]LANCHEIRA\c[0] para o CARA DO VIOLÃO.
+
+message_7:
+      text: \n<CARA DO VIOLÃO>Huh? O-O que é isso?\! Isso...\! Isso é o macarrão com queijo do papai!\! <br>Ele não fez isso pra mim desde que eu era criança...
+
+message_8:
+      text: \n<CARA DO VIOLÃO>Sniff...\! Sniff...\! Obrigado, Pai...\! Eu vou voltar um dia e te deixar orgulhoso!\! Eu prometo!
+
+message_9:
+      text: \n<CARA DO VIOLÃO>Ah!\! Desculpe, ficou meio dramático...\! Na verdade...\! Eu tinha escrito uma carta para o meu pai, mas eu sou muito medroso pra entregar sozinho.
+
+message_10:
+      text: \n<CARA DO VIOLÃO>Você pode por favor entregar pra mim?
+
+#Yes/No
+
+#if yes
+
+message_11:
+      text: \n<CARA DO VIOLÃO>Obrigado...\! Eu agradeço.
+
+message_12:
+      text: Você recebeu uma \c[4]CARTA AO PAI\c[0].
+
+message_13:
+      text: \n<CARA DO VIOLÃO>Tem um \c[4]CD\c[0] com uma das minhas músicas aí...\! <br>Na verdade, você pode ficar com uma cópia também!
+
+message_14:
+      text: Você recebeu um \c[4]CD SECRETO\c[0]!
+
+message_15:
+      text: \n<CARA DO VIOLÃO>Obrigado de novo.\! Da próxima vez que você me ver, vai ser no telão!
+
+#if no
+
+message_16:
+      text: \n<CARA DO VIOLÃO>Oh...\! Mas é tão difícil dizer adeus...
+
+#Talk to Joy's DAD
+
+message_42:
+      text: \n<SOBRANCELHAS GROSSAS>Vejo que entregou a \c[4]LANCHEIRA\c[0].\! Bem? Ele gostou?
+
+message_41:
+      text: Você deu a \c[4]CARTA AO PAI\c[0] para o SOBRANCELHAS GROSSAS.
+
+message_17:
+      text: \n<SOBRANCELHAS GROSSAS>Essa...\! Essa escrita é do meu filho...
+
+message_18:
+      text: \n<SOBRANCELHAS GROSSAS>Oh...\! Eu fui tão duro com ele esses últimos anos...\! Eu...
+
+message_19:
+      text: \n<SOBRANCELHAS GROSSAS>Ahem...\! Obrigado por enviar essa carta pra mim.\! Eu...\! Eu espero ver ele de novo algum dia...\! Talvez até na TV! Haha!
+
+
+message_30:
+      text: \n<SOBRANCELHAS GROSSAS>Me pergunto como meu filho está na \c[11]PRAÇA DA CIDADE\c[0]...\! ele sempre está tocando aquele violão velho dele...
+
+message_31:
+      text: \n<CARA DO VIOLÃO>Graças a todas essas doações, parece que eu finalmente posso sair para a cidade grande amanhã!
+
+message_32:
+      text: \n<CARA DO VIOLÃO>Graças a todas essas doações, parece que eu finalmente posso sair para a cidade grande depois de amanhã!

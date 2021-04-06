@@ -1,0 +1,19 @@
+# =========================================================================================
+# Sidequest: Brush Teeth 1, 2, 3
+# =========================================================================================
+
+message_1:
+      text: Você quer escovar os dentes?
+#[Yes / No]
+# [Yes]
+message_2:
+      text: Você escovou os dentes.\!<br>Seu bafo agora tem cheiro de menta.
+# [No]
+message_3:
+      text: Você não escovou os dentes.
+
+message_4:
+      text: Você já escovou os dentes hoje.
+
+message_5:
+      text: Você não escovou os dentes hoje.

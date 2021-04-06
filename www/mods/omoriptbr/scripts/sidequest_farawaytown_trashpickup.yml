@@ -1,0 +1,42 @@
+
+# =========================================================================================
+# Sidequest: Trash Pick-Up
+# =========================================================================================
+
+#Talk to Old Lady
+message_0:
+      text: \n<IDOSA>Olá, jovenzinhos!\! Eu não sei se vocês viram onde estão pisando, mas tem bastante \c[4]LIXO\c[0] por essa cidade.
+
+message_1:
+      text: \n<IDOSA>Se vocês acharem algum, pode trazer até mim para que eu possa descartar devidamente?
+
+message_2:
+      text: \n<IDOSA>Vamos, jovemzinhos!\!<br>Vamos ajudar o mundo, um passo de cada vez!
+
+#Give trash
+message_5:
+      text: \n<IDOSA>Olá, jovenzinhos!\! Eu vejo que vocês tem um pouco de \c[4]LIXO\c[0] com vocês!\!<br>Obrigada, eu vou descartar esse lixo devidamente!
+
+#Talk to Old Lady after picking up some Trash:
+message_6:
+      text: \n<IDOSA>Essa cidade parece um pouco mais limpa recentemente...\!<br>Eu consigo dormir melhor sabendo disso!
+
+#Talk to Old Lady after picking up all Trash:
+
+message_7:
+      text: \n<IDOSA>\SINV[1]Mmmm...\! Ahh...\! Consegue sentir o ar fresco?
+
+message_8:
+      text: \n<IDOSA>Essa cidade esteve ficando muito mais limpa desde que vocês começaram a me ajudar a recolher o \c[4]LIXO\c[0] por aqui!\!<br>Eu realmente não consigo lhes agradecer o suficiente...
+
+message_9:
+      text: \n<IDOSA>Oh! Isso me lembra de uma coisa...\! enquanto eu estava pegando o \c[4]LIXO\c[0] ontem, eu acabei encontrando isto!\!<br>Por favor levem isso como símbolo da minha gratidão!
+
+message_10:
+      text: Você recebeu um \c[4]CD ETÉREO\c[0]!
+
+message_11:
+      text: \n<IDOSA>\SINV[1]Mmmm...\! Ahh...\! Sintam esse ar fresco e limpinho!
+
+message_12:
+      text: Vocês tem \c[4]LIXO\c[0]?

@@ -1,0 +1,151 @@
+# =========================================================================================
+# Cooking Help
+# =========================================================================================
+
+message_0:
+      text: \n<MOÇA DE TRANÇAS>Oh, olá!\! Eu me lembro de você! Você é o rapaz que escolheu o papel de parede da nossa casa.\! Eu vejo que trouxe seus amigos!
+
+message_1:
+      text: \n<MOÇA DE TRANÇAS>Se você está aqui pela festa, me desculpe. Ainda é um pouco cedo...
+
+message_2:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelOh droga... Foi mal!\! Nós voltamos depois!
+
+message_3:
+      faceset: MainCharacters_Faraway
+      faceindex: 31
+      text: \herHm?\! Sniff...\! Huh?\! Vocês estão sentindo esse cheiro?\!<br>Parece que alguma coisa está queimando...
+
+message_4:
+      text: \n<MOÇA DE TRANÇAS>\com[2]\{\quake[1]EEEEEEEEEK!!\quake[0] DESCULPA, UM SEGUNDO!
+
+#KAREN slams the door, then reopens it
+
+message_5:
+      text: \n<MOÇA DE TRANÇAS>...
+
+message_6:
+      text: \n<MOÇA DE TRANÇAS>Na verdade...\! Hm...\! Vocês não saberiam cozinhar, saberiam?\! Eu talvez precise de um pouco de ajuda com o jantar...
+
+message_7:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \kelVocê precisa de ajuda pra cozinhar?\! Bem, hoje é o seu dia de sorte!<br>\!Meu irmão HERO é um cozinheiro incrível!\! Ele definitivamente vai conseguir cozinhar alguma coisa! Heh heh...
+
+message_8:
+      faceset: MainCharacters_Faraway
+      faceindex: 37
+      text: \herH-Hã?\! E-Eu vou?
+
+message_9:
+      text: \n<MOÇA DE TRANÇAS>Oh, obrigada!\! Por favor... entrem!
+
+#Talk to KAREN inside
+
+message_10:
+      text: \n<MOÇA DE TRANÇAS>Desculpe incomodar vocês assim...\! É a minha primeira vez cozinhando pra tanta gente, então eu estou um pouco nervosa...
+
+message_11:
+      faceset: MainCharacters_Faraway
+      faceindex: 13
+      text: \kelNão se preocupe.\! A gente vai te ajudar! Não é, galera?\! \sinv[1]Não é?\sinv[0]
+
+message_12:
+      faceset: MainCharacters_Faraway
+      faceindex: 38
+      text: \herOh... Certo, então... \!Vamos lá, time.\!<br>Eu vou botar todos vocês pra trabalhar!
+
+message_13:
+      faceset: MainCharacters_Faraway
+      faceindex: 5
+      text: \aubHuh? E-Espera um segundo... Até eu!?
+
+message_14:
+    faceset: MainCharacters_Faraway
+    faceindex: 38
+    text: \herSim, claro!\! Nós costumavamos cozinhar o tempo todo quando éramos crianças, não?
+
+message_15:
+    text: \n<MOÇA DE TRANÇAS>Muito obrigada! Sintam-se livres para usar qualquer ingrediente!\! Porém, eu não tenho muitos...
+
+message_16:
+    faceset: MainCharacters_Faraway
+    faceindex: 30
+    text: \herNão se preocupe... Eu sei que conseguimos fazer algo delicioso!\!<br>Vamos ao trabalho!
+
+message_17:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \kel\Com[2]\{\SINV[1]AYE AYE, CAPITÃO!!\SINV[0]
+
+# ===============================================
+#Cutscene: Hero helps KAREN Cook
+# ===============================================
+
+#SEAN walks inside.
+
+message_18:
+      text: \n<CARA XADREZ>Uau... Qual é esse cheiro delicioso aqui?
+
+message_19:
+      text: \n<MOÇA DE TRANÇAS>Oh, olá SEAN!\! Nossos novos amigos estavam só ajudando a preparar o jantar para a festa de hoje!
+
+message_20:
+      text: \n<CARA XADREZ>Bom...\! Parece que vocês estão fazendo um ótimo trabalho!\!<br>Eu terminei de preparar tudo lá fora então permitam-me ajudar, também!
+
+message_21:
+      text: \n<MOÇA DE TRANÇAS>\sinv[1]Yay!\! Agora todos nós podemos cozinhar juntos!
+
+#Cooking montage: Everyone standing near the oven
+
+message_22:
+      text: \n<MOÇA DE TRANÇAS>\sinv[1]Phew...\sinv[0] Tudo pronto!\! Com sua ajuda, essa festa será um grande sucesso!
+
+message_23:
+      text: \n<MOÇA DE TRANÇAS>Obrigado por toda a sua ajuda também.<br>\!Vocês são todos tão gentis!
+
+message_24:
+    faceset: MainCharacters_Faraway
+    faceindex: 29
+    text: \herQualquer hora!\! Obrigado por confiar a gente com a sua cozinha...<br>\!Nós realmente gostamos de cozinhar com vocês!
+
+message_25:
+    faceset: MainCharacters_Faraway
+    faceindex: 14
+    text: \kelÉ, isso foi muito divertido!\! Mal posso esperar para comer tudo na festa hoje a noite!
+
+message_26:
+      text: \n<CARA XADREZ>Estaremos esperando por vocês!
+
+message_27:
+      text: \n<MOÇA DE TRANÇAS>Se cuidem!
+
+
+message_100:
+      text: \n<MOÇA DE TRANÇAS>Oi, todo mundo! Podem entrar!\! A festa já começou!
+
+message_101:
+      text: \c[3]COOKIES\c[0] deliciosos!
+
+message_102:
+      text: Uma velha \c[3]TORTA\c[0]!
+
+message_103:
+      text: Uma \c[3]TORTA\c[0] fresquinha!
+
+message_104:
+      text: Uma grande galinha assada.
+
+message_105:
+      text: Salada...
+
+message_106:
+      text: \n<CARA XADREZ>Yo! Vocês estão ansiosos para a festa hoje a noite?\! Te vemos lá!
+
+message_107:
+      text: Um prato de comida inacabado.
+
+message_108:
+      text: Um delicioso \c[3]PEDAÇO DE BOLO\c[0]!

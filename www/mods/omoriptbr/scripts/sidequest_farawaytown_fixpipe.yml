@@ -1,0 +1,244 @@
+
+# =========================================================================================
+# Sidequest: Fix Pipe
+# =========================================================================================
+
+#Fix Pipe 1: Find in hardware store
+
+message_1:
+      text: \n<CARA RUDE>Ei, estranho! Como vai o seu dia?\!<br>Meu dia está sendo ótimo!
+
+message_2:
+      text: \n<CARA RUDE>Quer saber por quê?\! Por que hoje é o dia que eu finalmente vou arrumar o vazamento na minha casa!
+
+message_3:
+      text: \n<CARA RUDE>Meu problema começou algumas semanas atrás...\! Eu achei um vazamento bem teimoso no canto da sala de estar...\!<br>Como chegou lá, eu não sei...
+
+message_4:
+      text: \n<CARA RUDE>Não dava pra ver muito bem no começo, mas o vazamento esteve ficando pior e pior a cada dia.
+
+message_5:
+      text: \n<CARA RUDE>Pra falar a verdade, eu já estou acostumado com o som da água gotejando e o sentimento de um tapete molhado!
+
+message_6:
+      text: \n<CARA RUDE>Mas quer saber?\! Hoje é o dia em que tudo muda...\! Sim!\! Estou finalmente aqui na \c[11]CONSERTA-JÁ!\c[0]\! Minhas ferramentas estão prontas...\!<br>e eu...\! eu vou reparar!
+
+message_7:
+      text: \n<CARA RUDE>Ufa...\! Desculpe ficar reclamando sobre isso assim.\!<br>Talvez esse vazamento esteve me deixando louco sem eu saber...
+
+message_8:
+      text: \n<CARA RUDE>Minha casa está logo ao lado da \c[11]IGREJA\c[0] ao sudoeste daqui. \!<br>Se você quiser passar lá e assistir essa ocasião importante, por favor seja meu convidado!
+
+# EXAMINE VANCES HOUSE DOOR AFTER TALKING TO HIM IN HARDWARE STORE
+
+message_9:
+      text: \n<CARA RUDE>Ei, crianças!\! Vocês chegaram aqui bem na hora para me ver arrumar esse cano de uma vez por todas!\! Entrem, entrem!
+
+#Go in Vance's Dad's HOUSE
+
+# Cutscene: Is it fixed? 1
+
+message_10:
+      text: \n<CARA RUDE>Só mais alguns ajustes de último minuto, e eu finalmente posso botar esse bebêzinho pra descansar...
+
+#Fixing Noise
+
+message_11:
+      text: \n<CARA RUDE>\SINV[1]Ahhh...\! finalmente o docê som do silêncio...\SINV[0]
+
+#Water Spout
+
+message_12:
+      text: \n<CARA RUDE>\sinv[1]Resmungo, resmungo...
+
+message_13:
+      text: \n<CARA RUDE>Droga...\! Acho que é melhor tentar de novo amanhã...
+
+#============================================
+#Fix Pipe 2
+#============================================
+
+#Talk to Vances dad at hardware store
+
+message_14:
+      text: \n<CARA RUDE>\sinv[1]Resmungo... Resmungo...
+
+message_15:
+      text: \n<CARA RUDE>Ei, crianças... Como foi o dia de vocês?\!<br>Meu dia está indo bem...
+
+message_16:
+      text: \n<CARA RUDE>Esse vazamento teimoso está fazendo da minha vida um inferno.\! Eu estava ajustando ele um pouco, mas só piorou!\! Talvez seja hora de chamar um profissional...
+
+message_17:
+      text: \n<CARA RUDE>Urgh...\! Não...\! O que eu estou dizendo!?\! Meu orgulho não me deixa fazer isso!\! Eu tenho que consertar eu mesmo!
+
+message_18:
+      text: \n<CARA RUDE>\Com[2]Eu voltarei, seu vazamento estúpido!
+
+message_19:
+      text: \n<CARA RUDE>\Com[2]\quake[1]GYAAA\{AAAA\{AAAAA\{AAAAAAA!!!
+
+#Vance's dad runs out the DOOR
+
+#Examine Vance's House Door after talking to him in Hardware STORE
+
+message_20:
+      text: \n<CARA RUDE>Ei, são vocês de novo!\!<br>Vocês estão aqui como suporte moral ou o quê?
+
+message_21:
+      text: \n<CARA RUDE>Heh, heh...\! Eu agradeço.
+
+message_22:
+      text: \n<CARA RUDE>Entrem!\! Estou quase acabando de arrumar essa droga de vazamento!
+
+#Cutscene: Is it fixed? 2
+
+#Fixing noises
+
+message_23:
+      text: \n<CARA RUDE>\Com[2]\SINV[2]GYAHA\{HAHA\{HAHA\{HAHA!!!\SINV[0]
+
+message_24:
+      text: \n<CARA RUDE>E boa viagem!
+
+message_26:
+      text: \n<CARA RUDE>...
+#Water Spout
+
+#Vance's dad begins shaking
+
+message_25:
+      text: \n<CARA RUDE>\quake[1]AAAAAA\{AAARR\{RRRGHH\{HHHHH\{HHH!!!\quake[0]
+
+#Vance's Dad runs through the wall
+
+#============================================
+#Fix Pipe 3
+#============================================
+
+#Talk to Vance's dad (Hardware)
+
+message_30:
+      text: \n<CARA RUDE>\sinv[1]Resmungo... Resmungo...
+
+message_31:
+      text: \n<CARA RUDE>Ai ai...
+
+message_32:
+      text: \n<CARA RUDE>Ei, são vocês de novo...
+
+message_33:
+      text: \n<CARA RUDE>Como esteve o dia de vocês?\! O meu esteve horrivel...
+
+message_34:
+      text: \n<CARA RUDE>Adivinha só?\! O cano quebrou de novo...
+
+message_35:
+      text: \n<CARA RUDE>E de alguma forma...\! Eu causei um dano irreversível a minha casa...
+
+message_36:
+      text: \n<CARA RUDE>Como eu vou saber que isso iria acontecer?
+
+message_37:
+      text: \n<CARA RUDE>Ai ai...\! Eu sou um fracasso...
+
+message_38:
+      text: \n<CARA RUDE>\}Eu só...\! Sniff...\! Eu queria deixar eles orgulhosos...
+
+message_39:
+      text: \n<CARA RUDE>...
+
+message_40:
+      text: \n<CARA RUDE>\Com[2]Urf!\! Eu tenho que me recompor!\!<br>Isso é só um caninho de nada! Eu consigo superar isso!
+
+message_41:
+      text: \n<CARA RUDE>Eu tenho minhas novas ferramentas prontas e estou pronto para tentar mais uma vez!
+
+message_42:
+      text: \n<CARA RUDE>Só tenho que manter a cabeça levantada!\!<br>\Com[2]Sim! Eu consigo!
+
+message_43:
+      text: \n<CARA RUDE>Eu vou te pegar, vazamento...\!<br>E eu vou me livrar de você de uma vez por todas!
+
+#Examine Vance's House Door after talking to him in Hardware Store:
+
+message_44:
+      text: \n<CARA RUDE>Huff...\! Huff...\! Huff...\! Huff...
+
+message_45:
+      text: \n<CARA RUDE>E-Ei...\! São vocês de novo...
+
+message_46:
+      text: \n<CARA RUDE>Vocês vieram aqui por que estavam preocupados comigo?
+
+message_47:
+      text: \n<CARA RUDE>Sniff...\! Isso é tão gentil de vocês...
+
+message_48:
+      text: \n<CARA RUDE>Entrem!\! Eu acho que realmente consigo dessa vez!\!<br>Eu sinto na minha alma!
+
+#Cutscene: It's Finally Fixed
+
+#Fixing Noises
+
+message_50:
+      text: \n<CARA RUDE>Tem que estar consertado dessa vez!\! Só tem que estar!
+
+message_51:
+      faceset: MainCharacters_Faraway
+      faceindex: 0
+      text: \n<AUBREY>...\! Aqui...\! Eu consigo...
+#Aubrey goes to the Pipe
+
+#Fixed Noise
+
+message_52:
+      text: \n<CARA RUDE>Oh?
+
+message_53:
+      text: \n<CARA RUDE>Eu não acredito...\! Está consertado!\! Está realmente consertado!\!<br>\Com[2]Estou tão feliz, eu poderia chorar!
+
+message_54:
+      text: \n<CARA RUDE>Você é incrível!\! Mais que incrível!\! Fenomenal!\!<br>Como eu posso retribuir!?
+
+message_55:
+      faceset: MainCharacters_Faraway
+      faceindex: 27
+      text: \n<AUBREY>É...\! uh...\! Não foi nada...\! Não se preocupe.
+
+message_56:
+      text: \n<CARA RUDE>Sniff... \!Pessoal...\!<br>Obrigado por estarem aqui por mim nesse tempo difícil...
+
+message_64:
+      text: \n<CARA RUDE>Em retorno, por favor pegue esse \c[4]CD\c[0].\! Eu encontrei em um buraco na parede!
+
+message_57:
+      text: \n<CARA RUDE>Sabe, eu tenho um filho e filha por volta da sua idade.\!<br>Seus nomes são VANCE e KIM!
+
+message_58:
+      text: \n<CARA RUDE>A mãe deles e eu nos separamos quando KIM ainda era bebê...
+
+message_59:
+      text: \n<CARA RUDE>Eu não vejo eles tão frequentemente quanto eu queria, então eu mimo eles com \c[3]DOCES\c[0] quando eu posso visitar eles! Heh heh...
+
+message_60:
+      faceset: MainCharacters_Faraway
+      faceindex: 0
+      text: \n<AUBREY>Oh, Você é o pai da KIM e do VANCE?
+
+message_61:
+      text: \n<CARA RUDE>Eu sou, e tenho orgulho disso!\! Mesmo se eles estão sempre se metendo em problemas... pelo menos sempre estão cuidando um do outro!
+
+message_62:
+      faceset: MainCharacters_Faraway
+      faceindex: 1
+      text: \n<AUBREY>Haha...\! É...\! isso é bom...
+
+message_65:
+      text: \n<CARA RUDE>De qualquer forma, acho que já está na hora de eu curtir um tempo sem goteiras e com um pouco de relaxamento!
+
+message_66:
+      text: \n<CARA RUDE>Obrigado de novo, pessoal.\! Vocês são sempre bem vindos aqui!
+
+message_67:
+      text: \n<CARA RUDE>Eu e as crianças vamos para a festa de inauguração da casa dos vizinhos!\! Amamos comida de graça!

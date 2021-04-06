@@ -1,0 +1,91 @@
+
+# =========================================================================================
+# RECYCLE
+# ========================================================================================
+
+#COPY FROM DEMO
+
+message_1:
+    text: UMA MÁQUINA DE RECICLAGEM!.\!<br>Você gostaria de inserir algo?
+
+message_2:
+    text: A MÁQUINA DE RECICLAGEM dispensou [X] CONCHAS.\!<br>Obrigado por fazer sua parte mantendo o ambiente limpo.
+
+message_3:
+    text: Você não possui nada que possa ser reciclado.
+
+message_4:
+    text: Você colocou [X] na MÁQUINA DE RECICLAGEM.
+
+message_20:
+    text: LATA
+
+message_21:
+    text: GARRAFA DE VIDRO
+
+message_22:
+    text: PAPELÃO
+
+message_23:
+    text: BATERIAS VAZIAS
+
+message_24:
+    text: PEÇAS DE PC
+
+message_25:
+    text: UMA MÁQUINA DE RECICLAGEM.\!<br>O que você gostaria de reciclar?
+
+#can
+
+message_5:
+    text: Você colocou uma \c[5]LATA\c[0] na MÁQUINA DE RECICLAGEM.
+
+message_6:
+    text: A MÁQUINA DE RECICLAGEM dispensou 5 CONCHAS.\!<br>Obrigado por fazer sua parte mantendo o ambiente limpo.
+
+message_15:
+    text: Você não tem uma \c[5]LATA\c[0] para reciclar.
+
+#glass bottle
+
+message_7:
+    text: Você colocou uma \c[5]GARRAFA DE VIDRO\c[0] na MÁQUINA DE RECICLAGEM.
+
+message_8:
+    text: A MÁQUINA DE RECICLAGEM dispensou 5 CONCHAS.\!<br>Obrigado por fazer sua parte mantendo o ambiente limpo.
+
+message_16:
+    text: Você não tem uma \c[5]GARRAFA DE VIDRO\c[0] para reciclar.
+
+#cardboard
+
+message_9:
+    text: Você colocou \c[5]PAPELÃO\c[0] na MÁQUINA DE RECICLAGEM.
+
+message_10:
+    text: A MÁQUINA DE RECICLAGEM dispensou 15 CONCHAS.\!<br>Obrigado por fazer sua parte mantendo o ambiente limpo.
+
+message_17:
+    text: Você não tem um \c[5]PAPELÃO\c[0] para reciclar.
+
+#dead batteries
+
+message_11:
+    text: Você colocou \c[5]BATERIAS VAZIAS\c[0] na MÁQUINA DE RECICLAGEM.
+
+message_12:
+    text:  A MÁQUINA DE RECICLAGEM dispensou 20 CONCHAS.\!<br>Obrigado por fazer sua parte mantendo o ambiente limpo.
+
+message_18:
+    text: Você não tem \c[5]BATERIAS VAZIAS\c[0] para reciclar.
+
+#computer parts
+
+message_13:
+    text: Você colocou \c[5]PEÇAS DE PC\c[0] na MÁQUINA DE RECICLAGEM.
+
+message_14:
+    text: A MÁQUINA DE RECICLAGEM dispensou 25 CONCHAS.\!<br>Obrigado por fazer sua parte mantendo o ambiente limpo.
+
+message_19:
+    text: Você não tem \c[5]PEÇAS DE PC\c[0] para reciclar.

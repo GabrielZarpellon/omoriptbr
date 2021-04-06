@@ -1,0 +1,67 @@
+
+# =========================================================================================
+# Sidequest: Medication
+# =========================================================================================
+
+message_1:
+      text: \n<VOVÓ DO COQUE AMARELO>Coff...\! coff...\! Com licença...\! Desculpe me impor, mas vocês parecem pessoas confiáveis.\! Vocês poderiam me ajudar?
+
+message_2:
+      text: \n<VOVÓ DO COQUE AMARELO>Eu preciso pegar o remédio dessa semana na \c[11]FARMÁCIA\c[0], mas eu estou me sentindo meio fraca no momento.\! Eu geralmente envio minha filha CHARLENE, mas ela não está aqui agora.
+
+message_3:
+      text: \n<VOVÓ DO COQUE AMARELO>Vocês poderiam ter a gentileza de buscar para mim?
+
+#yes/no
+
+#if yes
+
+message_6:
+      text: Você recebeu uma \c[4]PRESCRIÇÃO\c[0] e \c[4]CARTÃO DE IDENTIDADE\c[0].
+
+message_8:
+      text: \n<VOVÓ DO COQUE AMARELO>Obrigada, crianças.\! Só falem com o homem na \c[11]FARMÁCIA\c[0].\! Ele vai entender.
+
+#Talk to FARMACÊUTICO
+
+message_9:
+      text: \n<FARMACÊUTICO>Hmm...\! Olá!\! Como eu posso ajudar?
+
+message_10:
+      text: Você deu a \c[4]PRESCRIÇÃO\c[0] e \c[4]CARTÃO DE IDENTIDADE\c[0] ao farmacêutico.
+
+message_11:
+      text: \n<FARMACÊUTICO>Ah, vocês estão aqui para pegar alguns remédios!
+
+message_12:
+      text: \n<FARMACÊUTICO>...\! Ah, eu sei para quem isso é! eu já vou trazer.
+
+message_13:
+      text: Você recebeu \c[4]REMÉDIO DA VOVÓ\c[0].
+
+message_14:
+      text: Você recebeu \c[4]CARTÃO DE IDENTIDADE\c[0].
+
+message_15:
+      text: \n<FARMACÊUTICO>Vocês estão pegando o remédio no lugar da filha dela hoje?
+
+message_16:
+      text: \n<FARMACÊUTICO>Não é para eu dar medicação assim...\! mas eu geralmente faço uma exceção pra ela já que ela não pode vir aqui sozinha.
+
+message_17:
+      text: \n<FARMACÊUTICO>Obrigado por ajudar ela.\! Tenham um bom dia!
+
+message_18:
+      text: \n<FARMACÊUTICO>Se precisarem de \c[5]CURATIVOS\c[0] ou \c[5]KITS DE PRIMEIROS SOCORROS\c[0], é só falar com a gente.
+
+message_20:
+      text: \n<VOVÓ DO COQUE AMARELO>Oh, você voltou!
+
+message_21:
+      text: Você deu o \c[4]REMÉDIO DA VOVÓ\c[0] e \c[4]CARTÃO DE IDENTIDADE\c[0] de volta a VOVÓ DO COQUE AMARELO.
+
+message_22:
+      text: \n<VOVÓ DO COQUE AMARELO>Coff...\! coff...\! Com licença...\!<br>Muito obrigado.\! Vocês foram de grande ajuda!\!<br>É tão bom ver os jovens ajudando nós velhinhos.
+
+message_23:
+      text: \n<VOVÓ DO COQUE AMARELO>Vocês são todos bem vindos na minha casa a qualquer hora.

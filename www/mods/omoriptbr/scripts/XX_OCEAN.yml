@@ -1,0 +1,1605 @@
+#=========================================================================================
+# Messages to be replaced
+#=========================================================================================
+
+
+#=========================Location: x==============================
+#== x scene is happening
+
+message_1:
+      faceset: MainCharacters_Faraway
+      faceindex: 0
+      text: \aubEspera um pouco, galera. Eu estou com sede.<br>\!Hmm...\! Qual que eu devo pegar?
+
+#=========================Location: Kims mom in front of house==============================
+#== Missing shears sidequest
+
+message_20:
+      text: Você entregou a \c[4]\c[4]TESOURA DE JARDIM\c[0]\c[0] para a MULHER DE ÓCULOS VERMELHO.
+
+#=========================Location: Cris house==============================
+#== Wheres the remote sidequest
+
+message_30:
+      text: Você vê um \c[4]CONTROLE REMOTO\c[0] em baixo do sofá.\! Você deixa ali por enquanto.
+
+message_31:
+      text: Você vê um \c[4]CONTROLE REMOTO\c[0] entre as toalhas no armário do banheiro.\! Você deixa ali por enquanto.
+
+message_32:
+      text: Você vê um \c[4]CONTROLE REMOTO\c[0] na torta.\! ...\! Você deixa ali por enquanto.
+
+message_33:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelEi, é um \c[4]CONTROLE REMOTO\c[0] que você tem aí, \n[8]?\!<br>Não é maneiro roubar as coisas, sabe?
+
+#=========================Location: Fixit==============================
+#== Pick up furniture sidequest
+
+message_40:
+      text: O HOMEM ESTRANHO te deu $50.00 para comprar uma \c[4]LUMINÁRIA DE PISO\c[0].
+
+message_41:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: Espera aí, \n[8]! Não podemos simplesmente sair com toda essa grana!\! Nós precisamos comprar a \c[4]LUMINÁRIA DE PISO\c[0] primeiro!
+
+message_42:
+      text: \n<CARA DO REPARA-JÁ>Então os moleques querem comprar uma \c[4]LUMINÁRIA DE PISO\c[0], huh?\! Bom, a que vocês estão olhando custa mais ou menos...\! uh...\! $50.00.\! Cês vão querer ou não?
+
+message_43:
+      text: \n<CARA DO REPARA-JÁ>Legal, aqui está sua \c[4]LUMINÁRIA DE PISO\c[0] novinha em folha.\!<br>Sem reembolsos ou trocas, beleza?\! É a política da empresa.
+
+#=========================Location: Orange Guy in front of OTHERMART=============================
+#== Fruitwarbrayden
+
+#If you are wearing a red headband
+message_51:
+      text: \n<CARA DA LARANJA>MEU DEUS!\! Isso é uma...\! \c[13]BANDANA VERMELHA\c[0]...\! que você está vestindo?\! Eu me recuso a te vender qualquer \c[3]SUCO DE LARANJA\c[0] até que você tire isso fora!
+
+#After buying 5 Orange juices
+message_52:
+      text: \n<CARA DA LARANJA>Ah, verdade! Antes que você vá, aqui está um pequeno presente por ser um freguês tão leal!\! É uma \c[13]BANDANA LARANJA\c[0], a cor das laranjas!\! Não há nada melhor!
+
+#If HERO is wearing a red headband
+message_53:
+      text: \n<CARA DA LARANJA>Vejo que um dos seus amigos está vestindo um \c[13]BANDANA VERMELHA\c[0]...\! Embora eu não aprove isso normalmente, combina muito bem com ele.\! Eu vou perdoá-lo, mas apenas essa vez!
+
+message_54:
+      faceset: MainCharacters_Faraway
+      faceindex: 37
+      text: \herUau! Obrigado!
+
+#Receive orange headband
+message_55:
+      text: Você recebeu uma \c[13]BANDANA LARANJA\c[0]!
+
+#=========================Location: Apple Guy in the park=============================
+#== Fruitwaradrian
+
+#While wearing an Orange Headband
+message_60:
+      text: \n<CARA DA MAÇÃ>MEU DEUS!\! Isso é uma...\! \c[13]BANDANA LARANJA\c[0]...\! que você está vestindo? Eu me recuso a te vender qualquer \c[3]SUCO DE MAÇÃ\c[0] até que você tire isso fora!
+
+#After buying 5 Apple juices
+message_61:
+      text: \n<CARA DA MAÇÃ>Ah, verdade! Antes que você vá, aqui está um pequeno presente por ser um freguês tão leal!\! É uma \c[13]BANDANA VERMELHA\c[0], a cor das maçãs!\! Vista ela com orgulho!
+
+#If HERO is wearing an orange headband
+message_62:
+      text: \n<CARA DA MAÇÃ>Vejo que um dos seus amigos está vestindo uma \c[13]BANDANA LARANJA\c[0]...\! Embora eu não aprove isso normalmente, combina muito bem com ele.\! Eu vou perdoá-lo, mas apenas essa vez!
+
+message_63:
+      faceset: MainCharacters_Faraway
+      faceindex: 37
+      text: \herUau! Obrigado!
+
+#Receive Red Headband
+message_64:
+      text: Você recebeu uma \c[13]BANDANA VERMELHA\c[0]!
+
+#=========================Location:Vances house =============================
+#== Fix pipe
+
+#Day 1 reward
+message_70:
+      text: \n<CARA RUDE>Aqui está $1.00, gurizada.\! Vão lá comprar um \c[3]DOCE\c[0] ou alguma coisa.
+
+#Day 2 reward
+message_71:
+      text: Você olha no buraco em formato de homem...\! e encontra uma \c[4]CONCHA DO MAR\c[0]!
+
+#If pipe is completely fixed
+message_72:
+      text: \n<CARA RUDE>Obrigado por me apoiar nesses tempos difíceis.\! Se ao menos tivesse uma forma de recompensar vocês...\!<br><br>Oh, já sei! Aqui está um \c[4]CD\c[0] que eu encontrei outro dia!<br>\! Isto deve servir!
+
+message_73:
+      text: \n<CARA RUDE>\sinv[1]Resmungo, resmungo...
+
+message_74:
+      text: Você olha no buraco em formato de homem...
+
+#=========================Location: Jesses house=============================
+#== Birthday gift 2
+
+#Talk to Jesses dad before you talk to Jesse
+message_80:
+      text: \n<TESTA ENRUGADA>É o aniversário do meu filho hoje!\! ...\! Se ao menos eu pudesse tirar ele do quarto pra celebrar!
+
+message_81:
+      text: \n<TESTA ENRUGADA>Poxa...\! Eu até comprei um \c[3]BOLO\c[0]...
+
+#Talk to Jesses dad after you talk to Jesse
+message_82:
+      text: Você pegou um \c[3]BOLO\c[0]!
+
+#=========================Location: Candy store=============================
+#== Anniversary chocolate
+
+
+message_90:
+      text: \n<CARA ATRAPALHADO>Aqui! Pegue esse \c[3]DOCE\c[0] pela sua ajuda!\! Tenho certeza que minha esposa não se importará em dividir!
+
+message_91:
+      text: \n<CARA ATRAPALHADO>Aqui! Pegue essa \c[3]MAÇÃ DO AMOR\c[0] pela sua ajuda!\! Tenho certeza que minha esposa não se importará em dividir!
+
+message_92:
+      text: \n<CARA ATRAPALHADO>Aqui! Pegue esse \c[3]CHOCOLATE\c[0] pela sua ajuda!\! Tenho certeza que minha esposa não se importará em dividir!
+
+message_93:
+      text: Qual seria o melhor presente de aniversário?
+
+message_94:
+      text: \c[3]CHOCOLATE\c[0]
+
+message_95:
+      text: \c[3]DOCE\c[0]
+
+message_96:
+      text: \c[3]MAÇÃ DO AMOR\c[0]
+
+
+#=========================Location: General=============================
+#== Kels blocking you when you need to go elsewhere
+
+message_100:
+      text: Não há nada aqui.
+
+message_101:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelEspera aí, esse não é o caminho pro \c[11]HOBBEEZ\c[0]!\!<br>Você não se lembra, \n[8]?\!<br>É na \c[11]PRAÇA DA CIDADE\c[0] ao norte daqui!
+
+message_102:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelQualé, \n[8], vamos no \c[11]HOBBEEZ\c[0] primeiro!
+
+message_103:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelEi! Não é esse o caminho pra \c[11]CASA DO BASIL\c[0]!<br>Se lembra do que eu te ensinei?\! É a primeira casa na rua diagonal à nossa na faixa de pedestres!\!<br>Fica mais fácil de lembrar, né?
+
+message_104:
+      text: Você não deveria incomodar os outros de noite.\! Está na hora de ir pra casa.
+
+message_105:
+      text: Você não deveria incomodar os outros de noite.
+
+message_106:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelEu vou te levar pra sua casa primeiro!
+
+message_107:
+      text: Você deseja acariciar o cachorro?
+
+message_108:
+      text: A caixa de doação do CARA DO VIOLÃO está cheia de dinheiro!
+
+#=========================Location: Church=============================
+#== Day 1 Church
+
+message_110:
+      text: Você quer entrar na \c[11]IGREJA\c[0]?
+
+message_111:
+      text: Você não deveria incomodar os outros durante um sermão.
+
+message_112:
+      text: Você não deveria incomodar os outros durante um sermão.
+
+
+#=========================Location: Basils house=============================
+#== Dinner with Basil
+
+message_130:
+      faceset: MainCharacters_Faraway
+      faceindex: 24
+      text: Chomp... chomp... chomp... chomp...\!<br>Por que demorou tanto!?\kel
+
+message_131:
+      faceset:  MainCharacters_Faraway
+      faceindex: 17
+      text: POLLY e eu trabalhamos tanto nisso!<br>\!Se apresse e sente-se, \n[8]! \kel
+
+message_132:
+      text: O jantar que a POLLY e o KEL fizeram.\!<br>Você gostaria de comer um pouco?
+
+message_133:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \kel\sinv[1]BAAAASSSIIIIIL!\! Oh, BAAAASILLLL!
+
+message_134:
+      faceset: MainCharacters_Faraway
+      faceindex: 19
+      text: \kelAww... Coitadinho.\! Ele sempre teve um estômago fraco.\! Espero que ele melhore logo...
+
+message_135:
+      faceset: MainCharacter_Basil
+      faceindex: 33
+      text: \basVamos lá, \n[8]! Vamos jantar...
+
+#=========================POLLY==============================
+
+#LOCATION: SUNFLOWER
+
+message_140:
+      text: \n<POLLY>Ah...\! Eu pensei que ele estaria aqui...
+
+
+#=========================FIXIT/BASIL STREET=============================
+#QUEST: PICK UP FURNITURE
+
+message_150:
+      text: Você pegou a \c[4]LUMINÁRIA DA PISO\c[0]!
+
+# Trying to leave the shop without finishing your job
+message_151:
+      text: Ei! Onde você pensa que está indo?
+
+message_152:
+      text: Pensei que tinhamos um trato!\! Organize as prateleiras e eu te pago!
+
+#Rule Explanation
+message_153:
+      text: \n<CARA DO REPARA-JÁ>Dê uma boa olhada nessas prateleiras atrás de você e verá que está tudo uma grande bagunça!
+
+message_154:
+      text: \n<CARA DO REPARA-JÁ>Você pensaria que com uma placa em cima da prateleira seria óbvio onde colocar as coisas, mas as pessoas não ligam esses dias...\! Ai ai...\! Eu odeio trabalhar no varejo...
+
+message_155:
+      text: \n<CARA DO REPARA-JÁ>De qualquer forma, a placa em cima da prateleira mostra o que deveria estar à mostra.\! Seu trabalho é mover tudo para seu lugar de direito, entendeu?\! Estou contando com você, moleque.
+
+
+#=========================SHOPPING CENTER=============================
+#map flavor text
+
+message_160:
+      text: Um carro estacionado.
+
+message_161:
+      text: Oops...
+
+
+#=========================HOBBEEZ=============================
+#Hobbeez
+
+message_170:
+      text: Um poster interessante.
+
+message_171:
+      text: Você tirou o \c[4]PRESENTE DO HERO\c[0] da prateleira.
+
+message_172:
+      faceset:  MainCharacters_Faraway
+      faceindex: 17
+      text: \kel\n[8], você se esqueceu?\! Nós estamos com um presente em potencial pro HERO.\! Não podemos simplesmente cair fora daqui!
+
+message_173:
+      text: \n<LOJISTA>Ah... \c[4]SUPER ULTRA COMEDOR DE BROTOPEIRA - REVANCHE DAS TOUPEIRAS III\c[0]...\! Um clássico do futuro!
+
+message_174:
+      text: \n<LOJISTA>Ei, campeão! Só um capricho aqui, você estaria interessado em comprar meu último \c[13]PET DRITO\c[0]?
+
+message_177:
+      text: \n<LOJISTA>Geralmente eles custam $25.00...\! mas você parece o cara certo pra esse aqui...\! então eu posso te vender por $10.00!\! Que cê acha?\$
+
+message_175:
+      text: \n<LOJISTA>Excelente.\! Você e seu novo \c[13]PET DRITO\c[0] são um bom par.\!<br>Cuide bem dele!
+
+message_176:
+      text: Você vai desafiar o monstro pra uma batalha?
+
+#=========================Artist=============================
+#ARtists house
+
+message_180:
+      text: \artEi, estranho!\! Você chegou bem na hora para me ajudar numa crítica, pro meu último trabalho em progresso!
+
+#=========================Pet Rock=============================
+#Pet Rock
+
+message_190:
+      text: Você pegou uma \c[13]FEDORA\c[0]...
+
+
+#=========================Shopping center=============================
+#Michaels lunch
+
+message_200:
+      text: \n<SOBRANCELHAS GROSSAS>Meu filho largou a escola pra tocar violão na \c[11]PRAÇA DA CIDADE\c[0].\! Nós dois podemos não nos dar bem, mas eu penso nele todos os dias.
+
+message_201:
+      text: \n<CARA DO VIOLÃO>Isso! Eu estou quase chegando na minha meta de doação!\! Com esse dinheiro que eu ganhei, vou poder finalmente partir pra cidade amanhã!
+
+message_202:
+      text: \n<CARA DO VIOLÃO>Uau, eu estou quase na minha meta de doação!\! Com o dinheiro que eu ganhei, vou poder partir pra cidade logo...
+
+message_203:
+      text: \n<SOBRANCELHAS GROSSAS>Ai ai...\! Esse garoto simplesmente não desiste...
+
+#=========================Other street=============================
+#Charlies mom
+
+message_210:
+      text: \n<VOVÓ DO COQUE AMARELO>Oh...\! Entendi...\!<br>Nesse caso, espero que minha filha apareça logo...
+
+#=========================Basils house=============================
+#Basils house day 1
+
+message_220:
+      text: \n<POLLY>Hoje à noite nós vamos fazer sopa de frango com vegetais pra janta!\! O que acham?
+
+message_221:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kel!?\! Parece nutritivo e delicioso!
+
+message_222:
+      text: \n<POLLY>V-Você realmente acha?\! Estava com medo que você não gostasse...\! As pessoas sempre me dizem que meu gosto é um pouco sem graça...
+
+message_223:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \kelNão ligue para o que as outras pessoas pensam!<br>\!Toda comida é boa pra mim!\! Vou comer qualquer gororoba que tu me jogar!
+
+
+#=========================Park=============================
+#PB and J
+
+message_230:
+      text: \n<JOCK>Eae...\! Então... Como você está indo esses dias?
+
+message_231:
+      text: \n<MENINO BONITO>Eu estou bem.\! Vir para o parque sozinho me ajuda a relaxar e organizar os pensamentos...\! Mas, eu estou feliz de ter esbarrado em você...
+
+message_232:
+      text: \n<JOCK>O-Oh, sério? Isso é legal...\!<br>Eu... uh...\! estou feliz de ter esbarrado em você também...
+
+#=========================Creepy guy=============================
+#tucker refuse pet rock
+
+#no
+message_240:
+      text: \n<CARA ASSUSTADOR>A-ha! É claro que não!\! Você treme diante de mim e se acovarda!
+
+#=========================BRENT and JOY=============================
+#Brent
+
+message_241:
+      text: Você quer ensinar o GAROTO INTELIGENTE?
+
+message_242:
+      text: Você quer ensinar a GAROTA PEQUENA?
+
+message_243:
+      text: Você pegou $20.00.
+
+message_244:
+      text: COMPRAR
+
+message_245:
+      text: VENDER
+
+message_246:
+      text: NADA
+
+#=========================Pedros Shop=============================
+#Hobbeez buying pet rock
+
+message_250:
+      text: \n<LOJISTA>Yo, campeão! Estaria interessado em comprar meu último \c[13]PET DRITO\c[0]?\! Esses brinquedos foram um sucesso com as crianças uns cinco anos atrás.<br>Eles custam mais ou menos $25.00 atualmente, mas... você parece o cara certo pra esse aqui, então eu posso te vender por $10.00...\! O que cê acha?
+
+message_251:
+      text: \n<LOJISTA>Bom, tudo bem... mas esse \c[13]PET DRITO\c[0] está realmente te chamando!\!<br>Eu posso sentir.
+
+message_252:
+      text: \n<VELHA SENHORA>Aqui está $\v[650].00 pela sua ajuda! Hoho!
+
+message_253:
+      text: \n<CARA ATRAPALHADO>\com[2]\{OBRIGADO, OBRIGADO, OBRIGADO!!
+
+message_254:
+      text: \n<CARA ATRAPALHADO>Por favor...\! Eu não preciso de mais motivos pra minha esposa ficar ainda mais brava comigo!
+
+#==================Kel graffiti====================
+#Day 2 Graffiti kels house
+
+message_260:
+      text: Tem um grafite aqui escrito com giz.
+
+message_261:
+      faceset: MainCharacters_Faraway
+      faceindex: 23
+      text: \Com[2]Mas que m-!? O que aconteceu aqui!?<br>\!Que droga... Deve ter sido a AUBREY e a gangue do patinete...\kel
+
+message_262:
+      faceset: MainCharacters_Faraway
+      faceindex: 25
+      text: ...\! \n[8], seja honesto! Eu sou fedido?\kel
+
+message_263:
+      faceset: MainCharacters_Faraway
+      faceindex: 12
+      text: Espera aí, \n[8]! Nós devíamos pegar o presente pro HERO antes de irmos!\kel
+
+message_264:
+      faceset: MainCharacters_Faraway
+      faceindex: 16
+      text: \n[8]... O que você está fazendo?\!<br>Não podemos sair sem pagar!\kel
+
+
+#====================Save point Faraway=======================
+
+message_270:
+      text: Uma cesta de piquenique vazia.\! Você gostaria de SALVAR?
+
+message_271:
+      text: Você deseja acariciar o cachorro?
+
+message_272:
+      text: Você acariciou o cachorro.
+
+message_273:
+      text: \n<BOM CACHORRO>\com[2]\{Au, au...\{ AU!
+
+message_274:
+      text: O cachorro parece contente.
+
+message_275:
+      text: \n<HECTOR>\com[2]\{Au, au...\{ AU!
+
+message_276:
+      text: Você não acariciou o cachorro...
+
+#====================Faraway lamp=======================
+
+message_277:
+      text: Você deu a \c[4]LUMINÁRIA DE PISO\c[0] para a MÃE ELEGANTE.
+
+message_278:
+      faceset: MainCharacters_Faraway
+      faceindex: 21
+      text: \n[8], eu cuido da AUBREY.\! Você tem que ir ajudar o BASIL!\kel
+
+message_279:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \kelOh! Você vai pegar esse emprego?\! Legal.\! Nós vamos sair pra curtir em outro lugar enquanto isso.\! Até logo, \n[8]!
+
+message_280:
+      text: Você ganhou $30.00 pelo seu trabalho árduo.
+
+message_281:
+      text: \n<CARA DA PIZZA>De qualquer forma, aqui está a sua grana.\!<br>Talvez você possa usar pra comprar alguma \c[3]PIZZA\c[0]!
+
+message_282:
+      text: Você ganhou $20.00 pelo seu trabalho árduo.
+
+message_283:
+      text: Você pegou o \c[13]PET DRITO\c[0]!
+
+message_284:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \kelOh! Você vai pegar esse emprego?\! Legal.\! Eu vou sair pra curtir em outro lugar enquanto isso.\! Até logo, \n[8]!
+
+
+#====================Dreamworld=======================
+
+#When you find the rarebear in Sweetheart Castle
+
+message_290:
+      text: Você encontrou um \c[4]URSINHO\c[0]!
+
+#Reward for killing a Squizzard
+
+message_291:
+      text: Você ganhou \v[101] CONCHAS!
+
+#====================POLLY 2S after finding Basil=======================
+
+message_300:
+      text: \n<POLLY>Eu estou cuidando do BASIL faz dois anos já, mas eu mal o conheço direito...\! Eu queria que ele se abrisse um pouco mais comigo.\! Eu só quero ajudar...
+
+#====================  Pessie =======================
+
+message_310:
+      text: \pes\Com[2]\{\quake[1]EU...\| AMO...\| A...\| SWEETHEART!\quake[0]\}
+
+message_311:
+      text: \pesTanto que eu...\! adquiri ingressos para o mais prestigiado evento \"SWEETHEART EM BUSCA DE CORAÇÕES\"!
+
+message_312:
+      text: \pesApesar de que eu não consegui obter o ultra-raro-impossível-de-se-obter ingresso da primeira fila...
+
+message_321:
+      text: \pesO meu honorável vendedor garantiu-me que meu ingresso ainda me acomodará em uma localização privilegiada!
+
+message_317:
+      text: \pesEle também me certificou que o evento vai começar logo logo, então eu estive esperando aqui na fila por muitas, muitas horas!
+
+message_313:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 11
+      text: \aubHmm...\! Me pergunto se devemos contar pra ele ...
+
+message_314:
+      text: \pesEu tenho certeza que a qualquer momento, o evento vai começar e eu vou ser guiado ao meu assento por ninguém menos que a própria SWEETHEART!
+
+message_315:
+      text: \pesAgora...\! Como eu sou o verdadeiro fã da SWEETHEART, eu não poderia pensar em vir ao evento sem a minha mais preciosa coisa!\! Dê uma olhada na minha linda-
+
+message_316:
+      text: \pes\com[2]\quake[1]\{O-O-OQUE É ISSO!?\! A COISA...\| SUMIU!?!?
+
+message_318:
+      text: \pesNão...\! A minha preciosa coisa...\! Eu não vou poder ir ao evento dos meus sonhos sem ela!
+
+message_319:
+      text: \pesVocês quatro!\! Já que vocês são fãs inferiores da SWEETHEART, eu devo pedir para que vocês encontrem minha preciosa coisa e devolvam-na pra mim!\! Você vai saber o que é quando encontrar!
+
+message_320:
+      text: \pes\sinv[1]\{OHO\{OHO\{OHO\quake[1]HYECKHYECK...\quake[0]
+
+message_322:
+      text: \pes\sinv[1]\{OH, VOCÊ ENCONTROU! MINHA PRECIOSA COISA!
+
+message_911:
+      text: Você deu a \c[4]COISA DO PESSI\c[0] pro PESSI.
+
+message_323:
+      text: \pesObrigado...\! E repito...\! Obrigado!\! E repito novamente...
+
+message_324:
+      text: \pesEm troca de seu ato altruísta, eu concedo a você o presente supremo.
+
+message_325:
+      text: Você recebeu o \c[13]BUSTO DA SWEETHEART\c[0].
+
+message_326:
+      text: \pes\sinv[1]Ah...\! Não é lindo?
+
+message_327:
+      text: \pes\sinv[1]Que isso o encha de alegria pelo resto de seus dias!
+
+message_328:
+      text: \n<BROTOPEIRA SUSPEITA>\}Agora...\! Vocês não ouviram isso de mim, mas...\! Mais cedo, acho que vi uma BROTOPEIRA com um enorme laço rosa mexendo nos bolsos do pobre PESSI...
+
+message_329:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: \aubUma BROTOPEIRA com um grande laço rosa?\! \com[2]Parece com a ROSA!
+
+message_330:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 31
+      text: \kelA "ameaça ROSA" está de volta!\! Bora, OMORI! Temos que fazer ela entregar a \c[4]COISA DO PESSI\c[0] não importa como!
+
+
+#Sidequest B.E.D. with Rosa and Shady Mole
+
+message_340:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 30
+      text: \kel\{\com[2]ROSA!! A CASA CAIU!
+
+message_341:
+      text: \n<ROSA>Por que vocês estão aqui!? \!Eu estou brava! Vá embora!
+
+message_342:
+      text: \n<ROSA>Graças à vocês, minha querida SWEETHEART fugiu com aquele maldito CAP. SPACEBOY...\! \com[2]de novo!
+
+message_344:
+      text: \n<ROSA>Afe...\! SWEETHEART estava a apenas algumas portas de distância...\! mas agora ela está a galáxias de distância!\! Como eu irei segui-la agora!?\! Eu pareço que posso voar pra você!?
+
+message_345:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 47
+      text: \herEu... Eu não sei se isso realmente foi nossa culpa...
+
+message_346:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 30
+      text: \kel\com[2]ROSA, nós sabemos que foi você que roubou a \c[4]COISA DO PESSI\c[0]! Agora, devolva!
+
+message_347:
+      text: \n<ROSA>Isso de novo?\! Por que vocês sempre estão atrás da minha mercadoria da SWEETHEART!?\! Eu encontrei de forma justa, então...
+
+message_348:
+    text: \n<ROSA>\{\com[2]ACHADO NÃO É ROUBADO!
+
+message_909:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 43
+    text: \heRelaxa, galera.\! Deixem que eu cuido disso...
+
+message_349:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 49
+    text: \herEi...\! ROSA...
+
+message_350:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 49
+    text: \herPor que eu e você não tentamos resolver isso no diálog-
+
+message_351:
+    text: \n<ROSA>\sinv[1]Ewwwwwwwwwww...\sinv[0]\com[2] Não! Eu não quero ouvir!
+
+message_352:
+    text: \n<ROSA>De maneira alguma eu vou te dar a adição mais valiosa da minha coleção...
+
+message_353:
+    text: \n<ROSA>\{\quake[1]AGORA CAI FORA DA MINHA CASA!!
+
+message_354:
+    text: \n<BROTOPEIRA SUSPEITA>\}Heh...\! A ROSA tá se fazendo de difícil de novo, huh?\!<br>Que figura... Ela sempre foi assim...
+
+message_908:
+    text: \n<BROTOPEIRA SUSPEITA>\}Aqui.\! Pegue isso e mostre pra ela.\!<br>Impossível ela te recusar após ver isso.
+
+message_910:
+    text: Você pegou \c[4]CHANTAGEM\c[0].
+
+message_355:
+    text: \n<BROTOPEIRA SUSPEITA>\}Agora, deixem eu e minha nova \c[4]C.A.M.A.\c[0] em paz.<br>Nosso negócio acabou aqui!
+
+message_356:
+    text: \n<ROSA>Voltaram novamente?\! Hmph...\! Vocês me divertem...\!<br>Que esforço inútil!
+
+#INSERT OHOHOO 15_cutscenes_herothebachelor.message_145
+
+message_357:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 19
+    text: \kelAfastem-se, pessoal. Eu lido com ela!
+
+message_358:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 46
+    text: \herEspera, KEL...
+
+message_359:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 47
+    text: \herÉ verdade que a ROSA é um pé no saco...\! mas eu não concordo em usar \c[4]CHANTAGEM\c[0] como um meio de-
+
+message_360:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 17
+    text: \kel\{\{\Com[2]EI, ROSA!!
+
+message_361:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 18
+    text: \kel\{\{\Com[2]SACA SÓ ISSO!!
+
+message_362:
+    text: KEL puxou a \c[4]CHANTAGEM\c[0].
+
+message_363:
+    text: \n<ROSA>O-O-Onde você arrumou isso?
+
+message_364:
+    text: \n<ROSA>\Com[2]Eu... Eu mudei de ideia!\!<br>Por favor, senhor...\! Eu te dou o que você quiser!\!<br>Apenas me entregue educadamente essa \c[4]CHANTAGEM\c[0] de uma vez!
+
+message_365:
+    text: \n<ROSA>\Com[2]Ah, verdade!\! Você queria a \c[4]COISA DO PESSI\c[0], não é?
+
+message_366:
+    text: \n<ROSA>Tá bom, tanto faz.\! Pegue! É seu...<br>Agora me dê essa \c[4]CHANTAGEM\c[0]...
+
+message_367:
+    text: \n<ROSA>\{\{\Com[2]\quake[1]ANDA LOGO E ME DÊ ELA!!!
+
+message_368:
+    text: Você trocou a \c[4]CHANTAGEM\c[0] pela \c[4]COISA DO PESSI\c[0].
+
+message_369:
+    text: \n<ROSA>Eu quero que vocês saiam da minha casa agora.\!<br>Vocês já conseguiram o que queriam, não conseguiram?
+
+message_370:
+    text: \n<ROSA>\{\{\Com[2]AGORA CAIAM FORA! SUMAM DAQUI!
+
+message_371:
+    text: \n<ROSA>Vão embora! Estou furiosa com vocês!
+
+
+#====================  Faraway =======================
+
+message_380:
+    text: \n<CARA AMERICANO>\com[2]Hey, saiam da frente!\!<br>Não podem "see" que eu estou "watching" TV!?
+
+#==================== Pizza Delivery 2 =======================
+
+message_390:
+    text: Olhar as notas?
+
+# Heros gift in Hobbeez
+
+message_391:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelEsses \c[4]CDs\c[0] parecem legais, mas eu acho que o HERO ia gostar mais de algo com valor sentimental!\! Vamos continuar procurando.
+
+# Space boys arcade
+
+message_392:
+      text: Uma máquina maneira de fliperama...\!<br>mas você não tem sequer $1.00 para jogar.
+
+message_393:
+      text: Você deseja jogar esse jogo?\$
+
+message_394:
+      text: Um jogo chamado "CAP. SPACEBOY AVENTURA ESPACIAL".\!<br>Custa $1.00 para jogar.
+
+# Moms to do list and voice mail
+
+message_395:
+      text: LISTA DE TAREFAS DA MÃE.\!<br>Você não sente vontade de fazê-las agora.
+
+message_396:
+      text: Você tem uma nova mensagem.
+
+message_397:
+      text: Costumava existir algo aqui.
+
+message_398:
+      text: Você não possui novas mensagens.
+
+# Kels house dinner time
+
+message_399:
+      text: Você pegou a \c[4]COMIDA CASEIRA\c[0]...\! mas está fria.\!<br>Você pode aquecer usando o microondas.
+
+# Characters sleeping in bedfort
+
+message_400:
+      text: \sinv[1]Ronc...\| ronc...\| ronc...\| ronc...\kel
+
+message_401:
+      text: HERO está dormindo profundamente.
+
+# Going to other places when you need to go to shopping center first
+
+message_402:
+      faceset: MainCharacters_Faraway
+      faceindex: 12
+      text: \kelEi \n[8]! Bora, vamos na \c[11]PRAÇA DA CIDADE\c[0] rapidão!
+
+#Gachapon:
+message_403:
+      text: Uma máquina de cápsulas.\! Custa $3.00 para rodar.\!
+
+message_404:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelEi \n[8]! Vamos pegar o \c[4]PRESENTE DO HERO\c[0] primeiro.\! Podemos jogar depois!
+
+message_405:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelEsse não é o caminho! Nós acabamos de passar pela \c[11]CASA DO BASIL\c[0]!
+
+#Note: Placeholder Hero dialogue
+message_406:
+      faceset: MainCharacters_Faraway
+      faceindex: 28
+      text: \herEi...\! Então, eu estou feliz que estamos saindo juntos e tudo mais...\! mas eu também estou me sentindo mal por deixar a mãe sozinha...
+
+message_407:
+      faceset: MainCharacters_Faraway
+      faceindex: 30
+      text: \herAntes de irmos pra sua casa, vamos no \c[11]REPARA-JÁ\c[0] para comprar algumas \c[4]FLORES\c[0] para ela!\! Tenho certeza que ela apreciaria isso.
+
+message_434:
+      faceset: MainCharacters_Faraway
+      faceindex: 38
+      text: \herOh! Estou vendo que você já tem algumas \c[4]FLORES\c[0]!\! Mas, eu acho que devíamos comprar algumas frescas pra mãe.\! O \c[11]REPARA-JÁ\c[0] não é tão longe daqui de qualquer forma.
+
+
+message_408:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kel\sinv[1]Oh, HERO...\! Sempre o filhinho da mamãe...
+
+message_409:
+      faceset: MainCharacters_Faraway
+      faceindex: 28
+      text: \herVocê quer dar essas \c[4]FLORES\c[0] para a minha mãe?
+
+message_410:
+      faceset: MainCharacters_Faraway
+      faceindex: 29
+      text: \herA mamãe vai amar essas \c[4]FLORES\c[0]! Vamos lá deixar elas na minha casa, \n[8].
+
+message_411:
+      faceset: MainCharacters_Faraway
+      faceindex: 28
+      text: \herAh, entendi... então devíamos comprar uma pra minha mãe!
+
+message_412:
+      faceset: MainCharacters_Faraway
+      faceindex: 29
+      text: \herHmm...\! Parece que já está ficando tarde.\! A gente devia ir direto pra sua casa depois disso.\! Tudo bem por você?
+
+message_413:
+      faceset: MainCharacters_Faraway
+      faceindex: 30
+      text: \her\sinv[1]Ei, mãe... Eu te trouxe algumas \c[4]FLORES\c[0]!
+
+message_414:
+      text: \n<MÃE DO KEL>O-Oh...\! Essas são pra mim?
+
+message_415:
+      text: \n<MÃE DO KEL>Elas são lindas.\! Obrigada.
+
+message_416:
+      text: \n<PAI DO KEL>Ha!\! HERO, você é um garanhão mesmo.\! Igualzinho o seu velho!
+
+message_417:
+      text: \n<MÃE DO KEL>Desculpe por exagerar mais cedo.\!<br>Eu sei que o \n[8] vai se mudar logo...
+
+message_418:
+      text: \n<MÃE DO KEL>Dê o seu melhor pra manter contato.\! Fica mais difícil fazer amigos quanto mais velho você fica!
+
+message_419:
+      faceset: MainCharacters_Faraway
+      faceindex: 22
+      text: \kelMãe... Isso foi deprê...\! A gente vai ficar bem!
+
+message_420:
+      text: \n<MÃO DO KEL>Sim... Tenho certeza que vão.
+
+message_421:
+      text: A porta está trancada.
+
+message_422:
+      text: \n<MÃE DO KEL>Se cuide, \n[8].\!<br>Saiba que você sempre terá um lar aqui!
+
+# Kel telling you to check out the bedfort if you try to leave your bedroom
+
+message_423:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kel\n[8], vem ver a nossa cama-fortaleza!
+
+# Kel yelling at you to go to his room instead of the other rooms when you first go into his house
+
+message_424:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelAcha que consegue aguentar mais um pouquinho, \n[8]?\! Eu quero te mostrar o meu quarto primeiro!
+
+message_425:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \kelEsse é o quarto dos meus pais! Vamos pro meu quarto!
+
+# With basil taking him other than the path to his house
+
+message_426:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelBora, temos que levar o BASIL de volta pra casa dele!
+
+# NPC woman sitting behind apple guy
+
+message_427:
+      text: \n<MOÇA DE CABELO MARROM>Uau... que vista bonita.
+
+message_428:
+      text: \n<TESTA ENRUGADA>Parece que a criançada ainda gosta de visitar esse lago.\! Eu não me importo, mas eu tenho que ficar limpando depois...
+
+message_429:
+      text: \n<TESTA ENRUGADA>Bom, de volta ao trabalho!
+
+
+
+#==================== Dreamworld =======================
+
+message_430:
+      text: \n<CAP. SPACEBOY>Tantas emoções e pensamentos andam me devorando ultimamente...\! mas há algo relaxante sobre esse momento.\!<br>Eu me sinto em paz.
+
+message_431:
+      text: \n<CARA DA PINHATA>\sinv[1]\{\{WEEEEEEEEEEEEEEEEE!!\^
+
+message_432:
+      text: \n<CARA DA PINHATA>\sinv[1]\{\{WOOOOOOOOOOOOOOOO!!\^
+
+message_433:
+      text: \n<CARA DA PINHATA>Aww...
+
+
+
+
+#==================== Aubrey street before you get Aubrey =======================
+
+message_440:
+      text: \n<ANGEL>Era pra AUBREY ver a nova dança que eu criei hoje...\! Você acha que ela está me evitando de propósito!?
+
+message_441:
+      text: \n<CHARLIE>\}...
+
+message_442:
+      text: \n<O MAVERICK>A AUBREY não está se sentindo bem?\! \com[2]Como é possível!?\! Isso deve ser trabalho de algo mais sinistro...\! Talvez de um gênio do mal!\! Nós precisamos achá-lo logo!
+
+message_443:
+      text: \n<KIM>\sinv[1]Resmungos, resmungos...\! ...\! Ai ai...
+
+message_444:
+      text: \n<VANCE>Não fique pra baixo, KIM. Todo mundo tem dias ruins.\!<br>Você sabe que a AUBREY sempre se recupera.
+
+
+# Mincy drawing if you didn't meet her before
+
+message_445:
+      text: Uma artista está desenhando cuidadosamente.
+
+# Day 2 looking at photo album at kels place
+
+message_446:
+      text: Você terminou de olhar o \c[4]ÁLBUM DE FOTOS\c[0]?
+
+# Hero giving money for flowers in fixit
+
+message_447:
+      faceset: MainCharacters_Faraway
+      faceindex: 38
+      text: \herOps! Antes que eu me esqueça...\! \n[8], aqui está o dinheiro pelas \c[4]FLORES\c[0] da minha mãe.\! Você não pensou que eu deixaria você pagar por isso, num é?
+
+message_448:
+      text: Você pegou $10.00 do HERO.\! Uau...
+
+message_449:
+      text: \n<CARA DO REPARA-JÁ>Você estava querendo comprar alguma ferramenta?
+
+message_450:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \kelOh, só olhe ao nosso redor agora! Hmmm nós não estávamos indo ver a seção de \c[4]LUMINÁRIAS DE PISO\c[0]?
+
+message_451:
+      faceset: MainCharacters_Faraway
+      faceindex: 28
+      text: \herAntes de irmos, nós devíamos entregar essas \c[4]FLORES\c[0] pra Mãe!
+
+
+# CDs from Hobbeez, titles to be replaced once the actual titles are set
+
+
+message_452:
+      text: Um \c[4]CD BRUTAL\c[0].\! Você deseja comprá-lo por $10.00?
+
+message_453:
+      text: Um \c[4]CD ANIMADO\c[0].\! Você deseja comprá-lo por $10.00?
+
+message_454:
+      text: Um \c[4]CD CELESTIAL\c[0].\! Você deseja comprá-lo por $10.00?
+
+message_455:
+      text: Um \c[4]CD TRANQUILO\c[0].\! Você deseja comprá-lo por $10.00?
+
+message_456:
+      text: Um \c[4]CD DINÂMICO\c[0].\! Você deseja comprá-lo por $10.00?
+
+message_466:
+      text: Você pode pagar pelo \c[4]CD\c[0] no caixa.
+
+# Clumsy guy day 1 sunset when he loses the ring
+
+message_457:
+      text: \n<CARA ATRAPALHADO>Bom, eu estarei aqui caso você mude de ideia...\!<br>e eu espero que seja logo!
+
+message_460:
+    text: NADA
+
+message_461:
+    text: Um livro.
+
+
+# Basil in his faraway house day 1
+
+message_462:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 33
+      text: \bas\n[8]...\! Está tudo bem agora, não é?
+
+message_463:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 35
+      text: \bas\n[8]...\! P-Por que...\! Por que você parece tão assustado?
+
+message_464:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelAguenta aí, eu estarei lá em um instante!
+
+
+# Gacha!
+
+
+message_465:
+      text: Você não tem $3.00.
+
+# -----------------------------------------------
+# - FOUND ITEM
+# -----------------------------------------------
+
+#  Consumables
+message_500:
+    text: Você pegou \c[3]\itemget\c[0]!
+
+message_501:
+    text: Você pegou \c[3]\itemget\c[0]!
+
+#  Toys
+message_510:
+    text: Você pegou \c[5]\itemget\c[0]!
+
+message_511:
+    text: Você pegou \c[5]\itemget\c[0]!
+
+#  equips
+message_520:
+    text: Você pegou \c[13]\itemget\c[0]!
+
+message_521:
+    text: Você pegou \c[13]\itemget\c[0]!
+
+#  key items
+message_522:
+    text: Você pegou \c[4]\itemget\c[0]!
+
+#  Skills
+message_530:
+    text: o personagem aprendeu \c[1]skill\c[0]
+
+message_531:
+    text: HERO aprendeu \c[1]HORA DO CHÁ\c[0]!
+
+message_532:
+    text: HERO aprendeu \c[1]REFRESCO\c[0]!
+
+message_533:
+    text: HERO aprendeu \c[1]HORA DO LANCHE\c[0]!
+
+message_534:
+    text: HERO aprendeu \c[1]AMACIAR\c[0]!
+
+message_535:
+    text: KEL aprendeu \c[1]HIDRATE-ME\c[0]!
+
+message_536:
+    text: KEL aprendeu \c[1]BOLA DE NEVE\c[0]!
+
+message_540:
+    text: OMORI ganhou 1 CORAÇÃO.
+
+message_541:
+    text: KEL ganhou 1 CORAÇÃO.
+
+message_542:
+    text: AUBREY ganhou 1 CORAÇÃO.
+
+message_543:
+    text: HERO ganhou 1 CORAÇÃO.
+
+# Kels mom when POLLY <3 comes over
+
+message_550:
+      text: \n<MÃE DO KEL>KEL, quem é essa jovem linda?\! \com[2]Por que você não me contou que teríamos tantas visitas!?
+
+# Kel and Aubrey fighting in the pier sunset day 2
+
+message_551:
+      faceset: MainCharacters_Faraway
+      faceindex: 4
+      text: \n<AUBREY>Bota isso na sua cabeça dura, seu idiota!<br>Estou te dizendo que foi um acidente!
+
+message_552:
+      faceset: MainCharacters_Faraway
+      faceindex: 23
+      text: O que diabos você está fazendo, AUBREY!?\! <br>Você foi longe demais!\kel
+
+message_553:
+      faceset: MainCharacters_Faraway
+      faceindex: 31
+      text: \herVamos lá, precisamos levar o BASIL pra casa dele!
+
+# Foe facts in Angels room
+
+message_554:
+      text: Você quer olhar o \c[4]FATOS DOS INIMIGXS\c[0]?
+
+
+# Trying to leave kels house before getting dinner
+
+message_555:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelVamos, bora jantar!
+
+# Trying to go elsewhere without flowers for heros mom
+
+message_556:
+      faceset: MainCharacters_Faraway
+      faceindex: 28
+      text: \herNós devíamos ir buscar as \c[4]FLORES\c[0] pra minha mãe...
+
+message_557:
+      faceset: MainCharacters_Faraway
+      faceindex: 28
+      text: \herEspera, \n[8]! Nós devíamos dar essas \c[4]FLORES\c[0] pra minha mãe!
+
+message_558:
+      faceset: MainCharacters_Faraway
+      faceindex: 28
+      text: \herEspera aí, \n[8]. Nós não pegamos as \c[4]FLORES\c[0] pra minha mãe ainda.
+
+message_559:
+      text: \"Para a melhor mãe de todo o mundo."\!<br>\"Do seu filho, HERO.\"\! Uau...
+
+# Trying to go up stairs without Hero, day 2 night
+
+message_560:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 7
+      text: \kelOnde cê tá indo, \n[8]?\! O HERO está esperando por nós na sala do piano!
+
+
+# Basils bathroom
+
+message_561:
+    text: Um livro sobre plantas.
+
+# Trying to leave Aubreys house before getting Aubrey
+
+message_562:
+      faceset: MainCharacters_Faraway
+      faceindex: 28
+      text: \herEspera, \n[8]. Nós devíamos ir ver como está a AUBREY primeiro.
+
+# I forget lol
+
+message_563:
+    text: Você não consegue voltar.
+
+# crossroads for when you try to leave basils house on night 3
+
+message_564:
+    text: Você quer ir pra casa.
+
+#Hobbeez store: picking out a gift for HERO
+
+message_565:
+    faceset: MainCharacters_Faraway
+    faceindex: 14
+    text: \kelOlhar esses quadrinhos traz de volta tantas memórias.\! É que nem nos velhos tempos, huh \n[8]?\! No entanto, o HERO nunca se interessou tanto nas comics...
+
+message_566:
+    faceset: MainCharacters_Faraway
+    faceindex: 17
+    text: \kelVários desses DVDs estão empoeirados...\! Tenho certeza que já temos vários deles em algum lugar lá em casa...\! provavelmente pegando pó também...
+
+message_567:
+    faceset: MainCharacters_Faraway
+    faceindex: 15
+    text: \kelEu sempre tive um apreço por esses carinhas...\! Mas, o HERO sempre ficava bravo comigo por gastar meu dinheiro do lanche neles.\!<br>Não vamos lembrá-lo disso...
+
+message_568:
+    faceset: MainCharacters_Faraway
+    faceindex: 16
+    text: \kelEsse treco é muito caro, \n[8]!\!<br>Eu amo o HERO e tal, mas não \sinv[1]tanto\sinv[0] assim!
+
+message_569:
+    faceset: MainCharacters_Faraway
+    faceindex: 13
+    text: \kelSe comprarmos esses, eu não acho que vai sequer chegar ao HERO...
+
+message_570:
+    faceset: MainCharacters_Faraway
+    faceindex: 22
+    text: \kelEu já tenho esse console, \n[8]!\!<br>E eu não acho que consigo pagar por mais um...
+
+message_571:
+      text: Você pegou o \c[4]PRESENTE DO HERO\c[0]!
+# =========================================================================================
+# Cutscene: Fake Knife Fight
+# =========================================================================================
+
+#Trigger: Attack AUBREY in battle.
+
+#AUBREY falls to the floor.
+#KIM runs to AUBREY.
+
+message_580:
+      text: AUBREY!\! Por que tu recuou?\kim
+
+message_581:
+      faceset: MainCharacters_Faraway
+      faceindex: 6
+      text: \n[8]...\! Ele tem uma \c[13]FACA DE CARNE\c[0]...\aub
+
+message_582:
+      text: O quê!?\! Vambora, temos que te tirar daqui!\kim
+
+message_583:
+      faceset: MainCharacters_Faraway
+      faceindex: 6
+      text: Ugh...\! Você vai pagar por isso.\!\aub
+
+#AUBREY and HOOLIGANS run away.
+
+message_584:
+      faceset: MainCharacters_Faraway
+      faceindex: 19
+      text: Uau, isso estava prestes a sair do controle...\!<br>Ainda bem que você tinha essa sua faca ou a gente ia-\kel
+
+#Kels orders
+
+message_590:
+      text: Você pegou o \c[4]PEDIDO DA PADARIA\c[0] do KEL!
+
+message_591:
+      text: Você pegou o \c[4]PEDIDO DE "PIZZA"\c[0] do KEL!
+
+message_592:
+      text: Você entregou o \c[4]PEDIDO DA PADARIA\c[0] e o \c[4]PEDIDO DE "PIZZA"\c[0] pra MÃE DO KEL.
+
+#Treehouse, talking with characters before getting the  photo
+
+message_593:
+    faceset: MainCharacters_Faraway
+    faceindex: 13
+    text: \kel\sinv[1]Cara...\! Eu era o melhor nesses jogos de cartas...
+
+message_594:
+      faceset: MainCharacters_Faraway
+      faceindex: 1
+      text: \aubAqui...\! Novinho em folha...
+
+message_595:
+      faceset: MainCharacters_Faraway
+      faceindex: 37
+      text: \herEu me lembro agora!\! O KEL trouxe essa torradeira aqui!\! Ele disse que queria que eu cozinhasse com isso...\! KEL era uma criança tão estranha...
+
+#Graveyard with everyone, if you don't have any flowers
+message_596:
+      text: Você não tem \c[4]FLORES\c[0] com você.
+
+#Graveyard with everyone, if you do have flowers
+message_597:
+      faceset: MainCharacters_Faraway
+      faceindex: 31
+      text: \herAqui, isso é pra você, MARI.\! De todos nós...
+
+message_598:
+      faceset: MainCharacters_Faraway
+      faceindex: 32
+      text: \herEstou pronto...\! Vamos.
+
+message_599:
+      faceset: MainCharacters_Faraway
+      faceindex: 1
+      text: \aubSR. BERINJELA está tão sujo...
+#Talking to yellow bun granny after you are given prescription
+
+message_600:
+      text: \n<VOVÓ DO COQUE AMARELO>Está um belo dia lá fora, não está?\! É difícil de me locomover por aí, mas eu queria sair e tomar um ar fresco...
+
+message_601:
+      text: \n<VOVÓ DO COQUE AMARELO>Eu não posso ir na farmácia nessas condições...
+
+
+#Dreamworld Train station jash
+
+message_603:
+      text: \n<SNALEY>Olá! Eu sou o SNALEY e eu sou um azarado crônico!\! Esse cara aqui diz que acabaram todos as \c[4]PASSAGENS DE TREM\c[0], justo quando estava na hora de eu comprar o meu.\! Que coincidência engraçada!
+
+#Aubreys mom if you try to talk to her
+
+message_605:
+      text: \n<MÃE DA AUBREY>...
+
+#Kels dad if you get him meat in the afternoon
+
+message_606:
+      text: \n<PAI DO KEL>Eu vou grelhar alguns \c[3]HAMBÚRGERES\c[0] deliciosos pra todo mundo!\! Eu andei praticando!
+
+# Hobbeez buying CDs
+
+message_608:
+      text: Você quer botar o \c[4]CD\c[0] de volta?
+
+message_609:
+      text: Você pode levar o \c[4]CD\c[0] pro caixa para pagar por ele.
+
+message_610:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelEspera, \n[8]! Você se esqueceu?\! Você acabou de pegar um \c[4]CD\c[0].\!<br>Não podemos sair por aí roubando coisas! Somos cidadãos do bem e cumpridores da lei!
+
+#Intro
+message_619:
+      text: \n<LOJISTA>Eae, campeão! Estou vendo que está interessado nesse \c[4]CD\c[0].\! Que tal ele por $10.00?\$
+#Purchase
+message_620:
+      text: \n<LOJISTA>Valeu, campeão! Você pode testar esse \c[4]CD\c[0] na \c[4]JUKEBOX\c[0] da porta ao lado!
+#Insufficient Funds
+message_621:
+      text: \n<LOJISTA>Opa, foi mal. Você não tem dinheiro suficiente.
+#item selling prompt
+message_622:
+      text: \n<LOJISTA>Sem problemas. Só coloque o \c[4]CD\c[0] de volta na mesa onde você o pegou!
+#item selling cancel prompt
+message_623:
+      text: \n<LOJISTA>Valeu, campeão!
+
+message_624:
+      text: Você não deveria sair enquanto está trabalhando.
+
+message_625:
+      text: Você deu o \c[4]PRESENTE DO HERO\c[0] para o HERO.
+
+message_626:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 40
+      text: \herNós devíamos ir ver a MARI...\! Ela estava muito preocupada com você.
+
+message_627:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: \herNós devíamos ir procurar pelo BASIL primeiro.
+
+message_628:
+      text: \n<POLLY>O BASIL viveu com sua avó desde que era um bebêzinho.\!<br>Seus pais sempre foram muito ocupados...\!<br>Eu apenas os vi uma única vez.
+
+message_629:
+      text: Você deseja voltar para o \c[11]ESPAÇO BRANCO\c[0]?
+
+message_630:
+      text: Você deseja olhar através da fechadura?
+
+# Mincy drawing if you did meet her before
+
+message_631:
+      text: MINCY está desenhando cuidadosamente.
+
+message_632:
+      text: Olhar as \c[4]NOTAS DE PIZZA\c[0]?
+
+message_633:
+      text: \n<RAI>Eu sou o RAI!\! Eu estou aqui pelos jogos de cartas, mas eu tenho um \c[13]PET DRITO\c[0] também!
+
+message_634:
+      text: \n<PAI DO KEL>Não te vejo faz um tempo, \n[8].\! Que bom que você pôde visitar o KEL e o HERO antes de se mudar!
+
+message_635:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kel\n[8], você já quer ir pra casa?\! Mas nem está de noite ainda!
+
+message_636:
+      text: \n<PAI DO KEL>\c[4]FLORES\c[0], HERO?\! Heh...\! Você sempre sabe o que fazer.
+
+message_637:
+      text: Um poster de PROCURA-SE AJUDA.\! Talvez você possa perguntar sobre isso amanhã.
+
+message_638:
+      text: \n<HOMEM DE ÓCULOS>COMEDOR DE BROTOPEIRA é um jogo velho, mas divertido.\! Jogue até enjoar!\! Enquanto isso...\! Vou ficar encarando essa pizza intensamente...
+
+message_639:
+      text: Você gostaria de jogar uma \c[4]MOEDA\c[0] na fonte?
+
+message_640:
+      text: A \c[4]MOEDA\c[0] caiu direto pro fundo.
+
+message_641:
+      text: Você não deveria sair enquanto estiver trabalhando.
+
+message_642:
+      text: Você encontrou uma \c[4]MOEDA\c[0]!
+
+message_643:
+      text: Você encontrou $1.00!\! É seu dia de sorte!
+
+message_644:
+      text: Um cartaz de emprego.\!<br>Você já fez esse trabalho hoje.
+
+message_645:
+      text: Você ganhou $20.00 pelo seu trabalho árduo.
+
+message_646:
+      text: Você gostaria de jogar 1 CONCHA na fonte?
+
+message_647:
+      text: A CONCHA caiu direto pro fundo.
+
+message_648:
+      text: Você pegou uma \c[5]PÉROLA\c[0].
+
+message_649:
+      text: Você não tem CONCHAS.
+
+message_650:
+      text: Isso não é ponche de frutas.
+
+message_651:
+      text: Umas \c[4]TESOURAS DE JARDIM\c[0].
+
+message_652:
+      text: REPLACE WITH PLAYER SHAKING HEAD
+
+message_653:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelVambora, n[8]\! Temos que salvar o BASIL!
+
+message_654:
+      text: Enter- \DII[ok]
+
+message_655:
+      text: Escape- \DII[escape]
+
+message_656:
+      text: Up- \DII[up]
+
+message_657:
+      text: Down- \DII[down]
+
+message_658:
+      text: A key- \DII[cancel]
+
+message_659:
+      text: Shift key- \DII[shift]
+
+message_660:
+      text: Você deseja brincar com o HECTOR?
+
+message_661:
+      text: Você não quer machucar \n[6].
+
+message_662:
+      text: \n<TESTA ENRUGADA>Só vou limpar um pouquinho aqui...
+
+message_663:
+      text: \n<RECICULTISTA>Não ouso deixar este lugar até que nosso líder diga que posso!
+
+message_664:
+      text: "$1.00"
+
+message_665:
+      text: "$5.00"
+
+message_666:
+      text: "$10.00"
+
+message_667:
+      text: Quando você deseja doar?\$
+
+message_668:
+      text: NADA
+
+message_669:
+      text: Você não tem dinheiro suficiente.
+
+message_670:
+      text: Uma JUKEBOX.\! Não há músicas disponíveis para tocar.
+
+message_671:
+      text: Você tem certeza que deseja doar $\v[1167].00 pro MENDIGO VELHO?
+
+message_672:
+      text: Você tem certeza que deseja doar $\v[1167].00 pro MENDIGO FEDORENTO?
+
+message_673:
+      text: Você tem certeza que deseja doar $\v[1167].00 pro CARA DO VIOLÃO?
+
+message_675:
+      text: \n<GAROTA DO RABO DE CAVALO>Desculpa, a minha mãe está de mau humor.\! Ela comprou um presente pra ele, mas ele ainda não chegou em casa.\! Você pode voltar mais tarde?
+
+message_676:
+      text: \n<GAROTA DO RABO DE CAVALO>Desculpa, o meu pai está de mau humor.\! Ele comprou um presente pra ela, mas ela ainda não chegou em casa.\! Você pode voltar mais tarde?
+
+message_677:
+      text: Você deseja olhar o \c[4]ÁLBUM DE FOTOS\c[0]?
+
+message_678:
+      text: \n<HOMEM DA CARNE>Você não vai querer comprar \c[4]CARNE\c[0] com toda essa gosma de mosca em você!
+
+message_679:
+      text: \n<SR. PADEIRO>Certifique-se de que essas moscas não pousem no nosso \c[3]PÃO\c[0] fresco!
+
+# messages for cancelling out of minigames
+
+message_680:
+      text: Você deseja continuar trabalhando?
+
+message_681:
+      text: \n<MOÇA DO OUTROMERCADO>Sem trabalho?\! ...\! OK.\! Então, sem dinheiro.
+
+#UNUSED
+#message_682:
+#      text: \n<PIZZA MAN>Oh what happened? Didn't get to deliver the pizzas after all? I.... see.
+
+message_683:
+      text: \n<CARA DO REPARA-JÁ>Ai ai... Tanto faz, eu acho...\! As prateleiras vão ficar bagunçadas de novo, de qualquer forma.
+
+message_684:
+      text: \n<LOJISTA>Não se segure!\! O destino está te chamando!
+
+
+#LAST RESORT CONSTRUCTION AFTER GETTING HERO
+
+
+message_700:
+      text: \n<CARA JACARÉ>Bah! Agora vou ficar de mau humor pelo resto do dia.
+
+message_701:
+      text: \n<CARA JACARÉ>Não conte à minha mãe que eu perdi, tá bom?
+
+message_702:
+      text: \n<CARA JACARÉ>Não fique tão convencido só porque você ganhou! Foi porque eu não tomei meu \c[3]CAFÉ\c[0] ainda...
+
+message_703:
+      text: \n<CARA JACARÉ>Perder é uma droga...
+
+
+message_800:
+      text: Deseja tentar novamente?
+
+message_801:
+      text: Deseja continuar?
+
+
+message_705:
+      text: \n<HOMEM DE ÓCULOS>OK! Leve seu tempo pra se preparar.\! Eu estarei esperando aqui!
+
+message_706:
+      text: \n<LOJISTA>Irei aguardar pela nossa batalha, então.\! O destino está te chamando!
+
+message_707:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: Vamos lá alcançar a KIM e o VANCE!\kel
+
+
+# If Hero / Aubrey are in the team in fixit when you take a job:
+
+message_708:
+      faceset: MainCharacters_Faraway
+      faceindex: 29
+      text: \herUau, \n[8]! Você está trabalhando agora?\! Olhe só, todo crescidinho!\! Nesse caso, voltaremos para você mais tarde.\! Trabalhe duro!
+
+#If you talk to Berly again with pool noodle after declining the first time
+
+message_709:
+      text: \berEntão você mudou de ideia?\! Tu vai me dar o seu \c[13]MACARRÃO DE PISCINA\c[0] ou não?
+
+message_720:
+      text: \n<TESTA ENRUGADA>Esse é um gravador legal que você tem aí, mas meu filho gosta de algo chamado videogame...\! Você acha que pode me encontrar um desses?

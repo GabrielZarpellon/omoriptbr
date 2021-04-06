@@ -1,0 +1,166 @@
+# =========================================================================================
+# Sidequest: anniversary CHOCOLATE
+# =========================================================================================
+
+#TRIGGER: Talk to CLUMSY GUY
+
+message_0:
+      text: \n<CARA ATRAPALHADO>Ah, cara... Eu tô ferrado...
+
+message_1:
+      text: \n<CARA ATRAPALHADO>Quase esqueci que hoje era o meu aniversário de casamento...\! então aqui estou tentando consertar tudo de última hora... Harhar...
+
+message_2:
+      text: \n<CARA ATRAPALHADO>Eu sei que tenho sido idiota recentemente, então quero dar um presente impressionante pra minha esposa!
+
+message_3:
+      text: \n<CARA ATRAPALHADO>Só que...\! Como sempre...\! Eu não sei o que estou fazendo...\!<br>Estou aceitando qualquer ajuda nesse ponto.
+
+message_4:
+      text: \n<CARA ATRAPALHADO>Vocês...\! Crianças, poderiam me ajudar a escolher um presente pra minha esposa no balcão?\! Obrigado mesmo!
+
+#Examine CHOCOLATE / CARAMEL APPLES / CANDY:
+
+# [YES]
+
+message_5:
+      text: \n<CARA ATRAPALHADO>Sim!\! \c[3]CHOCOLATE\c[0]!\! Ela vai amar \c[3]CHOCOLATE\c[0]!
+
+message_6:
+      text: \n<CARA ATRAPALHADO>Sim!\! \c[3]MAÇÃS CARAMELIZADAS\c[0]!\! Ela vai amar \c[3]MAÇÃS CARAMELIZADAS\c[0]!
+
+message_7:
+      text: \n<CARA ATRAPALHADO>Sim!\! \c[3]DOCES\c[0]!\! Ela vai amar uns \c[3]DOCES\c[0]!
+
+message_28:
+      text: \n<CARA ATRAPALHADO>Vocês acham que isso vai impressionar ela?
+
+message_29:
+      text: \n<CARA ATRAPALHADO>Obrigado por me tirarem dessa situação...\!<br>Foi por muito pouco.
+
+message_30:
+      text: \n<CARA ATRAPALHADO>\sinv[1]\{\{LEGAL!!\sinv[0]
+
+# [No]
+
+message_8:
+      text: \n<CARA ATRAPALHADO>Talvez não...\! Essa é uma decisão muito difícil...\! Temos que pensar bastante!
+
+#Cutscene: Sarah's Dad Buys CHOCOLATE
+
+message_9:
+      text: \n<CARA ATRAPALHADO>Olá, madame!\!<br>Eu gostaria de comprar \c[3]CHOCOLATE\c[0], por favor!\!<br>É para minha querida esposa!\! Hoje é nosso aniversário!
+
+message_10:
+      text: \n<CARA ATRAPALHADO>Olá, madame!\!<br>Eu gostaria de comprar \c[3]MAÇÃS CARAMELIZADAS\c[0], por favor!\!<br>É para minha querida esposa!\! Hoje é nosso aniversário!
+
+message_11:
+      text: \n<CARA ATRAPALHADO>Olá, madame!\!<br>Eu gostaria de comprar uns \c[3]DOCES\c[0] por favor!\!<br>É para minha querida esposa!\! Hoje é nosso aniversário!
+
+message_12:
+      text: \n<SRTA. CANDICE>É claro!\! Risos, risos!\!<br>Obrigada e volte sempre!\! Risos, risos!
+
+message_13:
+      text: \n<CARA ATRAPALHADO>Obrigado pela ajuda, crianças!\!<br>Vou embora agora...\! Me desejem sorte!
+
+message_14:
+      text: \n<MOÇA DO RABO DE CAVALO>Ei, são vocês de novo.\! Obrigada por me convencerem a comprar uma \c[3]PIZZA INTEIRA\c[0] para o meu marido.\! Ele tá tão feliz...\! e me deixa feliz vê-lo feliz!
+
+message_15:
+      text: \n<MOÇA DO RABO DE CAVALO>E pro presente que ele me deu...
+
+message_16:
+      text: \n<MOÇA DO RABO DE CAVALO>Ele deve ter esquecido, mas nós nos conhecemos em uma <br>\c[11]LOJA DE DOCES\c[0] quando éramos adolescentes.
+
+message_17:
+      text: \n<MOÇA DO RABO DE CAVALO>Ele tinha me comprado \c[3]CHOCOLATE\c[0] também...\! <br>Hehe...\! Disse que era porque eu era a garota mais bonita que ele já tinha visto.
+
+message_18:
+      text: \n<MOÇA DO RABO DE CAVALO>Ele tinha me comprado \c[3]MAÇÃS CARAMELIZADAS\c[0] também...\! <br>Hehe...\! Disse que era porque eu era a garota mais bonita que ele já tinha visto.
+
+message_19:
+      text: \n<MOÇA DO RABO DE CAVALO>Ele tinha me comprado uns \c[3]DOCES\c[0] também...\! <br>Hehe...\! Disse que era porque eu era a garota mais bonita que ele já tinha visto.
+
+message_20:
+      text: \n<MOÇA DO RABO DE CAVALO>Foi um gesto tão simples, mas a sinceridade foi o que realmente me atraiu.
+
+message_21:
+      text: \n<MOÇA DO RABO DE CAVALO>Ele sempre foi meio distante, mas da para ver que ele se importa comigo...\! É por isso que é ok se às vezes discordarmos.\! Casamento é sobre compromisso!
+
+message_22:
+      text: \n<MOÇA DO RABO DE CAVALO>De qualquer forma, obrigada pela ajuda.\!<br>Aqui vai um presente.
+
+message_23:
+      text: Você recebeu uma \c[3]FATIA DE PIZZA\c[0]!
+
+message_25:
+      text: O CARA ATRAPALHADO deve comprar \c[3]CHOCOLATE\c[0]?
+
+message_26:
+      text: O CARA ATRAPALHADO deve comprar \c[3]DOCES\c[0]?
+
+message_27:
+      text: O CARA ATRAPALHADO deve comprar \c[3]MAÇÃS CARAMELIZADAS\c[0]?
+
+message_60:
+      text: \n<SRTA. CANDICE>Escolher entre \c[3]DOCES\c[0], \c[3]MAÇÃS CARAMELIZADAS\c[0], e \c[3]CHOCOLATE\c[0]?\! É uma decisão difícil!\! Risos, risos!
+
+message_300:
+      text: Você escolheu \c[3]CHOCOLATE\c[0].
+
+message_301:
+      text: Você escolheu \c[3]DOCES\c[0].
+
+message_302:
+      text: Você escolheu \c[3]MAÇÃS CARAMELIZADAS\c[0].
+
+# =========================================================================================
+#Cutscene: Old Love (Triggers when both anniversary Pizza and anniversary CHOCOLATE are complete)
+# =========================================================================================
+
+message_40:
+      text: \n<CARA ATRAPALHADO>Amor...\! É nosso aniverário hoje, então eu comprei...\!<br>Um \c[3]CHOCOLATE\c[0]!
+
+message_41:
+      text: \n<CARA ATRAPALHADO>Amor...\! É nosso aniverário hoje, então eu comprei...\!<br>Algumas \c[3]MAÇÃS CARAMELIZADAS\c[0]!
+
+message_42:
+      text: \n<CARA ATRAPALHADO>Amor...\! É nosso aniverário hoje, então eu comprei...\!<br>Alguns \c[3]DOCES\c[0]!
+
+message_43:
+      text: \n<MOÇA DO RABO DE CAVALO>Oh! Você realmente lembrou!\!<br>Obrigada, querido...\! É tão atencioso da sua parte...
+
+message_44:
+      text: \n<CARA ATRAPALHADO>É...\! É mesmo!?\! Haha!\! Digo...\! É sim!\! Feliz que achou isso!
+
+message_45:
+      text: \n<MOÇA DO RABO DE CAVALO>Na verdade, tenho um presente para você também...\!<br>É uma pizza inteira da \c[11]PIZZARIA DO GINO\c[0]!
+
+message_46:
+      text: \n<CARA ATRAPALHADO>Uma \c[3]PIZZA INTEIRA\c[0]!?\! Amor! Não precisava!\!<br>Esse é o melhor presente que já recebi na minha vida!
+
+message_47:
+      text: \n<MOÇA DO RABO DE CAVALO>Eu...\! Achei que gostaria...\!<br>Tenho sido meio dura com você ultimamente...
+
+message_48:
+      text: \n<MOÇA DO RABO DE CAVALO>Então... Achei que sua comida favorita pudesse te animar!
+
+message_49:
+      text: \n<CARA ATRAPALHADO>Não... Não se desculpe, amor!\!<br>Eu sei que só quer o melhor para mim!
+
+message_50:
+      text: \n<CARA ATRAPALHADO>Desculpa ser tão difícil...
+
+message_51:
+      text: \n<MOÇA DO RABO DE CAVALO>Não seja bobo, meu bem! Eu te amo do jeito que você é!\!<br>Vamos comer pizza hoje e amanhã!\!<br>Que tal?
+
+message_52:
+      text: \n<CARA ATRAPALHADO>Ah, meu amor! Isso é sério mesmo?\!<br>\sinv[1]Você está tão linda agora que eu quero te beijar!\sinv[0]
+
+message_53:
+      text: \n<MOÇA DO RABO DE CAVALO>\sinv[1]Ah, querido! Você está me deixando envergonhada...\sinv[0]
+
+#[Camera pans to SARAH at the living room entrance]
+
+message_54:
+      text: \n<MENINA DO RABO DE CAVALO>Ugh...\! Isso é nojento.\!<br>Eu vou...\! voltar pro meu quarto...

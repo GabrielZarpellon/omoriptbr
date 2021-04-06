@@ -1,0 +1,91 @@
+
+# =========================================================================================
+# Sidequest: Fruit War (Adrian)
+# =========================================================================================
+
+#Quest intro
+
+message_1:
+      text: \n<CARA DA MAÇÃ>Huff...\! Huff...\! Huff...\! Huff...\! \Com[2]Beba \c[3]SUCO DE MAÇÃ\c[0]!
+
+message_2:
+      text: \n<CARA DA MAÇÃ>Você já ouviu a frase...<br>“Uma maçã por dia mantém o médico longe?”
+
+message_3:
+      text: \n<CARA DA MAÇÃ>O mesmo conceito se aplica ao \c[3]SUCO DE MAÇÃ\c[0]!
+
+message_4:
+      text: \n<CARA DA MAÇÃ>\c[3]SUCO DE MAÇÃ\c[0] ajuda na hidratação!\! Ele contém compostos de plantas benéficos para a saúde do coração...\! E também pode proteger seu cérebro conforme você envelhece!
+
+message_5:
+      text: \n<CARA DA MAÇÃ>Não tem desvantagens se me perguntar!
+
+#If any ORANGE JUICE is inventory:
+message_6:
+      text: \n<CARA DA MAÇÃ>Isso é \c[3]SUCO DE LARANJA\c[0] que você tem aí?\!<br>\Com[2]Isso é lixo!\! Não beba isso!
+
+message_7:
+      text: CARA DA MAÇÃ jogou fora seu \c[3]SUCO DE LARANJA\c[0]...
+
+message_8:
+      text: \n<CARA DA MAÇÃ>Ha! Isso deve mostrar pra ele!
+
+message_9:
+      text: \n<CARA DA MAÇÃ>Então... Você quer comprar um \c[3]SUCO DE MAÇÃ\c[0] por $2.00?\$
+
+#[Yes/No]
+
+#if yes
+
+message_100:
+      text: Você pegou o \c[3]SUCO DE MAÇÃ\c[0]!
+
+message_10:
+      text: \n<CARA DA MAÇÃ>Sim! \Com[2]Beba \c[3]SUCO DE MAÇÃ\c[0]!\! Você vai adorar!
+
+
+#if no
+message_11:
+      text: \n<CARA DA MAÇÃ>Ok...\! Tudo bem...\!<br>Desde que você não esteja comprando nenhum \c[3]SUCO DE LARANJA\c[0]...
+
+#Buy more from Adrian than Brayden:
+
+message_12:
+      text: \n<CARA DA MAÇÃ>Huff...\! Huff...\! Ha!\! Como eu previ...\! \c[3]SUCO DE MAÇÃ\c[0] é uma alternativa muito melhor ao \c[3]SUCO DE LARANJA\c[0]!\! Meu irmão irá ver a tolice de seu caminho daqui a pouco!
+
+#Buy more from Brayden than Adrian:
+
+message_13:
+      text: \n<CARA DA MAÇÃ>Meu irmão não para de se gabar com os negócios na sua barraca de \c[3]SUCO DE LARANJA\c[0]...
+
+message_14:
+      text: \n<CARA DA MAÇÃ>Huff...\! Não importa...\! Huff...\! Eu sempre serei um firme crente do \c[3]SUCO DE MAÇÃ\c[0]!\! Ninguém vai tirar isso demim!
+
+#Not enough dollars
+
+message_15:
+      text: \n<CARA DA MAÇÃ>Hmm...\! Parece que você não tem o suficiente para um delicioso copo de \c[3]SUCO DE MAÇÃ\c[0]...
+
+#While wearing an Orange Headband
+
+message_16:
+      text: \n<CARA DA MAÇÃ>Espera, isso é uma...\! \c[13]BANDANA LARANJA\c[0]...\! que você está vestindo?\! Eu me recuso a te servir qualquer \c[3]SUCO DE MAÇÃ\c[0] até você tirar isso!
+
+#After buying 5 Apple juices
+
+message_101:
+      text: \n<CARA DA MAÇÃ>\{\{\sinv[1]HOOO-HAHHHHHHHHH!!
+
+message_17:
+      text: \n<CARA DA MAÇÃ>Pegue esse presente por ser um bom cliente!\! <br>É uma \c[13]BANDANA VERMELHA\c[0], da cor das maçãs!
+
+message_18:
+      text: \n<CARA DA MAÇÃ>Hmph! Eu vejo que um dos seus amigos está vestindo uma \c[13]BANDANA LARANJA\c[0]...\! Eu irei te perdoar por isso, só dessa vez!
+
+message_19:
+      faceset: MainCharacters_Faraway
+      faceindex: 37
+      text: \herHeh heh...\! Desculpe por isso...
+
+message_20:
+      text: Você recebeu uma \c[13]BANDANA VERMELHA\c[0]!

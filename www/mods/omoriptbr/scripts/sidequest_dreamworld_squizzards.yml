@@ -1,0 +1,38 @@
+
+# =========================================================================================
+# Hunt Squizzards
+# ========================================================================================
+
+#Talk to Seacow Farmer (Jim):
+
+message_0:
+      text: \n<FAZENDEIRO DE BOI-PEIXE>Uai sô, parceiro.\! Nessas bandas sou conhecido como o FAZENDEIRO DE BOI-PEIXE, mas ocê pode me chamar de JIM.
+
+message_1:
+      text: \n<FAZENDEIRO JIM>Essa fazenda é um negócio de família há gerações,\. mas cuidá num é tão fácil com esses LULÁGICOS invandindo!
+
+message_2:
+      text: \n<FAZENDEIRO JIM>Vô ti contá, com todos esses marditos LULÁGICOS correndo por ai é um milagre a fazenda ainda estar de pé.
+
+message_3:
+      text: \n<FAZENDEIRO JIM>Quem sabe se tivesse alguém que pudesse me ajudar a se livrar desses marditos LULÁGICOS...\! Eu pagaria qualquer valor!
+
+message_4:
+      text: \n<FAZENDEIRO JIM>Ei, quer saber? Acabei de ter uma ideia brilhante!
+
+message_5:
+      text: \n<FAZENDEIRO JIM>Se ocês num si importá de se livrar de uns LULÁGICOS gosmentos e fedidos, eu pagaria feliz por seus serviços com algumas CONCHAS.\! Eu sei que num é muito, mas é o que eu tenho!
+
+message_6:
+      text: \n<FAZENDEIRO JIM>Num dá pra ter sossego com esses marditos LULÁGICOS correndo por aí!
+
+#Talk to Seacow Farmer (Jim) after defeating [X] Squizzards:
+
+message_7:
+      text: \n<FAZENDEIRO JIM>Ei, ocês!\! Eu percebi que ultimamente tem menos LULÁGICOS causando confusão por essas bandas.\! <br>Ocês crianças tão fazendo mermo o seu trabalho!
+
+message_8:
+      text: \n<FAZENDEIRO JIM>Aqui estão algumas CONCHAS pros seus esforços...\!<br>Agora vão lá comprar um negocinho legar pra ocês.<br>A-hyuk!
+
+#Talk to Seacow Farmer (Jim) after defeating no Squizzards:
+#repeat messages 5 and 6

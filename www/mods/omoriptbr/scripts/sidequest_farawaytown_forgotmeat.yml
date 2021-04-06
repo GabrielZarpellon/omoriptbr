@@ -1,0 +1,78 @@
+
+# =========================================================================================
+# Sidequest: Forgot Meat
+# =========================================================================================
+
+#Talk to Kels dad
+
+message_1:
+      text: \n<PAI DO KEL>\Com[2]Aww, droga!\! KEL, seu velho é um tolo!\!<br>Estamos em um lindo piquenique, mas eu esqueci do ingrediente mais importante...\! \c[4]CARNE\c[0]!
+
+message_2:
+      text: \n<PAI DO KEL>Você pode me poupar um tempo e me comprar um pouco daquela coisa barata no \c[11]OUTROMERCADO\c[0]?
+
+message_3:
+      text: \n<PAI DO KEL>Toma aqui um pouco de dinheiro...\! É só falar com o HOMEM DA CARNE na parte de trás. Ele deve te dar um pouco!
+
+message_4:
+      text: Você recebeu $20.00.
+
+#Buy Meat / Talk to OTHERMART LADY:
+
+message_5:
+      text: \n<MOÇA DO OUTROMERCADO>OLÁ!\! 你是要 carne 吗? 是 $18.00!
+
+#[yes / no]
+
+#if yes
+
+message_6:
+      text: \n<MOÇA DO OUTROMERCADO>OK!\! \}\}谢谢, 孩子!
+
+message_7:
+      text: Você pegou a \c[4]CARNE\c[0].
+
+#Talk to Kels dad
+
+message_20:
+      text: Você deu a \c[4]CARNE\c[0] para o PAI DO KEL.
+
+message_8:
+      text: \n<PAI DO KEL>Valeu, campeão! Era isso que eu tava procurando!\!<br>Isso deve dar uns \c[3]HAMBÚRGUERES\c[0] deliciosos...
+
+message_9:
+      text: \n<PAI DO KEL>Vocês deviam aparecer por aqui essa tarde.\!<br>Vocês definitivamente vão querer provar um pouco dessa deliciosidade!
+
+message_10:
+      text: \n<PAI DO KEL>Mas por enquanto, vão se divertir.\!<br>O clima está ótimo hoje!
+
+#Talk to Kel's Dad during Sunset
+
+message_11:
+      text: \n<PAI DO KEL>Ei, campeões!\! Aqui está um hamburger pra cada um, como prometido!
+
+message_12:
+      text: Você recebeu 4 \c[3]HAMBÚRGUERES\c[0].\! Uau...
+
+message_13:
+      text: \n<PAI DO KEL>Faz um tempo desde que eu vi todos vocês saindo juntos.\! <br>Isso me lembra de quando vocês eram todos crianças, haha...
+
+message_14:
+      text: \n<PAI DO KEL>\n[8]!\!<br>Boa sorte com a mudança amanhã!
+
+message_15:
+      text: \n<PAI DO KEL>Se lembre de visitar de vez em quando... <br>\!Eu sei que o KEL vai ficar solitário sem você!
+
+message_16:
+      faceset: MainCharacters_Faraway
+      faceindex: 19 #insert number here
+      text: \kelAwww, Pai...\! Para... Você tá me envergonhando...
+
+message_17:
+      text: \n<PAI DO KEL>\{\Com[2]\SINV[2]GAH\{AHAHA\{HAHAHA!!\}\SINV[0]
+
+message_18:
+      text: \n<PAI DO KEL>Aqui está uma lição do seu velho pai.\! Conforme você envelhece, só vai ficar mais e mais difícil fazer amigos...
+
+message_19:
+      text: \n<PAI DO KEL>Então se você acha que tem um bom...\! é bom apreciá-los.\! Amigos podem ser pela vida toda, ouviu!

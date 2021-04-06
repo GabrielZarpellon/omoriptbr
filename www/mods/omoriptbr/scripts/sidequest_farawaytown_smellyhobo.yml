@@ -1,0 +1,51 @@
+
+# =========================================================================================
+# Sidequest: Smelly Hobo
+# =========================================================================================
+
+#Intro
+
+message_0:
+      text: O fedor deste homem é indescritível.
+
+message_1:
+      text: \n<MENDIGO FEDORENTO>\Com[2]Quê que cê tá fazendo essa cara aí, colega?\!<br>\Com[2]Tem 'guma coisa na minha cara!?
+
+#Default
+
+message_2:
+      text: \n<MENDIGO FEDORENTO>Ei, colega... Cê tem algum trocado de sobra?\!<br>Fico muito 'gradicido.
+
+
+#After reaching donation goal
+
+message_3:
+      text: \n<MENDIGO FEDORENTO>...\! Ei, colega... Valeu pu' mi ajudá...<br>Cê foi um amigo de verdade.
+
+message_4:
+      text: \n<MENDIGO FEDORENTO>Então...\! Eu tenho um coiso especial pra 'ocê...
+
+message_5:
+      text: \n<MENDIGO FEDORENTO>\SINV[1]Estica as mão pra mim e fecha os óio...\SINV[0]
+
+#Screen turns black
+
+message_6:
+      text: Você sente algo frio nas suas palmas.
+
+#Screen goes back
+
+message_7:
+      text: Você recebeu um \c[13]RELÓGIO DE OURO\c[0]!\!
+
+message_8:
+      text: \n<MENDIGO FEDORENTO>\Com[2]Cê curtiu!?\! Já que foi tão gentil, pensei que pudesse te dar uma das minhas mercadorias...\! Heh, heh...\! Isso aí é ouro de verdade! Eu juro!
+
+message_9:
+      text: \n<MENDIGO FEDORENTO>Muito 'brigado p'ocê!
+
+message_20:
+      text: Você doou $\v[602].00 para o MENDIGO FEDORENTO.
+
+message_21:
+      text: \n<MENDIGO FEDORENTO>Cê tá gostando do seu novo \c[13]RELÓGIO DE OURO\c[0]!?\! É ouro de verdade, tô te falando!

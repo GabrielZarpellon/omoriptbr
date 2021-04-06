@@ -1,0 +1,241 @@
+
+# =========================================================================================
+# Sidequest: Birthday Gift 2
+# =========================================================================================
+
+#Talking to Jesse
+message_0:
+      text: Você ouve uma música muito alta saindo do <br>headphone do GURI DO FONE.
+
+message_1:
+      faceset: MainCharacters_Faraway
+      faceindex: 17 #insert number here
+      text: \kelEi...
+
+message_2:
+      text: \n<GURI DO FONE>\Com[2]Gah!\! Quem são vocês!?\! O que vocês querem?
+
+message_3:
+      text: \n<GURI DO FONE>...
+
+message_4:
+      faceset: MainCharacters_Faraway
+      faceindex: 16
+      text: \kelOh...\! Ei!\! JESSE, não é?\!<br>A gente...\! é...\! Somos amigos do seu pai...
+
+message_5:
+      faceset: MainCharacters_Faraway
+      faceindex: 24
+      text: \kelEle pediu para chamar você até a sala para comer um bolo!
+
+message_6:
+      text: \n<GURI DO FONE>Meu pai é amigo de um bando de adolescentes?\! Estranho...
+
+message_7:
+      faceset: MainCharacters_Faraway
+      faceindex: 22
+      text: \kelPor que tá com essa cara? Não é seu aniversário hoje?\!<br>Por que não desce para comemorar?\!<br>Seu pai até comprou um presente legal!
+
+message_8:
+      text: \n<GURI DO FONE>\quake[1]Grrrrrrrrrr...\quake[0]\!<br>\Com[2]Eu já disse pro meu pai não comprar nada para mim!
+
+message_9:
+      text: \n<GURI DO FONE>\Com[2]Fala para ele devolver e saiam do meu quarto!
+
+message_10:
+      faceset: MainCharacters_Faraway
+      faceindex: 21 #insert number here
+      text: \kelEi! Não sei se gosto dessa sua atitude...\!<br>\Com[2]O que você tem contra seu pai!?
+
+message_11:
+      text: \n<GURI DO FONE>...
+
+message_12:
+      text: \n<GURI DO FONE>Ai ai...\! Tá vendo todas essas coisas legais aqui?
+
+message_13:
+      text: \n<GURI DO FONE>Eu...\! Eu ganhei tudo isso da minha mãe.
+
+message_14:
+      text: \n<GURI DO FONE>Minha mãe não vive mais aqui, mas ela me manda coisas de vez em quando...
+
+message_15:
+      text: \n<GURI DO FONE>Mas meu pai...\! Meu pai não tá atualizado...\! <br>Nada que ele compra vai ser melhor do que eu já tenho.\! Então...\! sempre é desperdício de dinheiro...
+
+message_16:
+      text: \n<GURI DO FONE>Então mesmo que seja meu aniversário...\!<br>\Com[2]Ele não precisa comprar nada para mim!
+
+message_17:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelMas... ele faz tudo isso porque ele quer!\!<br>Você deveria descer e comemorar.\!<br>Vai significar muito para ele!
+
+message_18:
+      text: \n<GURI DO FONE>Mas...\! eu...
+
+message_19:
+      faceset: MainCharacters_Faraway
+      faceindex: 23 #insert number here
+      text: \kel\Com[2]Só vai!
+
+#KEL SHAKES CHAIR
+
+message_20:
+      text: \n<GURI DO FONE>\Com[2]Ei! Que que cê tá fazendo!?
+
+#JESSE gets off the chair
+
+message_21:
+      faceset: MainCharacters_Faraway
+      faceindex: 21 #insert number here
+      text: \kelVocê está agindo assim porque se importa com ele, né!?\!<br>Ele tá fazendo isso porque se importa com você também!
+
+message_22:
+      faceset: MainCharacters_Faraway
+      faceindex: 22 #insert number here
+      text: \kelSe você o vai deixar esperando, ele merece ao menos uma explicação!
+
+message_23:
+      faceset: MainCharacters_Faraway
+      faceindex: 14 #insert number here
+      text: \kelAgora vá para a sala de estar e fala com ele!\!<br>Não vou te deixar sentar até você ir!
+
+message_24:
+      text: \n<GURI DO FONE>...
+
+message_25:
+      text: \n<GURI DO FONE>Hmph...\! Você é tão insistente...
+
+message_26:
+      text: \n<GURI DO FONE>...\! Mas...\! Acho que vou falar com ele...
+
+message_60:
+      faceset: MainCharacters_Faraway
+      faceindex: 38
+      text: \herUau, KEL...\! Isso foi bem maduro...
+
+message_61:
+      faceset: MainCharacters_Faraway
+      faceindex: 15
+      text: \kelVocê acha?
+
+message_62:
+      faceset: MainCharacters_Faraway
+      faceindex: 28
+      text: \herSim...\! Eu percebo como cresceu.\! Acho que isso significa que você não é mais criança.
+
+message_63:
+      faceset: MainCharacters_Faraway
+      faceindex: 22
+      text: \kelAaaa... Por que não?\! Adultos não são divertidos...\! Ser criança é muito melhor!
+
+message_64:
+      faceset: MainCharacters_Faraway
+      faceindex: 41
+      text: \her...\| Esquece...\! Esquece o que eu disse...
+
+#JESSE leaves the room
+
+#=======================
+#Cutscene: Jesse's Birthday Gift:
+#=======================
+
+
+message_28:
+      text: \n<TESTA ENRUGADA>\{\{\Com[2]\SINV[1]PARABÉNS, FILHÃO!!!
+
+message_29:
+      text: \n<TESTA ENRUGADA>Sei que não temos muito, mas...\!<br>Comprei algo que acho que vai gostar...
+
+message_30:
+      text: \n<GURI DO FONE>Pai...\! Não precisava...
+
+message_31:
+      text: \n<TESTA ENRUGADA>Aqui está!\! É um jogo novo chamado \c[4]SUPER ULTRA COMEDOR DE BROTOPEIRA - \c[4]REVANCHE DAS TOUPEIRAS III\c[0]!
+
+message_32:
+      text: \n<TESTA ENRUGADA>Não sei de nada desses novos aparelhos, mas acho que você vai gostar!
+
+message_33:
+      text: \n<GURI DO FONE>Pai...\! Eu...\! Eu não tenho o console que roda esse jogo...
+
+message_34:
+      text: \n<TESTA ENRUGADA>Con-...\! console?\!<br>Ahh...\! Desculpa, eu não entendo...
+
+message_35:
+      text: \n<GURI DO FONE>Pai...\! Eu...
+
+message_36:
+      text: \n<TESTA ENRUGADA>Filho!\! Eu sei que tem sido difícil sem sua mãe...\!<br>mas quero que saiba que estou aqui para você!
+
+message_37:
+      text: \n<GURI DO FONE>\com[2]Pai! Para de se preocupar comigo!\!<br>Eu tô bem!\! Só se preocupa com você!
+
+message_38:
+      text: \n<TESTA ENRUGADA>Ah, JESSE... Não pode me pedir isso.\!<br>Você é meu filho afinal!\! Não consigo não me preocupar!
+
+message_39:
+      text: \n<TESTA ENRUGADA>Mesmo que eu não possa te dar coisas tão legais quanto sua mãe...\!<br>não pode me culpar por tentar, né?
+
+message_40:
+      text: \n<TESTA ENRUGADA>Sempre que eu te vejo, eu só penso em quão rápido você está crescendo...
+
+message_41:
+      text: \n<TESTA ENRUGADA>Quando você for mais velho...\! você provavelmente não vai mais precisar de mim...\! então deixa eu fazer parte da sua vida por enquanto, ok?
+
+message_42:
+      text: \n<TESTA ENRUGADA>Agora...\! Sei que é seu aniversário...\! mas também sei que você gosta de ficar na sua hoje em dia...\! então por que não leva essa \c[3]FATIA DE BOLO\c[0] e come no seu quarto?
+
+message_43:
+      text: \n<TESTA ENRUGADA>É de morango...\! seu favorito...
+
+message_44:
+      text: \n<GURI DO FONE>...
+
+message_45:
+      text: \n<GURI DO FONE>Tá...\! Tá tudo bem, pai...\! Não me importo de comer aqui.
+
+message_46:
+      text: \n<TESTA ENRUGADA>Oh! Tem certeza?\!<br>Você geralmente come no seu quarto...
+
+message_47:
+      text: \n<GURI DO FONE>...
+
+message_48:
+      text: \n<GURI DO FONE>\}Sniff...\! Sniff...\! Pai...\! Eu...\! Eu sinto muito...
+
+message_49:
+      text: \n<TESTA ENRUGADA>\Com[2]O-O que foi, filho!?\! \Com[2]V-Você tá bem?\!<br>Fiz algo de errado!?
+
+message_50:
+      text: \n<GURI DO FONE>\}N-Não...\! Eu tô bem...\!<br>Valeu pelo presente, pai...\! Eu...\! sniff...\! Eu gostei muito...
+
+#Talk to Jesse/Jesse's DAD
+
+message_51:
+      text: \n<TESTA ENRUGADA>Obrigado por convencer meu filho a descer.\! Vocês realmente são bons camaradas!
+
+message_52:
+      text: \n<TESTA ENRUGADA>Por favor, coma bolo com a gente!\! Paguei mais barato já que expira amanhã...\! mas ainda está bem gostoso!
+
+message_53:
+      text: \n<GURI DO FONE>\}Sniff...\! Sniff...\! Pai...
+
+
+#intro text
+
+
+message_55:
+      text: \n<TESTA ENRUGADA>É o aniversário de 10 anos do meu filho!\! ...\! Mas ele não sai do quarto para gente comemorar!
+
+message_56:
+      text: \n<TESTA ENRUGADA>Ai ai...\! Eu até trouxe um bolo...
+
+message_57:
+      text: Você recebeu uma \c[3]FATIA DE BOLO\c[0]!
+
+message_58:
+      text: Uma triste \c[3]FATIA DE BOLO\c[0].
+
+message_59:
+      text: Uma doce \c[3]FATIA DE BOLO\c[0].

@@ -1,0 +1,151 @@
+
+# =========================================================================================
+# Seasonal gifts
+# ========================================================================================
+
+#Talk to Summer MOLE
+message_0:
+      text: \n<BROTOPEIRA DE VERÃO>Ahh, verão...\! a areia...\! o sol...\! a praia...\! as ondas...\!<br>isso sem mencionar... as férias de verão!
+
+message_1:
+      text: \n<BROTOPEIRA DE VERÃO>Finalmente, tempo para descansar e relaxar...<br>Isso que é vida!
+
+message_2:
+      text: \n<BROTOPEIRA DE VERÃO>O verão é a melhor estação! Você não concorda?
+
+# [Nod/Shake]
+#[Nod]
+message_3:
+      text: \n<BROTOPEIRA DE VERÃO>Isso aí, irmão! O verão é a melhor! Estou tão animado que você concorda!\! Aqui está um presente pra você... Use bem!
+
+message_4:
+      text: Você recebeu \c[13]PROTETOR SOLAR\c[0].
+
+#[Shake]
+message_5:
+      text: \n<BROTOPEIRA DE VERÃO>Oh, buu!
+
+#Talk to Spring MOLE
+message_6:
+      text: \n<BROTOPEIRA DE PRIMAVERA>Ahh, primavera...\! Primavera nos traz beleza!\! Primavera nos traz diversão!\! Primavera nos traz vida!\! A primavera nos traz um espírito rejuvenecedor para recomeçar!
+
+message_7:
+      text: \n<BROTOPEIRA DE PRIMAVERA>A Primavera é a melhor estação! Você não concorda?
+
+# [Nod/Shake]
+#[Nod]
+message_8:
+      text: \n<BROTOPEIRA DE PRIMAVERA>Sim, sim! Primavera é a melhor! Estou grato que você concorda!\!<br> Aqui está um presente pra você... Por favor aproveite!
+
+message_9:
+      text: Você recebeu um \c[13]REGADOR\c[0].
+
+#[Shake]
+message_10:
+      text: \n<BROTOPEIRA DE PRIMAVERA>Oh, cocô pra você!
+
+
+#Talk to Fall MOLE
+message_11:
+      text: \n<BROTOPEIRA DE OUTONO>Outono...\! folhas de outono...\! roupas confortáveis...\! o cheirinho de canela...\! a hora perfeita para se aconchegar com um livro...\! e os feriados quase chegando...\! <br>Não tem como não amar!
+
+message_12:
+      text: \n<BROTOPEIRA DE OUTONO>O Outono é a melhor estação! Você não concorda?
+
+# [Nod/Shake]
+#[Nod]
+message_13:
+      text: \n<BROTOPEIRA DE OUTONO>Eu concordo! O outono é a melhor estação! Estou deleitado em saber que você também acha isso!\! Aqui está um presente pra você... Espero que faça bom uso!
+
+message_14:
+      text: Você recebeu um \c[13]ANCINHO\c[0].
+
+#[Shake]
+message_15:
+      text: \n<BROTOPEIRA DE OUTONO>Bom, então vamos concordar em discordar.
+
+#Talk to WINTER MOLE
+message_16:
+      text: \n<BROTOPEIRA DE INVERNO>Ahh, inverno.\! Pode estar chovendo do lado de fora, mas o inverno é tempo para amigos e família!
+
+message_17:
+      text: \n<BROTOPEIRA DE INVERNO>Se aconchegar próximo de um fogo quentinho...\! Compartilhar histórias...\! Tomar chocolate quente...\! e o mais importante... um momento para respirar depois de um longo ano!
+
+message_18:
+      text: \n<BROTOPEIRA DE INVERNO>O Inverno é a melhor estação! Você não concorda?
+
+# [Nod/Shake]
+#[Nod]
+message_19:
+      text: \n<BROTOPEIRA DE INVERNO>É claro! Inverno é a melhor estação! Você concordar me traz muita felicidade!\! Agora leve esse presente.\! O inverno é a estação para presentear, afinal!
+
+message_20:
+      text: Você recebeu um \c[13]CACHECOL\c[0].
+
+#[Shake]
+message_21:
+      text: \n<BROTOPEIRA DE INVERNO>Oh...\! Isso não me traz felicidade...
+
+#If Player has already chosen another favorite season:
+
+message_22:
+      text: \n<BROTOPEIRA DE VERÃO>...\! Hmph!\! Vejo que você jogou no lixo a sua opinião e escolheu a primavera! Você não vai ganhar nenhum presente meu!
+
+message_23:
+      text: \n<BROTOPEIRA DE VERÃO>...\! Hmph!\! Vejo que você jogou no lixo a sua opinião e escolheu o outono! Você não vai ganhar nenhum presente meu!
+
+message_24:
+      text: \n<BROTOPEIRA DE VERÃO>...\! Hmph!\! Vejo que você jogou no lixo a sua opinião e escolheu o inverno! Você não vai ganhar nenhum presente meu!
+
+message_25:
+      text: \n<BROTOPEIRA DE PRIMAVERA>...\! Hmph!\! Vejo que você jogou no lixo a sua opinião e escolheu o verão! Você não vai ganhar nenhum presente meu!
+
+message_26:
+      text: \n<BROTOPEIRA DE PRIMAVERA>...\! Hmph!\! Vejo que você jogou no lixo a sua opinião e escolheu o outono! Você não vai ganhar nenhum presente meu!
+
+message_27:
+      text: \n<BROTOPEIRA DE PRIMAVERA>...\! Hmph!\! Vejo que você jogou no lixo a sua opinião e escolheu o inverno! Você não vai ganhar nenhum presente meu!
+
+message_28:
+      text: \n<BROTOPEIRA DE OUTONO>...\! Hmph!\! Vejo que você jogou no lixo a sua opinião e escolheu a primavera! Você não vai ganhar nenhum presente meu!
+
+message_29:
+      text: \n<BROTOPEIRA DE OUTONO>...\! Hmph!\! Vejo que você jogou no lixo a sua opinião e escolheu o verão! Você não vai ganhar nenhum presente meu!
+
+message_30:
+      text: \n<BROTOPEIRA DE OUTONO>...\! Hmph!\! Vejo que você jogou no lixo a sua opinião e escolheu o inverno! Você não vai ganhar nenhum presente meu!
+
+message_31:
+      text: \n<BROTOPEIRA DE INVERNO>...\! Hmph!\! Vejo que você jogou no lixo a sua opinião e escolheu a primavera! Você não vai ganhar nenhum presente meu!
+
+message_32:
+      text: \n<BROTOPEIRA DE INVERNO>...\! Hmph!\! Vejo que você jogou no lixo a sua opinião e escolheu o verão! Você não vai ganhar nenhum presente meu!
+
+message_33:
+      text: \n<BROTOPEIRA DE INVERNO>...\! Hmph!\! Vejo que você jogou no lixo a sua opinião e escolheu o outono! Você não vai ganhar nenhum presente meu!
+
+#If Player talks to their chosen favorite season:
+
+message_34:
+      text: \n<BROTOPEIRA DE VERÃO>Ahh, verão...\! a areia...\! o sol...\! a praia...\! as ondas...\!<br>isso sem mencionar... as férias de verão!!
+
+message_35:
+      text: \n<BROTOPEIRA DE VERÃO>Finalmente, tempo para descansar e relaxar...<br>Isso que é vida!\!<br> O verão é a melhor estação!
+
+message_36:
+      text: \n<BROTOPEIRA DE PRIMAVERA>Ahh, primavera...\! Primavera nos traz beleza!\! Primavera nos traz diversão!\! Primavera nos traz vida!
+
+message_37:
+      text: \n<BROTOPEIRA DE PRIMAVERA>A primavera nos traz um espírito rejuvenecedor para recomeçar!\! A primavera é a melhor estação!
+
+message_38:
+      text: \n<BROTOPEIRA DE OUTONO>Outono...\! folhas de outono...\! roupas confortáveis...\! o cheirinho de canela...\! a hora perfeita para se aconchegar com um livro...\! e os feriados quase chegando...
+
+message_39:
+      text: \n<BROTOPEIRA DE OUTONO>Não tem como não amar!\! O outono é a melhor estação!
+
+message_40:
+      text: \n<BROTOPEIRA DE INVERNO>Ahh, inverno.\! Pode estar chovendo do lado de no lixo, mas o inverno é tempo para amigos e família!
+
+message_41:
+      text: \n<BROTOPEIRA DE INVERNO>Se aconchegar próximo de um fogo quentinho...\! Compartilhar histórias...\! Beber chocolate quente...\! e o mais importante... um momento para respirar depois de um longo ano!\! O inverno é a melhor estação!
