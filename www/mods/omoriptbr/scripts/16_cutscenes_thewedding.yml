@@ -1,0 +1,467 @@
+# =========================================================================================
+# Cutscene: Sweetheart's Wedding
+# =========================================================================================
+
+#Trigger: Enter SWEETHEART'S CASTLE ENTRANCE.
+
+message_0:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: Finalmente conseguimos sair!\kel
+
+#KEL LOOKS AROUND
+
+message_1:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19
+      text: Nossa, qual é a das decorações?\kel
+
+#AUBREY looks at KEL.
+
+message_2:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 2
+      text: Parece que alguém vai se casar!\aub
+
+#HERO looks to the side and is surprised.
+
+message_3:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: Eita! O show já vai começar!\!<br>Se escondam!\her
+
+#Party hides.
+#Camera pans to stage.
+
+message_4:
+      text: \n<BROTOPEIRA MIKE>Bem-vindos! Bem-vindos todos!
+
+message_5:
+      text: \n<BROTOPEIRA MIKE>Hoje teremos uma ocasião importante.
+
+message_6:
+      text: \n<BROTOPEIRA MIKE>Depois de quarenta e duas temporadas de <br>\"SWEETHEART EM BUSCA DE CORAÇÕES\"...\!<br>Agora irá ao ar o nosso último episódio.
+
+#Audience awwws.
+
+message_7:
+      text: \n<BROTOPEIRA MIKE>Foi...\! sniff...\! uma jornada esplendorosa...\! sniff...\!<br>Obrigado a todos por assistirem.
+
+message_9:
+      text: \n<BROTOPEIRA MIKE>Desde que estivemos ao ar...\!<br>Nós rigorosamente procuramos o pretendente perfeito para a nossa amada SWEETHEART...
+
+message_10:
+      text: \n<BROTOPEIRA MIKE>E toda vez... lamentavelmente...\!<br>SWEETHEART foi incapaz de achar seu amor verdadeiro.
+
+message_11:
+      text: \n<BROTOPEIRA MIKE>Mas desta vez, nós acreditamos...\!<br>que realmente nos superamos.
+
+message_12:
+      text: \n<BROTOPEIRA MIKE>Esse é...\! o momento pra acabar com os outros momentos...\!<br>A história...\! começa aqui.
+
+message_13:
+      text: \n<BROTOPEIRA MIKE>Escureçam as luzes, por favor...
+
+#Lights dim.
+
+message_8:
+      text: \n<BROTOPEIRA MIKE>\{O EPISÓDIO FINAL COMEÇA AGORA!
+
+message_14:
+      text: \n<BROTOPEIRA MIKE>\{\Com[2]COMECEM O CASAMENTO!!
+
+#Curtain opens, revealing Sprout Mole Choir singing for SWEETHEART's WEDDING.
+
+message_15:
+      text: \n<BROTOPEIRA MIKE>Por favor, deem boas vindas para...\!<br>\{\Com[2]A PRETENDENTE PERFEITA PARA A<br>\{\Com[2]SWEETHEART!!
+
+#Camera pans to end of aisle. SWEETHEART bursts from a cake at the end of the aisle.
+#Audience gasps.
+#Camera pans to SMM.
+#SMM jumps.
+
+message_16:
+      text: \n<BROTOPEIRA MIKE>Sim! É verdade!\!<br>Agora você viu tudo!
+
+message_17:
+      text: \n<BROTOPEIRA MIKE>A resposta era óbvia esse tempo todo!
+
+message_18:
+      text: \n<BROTOPEIRA MIKE>O único pretendente perfeito o suficiente pra SWEETHEART...
+
+#Camera pans to SWEETHEART.
+
+message_19:
+      text: \n<BROTOPEIRA MIKE>\{...é a própria SWEETHEART!
+
+#Audience cheers and hollars.
+#SWEETHEART Ohohohs a lot
+
+message_20:
+        text: \{\{\{\Com[2]\quake[1]SILÊNCIO!!\quake[0]\swh
+
+#Audience stops.
+
+message_21:
+      text: Ahem...\! Comecemos a cerimônia.\swh
+
+#Wedding song begins and SWEETHEART walks down the aisle alone. Camera follows.
+
+message_22:
+      text: \n<BROTOPEIRA MIKE>\}Amados... Estamos reunidos aqui hoje...
+
+#Camera pans to party.
+
+message_23:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: \{HAHAHAHAHAHAHAHAHAHAHAHA!!\}\!<br>A SWEETHEART tá se casando com ela mesma!<br>Isso é tão idiota!\kel
+
+message_24:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: Não ria, KEL!\! Eu... na verdade...\! sinto um pouco de pena dela.\aub
+
+#Camera pans to the stage.
+
+message_25:
+      text: \n<BROTOPEIRA MIKE>...\! Agora... Alguém tem algo a protestar em relação a este matrimônio sagrado?
+
+message_26:
+      text: \n<BROTOPEIRA MIKE>Fale agora ou cale-se para sempre!
+
+#Pause with no noise.
+
+message_27:
+      text: \n<BROTOPEIRA MIKE>Nesse caso...\!<br>Pelo poder investido em mim, eu te declaro...\!<br>SWEETHEART e SWEETHEART!
+
+message_28:
+      text: \n<BROTOPEIRA MIKE>Você já pode beijar a-
+
+message_29:
+      text: \quake[1]\{\{\Com[2]EU PROTESTO!!\quake[0]\who
+
+message_30:
+      text: \Com[2]\{PARE O CASAMENTO IMEDIATAMENTE!!\who
+
+#Camera pans to party.
+#AUBREY is at the end of the aisle.
+#AUBREY takes off her Sprout Mole mask.
+
+message_31:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: Não faça isso, SWEETHEART!\!<br>Esse casamento é uma farsa...\! Se amar é uma coisa, mas...<br>isso tá indo longe demais!\aub
+
+#Camera pans to SWEETHEART.
+#SWEETHEART jumps.
+
+message_32:
+      text: \{VOCÊ DE NOVO NÃO!!\}<br>Como ousa pisar aqui novamente?!\swh
+
+message_33:
+      text: \{\{\Com[2]GUARDAS!?\! \Com[2]GUARDAS!?!?\swh
+
+#Camera pans to AUBREY.
+
+message_34:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: SWEETHEART... Você tá cometendo um erro.\!<br>Você não pode só se casar com si mesma...\aub
+
+message_35:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 9
+      text: Tem que ter alguém perfeito pra você...\! Eu sei que tem!\aub
+
+#KEL jumps.
+
+message_36:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 31
+      text: \}AUBREY, o que cê tá fazendo...?\!<br>Ela vai nos enviar para \c[11]A MASMORRA\C[0] de novo...\kel
+
+#Camera pans to SWEETHEART. Guards are behind her now.
+
+message_37:
+      text: Hmph...\! Você não sabe de nada, fã aleatória do HERO.\swh
+
+#SWEETHEART turns around.
+
+message_38:
+      text: Eu era uma jovem princesa.\!<br>Eu, também, pensei que tinha um par perfeito pra mim no universo...\swh
+
+message_39:
+      text: Mas isso é tudo passado.\swh
+
+message_40:
+      text: Eu não acredito mais em amor verdadeiro!\!<br>Eu jamais vou amar alguém de novo!\swh
+
+message_41:
+      text: \Com[2]A única pessoa que eu vou amar de agora em diante é eu mesma!\swh
+
+message_42:
+      text: Agora, guardas...\!<br>\{PEGUEM ELA!!\swh
+
+#Guards walk forward.
+#Camera pans to HERO, who is now next to AUBREY. KEL and OMORI are behind them. They are closer to the stage now.
+
+message_43:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 27
+      text: \}Umm...\! HERO...\! Eu não acho que isso é uma boa ideia...\kel
+
+#HERO takes off his Sprout Mole mask.
+
+message_44:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 43
+      text: \{\Com[2]SWEETHEART, ME ESCUTA!!\}<br>Você não precisa fazer isso!\her
+
+#Camera pants to SWEETHEART.
+
+message_45:
+      text: O-O que é isso?\! P-Poderia ser?\swh
+
+message_46:
+      text: \sinv[1]HERO!\! Meu HERO veio por mim!\swh
+
+message_47:
+      text: \sinv[1]Oh, meu doce HERO...<br>Eu sabia que você não ia me deixar sozinha assim!\swh
+
+#SWEETHEART walks a step forward.
+
+message_48:
+      text: Você tem um jeito com palavras!\!<br>Pode ter acabado entre a gente, mas meu coração ainda não te esqueceu.\swh
+
+#SWEETHEART turns around.
+
+message_49:
+      text: Eu te dou uma última chance.\swh
+
+#SWEETHEART turns to HERO and walks a step forward.
+
+message_50:
+      text: \{CASE COMIGO, HERO... AQUI E AGORA!!\!\} <br>Faça isso, e eu deixo você e seus fãs viverem!\swh
+
+message_51:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 46
+      text: \Com[2]\{E-ESPERA, O QUÊ!?!?\!\}<br>Eu não posso fazer isso... Isso é loucura!\her
+
+#SWEETHEART turns around.
+
+message_52:
+      text: ...\| ...\| ...\swh
+
+message_300:
+      text: \swhO que é isso?\! Você me rejeitou...\! de novo?
+
+message_301:
+      text: \swhMas...\! Como pode ser?
+
+message_302:
+      text: \swh\quake[1]Eu...\! não...\! entendo...
+#SWEETHEART turns toward party.
+#Camera pans to party.
+
+message_53:
+      text: ...\| ...\| ...\| ...\| ...<br>\!Ohohoho...\swh
+
+
+#SWEETHEART ohohohos.
+
+message_54:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 24
+      text: Ah não...\! Agora você passou dos limites...\kel
+
+message_55:
+      text: Ah...\! Sim...\! Tudo está tão claro agora.\swh
+
+message_56:
+      text: Eu admito...\! Eu estava errada sobre você, HERO.\!<br>Pensei que fosse um companheiro digno...\! mas...\! parece que você só tem inveja de mim, assim como todo mundo!\swh
+
+message_57:
+      text: \Com[2]Sim!\! Deve ser isso!\! Meu visual deslumbrante...\! Meu sorriso encantador... \!Minha personalidade gregária...\! Deve ser tão difícil pra você só de ficar em pé em minha presença!\swh
+
+message_58:
+      text: Bem...\! Não tem mais necessidade para desespero.\!<br>Eu vou acabar com seu sofrimento... \!pessoalmente.\!\swh
+
+message_59:
+      text: \{\quake[1]ADEUS, PLEBEUS MISERÁVEIS!\swh
+
+#SWEETHEART takes out weapon and whips mace.
+
+message_60:
+      text: \Com[2]\{\sinv[1]EU IREI TRANCÁ-LOS NA <br>\c[11]MASMORRA\C[0] PRA SEMPRE!!\swh
+
+
+# =========================================================================================
+# Cutscene: Captain Spaceboy's Return!
+# =========================================================================================
+
+#Trigger: Defeat SWEETHEART.
+
+#Party is on stage with SWEETHEART.
+
+message_70:
+      text: Como pode ser?\! V-Vocês...\! Vocês não são nada!\swh
+
+message_71:
+      text: Como ousam me desafiar...\!<br>Joguem eles na \c[11]MASMORRA\C[0]!\!<br>Guardas...\! Guardas!?!?\swh
+
+#Guards sweat and step back.
+#AUBREY walks up.
+
+message_72:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: Acabou, SWEETHEART...\!<br>O casamento tá cancelado!\aub
+
+message_73:
+      text: N-Não! Eu não vou aceitar isso.\! Só me deixa em paz!\swh
+
+#Spaceship noises are heard above.
+#Party and SWEETHEART look around confused.
+#CAPT. SPACEBOY's ship lands at the end of the aisle. He locks it, making a locked car noise.
+#CAPT. SPACEBOY down the aisle.
+
+message_74:
+      text: \Com[2]Minha SWEETHEART!\! Oh, minha SWEETHEART!<br>Ah, estou tão aliviado que cheguei aqui a tempo.\n<CAP. SPACEBOY>
+
+message_75:
+      text: Você tem que parar com essa loucura agora!\n<CAP. SPACEBOY>
+
+message_76:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 31
+      text: C-CAP. SPACEBOY!?\kel
+
+message_77:
+      text: Seu...\! \Com[2]\{SEU IDIOTA!!\swh
+
+message_78:
+      text: Eu pensei que tinha dito...<br>pra nunca aparecer na minha frente de novo!\swh
+
+message_79:
+      text: \sinv[1]Oh, SWEETHEART!\! Minha, SWEETHEART!\!<br>Minha doce rosquinha recheada de geleia!\n<CAP. SPACEBOY>
+
+message_80:
+      text: Por favor, olhe dentro do seu coração e me dê outra chance.\n<CAP. SPACEBOY>
+
+message_81:
+      text: Eu não devia ter te deixado esperando todos esses dias.\n<CAP. SPACEBOY>
+
+message_82:
+      text: Você...\! O-O que você está fazendo?\swh
+
+message_83:
+      text: Me desculpe não ter feito isso antes.\n<CAP. SPACEBOY>
+
+#CAPT. SPACEBOY holds up ring, gets on his knees and pulls out a ring.
+
+message_84:
+      text: \{\sinv[1]CASE COMIGO, SWEETHEART!!\}<br>Aqui mesmo neste palco!\n<CAP. SPACEBOY>
+
+message_85:
+      text: Oh... minha nossa!\! Isso... Isso foi tão derrepente!\!<br>Quão...\! Quão...\! Quão...\! \Com[2]\sinv[1]Quão romântico!\swh
+
+message_86:
+      text: BROTOPEIRA MIKE...\! Eu lhe ordeno que case a gente imediatamente!\swh
+
+message_87:
+      text: \n<BROTOPEIRA MIKE>Sim! Agora mesmo, minha soberana!
+
+message_88:
+      text: \n<BROTOPEIRA MIKE>\}Amados, estamos reunidos aqui hoj-
+
+message_89:
+      text: Oh, esqueça as formalidades, MIKE! <br>Amor verdadeiro não pode esperar!\swh
+
+#SMM sweats.
+
+message_90:
+      text: \n<BROTOPEIRA MIKE>S-Sim, minha princesa!
+
+message_91:
+      text: \n<BROTOPEIRA MIKE>Ahem...
+
+message_92:
+      text: \n<BROTOPEIRA MIKE>Pelo poder investido em mim... Eu lhes declaro...<br>\!\{\Com[2]SWEETHEART e MARIDO ESPACIAL!
+
+message_93:
+      text: \n<BROTOPEIRA MIKE>Você já pode beijar a noiva!
+
+#SWEETHEART and SPACEHUSBAND kiss.
+
+message_94:
+      text: \sinv[1]Oh SWEETHEART...\!<br>Vamos viajar através do universo todo...<br>e deixar tudo isso para trás!\n<MARIDO ESPACIAL>
+
+message_96:
+      text: \sinv[1]Sim! Sim, meu marido!<br>\!Eu irei a qualquer lugar desde que seja com você!\swh
+
+message_97:
+      text: Vamos sair daqui, minha SWEETHEART!<br>Estivemos separados por muito tempo.\n<MARIDO ESPACIAL>
+
+message_98:
+      text: Venha pra minha nave!\n<MARIDO ESPACIAL>
+
+message_99:
+      text: Sim! É claro, meu querido!\!<br>Mas primeiro...\! tem uma última coisa que tenho que fazer.\swh
+
+message_100:
+      text: BROTOPEIRA MIKE, me dê o botão!\swh
+
+message_101:
+      text: \n<BROTOPEIRA MIKE>\Com[2]Agora mesmo, minha rainha!
+
+#SMM walks out then comes back and hands something to SWEETHEART.
+#SWEETHEART, MARIDO ESPACIAL, and SMM walk towards aisle.
+#SWEETHEART holds up a button.
+#SWEETHEART turns around.
+
+message_102:
+      text: Não precisaremos mais de tudo isso!\swh
+
+#SWEETHEART presses button and stage explodes. There is now a big hole in it.
+#SWEETHEART OHOHOHOHO's the whole time.
+#SWEETHEART looks at SBH.
+
+message_103:
+      text: Estou pronta agora, querido.\swh
+
+message_104:
+      text: Depois de tanto tempo, podemos ficar juntos...\!<br>\sinv[1]Venha, minha rainha! Nossa carruagem nos aguarda!\n<MARIDO ESPACIAL>
+
+#SWEETHEART and SPACEHUSBAND board his ship and fly away.
+#Camera pans back to party.
+#AUBREY looks at KEL.
+
+message_105:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 11
+      text: E que final feliz...\! Eu não acho que isso vai acabar bem, nem um pouco.\aub
+
+#KEL looks at AUBREY.
+
+message_106:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 26
+      text: É...\! Eu acho que isso foi um completo desperdício de tempo.\kel
+
+message_107:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 1
+      text: É...\! O que eu e OMORI temos é muito mais significativo e genuíno... Né, OMORI?\aub
+
+
+message_109:
+      text: \n<BROTOPEIRA MIKE>Sniff...\! Vocês não amam finais felizes?
+
+#==========================================================================================
+# Cutscene: Misc
+# =========================================================================================
+
+message_120:
+      text: Você gostaria de pular no buraco? Pode não haver volta.

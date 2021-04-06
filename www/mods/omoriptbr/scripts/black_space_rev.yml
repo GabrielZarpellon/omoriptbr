@@ -1,0 +1,1109 @@
+#BLACK SPACE REVAMP GUIDE
+
+#--------------------------------------------------------------------------------------------
+
+#THE HOLE IN BASIL'S HOUSE:
+
+#The black letters cause the hole in BASIL's house to get bigger.
+
+#1 necessary Black letter- Map431
+#No BGM
+
+#6 Black letters - Map432, Map357
+#BGM: Duet
+#If you examine the hole:
+message_1:
+      text: O chão está afundando.
+
+#All necessary Black letters - Map 434, Map 358
+#No BGM
+
+#--------------------------------------------------------------------------------------------
+
+#BEFORE SW STAGE HOLE:
+
+#As you attempt to leave the stage,
+#BASIL calls in for help.
+
+message_20:
+      text: \bas\fn<OMORI_GAME>\n[8]...
+
+#*OMORI looks up*
+
+message_21:
+      text: \bas\fn<OMORI_GAME>Por favor, não...\| me deixe sozinho...\| de novo...
+
+#*Camera pans to hole*
+#*Then back to party*
+
+message_22:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: \aubQual é o problema, OMORI?\! Tem alguma coisa errada?
+
+#Examine Hole:
+message_23:
+      text: É uma longa queda...\| Você quer pular?
+
+
+#--------------------------------------------------------------------------------------------
+
+#BLACK SPACE
+
+#Gameplay:
+
+#In Black Space Entrance, there will be many black doors and no footprints.
+#Instead, going through any black door in Black Space Entrance will teleport the player to the same Required Room.
+
+#There are 6 Required Rooms before you enter the room with BASIL.
+#The player will be teleported to them chronologically from 1-6 each time they enter a black door. In the true route, the basil deaths will happen the same way.
+
+#Once the PLAYER enters a Required Room, the door back should disappear, forcing the Player to leave by coming in contact with a RED HAND or using STAB, which teleports OMORI back to the blanket in Black Space Entrance.
+
+#There should be one or more RED HANDS placed in each area.
+
+#Essentially, the PLAYER isn't required to go through the contents of the Required Rooms to progress the game if they STAB themselves as soon as they enter, which is fine.
+
+#Inside the required rooms will be hidden ways to discover other parts of Black Space (the parts we have previously created). I will create a guide on how to split up those areas and input them later.
+
+#--------------------------------------------------------------------------------------------
+
+#Black Space Entrance:
+
+#The lightbulb is missing. Flavor Text:
+message_40:
+      text: Um fio solto.\! Não há nenhuma \c[4]LÂMPADA\c[0] aqui.
+
+#The laptop is smashed outside of the blanket. Flavor Text:
+message_41:
+      text: Algumas CHAVES estão faltando.
+
+#Sketchbook shows scribbled out drawings, same way as White Space.
+
+#Laptop replaced with picnic basket. Flavor Text:
+message_42:
+      text: Uma cesta de piquenique.\! Você quer salvar?
+#*Open up save menu
+
+#--------------------------------------------------------------------------------------------
+
+#Required Room 1: Empty Field
+
+
+
+#BGM: bs_drone.ogg
+
+#Ghostlike creatures wander in an empty field map. (Map265)
+
+#If you talk to one, they will say 1 of these messages in chronological order. After you've gone through all of the text, they will say “Pitter-patter” indefinitely.
+
+message_60:
+      text: \n<RABISCO>Você está perdido?\! Não se preocupe.\!<br>As mãos vermelhas sabem o caminho de volta.
+
+message_61:
+      text: \n<RABISCO>Você está procurando por alguém?\! Ou por alguma coisa?
+
+message_62:
+      text: \n<RABISCO>Alguém já fez isso antes.\!<br>Foi você?\! Fui eu?\! Foi o menino das flores?
+
+message_63:
+      text: \n<RABISCO>Se você estivesse perdido, para onde você iria?\!<br>Algum lugar familiar.\! Algum lugar seguro, cheio de boas lembranças.\!<br>Se ao menos existisse tal lugar.
+
+message_64:
+      text: \n<RABISCO>Não há nada aqui.\! Não sobrou nada.
+
+message_65:
+      text: \n<RABISCO>Piti-pati...\! piti-pati...
+
+#--------------------------------------------------------------------------------------------
+
+#Required Room 2: Subconscious Spill
+
+
+#BGM: bs_distance.ogg
+
+#Talk to LOQUACIOUS CAT
+
+message_90:
+      text: \n<GATO TAGARELA>OI EU SOU O GATO TAGARELA ME PERGUNTA QUALQUER COISA
+
+#Choices
+message_101:
+      text: Qual o significado da vida?
+message_102:
+      text: Por que estamos aqui?
+message_103:
+      text: Qual é o significado do amor verdadeiro?
+message_104:
+      text: Como posso alcançar a felicidade?
+message_105:
+      text: Livre arbítrio existe?
+message_106:
+      text: O que acontece depois que morremos?
+message_107:
+      text: Cereal é uma sopa?
+
+#Random Answer Pool:
+message_91:
+      text: \n<GATO TAGARELA>DOIS METROS DE COURO
+message_92:
+      text: \n<GATO TAGARELA>UMA AGULHA DE COSTURA GROSSA
+message_93:
+      text: \n<GATO TAGARELA>UM TOMATE FEITO DE PANO
+message_94:
+      text: \n<GATO TAGARELA>UM PAR DE TESOURAS ENFERRUJADAS
+message_95:
+      text: \n<GATO TAGARELA>UMA PEQUENA MESA DE MADEIRA
+message_96:
+      text: \n<GATO TAGARELA>MUITOS E MUITOS PINOS
+message_97:
+      text: \n<GATO TAGARELA>UM PAR DE BOTÕES GRANDES E BONITOS
+message_98:
+      text: \n<GATO TAGARELA>UMA SACOLA DE ALGODÃO BRANCO
+
+#Most things in this area should say:
+message_99:
+      text: Você está longe de casa.
+
+#Houses with small doorways:
+message_100:
+      text: Muito pequeno.
+
+#--------------------------------------------------------------------------------------------
+
+#Required Room 3: Suspense Room
+
+#BGM: bs_fleur.ogg
+
+#Most Things:
+message_123:
+      text: Muita dor...\| muita dor...\| muita dor...
+
+##--------------------------------------------------------------------------------------------
+
+#Required Room 4: Cat Dissection
+
+#BGM: bs_56_12_2.ogg
+
+#Player enters from the top door of an operating room with a cat on the table.
+
+#A spotlight goes on the table.
+
+#There's a cat butler that acts as the assistant. He doesn't have to change direction.
+
+#Talk to BUTLER:
+message_140:
+      text: \n<MORDOMO>MEWO tem sido muito, muito má.
+
+message_150:
+      text: \n<MORDOMO>Esperando algo acontecer?
+
+message_151:
+      text: \n<MORDOMO>Se você quer uma saída...
+
+message_152:
+      text: \n<MORDOMO>Sempre há uma...\| mas...
+
+#Examine Table:
+message_141:
+      text: MEWO te encara.\! Ela não sabe o que está acontecendo.
+
+message_142:
+      text: Você quer dilacerar a MEWO?
+
+#[YES]
+
+message_143:
+      text: MEWO te encara.\! Ela inclina a cabeça de curiosidade.
+#Do you want to cut open MEWO?
+
+#[YES]
+
+message_144:
+      text: MEWO te encara.\! Ela arregala seus olhos.\! Ela quer ir embora.
+#Do you want to cut open MEWO?
+
+#[YES]
+
+message_145:
+      text: MEWO te encara.\! Ela se debate para tentar se libertar.
+#Do you want to cut open MEWO?
+
+#[YES]
+
+message_146:
+      text: MEWO te encara.\! Os olhos dela estão cheios de desespero.
+#Do you want to cut open MEWO?
+
+#[YES]
+
+message_147:
+      text: MEWO te encara.\!<br>Ela tenta gritar, mas não há som.
+#Do you want to cut open MEWO?
+
+
+#[YES]
+
+message_148:
+      text: MEWO te encara.\! Ela não sabe o que está acontecendo.
+#Do you want to cut open MEWO?
+
+#[YES]
+
+#*When MEWO is cut open, it makes a violin SFX.*
+message_149:
+      text: Você dilacerou a MEWO.
+
+#--------------------------------------------------------------------------------------------
+
+#Required Room 5: Forest of Stumps
+
+
+#BGM: bs_glade.ogg
+
+#As the Player walks more to the right, the dialogue will pop up more often and become more intense, switching to the dialogue with more words.
+
+#Dialogue:
+message_170:
+      text: Mentiroso.
+
+#Dialogue:
+message_171:
+      text: Mentiroso. Mentiroso. Mentiroso.
+
+#Dialogue:
+message_172:
+      text: Mentiroso. Mentiroso. Mentiroso. Mentiroso. Mentiroso. Mentiroso. Mentiroso.
+#There should be Something enemies in this map as well.
+#In battle, they will also say: Liar. Liar. Liar.
+#When you enter a battle with Something, it does not change the BGM.
+
+#When Player reaches the end of the stump path, something is hovering over one of the stumps. It will say:
+
+message_173:
+      text: \n<SOMETHING>\n[8]...\| Eu te amo...
+
+#Then it will start following you and every 6 seconds it will repeat the message. It will disappear if you leave the map.
+
+message_174:
+      text: Você quer pular?
+
+
+#--------------------------------------------------------------------------------------------
+
+#Required Room 6: Temple
+
+
+
+#BGM: bs_orchard.ogg
+
+#It's snowing on this map.
+#There are few lil basil's on the path.
+
+#There's a flower crown. Flavor text:
+
+message_189:
+      text: Você quer pegar a \c[4]TIARA DE FLORES\c[0]?
+
+message_190:
+      text: Uma \c[4]TIARA DE FLORES\c[0].\! Foi preservada pelo frio.
+
+message_191:
+      text: Você pegou uma \c[4]TIARA DE FLORES\c[0].
+
+#There's an abandoned church on top of the hill.
+#The back parallax should be either basil_something (maybe remina).
+
+#Enter the abandoned church to find Basil.
+
+#--------------------------------------------------------------------------------------------
+
+#TRUE ROUTE - THE FIRST BASIL DEATH:
+
+
+
+#BGM: bs_temple.ogg
+
+#BASIL without flower crown is hanging where the crucifix is in the empty church.
+#There is a staircase leading up to him.
+
+#Camera pans to BASIL.
+
+message_192:
+      text: \basOMORI...\| Você está aqui...
+
+#Camera pans to OMORI, giving PLAYER control.
+
+#Talk to BASIL
+message_194:
+      text: \bas\n[8]...\| Por que você terminou desse jeito?
+
+#*Something sucks in BASIL a little*
+
+#Talk to BASIL
+message_195:
+      text: \bas\n[8]...
+
+#*Something sucks in BASIL a little*
+
+#Talk to BASIL
+message_196:
+      text: \bas\n[8]...\| \n[8]...
+
+#*Something sucks in BASIL a little*
+
+#Talk to BASIL
+message_197:
+      text: \basOMORI...\| OMORI...\| OMORI...
+
+#*Something completely sucks in BASIL*
+
+#Examine BASIL's something:
+message_198:
+      text: Você quer seguir o BASIL?
+#[YES/NO]
+
+#[YES]
+
+#OMORI is sucked into BASIL's Something and is teleported to the dark Lamp Room.
+
+#BGM: event_bad_morning.ogg
+
+
+
+#Shadow BASIL is staring outside the window.
+
+#Camera pans to message Basil
+message_199:
+      faceset: MainCharacter_Basil
+      faceindex: 10
+      text: \basTem alguma coisa lá fora.\|<br>Está me chamando...\| e está chamando você também.
+
+#PLAYER regains control.
+
+#Talk to BASIL
+
+#BASIL turns to face PLAYER*
+message_200:
+      faceset: MainCharacter_Basil
+      faceindex: 10
+      text: \basVamos juntos.
+
+#BGM fades out.
+
+#BASIL opens the door.
+#As he opens the door, fear border surrounds the screen.
+
+#Black arms grab BASIL as he tries to escape.
+
+message_201:
+      text: \bas\com[2]\{\{\quake[1]OMORI! AJUDA!!
+
+#He runs back and tries to claw his way out, but is unsuccessful and leaves scratch marks on the floor.
+#He is dragged out by the black hands.
+
+
+
+#The door shuts, then everything disappears.
+
+#PLAYER is in a completely black space that loops with nothing around.
+#BGS: boss_something_heartbeat.ogg
+
+#PLAYER must stab himself. (Heartbeat BGS stops)
+
+#--------------------------------------------------------------------------------------------
+#Note: After this point, once BASIL joins your party, STAB option should be blacked out.
+#--------------------------------------------------------------------------------------------
+
+#TRUE ROUTE - WATERMELON BASIL DEATH:
+
+
+#BGM: bs_bloom.ogg
+
+#PLAYER ends up in Black Space Entrance.
+#He must go through another door, which will be a watermelon patch.
+#This map has a fixed camera (like the gate)
+
+#When entering proximity of BASIL without flower crown:
+message_220:
+      text: \basOMORI... Você voltou por mim!
+
+message_221:
+      text: \basIsso é a minha \c[4]TIARA DE FLORES\c[0]?\! Estou tão feliz que encontrou.
+
+message_222:
+      text: Você deu ao BASIL a \c[4]TIARA DE FLORES\c[0].
+
+message_223:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: \basVamos sair daqui...\! Eu vou te seguir!
+
+message_224:
+      text: BASIL entrou em seu grupo.
+
+message_225:
+      faceset: MainCharacter_Basil
+      faceindex: 2
+      text: \basCultivar melancias tem sido divertido, mas sinto muita falta das minhas flores em casa...\! Como elas estão?\! Você cuidou delas enquanto eu estava fora? Hehe...
+
+message_226:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: \basMelancias são deliciosas!
+
+message_227:
+      faceset: MainCharacter_Basil
+      faceindex: 2
+      text: \basA gente costumava cortar e comer elas o tempo todo na praia!\! Ainda me lembro do KEL com aquelas sementes de melancia no rosto, haha...
+
+message_228:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: \basFérias de verão com os amigos eram as melhores, não eram?
+
+
+#The scenery slowly disappears and the map turns into the empty map with just watermelons.
+
+#One of the watermelons will break BASIL. While this happens, BGM immediately stops.
+#After this, a RED HAND will appear on the map.
+
+#After 6 seconds, BGS: boss_something_heartbeat.ogg will start looping until you use STAB.
+#STAB or use RED HAND to go back to BLACK SPACE Entrance.
+
+#--------------------------------------------------------------------------------------------
+
+#TRUE ROUTE - SPIDER BASIL DEATH:
+
+
+#BGM: bs_5ths.ogg
+
+message_250:
+      faceset: MainCharacter_Basil
+      faceindex: 2
+      text: \basOh, graças a Deus você está aqui, OMORI.\!<br>Eu pensei que ficaria preso aqui para sempre.
+
+message_251:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: \basUfa...\! Me sinto muito melhor.
+
+message_252:
+      faceset: MainCharacter_Basil
+      faceindex: 0
+      text: \basNão acredito que você veio aqui para me salvar.\! Eu senti tanto sua falta!
+
+message_253:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: \basAgora que você está aqui, posso finalmente ir para casa.\!<br>Vai na frente, OMORI!
+
+#*Walk a bit
+
+message_254:
+      faceset: MainCharacter_Basil
+      faceindex: 6
+      text: \basSabe...\! Acho que as aranhas são mal-entendidas...\!<br>Elas podem parecer meio assustadoras, mas elas nunca atacam humanos, a menos que se sintam ameaçadas.
+
+message_255:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: \basSem falar que elas também são umas das minhas maiores ajudantes na jardinagem, já que comem muitas pragas prejudiciais as plantas.\! É uma questão de equilíbrio da natureza!
+
+message_256:
+      faceset: MainCharacter_Basil
+      faceindex: 0
+      text: \basEu me lembro de um tempo atrás...\! Você me disse que uma aranha grande caiu no seu ombro quando você ia mergulhar no lago no nosso ponto de encontro secreto!
+
+message_257:
+      faceset: MainCharacter_Basil
+      faceindex: 2
+      text: \basEu sei que a aranha deve ter parecido assustadora para você, mas eu prometo que você parecia muito mais assustador para a aranha!\! Sem ofensas, é claro... Haha...
+
+#*Walk more
+
+message_258:
+      faceset: MainCharacter_Basil
+      faceindex: 3
+      text: \basTem tantas aranhas por aqui de repente...\!<br>Eu sinto elas rastejando para cima de mim.\!<br>Talvez estejam apenas dizendo olá?
+
+message_259:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: \basOi, aranhas! Sou eu, seu amigo BASIL!
+
+#*Walk more
+
+message_260:
+      faceset: MainCharacter_Basil
+      faceindex: 3
+      text: \bas\com[2]Ai! Elas estão me mordendo!
+
+message_261:
+      faceset: MainCharacter_Basil
+      faceindex: 4
+      text: \basAh... Eu provavelmente estou assustando elas.
+
+message_262:
+      faceset: MainCharacter_Basil
+      faceindex: 2
+      text: \basCalminha, aranhas. Está tudo bem!\! Eu não estou aqui para machucar vocês!
+
+#*Walk more
+
+message_263:
+      faceset: MainCharacter_Basil
+      faceindex: 3
+      text: \basSão tantas aranhas... Eu não consigo tirar elas!
+
+#BASIL looks around.
+
+message_264:
+      faceset: MainCharacter_Basil
+      faceindex: 4
+      text: \basUgh...
+
+#BASIL sprite goes into fetal position.
+
+message_265:
+      faceset: MainCharacter_Basil
+      faceindex: 4
+      text: \basOMORI...
+
+#OMORI steps back.
+
+message_266:
+      faceset: MainCharacter_Basil
+      faceindex: 5
+      text: \basOMORI...\| Por favor...\| ajuda...
+
+#BASIL is eaten.
+
+#After 6 seconds, BGS: boss_something_heartbeat.ogg will start looping until you use STAB.
+#STAB or use RED HAND to go back to BLACK SPACE Entrance.
+
+message_267:
+      text: Uma aranha bebê morta.\! Ela morreu de tristeza.
+
+message_268:
+      text: Os bebês aranhas choram pela morte de sua mãe.
+
+message_269:
+      faceset: MainCharacter_Basil
+      faceindex: 3
+      text: \basUmm...\! OMORI? Você não está esquecendo de alguém?
+
+#--------------------------------------------------------------------------------------------
+
+#TRUE ROUTE - ELEVATOR BASIL DEATH:
+
+
+#BGM: bs_nawa.ogg
+
+message_290:
+      faceset: MainCharacter_Basil
+      faceindex: 2
+      text: \basAh... OMORI! É você mesmo?<br>\!Como você me encontrou?
+
+message_291:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: \basO KEL, a AUBREY, e o HERO estão aqui também?\!<br>Eu sinto muita falta deles!
+
+message_292:
+      faceset: MainCharacter_Basil
+      faceindex: 0
+      text: \basEstou feliz que a casa da árvore ainda está de pé.\! Todos trabalharam muito para fazer isso.
+
+message_293:
+      faceset: MainCharacter_Basil
+      faceindex: 6
+      text: \bas...\! Hã?\! Espera, do que eu tô falando?
+
+message_294:
+      faceset: MainCharacter_Basil
+      faceindex: 2
+      text: \basVamos para casa, OMORI.
+
+#*On the way down from the top point of the construction, an elevator comes up.
+
+message_295:
+      faceset: MainCharacter_Basil
+      faceindex: 0
+      text: \basUm elevador?\! Pra onde será que isso vai?\! Talvez nos leve de volta para casa!
+
+#*Go into elevator.
+#*Rest is same as before. End up in same map you came from.
+
+#After 6 seconds, BGS: boss_something_heartbeat.ogg will start looping at 50% or so until you use STAB.
+#STAB or use RED HAND to go back to BLACK SPACE Entrance.
+
+message_296:
+      text: Uma cama não muito confortável.\! Você quer dormir?
+
+#--------------------------------------------------------------------------------------------
+
+#TRUE ROUTE - RAFT BASIL DEATH:
+
+
+
+#BGM: bs_jungle_cruise.ogg
+
+message_320:
+      text: \basOMORI...\! Psst...\! OMORI!\! Estou bem aqui!
+
+#BASIL comes out from the stump.
+
+message_321:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: \basTchã-rã!\! Surpreso em me ver?\!<br>Estou me escondendo nesse toco desde que cheguei aqui.
+
+message_322:
+      faceset: MainCharacter_Basil
+      faceindex: 6
+      text: \basNão sou o melhor em me defender, mas acho que sou muito bom em sobreviver pelo menos.
+
+message_323:
+      faceset: MainCharacter_Basil
+      faceindex: 2
+      text: \basEnfim... eu sabia que você viria me salvar, OMORI!\! E tenho certeza que seremos capazes de sair deste lugar agora que você está aqui.
+
+message_324:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: \basEste lugar parece um pouco perigoso, mas... eu confio em você.
+
+#*walk a bit before getting on raft*
+
+message_325:
+      faceset: MainCharacter_Basil
+      faceindex: 4
+      text: \basE-Ei, OMORI...\! Você está agindo meio frio.\!<br>Eu fiz algo de errado?
+
+#While walking, OMORI finds a raft.
+
+
+message_326:
+      text: Você quer subir nessa jangada?
+#[YES/NO]
+
+#[YES]
+#Raft scene (same as before)
+
+#After screen turns black, PLAYER gets off raft at the same place he got on.
+#You can take the raft again with basil's body still on it, but nothing happens.
+
+#Heartbeat no longer plays.
+#STAB or use RED HAND to go back to BLACK SPACE Entrance.
+
+#--------------------------------------------------------------------------------------------
+
+#TRUE ROUTE - FRIENDS BASIL DEATH:
+
+
+
+#BGM: bs_friend1.ogg
+
+message_350:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: \basOMORI, você está aqui!
+
+message_351:
+      faceset: MainCharacter_Basil
+      faceindex: 2
+      text: \basAh... Eu tô tão aliviado.
+
+message_352:
+      faceset: MainCharacter_Basil
+      faceindex: 6
+      text: \basTentei encontrar o caminho para sair, mas... eu sempre me perdia.
+
+message_353:
+      faceset: MainCharacter_Basil
+      faceindex: 4
+      text: \basMe desculpa...\! Você deve estar cansado de me salvar o tempo todo.\! Talvez eu devesse ter tentado mais.
+
+message_354:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: \basDe qualquer forma, está tudo bem agora que você está aqui.\!<br>Vamos para casa!
+
+#*Walk a bit
+
+message_355:
+      faceset: MainCharacter_Basil
+      faceindex: 2
+      text: \basTodo esse tempo que eu estive aqui, eu fiquei olhando o meu \c[4]ÁLBUM DE FOTOS\c[0] para me fazer compainha.
+
+message_356:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: \basQuando eu estava com medo, eu sempre olhava as nossas memórias felizes juntos.\! Me ajudou a manter minhas esperanças!
+
+message_357:
+      faceset: MainCharacter_Basil
+      faceindex: 0
+      text: \basSinto que faltam algumas fotos, mas talvez eu só esteja imaginando coisas...
+
+message_358:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: \basEnfim, como estão AUBREY, KEL e o HERO?\! Espero que vocês não tenham ficado preocupados comigo.\! Mal posso esperar para ver todos de novo!
+
+#*HERO comes
+
+message_359:
+      faceset: MainCharacter_Basil
+      faceindex: 2
+      text: \basHERO?\! É você?
+
+message_360:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: \basOMORI! Olha, é o HERO!\!<br>Você não me disse que eles já estavam aqui!
+
+message_361:
+      faceset: MainCharacter_Basil
+      faceindex: 2
+      text: \basVenha! Vamos seguir ele!
+
+#Beat-Up Scene (Same as before)
+message_362:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: \basKEL!\! AUBREY!\! É tão bom ver vocês, pessoal!
+
+message_363:
+      faceset: MainCharacter_Basil
+      faceindex: 2
+      text: \basComo vocês estão?\! Sentiram minha falta? Hehe...
+
+message_364:
+      faceset: MainCharacter_Basil
+      faceindex: 3
+      text: \basEs-espera...\! O que...\! O que vocês estão fazendo?
+
+message_365:
+      faceset: MainCharacter_Basil
+      faceindex: 3
+      text: \basOMORI-
+
+#After beating up BASIL, you can still talk to the party members:
+
+message_366:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 13
+      text: \aubOi OMORI! Estávamos esperando que você viesse.\!<br>Quer jogar cartas com a gente? Vamos começar outro jogo agora!
+
+message_367:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 50
+      text: \her\n[3] e o \n[2] têm brigado muito de novo...\!<br>Você pode até pensar que eles se cansam depois de um tempo, mas os dois são cheios de energia.
+
+message_368:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 34
+      text: \kel\SINV[1]Maaaaaaaano...\sinv[0]\!<br>a AUBREY sempre consegue o que ela quer...
+
+#Heartbeat no longer plays.
+#STAB or use RED HAND to go back to BLACK SPACE Entrance.
+
+#--------------------------------------------------------------------------------------------
+
+#TRUE ROUTE - RED SPACE:
+
+#BGM: bs_listening.ogg
+
+#When you STAB or use RED HAND, you enter a map with the hands parallax.
+
+#At the end of the map is BASIL, who is being held by the RED HANDS.
+
+#There are drag marks on the floor (same one as from the lamp room).
+
+message_391:
+      text: \basMe...\| Me desculpa mesmo...\| Você me perdoa?\| Meu melhor amigo...
+
+message_392:
+      text: \basPor favor, isso machuca...\|<br>Fala pra elas pararem.
+
+#RED HANDS pull BASIL up.
+
+message_393:
+      text: \bas\com[2]Es-espera! O que você tá fazendo!?
+
+message_394:
+      text: \basFala pra elas pararem!
+
+#*BASIL struggles.
+
+message_395:
+      text: \bas\fn<OMORI_GAME>Por favor, fala pra elas pararem!
+
+message_396:
+      text: \bas\fn<OMORI_GAME>\{\com[2]\quake[1]ME AJUDA!!!
+
+#OMORI stabs BASIL (no PLAYER control)
+
+#BASIL falls to the floor. (Maybe BGM doesn't stop)
+
+#*OMORI steps over BASIL and walks up the staircase.
+
+#*The RED hands form the way up and OMORI takes his throne.
+
+#--------------------------------------------------------------------------------------------
+
+#NEUTRAL ROUTE - THE FIRST BASIL + SOMETHING CHASE:
+
+#After grabbing Basil, it will say:
+
+
+message_410:
+      text: BASIL entrou no grupo.
+
+#(During this time, switch the church map to an alternate longer map)
+
+#The camera pans up back to the Something shape.
+#Something shows its eyes and mouth and begins to chase OMORI and BASIL.
+
+#Start playing BGM: bs_loop5.ogg
+
+
+#At the bottom of the map is Player's Something, which blocks your way no matter where you go (like SNALEY). So you have no choice but to run into him.
+
+#PLAYER (not OMORI) is in a room with just SOMETHING in the spotlight.
+#PLAYER walks up to SOMETHING and examines it to start the fight.
+
+#During the Something fight, Player's skills are taken away one by one. Player is defeated by Something and is taken to the game over screen.
+#When on the game over screen, select “Retry” to come back as OMORI instead of PLAYER.
+
+#OMORI fights SOMETHING and defeats it.
+#Note: OMORI should learn a special skill that utilizes RED HANDS
+
+#When Something is defeated, OMORI wakes up.
+
+message_411:
+      text: \basOMORI! OMORI!\! Acorda!
+
+message_412:
+      text: \basTem uma luz vindo do teto!\|<br>Será que é a saída?
+
+#RED HANDS come closer.
+message_413:
+      faceset: MainCharacter_Basil
+      faceindex: 6
+      text: \bas...\! OMORI?
+
+message_414:
+      text: \bas...\| OMORI...\| Você está tão pesado...
+
+message_415:
+      text: \basVamos lá...\| Subir as escadas...
+
+message_416:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: \basUfa... Graças a Deus você está acordado.
+
+message_417:
+      faceset: MainCharacter_Basil
+      faceindex: 2
+      text: \basVocê está machucado?\! Eu estava tentando puxar você em direção a essa luz branca no topo da escada...
+
+message_418:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: \basEu estou com uma sensação muito boa dessa luz...\!<br>Vamos subir juntos!
+
+#OMORI wakes up and looks up.
+
+#The RED HANDS form a staircase.
+
+#The staircase goes into a white light, then PLAYER and BASIL come out through a few different maps with different parallaxes (music changes every time), then lastly a space parallax. Should feel very magical.
+
+#At the end of the RED HANDS staircase in the space parallax map is NEIGHBOR'S BEDROOM map.
+
+#--------------------------------------------------------------------------------------------
+
+#SLEEPYTIME:
+#Map: Neighbor's Bedroom
+#Activation: Exit Black Space after saving Basil
+
+#BGM: playing_forever.ogg
+
+#In this map, there are 6 beds.
+#MARI, HERO, KEL, and AUBREY are already sleeping in theirs.
+
+#You look at the RED HANDS. The RED HANDS will leave, so there will no longer be a staircase down.
+
+#BASIL will look at you and then walk to his bed and go to sleep.
+
+#When you go to sleep, you wake up in FA.
+
+#*One day left... Slide shows*
+
+message_420:
+      text: \aub\sinv[1]...\| Vamos nos aventurar, OMORI...\| Apenas...\| nós dois...
+
+message_421:
+      text: \sinv[1]Ronco...\| Ronco...\| Ronco...\| Ronco...\kel
+
+message_422:
+      text: \kel\sinv[1]Ronco...\| Espera aí, OMORI...\| Só mais cinco minutos...
+
+message_423:
+      text: \her\sinv[1]...\| Quem quer...\| um abraço em grupo?
+
+message_424:
+      text: \bas\sinv[1]...\| Podemos descansar agora, OMORI...\| Nossos amigos estão aqui...
+
+message_425:
+      text: \mar\sinv[1]...\| Sempre estarei aqui para te proteger...\| irmãozinho...
+
+message_426:
+      text: O cesto de frutas da MARI.\! Sempre cheio.
+
+message_427:
+      text: Um liquidificador.
+
+message_428:
+      text: Flores para todo mundo.
+
+message_429:
+      text: Um vaso de planta.
+
+message_430:
+      text: Uma torradeira.
+
+message_431:
+      text: Alguns chapéus de festa.
+
+message_432:
+      text: Está passando um filme na TV.\!<br>Quatro garotas estão tocando rock em um festival.
+
+#------------------------------------------------------------------------------------------
+
+#NEUTRAL ROUTE - DAYTIME HALLUCINATIONS
+#*Player wakes up & plays cleaning mini-game sorting boxes with Something watching over him all day*
+
+#There should be various spooks around the house that puts the player at unease.
+#Something's appear in the “black area” around the interior maps.
+
+#*After cleaning, player goes to sleep.
+
+#*Omori saves Player animation plays.
+
+#*Then slides: Welcome to White Space.
+#*You have been here for as long as you can remember.
+
+#*The laptop is still working like the first time you go there (before black letters)
+
+#*You can enter through the white door and go to Neighbor's Room.
+
+#--------------------------------------------------------------------------------------------
+
+#BASIL'S MEMORIES:
+
+#*After being caught by the spotlights, PLAYER has a falling animation before he arrives into Red Room.
+
+#*Make it mandatory to have the photos sorted in the book during basil's memories. Sorting album pops up every time you get a photo.
+
+#when you screw in the light bulb, have a slide of the lightbulb flickering, and then turning on (white_lightbulb[3x1].png)
+
+# --------------------------------------------------------------------------------------------
+
+#CROSSROADS:
+
+#*Make sure you can access FA album with [Q] and BS album with [W]
+
+#*Streetlights with memories should be timed so that they light up as PLAYER is running. PLAYER shouldn't have to walk back to “catch” the spotlight.
+
+
+# --------------------------------------------------------------------------------------------
+
+#message_500:
+#      text: \who\fn<OMORI_GAME>It's just not good enough.
+
+# message_501:
+#       text: \who\fn<OMORI_GAME>She just needs some rest.
+
+# message_502:
+#       text: \who\fn<OMORI_GAME>You shouldn't have looked.
+
+# message_503:
+#       text: \who\fn<OMORI_GAME>She just needs some rest.
+
+# message_504:
+#       text: \who\fn<OMORI_GAME>This isn't real.
+
+# message_505:
+#       text: \who\fn<OMORI_GAME>Can you tell us the truth?
+
+# message_506:
+#       text: \who\fn<OMORI_GAME>This isn't real.
+
+# message_507:
+#       text: \who\fn<OMORI_GAME>This is the only way.
+
+# --------------------------------------------------------------------------------------------
+#BLANK FACES
+
+message_500:
+      faceset: MainCharacter_Mari
+      faceindex: 35
+      text: \mar
+
+message_501:
+      faceset: MainCharacter_Mari
+      faceindex: 34
+      text: \her
+
+message_502:
+      faceset: MainCharacter_Mari
+      faceindex: 33
+      text: \kel
+
+message_503:
+      faceset: MainCharacter_Mari
+      faceindex: 32
+      text: \aub
+
+message_504:
+      faceset: MainCharacter_Mari
+      faceindex: 28
+      text: \bas
+
+message_505:
+      faceset: MainCharacter_Mari
+      faceindex: 29
+      text: \bas
+
+message_506:
+      faceset: MainCharacter_Mari
+      faceindex: 30
+      text: \mar
+
+message_507:
+      faceset: MainCharacter_Mari
+      faceindex: 31
+      text: \mar
+
+#----
+
+message_665:
+      text: \whoVocê quer estar dormindo ou acordado?\!<br>Só há duas opções.
+
+message_666:
+      text: \whoBom...\! Sempre há outra...\| mas...
+
+#-----
+
+message_667:
+      text: \whoFique longe...\| Você não é meu filho...
+
+message_668:
+      text: \whoPor que...\| Por que você não cai?
+
+message_670:
+    text: Não há nenhuma \c[4]LÂMPADA\c[0] aqui.

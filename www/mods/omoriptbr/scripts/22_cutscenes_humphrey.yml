@@ -1,0 +1,244 @@
+# =========================================================================================
+# Cutscene: Sweetheart's Last Resort
+# =========================================================================================
+
+#Trigger: Enter proximity of Sweetheart.
+
+message_0:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 11
+      text: Ei...\! Aquela não é a...\! SWEETHEART?\aub
+
+#KEL jumps.
+
+message_1:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: \{EI, SWEETHEART!! LEMBRA DA GENTE!?\!\} <br>Somos as crianças que quase arruinaram seu casamento!\kel
+
+#SWEETHEART looks at party.
+#SWEETHEART is surprised, then frustrated.
+
+message_2:
+      text: \Com[2]O quê? Vocês quatro de novo!?\! Por que vocês continuam aparecendo?\swh
+
+message_3:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19
+      text: Então...\! como vai a vida de casada pra você?\kel
+
+message_4:
+      text: Ha!\! Vida de casada é uma piada!\! Eu terminei relações com aquele CAPITÃO lamentável a um bom tempo!\swh
+
+message_5:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 29
+      text: Mas...\! seu casamento foi literalmente ontem.\kel
+
+#AUBREY is worried.
+
+message_6:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: Ah, não...\! Isso significa que você e o MARIDO ESPACIAL estão...\aub
+
+message_7:
+      text: Hmph!\! Pra mim ele é o EX-MARIDO ESPACIAL agora!\swh
+
+message_8:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 27
+      text: \}Ai... Pobre carinha...\kel
+
+#SWEETHEART looks away.
+
+message_9:
+      text: Ai de mim! Minha jornada voltou a estaca zero.\!<br>É muito mais óbvio para mim agora que meu pretendente perfeito não existe!\swh
+
+message_10:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: Não diga isso, SWEETHEART! <br>Eu tenho certeza que sua alma gêmea está em algum lugar por aí!\her
+
+#SWEETHEART turns to HERO.
+
+message_11:
+      text: \sinv[1]Oh, meu doce HERO! \!Como eu anseio a sua voz!\swh
+
+message_12:
+      text: Mas não... Eu devo me conter.\! Eu já decidi o meu caminho.\! <br>Buscar um pretendente é muito antiquado para mim...\swh
+
+message_13:
+      text: \sinv[1]Então eu decidi que vou simplesmente fazer um!\swh
+
+message_14:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 46
+      text: O-O quê?\! F-Fazer um pretendente?\! Isso sequer é possível!?\her
+
+message_15:
+      text: Pelos meios de pessoas comuns não!\! Mas uma pessoa rica, tal como eu, não cumpre tais regras!\swh
+
+message_16:
+      text: Eu vou pra um lugar onde gente podre de rica, como eu, pode pagar...\! Para uma família de bruxas marinhas que são especializados em clientes com...\! demandas especiais.\swh
+
+message_17:
+      text: Até maiszinho, plebeus!\! Estou atrasada para o meu compromisso!\swh
+
+#SWEETHEART leaves O.S.
+
+message_18:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 28
+      text: Então...\! a gente devia seguir ela...\! ou o quê?\kel
+
+message_19:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 11
+      text: Eu sinto que toda vez que a SWEETHEART aparece, algo ruim acontece.\aub
+
+message_20:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: É...\! Quando se vem ao desastre...\!<br>ela tá em outro nivel.\her
+
+# =========================================================================================
+# Cutscene: Humphrey
+# =========================================================================================
+
+#Trigger: Enter Humphrey's Cave.
+
+
+#[Trigger: Enter proximity of Humphrey]
+
+#Humphrey speaking:
+message_42:
+      text: Balém-vindos amigos!\! O nome é HUMPHREY.\! O que trazem vocês para a minha humilde caverninha?\who
+
+message_43:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 1
+      text: Oh, olá HUMPHREY! Estamos só procurando alguém.\! Desculpa se estamos te incomodando.\aub
+
+message_44:
+      text: Oh não, nem um pouco, crianças! Eu amo novos visitantes.\n<HUMPHREY>
+
+message_45:
+      text: Na verdade, vocês são o segundo grupo a me visitar hoje!\!<br>O primeiro era só uma garota... Uma garota bem barulhenta com um grande laço vermelho.\n<HUMPHREY>
+
+message_46:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 26
+      text: Isso não se parece com alguém que conhecemos?\kel
+
+#HERO is surprised and begins to look around frantically.
+
+message_47:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 46
+      text: Hã? SWEETHEART está aqui?\! Onde ela está?\her
+
+message_48:
+      text: Hmm...\! Onde ela está? Onde ela está?\!<br>Está na ponta da língua...\! ...\! \quake[1]Nyak, nyak!\quake[0]\!<br>Isso é uma piada, pois é!\! Ela está...\! dentro de mim, entende?\n<HUMPHREY>
+
+message_49:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: E-Ela tá... dentro de você?\aub
+
+message_50:
+      text: Ora, sim!\! Ela está visitando minhas convidadas, já que eu também sou lar de uma família de bruxas marinhas!\n<HUMPHREY>
+
+message_51:
+      text: Nós passamos nosso tempo juntos, conversando e rindo.\!<br>É tão divertido ouvir sobre suas palhaçadas diárias.\! Às vezes elas até trazem minhas refeições!\n<HUMPHREY>
+
+message_52:
+      text: É muito mais fácil pra elas, entende, porque elas estão muito mais próximas da minha barriguinha do que eu.\!<br><br>Na verdade, tenho certeza que elas adorariam ainda mais visitantes!\!\n<HUMPHREY>
+
+message_55:
+      text: Aqui!\! Eu vou abaixar a ponte para vocês.\n<HUMPHREY>
+#HUMPHREY's mouth opens.
+
+message_53:
+      text: \quake[1]Mle\{hh\{hhhh...\quake[0]\n<HUMPHREY>
+
+#HUMPHREY's tongue creates pathway.
+#HUMPHREY burps.
+
+message_54:
+      text: Me desculpem...\!<br>A primeira convidada parece estar causando um pouco de indigestão.\n<HUMPHREY>
+
+# =========================================================================================
+# Cutscene: Where do we start?
+# =========================================================================================
+
+#Trigger: Enter Humphrey.
+
+message_70:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: Nossa, a barriga do HUMPHREY é enorme!\kel
+
+message_71:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: Parece bem fácil se perder por aqui...\aub
+
+message_72:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19
+      text: Aposto que se eu gritar, vai fazer um \sinv[1]ECO\{OOOO!\kel
+
+#HUMPHREY appears as a lump in front of party.
+
+message_73:
+      text: \sinv[1]EC\{OOO\{OOOO...\}eco...\}eco...\}eco...!\n<HUMPHREY>
+
+message_74:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 31
+      text: \Com[2]Ahhh!\! Da onde você veio?\kel
+
+
+message_75:
+      text: Balém-vindos ao meu lar.\! Vocês tão surpresos em me ver?<br>\!Eu estou sempre aqui.\! Eu estou dentro de mim, e ao redor de todos vocês!\n<HUMPHREY>
+
+#HUMPHREY lumps appear all around.
+
+message_76:
+      text: Eu estou em todo lugar!\n<HUMPHREY>
+
+#HUMPHREY lumps disappear and one HUMPHREY lump appears in front KEL.
+
+message_77:
+      text: Ou eu estou só aqui!\n<HUMPHREY>
+
+message_78:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: Uau, isso é tão legal HUMPHREY! <br>\!Eu queria poder fazer isso.\kel
+
+message_79:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 11
+      text: É meio nojento na verdade.\aub
+
+#HUMPHREY appears in front of AUBREY.
+
+message_80:
+      text: Uau...\! Tão rude...\n<HUMPHREY>
+
+#HERO walks toward the center of the map and looks around.
+
+message_81:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: Hmm...\! Tem muitos caminhos pra ir...\!<br>Por onde a gente devia começar?\her
+
+#HUMPHREY appears in front of HERO.
+
+message_82:
+      text: Esquerda...\! Direita...\! Pra cima...\! Ao redor...\! <br>Importa?\! É tudo pra frente não é?\! <br>Só escolha um! É fácil!\n<HUMPHREY>
+
+message_83:
+      text: \n<HUMPHREY>\{\sinv[1]IOOOOO-HOOOOOOOOOO~!!
