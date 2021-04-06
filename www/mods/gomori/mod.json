@@ -1,0 +1,16 @@
+{
+  "id": "gomori",
+  "name": "Gilbert's Mod Loader",
+  "description": "Gilbert's Mod Loader",
+  "version": "2.2.0",
+  "files": {
+    "plugins": [
+      "scripts/"
+    ],
+    "text": [],
+    "data": [],
+    "maps": [],
+    "assets": [],
+    "exec": []
+  }
+}
