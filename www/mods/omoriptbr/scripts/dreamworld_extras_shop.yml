@@ -643,7 +643,7 @@ message_300:
 # HOMEM GOSMAS
 
 message_350:
-      text: \n<HOMEM GOSMA>Parece que você quer um pouco de \c[3]LEITE\c[0] fresco, fresquinho dos \c[11]CURRAIS DE BOI-PEIXES\c[0]!\!<br><br> É o \c[3]LEITE\c[0] mais fresco fresquinho e vai ser bem refrescante por apenas 500 CONCHAS!\$
+      text: \n<HOMEM GOSMA>Parece que você quer um pouco de \c[3]LEITE\c[0] fresco, fresquinho dos \c[11]CURRAIS DE BOI-PEIXES\c[0]!<br> É o \c[3]LEITE\c[0] mais fresco e vai ser bem refrescante por apenas 500 CONCHAS!\$
 
 message_351:
       text: \n<HOMEM GOSMA>É o mais fresco!
