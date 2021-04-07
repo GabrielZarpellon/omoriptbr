@@ -4625,7 +4625,7 @@ Window_NameBox.prototype.refresh = function(text, position) {
   this.resetFontSettings();
   this.changeTextColor(this.textColor(Yanfly.Param.MSGNameBoxColor));
   var padding = eval(Yanfly.Param.MSGNameBoxPadding) / 2;
-  this.drawTextEx(this._text, padding, -14, this.contents.width);
+  this.drawTextEx(this._text, padding, -10, this.contents.width);
   this._parentWindow.adjustWindowSettings();
   this._parentWindow.updatePlacement();
 //  this.adjustPositionX();
