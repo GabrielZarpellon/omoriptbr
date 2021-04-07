@@ -883,7 +883,7 @@ message_282:
 message_283:
         faceset: MainCharacter_Mari
         faceindex: 0
-        text: \marEi! Parece que os \c[4]INGRESSOS DO SHOW\c[0] que você encontrou podem ser usados aqui.\. Mas poderia ser útil dar uma olhada pelo BASIL primeiro.<br><br>Você acha que as BROTOPEIRAS saberiam de algo?\. Não custa perguntar!\.\^
+        text: \marEi! Parece que os \c[4]INGRESSOS DO SHOW\c[0] que você encontrou podem ser usados aqui.\. Mas poderia ser útil dar uma olhada pelo BASIL primeiro.<br>Você acha que as BROTOPEIRAS saberiam de algo?\. Não custa perguntar!\.\^
 
 #Underground Dungeon
 message_284:
