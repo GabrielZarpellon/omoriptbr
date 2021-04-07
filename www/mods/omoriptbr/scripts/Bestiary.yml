@@ -387,7 +387,7 @@ Information:
         - OMORI
 
   180:
-    name: LÚCIO
+    name: LUCIUS
     background: {name: 'battleback_sw_default', x: 0, y: 0}
     position: {x: 160, y: 425}
     character: {name: 'DW_EN_5', index: 5}
@@ -399,7 +399,7 @@ Information:
         estudou a arte do combate
         por muitos anos em busca de
         seu título grandioso
-        de LÚCIO.
+        de LUCIUS.
 
         - OMORI
 
