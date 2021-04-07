@@ -2077,7 +2077,7 @@ message_526:
 message_527:
     faceset: MainCharacters_DreamWorld
     faceindex: 40
-    text: \her\n[3] e \n[2] têm brigado muito ultimamente...\!<br>Você pode até pensar que eles vão se cansar mas os dois são cheios de energia.
+    text: \her\n[3] e \n[2] têm brigado muito ultimamente...\!<br>Você pode até pensar que eles vão se cansar, mas os dois são cheios de energia.
 
 #Talk to HERO again:
 message_528:
