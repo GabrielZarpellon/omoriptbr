@@ -244,7 +244,7 @@ message_138:
 #  Sorting Items
 
 message_140:
-      text: BONECO DO CAP.SPACEBOY[TOY]
+      text: BONECO DO CAP. SPACEBOY[TOY]
 
 message_141:
       text: BLOCOS DE MONTAR[TOY]
@@ -361,7 +361,7 @@ message_182:
       text: Esta caixa é para o LIXO.
 
 message_183:
-      text: Você quer botar seu velho \v[810] aqui?
+      text: Você quer botar \v[810] aqui?
 
 message_184:
       text: Você quer botar \v[810] aqui?
