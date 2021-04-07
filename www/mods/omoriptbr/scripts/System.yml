@@ -832,7 +832,7 @@ plugins:
           itemSellingCancelMessage: 'farawaytown_extras_shop.message_86'
       pharmacy:
         showMailboxShopkeeper: false
-        shopName: WE'LL PATCH YOU RIGHT UP!
+        shopName: VAMOS TE REMENDAR AGORA MESMO!
         buyHeader: O QUE VOCÊ QUER COMPRAR?
         sellHeader: O QUE VOCÊ QUER VENDER?
         texts:
@@ -848,7 +848,7 @@ plugins:
           itemSellingCancelMessage: 'farawaytown_extras_shop.message_96'
       candy:
         showMailboxShopkeeper: false
-        shopName: IT'S SMILEY, SMILEY TIME!
+        shopName: É HORA DE SORRIR, SORRIA!
         buyHeader: O QUE VOCÊ QUER COMPRAR?
         sellHeader: O QUE VOCÊ QUER VENDER?
         texts:
@@ -880,7 +880,7 @@ plugins:
           itemSellingCancelMessage: 'farawaytown_extras_shop.message_208'
       collectornerd:
         showMailboxShopkeeper: false
-        shopName: BEEZ YOURSELF!
+        shopName: BEEZ É AQUI MESMO!
         buyHeader: O QUE VOCÊ QUER COMPRAR?
         sellHeader: O QUE VOCÊ QUER VENDER?
         texts:
@@ -912,7 +912,7 @@ plugins:
           itemSellingCancelMessage: 'farawaytown_extras_shop.message_56'
       fixit:
         showMailboxShopkeeper: false
-        shopName: FIX-IT YOURSELF!
+        shopName: CONSERTE VOCÊ MESMO!
         buyHeader: O QUE VOCÊ QUER COMPRAR?
         sellHeader: O QUE VOCÊ QUER VENDER?
         texts:
