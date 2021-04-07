@@ -42,12 +42,12 @@ message_108:
 #Talk to Space ex-husband
 
 message_2:
-      text: \spxhAh, que surpresa.\! São vocês.\!<br>Olá.\! Que tarde agradável estamos tendo.
+      text: \n<EX-MARIDO ESPACIAL>Ah, que surpresa.\! São vocês.<br>Olá.\! Que tarde agradável estamos tendo.
 
 message_3:
       faceset: MainCharacters_DreamWorld
       faceindex: 28 #replace
-      text: \kelErr...\! Ei...\! é...\! uh...\! CAP. EX-MARIDO ESPACIAL agora, né?\!<br>Você não...\! parece estar quente...
+      text: \kelErr...\! Ei...\! é...\! uh...\! CAP. EX-MARIDO ESPACIAL agora, né?<br>Você não...\! parece estar quente...
 
 message_4:
       faceset: MainCharacters_DreamWorld
@@ -55,7 +55,7 @@ message_4:
       text: \aubPois é...\! É tão fresco aqui...\! Cê tá...\! tipo...\! bem?
 
 message_5:
-      text: \spxhOh, eu?\! Não se preocupem, crianças.\!<br>Meu coração está congelado.\! Estou puro.\! Sou frio, igual o gelo.\!<br>Não sinto nada.\! Eu não vou sentir nada nunca mais.
+      text: \n<EX-MARIDO ESPACIAL>Oh, eu?\! Não se preocupem, crianças.<br>Meu coração está congelado.\! Estou puro.\! Sou frio, igual o gelo.<br>Não sinto nada.\! Eu não vou sentir nada nunca mais.
 
 message_6:
       faceset: MainCharacters_DreamWorld
@@ -65,15 +65,15 @@ message_6:
 message_7:
       faceset: MainCharacters_DreamWorld
       faceindex: 4 #replace
-      text: \aubCAP. SPACEBOY...\! Vamo lá... Vamos ir pra casa.
+      text: \aubCAP. SPACEBOY...\! Vamos lá... Vamos ir pra casa.
 
 message_8:
-      text: \spxhCAP. SPACEBOY?\! Quem é esse?\!<br>Eu sou ninguém.\! Eu sou puro.\! Sou frio, igual o gelo.
+      text: \n<EX-MARIDO ESPACIAL>CAP. SPACEBOY?\! Quem é esse?<br>Eu não sou ninguém.\! Eu sou puro.\! Sou frio, igual o gelo.
 
 message_9:
       faceset: MainCharacters_DreamWorld
       faceindex: 5 #replace
-      text: \aubAi ai... Ele não vai nos ouvir à esse ponto...\!<br>Como podemos ajudar ele?
+      text: \aubAi ai... Ele não vai nos ouvir a esse ponto...\!<br>Como podemos ajudar ele?
 
 message_10:
       faceset: MainCharacters_DreamWorld
@@ -83,15 +83,15 @@ message_10:
 message_11:
       faceset: MainCharacters_DreamWorld
       faceindex: 5 #replace
-      text: \aub\Com[2]Q-Que!? Tem certeza?\! Tem que ter outros jeitos...
+      text: \aub\Com[2]Q-Quê!? Tem certeza?\! Tem que ter outros jeitos...
 
 message_12:
-      text: \spxhAhh...\! Esse frio...\! Consigo me identificar com ele tão bem...\!<br>Isso...\! Isso está levando minha alma lentamente...<br>\!Eu e o gelo...\! nos tornaremos um só...
+      text: \n<EX-MARIDO ESPACIAL>Ahh...\! Esse frio...\! Consigo me identificar com ele tão bem...<br>Isso...\! Isso está levando minha alma lentamente...<br>Eu e o gelo...\! nos tornaremos um só...
 
 message_13:
       faceset: MainCharacters_DreamWorld
       faceindex: 40 #replace
-      text: \herHmm...\! Normalmente eu não apoiaria esse metódo do KEL, mas <br>à esse ponto ele vai congelar sozinho aqui!\!<br>Às vezes você precisa ser um pouco duro no amor...
+      text: \herHmm...\! Normalmente eu não apoiaria esse metódo do KEL, mas a esse ponto ele vai congelar sozinho aqui!<br>Às vezes você precisa ser um pouco duro no amor...
 
 message_14:
       faceset: MainCharacters_DreamWorld
@@ -101,7 +101,7 @@ message_14:
 # Defeat Space Ex-HUSBAND
 
 message_15:
-      text: \spxhAi...\! Ai...\! \sinv[1]Ohoooooo...
+      text: \n<EX MARIDO ESPACIAL>Ai...\! Ai...\! \sinv[1]Ohoooooo...
 
 message_16:
       faceset: MainCharacters_DreamWorld
@@ -119,16 +119,16 @@ message_18:
       text: \kelIsso aí!\! Cê tem coisas melhores pra se preocupar...\! tipo sua tropa!\! Você é um PIRATA ESPACIAL, pelo amor de Deus!
 
 message_19:
-      text: \spxhMinha...\! tropa?\! Ah...\! sim...\! minha tropa.\!<br>Eu quase esqueci...\! Que horrível da minha parte...\!<br>Eles devem estar tão preocupados...\! Eu deveria voltar...
+      text: \n<EX MARIDO ESPACIAL>Minha...\! tropa?\! Ah...\! sim...\! minha tropa.\!<br>Eu quase esqueci...\! Que horrível da minha parte...\!<br>Eles devem estar tão preocupados...\! Eu deveria voltar...
 
 message_20:
-      text: \spxhAqui, pegue isto...\! Eu...\! Eu...\! Não vou precisar disso de novo...
+      text: \n<EX MARIDO ESPACIAL>Aqui, pegue isto...\! Eu...\! Eu...\! Não vou precisar disso de novo...
 
 message_21:
       text: Você recebeu um \c[13]ANÉL DE CASAMENTO\c[0].
 
 message_22:
-      text: \spxhEu vou indo agora.\!<br>Não se preocupem comigo... Eu vou achar meu caminho pra casa...\!<br>Eu...\! Eu sei como voltar.
+      text: \n<EX MARIDO ESPACIAL>Eu vou indo agora.\!<br>Não se preocupem comigo... Eu vou achar meu caminho pra casa...\!<br>Eu...\! Eu sei como voltar.
 
 #CUTSCENE: FATHER AND son
 
@@ -136,13 +136,13 @@ message_23:
       text: \n<BARBA ROSA>\Com[2]Filho!\! Você tá aqui!\!<br>Onde você tava, pivete!?<br>Eu te procurei por toda parte!
 
 message_24:
-      text: \spxhOh...\! Oi, Pai...
+      text: \n<EX MARIDO ESPACIAL>Oh...\! Oi, Pai...
 
 message_25:
-      text: \n<BARBA ROSA>\Com[2]O que eu te disse sobre a SWEETHEART?\!<br>Você é areia de mais pro caminhãozinho dela...\!<br>Você deveria aprender a escutar seu velho às vezes!
+      text: \n<BARBA ROSA>\Com[2]O que eu te disse sobre a SWEETHEART?\!<br>Você é areia demais pro caminhãozinho dela...<br>Você deveria aprender a escutar seu velho às vezes!
 
 message_26:
-      text: \spxh...\! Eu...\! Eu me sinto cansado...\! Posso só ir pra cama?
+      text: \n<EX MARIDO ESPACIAL>...\! Eu...\! Eu me sinto cansado...\! Posso só ir pra cama?
 
 message_27:
       text: \n<BARBA ROSA>\Com[2]Bah!\! Chega dessas baboseiras!\!<br>Não desperdice seus sentimentos com alguém assim!\!<br>Você vai reconhecer o amor verdadeiro quando acontecer.
