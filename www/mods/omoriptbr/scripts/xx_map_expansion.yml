@@ -1074,14 +1074,14 @@ message_330:
 #Talk to BRANCH CORAL as OMORI.
 
 message_331:
-    text: \n<CORAL>Um bom tempo passou desde que você se aventurou longe assim.<br><br><br>Camadas mais fundas desse mundo se abrem quando o SONHADOR se desespera mais.<br><br>Até a imaginação é limitada.
+    text: \n<CORAL>Um bom tempo passou desde que você se aventurou longe assim.<br><br>Camadas mais fundas desse mundo se abrem quanto mais o SONHADOR se desespera.<br>Até a imaginação é limitada.
 
 #*wait*
 message_332:
-    text: \n<CORAL>Você tem perguntas que posso responder.\!<br>Respostas que você esqueceu.
+    text: \n<CORAL>Você tem perguntas que posso responder.<br>Respostas que você esqueceu.
 
 message_333:
-    text: \n<CORAL>Eu irei espalhá-las aqui para você.\!<br>Se você estiver curioso, você escolherá uma.
+    text: \n<CORAL>Eu irei espalhá-las aqui para você.<br>Se você estiver curioso, você escolherá uma.
 
 #---
 
