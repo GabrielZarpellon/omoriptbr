@@ -27,7 +27,7 @@ message_3:
 #BROTOPEIRA DE BIGODE walks up to HERO.
 
 message_4:
-      text: Por favor, senhor gentil. Você ajudaria uma pobre, humilde toupeira?\! <br>Estou desesperadamente na necessidade de seu serviço.\n<BROTOPEIRA DE BIGODE>
+      text: Por favor, senhor gentil. Você ajudaria uma pobre, humilde toupeira? <br>Estou na necessidade de seu serviço.\n<BROTOPEIRA DE BIGODE>
 
 message_5:
       faceset: MainCharacters_DreamWorld
