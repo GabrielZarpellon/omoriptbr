@@ -373,7 +373,7 @@ message_112:
       faceindex: 19
       text: \kel\sinv[1]Ahhhhhh, cara...\sinv[0] sério? \!<br>\Com[2]Vamo lá, BERLY! A gente se conhece desde sempre! \!<br>Você não pode nos fazer um pequeno favorzinho?
 message_113:
-      text: \berResmungo, resmungo...\! Desculpa, KEL! Ordens do chefe... \! É um grande dia e ele não quer nenhuma...\! pertubação. \!<br>Nós temos um evento de arrecadações de \c[3]TOFU\c[0] pra essa noite!
+      text: \berResmungo, resmungo...\! Desculpa, KEL! Ordens do chefe... \! É um grande dia e ele não quer nenhuma...\! pertubação.\!<br>Nós temos um evento de arrecadações de \c[3]TOFU\c[0] pra essa noite!
 message_114:
       faceset: MainCharacters_DreamWorld
       faceindex: 19
