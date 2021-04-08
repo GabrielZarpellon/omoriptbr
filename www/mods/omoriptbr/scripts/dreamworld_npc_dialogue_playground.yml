@@ -367,7 +367,7 @@ message_110:
 #BERLY (Gator Guy)
 #Location: Last Resort - Jawsum HQ Entrance
 message_111:
-      text: \berOra, ora, ora! Veja só o que temos aqui! \!Vocês tão tentando falar com o chefão, né? \!Desculpa incomodar vocês, mas eu não posse deixar ninguém entrar nem que a vaca tussa!
+      text: \berOra, ora, ora! Veja só o que temos aqui! \!Vocês tão tentando falar com o chefão, né? \!Desculpa incomodar vocês, mas eu não posso deixar ninguém entrar nem que a vaca tussa!
 message_112:
       faceset: MainCharacters_DreamWorld
       faceindex: 19
