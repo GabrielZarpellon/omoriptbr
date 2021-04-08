@@ -40,7 +40,7 @@ Um forte abraço e bom jogo, OMORI BRASIL
 
 ### Equipe
 
-| | ||
+|Nome|Twitter|Função|
 |-|-|-|
 |PotatoGuy|@PotatoGuy___|Tradutor|
 |Haku|@Hakuna_MMT|  Tradutor,  Editor, Tester|
