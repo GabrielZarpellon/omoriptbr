@@ -15,7 +15,7 @@ Então... Você está esperando algo acontecer?
 4. O Winrar irá perguntar se você gostaria de substituir arquivos, clique em “Sim”.
 5.  Agora é só iniciar o jogo pelo o botão “iniciar” da Steam, se a tela de aviso do jogo estiver traduzida, significa que a tradução foi aplicada com sucesso.
 
-(Só um aviso que esta tradução pode apresentar alguns erros ortográficos e alguns bugs que podem aparecer na sua jogatina, seria ótimo se você reportasse estes erros para nós via o nosso Twitter ou no canal de Bug Reports no nosso server do Discord).
+(Só um aviso que esta tradução pode apresentar alguns erros ortográficos e alguns bugs que podem aparecer na sua jogatina, seria ótimo se você reportasse estes erros para nós via o nosso [Twitter](https://twitter.com/OMORI_BRASIL?s=20) ou no canal de Bug Reports no nosso server do Discord).
 
 (Também recomendamos guardar seus saves caso haja algum problema na instalação que seja preciso a desinstalação do jogo, eles ficam na pasta “save” dentro da “www”).
 
