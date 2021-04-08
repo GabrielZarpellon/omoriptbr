@@ -86,7 +86,7 @@ message_14:
 message_15:
     faceset: MainCharacters_DreamWorld
     faceindex: 35
-    text: Um pequeno pet drito olha fixamente para você dentro do BOLSO do \n[3]
+    text: Um pequeno pet drito olha fixamente para você dentro do BOLSO do \n[3].
 
 message_16:
     faceset: MainCharacters_DreamWorld
