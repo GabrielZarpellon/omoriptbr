@@ -26,7 +26,7 @@ Há algumas causas que podem estar afetando a instalação da tradução, aqui v
 - Abrir o jogo pelo .exe nos arquivos, isso nunca funcionará, sempre abra o jogo pelo o botão iniciar da Steam.
 - Instalação mal feita ou incompleta, por favor, revise os passos na parte de instalação deste readme, temos um vídeo demonstrando como baixar também.
 
-Se o seu erro não se encaixa em nenhum destes 2 itens, então entre em contato conosco via o nosso Twitter Oficial(se puder Nicho, faz um código em que a palavra “Twitter Oficial” seja o link para a página do twitter, blz?) ou no canal de Bug Reports do nosso servidor do Discord.
+Se o seu erro não se encaixa em nenhum destes 2 itens, então entre em contato conosco via o nosso [Twitter Oficial](https://twitter.com/OMORI_BRASIL?s=20) ou no canal de Bug Reports do nosso servidor do Discord.
 
 ## UM AGRADECIMENTO DO TIME
 
