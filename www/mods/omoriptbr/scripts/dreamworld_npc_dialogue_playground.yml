@@ -397,7 +397,7 @@ message_120:
       faceindex: 33
       text: \kel\com[2]Por favor, BERLY! \!\SINV[2]Por favor, por favor, por favor, por favor, por favor!\sinv[0]
 message_121:
-      text: \berOh...\! Certo... \!Eu vou te deixar passar dessa vez. \!<br>Mas só se você me der um pouco de \c[3]ÁGUA ENGARRAFADA\c[0] primeiro!\! Eu tô com sede!
+      text: \berOh...\! Certo... \!Eu vou te deixar passar dessa vez. \!<br>Mas só se você me der uma \c[3]ÁGUA ENGARRAFADA\c[0] primeiro!\! Eu tô com sede!
 #[Watch Alarm SFX]
 message_122:
       text: \berEi! Você me trouxe um pouco de \c[3]ÁGUA ENGARRAFADA\c[0]?\! Obrigada! Eu te devo uma!\! Vamos lá, garotos! Eu ouvi que eles tem pizza na sala de descanso!
