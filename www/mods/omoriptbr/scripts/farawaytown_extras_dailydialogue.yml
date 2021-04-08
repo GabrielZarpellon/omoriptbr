@@ -138,7 +138,7 @@ message_111:
 #Location: CRIS'S HOUSE in the kitchen
 
 message_120:
-      text: \n<MÃE DA CRIS>Você gostou da torta?\! Estou trabalhando em deixar minha receita perfeita <br>para a feira de fim de verão do condado!\! Eu ganhei em todos os anos <br>em que participei até agora, e esse ano não vai ser diferente!\! Ohoho!
+      text: \n<MÃE DA CRIS>Você gostou da torta?\! Estou trabalhando em deixar minha receita perfeita <br>para a feira de fim de verão do condado!\! Eu ganhei em todos os anos <br>em que participei até agora, e este ano não vai ser diferente!\! Ohoho!
 
 #===============CURTSEY=====================
 
@@ -196,7 +196,7 @@ message_172:
       text: \kel\n[8], esse é JAY.\! Ele é o capitão do time de futebol da minha escola!\! Eu não sabia que você jogava basquete também!
 
 message_173:
-      text: \n<ATLETA>Ehh...\! Huff...\! Eu só estou aqui para matar tempo.\! É mais um passa tempo do que qualquer outra coisa.\! Você está tentando entrar no time de basquete esse ano, não é, KEL?\! Talvez você possa me ensinar alguns de seus truques!
+      text: \n<ATLETA>Ehh...\! Huff...\! Eu só estou aqui para matar tempo.\! É mais um passa tempo do que qualquer outra coisa.\! Você está tentando entrar no time de basquete este ano, não é, KEL?\! Talvez você possa me ensinar alguns de seus truques!
 
 message_174:
       faceset: MainCharacters_Faraway
@@ -638,7 +638,7 @@ message_492:
 #Location: Sarah's House (Ring in the sink quest)
 
 message_500:
-      text: \n<PAI DA SARAH>Hmm...\! Ei, você viu um pacotão de batatinhas por aí?\! Eu juro que comprei um pacote grandão há alguns dias atrás...
+      text: \n<PAI DA SARAH>Hmm...\! Ei, você viu um pacotão de batatinhas por aí?\! Eu juro que comprei um pacote grandão há alguns dias...
 
 #==========================Sarah's Mom===============================
 
@@ -1455,7 +1455,7 @@ message_1201:
 #BRANDI: If Hero is the leader
 
 message_1202:
-      text: \n<BRANDI>Ei! HERO, é você! Hehe... É tão estranho ver você aqui ao invés de na faculdade. Eu chuto que você também está visitando a família... Família é legal e tal, mas eu mal posso esperar para ver meus amigos de novo... Nada de interesse acontece em casa, sabe?
+      text: \n<BRANDI>Ei! HERO, é você! Hehe... É tão estranho ver você aqui em vez de na faculdade. Eu chuto que você também está visitando a família... Família é legal e tal, mas eu mal posso esperar para ver meus amigos de novo... Nada de interesse acontece em casa, sabe?
 
 #==============BRENT===========================================
 #Location:  Brent's House

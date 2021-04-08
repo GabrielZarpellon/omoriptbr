@@ -119,7 +119,7 @@ message_23:
       text: Vamo lá, BERLY. Vamos achar sua \c[4]BOLA PERDIDA\c[0].\!<br>Não precisamos nos preocupar com nada desde que fiquemos juntos!\her
 
 message_24:
-      text: Hah, claro.\! Só não fica na minha frente quando eu usar minhas incríveis habilidades de dar \c[1]CABEÇADA\c[0]!\ber
+      text: Hah, claro.\! Só não fique na minha frente quando eu usar minhas incríveis habilidades de dar \c[1]CABEÇADA\c[0]!\ber
 
 message_25:
       faceset: MainCharacters_DreamWorld

@@ -456,7 +456,7 @@ message_156:
       text: \kelCê disse que você e BASIL estavam jogando aquele novo jogo \c[13]PET DRITOS\c[0]?\! Hmmm...\! Talvez eu deva começar a jogar também.
 
 message_157:
-      text: \kelEi, já sei!\! Por que a gente não vai pro \c[11]HOBBEEZ\c[0] pra ver se eles tem alguma coisa nova?
+      text: \kelEi, já sei!\! Por que a gente não vai pro \c[11]HOBBEEZ\c[0] pra ver se eles têm alguma coisa nova?
 
 #------Talk to Basil------------
 
@@ -609,7 +609,7 @@ message_223:
       text: \herOk, \n[8]... É hora de abrir seu presente.
 
 message_224:
-      text: \marEsse ano, você só vai ganhar um presente...\! mas de todos nós.
+      text: \marEste ano, você só vai ganhar um presente...\! mas de todos nós.
 
 message_225:
       text: \basNão sei se vai parecer pouco...<br>mas tivemos que economizar pra comprar.
@@ -802,7 +802,7 @@ message_603:
       text: \whoUm desejo?\| Mas o que eu pediria? \|Eu já tenho tudo que eu poderia querer bem aqui.
 
 message_604:
-      text: \whoEsse ano, você só vai ganhar um presente...\| mas de todos nós.
+      text: \whoEste ano, você só vai ganhar um presente...\| mas de todos nós.
 
 message_605:
       text: \whoVocê parecia tão tranquilo dormindo...\| Me lembra de quando você era só um bebê.

@@ -373,7 +373,7 @@ message_112:
       faceindex: 19
       text: \kel\sinv[1]Ahhhhhh, cara...\sinv[0] sério? \!<br>\Com[2]Vamo lá, BERLY! A gente se conhece desde sempre! \!<br>Você não pode nos fazer um pequeno favorzinho?
 message_113:
-      text: \berResmungo, resmungo...\! Desculpa, KEL! Ordens do chefe... \! É um grande dia e ele não quer nenhuma...\! pertubação.\!<br>Nós temos um evento de arrecadações de \c[3]TOFU\c[0] pra essa noite!
+      text: \berResmungo, resmungo...\! Desculpa, KEL! Ordens do chefe... \! É um grande dia e ele não quer nenhuma...\! pertubação.\!<br>Nós temos um evento de arrecadações de \c[3]TOFU\c[0] pra esta noite!
 message_114:
       faceset: MainCharacters_DreamWorld
       faceindex: 19
@@ -400,7 +400,7 @@ message_121:
       text: \berOh...\! Certo... \!Eu vou te deixar passar dessa vez. \!<br>Mas só se você me der uma \c[3]ÁGUA ENGARRAFADA\c[0] primeiro!\! Eu tô com sede!
 #[Watch Alarm SFX]
 message_122:
-      text: \berEi! Você me trouxe um pouco de \c[3]ÁGUA ENGARRAFADA\c[0]?\! Obrigada! Eu te devo uma!\! Vamos lá, garotos! Eu ouvi que eles tem pizza na sala de descanso!
+      text: \berEi! Você me trouxe um pouco de \c[3]ÁGUA ENGARRAFADA\c[0]?\! Obrigada! Eu te devo uma!\! Vamos lá, garotos! Eu ouvi que eles têm pizza na sala de descanso!
 message_123:
       text: \n<CARA JACARÉ>Aé! Pizza de graça!
 message_124:

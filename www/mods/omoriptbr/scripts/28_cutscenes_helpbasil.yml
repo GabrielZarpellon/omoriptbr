@@ -122,7 +122,7 @@ message_36:
 message_37:
       faceset: MainCharacters_Faraway
       faceindex: 28
-      text: POLLY...\! Você acha que a gente pode dormir aqui essa noite?\her
+      text: POLLY...\! Você acha que a gente pode dormir aqui esta noite?\her
 
 message_38:
       text: Ohh...\! Vocês são todos tão gentis...\!<br>Claro que podem dormir aqui!\n<POLLY>

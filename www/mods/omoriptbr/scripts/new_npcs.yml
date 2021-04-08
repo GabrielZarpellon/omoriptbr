@@ -376,7 +376,7 @@ message_75:
 #Chow
 #Location: Train Station
 message_77:
-      text: \n<CHOW>Eu só vi esse trem andar uma vez, e já fazem anos...\! Provavelmente vai para um lugar totalmente diferente agora.
+      text: \n<CHOW>Eu só vi esse trem andar uma vez, e já faz anos...\! Provavelmente vai para um lugar totalmente diferente agora.
 
 message_105:
       text: \n<CHOW>Eu nunca estive nessa parada antes.\! Mal posso esperar para explorar o \c[11]OÁSIS LARANJA\c[0]... um lugar cheio de possibilidades!
@@ -1208,7 +1208,7 @@ message_269:
 #LAST RESORT BREAKROOM
 
 message_280:
-      text: \n<CARA JACARÉ>Fica de boa.\! Não vamos brigar com você...\!<br>Pelo menos não na hora do almoço.
+      text: \n<CARA JACARÉ>Fique de boa.\! Não vamos brigar com você...\!<br>Pelo menos não na hora do almoço.
 
 message_281:
       text: \n<CARA JACARÉ>Não somos responsáveis se algo sumir dos armários.\!<br>Deixem as coisas valiosas em casa, pessoal!

@@ -266,7 +266,7 @@ message_80:
 message_85:
       faceset: MainCharacter_Mari
       faceindex: 4
-      text: \marDroga... o pet-drito do KEL, \c[13]HECTOR\c[0], caiu do seu bolso.\. Desculpa, KEL. Eu não tenho certeza aonde ele está, mas não desista!\.\^
+      text: \marDroga... o pet-drito do KEL, \c[13]HECTOR\c[0], caiu do seu bolso.\. Desculpa, KEL. Eu não tenho certeza onde ele está, mas não desista!\.\^
 
 message_86:
       faceset: MainCharacter_Mari

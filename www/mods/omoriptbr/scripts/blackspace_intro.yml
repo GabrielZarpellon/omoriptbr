@@ -230,7 +230,7 @@ message_50:
 message_60:
       faceset: MainCharacter_Mari
       faceindex: 4
-      text: \marOh?\! Onde está a AUBREY?\!<br>Estranho...\! Ela estava segurando a minha mão há um segundo atrás.
+      text: \marOh?\! Onde está a AUBREY?\!<br>Estranho...\! Ela estava segurando a minha mão há um segundo.
 
 message_61:
       faceset: MainCharacter_Mari

@@ -24,7 +24,7 @@ message_5:
       text: \"Eu sei que você não tem falado com ninguém, mas você talvez queira dar tchau para seus velhos amigos.\"\n<VOICEMAIL DA MÃE>
 
 message_6:
-      text: \"KEL tem tentado muito falar contigo depois que botamos a casa à venda.\! Ele tem nos ligado toda semana pelos útlimos meses!\"\n<VOICEMAIL DA MÃE>
+      text: \"KEL tem tentado muito falar contigo depois que botamos a casa à venda.\! Ele tem nos ligado toda semana pelos últimos meses!\"\n<VOICEMAIL DA MÃE>
 
 message_7:
       text: \"Ele parece um pouco sozinho...\! Talvez você devesse visitar ele.\!<br>Ok, isso é tudo.\! Tchau, filhinho!\! MAMÃE te ama!\"\! \quake[1]\}Bzzt...\quake[0]\n<VOICEMAIL DA MÃE>
@@ -112,7 +112,7 @@ message_50:
       text: \"Ei \n[8], é a MAMÃE.\!<br>Como você está?\! Se alimentando bem?\"\n<VOICEMAIL DA MÃE>
 
 message_51:
-      text: \"Eu achava que eu poderia voltar para ver você hoje, mas é o útlimo dia da venda de móveis e eu não consigo resistir uma boa barganha!\"<br>\"Você pode se cuidar por mais alguns dias, certo?\!<br>Além do mais, você já é grandinho!\"\n<VOICEMAIL DA MÃE>
+      text: \"Eu achava que eu poderia voltar para ver você hoje, mas é o último dia da venda de móveis e eu não consigo resistir uma boa barganha!\"<br>\"Você pode se cuidar por mais alguns dias, certo?\!<br>Além do mais, você já é grandinho!\"\n<VOICEMAIL DA MÃE>
 
 message_52:
       text: \"Lembre-se de terminar suas tarefas antes de eu voltar.\! Eu deixei a lista na mesa próxima a porta.\! Ok, isso é tudo!\! Tchau, filhinho!\! MAMÃE te ama!\"\!\quake[1] \}Bzzt...\quake[0]\n<VOICEMAIL DA MÃE>

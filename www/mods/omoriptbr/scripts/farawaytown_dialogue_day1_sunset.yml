@@ -91,7 +91,7 @@ message_39:
       text: \kelEi, já sei!\! Para ficar mais equilibrado, você pode usar meu patinete se quiser!
 
 message_40:
-      text: \n<O MAVERICK>\{\Com[2]NÃO FICA SE ACHANDO!!\}
+      text: \n<O MAVERICK>\{\Com[2]NÃO FIQUE SE ACHANDO!!\}
 
 message_41:
       text: \n<O MAVERICK>Vamos lá, KEL!\!<br>Você fala demais, mas é mesmo capaz!?\!<br>\Com[2]Por que você não me desafia de verdade!?
@@ -273,7 +273,7 @@ message_134:
 #Location: Sarah's House (Ring in the sink quest)
 
 message_140:
-      text: \n<CARA ATRAPALHADO>Hmm...\! Ei crianças, viram algum pacote de batatinhas por aí?\! Eu juro que comprei um pacote grandão há alguns dias atrás...
+      text: \n<CARA ATRAPALHADO>Hmm...\! Ei crianças, viram algum pacote de batatinhas por aí?\! Eu juro que comprei um pacote grandão há alguns dias...
 
 #==========================Sarah's Mom===============================
 

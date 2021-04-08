@@ -241,7 +241,7 @@ message_59:
 message_60:
       faceset: MainCharacters_DreamWorld
       faceindex: 43
-      text: \herFica calma, AUBREY...\! Eu também tô preocupado, mas isso não vai resolver nada.\! Vamos olhar pela floresta. Talvez ele tenha se perdido.
+      text: \herFique calma, AUBREY...\! Eu também tô preocupado, mas isso não vai resolver nada.\! Vamos olhar pela floresta. Talvez ele tenha se perdido.
 
 message_61:
       faceset: MainCharacters_DreamWorld
@@ -277,7 +277,7 @@ message_71:
 message_72:
       faceset: MainCharacters_DreamWorld
       faceindex: 16
-      text: \kelJá sei!\! Aposto que meu pet drito vai saber aonde ele tá!
+      text: \kelJá sei!\! Aposto que meu pet drito vai saber onde ele tá!
 
 message_73:
       faceset: MainCharacters_DreamWorld
@@ -1624,7 +1624,7 @@ message_403:
 message_404:
       faceset: MainCharacters_DreamWorld
       faceindex: 2
-      text: \aubTemos fotos nossas?\! Aonde?
+      text: \aubTemos fotos nossas?\! Onde?
 
 message_405:
       faceset: MainCharacters_DreamWorld

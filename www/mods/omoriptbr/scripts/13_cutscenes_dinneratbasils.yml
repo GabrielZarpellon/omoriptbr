@@ -181,7 +181,7 @@ message_63:
 message_64:
       faceset: MainCharacters_Faraway
       faceindex: 13
-      text: Esse ano, eu serei o irmão mais alto. Heh heh!\kel
+      text: Este ano, eu serei o irmão mais alto. Heh heh!\kel
 
 message_65:
       faceset: MainCharacters_Faraway
@@ -351,7 +351,7 @@ message_124:
 message_125:
       faceset: MainCharacters_Faraway
       faceindex: 24
-      text: Esse ano é o ano...\! nham...\! que eu... nham...\! <br>finalmente vou ser mais alto que ele...\! <br>Eu consigo... nham...\! sentir no meus ossos!\kel
+      text: Este ano é o ano...\! nham...\! que eu... nham...\! <br>finalmente vou ser mais alto que ele...\! <br>Eu consigo... nham...\! sentir no meus ossos!\kel
 
 message_126:
       text: Hehe...\! Você e o seu irmão parecem próximos.\! <br>Isso é bom...\! Família é importante!\n<POLLY>
