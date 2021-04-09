@@ -370,7 +370,7 @@ message_94:
 #MAVERICK is at the fountain, with one girl on each arm.
 
 message_110:
-      text: E então eu disse pra ele... Não é MAVERICK.\! <br>É \Com[2]O MAVERICK!\mav
+      text:\n<O MAVERICK> E então eu disse pra ele... Não é MAVERICK.\! <br>É \Com[2]O MAVERICK!
 
 message_111:
       text: Oh, \Com[2]O MAVERICK, você é tão engraçado!\n<GAROTA>
@@ -379,7 +379,7 @@ message_112:
       text: Ho-ho! Wow, que história incrível, \Com[2]O MAVERICK!\n<GAROTA 2>
 
 message_113:
-      text: \sinv[1]Garotas, garotas... por favor! Uma de cada vez...\sinv[2]\mav
+      text: \n<O MAVERICK>\sinv[1]Garotas, garotas... por favor! Uma de cada vez...\sinv[2]
 
 #KEL walks up.
 
@@ -389,17 +389,17 @@ message_114:
       text: MIKHAEL...\! O que você tá fazendo?\kel
 
 message_115:
-      text: \Com[2]Ah!\mav
+      text: \n<O MAVERICK>\Com[2]Ah!
 
 #THE MAVERICK walks toward KEL and flips his hair.
 
 message_116:
-      text: Se não é o KEL!\! Meu...\! \Com[2]arqui-inimigo!\mav
+      text: \n<O MAVERICK>Se não é o KEL!\! Meu...\! \Com[2]arqui-inimigo!
 
 #THE MAVERICK does a lame pose.
 
 message_117:
-      text: Finalmente aqui para admitir a derrota, não é?\mav
+      text: \n<O MAVERICK>Finalmente aqui para admitir a derrota, não é?
 
 message_118:
       faceset: MainCharacters_Faraway
@@ -409,7 +409,7 @@ message_118:
 #THE MAVERICK starts to sweat.
 
 message_119:
-      text: P-Para de me chamar assim!\! <br>Eu larguei esse nome a muito tempo atrás!\mav
+      text: \n<O MAVERICK>P-Para de me chamar assim!\! <br>Eu larguei esse nome a muito tempo atrás!
 
 message_120:
       faceset: MainCharacters_Faraway
@@ -417,13 +417,13 @@ message_120:
       text: MIKHAEL, você sabe onde ela tá ou não?\kel
 
 message_121:
-      text: De novo com esse nome esquecido por Deus!\! <br>C-Como ousa me fazer de tolo!!\mav
+      text: \n<O MAVERICK>De novo com esse nome esquecido por Deus!\! <br>C-Como ousa me fazer de tolo!!
 
 message_122:
-      text: Eu, \Com[2]O MAVERICK, não vou suportar isso!\! <br>\Com[2]\{PREPARE-SE PARA ENFRENTAR O SEU DESTINO!\mav
+      text: \n<O MAVERICK>Eu, \Com[2]O MAVERICK, não vou suportar isso!\! <br>\Com[2]\{PREPARE-SE PARA ENFRENTAR O SEU DESTINO!
 
 message_123:
-      text: \{\Com[2]OBSERVEM, SENHORAS!\!\}<br>Eu irei limpar o chão com esse perdedor!\mav
+      text: \n<O MAVERICK>\{\Com[2]OBSERVEM, SENHORAS!\!\}<br>Eu irei limpar o chão com esse perdedor!
 
 message_124:
       faceset: MainCharacters_Faraway
@@ -431,7 +431,7 @@ message_124:
       text: Por favor, MIKHAEL...\! Não faça isso com você mesmo.\! <br>Eu vou pedir mais uma vez-\kel
 
 message_125:
-      text: \{\Com[2]BRIGA COMIGO, SEU COVARDE!!<br>NÃO SEJA UM FRANGUINHO!!!\mav
+      text: \n<O MAVERICK>\{\Com[2]BRIGA COMIGO, SEU COVARDE!!<br>NÃO SEJA UM FRANGUINHO!!!
 
 message_126:
       faceset: MainCharacters_Faraway
@@ -450,25 +450,25 @@ message_127:
 #Defeated by THE Maverick
 
 message_149:
-      text: \mavVocê foi um oponente formidável, KEL...\! mas é hora de acabar com você de uma vez por todas.
+      text: \n<O MAVERICK>Você foi um oponente formidável, KEL...\! mas é hora de acabar com você de uma vez por todas.
 
 #Trigger: Defeat THE MAVERICK
 
 #THE MAVERICK is defeated on the floor.
 
 message_150:
-      text: Não...\! não pode ser o fim pra mim.\mav
+      text: \n<O MAVERICK>Não...\! não pode ser o fim pra mim.
 
 message_151:
       text: Povo da Terra...\mav
 
 message_152:
-      text: \{ME DEEM SUAS FORÇAS!!\mav
+      text: \n<O MAVERICK>\{ME DEEM SUAS FORÇAS!!
 
 #THE MAVERICK strikes his final pose.
 
 message_153:
-      text: \Com[2]\sinv[1]HII\Com[2]\{IIYYYYY\Com[2]\{AAAAHHHH\Com[2]\{HHHHHHHH!!!\mav
+      text: \n<O MAVERICK>\Com[2]\sinv[1]HII\Com[2]\{IIYYYYY\Com[2]\{AAAAHHHH\Com[2]\{HHHHHHHH!!!
 
 message_154:
       text: Eca, qual é a desse cara? Ele é tão besta.\n<GAROTA>
@@ -480,13 +480,13 @@ message_155:
 #THE MAVERICK looks where the girls left and walks 1 step forward.
 
 message_156:
-      text: S-Senhoras!\! Por favor, voltem!\mav
+      text: \n<O MAVERICK>S-Senhoras!\! Por favor, voltem!
 
 message_157:
-      text: Eu tenho mais dinheiro!\mav
+      text: \n<O MAVERICK>Eu tenho mais dinheiro!
 
 message_158:
-      text: ... \!Ai ai...\mav
+      text: \n<O MAVERICK>... \!Ai ai...
 
 #His wig falls off, but he fixes it.
 
@@ -498,7 +498,7 @@ message_159:
 #THE MAVERICK turns away from KEL.
 
 message_160:
-      text: \Com[2]\{NÃO TEM NINGUÉM AQUI COM ESSE NOME!!\mav
+      text: \n<O MAVERICK>\Com[2]\{NÃO TEM NINGUÉM AQUI COM ESSE NOME!!
 
 message_161:
       faceset: MainCharacters_Faraway
@@ -506,15 +506,15 @@ message_161:
       text: Por favor... eu nunca vou te pedir mais nada na minha vida.\! <br>Só fala onde a AUBREY tá e a gente sai!\kel
 
 message_162:
-      text: ...\mav
+      text: \n<O MAVERICK>...
 
 #THE MAVERICK turns to KEL.
 
 message_163:
-      text: Ok, tudo bem.\!<br>Acontece que eu sei onde ela tá, e eu te digo...\! <br>com uma condição...\mav
+      text: \n<O MAVERICK>Ok, tudo bem.\!<br>Acontece que eu sei onde ela tá, e eu te digo...\! <br>com uma condição...
 
 message_164:
-      text: Você deve me chamar pelo meu nome verdadeiro, \Com[2]O MAVERI-\mav
+      text: \n<O MAVERICK>Você deve me chamar pelo meu nome verdadeiro, \Com[2]O MAVERI-
 
 #KEL turns to PLAYER.
 
