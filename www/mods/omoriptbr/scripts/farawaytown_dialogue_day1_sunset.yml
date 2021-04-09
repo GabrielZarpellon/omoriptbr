@@ -62,10 +62,10 @@ message_32:
       text: \kelHã? O que foi agora, MIKHAEL?
 
 message_33:
-      text: \n<THE MAVERICK>Grr...\! Malditos sejam você e essa sua atidude atrevida!
+      text: \n<O MAVERICK>Grr...\! Malditos sejam você e essa sua atidude atrevida!
 
 message_34:
-      text: \n<THE MAVERICK>\Com[2]\{KEL!\!\Com[2] EU TE DESAFIO PARA UMA CORRIDA!\}
+      text: \n<O MAVERICK>\Com[2]\{KEL!\!\Com[2] EU TE DESAFIO PARA UMA CORRIDA!\}
 
 message_35:
       faceset: MainCharacters_Faraway
