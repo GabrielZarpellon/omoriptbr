@@ -21,7 +21,7 @@ message_3:
       text: Ei, AUBREY. Tá se sentindo melhor?<br>A gente até guardou um caramelo pra você.\van
 
 message_4:
-      text: O que aconteceu aqui!? Seu rosto tá todo vermelho...\!<br>\Com[2]Quer que eu ensine uma lição a alguém!?\mav
+      text: \n<O MAVERICK>O que aconteceu aqui!? Seu rosto tá todo vermelho...\!<br>\Com[2]Quer que eu ensine uma lição a alguém!?
 
 message_5:
       faceset: MainCharacters_Faraway
