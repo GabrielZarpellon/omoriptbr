@@ -619,7 +619,7 @@ message_115:
 
 message_116:
    text: >
-    \>MOLLY: \<Oh...<br>Eu tô me diveritindo muito~!
+    \>MOLLY: \<Oh...<br>Eu tô me divertindo muito~!
 
 # Medusa's Special Move (50%):
 
@@ -633,7 +633,7 @@ message_118:
 
 message_119:
    text: >
-    \>MOLLY: \<Relaxem, crianças...\!<br>Não vai doer nadinha~
+    \>MOLLY: \<Relaxem, crianças...\!<br>Não vai doer nadinha~.
 
 # After Defeat:
 
@@ -1408,7 +1408,7 @@ message_273:
 # Before swallow 1
 message_274:
    text: >
-    \>HUMPHREY: \<\sinv[1]Só um aviso...isso vai ficar uma bagunça!\| É hora de vocês entrarem na minha pança!
+    \>HUMPHREY: \<\sinv[1]Só um aviso... isso vai ficar uma bagunça!\| É hora de vocês entrarem na minha pança!
 
 # Before swallow 2
 message_275:
@@ -1438,7 +1438,7 @@ message_279:
 #Before Humphrey Abort
 message_323:
    text: >
-    \>HUMPHREY: \<\sinv[1]Sintam-se livres para lutar, porque isso não vai adiantar...\| Vocês não vão escapar do meu intestino!
+    \>HUMPHREY: \<\sinv[1]Podem lutar, mas não vai adiantar...\| Não vão escapar do meu intestino!
 
 # Uvula Intro
 message_280:

@@ -42,7 +42,7 @@ message_7:
     text: SUCO
 
 message_8:
-    text: SUCO é necessário para poder usar \c[1]DONS\c[0], que têm uma variadade de efeitos.\! Diferentes \c[1]DONS\c[0] podem precisar de diferentes quantias de SUCO.
+    text: SUCO é necessário para poder usar \c[1]DONS\c[0], que têm uma variedade de efeitos.\! Diferentes \c[1]DONS\c[0] podem precisar de diferentes quantias de SUCO.
 
 message_9:
     text: ATAQUE
@@ -124,7 +124,7 @@ message_31:
     text: NERVOSO
 
 message_32:
-    text: Um inimigo/amigo NERVOSO aumenta o ATAQUE, mas diminui a DEFESA
+    text: Um inimigo/amigo NERVOSO aumenta o ATAQUE, mas diminui a DEFESA.
 
 message_33:
     text: Quando um inimigo/amigo está ainda mais NERVOSO, eles ficam ENFURECIDOS.
@@ -260,7 +260,7 @@ message_159:
     text: KEL passa a bola pro OMORI, dando dano à um inimigo e fazendo OMORI ficar FELIZ.
 
 message_259:
-    text: KEL passa a bola pro OMORI, dando grande dano à um inimigo e fazendo OMORI ficar EXTÁTICO.
+    text: KEL passa a bola pro OMORI, dando grande dano a um inimigo e fazendo OMORI ficar EXTÁTICO.
 
 message_60:
     text: PASSAR PRA AUBREY
@@ -367,7 +367,7 @@ message_78:
     text: AMULETOS
 
 message_79:
-    text: AMULETOS podem ser equipados por qualquer um.\!<br>A maioria dos AMULETOS te dão bonus de status, mas algus têm efeitos únicos.
+    text: AMULETOS podem ser equipados por qualquer um.\!<br>A maioria dos AMULETOS te dão bonus de status, mas alguns têm efeitos únicos.
 
 #----
 #TOYS

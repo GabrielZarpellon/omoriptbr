@@ -2149,7 +2149,7 @@ message_398:
 message_399:
       faceset: MainCharacters_DreamWorld
       faceindex: 48
-      text: Sem pressa...\! Só acho que estou...\! ficando...\! hurg...\! um pouco doente...\her
+      text: Sem pressa...\! Só acho que estou...\! ficando...\! hurg...\! um pouco enjoado...\her
 
 # -----------------------------------------------
 # - SLIME GIRLS: MOLLY MAIN ROOM (236)
@@ -2242,7 +2242,7 @@ message_479:
     text: \n<HUMPHREY OPERADOR>Nossa! Com certeza, esses números não estão corretos!\!<br>...\! Oh... espere...\! Parece que eu errei um cálculo...\!<br>Acho que não estão.
 
 message_480:
-    text: \n<HUMPHREY OPERADOR>Nós entendemos pouquíssimo sobre esse mundo, então estudamos ele...\! mas nossa pesquisa nos dá mais perguntas ainda!\!<br>É um ciclo sem fim!
+    text: \n<HUMPHREY OPERADOR>Nós entendemos pouquíssimo sobre esse mundo, então estudamos ele...\! mas nossa pesquisa nos dá mais perguntas ainda!\! É um ciclo sem fim!
 
 message_481:
     text: \n<HUMPHREY OPERADOR>Esse é o HUMPHREY para HUMPHREY... Copia?
@@ -2310,7 +2310,7 @@ message_476:
 #FOURTH HUMPHREY (Pattern)
 
 message_452:
-    text: \n<HUMPHREY>Ah! Olá, visitantes!\! Depois de meses e meses de trabalho e cansaço, Eu consegui criar a primeira máquina de holograma HUMPHREY!<br>Eles não se parecem com os reais?\!<br>Sniff...\! Não poderia estar mais orgulhoso...
+    text: \n<HUMPHREY>Ah! Olá, visitantes!\! Depois de meses e meses de trabalho e cansaço, eu consegui criar a primeira máquina de holograma HUMPHREY!<br>Eles não se parecem com os reais?\!<br>Sniff...\! Não poderia estar mais orgulhoso...
 
 message_453:
     text: \n<HUMPHREY>MOLLY me disse para eu esperar aqui, mas não sei o porquê!
@@ -2327,7 +2327,7 @@ message_463:
     text: \n<HUMPHREY>...
 
 message_700:
-    text: \n<HUMPHREY>Na verdade... Eu acabei de ter uma ideia!\! Talvez uma de vocês crianças poderiam tentar passar correndo por uma dessas barras para mim?\!<br>Só quero ver uma coisa rapidinho.
+    text: \n<HUMPHREY>Na verdade... Eu acabei de ter uma ideia!\! Talvez um de vocês poderia tentar passar correndo por uma dessas barras?\!<br>Só quero ver uma coisa rapidinho.
 
 message_701:
     text: \n<HUMPHREY>Por que vocês não escolhem quem vai por meio de votação?

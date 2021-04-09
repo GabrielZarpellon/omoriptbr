@@ -26,7 +26,7 @@ message_4:
       text: Não vamos nos meter nisso de jeito nenhum.\!<br>Bora dar o fora daqui!\kel
 
 message_5:
-      text: Parados ai, crianças.\!<br>Eu preciso corrigí-las...\! vocês estão extremamente enganadas.\! <br>Nós não somos bruxas...\! mas seguidoras da ciência!\n<MOLLY>
+      text: Parados aí, crianças.\! Eu preciso corrigí-las...\!<br>Vocês estão extremamente enganadas.\! <br>Nós não somos bruxas...\! mas seguidoras da ciência!\n<MOLLY>
 
 #MEDUSA turns to MOLLY.
 
@@ -104,7 +104,7 @@ message_23:
 #MARINA is surprised.
 
 message_24:
-      text: Ah é, né!\! Nesse caso, ela definitivamente pagou sua divida.\n<MARINA>
+      text: Ah é, né!\! Nesse caso, ela definitivamente pagou sua dívida.\n<MARINA>
 
 #MARINA walks up to party.
 
@@ -114,7 +114,7 @@ message_25:
 #MEDUSA jumps.
 
 message_26:
-      text: Não seja tão bruta, MARINA!\!<br>Eu tenho certeza que ela quis dizer que as crianças pagariam a gente...<br>não que devíamos vender elas!\n<MEDUSA>
+      text: Não seja tão bruta, MARINA!\!<br>Eu tenho certeza que ela quis dizer que as crianças pagariam a gente...<br>não que devíamos vendê-las!\n<MEDUSA>
 
 #MOLLY turns to children and walks up.
 
@@ -134,7 +134,7 @@ message_29:
 #MOLLY turns around. MEDUSA and MARINA join to discuss.
 
 message_30:
-      text: \}Tem a taxa de consulta... taxa inicial... taxa de preparação... taxa de inspeção... taxa de serviço... custo de materiais... taxa de garantia... taxa de eliminação... tarifa de envio... gratificação... taxa de cancelamento... danos... taxa de pagamento atrasado...\n<MOLLY>
+      text: \}Tem a taxa de consulta... taxa inicial... taxa de preparação... taxa de inspeção... taxa de serviço... custo de materiais... taxa de garantia... taxa de eliminação... tarifa de envio... gratificação... danos... taxa de cancelamento... taxa de pagamento atrasado...\n<MOLLY>
 
 #MOLLY turns around.
 
@@ -283,7 +283,7 @@ message_60:
       text: Sim... Parece que nossas presas precisam ser disciplinadas.\! <br>Alguém precisa ensinar vocês a ter maneiras adequadas!\n<MEDUSA>
 
 message_61:
-      text: Para presas, vocês são todos muito exigentes...\!<br>\sinv[1]Vocês não querem ser vendidos...\! Vocês não querem ser mascotes...\!<br>Vocês deviam saber da posição de vocês...\n<MARINA>
+      text: Para presas, vocês são todos muito exigentes...\!<br>\sinv[1]Vocês não querem ser vendidos...\! Não querem ser mascotes...\! Vocês deviam saber da posição de vocês...\n<MARINA>
 
 message_62:
       text: Bem...\! Tanto faz...\! Tudo bem com a gente.\n<MARINA>
@@ -515,7 +515,7 @@ message_182:
 message_183:
       faceset: MainCharacters_DreamWorld
       faceindex: 31
-      text: \kelNão se preocupa, AUBREY. A gente vai conseguir!\!<br>Já saimos de várias situações grudentas antes!
+      text: \kelNão se preocupa, AUBREY. A gente vai conseguir!\!<br>Já saímos de várias situações grudentas antes!
 
 message_184:
       faceset: MainCharacters_DreamWorld
@@ -540,7 +540,7 @@ message_160:
 #HUMPHREY burps, then closes back mouth.
 
 message_161:
-      text: Hmm...\! de repente...\! Eu to com um soninho...\!<br>\}Acho que...\! \}\sinv[1]Eu vou tirar uma sonequinha.\n<HUMPHREY>
+      text: Hmm...\! de repente...\! Eu tô com um soninho...\!<br>\}Acho que...\! \}\sinv[1]Eu vou tirar uma sonequinha.\n<HUMPHREY>
 
 #HUMPHREY sinks into lake.
 #Camera pans to party.

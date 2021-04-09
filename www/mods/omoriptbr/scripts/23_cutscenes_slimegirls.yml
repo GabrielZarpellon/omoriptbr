@@ -9,7 +9,7 @@
 
 
 message_0:
-      text: Minha nossa, esse lugar tem um cheiro horrendo!\!<br>Quanto tempo isto vai demorar?<br>Meu nariz é bem sensível, sabia!\swh
+      text: Minha nossa, esse lugar tem um cheiro horrendo!\!<br>Quanto tempo isto vai demorar?<br>Meu nariz é bem sensível, sabia?\swh
 
 #MEDUSA turns to SWEETHEART.
 
@@ -57,7 +57,7 @@ message_9:
 #PERFECTHEART follows SWEETHEART's movements.
 
 message_10:
-      text: Hmmm...\!Eu não gosto dela.\swh
+      text: Hmmm...\! Eu não gosto dela.\swh
 
 message_11:
       text: O que disse? Eu te ouvi corretamente?\!<br>Mas ela é tudo que você pediu e mais!\n<MEDUSA>
@@ -192,7 +192,7 @@ message_62:
 #MOLLY turns to SWEETHEART.
 
 message_63:
-      text: É por que você fez eu apressar meu trabalho!\! <br>Ao invés de amar, agora ela deve estar programada... \!\quake[1]pra matar!\n<MOLLY>
+      text: É porque você fez eu apressar meu trabalho!\! <br>Ao invés de amar, agora ela deve estar programada... \!\quake[1]pra matar!\n<MOLLY>
 
 message_64:
       text: TsOjbywgcG9yIGZhdm9yISBpc3NvIMOpIHVtIG1hbA==<br>ZW50ZW5kaWRvLCBldSBzw7MgcXVlcm8gc2VyIHN1YSBhbWlnYSE=<br>RSB0YWx2ZXogbWFpcyE=\n<ROBÔ-HEART>

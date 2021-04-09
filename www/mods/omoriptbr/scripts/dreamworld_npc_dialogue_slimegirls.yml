@@ -111,10 +111,10 @@ message_23:
       text: \humMEDUSA trata a gente bem e nos alimenta regularmente...\!<br>Não dá pra dizer o mesmo sobre a MARINA ou a MOLLY!
 
 message_24:
-      text: \humTodos os HUMPHREY do setor da MARINA ficam desaparecendo, então ela continua pedindo mais para a MEDUSA...\!<br>Gulp...\! Espero que eu não seja o próximo...
+      text: \humTodos os HUMPHREY do setor da MARINA ficam desaparecendo, então ela pede mais para a MEDUSA...\!<br>Gulp...\! Espero que eu não seja o próximo...
 
 message_25:
-      text: \humDá pra dizer quando MEDUSA está brava por que ela fica andando pra frente e pra trás.\! Ela nunca vai gritar com você, mas ainda sim...\! É bem assustador.
+      text: \humDá pra dizer quando MEDUSA está brava porque ela fica andando pra frente e pra trás.\! Ela nunca vai gritar com você, mas ainda sim...\! É bem assustador.
 
 message_26:
       text: \humCuidado onde anda!\! Alguns dos líquidos derramados não foram feitos para ser tocados por humanos!
@@ -209,7 +209,7 @@ message_54:
       text: \n<HUMPHREY SÁBIO>\sinv[1]Balém olá, amigos!\!\sinv[0] Quebra-cabeças não são o forte de todo mundo.\! Se ficar preso, eu posso te ajudar um pouco...\! ou bastante!
 
 message_56:
-      text: \n<HUMPHREY>Ah... é claro!\! Os cálculos são tão símples quando você bota eles assim...
+      text: \n<HUMPHREY>Ah... é claro!\! Os cálculos são tão simples quando você bota eles assim...
 
 message_57:
       text: \n<HUMPHREY>Então se eu multiplicar o resultado...\! Subtrair por infinito...\! Então dividir por zero...\! E carregar o um...\! Isso me levaria a...\!<br>um número imaginário!
