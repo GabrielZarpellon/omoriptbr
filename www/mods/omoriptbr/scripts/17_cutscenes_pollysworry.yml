@@ -55,7 +55,7 @@ message_24:
       text: ...\cha
 
 message_25:
-      text: Heh.\! Então vamos para o nosso ponto de encontro secreto?\! Nham... \! É um lugar perfeito para um encontro!\! Nham...\! Eu vou trazer uma das minhas moças especias.\mav
+      text: \n<O MAVERICK>Heh.\! Então vamos para o nosso ponto de encontro secreto?\! Nham... \! É um lugar perfeito para um encontro!\! Nham...\! Eu vou trazer uma das minhas moças especias.
 
 message_26:
       text: Nadar...\! Nham, nham, nham, nham...\! Parece... \! <br>Nham, nham, nham, nham, nham, nham, nham, nham...\! <br>bem divertido.\van
@@ -67,13 +67,13 @@ message_28:
       text: Eu estive procurando as pedras perfeitas...\! nham...\! a semana toda!\kim
 
 message_29:
-      text: Heh.\! Nham...\! Você pode tentar o quanto quiser, KIM, mas você nunca vai bater o recorde da AUBREY!\mav
+      text: \n<O MAVERICK>Heh.\! Nham...\! Você pode tentar o quanto quiser, KIM, mas você nunca vai bater o recorde da AUBREY!
 
 message_30:
       text: Cala a boca, MIKHAEL!\! Como se alguma garota iria...\! nham...\! pro lago com você sem pagar ela!\kim
 
 message_31:
-      text: Eu te disse pra me chamar de O MAVER- <br>\{\Com[2]\quake[1]AII!!\! \Com[2]EU MUDI' MIA' LINGA!!\mav
+      text: \n<O MAVERICK>Eu te disse pra me chamar de O MAVER- <br>\{\Com[2]\quake[1]AII!!\! \Com[2]EU MUDI' MIA' LINGA!!
 
 message_32:
       text: \{\sinv[2]BAHAHAHAHAHAHAHA!!\!\}<br>Que perdedor!\kim
@@ -82,7 +82,7 @@ message_33:
       text: \quake[1]\{FWAAAAAA!! MESTRE, VOCÊ ESTÁ MACHUCADO!?\ang
 
 message_34:
-      text: \quake[1]\{CÊ' VAI' PAGA' PU' ISSO', KIM!\mav
+      text: \n<O MAVERICK>\quake[1]\{CÊ' VAI' PAGA' PU' ISSO', KIM!
 
 #SWITCH TO BAHAHAHA
 message_35:
