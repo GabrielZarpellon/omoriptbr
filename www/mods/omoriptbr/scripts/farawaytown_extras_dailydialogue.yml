@@ -53,7 +53,7 @@ message_21:
 #Location: Town Plaza
 
 message_30:
-      text: \n<MAVERICK>Eu não vou dizer onde a AUBREY está a menos que você me chame de O MAVERICK!
+      text: \n<O MAVERICK>Eu não vou dizer onde a AUBREY está a menos que você me chame de O MAVERICK!
 
 
 #===============ARTIST=====================
@@ -497,7 +497,7 @@ message_405:
       text: \kelApontar...
 
 message_406:
-      text: \n<THE MAVERICK and KEL>JÁ!
+      text: \n<O MAVERICK E KEL>JÁ!
 
 #KEL runs quickly, and the camera follows
 #After a few seconds,THE MAVERICK slowly walks into the screen from off CAMERA
