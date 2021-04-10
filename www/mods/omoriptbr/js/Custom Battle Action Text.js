@@ -852,7 +852,7 @@ switch (type) {
       break;
 
     case 'FLYTRAP NOTHING':  // FLYTRAP NOTHING
-      text = user.name() + ' está mordendo em nada.';
+      text = user.name() + ' está mordendo.';
       break;
 
     case 'FLYTRAP CRUNCH':  // FLYTRAP
