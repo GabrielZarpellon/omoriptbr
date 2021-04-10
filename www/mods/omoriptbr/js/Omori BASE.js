@@ -503,7 +503,7 @@ DataManager.getItemIconGraphicsData = function(item) {
 //=============================================================================
 // * Get Blackletter hangman word
 //=============================================================================
-DataManager.hangmanWord = function() { return "BEM VINDO AO ESPACO PRETO"; };
+DataManager.hangmanWord = function() { return "BEM VINDO AO ESPACO NEGRO"; };
 //=============================================================================
 // * Get Blackletter Collection State (Completed, Failed, Incomplete)
 //=============================================================================
