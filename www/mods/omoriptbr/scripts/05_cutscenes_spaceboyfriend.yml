@@ -11,7 +11,7 @@ message_1:
       text: \n<CARA PIRATA ESPACIAL>O capitão dos PIRATAS ESPACIAIS...\!<br>O mestre do SISTEMA SOLAR...\!<br>O príncipe do universo...
 
 message_2:
-      text: \n<CARA PIRATA ESPACIAL>O primeiro e único CAPITÃO ESPA-\! Quero dizer...\! Err...\!<br>Você está entrando na casa do... \!NAMORADO...\! ESPACIAL.
+      text: \n<CARA PIRATA ESPACIAL>O primeiro e único CAPITÃO SPA-\! Quero dizer...\! Err...\!<br>Você está entrando na casa do... \!NAMORADO...\! ESPACIAL.
 
 message_3:
       faceset: MainCharacters_DreamWorld
@@ -44,7 +44,7 @@ message_10:
       text: Ahhh, Me desculpa... Isso parece terrível.\!<br>Talvez a gente possa falar um pouco com ele.\aub
 
 message_11:
-      text: \n<CARA PIRATA ESPACIAL>Oh, eu não faria isso se fosse você.\! O CAPITÃO ESPA-<br>Quero dizer...\! O NAMORADO ESPACIAL tem duas personalidades, sabe?
+      text: \n<CARA PIRATA ESPACIAL>Oh, eu não faria isso se fosse você.\! O CAPITÃO SPA-<br>Quero dizer...\! O NAMORADO ESPACIAL tem duas personalidades, sabe?
 
 message_12:
       faceset: MainCharacters_DreamWorld
@@ -106,7 +106,7 @@ message_51:
 message_52:
       faceset: MainCharacters_DreamWorld
       faceindex: 40
-      text: Oh não...\! CAPITÃO ESPA-\!<br>Quero dizer, o NAMORADO ESPACIAL não parece tão bem.\her
+      text: Oh não...\! CAPITÃO SPA-\!<br>Quero dizer, o NAMORADO ESPACIAL não parece tão bem.\her
 
 message_53:
       faceset: MainCharacters_DreamWorld
@@ -332,7 +332,7 @@ message_150:
 message_160:
       faceset: MainCharacters_DreamWorld
       faceindex: 4
-      text: Espera OMORI!\! A gente devia checar o CAPITÃO ESPA-\!<br>Quero dizer, NAMORADO ESPACIAL primeiro.\aub
+      text: Espera OMORI!\! A gente devia checar o CAPITÃO SPA-\!<br>Quero dizer, NAMORADO ESPACIAL primeiro.\aub
 
 message_161:
       text: Você usou a \c[4]CHAVE DO FERRO-VELHO\c[0].

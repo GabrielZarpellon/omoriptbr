@@ -633,7 +633,7 @@ message_118:
 
 message_119:
    text: >
-    \>MOLLY: \<Relaxem, crianças...\!<br>Não vai doer nadinha~.
+    \>MOLLY: \<Relaxem, crianças...\!<br>Não vai doer nadinha~
 
 # After Defeat:
 
@@ -1413,7 +1413,7 @@ message_274:
 # Before swallow 2
 message_275:
    text: >
-    \>HUMPHREY: \<\sinv[1]Não importa se for rápido ou devagar...\| Quanto mais você luta, mais ao fundo a gente vai!
+    \>HUMPHREY: \<\sinv[1]Rápido ou devagar, tanto faz...\| Quanto mais você luta, mais fundo a gente vai!
 
 # Before Swallow 3
 message_276:

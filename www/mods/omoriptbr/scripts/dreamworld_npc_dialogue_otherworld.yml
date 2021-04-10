@@ -154,7 +154,7 @@ message_35:
       text: \pesDeixa eu contar à vocês da vez que eu quase conheci ela.\!<br>Acontece que a gente tava comendo no mesmo restaurante...\!<br>Era destino, eu acho.
 
 message_36:
-      text: \pesNós pedimos a mesma refeição também!\! Não é como seu eu tivesse visto tudo que ela pediu e copiado ou algo do tipo.
+      text: \pesNós pedimos a mesma refeição também!\! Não é como se eu tivesse visto tudo que ela pediu e copiado ou algo do tipo.
 
 message_37:
       text: \pesEu até tentei pagar a refeição dela, mas eu tinha acabado de comprar uma estátua em tamanho real da SWEETHEART um dia antes e não podia pagar...
@@ -172,7 +172,7 @@ message_41:
       text: \pesQuando não cuidada em um ambiente controlado, ela se espalha que nem fogo e é impossível da parar já que ela cresce em cima de qualquer superfície.
 
 message_42:
-      text: De relance, isso parece uma pessoa muito desagradável...\!<br>Mas é só uma estátua.
+      text: De relance, isso parece uma pessoa muito detestável...\!<br>Mas é só uma estátua.
 
 #SNAKE
 message_43:
@@ -472,7 +472,7 @@ message_161:
       text: Está escrito...<br>"Preencha o espaço em branco."
 
 message_162:
-      text: "Quando a lua acerta o seu olho como uma grande torta de pizza,<br>Isso é ________."
+      text: "When the Moon hits your eye like a big pizza pie,<br>That's ________."
 
 message_163:
       text: Como você gostaria de responder?
