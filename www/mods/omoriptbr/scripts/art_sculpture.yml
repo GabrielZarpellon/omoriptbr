@@ -205,7 +205,7 @@ message_999:
     text: \n<ROCOCO>Eu vou ficar parado aqui esperando!
 
 message_53:
-    text: \$\n<ROCOCO>Para minha primeira obra-prima, irei cobrar apenas 1000 CONCHAS de vocês!\! Vocês decidiram auxiliar em minha jornada de autodescoberta?
+    text: \$\n<ROCOCO>Para minha primeira obra-prima, irei cobrar apenas 1000 CONCHAS de vocês!\! Vocês decidiram auxiliar em minha jornada de autodescobrimento?
 
 #[YES/NO]
 
@@ -251,12 +251,12 @@ message_62:
     text: \n<ROCOCO>Só para que saibam...\! À medida que minhas habilidades se tornam cada vez mais formidáveis, o preço das minhas comissões também vão aumentar!
 
 message_63:
-    text: \$\n<ROCOCO>A próxima obra-prima irá custar \v[1000] CONCHAS!\! Vocês irão continuar a auxiliar em minha jornada de autodescoberta?
+    text: \$\n<ROCOCO>A próxima obra-prima irá custar \v[1000] CONCHAS!\! Vocês irão continuar a auxiliar em minha jornada de autodescobrimento?
 
 #After completing all paintings:
 
 message_64:
-    text: \n<ROCOCO>Obrigado, meus caros seres vivos.\! Através dessas poucas comissões...\! Eu sinto como se tivesse dado grandes saltos em minha jornada de autodescoberta no processo.\! E agora também sou muito rico.
+    text: \n<ROCOCO>Obrigado, meus caros seres vivos.\! Através dessas poucas comissões...\! Eu sinto como se tivesse realizado grandes saltos em minha jornada de autodescobrimento no processo. Agora também sou muito rico.
 
 message_65:
       text: \n<ROCOCO>Eu não posso fazer mais nada para vocês!\! Me sinto verdadeiramente completo!
