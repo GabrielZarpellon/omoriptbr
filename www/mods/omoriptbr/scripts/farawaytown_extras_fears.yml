@@ -5,26 +5,26 @@
 
 #UNUSED
 message_1:
-      text: \n<SOMETHING>\fn<OMORI_GAME>Oh... Little brother...\! You... You are scared.\!<br>Please... Let me take care of you...
+      text: \n<ALGO>\fn<OMORI_GAME>Oh... Irmãozinho...\! Você... Você está assustado.<br>Por favor... Deixe-me cuidar de você...
 
 message_2:
-      text: \n<SOMETHING>\fn<OMORI_GAME>I can tell...\! The look in your eyes shows me...\!<br>You are tired.\! Please... Let me take care of you...
+      text: \n<ALGO>\fn<OMORI_GAME>Eu consigo saber...\! Seu olhar me diz...<br>Você está cansado.\! Por favor... Deixe-me cuidar de você...
 
 message_3:
-      text: \n<SOMETHING>\fn<OMORI_GAME>Little brother...\! Please, look at me...\! I am worried about you...\! Your eyes are swollen and your fingers are bruised...\!<br>Let me take care of you...
+      text: \n<ALGO>\fn<OMORI_GAME>Irmãozinho...\! Por favor, olhe pra mim...\! Eu estou preocupada com você...\! Seus olhos estão inchados e seus dedos estão machucados...<br>Deixe-me cuidar de você...
 
 message_4:
-      text: \n<SOMETHING>\fn<OMORI_GAME>Oh, little brother...\! Please do not resist...\! After all I've done for you...\! Will you not trust me?\! Please... Let me take care of you...
+      text: \n<ALGO>\fn<OMORI_GAME>Oh, irmãozinho...\! Por favor, não resista...\! Depois de tudo o que eu fiz por você...\! Você não confia em mim?\! Por favor... Deixe-me cuidar de você...
 
 message_5:
-      text: \n<SOMETHING>\fn<OMORI_GAME>Sweet, little brother...\! You... You are confused...\! Why do you deny my help?\! I will always want the best for you...\! You know that, don't you?\! Please...\! Let me take care of you...
+      text: \n<ALGO>\fn<OMORI_GAME>Doce, irmãozinho...\! Você... Você está confuso...\! Por que nega minha ajuda?\! Eu sempre quero o melhor pra você...\! Você sabe disso, não é?\! Por favor...\! Deixe-me cuidar de você...
 
 
 message_6:
-      text: \n<SOMETHING>\fn<OMORI_GAME>I'm sorry... Sweet little brother...\! I must insist...\! Your eyes... They are welled with tears and your fingers...\ They shake in pain.\! Do not worry, little brother.\! I will take care of you...
+      text: \n<ALGO>\fn<OMORI_GAME>Me desculpe... Doce irmãozinho...\! Eu preciso insistir...\! Seus olhos... Estão molhados com lágrimas e seus dedos...\ Tremem em dor.\! Não se preocupe, irmãozinho.\! Eu irei cuidar de você...
 
 message_7:
-      text: \n<SOMETHING>\fn<OMORI_GAME>Sweet little brother.\! It is time to rest...\!<br>Shut your eyes... and stay very, very still...
+      text: \n<ALGO>\fn<OMORI_GAME>Doce irmãozinho.\! É hora de descansar...<br>Feche seus olhos... e fique bem, bem quietinho...
 
 message_8:
       text: NO
@@ -33,10 +33,10 @@ message_9:
       text: YES
 
 message_10:
-      text: You feel something crawling up your leg.
+      text: Você sente algo rastejando em sua perna.
 
 message_11:
-      text: You feel something crawling on your neck.
+      text: Você sente algo rastejando em seu pescoço.
 
 # =========================================================================================
 # Fear of Heights
