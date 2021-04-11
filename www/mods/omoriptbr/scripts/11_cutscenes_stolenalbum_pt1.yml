@@ -376,7 +376,7 @@ message_111:
       text: Oh, \Com[2]O MAVERICK, você é tão engraçado!\n<GAROTA>
 
 message_112:
-      text: Ho-ho! Wow, que história incrível, \Com[2]O MAVERICK!\n<GAROTA 2>
+      text: Ho-ho! Uau, que história incrível, \Com[2]O MAVERICK!\n<GAROTA 2>
 
 message_113:
       text: \n<O MAVERICK>\sinv[1]Garotas, garotas... por favor! Uma de cada vez...\sinv[2]
