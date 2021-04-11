@@ -128,7 +128,7 @@ message_21:
       text: Você recebeu um \c[13]ANÉL DE CASAMENTO\c[0].
 
 message_22:
-      text: \n<EX MARIDO ESPACIAL>Eu vou indo agora.\!<br>Não se preocupem comigo... Eu vou achar meu caminho pra casa...\!<br>Eu...\! Eu sei como voltar.
+      text: \n<EX MARIDO ESPACIAL>Eu vou indo agora.\!<br>Não se preocupem comigo... Eu vou achar meu caminho pra casa...<br>Eu...\! Eu sei como voltar.
 
 #CUTSCENE: FATHER AND son
 
