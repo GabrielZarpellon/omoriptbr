@@ -16,7 +16,7 @@ message_2:
 message_3:
       faceset: MainCharacters_Faraway
       faceindex: 31
-      text: \herHm?\! Sniff...\! Huh?\! Vocês estão sentindo esse cheiro?\!<br>Parece que alguma coisa está queimando...
+      text: \herHm?\! Sniff...\! Hã?\! Vocês estão sentindo esse cheiro?\!<br>Parece que alguma coisa está queimando...
 
 message_4:
       text: \n<MOÇA DE TRANÇAS>\com[2]\{\quake[1]EEEEEEEEEK!!\quake[0] DESCULPA, UM SEGUNDO!
@@ -60,7 +60,7 @@ message_12:
 message_13:
       faceset: MainCharacters_Faraway
       faceindex: 5
-      text: \aubHuh? E-Espera um segundo... Até eu!?
+      text: \aubHã? E-Espera um segundo... Até eu!?
 
 message_14:
     faceset: MainCharacters_Faraway

@@ -322,7 +322,7 @@ message_78:
 
 #PAPER:
 message_64:
-      text: \n<JOGEN>...\! Huh...\! Então essa é a derrota.\! Você me derrotou, desafiante.
+      text: \n<JOGEN>...\! Hã...\! Então essa é a derrota.\! Você me derrotou, desafiante.
 
 message_66:
       text: \n<JOGEN>Como prometido, você receberá todas as minhas economias.
@@ -625,7 +625,7 @@ message_133:
 
 #Location: Train Station
 message_137:
-      text: \n<MOTT>Ando vendo alguns CARAS JACARÉS por aqui recentemente...\!<br>Isso significa que o chefão voltou aos negócios...<br><br>Huh?\! Você não conhece o chefão?\! Bem, logo você vai.
+      text: \n<MOTT>Ando vendo alguns CARAS JACARÉS por aqui recentemente...\!<br>Isso significa que o chefão voltou aos negócios...<br><br>Hã?\! Você não conhece o chefão?\! Bem, logo você vai.
 
 #Location: Mr. Jawsum's Concierge
 message_135:
@@ -1220,7 +1220,7 @@ message_282:
 
 
 message_286:
-      text: \n<CARA JACARÉ>Então vocês finalmente decidiram seguir em frente, huh?\!<br>Não se esqueçam da gente quando chegarem no topo!
+      text: \n<CARA JACARÉ>Então vocês finalmente decidiram seguir em frente, né?\!<br>Não se esqueçam da gente quando chegarem no topo!
 
 message_285:
       text: \n<CARA JACARÉ>Tenham uma jornada segura, galera.\!<br>Sniff... Vocês cresceram tão rápido...
@@ -1328,7 +1328,7 @@ message_323:
 message_324:
       faceset: MainCharacters_DreamWorld
       faceindex: 46
-      text: \herHuh? Você está de castigo?\! O que você fez?
+      text: \herHã? Você está de castigo?\! O que você fez?
 
 message_325:
       text: \n<EMS>\}Nadinha...\! Eu só tentei comer aquelas mesas...

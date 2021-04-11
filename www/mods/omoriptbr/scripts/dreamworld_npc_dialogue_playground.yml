@@ -223,7 +223,7 @@ message_82:
 message_83:
       faceset: MainCharacters_DreamWorld
       faceindex: 11
-      text: \aub\SINV[1]...Huh?\! O que tá acontecendo?\SINV[0]
+      text: \aub\SINV[1]...Hã?\! O que tá acontecendo?\SINV[0]
 
 message_84:
       text: \berDe hoje em diante...\!<br>Eu te declaro uma CABEÇUDA genuína.

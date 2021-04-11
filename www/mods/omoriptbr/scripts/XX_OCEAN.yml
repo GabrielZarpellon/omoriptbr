@@ -46,7 +46,7 @@ message_41:
       text: Espera aí, \n[8]! Não podemos simplesmente sair com toda essa grana!\! Nós precisamos comprar a \c[4]LUMINÁRIA DE PISO\c[0] primeiro!
 
 message_42:
-      text: \n<CARA DO REPARA-JÁ>Então os moleques querem comprar uma \c[4]LUMINÁRIA DE PISO\c[0], huh?\! Bom, a que vocês estão olhando custa mais ou menos...\! uh...\! $50.00.\! Cês vão querer ou não?
+      text: \n<CARA DO REPARA-JÁ>Então os moleques querem comprar uma \c[4]LUMINÁRIA DE PISO\c[0], hein?\! Bom, a que vocês estão olhando custa mais ou menos...\! uh...\! $50.00.\! Cês vão querer ou não?
 
 message_43:
       text: \n<CARA DO REPARA-JÁ>Legal, aqui está sua \c[4]LUMINÁRIA DE PISO\c[0] novinha em folha.\!<br>Sem reembolsos ou trocas, beleza?\! É a política da empresa.
@@ -657,7 +657,7 @@ message_353:
     text: \n<ROSA>\{\quake[1]AGORA CAI FORA DA MINHA CASA!!
 
 message_354:
-    text: \n<BROTOPEIRA SUSPEITA>\}Heh...\! A ROSA tá se fazendo de difícil de novo, huh?\!<br>Que figura... Ela sempre foi assim...
+    text: \n<BROTOPEIRA SUSPEITA>\}Heh...\! A ROSA tá se fazendo de difícil de novo, hein?\!<br>Que figura... Ela sempre foi assim...
 
 message_908:
     text: \n<BROTOPEIRA SUSPEITA>\}Aqui.\! Pegue isso e mostre pra ela.\!<br>Impossível ela te recusar após ver isso.
@@ -1199,7 +1199,7 @@ message_564:
 message_565:
     faceset: MainCharacters_Faraway
     faceindex: 14
-    text: \kelOlhar esses quadrinhos traz de volta tantas memórias.\! É que nem nos velhos tempos, huh \n[8]?\! No entanto, o HERO nunca se interessou tanto nas comics...
+    text: \kelOlhar esses quadrinhos traz de volta tantas memórias.\! É que nem nos velhos tempos, não é, \n[8]?\? No entanto, o HERO nunca se interessou tanto nas comics...
 
 message_566:
     faceset: MainCharacters_Faraway

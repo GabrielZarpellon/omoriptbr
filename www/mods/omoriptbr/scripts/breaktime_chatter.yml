@@ -396,7 +396,7 @@ message_67:
 message_68:
     faceset: MainCharacters_DreamWorld
     faceindex: 28
-    text: \kelPedaços maiores de gelo, huh?\! É por isso que as \c[3]RASPADINHAS\c[0] são tão mais caras?
+    text: \kelPedaços maiores de gelo, hein?\! É por isso que as \c[3]RASPADINHAS\c[0] são tão mais caras?
 
 message_69:
     faceset: MainCharacter_Mari
@@ -920,7 +920,7 @@ message_160:
 message_161:
     faceset: MainCharacter_Basil
     faceindex: 2
-    text: \basH-Huh?\! Oh...\! Não é nada!
+    text: \basH-Hã?\! Oh...\! Não é nada!
 
 message_162:
     faceset: MainCharacter_Basil
@@ -1129,7 +1129,7 @@ message_199:
 message_200:
     faceset: MainCharacters_DreamWorld
     faceindex: 28
-    text: \kelHuhh...\! Eu acho que isso não funcionou...
+    text: \kelHã...\! Eu acho que isso não funcionou...
 
 message_201:
     faceset: MainCharacter_Mari
@@ -1166,7 +1166,7 @@ message_206:
 message_207:
     faceset: MainCharacters_DreamWorld
     faceindex: 19
-    text: \kelFotos, huh?\! Sabe...\! meu amigo BASIL aqui é muito bom com uma câmera!\! Eu aposto que ele pode te dar algumas dicas!
+    text: \kelFotos, hã?\! Sabe...\! meu amigo BASIL aqui é muito bom com uma câmera!\! Eu aposto que ele pode te dar algumas dicas!
 
 message_208:
     text: \n<CARA JACARÉ>Sério? Você acha que ele consegue?
@@ -1193,7 +1193,7 @@ message_213:
     text: \n<CARA JACARÉ>\com[2]Que? Não quer!?
 
 message_214:
-    text: \n<CARA JACARÉ>Heh...\! Acho que tem pessoas que não querem mesmo, huh...
+    text: \n<CARA JACARÉ>Heh...\! Acho que tem pessoas que não querem mesmo, né...
 
 message_215:
     text: \n<CARA JACARÉ>Bom, faça o que achar melhor, menino das flores.\! Faça do seu jeito!

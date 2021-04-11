@@ -60,7 +60,7 @@ message_8:
 message_9:
       faceset: MainCharacters_Faraway
       faceindex: 31
-      text: Huh?\! O que tá acontecendo aqui?\her
+      text: Hã?\! O que tá acontecendo aqui?\her
 
 # =========================================================================================
 
@@ -186,7 +186,7 @@ message_32:
       text: Ei, KIM...\! Valeu por pedir pra gente ajudar.\! <br>Você é uma boa amiga.\her
 
 message_33:
-      text: H-Huh?\! Err...\! C-Claro, tanto faz...\kim
+      text: H-hã?\! Err...\! C-Claro, tanto faz...\kim
 
 message_34:
       text: ...\kim

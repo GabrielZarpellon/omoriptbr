@@ -12,7 +12,7 @@
 message_0:
     faceset: MainCharacter_Mari
     faceindex: 3
-    text: \marOi, OMORI! Cara de paisagem como sempre, huh?\!<br>Você deveria sorrir muito mais! Eu sempre gostei do seu sorriso.
+    text: \marOi, OMORI! Cara de paisagem como sempre, hein?\!<br>Você deveria sorrir muito mais! Eu sempre gostei do seu sorriso.
 
 #If AUBREY is leader:
 message_1:
@@ -904,7 +904,7 @@ message_285:
 message_286:
       faceset: MainCharacter_Mari
       faceindex: 2
-      text: \marHmm... O BASIL sumiu, huh?\. Ele poderia estar por aqui?\. Você conhece ele melhor do que a gente, OMORI!\.\^
+      text: \marHmm... O BASIL sumiu, hã?\. Ele poderia estar por aqui?\. Você conhece ele melhor do que a gente, OMORI!\.\^
 
 message_287:
       faceset: MainCharacter_Mari

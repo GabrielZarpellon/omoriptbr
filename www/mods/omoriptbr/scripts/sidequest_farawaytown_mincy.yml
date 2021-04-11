@@ -68,7 +68,7 @@ message_14:
 message_15:
       faceset: MainCharacters_Faraway
       faceindex: 17 #insert number here
-      text: \kelHuh? Tem algo errado?
+      text: \kelHã? Tem algo errado?
 
 message_16:
       text: \minOh, não é nada...\! Você é a primeira pessoa a dizer algo positivo sobre meus desenhos.
@@ -287,7 +287,7 @@ message_62:
 message_63:
       faceset: MainCharacters_Faraway
       faceindex: 16 #insert number here
-      text: \kelHuh?\! O que eu fiz?
+      text: \kelHã?\! O que eu fiz?
 
 message_64:
       text: \minHaha...\! Nada, mas...\! Eu acho...\! só me dizer pra continuar indo.\! Eu acho que preciso de um empurrãozinho às vezes, sabe?

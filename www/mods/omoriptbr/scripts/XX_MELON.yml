@@ -212,13 +212,13 @@ message_830:
     text: Você deseja dar o seu \c[4]CARTÃO GOSMENTO\c[0] pro HUMPHREY?
 
 message_831:
-    text: \n<HUHMPREY>\sinv[1]Ooooooooh... \sinv[0]Um \c[4]CARTÃO GOSMENTO\c[0]!
+    text: \n<HUMPHREY>\sinv[1]Ooooooooh... \sinv[0]Um \c[4]CARTÃO GOSMENTO\c[0]!
 
 message_832:
-    text: \n<HUHMPREY>\sinv[1]Yum, yum!\sinv[0]\! Então...\! Vocês querem descer agora?
+    text: \n<HUMPHREY>\sinv[1]Yum, yum!\sinv[0]\! Então...\! Vocês querem descer agora?
 
 message_833:
-    text: \n<HUHMPREY>\sinv[1]Tudo beeem~\! Eu estarei aqui! \quake[1]Nyak, nyak!\quake[0]
+    text: \n<HUMPHREY>\sinv[1]Tudo beeem~\! Eu estarei aqui! \quake[1]Nyak, nyak!\quake[0]
 
 # === BS Clearing ===
 
@@ -288,7 +288,7 @@ message_869:
 # === UWH TOLL ===
 
 message_870:
-    text: \n<PEDAGIARÉ>Vocês pensaram que poderiam passar escondidos se fossem apenas três de vocês moleques, huh? \!Esse não é apenas um pedágio...\! É um pedágio duplo!
+    text: \n<PEDAGIARÉ>Vocês pensaram que poderiam passar escondidos se fossem apenas três de vocês moleques, hein? \!Esse não é apenas um pedágio...\! É um pedágio duplo!
 
 # === STATIC VOID ===
 
@@ -961,7 +961,7 @@ message_573:
 message_574:
     faceset: MainCharacters_DreamWorld
     faceindex: 47
-    text: \n<HERO>Huh...\! Essas BROTOPEIRAS parecem estar com problemas...\! Me pergunto se tem alguma forma de ajudá-las.
+    text: \n<HERO>Hã...\! Essas BROTOPEIRAS parecem estar com problemas...\! Me pergunto se tem alguma forma de ajudá-las.
 
 message_575:
     faceset: MainCharacters_DreamWorld
@@ -1139,7 +1139,7 @@ message_316:
 message_317:
     faceset: MainCharacters_DreamWorld
     faceindex: 19
-    text: \kelHuh?\! Mirar?\! Eu posso fazer isso?
+    text: \kelHã?\! Mirar?\! Eu posso fazer isso?
 
 message_318:
     faceset: MainCharacters_DreamWorld
@@ -1181,7 +1181,7 @@ message_605:
     text: \n<BROTOPEIRA JARDINEIRA>Cuidado para não se cortar! Essas vinhas são afiadas!
 
 message_606:
-    text: \n<BROTOPEIRA DE JARDIM>Huh... Isso é estranho...\! Eu não consigo ver nada...
+    text: \n<BROTOPEIRA DE JARDIM>Hã... Isso é estranho...\! Eu não consigo ver nada...
 
 #PUZZLE MOLE 1 (Top Left)
 
@@ -1189,10 +1189,10 @@ message_0:
     text: \n<ALEX O ESTIMADO>Existem quatro senhas que devem ser ditas para a estátua da SWEETHEART pra revelar o túnel secreto.<br><br>Naturalmente, como um dos escolhidos da elite, me foi dada a responsabilidade de guardar a terceira das quatro!
 
 message_1:
-    text: \n<ALEX O ESTIMADO>Huh?\! Você quer saber a senha?\!<br>Oh não...\! Desculpe...\! Eu não deveria contar pra ninguém...
+    text: \n<ALEX O ESTIMADO>Hã?\! Você quer saber a senha?\!<br>Oh não...\! Desculpe...\! Eu não deveria contar pra ninguém...
 
 message_2:
-    text: \n<ALEX O ESTIMADO>Huh? Você realmente precisa?\! Tipo, você realmente, realmente precisa??\!<br>Tipo... realmente, realmente, realmente precisa?\! Tipo realmente, realmente, realmente, realmente, realmente, realmente, realmente precisa disso?
+    text: \n<ALEX O ESTIMADO>Hã? Você realmente precisa?\! Tipo, você realmente, realmente precisa??\!<br>Tipo... realmente, realmente, realmente precisa?\! Tipo realmente, realmente, realmente, realmente, realmente, realmente, realmente precisa disso?
 
 message_3:
     text: \n<ALEX O ESTIMADO>...\! Hmm...\! Hmmmmmm...\!<br>Acho que não tenho escolha... Mas me prometa que não contará a ninguém!<br>\Com[2]\{PROMETA DE DEDINHO!
@@ -1871,7 +1871,7 @@ message_108:
 #TOLL GATE 2
 
 message_109:
-    text: \n<PEDAGIARÉ>Então você quer que eu abra o portão, huh?\!<br>Seria um prazer!\! Só vai te custar 2000 CONCHAS.\$
+    text: \n<PEDAGIARÉ>Então você quer que eu abra o portão, hã?\!<br>Seria um prazer!\! Só vai te custar 2000 CONCHAS.\$
 
 message_110:
     text: \n<PEDAGIARÉ>Vocês crianças são espertas! \v[1001] CONCHAS é um roubo!\!<br>\}...\! Heh...\! É como roubar \c[3]DOCE\c[0] de um bebê...
@@ -1941,7 +1941,7 @@ message_125:
     text: \n<PEDAGIARÉ>\sinv[1]Zzzzzzzzzzzzzzzzzzzzzzzzzz...
 
 message_126:
-    text: \n<PEDAGIARÉ>Huh? Onde estou?
+    text: \n<PEDAGIARÉ>Hã? Onde estou?
 
 message_127:
     text: \n<PEDAGIARÉ>Ah, droga!
@@ -2002,7 +2002,7 @@ message_144:
     text: \n<PILOTO DE TÁXI>Hmm... Parece que você não tem grana o suficiente...\!<br>Bom, tudo bem... Só vou pegar tudo que você-
 
 message_145:
-    text: \n<PILOTO DE TÁXI>Uau... Você realmente não tem nada, huh?\!<br>Você deve ter sido enganado muito bem.\! Que pena.
+    text: \n<PILOTO DE TÁXI>Uau... Você realmente não tem nada, hã?\!<br>Você deve ter sido enganado muito bem.\! Que pena.
 
 message_146:
     text: \n<PILOTO DE TÁXI>Ei, criança!\! Você quer voltar para o \c[11]POÇO SEM FUNDO\c[0]?<br>Só vai te custar 1,500 CONCHAS.
@@ -2187,7 +2187,7 @@ message_498:
     text: Você deseja colocar a senha?
 
 message_622:
-    text: \n<ALTO-FALANTE>Você realmente acha que é espertinho, huh?
+    text: \n<ALTO-FALANTE>Você realmente acha que é espertinho, hein?
 
 message_907:
     text: Qual é a senha?
@@ -2321,7 +2321,7 @@ message_461:
     text: \n<HUMPHREY>Hmm...\| Oof...\| Urg...\| Hrm...\| É?
 
 message_462:
-    text: \n<HUMPHREY>Huh? Por que você está me olhando desse jeito?\!<br>Não consegue ver que estou ocupado?
+    text: \n<HUMPHREY>Hã? Por que você está me olhando desse jeito?\!<br>Não consegue ver que estou ocupado?
 
 message_463:
     text: \n<HUMPHREY>...
@@ -2343,7 +2343,7 @@ message_465:
 message_466:
       faceset: MainCharacters_DreamWorld
       faceindex: 4
-      text: Huh?\! Eu?\! Tudo bem... mas não tenho um pressentimento bom sobre isso.\aub
+      text: Hã?\! Eu?\! Tudo bem... mas não tenho um pressentimento bom sobre isso.\aub
 
 message_467:
       faceset: MainCharacters_DreamWorld

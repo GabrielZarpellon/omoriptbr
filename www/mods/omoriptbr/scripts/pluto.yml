@@ -24,7 +24,7 @@ message_3:
 message_4:
     faceset: MainCharacters_DreamWorld
     faceindex: 46
-    text: \herH-Huh? Ohh... uhh... bem...\! err...
+    text: \herH-Hã? Ohh... uhh... bem...\! err...
 
 message_5:
     text: \who\{DEPRESSA! EU NÃO TENHO TEMPO!
@@ -32,7 +32,7 @@ message_5:
 message_6:
     faceset: MainCharacters_DreamWorld
     faceindex: 19
-    text: \kelVocê precisa de um lugar para se esconder, huh...
+    text: \kelVocê precisa de um lugar para se esconder, hmm...
 
 #HERO looks around
 #HERO faces away from pluto
