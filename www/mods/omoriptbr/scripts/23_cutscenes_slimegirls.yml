@@ -290,7 +290,7 @@ message_110:
 #Talk to Humphrey Elevator (No Keycard)
 
 message_111:
-      text: \n<HUMPHREY>Oi, eu sou HUMPHREY! Seu passe de acesso global a \c[11]HUMPHREY\c[0] ou o \c[11]LAR DAS GAROTAS GOSMENTAS\c[0].\! <br>Estritamente falando, acho que sou o que vocês humanos chamam de \"elevador\".<br><br>Infelizmente, só podemos levar uma consulta por vez, então você tem que esperar a sua vez.<br><br>Porém...\! se você me der um \c[4]CARTÃO GOSMENTO\c[0], talvez eu possa mexer uns pauzinhos pra vocês...\! \quake[1]Nyak, nyak!\quake[0]
+      text: \n<HUMPHREY>Oi, eu sou HUMPHREY! Seu passe de acesso global a \c[11]HUMPHREY\c[0] ou o \c[11]LAR DAS SLIME GIRLS\c[0].\! <br>Estritamente falando, acho que sou o que vocês humanos chamam de \"elevador\".<br><br>Infelizmente, só podemos levar uma consulta por vez, então você tem que esperar a sua vez.<br><br>Porém...\! se você me der um \c[4]CARTÃO GOSMENTO\c[0], talvez eu possa mexer uns pauzinhos pra vocês...\! \quake[1]Nyak, nyak!\quake[0]
 
 #Get Keycard
 
