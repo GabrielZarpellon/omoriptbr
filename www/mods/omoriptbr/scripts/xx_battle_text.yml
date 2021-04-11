@@ -2217,27 +2217,27 @@ message_633:
 # Sad Memories
 message_634:
    text: >
-    \>EX-MARIDO ESPACIAL: \<É eu... sozinho...\! jogando fora minha \c[4]MIXTAPE ESPECIAL\c[0]...
+    \>EX-MARIDO ESPACIAL: \<Sou eu... sozinho...\! Jogando fora minha \c[4]MIXTAPE ESPECIAL\c[0]...
 
 message_635:
    text: >
-    \>EX-MARIDO ESPACIAL: \<É eu... sozinho...\! chorando na minha cama de casal...
+    \>EX-MARIDO ESPACIAL: \<Sou eu... sozinho...\! Chorando na minha cama de casal...
 
 message_636:
    text: >
-    \>EX-MARIDO ESPACIAL: \<É eu... sozinho...\! segurando uma foto da minha doce SWEETHEART...
+    \>EX-MARIDO ESPACIAL: \<Sou eu... sozinho...\! Segurando uma foto da minha doce SWEETHEART...
 # Angry Memories
 message_637:
    text: >
-    \>EX-MARIDO ESPACIAL: \<É a minha SWEETHEART... mas ela está...\! balançando sua arma em mim
+    \>EX-MARIDO ESPACIAL: \<É a minha SWEETHEART... <br>mas ela está...<br>tacando sua arma em mim.
 
 message_638:
    text: >
-    \>EX-MARIDO ESPACIAL: \<É a minha SWEETHEART... mas ela está...\! nos braços de um outro homem!
+    \>EX-MARIDO ESPACIAL: \<É a minha SWEETHEART... <br>mas ela está...<br>Nos braços de outro!
 
 message_639:
    text: >
-    \>EX-MARIDO ESPACIAL: \<É a minha SWEETHEART... mas ela está...\! jogando as minhas coisas pela sala!
+    \>EX-MARIDO ESPACIAL: \<É a minha SWEETHEART... <br>mas ela está... <br>jogando as minhas coisas pela sala!
 
 # Beggining of Fight: Mechanic indication
 message_640:
@@ -2251,7 +2251,7 @@ message_641:
 # Correct answer: Happy
 message_642:
    text: >
-    \>EX-MARIDO ESPACIAL: \<Ah...\! Eu ainda penso carinhosamente naqueles tempos...
+    \>EX-MARIDO ESPACIAL: \<Ah...<br>Eu ainda penso carinhosamente naqueles tempos...
 
 # Correct answer: Sad
 message_643:
