@@ -7,23 +7,23 @@ message_0:
     text: Um guri olha muito concentrado para sua pipa.\!<br>Você quer incomodá-lo?
 
 message_1:
-    text: \kitSou apenas um guri com uma pipa.\!<br>Nós podemos não parecer muito, mas temos uma ligação imbatível.\!<br>Não é algo que todo mundo pode entender.
+    text: \n<GURI DA PIPA>Sou apenas um guri com uma pipa.\!<br>Nós podemos não parecer muito, mas temos uma ligação imbatível.\!<br>Não é algo que todo mundo pode entender.
 
 message_2:
-    text: \kitNós vamos mostrar como somos fortes quando trabalhamos juntos!
+    text: \n<GURI DA PIPA>Nós vamos mostrar como somos fortes quando trabalhamos juntos!
 
 message_3:
-    text: \kitHunf... Eu sabia.\! Nós não podemos agir com o nosso potencial máximo sem as condições meteorológicas perfeitas.
+    text: \n<GURI DA PIPA>Hunf... Eu sabia.\! Nós não podemos agir com o nosso potencial máximo sem as condições meteorológicas perfeitas.
 
 # KITE KID - DEFEAT - IF PINWHEEL ISNT FIXED
 
 message_4:
-    text: \kitO vento parece meio fraco hoje...\!<br>Talvez tenha algo de errado com um dos cata-ventos.
+    text: \n<GURI DA PIPA>O vento parece meio fraco hoje...\!<br>Talvez tenha algo de errado com um dos cata-ventos.
 
 # KITE KID - DEFEAT - IF PINWHEEL IS FIXED BY CLIMBING IT WITH KEL. WATERMELON FALLS. GET SILLY STRING FROM WATERMELON.
 
 message_5:
-    text: \kitTalvez eu e minha pipa devêssemos tentar voar em outro lugar...
+    text: \n<GURI DA PIPA>Talvez eu e minha pipa devêssemos tentar voar em outro lugar...
 
 # TAG DIALOGUE
 
