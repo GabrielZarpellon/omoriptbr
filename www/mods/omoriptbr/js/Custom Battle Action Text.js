@@ -54,10 +54,10 @@ Window_BattleLog.prototype.makeCustomActionText = function(subject, target, item
 
   function parseNoEffectEmotion(tname, em) {
     if(em.toLowerCase().contains("afraid")) {
-      if(tname === "OMORI") {return "OMORI não pode ficar amedrontado!\r\n"}
-      return target.name() + " não pode ficar amedrontado!\r\n";
+      if(tname === "OMORI") {return "OMORI não pode ficar apavorado!\r\n"}
+      return target.name() + " não pode ficar apavorado!\r\n";
     }
-    let finalString = `${tname} não pode ficar ${em}`;
+    let finalString = `Não pode ficar ${em}`;
     if(finalString.length >= 40) {
       let voinIndex = 0;
       for(let i = 40; i >= 0; i--) {
@@ -71,8 +71,8 @@ Window_BattleLog.prototype.makeCustomActionText = function(subject, target, item
     return finalString;
   }
 
-  function parseNoStateChange(tname,stat,hl) {
-    let noStateChangeText = `${stat} de ${tname} não pode ficar \r\nmais ${hl}`; // TARGET NAME - STAT - HIGHER/LOWER
+  function parseNoStateChange(stat,hl) {
+    let noStateChangeText = `${stat} não pode ficar \r\nmais ${hl}`; // TARGET NAME - STAT - HIGHER/LOWER
     return noStateChangeText
   }
 
