@@ -281,7 +281,7 @@ message_172:
 #When Player reaches the end of the stump path, something is hovering over one of the stumps. It will say:
 
 message_173:
-      text: \n<SOMETHING>\n[8]...\| Eu te amo...
+      text: \n<ALGO>\n[8]...\| Eu te amo...
 
 #Then it will start following you and every 6 seconds it will repeat the message. It will disappear if you leave the map.
 
