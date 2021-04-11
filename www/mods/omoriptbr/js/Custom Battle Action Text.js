@@ -137,9 +137,9 @@ switch (type) {
   case 'SAD POEM':  // SAD POEM
     text = user.name() + ' leu um poema triste.\r\n';
     if(!target._noEffectMessage) {
-      if(target.isStateAffected(12)) {text += target.name() + ' se sentiu MISERÁVEL...';}
-      else if(target.isStateAffected(11)) {text += target.name() + ` se sentiu DEPRIMID${pronome1} ..`;}
-      else if(target.isStateAffected(10)) {text += target.name() + ' se sentiu TRISTE.';}
+      if(target.isStateAffected(12)) {text += target.name() + ' ficou MISERÁVEL...';}
+      else if(target.isStateAffected(11)) {text += target.name() + ` ficou DEPRIMID${pronome1} ..`;}
+      else if(target.isStateAffected(10)) {text += target.name() + ' ficou TRISTE.';}
     }
     else {text += parseNoEffectEmotion(target.name(), "mais TRISTE!")}
     break;
@@ -152,7 +152,7 @@ switch (type) {
   case 'TRICK':  // TRICK
     text = user.name() + ' enganou ' + target.name() + '.\r\n';
     if(target.isEmotionAffected("happy")) {
-      if(!target._noStateMessage) {text += target.name() + ' perder VELOCIDADE!\r\n';}
+      if(!target._noStateMessage) {text += target.name() + ' perdeu VELOCIDADE!\r\n';}
       else {text += parseNoStateChange(target.name(), "VELOCIDADE ", "baixo!\r\n")}
     }
     text += hpDamageText;
@@ -232,12 +232,12 @@ switch (type) {
     text += target.name() + '.\r\n';
     text += hpDamageText + "\r\n";
     if(!target._noEffectMessage) {
-      text += target.name() + " se sentiu TRISTE.\r\n";
+      text += target.name() + " ficou TRISTE.\r\n";
     }
     else {text += parseNoEffectEmotion(target.name(), "mais TRISTE!\r\n")}
-    if(user.isStateAffected(12)) {text += user.name() + " se sentiu MISERÁVEL...";}
-    else if(user.isStateAffected(11)) {text += user.name() + ` se sentiu DEPRIMID${pronome1} ..`;}
-    else if(user.isStateAffected(10)) {text += user.name() + " se sentiu TRISTE.";}
+    if(user.isStateAffected(12)) {text += user.name() + " ficou MISERÁVEL...";}
+    else if(user.isStateAffected(11)) {text += user.name() + ` ficou DEPRIMID${pronome1} ..`;}
+    else if(user.isStateAffected(10)) {text += user.name() + " ficou TRISTE.";}
     break;
 
   case 'ATTACK AGAIN':  // ATTACK AGAIN 2
@@ -256,14 +256,14 @@ switch (type) {
       text = user.name() + ' derrubou ' + target.name() + '!\r\n';
       if(!target._noStateMessage) {text += target.name() + ' perdeu VELOCIDADE!\r\n';}
       else {text += parseNoStateChange(target.name(), "VELOCIDADE", "baixo!\r\n")}
-      if(!target._noEffectMessage) {text += target.name() + ' se sentiu TRISTE.\r\n';}
+      if(!target._noEffectMessage) {text += target.name() + ' ficou TRISTE.\r\n';}
       else {text += parseNoEffectEmotion(target.name(), "mais TRISTE!\r\n")}
       text += hpDamageText;
       break;
 
   case 'STARE': // STARE
     text = user.name() + ' encarou ' + target.name() + '.\r\n';
-    text += target.name() + ' se sentiu descofortável.';
+    text += target.name() + ' ficou descofortável.';
     break;
 
   case 'RELEASE ENERGY':  // RELEASE ENERGY
@@ -300,9 +300,9 @@ switch (type) {
   case 'PEP TALK':  // PEP TALK
     text = user.name() + ' animou ' + target.name() + '!\r\n';
     if(!target._noEffectMessage) {
-      if(target.isStateAffected(8)) {text += target.name() + ` se sentiu MANÍAC${pronome1} ..`;}
-      else if(target.isStateAffected(7)) {text += target.name() + ` se sentiu EXTÁTIC${pronome1} ..`;}
-      else if(target.isStateAffected(6)) {text += target.name() + ' se sentiu ALEGRE!';}
+      if(target.isStateAffected(8)) {text += target.name() + ` ficou MANÍAC${pronome1} ..`;}
+      else if(target.isStateAffected(7)) {text += target.name() + ` ficou EXTÁTIC${pronome1} ..`;}
+      else if(target.isStateAffected(6)) {text += target.name() + ' ficou ALEGRE!';}
     }
     else {text += parseNoEffectEmotion(target.name(), "mais FELIZ!")}
     break;
@@ -310,16 +310,16 @@ switch (type) {
   case 'TEAM SPIRIT':  // TEAM SPIRITZ
     text = user.name() + ' animou ' + target.name() + '!\r\n';
     if(!target._noEffectMessage) {
-      if(target.isStateAffected(8)) {text += target.name() + ` se sentiu MANÍAC${pronome1}!!!\r\n`;}
-      else if(target.isStateAffected(7)) {text += target.name() + ` se sentiu EXTÁTIC${pronome1}!!\r\n`;}
-      else if(target.isStateAffected(6)) {text += target.name() + ' se sentiu ALEGRE!\r\n';}
+      if(target.isStateAffected(8)) {text += target.name() + ` ficou MANÍAC${pronome1}!!!\r\n`;}
+      else if(target.isStateAffected(7)) {text += target.name() + ` ficou EXTÁTIC${pronome1}!!\r\n`;}
+      else if(target.isStateAffected(6)) {text += target.name() + ' ficou ALEGRE!\r\n';}
     }
     else {text += parseNoEffectEmotion(target.name(), "mais FELIZ!\r\n")}
 
     if(!user._noEffectMessage) {
-      if(user.isStateAffected(8)) {text += user.name() + ` se sentiu MANÍAC${pronome1}!!!`;}
-      else if(user.isStateAffected(7)) {text += user.name() + ` se sentiu EXTÁTIC${pronome1}!!`;}
-      else if(user.isStateAffected(6)) {text += user.name() + ' se sentiu ALEGRE!';}
+      if(user.isStateAffected(8)) {text += user.name() + ` ficou MANÍAC${pronome1}!!!`;}
+      else if(user.isStateAffected(7)) {text += user.name() + ` ficou EXTÁTIC${pronome1}!!`;}
+      else if(user.isStateAffected(6)) {text += user.name() + ' ficou ALEGRE!';}
     }
     else {text += parseNoEffectEmotion(user.name(), "mais FELIZ!\r\n")}
     break;
@@ -384,7 +384,7 @@ switch (type) {
 
   case 'LOOK KEL 1':  // Look at Kel 1
     text = 'KEL enche o saco da AUBREY!\r\n';
-    text += target.name() + " se sentiu NERVOSA!";
+    text += target.name() + " ficou NERVOSA!";
     break;
 
   case 'LOOK KEL 2': // Look at Kel 2
@@ -392,31 +392,31 @@ switch (type) {
    text += 'ATAQUE do KEL e AUBREY aumenta!\r\n';
    var AUBREY = $gameActors.actor(2);
    var KEL = $gameActors.actor(3);
-   if(AUBREY.isStateAffected(14) && KEL.isStateAffected(14)) {text += 'KEL e AUBREY se sentem NERVOSOS!';}
+   if(AUBREY.isStateAffected(14) && KEL.isStateAffected(14)) {text += 'KEL e AUBREY ficaram NERVOSOS!';}
    else if(AUBREY.isStateAffected(14) && KEL.isStateAffected(15)) {
-    text += 'KEL se sentiu ENFURECIDO!!\r\n';
-    text += 'AUBREY se sentiu NERVOSA!';
+    text += 'KEL ficou ENFURECIDO!!\r\n';
+    text += 'AUBREY ficou NERVOSA!';
    }
    else if(AUBREY.isStateAffected(15) && KEL.isStateAffected(14)) {
-    text += 'KEL se sentiu NERVOSO!\r\n';
-    text += 'AUBREY se sentiu ENFURECIDA!!';
+    text += 'KEL ficou NERVOSO!\r\n';
+    text += 'AUBREY ficou ENFURECIDA!!';
    }
-   else if(AUBREY.isStateAffected(15) && KEL.isStateAffected(15)) {text += 'KEL e AUBREY se sentem ENFURECIDOS!!';}
-   else {text += 'KEL e AUBREY se sentem NERVOSOS!';}
+   else if(AUBREY.isStateAffected(15) && KEL.isStateAffected(15)) {text += 'KEL e AUBREY ficaram ENFURECIDOS!!';}
+   else {text += 'KEL e AUBREY ficaram NERVOSOS!';}
    break;
 
   case 'LOOK HERO':  // LOOK AT HERO 1
     text = 'HERO diz para AUBREY focar!\r\n';
-    if(target.isStateAffected(6)) {text += target.name() + " se sentiu FELIZ!\r\n"}
-    else if(target.isStateAffected(7)) {text += target.name() + " se sentiu EXTÁTICA!!\r\n"}
+    if(target.isStateAffected(6)) {text += target.name() + " ficou FELIZ!\r\n"}
+    else if(target.isStateAffected(7)) {text += target.name() + " ficou EXTÁTICA!!\r\n"}
     text += user.name() + ' ganhou DEFESA!!';
     break;
 
   case 'LOOK HERO 2': // LOOK AT HERO 2
     text = 'HERO alegra AUBREY!\r\n';
     text += 'A DEFESA da AUBREY aumentou!!\r\n';
-    if(target.isStateAffected(6)) {text += target.name() + " se sentiu FELIZ!\r\n"}
-    else if(target.isStateAffected(7)) {text += target.name() + " se sentiu EXTÁTICA!!\r\n"}
+    if(target.isStateAffected(6)) {text += target.name() + " ficou FELIZ!\r\n"}
+    else if(target.isStateAffected(7)) {text += target.name() + " ficou EXTÁTICA!!\r\n"}
     if(!!$gameTemp._statsState[0]) {
       var absHp = Math.abs($gameTemp._statsState[0] - $gameActors.actor(2).hp);
       if(absHp > 0) {text += `AUBREY recupera ${absHp} de CORAÇÃO!\r\n`;}
@@ -437,9 +437,9 @@ switch (type) {
     case 'ANNOY':  // ANNOY
       text = user.name() + ' irritou ' + target.name() + '!\r\n';
       if(!target._noEffectMessage) {
-        if(target.isStateAffected(14)) {text += target.name() + ` se sentiu NERVOS${pronome1} ..`;}
-        else if(target.isStateAffected(15)) {text += target.name() + ` se sentiu ENFURECID${pronome1} ..`;}
-        else if(target.isStateAffected(16)) {text += target.name() + ` se sentiu FURIOS${pronome1} ..`;}
+        if(target.isStateAffected(14)) {text += target.name() + ` ficou NERVOS${pronome1} ..`;}
+        else if(target.isStateAffected(15)) {text += target.name() + ` ficou ENFURECID${pronome1} ..`;}
+        else if(target.isStateAffected(16)) {text += target.name() + ` ficou FURIOS${pronome1} ..`;}
       }
       else {text += parseNoEffectEmotion(target.name(), "mais NERVOSO!")}
       break;
@@ -464,8 +464,8 @@ switch (type) {
 
     case 'RALLY': // RALLY
       text = user.name() + ' deixa todo mundo empolgado!\r\n';
-      if(user.isStateAffected(7)) {text += user.name() + ` se sentiu EXTÁTIC${pronome1}\r\n`}
-      else if(user.isStateAffected(6)) {text += user.name() + " se sentiu FELIZ!\r\n"}
+      if(user.isStateAffected(7)) {text += user.name() + ` ficou EXTÁTIC${pronome1}\r\n`}
+      else if(user.isStateAffected(6)) {text += user.name() + " ficou FELIZ!\r\n"}
       text += "Todo mundo ganhou ENERGIA!\r\n"
       for(let actor of $gameParty.members()) {
         if(actor.name() === "KEL") {continue;}
@@ -479,7 +479,7 @@ switch (type) {
     case 'SNOWBALL': // SNOWBALL
       text = user.name() + ' jogou uma bola de neve em\r\n';
       text += target.name() + '!\r\n';
-      if(!target._noEffectMessage) {text += target.name() + " se sentiu TRISTE.\r\n"}
+      if(!target._noEffectMessage) {text += target.name() + " ficou TRISTE.\r\n"}
       else {text += parseNoEffectEmotion(target.name(), "mais TRISTE!\r\n")}
       text += hpDamageText;
       break;
@@ -499,15 +499,15 @@ switch (type) {
      text += target.name() + ' é jogado em um loop.\r\n';
      switch($gameTemp._randomState) {
        case 6:
-         if(!target._noEffectMessage) {text += target.name() + " se sentiu FELIZ!\r\n"}
+         if(!target._noEffectMessage) {text += target.name() + " ficou FELIZ!\r\n"}
          else {text += parseNoEffectEmotion(target.name(), "mais FELIZ!\r\n")}
          break;
       case 14:
-        if(!target._noEffectMessage) {text += target.name() + ` se sentiu NERVOS${pronome1}!\r\n`}
+        if(!target._noEffectMessage) {text += target.name() + ` ficou NERVOS${pronome1}!\r\n`}
         else {text += parseNoEffectEmotion(target.name(), "mais NERVOSO!\r\n")}
         break;
       case 10:
-        if(!target._noEffectMessage) {text += target.name() + " se sentiu TRISTE.\r\n"}
+        if(!target._noEffectMessage) {text += target.name() + " ficou TRISTE.\r\n"}
         else {text += parseNoEffectEmotion(target.name(), "mais TRISTE!\r\n")}
         break;
 
@@ -517,9 +517,9 @@ switch (type) {
 
     case 'MEGAPHONE': // MEGAPHONE
       if(target.index() <= unitLowestIndex) {text = user.name() + ' corre por aí irritando todos!\r\n';}
-      if(target.isStateAffected(16)) {text += target.name() + ' se sentiu FURIOSO!!!\r\n'}
-      else if(target.isStateAffected(15)) {text += target.name() + ` se sentiu ENFURECID${pronome1}!!\r\n`}
-      else if(target.isStateAffected(14)) {text += target.name() + ` se sentiu NERVOS${pronome1}!\r\n`}
+      if(target.isStateAffected(16)) {text += target.name() + ' ficou FURIOSO!!!\r\n'}
+      else if(target.isStateAffected(15)) {text += target.name() + ` ficou ENFURECID${pronome1}!!\r\n`}
+      else if(target.isStateAffected(14)) {text += target.name() + ` ficou NERVOS${pronome1}!\r\n`}
       break;
 
     case 'DODGE ATTACK': // DODGE ATTACK
@@ -545,8 +545,8 @@ switch (type) {
       text += 'OMORI arremessa a bola em\r\n';
       text += target.name() + '!\r\n';
       var OMORI = $gameActors.actor(1);
-      if(OMORI.isStateAffected(6)) {text += "OMORI se sentiu FELIZ!\r\n"}
-      else if(OMORI.isStateAffected(7)) {text += "OMORI se sentiu EXTÁTICO!!\r\n"}
+      if(OMORI.isStateAffected(6)) {text += "OMORI ficou FELIZ!\r\n"}
+      else if(OMORI.isStateAffected(7)) {text += "OMORI ficou EXTÁTICO!!\r\n"}
       text += hpDamageText;
       break;
 
@@ -600,7 +600,7 @@ switch (type) {
       if(!target._noStateMessage) {text += target.name() + 'perdeu ATAQUE.\r\n';}
       else {text += parseNoStateChange(target.name(), "ATAQUE", "baixo!\r\n")}
       if(!target._noEffectMessage) {
-        text += target.name() + ' se sentiu FELIZ!';
+        text += target.name() + ' ficou FELIZ!';
       }
       else {text += parseNoEffectEmotion(target.name(), "mais FELIZ!")}
       break;
@@ -618,7 +618,7 @@ switch (type) {
 
     case 'TEA TIME': // TEA TIME
       text = user.name() + ' trouxe um cházinho pra relaxar.\r\n';
-      text += target.name() + ` se sentiu refrescad${pronome2}!\r\n`;
+      text += target.name() + ` ficou refrescad${pronome2}!\r\n`;
       if(result.hpDamage < 0) {
         var absHp = Math.abs(result.hpDamage);
         text += `${target.name()} recuperou ${absHp} de CORAÇÃO!\r\n`
@@ -651,7 +651,7 @@ switch (type) {
     case 'ENCHANT':  // ENCHANT
       text = user.name() + ' chama a atenção dos inimigos\r\n';
       text += 'com um sorriso.\r\n';
-      if(!target._noEffectMessage) {text += target.name() + " se sentiu FELIZ!";}
+      if(!target._noEffectMessage) {text += target.name() + " ficou FELIZ!";}
       else {text += parseNoEffectEmotion(target.name(), "mais FELIZ!")}
       break;
 
@@ -755,7 +755,7 @@ switch (type) {
     case 'SAD EYES': //SAD EYES
       text = user.name() + ' olha \r\n'
       text += 'tristemente para ' + target.name() + '.\r\n';
-      if(!target._noEffectMessage) {text += target.name() + ' se sentiu TRISTE.';}
+      if(!target._noEffectMessage) {text += target.name() + ' ficou TRISTE.';}
       else {text += parseNoEffectEmotion(target.name(), "mais TRISTE!")}
       break;
 
@@ -778,7 +778,7 @@ switch (type) {
     case 'SAD EYES2': // SAD EYES?
       text = user.name() + ' olha \r\n'
       text += 'tristemente para ' + target.name() + '...\r\n';
-      if(!target._noEffectMessage) {text += target.name() + ' se sentiu TRISTE?';}
+      if(!target._noEffectMessage) {text += target.name() + ' ficou TRISTE?';}
       else {text += parseNoEffectEmotion(target.name(), "mais TRISTE!")}
       break;
 
@@ -967,7 +967,7 @@ switch (type) {
     case 'UPLIFTING HYMN': //UPLIFTING HYMN
       if(target.index() <= unitLowestIndex) {
         text = user.name() + ' canta uma linda canção...\r\n';
-        text += 'Todo mundo se sentiu FELIZ!';
+        text += 'Todo mundo ficou FELIZ!';
       }
       target._noEffectMessage = undefined;
       break;
@@ -984,7 +984,7 @@ switch (type) {
       break;
 
     case 'SNOW PILE NOTHING': //SNOW PILE NOTHING
-      text = user.name() + ' se sentiu congelado.';
+      text = user.name() + ' ficou congelado.';
       break;
 
     case 'SNOW PILE ENGULF': //SNOW PILE ENGULF
@@ -1012,7 +1012,7 @@ switch (type) {
     case 'CCB SPRINKLES': //CUP CAKE BUNNY SPRINKLES
       text = user.name() + ' cobre ' + target.name() + '\r\n';
       text += 'em granulado.\r\n';
-      if(!target._noEffectMessage) {text += target.name() + ' se sentiu FELIZ!\r\n';}
+      if(!target._noEffectMessage) {text += target.name() + ' ficou FELIZ!\r\n';}
       else {text += parseNoEffectEmotion(target.name(), "mais FELIZ!\r\n")}
       text += target.name() + " aumentou os STATUS!"
       break;
@@ -1055,7 +1055,7 @@ switch (type) {
 
     case 'SSS SLITHER': //STRAWBERRY SHORT SNAKE SLITHER
       text = user.name() + ' escorrega por aí alegremente!\r\n';
-      if(!user._noEffectMessage) {text += user.name() + ' se sentiu FELIZ!';}
+      if(!user._noEffectMessage) {text += user.name() + ' ficou FELIZ!';}
       else {text += parseNoEffectEmotion(user.name(), "mais FELIZ!")}
       break;
 
@@ -1101,7 +1101,7 @@ switch (type) {
     case 'TOASTY RILE': //TOASTY RILE
       if(target.index() <= unitLowestIndex) {
         text = user.name() + ' deu um discurso controverso!\r\n';
-        text += 'Todo mundo se sentiu NERVOSO!';
+        text += 'Todo mundo ficou NERVOSO!';
       }
       target._noEffectMessage = undefined;
       break;
@@ -1178,7 +1178,7 @@ switch (type) {
     case 'MUFFLED SCREAMS': //MUFFLED SCREAMS
       text = user.name() + ' começa a gritar!\r\n';
       if(!target._noEffectMessage && target.name() !== "OMORI") {
-        text += target.name() + ` se sentiu ASSUSTAD${pronome1}.`;
+        text += target.name() + ` ficou ASSUSTAD${pronome1}.`;
       }
       else {text += parseNoEffectEmotion(target.name(), "ASSUSTADO")}
       break;
@@ -1239,7 +1239,7 @@ switch (type) {
     case 'SCUTTLE': //Bug Bun Scuttle
       text = user.name() + ' corre alegremente por aí.\r\n';
       text += 'Foi muito fofo!\r\n';
-      if(!user._noEffectMessage) {text += user.name() + ' se sentiu FELIZ!';}
+      if(!user._noEffectMessage) {text += user.name() + ' ficou FELIZ!';}
       else {text += parseNoEffectEmotion(user.name(), "mais FELIZ!")}
       break;
 
@@ -1257,7 +1257,7 @@ switch (type) {
 
     case 'ROAR': //ROAR
       text = user.name() + ' solta um rugido enorme!\r\n';
-      if(!user._noEffectMessage) {text += user.name() + ` se sentiu NERVOS${pronome1}!`;}
+      if(!user._noEffectMessage) {text += user.name() + ` ficou NERVOS${pronome1}!`;}
       else {text += parseNoEffectEmotion(user.name(), "mais NERVOSO!")}
       break;
 
@@ -1326,7 +1326,7 @@ switch (type) {
 
     case 'HAROLD WINK': //HAROLD WINK
       text = user.name() + ' pisca para ' + target.name() + '.\r\n';
-      if(!target._noEffectMessage) {text += target.name() + ' se sentiu FELIZ!';}
+      if(!target._noEffectMessage) {text += target.name() + ' ficou FELIZ!';}
       else {text += parseNoEffectEmotion(target.name(), "mais FELIZ!")}
       break;
 
@@ -1367,7 +1367,7 @@ switch (type) {
 
     case 'THERESE INSULT': //THERESE INSULT
       text = user.name() + ' chama ' + target.name() + ' de cabeça oca!\r\n';
-      if(!target._noEffectMessage) {text += target.name() + ` se sentiu NERVOS${pronome1}!\r\n`;}
+      if(!target._noEffectMessage) {text += target.name() + ` ficou NERVOS${pronome1}!\r\n`;}
       else {text += parseNoEffectEmotion(target.name(), "mais NERVOSO!\r\n")}
       text += hpDamageText;
       break;
@@ -1413,7 +1413,7 @@ switch (type) {
     case 'HORSE HEAD LICK': //HORSE HEAD LICK
      text = user.name() + ' lambe o cabelo de ' + target.name() + '\r\n';
      text += hpDamageText + '\r\n';
-     if(!target._noEffectMessage) {text += target.name() + ` se sentiu NERVOS${pronome1}!`;}
+     if(!target._noEffectMessage) {text += target.name() + ` ficou NERVOS${pronome1}!`;}
      else {text += parseNoEffectEmotion(target.name(), "mais NERVOSO!")}
      break;
 
@@ -1524,7 +1524,7 @@ switch (type) {
       text = user.name() + ' começa a malhar!\r\n';
       text += user.name() + ' aumentou a VELOCIDADE!\r\n';
       if(!user._noEffectMessage) {
-        text += user.name() + ` se sentiu NERVOS${pronome1}!`;
+        text += user.name() + ` ficou NERVOS${pronome1}!`;
       }
       else {text += parseNoEffectEmotion(user.name(), "mais NERVOSO!")}
       break;
@@ -1568,7 +1568,7 @@ switch (type) {
       text = user.name() + ' se sente sozinho e chora.\r\n';
       if(!target._noStateMessage) {text += target.name() + ' perdeu VELOCIDADE!\r\n';}
       else {text += parseNoStateChange(target.name(), "VELOCIDADE", "baixo!\r\n")}
-      text += target.name() + " se sentiu TRISTE.";
+      text += target.name() + " ficou TRISTE.";
       break;
 
     //WATERMELON MIMIC//
@@ -1606,7 +1606,7 @@ switch (type) {
     case 'WATERMELON CONFETTI': //WATERMELON MIMIC CONFETTI
       if(target.index() <= unitLowestIndex) {
         text = user.name() + ' arremessa CONFETE!\r\n';
-        text += "Todo mundo se sentiu FELIZ!"
+        text += "Todo mundo ficou FELIZ!"
       }
       target._noEffectMessage = undefined;
       break;
@@ -1614,7 +1614,7 @@ switch (type) {
     case 'WATERMELON RAIN CLOUD': //WATERMELON MIMIC RAIN CLOUD
       if(target.index() <= unitLowestIndex) {
         text = user.name() + ' conjura uma NUVEM DE CHUVA!\r\n';
-        text += "Todo mundo se sentiu TRISTE."
+        text += "Todo mundo ficou TRISTE."
       }
       target._noEffectMessage = undefined;
       break;
@@ -1622,7 +1622,7 @@ switch (type) {
     case 'WATERMELON AIR HORN': //WATERMELON MIMIC AIR HORN
       if(target.index() <= unitLowestIndex) {
         text = user.name() + ' usou uma BUZINHA GIGANTE!\r\n';
-        text += "Todo mundo se sentiu NERVOSO!"
+        text += "Todo mundo ficou NERVOSO!"
       }
       target._noEffectMessage = undefined;
       break;
@@ -1718,7 +1718,7 @@ switch (type) {
 
     case 'MECHA MOLE STRANGE LASER': //MECHA MOLE STRANGE LASER
       text = 'O olho de ' + user.name() + ' emite\r\n';
-      text += 'uma estranha luz.\r\n' + target.name() + ` se sentiu estranh${pronome2}.`;
+      text += 'uma estranha luz.\r\n' + target.name() + ` ficou estranh${pronome2}.`;
       break;
 
     case 'MECHA MOLE JET PACK': //MECHA MOLE JET PACK
@@ -1823,9 +1823,9 @@ switch (type) {
     case 'MERCI MELODY': //MERCI LAUGH
       text = user.name() + ' canta uma música.\r\n';
       text += target.name() + ' escuta uma melodia familiar.\r\n';
-      if(target.isStateAffected(6)) {text += target.name() + " se sentiu FELIZ!\r\n"}
-      else if(target.isStateAffected(7)) {text += target.name() + ` se sentiu EXTÁTIC${pronome1}!!\r\n`}
-      else if(target.isStateAffected(8)) {text += target.name() + " se sentiu MANÍACO!!!\r\n"}
+      if(target.isStateAffected(6)) {text += target.name() + " ficou FELIZ!\r\n"}
+      else if(target.isStateAffected(7)) {text += target.name() + ` ficou EXTÁTIC${pronome1}!!\r\n`}
+      else if(target.isStateAffected(8)) {text += target.name() + " ficou MANÍACO!!!\r\n"}
       break;
 
     case 'MERCI SCREAM': //MERCI SCREAM
@@ -1854,7 +1854,7 @@ switch (type) {
     case 'LILI CRY': //LILI CRY
       text = 'Lágrimas brotam nos\r\n' 
       text += 'Olhos de ' + user.name();
-      text += target.name() + " se sentiu TRISTE."
+      text += target.name() + " ficou TRISTE."
       break;
 
     case 'LILI SAD EYES': //LILI SAD EYES
@@ -1878,7 +1878,7 @@ switch (type) {
     case 'HOUSEFLY ANNOY': //HOUSEFLY ANNOY
       text = user.name() + ' zumbe ao redor da \r\n'
       text += 'orelha de ' + target.name() + '!\r\n';
-      if(!target._noEffectMessage) {text += target.name() + ` se sentiu NERVOS${pronome1}!`;}
+      if(!target._noEffectMessage) {text += target.name() + ` ficou NERVOS${pronome1}!`;}
       else {text += parseNoEffectEmotion(target.name(), `mais NERVOS${pronome1}!`)}
       break;
 
@@ -1936,7 +1936,7 @@ switch (type) {
     // GHOST BUNNY //
     case 'GHOST BUNNY ATTACK': //GHOST BUNNY ATTACK
       text = user.name() + ' atravessa ' + target.name() + '!\r\n';
-      text += target.name() + ` se sentiu cansad${pronome2}.\r\n`;
+      text += target.name() + ` ficou cansad${pronome2}.\r\n`;
       text += mpDamageText;
       break;
 
@@ -1947,7 +1947,7 @@ switch (type) {
     //TOAST GHOST//
     case 'TOAST GHOST ATTACK': //TOAST GHOST ATTACK
       text = user.name() + ' atravessa ' + target.name() + '!\r\n';
-      text += target.name() + ` se sentiu cansad${pronome2}.\r\n`;
+      text += target.name() + ` ficou cansad${pronome2}.\r\n`;
       text += hpDamageText;
       break;
 
@@ -2024,7 +2024,7 @@ switch (type) {
     case 'KITE KID BRAG':  // KITE KID BRAG
       text = user.name() + ' se gaba sobre sua PIPA!\r\n';
       if(!target._noEffectMessage) {
-        text += target.name() + ' se sentiu FELIZ!';
+        text += target.name() + ' ficou FELIZ!';
       }
       else {text += parseNoEffectEmotion(target.name(), "mais FELIZ!")}
       break;
@@ -2066,7 +2066,7 @@ switch (type) {
     case 'PLUTO BRAG':  // PLUTO BRAG
       text = user.name() + ' se gaba de seus músculos!\r\n';
       if(!user._noEffectMessage) {
-        text += user.name() + ' se sentiu FELIZ!';
+        text += user.name() + ' ficou FELIZ!';
       }
       else {text += parseNoEffectEmotion(user.name(), "mais FELIZ!")}
       break;
@@ -2110,7 +2110,7 @@ switch (type) {
     case 'POKE':  // POKE
       text = user.name() + ' cutuca ' + target.name() + '!\r\n';
       if(!target._noEffectMessage) {
-        text += target.name() + ` se sentiu NERVOS${pronome1}!\r\n`;
+        text += target.name() + ` ficou NERVOS${pronome1}!\r\n`;
       }
       else {text += parseNoEffectEmotion(target.name(), `mais NERVOS${pronome1}!\r\n`)}
       text += hpDamageText;
@@ -2146,9 +2146,9 @@ switch (type) {
 
     case 'ANGSTY SONG':  // ANGSTY SONG
       text = user.name() + ' canta tristemente...\r\n';
-      if(target.isStateAffected(10)) {text += target.name() + ' se sentiu TRISTE.';}
-      else if(target.isStateAffected(11)) {text += target.name() + ` se sentiu DEPRIMID${pronome1}..`;}
-      else if(target.isStateAffected(12)) {text += target.name() + ' se sentiu MISERÁVEL...';}
+      if(target.isStateAffected(10)) {text += target.name() + ' ficou TRISTE.';}
+      else if(target.isStateAffected(11)) {text += target.name() + ` ficou DEPRIMID${pronome1}..`;}
+      else if(target.isStateAffected(12)) {text += target.name() + ' ficou MISERÁVEL...';}
       break;
 
     case 'BIG LASER':  // BIG LASER
@@ -2179,15 +2179,15 @@ switch (type) {
     case 'EARTH CRUEL':  // EARTH CRUEL
       text = user.name() + ' é cruel\r\n'
       text += 'com ' + target.name() + '!\r\n';
-      if(target.isStateAffected(10)) {text += target.name() + ' se sentiu TRISTE.';}
-      else if(target.isStateAffected(11)) {text += target.name() + ` se sentiu DEPRIMID${pronome1}..`;}
-      else if(target.isStateAffected(12)) {text += target.name() + ' se sentiu MISERÁVEL...';}
+      if(target.isStateAffected(10)) {text += target.name() + ' ficou TRISTE.';}
+      else if(target.isStateAffected(11)) {text += target.name() + ` ficou DEPRIMID${pronome1}..`;}
+      else if(target.isStateAffected(12)) {text += target.name() + ' ficou MISERÁVEL...';}
       break;
 
     case 'CRUEL EPILOGUE':  // EARTH CRUEL
       if(target.index() <= unitLowestIndex) {
         text = user.name() + " é cruel com todo mundo...\r\n";
-        text += "Todo mundo se sentiu TRISTE."
+        text += "Todo mundo ficou TRISTE."
       }
       break;
 
@@ -2197,42 +2197,46 @@ switch (type) {
 
     //SPACE BOYFRIEND//
     case 'SBF ATTACK': //SPACE BOYFRIEND ATTACK
-      text = user.name() + ' chuta rapidamente ' + target.name() + '!\r\n';
+      text = user.name() + ' chuta\r\n';
+      text += 'rapidamente ' + target.name() + '!\r\n';
       text += hpDamageText;
       break;
 
     case 'SBF LASER': //SPACE BOYFRIEND LASER
-      text = user.name() + ' atira com seu laser!\r\n';
+      text = user.name() + ' atira com\r\n';
+      text += 'seu laser!\r\n';
       text += hpDamageText;
       break;
 
     case 'SBF CALM DOWN': //SPACE BOYFRIEND CALM DOWN
-      text = user.name() + ' esvazia sua mente\r\n';
-      text += 'e remove qualquer EMOÇÃO.';
+      text = user.name() + ' esvazia\r\n';
+      text += 'sua mente.\r\n'
+      text += 'E remove qualquer EMOÇÃO.';
       break;
 
     case 'SBF ANGRY SONG': //SPACE BOYFRIEND ANGRY SONG
       if(target.index() <= unitLowestIndex) {
-        text = user.name() + ' lamenta com toda sua raiva!\r\n';
-        text += "Todo mundo se sentiu NERVOSO!\r\n";
+        text = user.name() + ' lamenta\r\n';
+        text += 'com toda sua raiva!\r\n';
+        text += "Todo mundo ficou NERVOSO!\r\n";
       }
       text += hpDamageText;
       break;
 
     case 'SBF ANGSTY SONG': //SPACE BOYFRIEND ANGSTY SONG
       if(target.index() <= unitLowestIndex) {
-        text = user.name() + ' canta com toda a escuridão\r\n';
-        text += 'em sua alma!\r\n';
-        text += "Todo mundo se sentiu TRISTE.\r\n";
+        text = user.name() + ' canta com\r\n';
+        text += 'toda a escuridão em sua alma!\r\n';
+        text += "Todo mundo ficou TRISTE.\r\n";
       }
       text += mpDamageText;
       break;
 
     case 'SBF JOYFUL SONG': //SPACE BOYFRIEND JOYFUL SONG
       if(target.index() <= unitLowestIndex) {
-        text = user.name() + ' canta com toda a alegria\r\n';
-        text += "em seu coração!\r\n"
-        text += "Todo mundo se sentiu FELIZ!\r\n";
+        text = user.name() + ' canta com\r\n';
+        text += "toda a alegria em seu coração!\r\n"
+        text += "Todo mundo ficou FELIZ!\r\n";
       }
       text += hpDamageText;
       break;
@@ -2252,7 +2256,7 @@ switch (type) {
     case 'EVIL LAUGH': //NEFARIOUS LAUGH
       text = user.name() + ' ri que nem o vilão\r\n';
       text += 'maligno que é!\r\n';
-      if(!target._noEffectMessage) {text += target.name() + " se sentiu FELIZ!"}
+      if(!target._noEffectMessage) {text += target.name() + " ficou FELIZ!"}
       else {text += parseNoEffectEmotion(target.name(), "mais FELIZ!")}
       break;
 
@@ -2297,7 +2301,7 @@ switch (type) {
       text = user.name() + ' solta um grito\r\n';
       text += 'ensurdecedor!\r\n';
       if(!target._noEffectMessage) {
-        text += target.name() + ` se sentiu NERVOS${pronome1}!`;
+        text += target.name() + ` ficou NERVOS${pronome1}!`;
       }
       else {text += parseNoEffectEmotion(target.name(), `mais NERVOS${pronome1}!`)}
       break;
@@ -2310,7 +2314,7 @@ switch (type) {
 
     case 'KC RECOVER': //KING CRAWLER CONSUME
       text = `${target.name()} recuperou ${Math.abs(hpDam)} de CORAÇÃO!\r\n`;
-      if(!target._noEffectMessage) {text += target.name() + " se sentiu FELIZ!"}
+      if(!target._noEffectMessage) {text += target.name() + " ficou FELIZ!"}
       else {text += parseNoEffectEmotion(target.name(), "mais FELIZ!")}
       break;
 
@@ -2330,7 +2334,7 @@ switch (type) {
       if(target.index() <= unitLowestIndex) {
         text = user.name() + " libera gás!\r\n";
         text += "Tem um cheiro doce!\r\n";
-        text += "Todo mundo se sentiu FELIZ!";
+        text += "Todo mundo ficou FELIZ!";
       }
       target._noEffectMessage = undefined;
       break;
@@ -2394,7 +2398,7 @@ switch (type) {
     case 'MAX NOTHING': //SIR MAXIMUS NOTHING
       text = user.name() + ' puxou suas costas...\r\n';
       if(!target._noEffectMessage) {
-        text += target.name() + ' se sentiu TRISTE.'
+        text += target.name() + ' ficou TRISTE.'
       }
       else {text += parseNoEffectEmotion(target.name(), "mais TRISTE!")}
       break;
@@ -2416,7 +2420,7 @@ switch (type) {
       text = user.name() + ' se lembra das\r\n';
       text += 'últimas palavras de seu pai.\r\n';
       if(!target._noEffectMessage) {
-        text += target.name() + ' se sentiu TRISTE.'
+        text += target.name() + ' ficou TRISTE.'
       }
       else {text += parseNoEffectEmotion(target.name(), "mais TRISTE!")}
       break;
@@ -2425,7 +2429,7 @@ switch (type) {
     case 'MAX 3 NOTHING': //SIR MAXIMUS III NOTHING
       text = user.name() + ' se lembra das\r\n';
       text += 'últimas palavras de seu avô.\r\n';
-      text += target.name() + ' se sentiu TRISTE.'
+      text += target.name() + ' ficou TRISTE.'
       break;
 
     //SWEETHEART//
@@ -2437,7 +2441,7 @@ switch (type) {
     case 'SH INSULT': //SWEET HEART INSULT
       if(target.index() <= unitLowestIndex) {
         text = user.name() + " insulta todo mundo!\r\n"
-        text += "Todo mundo se sentiu NERVOSO!\r\n";
+        text += "Todo mundo ficou NERVOSO!\r\n";
       }
       text += hpDamageText;
       target._noEffectMessage = undefined;
@@ -2458,9 +2462,9 @@ switch (type) {
       text = user.name() + ' se orgulha\r\n';
       text += 'sobre um de seus vários, vários talentos!\r\n';
       if(!target._noEffectMessage) {
-        if(target.isStateAffected(8)) {text += target.name() + ' se sentiu MANÍACA!!!';}
-        else if(target.isStateAffected(7)) {text += target.name() + ' se sentiu EXTÁTICA!!';}
-        else if(target.isStateAffected(6)) {text += target.name() + ' se sentiu FELIZ!';}
+        if(target.isStateAffected(8)) {text += target.name() + ' ficou MANÍACA!!!';}
+        else if(target.isStateAffected(7)) {text += target.name() + ' ficou EXTÁTICA!!';}
+        else if(target.isStateAffected(6)) {text += target.name() + ' ficou FELIZ!';}
       }
       else {text += parseNoEffectEmotion(target.name(), "mais FELIZ!")}
 
@@ -2475,7 +2479,7 @@ switch (type) {
       case 'JAWSUM ATTACK ORDER': //MR. JAWSUM DESK ATTACK ORDER
         if(target.index() <= unitLowestIndex) {
           text = user.name() + ' deu ordens para atacar!\r\n';
-          text += "Todo mundo se sentiu NERVOSO!";
+          text += "Todo mundo ficou NERVOSO!";
         }
         break;
 
@@ -2529,9 +2533,9 @@ switch (type) {
 
       case 'EXPANDED ADMIRATION': //PLUTO EXPANDED ADMIRATION
         text = user.name() + ' está admirando o progresso de KEL!\r\n';
-        if(target.isStateAffected(8)) {text += target.name() + ' se sentiu MANÍACO!!!';}
-        else if(target.isStateAffected(7)) {text += target.name() + ' se sentiu EXTÁTICO!!';}
-        else if(target.isStateAffected(6)) {text += target.name() + ' se sentiu FELIZ!';}
+        if(target.isStateAffected(8)) {text += target.name() + ' ficou MANÍACO!!!';}
+        else if(target.isStateAffected(7)) {text += target.name() + ' ficou EXTÁTICO!!';}
+        else if(target.isStateAffected(6)) {text += target.name() + ' ficou FELIZ!';}
         break;
 
       //ABBI TENTACLE//
@@ -2548,7 +2552,7 @@ switch (type) {
       case 'TENTACLE GRAB': //ABBI TENTACLE GRAB
         text = user.name() + ' enrola ao redor de ' + target.name() + '!\r\n';
         if(result.isHit()) {
-          if(target.name() !== "OMORI" && !target._noEffectMessage) {text += target.name() + ` se sentiu ASSUSTAD${pronome1}.\r\n`;}
+          if(target.name() !== "OMORI" && !target._noEffectMessage) {text += target.name() + ` ficou ASSUSTAD${pronome1}.\r\n`;}
           else {text += parseNoEffectEmotion(target.name(), `ASSUSTAD${pronome1}`)}
         }
         text += hpDamageText;
@@ -2556,7 +2560,7 @@ switch (type) {
 
       case 'TENTACLE GOOP': //ABBI TENTACLE GOOP
         text = target.name() + ` é encharcad${pronome2} em um líquido escuro!\r\n`;
-        text += target.name() + ` se sentiu mais frac${pronome2}...\r\n`;
+        text += target.name() + ` ficou mais frac${pronome2}...\r\n`;
         text += target.name() + ' perdeu ATAQUE.\r\n';
         text += target.name() + ' perdeu DEFESA.\r\n';
         text += target.name() + ' perdeu VELOCIDADE.';
@@ -2580,7 +2584,7 @@ switch (type) {
         if(target.index() <= unitLowestIndex) {
           text = user.name() + ' estica seus tentáculos.\r\n';
           text += "O ATAQUE de todos aumentou!!\r\n"
-          text += "Todo mundo se sentiu NERVOSO!"
+          text += "Todo mundo ficou NERVOSO!"
         }
         break;
 
@@ -2634,14 +2638,14 @@ switch (type) {
       case 'MUTANT HEART WINK': //MUTANT HEART WINK
         text = user.name() + ' pisca para ' + target.name() + '!\r\n';
         text += 'Foi meio fofo...\r\n';
-        if(!target._noEffectMessage){text += target.name() + ' se sentiu FELIZ!';}
+        if(!target._noEffectMessage){text += target.name() + ' ficou FELIZ!';}
         else {text += parseNoEffectEmotion(target.name(), "mais FELIZ!")}
         break;
 
       case 'MUTANT HEART INSULT': //MUTANT HEART INSULT
         text = user.name() + ' acidentalmente diz algo\r\n';
         text += 'cruel.\r\n';
-        if(!target._noEffectMessage){text += target.name() + ` se sentiu NERVOS${pronome1}!`;}
+        if(!target._noEffectMessage){text += target.name() + ` ficou NERVOS${pronome1}!`;}
         else {text += parseNoEffectEmotion(target.name(), `mais NERVOS${pronome1}!`)}
         break;
 
@@ -2681,24 +2685,24 @@ switch (type) {
         case 'PERFECT ANGELIC VOICE': //UPLIFTING HYMN
           if(target.index() <= unitLowestIndex) {
             text = user.name() + ' canta uma música comovente...\r\n';
-            if(!user._noEffectMessage) {text += user.name() + " se sentiu TRISTE.\r\n"}
+            if(!user._noEffectMessage) {text += user.name() + " ficou TRISTE.\r\n"}
             else {text += parseNoEffectEmotion(user.name(), "mais TRISTE!\r\n")}
-            text += 'Todo mundo se sentiu FELIZ!';
+            text += 'Todo mundo ficou FELIZ!';
           }
           break;
 
         case "PERFECT ANGELIC WRATH":
           if(target.index() <= unitLowestIndex) {text = user.name() + " desencadeia sua fúria.\r\n";}
           if(!target._noEffectMessage) {
-              if(target.isStateAffected(8)) {text += target.name() + ' se sentiu MANÍACO!!!\r\n';}
-              else if(target.isStateAffected(7)) {text += target.name() + ` se sentiu EXTÁTIC${pronome1}!!\r\n`;}
-              else if(target.isStateAffected(6)) {text += target.name() + ' se sentiu FELIZ!\r\n';}
-              else if(target.isStateAffected(12)) {text += target.name() + ' se sentiu MISERÁVEL...\r\n';}
-              else if(target.isStateAffected(11)) {text += target.name() + ` se sentiu DEPRIMID${pronome1}..\r\n`;}
-              else if(target.isStateAffected(10)) {text += target.name() + ' se sentiu TRISTE.\r\n';}
-              else if(target.isStateAffected(12)) {text += target.name() + ' se sentiu FURIOSO!!!\r\n';}
-              else if(target.isStateAffected(11)) {text += target.name() + ` se sentiu ENFURECID${pronome1}!!\r\n`;}
-              else if(target.isStateAffected(10)) {text += target.name() + ` se sentiu NERVOS${pronome1}!\r\n`;}
+              if(target.isStateAffected(8)) {text += target.name() + ' ficou MANÍACO!!!\r\n';}
+              else if(target.isStateAffected(7)) {text += target.name() + ` ficou EXTÁTIC${pronome1}!!\r\n`;}
+              else if(target.isStateAffected(6)) {text += target.name() + ' ficou FELIZ!\r\n';}
+              else if(target.isStateAffected(12)) {text += target.name() + ' ficou MISERÁVEL...\r\n';}
+              else if(target.isStateAffected(11)) {text += target.name() + ` ficou DEPRIMID${pronome1}..\r\n`;}
+              else if(target.isStateAffected(10)) {text += target.name() + ' ficou TRISTE.\r\n';}
+              else if(target.isStateAffected(12)) {text += target.name() + ' ficou FURIOSO!!!\r\n';}
+              else if(target.isStateAffected(11)) {text += target.name() + ` ficou ENFURECID${pronome1}!!\r\n`;}
+              else if(target.isStateAffected(10)) {text += target.name() + ` ficou NERVOS${pronome1}!\r\n`;}
           }
           else {
             if(target.isEmotionAffected("happy")) {text += parseNoEffectEmotion(target.name(), "mais FELIZ!\r\n")}
@@ -2721,15 +2725,15 @@ switch (type) {
 
         case 'SLIME GIRLS STRANGE GAS': //SLIME GIRLS STRANGE GAS
             if(!target._noEffectMessage) {
-              if(target.isStateAffected(8)) {text += target.name() + ' se sentiu MANÍACO!!!\r\n';}
-              else if(target.isStateAffected(7)) {text += target.name() + ` se sentiu EXTÁTIC${pronome1}!!\r\n`;}
-              else if(target.isStateAffected(6)) {text += target.name() + ' se sentiu FELIZ!\r\n';}
-              else if(target.isStateAffected(12)) {text += target.name() + ' se sentiu MISERÁVEL...\r\n';}
-              else if(target.isStateAffected(11)) {text += target.name() + ` se sentiu DEPRIMID${pronome1}..\r\n`;}
-              else if(target.isStateAffected(10)) {text += target.name() + ' se sentiu TRISTE.\r\n';}
-              else if(target.isStateAffected(16)) {text += target.name() + ' se sentiu FURIOSO!!!\r\n';}
-              else if(target.isStateAffected(15)) {text += target.name() + ` se sentiu ENFURECID${pronome1}!!\r\n`;}
-              else if(target.isStateAffected(14)) {text += target.name() + ` se sentiu NERVOS${pronome1}!\r\n`;}
+              if(target.isStateAffected(8)) {text += target.name() + ' ficou MANÍACO!!!\r\n';}
+              else if(target.isStateAffected(7)) {text += target.name() + ` ficou EXTÁTIC${pronome1}!!\r\n`;}
+              else if(target.isStateAffected(6)) {text += target.name() + ' ficou FELIZ!\r\n';}
+              else if(target.isStateAffected(12)) {text += target.name() + ' ficou MISERÁVEL...\r\n';}
+              else if(target.isStateAffected(11)) {text += target.name() + ` ficou DEPRIMID${pronome1}..\r\n`;}
+              else if(target.isStateAffected(10)) {text += target.name() + ' ficou TRISTE.\r\n';}
+              else if(target.isStateAffected(16)) {text += target.name() + ' ficou FURIOSO!!!\r\n';}
+              else if(target.isStateAffected(15)) {text += target.name() + ` ficou ENFURECID${pronome1}!!\r\n`;}
+              else if(target.isStateAffected(14)) {text += target.name() + ` ficou NERVOS${pronome1}!\r\n`;}
           }
           else {
             if(target.isEmotionAffected("happy")) {text += parseNoEffectEmotion(target.name(), "mais FELIZ!\r\n")}
@@ -2964,7 +2968,7 @@ switch (type) {
 
       case 'AUBREY TAUNT': //AUBREY TAUNT
         text = user.name() + ' chama ' + target.name() + ' de fraco!\r\n';
-        text += target.name() + " se sentiu NERVOSO!";
+        text += target.name() + " ficou NERVOSO!";
         break;
 
       //THE HOOLIGANS//
@@ -3093,7 +3097,7 @@ switch (type) {
       case 'MAVERICK TAUNT': //THE MAVERICK TAUNT
         text = user.name() + ' começa a tirar sarro de\r\n';
         text += target.name() + '!\r\n';
-        text += target.name() + ` se sentiu NERVOS${pronome1}!`
+        text += target.name() + ` ficou NERVOS${pronome1}!`
         break;
 
       //KIM//
@@ -3115,7 +3119,7 @@ switch (type) {
 
       case 'KIM TAUNT': //KIM TAUNT
         text = user.name() + ' começa a tirar sarro de ' + target.name() + '!\r\n';
-        text += target.name() + " se sentiu TRISTE.";
+        text += target.name() + " ficou TRISTE.";
         break;
 
       //VANCE//
@@ -3136,7 +3140,7 @@ switch (type) {
 
       case 'VANCE TEASE': //VANCE TEASE
         text = user.name() + ' disse coisas cruéis sobre ' + target.name() + '!\r\n';
-        text += target.name() + " se sentiu TRISTE."
+        text += target.name() + " ficou TRISTE."
         break;
 
       //JACKSON//
@@ -3224,7 +3228,7 @@ switch (type) {
     case 'DREAM HEIGHTS SHOVE': //DREAM FEAR OF HEIGHTS SHOVE
       text = user.name() + ' empurra ' + target.name() + '.\r\n';
       text += hpDamageText + '\r\n';
-      if(!target._noEffectMessage && target.name() !== "OMORI"){text += target.name() + ` se sentiu ASSUSTAD${pronome1}.`;}
+      if(!target._noEffectMessage && target.name() !== "OMORI"){text += target.name() + ` ficou ASSUSTAD${pronome1}.`;}
       else {text += parseNoEffectEmotion(target.name(), `ASSUSTAD${pronome1}`)}
       break;
 
@@ -3274,7 +3278,7 @@ switch (type) {
 
       case 'DANDELION':  // DANDELION
         text = user.name() + ' assoprou o DENTE DE LEÃO.\r\n';
-        text += user.name() + ' se sentiu como ' + (switches.value(6) ? 'ela' : 'ele') + ` mesm${pronome2} de volta.`;
+        text += user.name() + ' ficou como ' + (switches.value(6) ? 'ela' : 'ele') + ` mesm${pronome2} de volta.`;
         break;
 
       case 'DYNAMITE':  // DYNAMITE
@@ -3289,7 +3293,7 @@ switch (type) {
       case 'PRESENT':  // PRESENT
         text = target.name() + ' abriu o PRESENTE\r\n';
         text += 'Não foi o que ' + target.name() + ' queria...\r\n';
-        if(!target._noEffectMessage){text += target.name() + ` se sentiu NERVO${pronome1}! `;}
+        if(!target._noEffectMessage){text += target.name() + ` ficou NERVO${pronome1}! `;}
         else {text += parseNoEffectEmotion(target.name(), `mais NERVOS${pronome1}! `)}
         break;
 
@@ -3297,14 +3301,14 @@ switch (type) {
         if(target.index() <= unitLowestIndex) {
           text = user.name() + ' usou SERPENTINA!\r\n';
           text += 'UHUUUUU!! É uma festa!\r\n';
-          text += 'Todo mundo se sentiu FELIZ! ';
+          text += 'Todo mundo ficou FELIZ! ';
         }
         break;
 
       case 'SPARKLER':  // SPARKLER
         text = user.name() + ' acende a FAÍSCA!\r\n';
         text += 'UHUUUUU!! É uma festa!\r\n';
-        if(!target._noEffectMessage){text += target.name() + ' se sentiu FELIZ!';}
+        if(!target._noEffectMessage){text += target.name() + ' ficou FELIZ!';}
         else {text += parseNoEffectEmotion(target.name(), "mais FELIZ!")}
         break;
 
@@ -3327,58 +3331,58 @@ switch (type) {
 
       case "MARI ATTACK":
         text = user.name() + " apagou o inimigo.\r\n";
-        text += target.name() + ` se sentiu ASSUSTAD${pronome1}.\r\n`;
+        text += target.name() + ` ficou ASSUSTAD${pronome1}.\r\n`;
         text += hpDamageText;
         break;
 
       //STATES//
       case 'HAPPY':
-        if(!target._noEffectMessage){text = target.name() + ' se sentiu FELIZ!';}
+        if(!target._noEffectMessage){text = target.name() + ' ficou FELIZ!';}
         else {text = parseNoEffectEmotion(target.name(), "mais FELIZ!")}
         break;
 
       case 'ECSTATIC':
-        if(!target._noEffectMessage){text = target.name() + ` se sentiu EXTÁTIC${pronome1}!!`;}
+        if(!target._noEffectMessage){text = target.name() + ` ficou EXTÁTIC${pronome1}!!`;}
         else {text = parseNoEffectEmotion(target.name(), "mais FELIZ!")}
         break;
 
       case 'MANIC':
-        if(!target._noEffectMessage){text = target.name() + ' se sentiu MANÍACO!!!';}
+        if(!target._noEffectMessage){text = target.name() + ' ficou MANÍACO!!!';}
         else {text = parseNoEffectEmotion(target.name(), "mais FELIZ!")}
         break;
 
       case 'SAD':
-        if(!target._noEffectMessage){text = target.name() + ' se sentiu TRISTE.';}
+        if(!target._noEffectMessage){text = target.name() + ' ficou TRISTE.';}
         else {text = parseNoEffectEmotion(target.name(), "mais TRISTE!")}
         break;
 
       case 'DEPRESSED':
-        if(!target._noEffectMessage){text = target.name() + ` se sentiu DEPRIMID${pronome1}..`;}
+        if(!target._noEffectMessage){text = target.name() + ` ficou DEPRIMID${pronome1}..`;}
         else {text = parseNoEffectEmotion(target.name(), "mais TRISTE!")}
         break;
 
       case 'MISERABLE':
-        if(!target._noEffectMessage){text = target.name() + ' se sentiu MISERÁVEL...';}
+        if(!target._noEffectMessage){text = target.name() + ' ficou MISERÁVEL...';}
         else {text = parseNoEffectEmotion(target.name(), "mais TRISTE!")}
         break;
 
       case 'ANGRY':
-        if(!target._noEffectMessage){text = target.name() + ` se sentiu NERVOS${pronome1}!`;}
+        if(!target._noEffectMessage){text = target.name() + ` ficou NERVOS${pronome1}!`;}
         else {text = parseNoEffectEmotion(target.name(), `mais NERVOS${pronome1}!`)}
         break;
 
       case 'ENRAGED':
-        if(!target._noEffectMessage){text = target.name() + ` se sentiu ENFURECID${pronome1}!!`;}
+        if(!target._noEffectMessage){text = target.name() + ` ficou ENFURECID${pronome1}!!`;}
         else {text = parseNoEffectEmotion(target.name(), `mais NERVOS${pronome1}!`)}
         break;
 
       case 'FURIOUS':
-        if(!target._noEffectMessage){text = target.name() + ' se sentiu FURIOSO!!!'}
+        if(!target._noEffectMessage){text = target.name() + ' ficou FURIOSO!!!'}
         else {text = parseNoEffectEmotion(target.name(), `mais NERVOS${pronome1}!`)}
         break;
 
       case 'AFRAID':
-        if(!target._noEffectMessage){text = target.name() + ` se sentiu ASSUSTAD${pronome1}!`;}
+        if(!target._noEffectMessage){text = target.name() + ` ficou ASSUSTAD${pronome1}!`;}
         else {text = parseNoEffectEmotion(target.name(), `ASSUSTAD${pronome1}`)}
         break;
 
