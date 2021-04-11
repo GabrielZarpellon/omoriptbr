@@ -191,7 +191,7 @@ message_20:
       text: \n<CAIXA>Muito obrigado.\! Espero que goste dos seus bens usados.
 #Insufficient Funds
 message_21:
-      text: \n<CAIXA>Whoa, você não tem dinheiro suficiente aí.\! Desculpe, campeões.
+      text: \n<CAIXA>Eita, você não tem dinheiro suficiente aí.\! Desculpe, campeões.
 #item buying prompt
 message_40:
       text: \n<CAIXA>Tudo bem por você? O total é de $<SHOPTOTAL>.00.\.\^
