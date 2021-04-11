@@ -83,10 +83,10 @@ message_10:
 message_11:
       faceset: MainCharacters_DreamWorld
       faceindex: 5 #replace
-      text: \aub\Com[2]Q-Quê!? Tem certeza?\! Tem que ter outros jeitos...
+      text: \aub\Com[2]Q-Quê!? Tem certeza?\! Tem que ter outro jeito...
 
 message_12:
-      text: \n<EX-MARIDO ESPACIAL>Ahh...\! Esse frio...\! Consigo me identificar com ele tão bem...<br>Isso...\! Isso está levando minha alma lentamente...<br>Eu e o gelo...\! nos tornaremos um só...
+      text: \n<EX-MARIDO ESPACIAL>Ahh...\! Esse frio...\! Consigo me identificar tão bem com ele...<br>Isso...\! Isso está levando minha alma lentamente...<br>Eu e o gelo...\! nos tornaremos um só...
 
 message_13:
       faceset: MainCharacters_DreamWorld
@@ -119,7 +119,7 @@ message_18:
       text: \kelIsso aí!\! Cê tem coisas melhores pra se preocupar...\! tipo sua tropa!\! Você é um PIRATA ESPACIAL, pelo amor de Deus!
 
 message_19:
-      text: \n<EX MARIDO ESPACIAL>Minha...\! tropa?\! Ah...\! sim...\! minha tropa.\!<br>Eu quase esqueci...\! Que horrível da minha parte...\!<br>Eles devem estar tão preocupados...\! Eu deveria voltar...
+      text: \n<EX MARIDO ESPACIAL>Minha...\! tropa?\! Ah...\! sim...\! Minha tropa.\!<br>Eu quase esqueci...\! Que horrível da minha parte...\!<br>Eles devem estar tão preocupados...\! Eu deveria voltar...
 
 message_20:
       text: \n<EX MARIDO ESPACIAL>Aqui, pegue isto...\! Eu...\! Eu...\! Não vou precisar disso de novo...
@@ -133,7 +133,7 @@ message_22:
 #CUTSCENE: FATHER AND son
 
 message_23:
-      text: \n<BARBA ROSA>\Com[2]Filho!\! Você tá aqui!\!<br>Onde você tava, pivete!?<br>Eu te procurei por toda parte!
+      text: \n<BARBA ROSA>\Com[2]Filho!\! Você tá aqui!\!<br>Onde você esteve, pivete!?<br>Eu te procurei por toda parte!
 
 message_24:
       text: \n<EX MARIDO ESPACIAL>Oh...\! Oi, Pai...
