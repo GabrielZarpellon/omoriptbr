@@ -593,19 +593,19 @@ message_196:
 message_200:
       faceset: MainCharacter_Mari
       faceindex: 4
-      text: \marOh não! O DUCKIE JR. sumiu!<br>\.Tenho certeza que os pais dele devem estar muito preocupados...\.\^
+      text: \marOh não! O PATINHO JR. sumiu!<br>\.Tenho certeza que os pais dele devem estar muito preocupados...\.\^
 
 #After talking to DUCKIE JR.:
 
 message_205:
       faceset: MainCharacter_Mari
       faceindex: 3
-      text: \marUfa... Parece que o DUCKIE JR. tava com sua cabeça nas nuvens.\. Você também é assim às vezes, OMORI.\. Você devia checar se o DUCKIE JR. foi para casa em segurança!\.\^
+      text: \marUfa... Parece que o PATINHO JR. tava com sua cabeça nas nuvens.\. Você também é assim às vezes, OMORI.\. Você devia checar se o PATINHO JR. foi para casa em segurança!\.\^
 
 message_206:
       faceset: MainCharacter_Mari
       faceindex: 1
-      text: \marParece que o DUCKIE JR. tava com sua cabeças nas nuvens.\. Você também é assim às vezes, OMORI!\.\^
+      text: \marParece que o PATINHO JR. tava com sua cabeças nas nuvens.\. Você também é assim às vezes, OMORI!\.\^
 
 # =========================================================================================
 
