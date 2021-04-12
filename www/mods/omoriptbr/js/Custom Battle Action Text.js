@@ -1456,7 +1456,8 @@ switch (type) {
 
     //MAFIA ALLIGATOR//
     case 'MAFIA ATTACK': //MAFIA ATTACK
-      text = user.name() + ' dá um golpe de karatê em ' + target.name() + '!\r\n';
+      text = user.name() + ' dá um golpe de karatê\r\n';
+	  text += 'em ' + target.name() + '!\r\n';
       text += hpDamageText;
       break;
 
