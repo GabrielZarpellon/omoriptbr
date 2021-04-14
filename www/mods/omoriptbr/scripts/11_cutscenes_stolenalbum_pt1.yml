@@ -370,7 +370,7 @@ message_94:
 #MAVERICK is at the fountain, with one girl on each arm.
 
 message_110:
-      text:\n<O MAVERICK> E então eu disse pra ele... Não é MAVERICK.\! <br>É \Com[2]O MAVERICK!
+      text: \n<O MAVERICK> E então eu disse pra ele... Não é MAVERICK.\! <br>É \Com[2]O MAVERICK!
 
 message_111:
       text: Oh, \Com[2]O MAVERICK, você é tão engraçado!\n<GAROTA>
