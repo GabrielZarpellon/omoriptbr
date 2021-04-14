@@ -295,7 +295,7 @@ message_142:
       text: \n<PILOTO DE TÁXI>Qual é...\! Não seja tímido!\! Eu não mordo...\! muito.
 
 message_143:
-      xt: \n<PILOTO DE TÁXI>Ei, criança! Quer voltar para o \c[11]FUNDO DO POÇO\c[0]?\! Eu vou dirigir o quanto quiser!\! Isso não é muito trabalho para mim... Eu sou pago por isso! Keh heh!
+      text: \n<PILOTO DE TÁXI>Ei, criança! Quer voltar para o \c[11]FUNDO DO POÇO\c[0]?\! Eu vou dirigir o quanto quiser!\! Isso não é muito trabalho para mim... Eu sou pago por isso! Keh heh!
 
 message_144:
       text: \n<PILOTO DE TÁXI>Hmm...\! Parece que você está com pouca grana...\!<br>Bom, tudo bem.\! Só vou levar tudo que tem-
