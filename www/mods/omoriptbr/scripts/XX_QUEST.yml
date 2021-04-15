@@ -293,7 +293,7 @@ message_90:
 message_95:
       faceset: MainCharacter_Mari
       faceindex: 3
-      text: \marEi, você conseguiu um \c[4]QUEBRA-CABEÇA DE FLORES\c[0]!\. Não era isso que a DAISY queria dar para o NEB?\. É bem a cara dele memso.\. \}<br>Hehe...\.\^
+      text: \marEi, você conseguiu um \c[4]QUEBRA-CABEÇA DE FLORES\c[0]!\. Não era isso que a DAISY queria dar para o NEB?\. É bem a cara dele mesmo.\. \}<br>Hehe...\.\^
 
 message_96:
       faceset: MainCharacter_Mari
