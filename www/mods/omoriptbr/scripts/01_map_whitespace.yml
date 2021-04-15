@@ -102,10 +102,10 @@ message_21:
     text: "Você não pode sair sem uma arma."
 
 message_31:
-    text: "Você conseguiu uma FOTO BORRADA."
+    text: "Você pegou uma FOTO BORRADA."
 
 message_32:
-    text: Você conseguiu uma FACA BRILHANTE.
+    text: Você pegou uma FACA BRILHANTE.
 
 # -----------------------------------------------
 #           "WHITE SPACE" (MAP 388)
