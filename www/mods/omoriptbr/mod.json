@@ -14,7 +14,9 @@
     "data": [
 	  "data/"
 	],
-    "maps": [],
+    "maps": [
+	  "maps/"
+	],
     "assets": [
 	  "img/atlases/",
 	  "img/pictures/",
