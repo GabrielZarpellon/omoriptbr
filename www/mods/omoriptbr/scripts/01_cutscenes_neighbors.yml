@@ -56,7 +56,7 @@ message_6:
 message_10:
     faceset: MainCharacters_DreamWorld
     faceindex: 9
-    text: \aubPor que o \n[3] é sempre mau comigo!?\! <br>Sabe, num outro dia, aquele inútil roubou meu \c[13]BICHINHO DE PELÚCIA\c[0] e escondeu ele em algum lugar nessa sala.
+    text: \aubPor que o \n[3] é sempre mau comigo?!\! <br>Sabe, num outro dia, aquele inútil roubou meu \c[13]BICHINHO DE PELÚCIA\c[0] e escondeu ele em algum lugar nessa sala.
 
 message_11:
     faceset: MainCharacters_DreamWorld
@@ -150,7 +150,7 @@ message_30:
 message_31:
       faceset: MainCharacters_DreamWorld
       faceindex: 1
-      text: O OMORI achou!\!<br>Sorte minha, que eu tenho alguns amigos de verdade!\aub
+      text: O OMORI achou!\!<br>Sorte minha que eu tenho alguns amigos de verdade!\aub
 
 message_32:
       faceset: MainCharacters_DreamWorld
