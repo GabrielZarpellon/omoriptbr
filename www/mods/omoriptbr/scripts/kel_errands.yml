@@ -15,7 +15,7 @@ message_1:
       text: \kelOi! Estamos aqui para pegar um pedido!
 
 message_2:
-      text: \n<CARA DA PIZZA>Entendo!\! O que você gostaria?\!<br>Oh... Eu sei...\! Você gostria de...\! pizza?\! Nom nom...
+      text: \n<CARA DA PIZZA>Entendo!\! O que você gostaria?\!<br>Oh... Eu sei...\! Você gostaria de...\! pizza?\! Nom nom...
 
 message_3:
       faceset: MainCharacters_Faraway

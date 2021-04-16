@@ -74,7 +74,7 @@ message_15:
       text: \herEi, OMORI!\! Agora que nós estamos pegando o jeito nas batalhas...\! Aqui está um diário onde nós podemos nos manter informados dos inimigos que encontrarmos.
 
 message_16:
-      text: HERO te deu o diário \c[4]FATOS DOS INIMIGOS!\c[0].
+      text: HERO te deu o diário \c[4]FATOS DOS INIMIGOS\c[0]!
 
 message_17:
       faceset: MainCharacters_DreamWorld
@@ -195,7 +195,7 @@ message_42:
 message_43:
       faceset: MainCharacter_Basil
       faceindex: 0
-      text: \basRosas rosadas simbolizam admiração... Alaranjadas paixão... Amareladas amizade... e a lista continua!
+      text: \basRosas rosadas simbolizam admiração... Alaranjadas, paixão... Amareladas, amizade... e a lista continua!
 
 message_44:
       faceset: MainCharacter_Basil
@@ -207,7 +207,7 @@ message_44:
 message_45:
       faceset: MainCharacter_Basil
       faceindex: 2
-      text: \basAh!\! Estes são um tipo de flor chamadas de gladíolo!
+      text: \basAh!\! Este é um tipo de flor chamado de gladíolo!
 
 message_46:
       faceset: MainCharacters_DreamWorld
@@ -253,7 +253,7 @@ message_52:
 message_60:
       faceset: MainCharacter_Basil
       faceindex: 3
-      text: \bas\Com[2]Oh não, de novo não!\! Por favor, pare de girar Sr. BROTOPEIRA!\! Você tá destruindo as flores!
+      text: \bas\Com[2]Oh não, de novo não!\! Por favor, pare de girar, Sr. BROTOPEIRA!\! Você tá destruindo as flores!
 
 #SPROUT MOLE TWIRLS HARDER
 #SPROUT MOLE TWIRLS INTO PARTY
@@ -342,7 +342,7 @@ message_204:
       text: \basRosas vêm em diferentes formatos e cores, cada uma delas com um significado único.
 
 message_205:
-      text: \basRosas rosadas simbolizam admiração... Alaranjadas paixão... Amareladas amizade... e a lista continua.
+      text: \basRosas rosadas simbolizam admiração... Alaranjadas, paixão... Amareladas, amizade... e a lista continua.
 
 message_206:
       text: \basO HERO não me lembra de nenhuma rosa em específico.\!<br>Eu acho que o HERO é que nem todas as rosas, ele é versátil e amado por todos...
@@ -497,7 +497,7 @@ message_159:
 message_160:
       faceset: MainCharacters_DreamWorld
       faceindex: 39
-      text: Sabe...\! Eu na verdade estive trabalhando num livro que fala tudo sobre batalhas!\! Talvez um dia nós podemos estudar juntos.\! Eu vou deixar com o OMORI por enquanto.\her
+      text: Sabe...\! Eu na verdade estive trabalhando num livro que fala tudo sobre batalhas!\! Talvez um dia nós possamos estudar juntos.\! Eu vou deixar com o OMORI por enquanto.\her
 
 message_169:
       faceset: MainCharacters_DreamWorld
@@ -517,7 +517,7 @@ message_153:
 message_154:
       faceset: MainCharacters_DreamWorld
       faceindex: 37
-      text: Depois que você aprendeu um \c[1]DOM\c[0], não se esqueça de equipar ele no MENU, tá bem?\her
+      text: Depois de você aprender um \c[1]DOM\c[0], não se esqueça de equipar ele no MENU, tá bem?\her
 
 message_161:
       faceset: MainCharacters_DreamWorld
@@ -542,12 +542,12 @@ message_165:
 message_166:
       faceset: MainCharacters_DreamWorld
       faceindex: 38
-      text: \herCaso você não saiba, EMOÇÕES podem determinar quão fraco ou forte você é contra um ataque.\! FELIZ vence NERVOSO...\! NERVOSO vence TRISTE...\! e TRISTE vence FELIZ!
+      text: \herCaso você não saiba, EMOÇÕES podem determinar o quão fraco ou forte você é contra um ataque.\! FELIZ vence NERVOSO...\! NERVOSO vence TRISTE...\! e TRISTE vence FELIZ!
 
 message_167:
       faceset: MainCharacters_DreamWorld
       faceindex: 38
-      text: Aqui! Eu até desenhei um guia em como elas funcionam!\! Não sou um artista, mas acho que você vai entender.\! Eu vou botar no seu BOLSO para você checar mais tarde.\her
+      text: Aqui! Eu até desenhei um guia de como elas funcionam!\! Não sou um artista, mas acho que você vai entender.\! Eu vou botar no seu BOLSO para você checar mais tarde.\her
 
 message_168:
       text: Você ganhou uma \c[4]TABELA DE EMOÇÕES\c[0].

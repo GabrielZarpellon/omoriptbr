@@ -112,14 +112,14 @@ message_12:
 
 #Mailbox opens
 message_13:
-      text: \n<CAIXA DE CORREIO>Sim, sim! Olá, prezado cliente...<br>Bem-vindo à minha loja! Por favor compre alguma coisa! \}\sinv[1]Kekeke...
+      text: \n<CAIXA DE CORREIO>Sim, sim! Olá, prezado cliente...<br>Bem-vindo à minha loja! Por favor, compre alguma coisa! \}\sinv[1]Kekeke...
 
 #MAILBOX - GENERAL
 
 #ENTER shop
 
 message_14:
-      text: \n<CAIXA DE CORREIO>Sim, sim! Olá, prezado cliente...<br>Bem-vindo à minha loja! Por favor compre alguma coisa! \}\sinv[1]Kekeke...
+      text: \n<CAIXA DE CORREIO>Sim, sim! Olá, prezado cliente...<br>Bem-vindo à minha loja! Por favor, compre alguma coisa! \}\sinv[1]Kekeke...
 
 #BUYING/SELLING
 
@@ -164,7 +164,7 @@ message_189:
 
 #IF HERO IS leader
 message_200:
-      text: \n<CAIXA DE CORREIO>Ah, se não é o HERO, meu cliente favorito e mais bonito também! Descontos para você como sempre! Então... por favor compre algo! \}\sinv[1]Kekeke...
+      text: \n<CAIXA DE CORREIO>Ah, se não é o HERO, meu cliente favorito e mais bonito também! Descontos para você como sempre! Então... por favor, compre algo! \}\sinv[1]Kekeke...
 
 # =========================================================================================
 # MAILBOX: FOREST PLAYGROUND

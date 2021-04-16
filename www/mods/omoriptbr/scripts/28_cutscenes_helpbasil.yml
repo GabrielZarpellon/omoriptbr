@@ -316,7 +316,7 @@ message_98:
 message_99:
       faceset: MainCharacter_Basil
       faceindex: 13
-      text: Claro que podem, AUBREY! Você não precisa nem perguntar!\!<br>Quanto mais melhor, afinal.\her
+      text: Claro que podem, AUBREY! Você não precisa nem perguntar!\!<br>Quanto mais, melhor, afinal.\her
 
 message_100:
       text: \sinv[1]Ronco...\| Qual é, gente...\| <br>Já tá na hora de dormir...\kel

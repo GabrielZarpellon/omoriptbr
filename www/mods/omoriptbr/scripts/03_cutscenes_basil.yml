@@ -9,7 +9,7 @@
 message_0:
       faceset: MainCharacter_Basil
       faceindex: 1
-      text: \Com[2]\SINV[1]Digam xiiiiiz!\SINV[0]\bas
+      text: \Com[2]\SINV[1]Digam xiiiiis!\SINV[0]\bas
 
 #Screen flashes white
 #BASIL takes a photo of the party
@@ -18,7 +18,7 @@ message_0:
 message_1:
       faceset: MainCharacter_Basil
       faceindex: 0
-      text: Ahh, saiu um pouco borrada...\!<br>Mas, tá tudo bem. Isso dá um toque de originalidade.\bas
+      text: Ahh, saiu um pouco borrada...\!<br>Mas tá tudo bem. Isso dá um toque de originalidade.\bas
 
 #BASIL puts away photo
 
@@ -66,7 +66,7 @@ message_7:
 message_8:
       faceset: MainCharacter_Basil
       faceindex: 2
-      text: Ah ei, OMORI! Você quer olhar a foto também?\bas
+      text: Ah, ei, OMORI! Você quer olhar a foto também?\bas
 
 #BASIL gave you a GROUP Photo
 #SLIDE: GROUP PHOTO (DREAM)
@@ -95,7 +95,7 @@ message_10:
 message_34:
       faceset: MainCharacters_DreamWorld
       faceindex: 26
-      text: \Com[2]Sai daí AUBREY! Eu não consigo ver!\kel
+      text: \Com[2]Sai daí, AUBREY! Eu não consigo ver!\kel
 
 #KEL pushes AUBREY out of the way and looks at the photos.
 
@@ -121,7 +121,7 @@ message_37:
 message_38:
       faceset: MainCharacter_Basil
       faceindex: 3
-      text: E-Esperem um pouco! Não tem porque brigar!\bas
+      text: E-Esperem um pouco! Não tem por que brigar!\bas
 
 message_39:
       faceset: MainCharacters_DreamWorld
@@ -183,7 +183,7 @@ message_46:
 message_47:
       faceset: MainCharacters_DreamWorld
       faceindex: 29
-      text: Me desculpa... foi sem querer HERO!<br>\!Por favor não conta para a MARI...\kel
+      text: Me desculpa... foi sem querer, HERO!<br>\!Por favor, não conta pra MARI...\kel
 
 #BASIL gets up
 
@@ -227,12 +227,12 @@ message_70:
 message_71:
       faceset: MainCharacters_DreamWorld
       faceindex: 4
-      text: Me desculpa por ter te empurrado BASIL.\.<br>\}Mesmo que metade da culpa tenha sido do KEL...\aub
+      text: Me desculpa por ter te empurrado, BASIL.\.<br>\}Mesmo que metade da culpa tenha sido do KEL...\aub
 
 message_72:
       faceset: MainCharacters_DreamWorld
       faceindex: 26
-      text: Sim, eu prometo nunca mais brigar com a AUBREY!\.<br>\}A não ser que ela comece primeiro...\kel
+      text: Sim, eu prometo nunca mais brigar com a AUBREY!\.<br>\}A não ser que ela comece...\kel
 
 message_73:
       faceset: MainCharacter_Basil

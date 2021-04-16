@@ -12,7 +12,7 @@ message_1:
       text: \berVocês não podem sair sem se juntar aqui em uma partida de esconde-esconde!
 
 message_2:
-      text: \n<VAN>Fiquem e joguem com a gente!\! Quanto mais melhor!
+      text: \n<VAN>Fiquem e joguem com a gente!\! Quanto mais, melhor!
 
 message_3:
       faceset: MainCharacters_DreamWorld
@@ -120,7 +120,7 @@ message_23:
 message_24:
       faceset: MainCharacter_Basil
       faceindex: 1
-      text: \basEu posso ir no seu lugar se quiser.\!<br>Eu não me importo... sério!
+      text: \basEu posso ir no seu lugar, se quiser.\!<br>Eu não me importo... sério!
 
 message_25:
       text: \berEi, eu tô escutando vocês tramando algo aí!\!<br>São os canudos que fazem as regras, não eu!
@@ -313,7 +313,7 @@ message_67:
       text: \n<NOSE e BUN>\sinv[1]Adoleta! Le petit petit polá!\sinv[0]
 
 message_68:
-      text: \n<NOSE e BUN>\sinv[1]le café com chocolá! Adoleta!
+      text: \n<NOSE e BUN>\sinv[1]Le café com chocolá! Adoleta!
 
 message_69:
       text: \n<HAPPY>Q... R... S... T... U... H... I... J...\! Umm...

@@ -288,12 +288,12 @@ dreamworld_message6:
 dreamworld_message7:
     background: 0
     position: 2
-    text: \"O HERO se aproximando pra um beijinho!<br>\!O KEL parece estar tão desconfortavel.\! Ah, o amor entre irmãos...\"
+    text: \"O HERO se aproximando pra um beijinho!<br>\!O KEL parece estar tão desconfortável.\! Ah, o amor entre irmãos...\"
 
 dreamworld_message8:
     background: 0
     position: 2
-    text: \"Nós estamos tendo um piquenique hoje!\!<br>A MARI quis tirar uma foto de todos nós.\! Diga xiiiz!\"
+    text: \"Nós estamos tendo um piquenique hoje!\!<br>A MARI quis tirar uma foto de todos nós.\!<br>Diga xiiis!\"
 
 dreamworld_message9:
     background: 0
