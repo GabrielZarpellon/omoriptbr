@@ -533,7 +533,7 @@ DataManager.blackLetterCollectionState = function(word = this.hangmanWord()) {
     };
   };
   // Return 1 if wrong count is more or equal to 14 (Failure)
-  if (wrongCount >= 14) { return 1; };
+  if (wrongCount >= 12) { return 1; };
   // Return 0 if right count is or equal to the letters (Sucess)
   if (rightCount >= letters.length) { return 0; };
   // Return 2 by default (Incomplete)

@@ -933,14 +933,20 @@ Window_OmoHangmanBody.prototype.createBodySprites = function() {
   this._bodySprites = {};
   // Get Sheet Bitmap
   var bitmap = this.sheetBitmap();
+  // Get Blackletter index value
+  blackLetterIndex = $gameParty._blackLetterIndex;
   // Go Through Sources
   for (var i = 0; i < source.length; i++) {
     // Get Data From Source
     var data = source[i];
+    // Check for rightArm or rightLeg to enable drawing second arm or leg when first is drawn
+    if (data.name === "rightArm" || data.name === "rightLeg") {
+      blackLetterIndex++;
+    }
     // Create Sprite
     var sprite = new Sprite(bitmap);
     // If Index is less than blackletter index
-    if (i < $gameParty._blackLetterIndex) {
+    if (i < blackLetterIndex) {
       // Set Sprite Frame
       sprite.setFrame(data.rect.x, data.rect.y, data.rect.width, data.rect.height);
     } else {
@@ -997,6 +1003,20 @@ Window_OmoHangmanBody.prototype.updateBlackLetterIndex = function() {
     if (anim.part === null) {
       // Get Part
       var part = Object.keys(this._bodySprites)[index];
+      var flag_arm = true;
+      var flag_leg = true;
+
+      // If you draw the right arm, draw the left arm
+      if( part.contains("rightArm") && flag_arm){
+        flag_arm = false;
+        this._letterSprites.length++;
+      }
+
+      // If you draw the right leg, draw the left leg
+      if( part.contains("rightLeg") && flag_leg){
+        flag_leg = false;
+        this._letterSprites.length++;
+      }
       // Setup Animation
       let dur = part === "mouth" ? 2 : 20
       this._anim = {part: part, duration: dur}
