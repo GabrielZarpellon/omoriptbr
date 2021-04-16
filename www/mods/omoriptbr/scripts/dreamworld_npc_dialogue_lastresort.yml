@@ -173,7 +173,7 @@ message_26:
 #CARA JACARÉ
 #Location: Last Resort - Construction
 message_27:
-      text: \n<CARA JACARÉ>Huff... \!Huff... \!Minhas costas doem... \!Estou velho de mais pra isso.
+      text: \n<CARA JACARÉ>Huff... \!Huff... \!Minhas costas doem... \!Estou velho demais pra isso.
 
 #CARA JACARÉ
 #Location: Last Resort - Break Room
@@ -548,7 +548,7 @@ message_233:
 
 #HERO BOSS
 message_222:
-      text: \n<CARA JACARÉ>Como vai, chefe?\! Espero que não esteja trabalhando de mais.
+      text: \n<CARA JACARÉ>Como vai, chefe?\! Espero que não esteja trabalhando demais.
 
 message_223:
       text: \n<CARA JACARÉ>Vindo até aqui pra ver se estamos bem, chefe?\! Isso que é liderança de verdade.
@@ -563,7 +563,7 @@ message_225:
       text: \n<CARA JACARÉ>Eu não posso só tirar meus óculos assim.\! Eles são tipo uma parte de mim!
 
 message_226:
-      text: \n<CARA JACARÉ>Cara... a MÃE tá visitando de novo?\! Ela deve estar com saudade de mais.
+      text: \n<CARA JACARÉ>Cara... a MÃE tá visitando de novo?\! Ela deve estar com saudade demais.
 
 message_227:
       text: \n<CARA JACARÉ>O quê? a mãe está aqui?\! Eu tenho que ir dizer oi depois!

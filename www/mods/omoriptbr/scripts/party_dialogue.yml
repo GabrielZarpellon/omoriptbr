@@ -1382,7 +1382,7 @@ message_354:
 message_352:
       faceset: MainCharacters_DreamWorld
       faceindex: 40
-      text: \herVocê tá certa, AUBREY.\! Eu acho que todos nós estivemos longe do BASIL por tempo de mais.
+      text: \herVocê tá certa, AUBREY.\! Eu acho que todos nós estivemos longe do BASIL por tempo demais.
 
 message_353:
       faceset: MainCharacters_DreamWorld
@@ -1659,7 +1659,7 @@ message_410:
 message_411:
       faceset: MainCharacters_DreamWorld
       faceindex: 16
-      text: \kelViu, é por isso que as pessoas não deviam pensar de mais!<br>É muito confuso pra todo mundo que tá envolvido!
+      text: \kelViu, é por isso que as pessoas não deviam pensar demais!<br>É muito confuso pra todo mundo que tá envolvido!
 
 message_412:
       faceset: MainCharacters_DreamWorld
@@ -1781,7 +1781,7 @@ message_604:
 message_605:
       faceset: MainCharacters_DreamWorld
       faceindex: 17
-      text: \kelSó não descanse muito!\! Ou eu vou ganhar de todos vocês nas cartas!\! Vocês deixam fácil de mais!
+      text: \kelSó não descanse muito!\! Ou eu vou ganhar de todos vocês nas cartas!\! Vocês deixam fácil demais!
 
 message_606:
       faceset: MainCharacters_DreamWorld
