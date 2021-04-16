@@ -1804,7 +1804,7 @@ message_692:
 #TRAIN - ORANGE OASIS. ACCIDENTALLY PLACED HERE
 
 message_800:
-      text: \n<CONDUTOR JASH>\"Senhoras e senho...\! Chegamos em nossa parada.\! Bem-vindos ao \c[11]OÁSIS\c[0], onde a lua brilha mais forte.\"
+      text: \n<CONDUTOR JASH>\"Senhoras e senhores...\! Chegamos em nossa parada.\! Bem-vindos ao \c[11]OÁSIS\c[0], onde a lua brilha mais forte.\"
 
 message_801:
       text: \n<CONDUTOR JASH>\"Por favor saiam do trem de forma organizada.\! Obrigado pela sua preferência e por favor viajem conosco novamente.\"\! \}\quake[1]Bzzt...
