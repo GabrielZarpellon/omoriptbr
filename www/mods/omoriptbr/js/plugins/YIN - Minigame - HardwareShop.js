@@ -221,7 +221,7 @@ Game_Character.prototype.getToolGraphic = function (shelfItem) {
 var yin_WindowChoiceList_callOkHandlerShop = Window_ChoiceList.prototype.callOkHandler;
 Window_ChoiceList.prototype.callOkHandler = function () {
     if ($gameSwitches.value(804) && this._list[this.index()].name !== "SIM" && this._list[this.index()].name !== "NO") {
-        if (this._list[this.index()].name == "DEIXA PRA LÁ") {
+        if (this._list[this.index()].name == "ESQUECE") {
             $gameMap._interpreter.command115();
         } else {
             $gameVariables.setValue(814, this.index());
