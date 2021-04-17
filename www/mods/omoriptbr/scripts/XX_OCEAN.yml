@@ -774,7 +774,7 @@ message_398:
 # Kels house dinner time
 
 message_399:
-      text: Você pegou a \c[4]COMIDA CASEIRA\c[0]...\! mas está fria.\!<br>Você pode aquecer usando o microondas.
+      text: Você pegou a \c[4]COMIDA CASEIRA\c[0]...\! mas está fria.\!<br>Você pode aquecer usando o micro-ondas.
 
 # Characters sleeping in bedfort
 
