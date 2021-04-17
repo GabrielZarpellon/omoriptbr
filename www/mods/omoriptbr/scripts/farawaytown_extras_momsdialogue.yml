@@ -6,28 +6,28 @@
 
                   #Examine phone
 message_0:
-      text: \"Ei \n[8], é a MAMÃE.\! Eu ainda estou na cidade arrumando as coisas para nossa nova casa.\! Você já terminou de embalar tudo?\"\n<VOICEMAIL DA MÃE>
+      text: \"Ei \n[8], é a MAMÃE.\! Eu ainda estou na cidade arrumando as coisas para nossa nova casa.\! Você já terminou de embalar tudo?\"\n<GRAVAÇÃO DA MÃE>
 
 message_1:
-      text: \"Os carregadores estarão na nossa casa em poucos dias, então eu deixei uma lista de coisas para você fazer antes deles chegarem.\"\n<VOICEMAIL DA MÃE>
+      text: \"Os carregadores estarão na nossa casa em poucos dias, então eu deixei uma lista de coisas para você fazer antes deles chegarem.\"\n<GRAVAÇÃO DA MÃE>
 
 message_2:
-      text: \"E também, desculpa!\! A MAMÃE errou feio!\"\n<VOICEMAIL DA MÃE>
+      text: \"E também, desculpa!\! A MAMÃE errou feio!\"\n<GRAVAÇÃO DA MÃE>
 
 message_3:
-      text: \"Eu me esqueci de dizer para a companhia elétrica que nós precisamos de mais dias para nos mudarmos, então as luzes podem apagar às vezes.\"\n<VOICEMAIL DA MÃE>
+      text: \"Eu me esqueci de dizer para a companhia elétrica que nós precisamos de mais dias para nos mudarmos, então as luzes podem apagar às vezes.\"\n<GRAVAÇÃO DA MÃE>
 
 message_4:
-      text: \"De qualquer forma...\! Eu sei que se mudar pode ser um pouco estressante agora, mas acho que uma mudança de cenário vai ser bom para nós!\"\n<VOICEMAIL DA MÃE>
+      text: \"De qualquer forma...\! Eu sei que se mudar pode ser um pouco estressante agora, mas acho que uma mudança de cenário vai ser bom para nós!\"\n<GRAVAÇÃO DA MÃE>
 
 message_5:
-      text: \"Eu sei que você não tem falado com ninguém, mas você talvez queira dar tchau para seus velhos amigos.\"\n<VOICEMAIL DA MÃE>
+      text: \"Eu sei que você não tem falado com ninguém, mas você talvez queira dar tchau para seus velhos amigos.\"\n<GRAVAÇÃO DA MÃE>
 
 message_6:
-      text: \"KEL tem tentado muito falar contigo depois que botamos a casa à venda.\! Ele tem nos ligado toda semana pelos últimos meses!\"\n<VOICEMAIL DA MÃE>
+      text: \"KEL tem tentado muito falar contigo depois que botamos a casa à venda.\! Ele tem nos ligado toda semana pelos últimos meses!\"\n<GRAVAÇÃO DA MÃE>
 
 message_7:
-      text: \"Ele parece um pouco sozinho...\! Talvez você devesse visitar ele.\!<br>Ok, isso é tudo.\! Tchau, filhinho!\! MAMÃE te ama!\"\! \quake[1]\}Bzzt...\quake[0]\n<VOICEMAIL DA MÃE>
+      text: \"Ele parece um pouco sozinho...\! Talvez você devesse visitar ele.\!<br>Ok, isso é tudo.\! Tchau, filhinho!\! MAMÃE te ama!\"\! \quake[1]\}Bzzt...\quake[0]\n<GRAVAÇÃO DA MÃE>
 
 #SFX: Stomach Gurgle
 message_8:
@@ -51,7 +51,7 @@ message_11:
 
                 #Examine Microwave
 message_12:
-      text: Você botou o \c[4]BIFE FRIO\c[0] no microondas.
+      text: Você botou o \c[4]BIFE FRIO\c[0] no micro-ondas.
 
                 #Examine Steak Knife
 message_13:
@@ -109,42 +109,42 @@ message_29:
 #Day 1:
 
 message_50:
-      text: \"Ei \n[8], é a MAMÃE.\!<br>Como você está?\! Se alimentando bem?\"\n<VOICEMAIL DA MÃE>
+      text: \"Ei \n[8], é a MAMÃE.\!<br>Como você está?\! Se alimentando bem?\"\n<GRAVAÇÃO DA MÃE>
 
 message_51:
-      text: \"Eu achava que eu poderia voltar para ver você hoje, mas é o último dia da venda de móveis e eu não consigo resistir uma boa barganha!\"<br>\"Você pode se cuidar por mais alguns dias, certo?\!<br>Além do mais, você já é grandinho!\"\n<VOICEMAIL DA MÃE>
+      text: \"Eu achava que eu poderia voltar para ver você hoje, mas é o último dia da venda de móveis e eu não consigo resistir uma boa barganha!\"<br>\"Você pode se cuidar por mais alguns dias, certo?\!<br>Além do mais, você já é grandinho!\"\n<GRAVAÇÃO DA MÃE>
 
 message_52:
-      text: \"Lembre-se de terminar suas tarefas antes de eu voltar.\! Eu deixei a lista na mesa próxima a porta.\! Ok, isso é tudo!\! Tchau, filhinho!\! MAMÃE te ama!\"\!\quake[1] \}Bzzt...\quake[0]\n<VOICEMAIL DA MÃE>
+      text: \"Lembre-se de terminar suas tarefas antes de eu voltar.\! Eu deixei a lista na mesa próxima a porta.\! Ok, isso é tudo!\! Tchau, filhinho!\! MAMÃE te ama!\"\!\quake[1] \}Bzzt...\quake[0]\n<GRAVAÇÃO DA MÃE>
 
 #Day 2:
 
 message_55:
-      text: \"Ei \n[8], é a MAMÃE.\! Você está bem?\! Você não tem respondido os meus voicemails!\! Se continuar me ignorando, eu vou começar a me preocupar de novo!\"\n<VOICEMAIL DA MÃE>
+      text: \"Ei \n[8], é a MAMÃE.\! Você está bem?\! Você não tem respondido os meus voicemails!\! Se continuar me ignorando, eu vou começar a me preocupar de novo!\"\n<GRAVAÇÃO DA MÃE>
 
 message_56:
-      text: \"Eu espero que você esteja fazendo suas tarefas...\! Nem mesmo eu acho que poderia terminar tudo em um dia!\"\n<VOICEMAIL DA MÃE>
+      text: \"Eu espero que você esteja fazendo suas tarefas...\! Nem mesmo eu acho que poderia terminar tudo em um dia!\"\n<GRAVAÇÃO DA MÃE>
 
 message_57:
-      text: \"Você foi visitar o KEL?\! Se não, tá tudo bem... Eu entendo.\! Faça as coisas como você achar melhor...\"\n<VOICEMAIL DA MÃE>
+      text: \"Você foi visitar o KEL?\! Se não, tá tudo bem... Eu entendo.\! Faça as coisas como você achar melhor...\"\n<GRAVAÇÃO DA MÃE>
 
 message_58:
-      text: \"A propósito, pode checar o armário no andar de baixo se há algo que você quer levar?\! Provavelmente a gente só vai jogar fora o que você não quiser mais.\"\n<VOICEMAIL DA MÃE>
+      text: \"A propósito, pode checar o armário no andar de baixo se há algo que você quer levar?\! Provavelmente a gente só vai jogar fora o que você não quiser mais.\"\n<GRAVAÇÃO DA MÃE>
 
 message_59:
-      text: \"Só falta dois dias para eu ir te buscar.\!<br>Ok, isso é tudo por agora!\!  Tchau, filhinho!\! MAMÃE te ama!\"\!\quake[1] \}Bzzt...\quake[0]\n<VOICEMAIL DA MÃE>
+      text: \"Só falta dois dias para eu ir te buscar.\!<br>Ok, isso é tudo por agora!\!  Tchau, filhinho!\! MAMÃE te ama!\"\!\quake[1] \}Bzzt...\quake[0]\n<GRAVAÇÃO DA MÃE>
 
 #Day 3:
 
 message_60:
-      text: \"Ei \n[8], é a MAMÃE.\! Amanhã é o grande dia!\!<br>Os carregadores vão estar aqui pela manhã.\! Eu dei a eles as chaves, então não enlouqueça em vê-los na casa."\n<VOICEMAIL DA MÃE>
+      text: \"Ei \n[8], é a MAMÃE.\! Amanhã é o grande dia!\!<br>Os carregadores vão estar aqui pela manhã.\! Eu dei a eles as chaves, então não enlouqueça em vê-los na casa."\n<GRAVAÇÃO DA MÃE>
 
 message_61:
-      text: \"Lembre-se de terminar de organizar tudo hoje.\! Eu vou estar no carro te esperando.\! Só sair de casa quando estiver pronto.\"\n<VOICEMAIL DA MÃE>
+      text: \"Lembre-se de terminar de organizar tudo hoje.\! Eu vou estar no carro te esperando.\! Só sair de casa quando estiver pronto.\"\n<GRAVAÇÃO DA MÃE>
 
 message_62:
-      text: \"Okay, isso é tudo!\! Tchau, filhinho!\! MAMÃE te ama!\"\!\quake[1] \}Bzzt...\quake[0]\n<VOICEMAIL DA MÃE>
+      text: \"Okay, isso é tudo!\! Tchau, filhinho!\! MAMÃE te ama!\"\!\quake[1] \}Bzzt...\quake[0]\n<GRAVAÇÃO DA MÃE>
 
 #Day 4:
 message_66:
-      text: \"Ei \n[8], é a MAMÃE.\! Estou te esperando lá fora, então saia de casa quando estiver pronto.\! Tchau, filhinho!\! MAMÃE te ama!\"\!\quake[1] \}Bzzt...\quake[0]\n<VOICEMAIL DA MÃE>
+      text: \"Ei \n[8], é a MAMÃE.\! Estou te esperando lá fora, então saia de casa quando estiver pronto.\! Tchau, filhinho!\! MAMÃE te ama!\"\!\quake[1] \}Bzzt...\quake[0]\n<GRAVAÇÃO DA MÃE>
