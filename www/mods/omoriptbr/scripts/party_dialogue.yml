@@ -63,7 +63,7 @@ message_12:
 message_20:
       faceset: MainCharacters_DreamWorld
       faceindex: 4
-      text: \aubOMORI! Graças à Deus que você está aqui!
+      text: \aubOMORI! Graças a Deus que você está aqui!
 
 message_21:
       faceset: MainCharacters_DreamWorld
@@ -73,7 +73,7 @@ message_21:
 message_22:
       faceset: MainCharacters_DreamWorld
       faceindex: 40
-      text: \herNós deveriamos contar para a MARI que você tá bem.\!<br>Ela tá muito preocupada!
+      text: \herNós deveríamos contar para a MARI que você tá bem.\!<br>Ela tá muito preocupada!
 
 #------------------------------------------------------------------------------------------
 
@@ -110,7 +110,7 @@ message_39:
 message_34:
       faceset: MainCharacters_DreamWorld
       faceindex: 4
-      text: \aubPelo menos te encontramos, OMORI...\! mas eu espero que o BASIL esteja bem.\! Quem vai protegê-lo se não a gente?
+      text: \aubPelo menos te encontramos, OMORI...\! Mas eu espero que o BASIL esteja bem.\! Quem vai protegê-lo, se não a gente?
 
 message_35:
       faceset: MainCharacters_DreamWorld
@@ -231,7 +231,7 @@ message_57:
 message_58:
       faceset: MainCharacters_DreamWorld
       faceindex: 5
-      text: \aub...\! Pessoal, eu tô muito preocupada.\! Não tem nada que a gente pode fazer?
+      text: \aub...\! Pessoal, eu tô muito preocupada.\! Não tem nada que a gente possa fazer?
 
 message_59:
       faceset: MainCharacters_DreamWorld
