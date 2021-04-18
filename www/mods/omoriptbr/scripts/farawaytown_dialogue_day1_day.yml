@@ -51,7 +51,7 @@ message_21:
 #Location: Town Plaza
 
 message_30:
-      text: \n<O MAVERICK>Eu não vou dizer onde a AUBREY está a não ser que você me chame de<br>\Com[2]O MAVERICK!
+      text: \n<O MAVERICK>Eu não vou dizer onde a AUBREY está a não ser que você me chame de \Com[2]O MAVERICK!
 
 
 #===============ARTIST=====================
