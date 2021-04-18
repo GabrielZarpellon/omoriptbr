@@ -140,7 +140,7 @@ message_50:
 #GOOD NEWS / #BAD NEWS
 
 message_51:
-      text: \n<CARA DA PIZZA>Ah, Eu vou começar com a boa notícia.<br>\!A boa notícia é que...\! temos três pedidos diferentes de \c[3]PIZZA\c[0] hoje!\!
+      text: \n<CARA DA PIZZA>Ah, eu vou começar com a boa notícia.<br>\!A boa notícia é que...\! temos três pedidos diferentes de \c[3]PIZZA\c[0] hoje!\!
 
 message_60:
       text: \n<CARA DA PIZZA>A má noticia é que...\! nosso garoto das entregas está doente de novo...

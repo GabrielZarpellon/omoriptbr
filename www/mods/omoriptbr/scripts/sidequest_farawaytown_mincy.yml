@@ -84,7 +84,7 @@ message_18:
 message_19:
       faceset: MainCharacters_Faraway
       faceindex: 14 #insert number here
-      text: \kelNão seja dura com você mesma, MINCY!\! Eu e \n[8] acreditamos em você!
+      text: \kelNão seja dura com você mesma, MINCY!\! Eu e o \n[8] acreditamos em você!
 
 message_20:
       text: \minAi ai...\! É-É!\! Você está certo!\!<br>Eu só tenho que me livrar desses sentimentos ruins!\!<br>Eu...\! Eu vou tentar sentar e terminar esse desenho agora.
