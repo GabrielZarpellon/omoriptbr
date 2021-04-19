@@ -45,10 +45,10 @@ message_7:
 
 #Laramie
 message_8:
-      text: \n<LARAMIE>Um bando de PIRATAS ESPACIAS têm acampado por aqui já faz um bom tempo...
+      text: \n<LARAMIE>Um bando de PIRATAS ESPACIAIS têm acampado por aqui já faz um bom tempo...
 
 message_9:
-      text: \n<LARAMIE>Eu ouvi dizer que o CAPITÃO de repente decidiu que não ia mais viajar, então metade da tripulação pegaram a sua nave e fugiram!
+      text: \n<LARAMIE>Eu ouvi dizer que o CAPITÃO de repente decidiu que não ia mais viajar, então metade da tripulação pegou a sua nave e fugiu!
 
 #BROTOPEIRA SOLITÁRIA
 message_10:
@@ -148,10 +148,10 @@ message_33:
       text: \pesEu tenho certeza que você não vai achar uma coleção mais completa que essa em qualquer lugar do mundo!
 
 message_34:
-      text: \pesMe chamar de super fã é pouco...\!<br>Eu sou um fã \QUAKE[1]SUPREMO\QUAKE[0].
+      text: \pesMe chamar de superfã é pouco...\!<br>Eu sou um fã \QUAKE[1]SUPREMO\QUAKE[0].
 
 message_35:
-      text: \pesDeixa eu contar à vocês da vez que eu quase conheci ela.\!<br>Acontece que a gente tava comendo no mesmo restaurante...\!<br>Era destino, eu acho.
+      text: \pesDeixa eu contar a vocês da vez que eu quase conheci ela.\!<br>Acontece que a gente tava comendo no mesmo restaurante...\!<br>Era destino, eu acho.
 
 message_36:
       text: \pesNós pedimos a mesma refeição também!\! Não é como se eu tivesse visto tudo que ela pediu e copiado ou algo do tipo.
@@ -160,7 +160,7 @@ message_37:
       text: \pesEu até tentei pagar a refeição dela, mas eu tinha acabado de comprar uma estátua em tamanho real da SWEETHEART um dia antes e não podia pagar...
 
 message_38:
-      text: \pesEu acho que foi uma boa já que aquela garota era na verdade só uma pessoa qualquer vestindo uma roupa parecida com a da SWEETHEART!
+      text: \pesEu acho que foi uma boa, já que aquela garota era na verdade só uma pessoa qualquer vestindo uma roupa parecida com a da SWEETHEART!
 
 message_39:
       text: \pesNão é como se eu não pudesse notar de primeira.\! Só um fã poser se enganaria achando que uma pessoa normal seria a SWEETHEART!
@@ -220,7 +220,7 @@ message_54:
 #Location: Frozen Lake
 
 message_55:
-      text: \n<PIRATA ESPACIAL PRO>O que você fez ali foi uma ato corajoso.\! Eu nunca desafiaria o CAPITÃO daquele jeito... \!Vocês fariam uns PIRATAS ESPACIAS muito incríveis.
+      text: \n<PIRATA ESPACIAL PRO>O que você fez ali foi uma ato corajoso.\! Eu nunca desafiaria o CAPITÃO daquele jeito... \!Vocês fariam uns PIRATAS ESPACIAIS muito incríveis.
 
 #AMIGO PIRATA ESPACIAL
 #Location: NAMORADO ESPACIALs House

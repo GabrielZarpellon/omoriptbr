@@ -10,7 +10,7 @@ message_2:
     text: \n<SR. ESPANTALHO>Me desculpe, mas receio que eu devo lhe entregar o fardo de realizar uma tarefa que eu não tenho como completar com minhas próprias habilidades.
 #original line was about being "in a rut", which means something else entirely
 message_3:
-    text: \n<SR. ESPANTALHO>Bem recentemente e sem aviso, um planeta interestelar caiu do céu em uma velociade alarmante.\! Meus três queridos amigos entraram em pânico e fugiram em direções diferentes...
+    text: \n<SR. ESPANTALHO>Bem recentemente e sem aviso, um planeta interestelar caiu do céu em uma velocidade alarmante.\! Meus três queridos amigos entraram em pânico e fugiram em direções diferentes...
 
 message_4:
     text: \n<SR. ESPANTALHO>Meus três amigos são corvos, entenda, e não são as mais amigáveis e receptivas das criaturas.
@@ -25,7 +25,7 @@ message_7:
     text: \n<SR. ESPANTALHO>Oh, obrigado, estranho!\!<br>Palavras não podem expressar o quanto isso significa para mim.
 
 message_8:
-    text: \n<SR. ESPANTALHO>Agora eu devo esperar aqui pelo seu retorno pacientemente.\! Pois como pode ver... \! Sem eles,\! sou apenas um graveto em meio a lama.
+    text: \n<SR. ESPANTALHO>Agora eu devo esperar aqui pelo seu retorno pacientemente.\! Pois como pode ver... \! Sem eles,\! sou apenas um graveto em meio à lama.
 
 message_9:
     text: \n<SR. ESPANTALHO>Entendo...\! Isso é muito compreensível.\! Receio que esse pedido é algo grande demais para pedir a completos desconhecidos.
@@ -88,7 +88,7 @@ message_22:
     text: O CORVO se juntou ao seu amigo.
 
 message_23:
-    text: \n<SR. ESPANTALHO>Agora eu devo esperar o retorno dos outros.\!<br>Pois como pode ver...\! Sem eles,\! sou apenas um graveto em meio a lama.
+    text: \n<SR. ESPANTALHO>Agora eu devo esperar o retorno dos outros.\!<br>Pois como pode ver...\! Sem eles,\! sou apenas um graveto em meio à lama.
 
 # Talking to MR. SCARECROW after finding his friends
 

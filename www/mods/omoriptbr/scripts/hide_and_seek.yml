@@ -356,7 +356,7 @@ message_76:
 message_77:
       faceset: MainCharacter_Mari
       faceindex: 2
-      text: \marPelo o que eu estou vendo...<br>Ainda há \v[1001] amigos faltando!
+      text: \marPelo que eu estou vendo...<br>Ainda há \v[1001] amigos faltando!
 
 message_78:
       faceset: MainCharacter_Mari

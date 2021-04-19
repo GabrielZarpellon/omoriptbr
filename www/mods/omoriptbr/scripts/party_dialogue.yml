@@ -553,14 +553,14 @@ message_140:
 message_141:
       faceset: MainCharacters_DreamWorld
       faceindex: 17
-      text: \kelHora de começar à cavar!
+      text: \kelHora de começar a cavar!
 
 #*KEL starts digging in crate*
 
 message_143:
       faceset: MainCharacters_DreamWorld
       faceindex: 16
-      text: \kelPelo o que nós estamos procurando mesmo?
+      text: \kelPelo que nós estamos procurando mesmo?
 
 message_144:
       faceset: MainCharacters_DreamWorld
@@ -577,7 +577,7 @@ message_145:
 message_146:
       faceset: MainCharacters_DreamWorld
       faceindex: 18
-      text: \kelEi olhem, eu achei uma \c[5]LATA\c[0]!
+      text: \kelEi, olhem, eu achei uma \c[5]LATA\c[0]!
 
 message_147:
       text: Você conseguiu uma \c[5]LATA\c[0].
