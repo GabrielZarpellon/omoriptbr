@@ -605,7 +605,7 @@ message_184:
 message_185:
       faceset: MainCharacters_Faraway
       faceindex: 2
-      text: \}Você sabe porque eu venho aqui toda semana?\!<br>Depois de todo esse tempo, ainda estou tentando encontrar um pouco de paz...\! <br>Mas parece que não é hoje que isso vai acontecer.\aub
+      text: \}Você sabe porque eu venho aqui toda semana?\!<br>Depois de todo esse tempo, ainda estou tentando encontrar um pouco de paz...\! Mas parece que não é hoje que isso vai acontecer.\aub
 
 message_186:
       faceset: MainCharacters_Faraway
@@ -746,7 +746,7 @@ message_209:
 
 
 message_220:
-      text: \}Ah, desde que o pai dela saiu...\| ...\| Ela tá fora de controle...\| ...\| <br>Desrespeitosa...\| ...\| Eu sinto pena da mãe dela...
+      text: \}Ah, desde que o pai dela foi embora...\| ...\| Ela tá fora de controle...\| ...\| <br>Desrespeitosa...\| ...\| Eu sinto pena da mãe dela...
 
 message_221:
       faceset: MainCharacters_Faraway

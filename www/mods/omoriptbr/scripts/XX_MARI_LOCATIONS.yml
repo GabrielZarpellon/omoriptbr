@@ -303,7 +303,7 @@ message_100:
 message_101:
     faceset: MainCharacter_Mari
     faceindex: 6
-    text: \marNâo é o clima ideal pra um piquenique, mas isso nunca me impediu!
+    text: \marNão é o clima ideal pra um piquenique, mas isso nunca me impediu!
 
 message_102:
     faceset: MainCharacters_DreamWorld

@@ -461,7 +461,7 @@ message_170:
 message_171:
       faceset: MainCharacters_Faraway
       faceindex: 14
-      text: Então é...\! <br>De qualquer forma, POLLY, se precisar de mim, aqui tá meu endereço.\!<br>Eu moro aqui descendo o quarteirão!\kel
+      text: Então é...\! <br>De qualquer forma, POLLY, se precisar de mim, aqui tá meu endereço.\! Eu moro aqui descendo o quarteirão!\kel
 
 message_172:
       text: Obrigado, KEL. Você é um querido.\n<POLLY>
