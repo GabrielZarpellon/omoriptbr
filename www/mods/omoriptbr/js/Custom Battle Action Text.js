@@ -912,7 +912,7 @@ switch (type) {
       break;
 
     case 'DOOM NOTHING':  // DOOM NOTHING
-      text = user.name() + ' está ajustando o rádio.';
+      text = user.name() + ' ajustou o rádio.';
       break;
 
     case 'BLAST MUSIC':  // BLAST MUSIC
