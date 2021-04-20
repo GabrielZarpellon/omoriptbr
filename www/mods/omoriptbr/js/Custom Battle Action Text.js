@@ -926,7 +926,8 @@ switch (type) {
       break;
 
     case 'SHARK NOTHING':  // SHARK NOTHING
-      text = user.name() + ' está palitando o próprio dente.';
+      text = user.name() + ' está palitando o\r\n.';
+      text += 'próprio dente.';
       break;
 
     case 'OVERCLOCK ENGINE':  // OVERCLOCK ENGINE
