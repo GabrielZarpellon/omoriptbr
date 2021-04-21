@@ -130,8 +130,8 @@
   Orange:
     world: 1
     name:
-      en: A CONVICÇÃO DE ORANGE JOE
-      jp: A CONVICÇÃO DE ORANGE JOE
+      en: A CONVICÇÃO DE JOÃO LARANJA
+      jp: A CONVICÇÃO DE JOÃO LARANJA
     text:
       0:
         - 'XX_QUEST.message_185'
