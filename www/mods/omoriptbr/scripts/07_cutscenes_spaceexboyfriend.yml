@@ -69,7 +69,7 @@ message_11:
 message_12:
       faceset: MainCharacters_DreamWorld
       faceindex: 40
-      text: Nesse caso, nós provavelmente deveríamos sumir com a \c[4]MIXTAPE ESPECIAL\c[0] depois de tudo que passaram.\! Escutar as músicas dela vão ser demais pra ele.\her
+      text: Nesse caso, nós provavelmente deveríamos sumir com a \c[4]MIXTAPE ESPECIAL\c[0] depois de tudo que passaram.\! Escutar as músicas dela seria demais pra ele.\her
 
 message_13:
       faceset: MainCharacters_DreamWorld
@@ -166,7 +166,7 @@ message_35:
       text: \n<NAMORADO ESPACIAL>\quake[1]\{SÓ ESQUEÇA!!\! ESQUEÇA TUDO!!\quake[0]
 
 message_37:
-      text: \n<NAMORADO ESPACIAL>Eu vou encontrá-la SWEETHEART...
+      text: \n<NAMORADO ESPACIAL>Eu vou encontrá-la, SWEETHEART...
 
 message_38:
       text: \n<NAMORADO ESPACIAL>\{E VOU TE FAZER PAGAR POR TUDO!!\quake[0]
@@ -188,7 +188,7 @@ message_42:
       text: \n<EX-NAMORADO ESPACIAL>\{EU SOU O CAPITÃO DOS PIRATAS ESPACIAIS!
 
 message_43:
-      text: \n<EX-NAMORADO ESPACIAL>Eu tenho controle sob todos os planetas do sistema solar e posso voar pelo espaço e além!
+      text: \n<EX-NAMORADO ESPACIAL>Eu tenho controle sobre todos os planetas do sistema solar e posso voar pelo espaço e além!
 
 message_44:
       text: \n<EX-NAMORADO ESPACIAL>\Com[2]O poder de todo o universo está sob o meu comando!
@@ -201,7 +201,7 @@ message_45:
 message_46:
       faceset: MainCharacters_DreamWorld
       faceindex: 43
-      text: Se você quer sair por ai causando problemas,<br>você vai ter que passar por nós primeiro!\her
+      text: Se você quer sair por aí causando problemas,<br>você vai ter que passar por nós primeiro!\her
 
 message_47:
       text: \n<EX-NAMORADO ESPACIAL>...
