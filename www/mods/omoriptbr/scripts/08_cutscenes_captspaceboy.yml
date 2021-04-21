@@ -39,7 +39,7 @@ message_9:
       text: \n<CAP. SPACEBOY>Eu acho que estou um pouco perdido.
 
 message_10:
-      text: \n<CAP. SPACEBOY>Essa \c[4]MIXTAPE ESPECIAL\c[0] é cheio das nossas músicas favoritas.\! Eu botei tanto amor em fazer isso por ela.
+      text: \n<CAP. SPACEBOY>Essa \c[4]MIXTAPE ESPECIAL\c[0] é cheia das nossas músicas favoritas.\! Eu botei tanto amor em fazer isso por ela.
 
 message_11:
       text: \n<CAP. SPACEBOY>Obrigado por devolverem a mim.\!<br>Isso ainda é cheio de memórias preciosas no final.
@@ -52,7 +52,7 @@ message_12:
 message_13:
       faceset: MainCharacters_DreamWorld
       faceindex: 1
-      text: Sim, ficamos feliz em ajudar!\aub
+      text: Sim, ficamos felizes em ajudar!\aub
 
 message_14:
       faceset: MainCharacters_DreamWorld
@@ -72,7 +72,7 @@ message_18:
       text: \n<MANO PIRATA ESPACIAL>Não fique bravo com a gente. Nos perdoe!
 
 message_19:
-      text: \n<AMIGÃO PIRATA ESPACIAL>P-por favor seja misericordioso...
+      text: \n<AMIGÃO PIRATA ESPACIAL>P-por favor, tenha piedade...
 
 message_20:
       text: \n<CAP. SPACEBOY>Ah, entendo.
@@ -108,7 +108,7 @@ message_30:
       text: \n<AMIGÃO PIRATA ESPACIAL>Atrás de você, amigão!
 
 message_31:
-      text: \n<CAP. SPACEBOY>Não consigo agradecer o bastante à vocês pelo o que fizeram.
+      text: \n<CAP. SPACEBOY>Não consigo agradecer o bastante a vocês pelo que fizeram.
 
 message_32:
       text: \n<CAP. SPACEBOY>Quem sabe o que teria acontecido comigo e à tripulação se não tivessem aparecido?
@@ -181,7 +181,7 @@ message_54:
       text: \n<CAP. SPACEBOY>Eu usava para viajar de trens por aí...\!<br>Bem antes de eu virar um CAPITÃO ESPACIAL.
 
 message_55:
-      text: \n<CAP. SPACEBOY>Se até eu posso ir de andar de trens para pilotar minha própria nave, eu tenho certeza de que irão encontrar seu amigo.
+      text: \n<CAP. SPACEBOY>Se até eu posso andar de trens para pilotar minha própria nave, eu tenho certeza de que irão encontrar seu amigo.
 
 message_56:
       faceset: MainCharacters_DreamWorld
