@@ -916,7 +916,8 @@ switch (type) {
       break;
 
     case 'BLAST MUSIC':  // BLAST MUSIC
-      text = user.name() + ' botou umas batidas maneiras!';
+      text = user.name() + ' bota uma batida\r\n';
+      text += 'maneira!';
       break;
 
     //SHARKPLANE//
@@ -926,7 +927,7 @@ switch (type) {
       break;
 
     case 'SHARK NOTHING':  // SHARK NOTHING
-      text = user.name() + ' está palitando o\r\n.';
+      text = user.name() + ' está palitando o\r\n';
       text += 'próprio dente.';
       break;
 
