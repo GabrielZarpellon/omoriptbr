@@ -184,7 +184,7 @@ message_83:
       text: Finalmente, eu encontrei o que eu queria.\who
 
 message_84:
-      text: Depois de incontáveis horas de ficar cavando e cavando...\!<br>Esta única, ultra-exclusiva \c[4]MIXTAPE ESPECIAL\c[0] finalmente pertence à mim!\who
+      text: Depois de incontáveis horas de ficar cavando e cavando...\!<br>Esta única, ultraexclusiva \c[4]MIXTAPE ESPECIAL\c[0] finalmente pertence à mim!\who
 
 message_85:
       text: ROSA!\! A fã \#1 da SWEETHEART no mundo inteiro!\ros
@@ -220,7 +220,7 @@ message_93:
       text: Qual é o problema? Estão com invejinha??\ros
 
 message_94:
-      text: Esta \c[4]MIXTAPE ESPECIAL\c[0] é minha!\!<br>Eu nunca vou dar ela à vocês! Nunca!\ros
+      text: Esta \c[4]MIXTAPE ESPECIAL\c[0] é minha!\!<br>Eu nunca vou dar ela a vocês! Nunca!\ros
 
 message_95:
       faceset: MainCharacters_DreamWorld
@@ -322,7 +322,7 @@ message_148:
       text: Uma fonte confiável me disse que o NAMORADO ESPACIAL e a SWEETHEART já se separaram faz tempo!\ros
 
 message_149:
-      text: Por que você acha que essa \c[4]MIXTAPE ESPECIAL\c[0] tá no \c[11]FERRO-VELHO\c[0] hein?\! Porque foi o NAMORADO ESPACIAL que a jogou aqui!\ros
+      text: Por que você acha que essa \c[4]MIXTAPE ESPECIAL\c[0] tá no \c[11]FERRO-VELHO\c[0], hein?\! Porque foi o NAMORADO ESPACIAL que a jogou aqui!\ros
 
 message_150:
       faceset: MainCharacters_DreamWorld
