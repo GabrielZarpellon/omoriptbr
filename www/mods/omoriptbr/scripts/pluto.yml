@@ -11,7 +11,7 @@ message_1:
 #PLUTO runs into snaley and knocks him away
 
 message_2:
-    text: \who\}Oh, não...\! Meus braços e pernas gigantescas e bem definidas, estão cansados.
+    text: \who\}Oh, não...\! Meus braços e pernas gigantescos e bem definidos estão cansados.
 
 message_52:
     text: \whoEu não posso deixar acabar assim.<br>Tenho que encontrar um lugar para me esconder!
@@ -137,7 +137,7 @@ message_22:
     text: \whoEntendo! Belos nomes para belos jovens!
 
 message_23:
-    text: \n<PLUTÃO>Meu nome é PLUTÃO, eu sou um planeta interestelar...\!<br>Um fora da lei pode se dizer.\! Eu me desculpo por ter causado tantos problemas.
+    text: \n<PLUTÃO>Meu nome é PLUTÃO, eu sou um planeta interestelar...\!<br>Um fora da lei pode-se dizer.\! Eu me desculpo por ter causado tantos problemas.
 
 message_24:
     text: \n<PLUTÃO>Mas...\! Eu sinto que não é o meu propósito agir como uma mera decoração de jardim.
@@ -155,7 +155,7 @@ message_26:
 #PLUTO turns to party
 
 message_27:
-    text: \n<PLUTÃO>\Com[2]Minha alma clama por liberdade!\!<br>Vocês entendem... Não é crianças?
+    text: \n<PLUTÃO>\Com[2]Minha alma clama por liberdade!\!<br>Vocês entendem... Não é, crianças?
 
 #HERO turns to KEL
 
@@ -179,11 +179,11 @@ message_30:
 message_31:
     faceset: MainCharacters_DreamWorld
     faceindex: 46
-    text: \herEspera, você também AUBREY??
+    text: \herEspera, você também, AUBREY??
 
 
 message_32:
-    text: \n<PLUTÃO>Agora, depois de muito tempo...\!<br>Eu finalmente estou livre para seguir o meu sonho...\!<br>em dirigir minha própria empresa de transportação!
+    text: \n<PLUTÃO>Agora, depois de muito tempo...\!<br>Eu finalmente estou livre para seguir o meu sonho...\!<br>De dirigir minha própria empresa de transportação!
 
 message_33:
     text: \n<PLUTÃO>Eu vou chamar de “LINHA ESPACIAL PLUTÃO”!
@@ -246,7 +246,7 @@ message_53:
 #PLUTO turn to party
 
 message_42:
-    text: \n<PLUTÃO>Uma carona para o acampamento de \c[11]OUTRO-MUNDO\c[0], saindo!
+    text: \n<PLUTÃO>Uma carona para o acampamento de \c[11]OUTRO-MUNDO\c[0] saindo!
 
 message_49:
     text: \n<PLUTÃO>Eu não vou desapontá-los, jovens viajantes!\!<br>Deixem comigo!
@@ -288,7 +288,7 @@ message_131:
     text: \n<PLUTÃO>KEL, eu tenho que dizer... você fez um ótimo trabalho lutando pela sua vida ali.
 
 message_132:
-    text: \n<PLUTÃO>Você tem o potencial de se tornar muito forte!\! Deixe-me te ensinar um \c[1]DOM\c[0] que possa ser útil no futuro.
+    text: \n<PLUTÃO>Você tem o potencial de se tornar muito forte!\! Deixe-me te ensinar um \c[1]DOM\c[0] que pode ser útil no futuro.
 
 message_133:
     text: \n<PLUTÃO>Ahem...\! Repita depois de mim.
@@ -344,7 +344,7 @@ message_47:
     text: \n<PLUTÃO>Saudações e bem-vindos à LINHA ESPACIAL PLUTÃO!<br>Onde a sua jornada os levará hoje?
 
 message_48:
-    text: \n<PLUTÃO>Entendido.\! Agora... sentem-se, relaxem, e aproveitem a carona.
+    text: \n<PLUTÃO>Entendido.\! Agora... sentem-se, relaxem e aproveitem a carona.
 
 message_200:
     text: \n<PLUTÃO>Então você quer ir para \v[1000]?
