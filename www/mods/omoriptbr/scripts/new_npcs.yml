@@ -1079,7 +1079,7 @@ message_227:
       text: Uma mensagem engarrafada.\! Você quer ler?
 
 message_228:
-      text: \Dentro da garrafa há uma frase em inglês\!<br>"When the Moon hits your eye like a big pizza pie, that's...\"
+      text: \Dentro da garrafa há uma frase em inglês.\!<br>"When the Moon hits your eye like a big pizza pie, that's...\"
 
 message_229:
       text: Você completou a mensagem e jogou a garrafa de volta no lago.
