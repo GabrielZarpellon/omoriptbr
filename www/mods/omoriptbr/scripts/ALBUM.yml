@@ -71,12 +71,12 @@ faraway_message11:
 faraway_message12:
     background: 0
     position: 2
-    text: \n<3/10>São todos nós abraçados com as pelúcias do \n[8].\!<br>Ele tem tantas, e elas são tão fofas! \!Eu queria poder deitar aqui para sempre.
+    text: \n<10/3>São todos nós abraçados com as pelúcias do \n[8].\!<br>Ele tem tantas, e elas são tão fofas! \!Eu queria poder deitar aqui para sempre.
 
 faraway_message13:
     background: 0
     position: 2
-    text: \n<31/3>Já é o último dia de março!\!<br>Estamos tendo um piquenique com a MARI no nosso lago secreto.<br><br>A MARI queria tirar uma foto de todo mundo! \!Digam xiiiz!
+    text: \n<31/3>Já é o último dia de março!\!<br>Estamos tendo um piquenique com a MARI no nosso lago secreto.<br>A MARI queria tirar uma foto de todo mundo! \!Digam xiiiz!
 
 faraway_message14:
     background: 0
@@ -106,7 +106,7 @@ faraway_message18:
 faraway_message19:
     background: 0
     position: 2
-    text: \n<29/4>Está chovendo muito hoje!<br>\!A chuva sempre vem do nada na primavera.<br>A AUBREY me pediu pra tirar uma foto com a sua nova capa.\! É a sua cor favorita, rosa!
+    text: \n<29/4>Está chovendo muito hoje!<br>\!A chuva sempre vem do nada na primavera.<br>A AUBREY me pediu pra tirar uma foto com a sua nova capa.\!<br>É a sua cor favorita, rosa!
 
 faraway_message20:
     background: 0
@@ -126,7 +126,7 @@ faraway_message22:
 faraway_message23:
     background: 0
     position: 2
-    text: \n<25/5>A MARI comprou picolés para todo mundo, um de cada sabor!<br>O \n[8] pegou de limão, o HERO pegou de cerveja-de-raiz, o KEL pegou de laranja, a AUBREY pegou de melancia e a MARI pegou de uva!<br>O meu era de banana...\! Tinha um gosto ok.
+    text: \n<25/5>A MARI comprou picolés para todo mundo, um de cada sabor!<br>O \n[8] pegou de limão, o HERO pegou de cerveja-de-raiz, o KEL pegou de laranja, a AUBREY pegou de melancia...<br>e a MARI pegou de uva!<br>O meu era de banana...\! Tinha um gosto ok.
 
 faraway_message24:
     background: 0
@@ -206,7 +206,7 @@ faraway_message38:
 faraway_message39:
     background: 0
     position: 2
-    text: \n<16/8>Todos nós nos divertindo na nova casa na árvore!<br>Parece que o \n[8] finalmente está lendo o livro que eu dei pra ele!<br><br>Eu quero passar todo dia aqui, mas é uma pena que as férias de verão estão acabando.\! Eu espero que possamos usar mais essa casa na árvore no verão que vem!
+    text: \n<16/8>Todos nós nos divertindo na nova casa na árvore!<br>Parece que o \n[8] finalmente está lendo o livro que eu dei pra ele!<br>Eu quero passar todo dia aqui, mas é uma pena que as férias de verão estão acabando.\! Eu espero que possamos usar mais essa casa na árvore no verão que vem!
 
 faraway_message40:
     background: 0
