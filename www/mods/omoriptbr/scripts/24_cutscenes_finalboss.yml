@@ -428,7 +428,7 @@ message_115:
 #Elevator turns his head
 
 message_130:
-      text: \sinv[1]Meus amigos! Eu já te disse que vocês parecem deliciosos hoje?\n<HUMPHREY>
+      text: \sinv[1]Meus amigos! Eu já disse que vocês parecem deliciosos hoje?\n<HUMPHREY>
 
 #KEL jumps.
 
