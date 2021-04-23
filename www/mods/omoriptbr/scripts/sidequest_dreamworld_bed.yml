@@ -5,13 +5,13 @@
 #B.E.D. Trade Quest 1
 
 message_0:
-    text: \mayRaios!\! Onde está o imprestável do meu filho?
+    text: \n<BROTOPEIRA PREFEITO>Raios!\! Onde está o imprestável do meu filho?
 
 message_1:
-    text: \mayOntem à noite eu pedi para ele analisar os efeitos da minha última invenção, a \c[4]C.A.M.A\c[0], e estou ansioso para ouvir os resultados!
+    text: \n<BROTOPEIRA PREFEITO>Ontem à noite eu pedi para ele analisar os efeitos da minha última invenção, a \c[4]C.A.M.A\c[0], e estou ansioso para ouvir os resultados!
 
 message_2:
-    text: \mayEu espero que ele não esteja fazendo o que eu acho que ele está fazendo...
+    text: \n<BROTOPEIRA PREFEITO>Eu espero que ele não esteja fazendo o que eu acho que ele está fazendo...
 
 message_3:
     text: Uma BROTOPEIRA dormindo em uma \c[4]C.A.M.A\c[0].\!<br>Se ao menos você tivesse algo que possa acordá-lo...
@@ -81,66 +81,66 @@ message_30:
 #B.E.D. Trade Quest 3
 
 message_40:
-    text: \sle\Com[2]EEEEE\{EEEEE\{EEEEEEK!!
+    text: \n<BROTOPEIRA SONOLENTA>\Com[2]EEEEE\{EEEEE\{EEEEEEK!!
 
 message_41:
-    text: \sleQuem é você!?
+    text: \n<BROTOPEIRA SONOLENTA>Quem é você!?
 
 message_42:
-    text: \sle\Com[2]Oh não, estou atrasado!\! Poderia ser mesmo que eu...\! Não...
+    text: \n<BROTOPEIRA SONOLENTA>\Com[2]Oh não, estou atrasado!\! Poderia ser mesmo que eu...\! Não...
 
 message_43:
-    text: \sleEu devo ter dormido demais!\! ...\!<br>Mas...\! BROTOPEIRAS não dormem demais!
+    text: \n<BROTOPEIRA SONOLENTA>Eu devo ter dormido demais!\! ...\!<br>Mas...\! BROTOPEIRAS não dormem demais!
 
 message_44:
-    text: \sleEssa \c[4]C.A.M.A\c[0]...\! É...\! \quake[1]poderosa.\quake[0]\! Talvez até\. \quake[1]poderosa demais.\quake[0]
+    text: \n<BROTOPEIRA SONOLENTA>Essa \c[4]C.A.M.A\c[0]...\! É...\! \quake[1]poderosa.\quake[0]\! Talvez até\. \quake[1]poderosa demais.\quake[0]
 
 message_45:
-    text: \sleÉ melhor contar isso para meu pai!
+    text: \n<BROTOPEIRA SONOLENTA>É melhor contar isso para meu pai!
 
 #B.E.D. Trade Quest 4
 
 message_50:
-    text: \sle\Com[2]Pai! Pai! Estou aqui!
+    text: \n<BROTOPEIRA SONOLENTA>\Com[2]Pai! Pai! Estou aqui!
 
 message_51:
-    text: \mayPelos deuses, filho! Onde você esteve?
+    text: \n<BROTOPEIRA PREFEITO>Pelos deuses, filho! Onde você esteve?
 
 message_52:
-    text: \sleEu...\! Tenho receio de trazer algumas notícias terríveis...
+    text: \n<BROTOPEIRA SONOLENTA>Eu...\! Tenho receio de trazer algumas notícias terríveis...
 
 message_53:
-    text: \mayO que foi, filho?\! Você sabe que pode me contar qualquer coisa!
+    text: \n<BROTOPEIRA PREFEITO>O que foi, filho?\! Você sabe que pode me contar qualquer coisa!
 
 message_54:
-    text: \sleOntem à noite, enquanto eu estava testando a \c[4]C.A.M.A\c[0]...\!<br>Eu...\! Eu...\! Eu...\! Eu \quake[1]dormi demais...\quake[0]
+    text: \n<BROTOPEIRA SONOLENTA>Ontem à noite, enquanto eu estava testando a \c[4]C.A.M.A\c[0]...\!<br>Eu...\! Eu...\! Eu...\! Eu \quake[1]dormi demais...\quake[0]
 
 message_55:
-    text: \mayNão, não pode ser!\! Se o que você diz for real, então...
+    text: \n<BROTOPEIRA PREFEITO>yNão, não pode ser!\! Se o que você diz for real, então...
 
 message_56:
-    text: \mayToda minha pesquisa...\! Essa invenção...\! A \c[4]C.A.M.A\c[0]...\!<br>Ela é...\! \quake[1]poderosa demais.\quake[0]
+    text: \n<BROTOPEIRA PREFEITO>Toda minha pesquisa...\! Essa invenção...\! A \c[4]C.A.M.A\c[0]...\!<br>Ela é...\! \quake[1]poderosa demais.\quake[0]
 
 message_57:
-    text: \mayVeja, minha teoria era de que a \c[4]C.A.M.A\c[0] poderia ajudar BROTOPEIRAS a ter uma boa noite de sono e logo aumentarem a produtividade durante o dia, mas...
+    text: \n<BROTOPEIRA PREFEITO>Veja, minha teoria era de que a \c[4]C.A.M.A\c[0] poderia ajudar BROTOPEIRAS a ter uma boa noite de sono e logo aumentarem a produtividade durante o dia, mas...
 
 message_58:
-    text: \mayQual é a utilidade se essa mesma invenção faz as BROTOPEIRAS perderem produtividade?
+    text: \n<BROTOPEIRA PREFEITO>Qual é a utilidade se essa mesma invenção faz as BROTOPEIRAS perderem produtividade?
 
 message_59:
-    text: \mayA \c[4]C.A.M.A\c[0] tem um potêncial incrível, mas o risco é muito alto no momento!
+    text: \n<BROTOPEIRA PREFEITO>A \c[4]C.A.M.A\c[0] tem um potêncial incrível, mas o risco é muito alto no momento!
 
 message_60:
-    text: \may\Com[2]Pelos deuses, o que eu fiz?!
+    text: \n<BROTOPEIRA PREFEITO>\Com[2]Pelos deuses, o que eu fiz?!
 
 message_61:
-    text: \mayEu não posso soltar essa tecnologia selvagem e perigosa no mundo, ou nossa humilde vila pode nunca acordar novamente!
+    text: \n<BROTOPEIRA PREFEITO>Eu não posso soltar essa tecnologia selvagem e perigosa no mundo, ou nossa humilde vila pode nunca acordar novamente!
 
 message_62:
-    text: \may\Com[2]Ei, você aí!\! Criança!\! Leve essa \c[4]C.A.M.A\c[0] para longe.\!<br>Não temos uso para tal poder!
+    text: \n<BROTOPEIRA PREFEITO>\Com[2]Ei, você aí!\! Criança!\! Leve essa \c[4]C.A.M.A\c[0] para longe.\!<br>Não temos uso para tal poder!
 
 message_63:
-    text: \mayAgora saiam e não contem para ninguém o que vocês viram aqui hoje!
+    text: \n<BROTOPEIRA PREFEITO>Agora saiam e não contem para ninguém o que vocês viram aqui hoje!
 
 message_64:
     text: \n<ESPORTOPEIRA>Oh, bem.\!<br>Se você quiser compartilhar um pouco de \c[3]TOFU\c[0], eu adoraria...
@@ -166,4 +166,4 @@ message_70:
     text: Usar \c[4]BUZINA GIGANTE\c[0] na BROTOPEIRA ADORMECIDA?
 
 message_71:
-    text: \sleMas...\! Eu gostava da \c[4]C.A.M.A\c[0]...
+    text: \n<BROTOPEIRA SONOLENTA>Mas...\! Eu gostava da \c[4]C.A.M.A\c[0]...
