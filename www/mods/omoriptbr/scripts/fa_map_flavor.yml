@@ -1059,7 +1059,7 @@ message_364:
 #Cemetery Statue:
 
 message_365:
-      text: O símbolo de \c[11]CIDADE TÃO-DISTANTE\c[0].\!<br>É supostamente uma forma de representar um portão para uma vida melhor.<br><br>Você se lembra de aprender isso na aula quando estudava na escola primária, mas é difícil lembrar de todos os detalhes.
+      text: O símbolo de \c[11]CIDADE TÃO-DISTANTE\c[0].\!<br>É supostamente uma forma de representar um portão para uma vida melhor.\! Você se lembra de aprender isso na aula quando estudava na escola primária, mas é difícil lembrar de todos os detalhes.
 
 message_366:
       text: \"NOSSA QUERIDA MARI\"\!<br>\"O SOL BRILHAVA MAIS FORTE QUANDO ELA ESTAVA AQUI.\"
