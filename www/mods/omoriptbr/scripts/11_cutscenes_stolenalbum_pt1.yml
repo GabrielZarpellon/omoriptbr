@@ -346,7 +346,7 @@ message_90:
       text: \{\{\quake[1]GAH!! \ang
 
 message_91:
-      text: Ok tá bom, eu digo.\! O mestre foi pra fonte <br>na \c[11]PRAÇA TÃO-DISTANTE\c[0].\! Ele disse que ia encontrar as garotas lá pra bem...\! um encontro ou algo assim.\ang
+      text: Ok tá bom, eu digo.\! O mestre foi pra fonte <br>na \c[11]PRAÇA TÃO-DISTANTE\c[0].\! Ele disse que ia encontrar as garotas lá pra, bem...\! um encontro ou algo assim.\ang
 
 message_92:
       faceset: MainCharacters_Faraway
