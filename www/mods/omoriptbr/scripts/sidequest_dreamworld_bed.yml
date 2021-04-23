@@ -81,39 +81,39 @@ message_30:
 #B.E.D. Trade Quest 3
 
 message_40:
-    text: \n<BROTOPEIRA SONOLENTA>\Com[2]EEEEE\{EEEEE\{EEEEEEK!!
+    text: \n<BROTOPEIRA DORMINHOCA>\Com[2]EEEEE\{EEEEE\{EEEEEEK!!
 
 message_41:
-    text: \n<BROTOPEIRA SONOLENTA>Quem é você!?
+    text: \n<BROTOPEIRA DORMINHOCA>Quem é você!?
 
 message_42:
-    text: \n<BROTOPEIRA SONOLENTA>\Com[2]Oh não, estou atrasado!\! Poderia ser mesmo que eu...\! Não...
+    text: \n<BROTOPEIRA DORMINHOCA>\Com[2]Oh não, estou atrasado!\! Poderia ser mesmo que eu...\! Não...
 
 message_43:
-    text: \n<BROTOPEIRA SONOLENTA>Eu devo ter dormido demais!\! ...\!<br>Mas...\! BROTOPEIRAS não dormem demais!
+    text: \n<BROTOPEIRA DORMINHOCA>Eu devo ter dormido demais!\! ...\!<br>Mas...\! BROTOPEIRAS não dormem demais!
 
 message_44:
-    text: \n<BROTOPEIRA SONOLENTA>Essa \c[4]C.A.M.A\c[0]...\! É...\! \quake[1]poderosa.\quake[0]\! Talvez até\. \quake[1]poderosa demais.\quake[0]
+    text: \n<BROTOPEIRA DORMINHOCA>Essa \c[4]C.A.M.A\c[0]...\! É...\! \quake[1]poderosa.\quake[0]\! Talvez até\. \quake[1]poderosa demais.\quake[0]
 
 message_45:
-    text: \n<BROTOPEIRA SONOLENTA>É melhor contar isso para meu pai!
+    text: \n<BROTOPEIRA DORMINHOCA>É melhor contar isso para meu pai!
 
 #B.E.D. Trade Quest 4
 
 message_50:
-    text: \n<BROTOPEIRA SONOLENTA>\Com[2]Pai! Pai! Estou aqui!
+    text: \n<BROTOPEIRA DORMINHOCA>\Com[2]Pai! Pai! Estou aqui!
 
 message_51:
     text: \n<BROTOPEIRA PREFEITO>Pelos deuses, filho! Onde você esteve?
 
 message_52:
-    text: \n<BROTOPEIRA SONOLENTA>Eu...\! Tenho receio de trazer algumas notícias terríveis...
+    text: \n<BROTOPEIRA DORMINHOCA>Eu...\! Tenho receio de trazer algumas notícias terríveis...
 
 message_53:
     text: \n<BROTOPEIRA PREFEITO>O que foi, filho?\! Você sabe que pode me contar qualquer coisa!
 
 message_54:
-    text: \n<BROTOPEIRA SONOLENTA>Ontem à noite, enquanto eu estava testando a \c[4]C.A.M.A\c[0]...\!<br>Eu...\! Eu...\! Eu...\! Eu \quake[1]dormi demais...\quake[0]
+    text: \n<BROTOPEIRA DORMINHOCA>Ontem à noite, enquanto eu estava testando a \c[4]C.A.M.A\c[0]...\!<br>Eu...\! Eu...\! Eu...\! Eu \quake[1]dormi demais...\quake[0]
 
 message_55:
     text: \n<BROTOPEIRA PREFEITO>yNão, não pode ser!\! Se o que você diz for real, então...
@@ -163,7 +163,7 @@ message_69:
     text: \n<BROTOPEIRA SUSPEITA>\}\Com[2]Epa, epa, epa!\}\!<br>Que atitude é essa?\!<br>Posso não parecer, mas sou uma BROTOPEIRA que cumpre suas promessas.
 
 message_70:
-    text: Usar \c[4]BUZINA GIGANTE\c[0] na BROTOPEIRA ADORMECIDA?
+    text: Usar \c[4]BUZINA GIGANTE\c[0] na BROTOPEIRA DORMINHOCA?
 
 message_71:
-    text: \n<BROTOPEIRA SONOLENTA>Mas...\! Eu gostava da \c[4]C.A.M.A\c[0]...
+    text: \n<BROTOPEIRA DORMINHOCA>Mas...\! Eu gostava da \c[4]C.A.M.A\c[0]...
