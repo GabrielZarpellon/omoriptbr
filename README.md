@@ -19,6 +19,15 @@ Então... Você está esperando algo acontecer?
 
 (Também recomendamos guardar seus saves caso haja algum problema na instalação que seja preciso a desinstalação do jogo, eles ficam na pasta “save” dentro da “www”).
 
+e também aqui vai mais um aviso importante...
+
+## NÃO JOGUE EM UM SAVE PRÉ EXISTENTE!
+
+Devido como o jogo foi feito, a tradução é feita para ser jogada em um novo arquivo de save, pegar um save pré-existente pode entrar em conflito com várias coisas, tornando o jogo impossível de ser fechado dependendo da situação.
+
+Por exemplo: Se você começou a jogar na versão original em inglês em um save, e depois ter aplicado o mod da tradução e continuar jogando nesse mesmo save, algum evento futuro relacionado ao jogo da forca pode entrar em conflito e tornando impossível de passar em certas partes do jogo.
+
+
 ## PROBLEMAS
 
 Há algumas causas que podem estar afetando a instalação da tradução, aqui vão os mais comuns:
