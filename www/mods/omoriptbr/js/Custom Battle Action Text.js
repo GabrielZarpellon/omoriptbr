@@ -153,7 +153,7 @@ switch (type) {
     text = user.name() + ' enganou ' + target.name() + '.\r\n';
     if(target.isEmotionAffected("happy")) {
       if(!target._noStateMessage) {text += target.name() + ' perdeu VELOCIDADE!\r\n';}
-      else {text += parseNoStateChange(target.name(), "VELOCIDADE ", "baixo!\r\n")}
+      else {text += parseNoStateChange("VELOCIDADE ", "baixo!\r\n")}
     }
     text += hpDamageText;
     break;
@@ -162,7 +162,7 @@ switch (type) {
     text = user.name() + ' ignorou ' + target.name() + '.\r\n';
     if(target.isEmotionAffected("sad")) {
       if(!target._noStateMessage) {text += target.name() + ' perdeu DEFESA.\r\n';}
-      else {text += parseNoStateChange(target.name(), "DEFESA ", "baixo!\r\n")}
+      else {text += parseNoStateChange("DEFESA ", "baixo!\r\n")}
     }
     text += hpDamageText;
     break;
@@ -248,14 +248,14 @@ switch (type) {
   case 'TRIP':  // TRIP
     text = user.name() + ' derrubou ' + target.name() + '!\r\n';
     if(!target._noStateMessage) {text += target.name() + ' perdeu VELOCIDADE!\r\n';}
-    else {text += parseNoStateChange(target.name(), "VELOCIDADE", "baixo!\r\n")}
+    else {text += parseNoStateChange("VELOCIDADE", "baixo!\r\n")}
     text += hpDamageText;
     break;
 
     case 'TRIP 2':  // TRIP 2
       text = user.name() + ' derrubou ' + target.name() + '!\r\n';
       if(!target._noStateMessage) {text += target.name() + ' perdeu VELOCIDADE!\r\n';}
-      else {text += parseNoStateChange(target.name(), "VELOCIDADE", "baixo!\r\n")}
+      else {text += parseNoStateChange("VELOCIDADE", "baixo!\r\n")}
       if(!target._noEffectMessage) {text += target.name() + ' ficou TRISTE.\r\n';}
       else {text += parseNoEffectEmotion(target.name(), "mais TRISTE!\r\n")}
       text += hpDamageText;
@@ -342,7 +342,7 @@ switch (type) {
   case 'POWER HIT': //Power Hit
     text = user.name() + ' esmaga ' + target.name() + '!\r\n';
     if(!target._noStateMessage) {text += target.name() + ' perdeu DEFESA.\r\n';}
-    else {text += parseNoStateChange(target.name(), "DEFESA", "baixo!\r\n")}
+    else {text += parseNoStateChange("DEFESA", "baixo!\r\n")}
     text += hpDamageText;
     break;
 
@@ -592,13 +592,13 @@ switch (type) {
     case 'SMILE':  // SMILE
       text = user.name() + ' sorriu para ' + target.name() + '!\r\n';
       if(!target._noStateMessage) {text += target.name() + ' perdeu ATAQUE.';}
-      else {text += parseNoStateChange(target.name(), "ATAQUE", "baixo!\r\n")}
+      else {text += parseNoStateChange("ATAQUE", "baixo!\r\n")}
       break;
 
     case 'DAZZLE':
       text = user.name() + ' sorriu para ' + target.name() + '!\r\n';
       if(!target._noStateMessage) {text += target.name() + 'perdeu ATAQUE.\r\n';}
-      else {text += parseNoStateChange(target.name(), "ATAQUE", "baixo!\r\n")}
+      else {text += parseNoStateChange("ATAQUE", "baixo!\r\n")}
       if(!target._noEffectMessage) {
         text += target.name() + ' ficou FELIZ!';
       }
@@ -608,7 +608,7 @@ switch (type) {
       text = user.name() + ' massageia intensamente\r\n';
       text += target.name() + '!\r\n';
       if(!target._noStateMessage) {text += target.name() + 'perdeu DEFESA!\r\n';}
-      else {text += parseNoStateChange(target.name(), "DEFESA", "baixo!\r\n")}
+      else {text += parseNoStateChange("DEFESA", "baixo!\r\n")}
       text += hpDamageText;
       break;
 
@@ -912,12 +912,11 @@ switch (type) {
       break;
 
     case 'DOOM NOTHING':  // DOOM NOTHING
-      text = user.name() + ' ajustou o rádio.';
+      text = user.name() + ' está ajustando o rádio.';
       break;
 
     case 'BLAST MUSIC':  // BLAST MUSIC
-      text = user.name() + ' bota uma batida\r\n';
-      text += 'maneira!';
+      text = user.name() + ' botou umas batidas maneiras!';
       break;
 
     //SHARKPLANE//
@@ -927,8 +926,7 @@ switch (type) {
       break;
 
     case 'SHARK NOTHING':  // SHARK NOTHING
-      text = user.name() + ' está palitando o\r\n';
-      text += 'próprio dente.';
+      text = user.name() + ' está palitando o próprio dente.';
       break;
 
     case 'OVERCLOCK ENGINE':  // OVERCLOCK ENGINE
@@ -936,7 +934,7 @@ switch (type) {
       if(!target._noStateMessage) {
         text += user.name() + ' ganhou VELOCIDADE!';
       }
-      else {text += parseNoStateChange(user.name(), "VELOCIDADE", "alto!")}
+      else {text += parseNoStateChange("VELOCIDADE", "alto!")}
       break;
 
     case 'SHARK CRUNCH':  // SHARK
@@ -1570,7 +1568,7 @@ switch (type) {
     case 'SLIME BUN STICKY': //SLIME BUN STICKY
       text = user.name() + ' se sente sozinho e chora.\r\n';
       if(!target._noStateMessage) {text += target.name() + ' perdeu VELOCIDADE!\r\n';}
-      else {text += parseNoStateChange(target.name(), "VELOCIDADE", "baixo!\r\n")}
+      else {text += parseNoStateChange("VELOCIDADE", "baixo!\r\n")}
       text += target.name() + " ficou TRISTE.";
       break;
 
@@ -1753,7 +1751,7 @@ switch (type) {
       if(!target._noStateMessage) {
         text += user.name() + ' ganhou VELOCIDADE!';
       }
-      else {text += parseNoStateChange(user.name(), "VELOCIDADE", "alto!")}
+      else {text += parseNoStateChange("VELOCIDADE", "alto!")}
       break;
 
     case 'SALLI DODGE ANNOY': //SALLI STARE
@@ -2081,9 +2079,9 @@ switch (type) {
         text += user.name() + ' perdeu VELOCIDADE.';
       }
       else {
-        text += parseNoStateChange(user.name(), "ATAQUE", "alto!\r\n")
-        text += parseNoStateChange(user.name(), "DEFESA", "alto!\r\n")
-        text += parseNoStateChange(user.name(), "VELOCIDADE", "baixo!")
+        text += parseNoStateChange("ATAQUE", "alto!\r\n")
+        text += parseNoStateChange("DEFESA", "alto!\r\n")
+        text += parseNoStateChange("VELOCIDADE", "baixo!")
       }
       break;
 
@@ -2523,9 +2521,9 @@ switch (type) {
           text += target.name() + ' perder VELOCIDADE.';
         }
         else {
-          text += parseNoStateChange(user.name(), "ATAQUE", "alto!\r\n")
-          text += parseNoStateChange(user.name(), "DEFESA", "alto!\r\n")
-          text += parseNoStateChange(user.name(), "VELOCIDADE", "baixo!")
+          text += parseNoStateChange("ATAQUE", "alto!\r\n")
+          text += parseNoStateChange("DEFESA", "alto!\r\n")
+          text += parseNoStateChange("VELOCIDADE", "baixo!")
         }
         break;
 
@@ -3225,7 +3223,7 @@ switch (type) {
       text = 'Mais mãos aparecem e cercam\r\n';
       text += user.name() + '.\r\n';
       if(!target._noStateMessage) {text += user.name() + ' ganhou DEFESA!';}
-      else {text += parseNoStateChange(user.name(), "DEFESA", "alto!")}
+      else {text += parseNoStateChange("DEFESA", "alto!")}
       break;
 
     case 'DREAM HEIGHTS SHOVE': //DREAM FEAR OF HEIGHTS SHOVE
