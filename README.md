@@ -25,7 +25,7 @@ e também aqui vai mais um aviso importante...
 
 Devido como o jogo foi feito, a tradução é feita para ser jogada em um novo arquivo de save, pegar um save pré-existente pode entrar em conflito com várias coisas, tornando o jogo impossível de ser fechado dependendo da situação.
 
-Por exemplo: Se você começou a jogar na versão original em inglês em um save, e depois ter aplicado o mod da tradução e continuar jogando nesse mesmo save, algum evento futuro relacionado ao jogo da forca pode entrar em conflito e tornando impossível de passar em certas partes do jogo.
+Por exemplo: Se você começou a jogar na versão original em inglês em um save, e depois ter aplicado o mod da tradução e continuar jogando nesse mesmo save, algum evento futuro relacionado ao jogo da forca pode entrar em conflito e tornando impossível de passar em certas partes do jogo ou gerando eventos estranhos que não eram para acontecer.
 
 
 ## PROBLEMAS
