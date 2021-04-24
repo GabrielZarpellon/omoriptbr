@@ -176,7 +176,7 @@ message_53:
 #SMM turns to SWEETHEART.
 
 message_54:
-      text: Se fazendo de difícil então!\! O que você acha desta resposta, SWEETHEART?\n<BROTOPEIRA MIKE>
+      text: Se fazendo de difícil, então!\! O que você acha desta resposta, SWEETHEART?\n<BROTOPEIRA MIKE>
 
 #SWEETHEART is annoyed.
 
@@ -440,7 +440,7 @@ message_107:
 message_130:
       faceset: MainCharacters_DreamWorld
       faceindex: 20
-      text: Ahh cara...\! agora estamos todos presos na \c[11]MASMORRA\C[0]...\kel
+      text: Ahh, cara...\! agora estamos todos presos na \c[11]MASMORRA\C[0]...\kel
 
 message_131:
       faceset: MainCharacters_DreamWorld
