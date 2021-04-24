@@ -299,7 +299,7 @@ message_64:
 message_65:
       faceset: MainCharacters_DreamWorld
       faceindex: 24
-      text: Bem, me desculpa princesa...\kel
+      text: Bem, me desculpa, princesa...\kel
 
 # =========================================================================================
 # Cutscene: Mari and Basil
