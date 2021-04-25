@@ -291,7 +291,7 @@ message_102:
 message_103:
       faceset: MainCharacter_Basil
       faceindex: 33
-      text: Ah...\! Oi, \n[8].\! Faz um tempo, né\! <br>Haha...\bas
+      text: Ah...\! Oi, \n[8].\! Faz um tempo, né?\! <br>Haha...\bas
 
 message_104:
       faceset: MainCharacters_Faraway
