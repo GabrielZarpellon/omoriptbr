@@ -675,7 +675,7 @@ message_196:
 message_197:
       faceset: MainCharacters_Faraway
       faceindex: 23
-      text: \Com[2]Eu não posso te deixar ir até voce prometer devolver o \c[4]ÁLBUM DE FOTOS\c[0] pro BASIL, sua ladra!\kel
+      text: \Com[2]Eu não posso te deixar ir até você prometer devolver o \c[4]ÁLBUM DE FOTOS\c[0] pro BASIL, sua ladra!\kel
 
 message_198:
       text: \}O que está acontecendo?\| ...\| BASIL?\| ... \|Não é o menino que... \|Eu vi AUBREY e seus amigos maltratando... \|Agora ela tá roubando também...
