@@ -120,7 +120,7 @@ message_22:
 
 #player loses
 message_23:
-      text: \n<GAROTA COLORIDA>Yay!\! Conseguimos!\! Eu sabia que você poderia ganhar, MENINATOMATE!
+      text: \n<GAROTA COLORIDA>Oba!\! Conseguimos!\! Eu sabia que você poderia ganhar, MENINATOMATE!
 
 message_150:
       text: \n<GAROTA COLORIDA>Sem problema! É só falar se quiser QUEBRAR a qualquer hora!
@@ -146,7 +146,7 @@ message_35:
       text: \n<GAROTO BONITO>Ei, esse é um \c[13]PET DRITO\c[0]?\! Eu tenho um também!\!<br>Você quer QUEBRAR?
 #yes
 message_36:
-      text: \n<GAROTO BONITO>Yay, parece divertido! Vamos dar o nosso melhor!\! Vá, MOÇA DA ROSA! Eu confio em você!
+      text: \n<GAROTO BONITO>Oba, parece divertido! Vamos dar o nosso melhor!\! Vá, MOÇA DA ROSA! Eu confio em você!
 #player win
 message_37:
       text: \n<GAROTO BONITO>MOÇA DA ROSA, você está bem?\! Vamos, vamos... Você pode descansar bem agora.

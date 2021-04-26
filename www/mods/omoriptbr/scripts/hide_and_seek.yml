@@ -836,7 +836,7 @@ message_252:
       text: \sinv[1]Uaaah...\! Tô com sono...\n<MIKAL>
 
 message_253:
-      text: \{Yay!\} É hora de \{\sinv[1]brincar!\}\n<HAPPY>
+      text: \{Oba!\} É hora de \{\sinv[1]brincar!\}\n<HAPPY>
 
 message_254:
       text: \sinv[1]Ahhh?\sinv[0]\n<BROWS>
