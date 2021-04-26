@@ -157,7 +157,7 @@ message_65:
 message_66:
       faceset: MainCharacters_DreamWorld
       faceindex: 18
-      text: \kelEi, aquieta o facho!\! não esquenta a \SINV[1]cabeça\SINV[0] ...\! entendeu?
+      text: \kelEi, aquieta o facho!\! Não esquenta a \SINV[1]cabeça\SINV[0] ...\! entendeu?
 
 message_67:
       text: \berHeh.\! Isso me parece certo!
