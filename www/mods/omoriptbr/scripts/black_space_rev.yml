@@ -508,7 +508,7 @@ message_254:
 message_255:
       faceset: MainCharacter_Basil
       faceindex: 1
-      text: \basSem falar que elas também são umas das minhas maiores ajudantes na jardinagem, já que comem muitas pragas prejudiciais as plantas.\! É uma questão de equilíbrio da natureza!
+      text: \basSem falar que elas também são umas das minhas maiores ajudantes na jardinagem, já que comem muitas pragas prejudiciais às plantas.\! É uma questão de equilíbrio da natureza!
 
 message_256:
       faceset: MainCharacter_Basil
