@@ -459,7 +459,7 @@ message_112:
 message_113:
       faceset: MainCharacters_DreamWorld
       faceindex: 37
-      text: \herPodemos ir com mais calma se quiser!<br>\!Desde de que cheguemos lá eventualmente.
+      text: \herPodemos ir com mais calma se quiser!<br>\!Desde de que cheguemos lá alguma hora.
 
 message_114:
       faceset: MainCharacters_DreamWorld
@@ -936,7 +936,7 @@ message_219:
 message_220:
       faceset: MainCharacter_Mari
       faceindex: 4
-      text: \marOh, HERO...\! Você vai ter que lidar com isso eventualmente.\! Essas coisas só pioram com o tempo.
+      text: \marOh, HERO...\! Você vai ter que lidar com isso algum dia.\! Essas coisas só pioram com o tempo.
 
 message_221:
       faceset: MainCharacters_DreamWorld

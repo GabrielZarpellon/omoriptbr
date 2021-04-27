@@ -192,7 +192,7 @@ message_46:
 #Decay
 #Location: Deeper Well
 message_47:
-      text: \n<DECADÊNCIA>O tempo sempre se move pra frente.\! Eventualmente, a verdade ficará clara...\! Você sabe muito bem...\! não é mesmo, SONHADOR?
+      text: \n<DECADÊNCIA>O tempo sempre se move pra frente.\! Em breve, a verdade ficará clara...\! Você sabe muito bem...\! não é mesmo, SONHADOR?
 
 message_48:
       text:
@@ -1397,7 +1397,7 @@ message_500:
 
 
 message_601:
-      text: \n<LACUNA>Suas memórias tem um preço.\! Para ganhar uma memória, outra deve ser coberta por névoa.\! Mas de qualquer forma...\! Todas as memórias irão se esvair eventualmente.
+      text: \n<LACUNA>Suas memórias tem um preço.\! Para ganhar uma memória, outra deve ser coberta por névoa.\! Mas de qualquer forma...\! Todas as memórias irão se esvair alguma hora.
 
 message_615:
       text: \n<LACUNA>Talvez você já tenha percebido...\! a maldição do \c[11]FUNDO DO POÇO\c[0].
