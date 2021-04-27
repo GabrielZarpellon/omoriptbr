@@ -375,7 +375,7 @@ message_63:
 message_64:
     faceset: MainCharacters_DreamWorld
     faceindex: 46
-    text: \herSério, MARI?\! Picolé nesse frio?
+    text: \herSério, MARI?\! Gelo raspado nesse frio?
 
 message_65:
     faceset: MainCharacter_Mari
@@ -385,12 +385,12 @@ message_65:
 message_66:
     faceset: MainCharacters_DreamWorld
     faceindex: 1
-    text: \aubE qual é a diferença de picolés e \c[3]RASPADINHAS\c[0] ?
+    text: \aubE qual é a diferença de gelo raspado e \c[3]RASPADINHA\c[0] ?
 
 message_67:
     faceset: MainCharacter_Mari
     faceindex: 2
-    text: \marSendo realista, não tem muita diferença...\! \c[3]RASPADINHAS\c[0] tem pedaços de gelo maiores do que os picolés.
+    text: \marSendo realista, não tem muita diferença...\! \c[3]RASPADINHAS\c[0] tem pedaços de gelo maiores do que os gelos raspados.
 
 
 message_68:
