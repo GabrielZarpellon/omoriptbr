@@ -403,7 +403,7 @@ message_102:
 message_103:
       faceset: MainCharacters_Faraway
       faceindex: 17
-      text: \kelPor que você tá mexendo na bolsa da minha mãe \n[8]?
+      text: \kelPor que você tá mexendo na bolsa da minha mãe, \n[8]?
 
 message_104:
       text: Você encontrou um \c[5]SPRAY DE PIMENTA\c[0].\! Pegar?
