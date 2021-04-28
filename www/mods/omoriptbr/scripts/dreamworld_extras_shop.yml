@@ -159,7 +159,7 @@ message_188:
       text: \n<CAIXA DE CORREIO>Em troca de seus bens, Eu vou te oferecer isso...\! Tá bom pra você?
 #item buying cancel
 message_189:
-      text: \n<CAIXA DE CORREIO>O que? Depois de tudo aquilo você só vai desistir!?
+      text: \n<CAIXA DE CORREIO>O quê? Depois de tudo aquilo você só vai desistir!?
 
 
 #IF HERO IS leader

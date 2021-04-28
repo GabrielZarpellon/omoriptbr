@@ -22,7 +22,7 @@ plugins:
   skillMenu:
     skills: DONS
     replace: TROCAR POR?
-    DoWhat: FAZER O QUE?
+    DoWhat: FAZER O QUÊ?
     use: USAR
     swap: TROCAR
     useon: USAR EM QUEM?

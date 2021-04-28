@@ -447,7 +447,7 @@ message_100:
 message_101:
       faceset: MainCharacters_Faraway
       faceindex: 27
-      text: \Com[2]O que?\! E-Ele tem?\! Mas como?\aub
+      text: \Com[2]O quê?\! E-Ele tem?\! Mas como?\aub
 
 message_102:
       faceset: MainCharacters_Faraway
