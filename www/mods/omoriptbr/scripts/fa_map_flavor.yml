@@ -1767,7 +1767,7 @@ message_1000:
 message_680:
       faceset: MainCharacters_Faraway
       faceindex: 13
-      text: Olhe HERO, nós compramos seus preferidos...\! alguns \c[3]COOKIES\c[0] com gotas de chocolate e um clássico \c[3]SANDUÍCHE DO HERO\c[0]!\kel
+      text: Olhe, HERO, nós compramos seus preferidos...\! alguns \c[3]COOKIES\c[0] com gotas de chocolate e um clássico \c[3]SANDUÍCHE DO HERO\c[0]!\kel
 
 message_681:
       faceset: MainCharacters_Faraway

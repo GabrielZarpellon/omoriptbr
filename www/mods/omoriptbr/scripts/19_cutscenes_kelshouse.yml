@@ -57,7 +57,7 @@ message_11:
       text: Valeu, PAI.\her
 
 message_12:
-      text: Sniff...\n<KEL's MOM>
+      text: Sniff...\n<MÃE DO KEL>
 
 message_13:
       text: Oh, seu pai está certo. Não é hora para choradeira.\n<MÃE DO KEL>
@@ -141,7 +141,7 @@ message_47:
 message_48:
       faceset: MainCharacters_Faraway
       faceindex: 28
-      text: É, a gente fazia tudo juntos.\!<br>A gente ia ao parque, ao lago, a praia...\! Mas honestamente, o que eu mais sinto falta é passar tempo na sua casa, \n[8]!\her
+      text: É, a gente fazia tudo juntos.\!<br>A gente ia ao parque, ao lago, à praia...\! Mas honestamente, o que eu mais sinto falta é passar tempo na sua casa, \n[8]!\her
 
 message_49:
       faceset: MainCharacters_Faraway
@@ -181,7 +181,7 @@ message_71:
 message_72:
       faceset: MainCharacters_Faraway
       faceindex: 19
-      text: Que pena que algumas fotos tão faltando...\! A AUBREY roubou o álbum do BASIL mas pegamos de volta.\! Talvez ela tenha o resto das fotos.\kel
+      text: Que pena que algumas fotos tão faltando...\! A AUBREY roubou o álbum do BASIL, mas pegamos de volta.\! Talvez ela tenha o resto das fotos.\kel
 
 message_73:
       faceset: MainCharacters_Faraway
@@ -208,7 +208,7 @@ message_76:
 message_77:
       faceset: MainCharacters_Faraway
       faceindex: 42
-      text: Ai ai...\! Mesmo assim, esse álbum traz de volta umas boas memórias.\! Coisas eram muito mais simples quando éramos crianças... Haha...\her
+      text: Ai ai...\! Mesmo assim, esse álbum traz de volta umas boas memórias.\! As coisas eram muito mais simples quando éramos crianças... Haha...\her
 
 #HERO turns to PLAYER.
 
