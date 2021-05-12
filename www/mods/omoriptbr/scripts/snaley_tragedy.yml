@@ -1,0 +1,126 @@
+# =========================================================================================
+# ** Snaley Arc 1 - Construction
+# =========================================================================================
+
+message_0:
+    text: \n<SNALEY>Amigos, é bom ver vocês!\! Que belo clima, não é?
+
+message_1:
+    text: \n<SNALEY>Vocês parecem bem fortes e eu quero ser bem forte, que nem vocês!\! Vocês vão ajudar a me treinar?
+
+#YES
+message_2:
+    text: \n<SNALEY>Eu darei o meu melhor!
+
+#NO
+message_3:
+    text: \n<SNALEY>Mas eu quero ser forte, que nem vocês...
+
+#let him live
+
+message_4:
+    text: \n<SNALEY>Uau, vocês realmente sabem lutar!\! Como símbolo de meu agradecimento, leve esse \c[3]CAFÉ\c[0]!\! Meu amigo deu pra mim!
+
+message_5:
+    text: \n<SNALEY>Eu agora irei nessa caverna perigosa para treinar meu corpo e mente.\! Da próxima vez, eu estarei mais forte!
+
+# =========================================================================================
+# ** Snaley Arc 1 - Cave
+# =========================================================================================
+
+
+message_6:
+    text: \n<SNALEY>Amigos, é bom ver vocês de novo!\! Que belo clima, não é?
+
+message_7:
+    text: \n<SNALEY>Eu fiquei muito mais forte desde a última vez.\! Vocês irão me ajudar a testar minhas habilidades?
+
+message_9:
+    text: \n<SNALEY>Obrigado! Eu me sinto muito mais forte agora...\! Como símbolo de meu agradecimento, leve esse \c[3]CAFÉ\c[0]!\! Meu amigo deu pra mim!
+
+message_10:
+    text: \n<SNALEY>Eu agora irei atravessar essa ponte perigosa para melhorar meus \c[1]DONS\c[0] até a perfeição.\! Da próxima vez, eu estarei ainda mais forte!
+
+# =========================================================================================
+# ** Snaley Arc 1 - Bridge
+# =========================================================================================
+
+message_11:
+    text: \n<SNALEY>Amigos, é bom ver vocês mais uma vez!\!<br>Que belo clima, não é?
+
+message_12:
+    text: \n<SNALEY>Minha mente e corpo estão em perfeita harmonia e eu aprendi meu \c[1]DOM\c[0] supremo!\! Eu acho que isso merece outro teste.\! Vocês não concordam?
+
+
+# =========================================================================================
+# ** Snaley Arc 1 - Bridge
+# =========================================================================================
+
+
+message_16:
+    text: Você recebeu \c[3]CAFÉ\c[0]!
+
+
+#----------------------------
+# ** IN BATTLE: SNALEY 1
+#----------------------------
+
+message_21:
+   text: >
+    \>SNALEY: \<Uau! Minha primeira batalha!\! Aí vou eu!
+
+message_22:
+    text: >
+     \>SNALEY: \<Batalhas são mais difíceis do que parece...\! Eu tenho que tentar mais!
+
+message_23:
+    text: >
+     \>SNALEY: \<Ai ai...\! Eu não sei se eu sou feito pra isso...
+
+message_24:
+    text: >
+     \>SNALEY: \<Ok, por favor parem! Isso é o suficiente!
+
+#----------------------------
+# ** IN BATTLE: SNALEY 2
+#----------------------------
+
+message_25:
+    text: >
+     \>SNALEY: \<Eu me ensinei alguns \c[1]DONS\c[0] desde a nossa última batalha!\! É melhor tomar cuidado!
+
+message_26:
+    text: >
+     \>SNALEY: \<\sinv[1]Isso não foi legal!?\sinv[0] Eu sou íncrivel!
+
+message_27:
+    text: >
+     \>SNALEY: \<Eu consigo fazer \c[1]SEQUÊNCIAS\c[0] também! Olhe só!
+
+message_28:
+    text: >
+     \>SNALEY: \<Como foi!?\! Algum dia desses, eu serei tão forte quanto vocês!
+
+#----------------------------
+# ** IN BATTLE: SNALEY 3
+#----------------------------
+
+message_29:
+    text: >
+     \>SNALEY: \<Eu aposto que estou quase tão forte quanto vocês agora!\! É melhor vocês levarem isso a sério!
+
+message_30:
+    text: >
+     \>SNALEY: \<Heh! Vocês não são os únicos que podem usar EMOÇÕES!
+
+message_31:
+    text: >
+     \>SNALEY: \<E agora é hora do meu \sinv[1]\c[1]DOM SUPREMO\c[0]\sinv[0]!
+
+message_32:
+   text: >
+    SNALEY está TRISTE...
+
+message_33:
+   text: >
+    SNALEY está FELIZ!
