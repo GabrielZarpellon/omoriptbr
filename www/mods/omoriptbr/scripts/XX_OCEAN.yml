@@ -46,10 +46,10 @@ message_41:
       text: Espera aí, \n[8]! Não podemos simplesmente sair com toda essa grana!\! Nós precisamos comprar a \c[4]LUMINÁRIA DE PISO\c[0] primeiro!
 
 message_42:
-      text: \n<CARA DO REPARA-JÁ>Então os moleques querem comprar uma \c[4]LUMINÁRIA DE PISO\c[0], hein?\! Bom, a que vocês estão olhando custa mais ou menos...\! uh...\! $50.00.\! Cês vão querer ou não?
+      text: \n<CARA DO CONSERTA-JÁ>Então os moleques querem comprar uma \c[4]LUMINÁRIA DE PISO\c[0], hein?\! Bom, a que vocês estão olhando custa mais ou menos...\! uh...\! $50.00.\! Cês vão querer ou não?
 
 message_43:
-      text: \n<CARA DO REPARA-JÁ>Legal, aqui está sua \c[4]LUMINÁRIA DE PISO\c[0] novinha em folha.\!<br>Sem reembolsos ou trocas, beleza?\! É a política da empresa.
+      text: \n<CARA DO CONSERTA-JÁ>Legal, aqui está sua \c[4]LUMINÁRIA DE PISO\c[0] novinha em folha.\!<br>Sem reembolsos ou trocas, beleza?\! É a política da empresa.
 
 #=========================Location: Orange Guy in front of OTHERMART=============================
 #== Fruitwarbrayden
@@ -265,13 +265,13 @@ message_152:
 
 #Rule Explanation
 message_153:
-      text: \n<CARA DO REPARA-JÁ>Dê uma boa olhada nessas prateleiras atrás de você e verá que está tudo uma grande bagunça!
+      text: \n<CARA DO CONSERTA-JÁ>Dê uma boa olhada nessas prateleiras atrás de você e verá que está tudo uma grande bagunça!
 
 message_154:
-      text: \n<CARA DO REPARA-JÁ>Você pensaria que com uma placa em cima da prateleira seria óbvio onde colocar as coisas, mas as pessoas não ligam esses dias...\! Ai ai...\! Eu odeio trabalhar no varejo...
+      text: \n<CARA DO CONSERTA-JÁ>Você pensaria que com uma placa em cima da prateleira seria óbvio onde colocar as coisas, mas as pessoas não ligam esses dias...\! Ai ai...\! Eu odeio trabalhar no varejo...
 
 message_155:
-      text: \n<CARA DO REPARA-JÁ>De qualquer forma, a placa em cima da prateleira mostra o que deveria estar à mostra.\! Seu trabalho é mover tudo para seu lugar de direito, entendeu?\! Estou contando com você, moleque.
+      text: \n<CARA DO CONSERTA-JÁ>De qualquer forma, a placa em cima da prateleira mostra o que deveria estar à mostra.\! Seu trabalho é mover tudo para seu lugar de direito, entendeu?\! Estou contando com você, moleque.
 
 
 #=========================SHOPPING CENTER=============================
@@ -814,7 +814,7 @@ message_406:
 message_407:
       faceset: MainCharacters_Faraway
       faceindex: 30
-      text: \herAntes de irmos pra sua casa, vamos no \c[11]REPARA-JÁ\c[0] para comprar algumas \c[4]FLORES\c[0] para ela!\! Tenho certeza que ela apreciaria isso.
+      text: \herAntes de irmos pra sua casa, vamos no \c[11]CONSERTA-JÁ\c[0] para comprar algumas \c[4]FLORES\c[0] para ela!\! Tenho certeza que ela apreciaria isso.
 
 message_434:
       faceset: MainCharacters_Faraway
@@ -976,7 +976,7 @@ message_448:
       text: Você pegou $10.00 do HERO.\! Uau...
 
 message_449:
-      text: \n<CARA DO REPARA-JÁ>Você estava querendo comprar alguma ferramenta?
+      text: \n<CARA DO CONSERTA-JÁ>Você estava querendo comprar alguma ferramenta?
 
 message_450:
       faceset: MainCharacters_Faraway
@@ -1548,7 +1548,7 @@ message_681:
 #      text: \n<PIZZA MAN>Oh what happened? Didn't get to deliver the pizzas after all? I.... see.
 
 message_683:
-      text: \n<CARA DO REPARA-JÁ>Ai ai... Tanto faz, eu acho...\! As prateleiras vão ficar bagunçadas de novo, de qualquer forma.
+      text: \n<CARA DO CONSERTA-JÁ>Ai ai... Tanto faz, eu acho...\! As prateleiras vão ficar bagunçadas de novo, de qualquer forma.
 
 message_684:
       text: \n<LOJISTA>Não se segure!\! O destino está te chamando!
