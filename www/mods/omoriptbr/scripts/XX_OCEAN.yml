@@ -317,7 +317,7 @@ message_176:
 #ARtists house
 
 message_180:
-      text: <ARTISTA>Ei, estranho!\! Você chegou bem na hora para me ajudar numa crítica, pro meu último trabalho em progresso!
+      text: \n<ARTISTA>Ei, estranho!\! Você chegou bem na hora para me ajudar numa crítica, pro meu último trabalho em progresso!
 
 #=========================Pet Rock=============================
 #Pet Rock
