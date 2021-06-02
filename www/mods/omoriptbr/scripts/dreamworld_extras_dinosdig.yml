@@ -166,7 +166,7 @@ message_113:
 
 #Default>
 message_29:
-      text: \n<BRETT>Bem-vinos à DINO LOJA!\!<br>De acordo com o meu registro, vocês tem um total de \v[1020] DINO DÓLARES!
+      text: \n<BRETT>Bem-vindos à DINO LOJA!\!<br>De acordo com o meu registro, vocês tem um total de \v[1020] DINO DÓLARES!
 
 message_32:
       text: \n<BRETT>Se quiserem comprar uma \c[4]COLHER\c[0], é só me avisar que irei ajudá-los!

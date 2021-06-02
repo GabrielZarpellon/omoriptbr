@@ -123,7 +123,7 @@ message_25:
 message_40:
       faceset: MainCharacter_Basil
       faceindex: 15
-      text: Ah, eu lembro desse corredor!\!<br>O armário ficava na esquerda...\!<br>e a sala do piano na direita.  \her
+      text: Ah, eu lembro desse corredor!\!<br>O armário ficava na esquerda...\!<br>E a sala do piano na direita.  \her
 
 message_41:
       faceset: MainCharacter_Basil
