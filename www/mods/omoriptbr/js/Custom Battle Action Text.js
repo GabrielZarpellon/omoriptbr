@@ -3395,8 +3395,14 @@ switch (type) {
         text = target.name() + ` está IMOBILIZAD${pronome1} pelo amor! `;
         break;
 
-
-
+	//SNALEY//
+    case 'SNALEY MEGAPHONE': // SNALEY MEGAPHONE
+      if(target.index() <= unitLowestIndex) {text = user.name() + ' uses an AIRHORN!\r\n';}
+      if(target.isStateAffected(16)) {text += target.name() + ' feels FURIOUS!!!\r\n'}
+      else if(target.isStateAffected(15)) {text += target.name() + ' feels ENRAGED!!\r\n'}
+      else if(target.isStateAffected(14)) {text += target.name() + ' feels ANGRY!\r\n'}
+      break;
+		
   }
   // Return Text
   return text;
