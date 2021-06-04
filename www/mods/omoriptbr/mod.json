@@ -2,7 +2,7 @@
   "id": "omoriptbr",
   "name": "Tradução em PTBR",
   "description": "Tradução em PTBR",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "files": {
     "plugins": [
 	  "js/",
