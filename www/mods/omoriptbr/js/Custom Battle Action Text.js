@@ -3398,9 +3398,9 @@ switch (type) {
 	//SNALEY//
     case 'SNALEY MEGAPHONE': // SNALEY MEGAPHONE
       if(target.index() <= unitLowestIndex) {text = user.name() + ' usa uma BUZINA!\r\n';}
-      if(target.isStateAffected(16)) {text += target.name() + ' ficou FURIOS${pronome1}!!!\r\n'}
-      else if(target.isStateAffected(15)) {text += target.name() + ' ficou ENFURECID${pronome1}!!\r\n'}
-      else if(target.isStateAffected(14)) {text += target.name() + ' ficou NERVOS${pronome1}!\r\n'}
+      if(target.isStateAffected(16)) {text += target.name() + ` ficou FURIOS${pronome1}!!!\r\n`}
+      else if(target.isStateAffected(15)) {text += target.name() + ` ficou ENFURECID${pronome1}!!\r\n`}
+      else if(target.isStateAffected(14)) {text += target.name() + ` ficou NERVOS${pronome1}!\r\n`}
       break;
 		
   }
