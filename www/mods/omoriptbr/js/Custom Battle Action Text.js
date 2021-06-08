@@ -562,7 +562,7 @@ switch (type) {
 
     case 'PASS HERO 2':  // KEL PASS HERO
       if(target.index() <= unitLowestIndex) {
-        text = user.name() + '  dá uma enterrada nos inimigos com estilo!\r\n';
+        text = user.name() + ' dá uma enterrada com estilo!\r\n';
         text += "O ATAQUE de todos os inimigos caiu!\r\n";
       }
       text += hpDamageText;
