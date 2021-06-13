@@ -21,7 +21,7 @@ message_5:
       text: \n<FOLHINHA>Ei, vou te falar.\! Vamos fazer um acordo.\!<br>Se você derrotar pelo menos 5 \quake[1]coelhos,\quake[0] volte aqui e me avise...\! Eu vou te dar algo legal.
 
 message_6:
-      text: \n<FOLHINHA>Agora vá de destrua aqueles \quake[1]coelhos!\quake[0]
+      text: \n<FOLHINHA>Agora vá e destrua aqueles \quake[1]coelhos!\quake[0]
 
 #MEETING GOALS
 

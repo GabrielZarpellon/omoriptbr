@@ -116,7 +116,7 @@ message_30:
 message_44:
       text: \hap\Com[2]Calma, BANGS!\! Você vai ficar OK!
 message_45:
-      text: \banBROWS me derrubou aqui, mas agora vou só ficar aqui, é confortavel.
+      text: \banBROWS me derrubou, mas agora vou só ficar aqui mesmo, é confortável.
 message_46:
       text: \n<VAN>Relaxa, BROWS... \!Não é sua culpa...
 message_47:
@@ -163,10 +163,10 @@ message_67:
       text: \berHeh.\! Isso me parece certo!
 
 message_68:
-      text: \berEntão \n[2], Vou te ensinar um \c[1]DOM\c[0], só entre cabeçudos como nós.
+      text: \berEntão, \n[2], vou te ensinar um \c[1]DOM\c[0], só entre cabeçudos como nós.
 
 message_69:
-      text: \berÉ minha especialidade... \c[1]CABEÇADA\c[0]! \!<br>É bem simples na verdade. \!Cê só tem que correr em direção à alguém e...
+      text: \berÉ minha especialidade... \c[1]CABEÇADA\c[0]! \!<br>É bem simples na verdade. \!Cê só tem que correr em direção a alguém e...
 
 message_70:
       text: \QUAKE[1]\Com[2]\{BO\{\Com[2]OOO\{OOOO\{\Com[2]OOMMMM!!!\QUAKE[0]\ber
@@ -180,7 +180,7 @@ message_72:
       text: \aubIsso parece ser doloroso...\!<br>E ainda vai bagunçar meu cabelo.\!<br>E arruinar com meu lacinho.
 
 message_73:
-      text: \berAh qual é, \n[2]! Viva um pouco!\!<br>Um cabelo bagunçado nunca matou ninguém.\!<br>\n[4] tá vivo e pode provar isso.
+      text: \berAh, qual é, \n[2]! Viva um pouco!\!<br>Um cabelo bagunçado nunca matou ninguém.\!<br>\n[4] tá vivo e pode provar isso.
 
 message_74:
       faceset: MainCharacters_DreamWorld
