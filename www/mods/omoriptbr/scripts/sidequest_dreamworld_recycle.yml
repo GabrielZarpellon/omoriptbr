@@ -52,7 +52,7 @@ message_7:
     text: Você colocou uma \c[5]GARRAFA DE VIDRO\c[0] na MÁQUINA DE RECICLAGEM.
 
 message_8:
-    text: A MÁQUINA DE RECICLAGEM dispensou 5 CONCHAS.\!<br>Obrigado por fazer sua parte mantendo o ambiente limpo.
+    text: A MÁQUINA DE RECICLAGEM dispensou 10 CONCHAS.\!<br>Obrigado por fazer sua parte mantendo o ambiente limpo.
 
 message_16:
     text: Você não tem uma \c[5]GARRAFA DE VIDRO\c[0] para reciclar.
