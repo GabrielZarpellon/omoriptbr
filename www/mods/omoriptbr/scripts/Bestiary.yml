@@ -441,7 +441,7 @@ Information:
 
 
   97:
-    name: BUN BUNNY
+    name: PÃOELHO
     background: {name: 'battleback_oo_default', x: 0, y: 0}
     position: {x: 160, y: 425}
     character: {name: 'ENEMY_BUNNIES', index: 2}
