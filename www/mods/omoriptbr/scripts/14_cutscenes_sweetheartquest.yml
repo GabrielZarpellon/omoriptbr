@@ -351,7 +351,7 @@ message_123:
 message_124:
       faceset: MainCharacters_DreamWorld
       faceindex: 4
-      text: Ah, não! Teve um apagão!\!<br>E agora o que a gente faz? Eu preciso saber o que acontece!\aub
+      text: Ah, não! Teve um apagão!\!<br>E agora, o que a gente faz? Eu preciso saber o que acontece!\aub
 
 message_125:
       faceset: MainCharacters_DreamWorld
@@ -420,7 +420,7 @@ message_151:
 message_152:
       faceset: MainCharacters_DreamWorld
       faceindex: 37
-      text: Não se preoucupe, AUBREY. É aqui que minha perícia de faz-tudo entra em jogo!\! Em casos como esse, a gente devia buscar...\! Algum tipo de gerador reserva!\her
+      text: Não se preocupe, AUBREY. É aqui que minha perícia de faz-tudo entra em jogo!\! Em casos como esse, a gente devia buscar...\! Algum tipo de gerador reserva!\her
 
 #    - There's a room full of treadmills in bottom floor. Map 166
 
