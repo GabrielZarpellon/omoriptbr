@@ -1621,10 +1621,10 @@ message_74:
     text: Você deseja pegar \c[3]\v[102]\c[0]?
 
 message_75:
-    text: Vocês está segurando os \c[3]\v[102]\c[0].
+    text: Vocês está segurando \c[3]\v[102]\c[0].
 
 message_88:
-    text: Você deseja devolver os \c[3]\v[102]\c[0]?
+    text: Você deseja devolver \c[3]\v[102]\c[0]?
 
 message_80:
     text: \n<PAPAI FORNO>PAPAI FORNO vê vocês olhando aquela bandeja de BISCOITOS DE AVEIA.\! PAPAI FORNO te avisa agora pelo seu bem...\! Não se atreva!
