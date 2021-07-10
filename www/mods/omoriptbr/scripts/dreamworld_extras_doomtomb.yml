@@ -90,7 +90,7 @@ message_200:
       text: \n<TOUPEIRA DE VERDADE>Parem já aí, seus arruaceiros!\! Vocês não podem ler direções?\!<br>Deviam ter vergonha de si mesmos!
 
 message_201:
-      text: \n<TOUPEIRA DE VERDADE>Eu e a minha família estamos protegendo o segredo do tesouro desta cripta...\! mas proteger não é fácil por causa de pessoas como vocês!
+      text: \n<TOUPEIRA DE VERDADE>Eu e a minha família tamo protegendo o segredo do tesouro desta cripta...\! mas proteger não é fácil por causa de pessoas como vocês!
 
 message_202:
       text: \n<TOUPEIRA DE VERDADE>Eu posso ser velho e fraco agora... e a minha visão não tá muito boa... e eu posso ser o único restante...<br><br>Mas eu gastei uma vida inteira fazendo isso, e eu fiquei muito bom em proteger, Eu acho!
@@ -375,7 +375,7 @@ message_88:
       text: \aubMas é claro que não!\! Nós nunca iriamos atacar sem sermos provocados antes!
 
 message_89:
-      text: \n<BISCOITA>Você ouviu isso, BOLACHO?\! Estamos salvos!\! <br>Agora é de volta à assar...\!<br>\sinv[1]Pão fresco...\| Pão fresco...\| Pão fresco...\sinv[0]
+      text: \n<BISCOITA>Você ouviu isso, BOLACHO?\! Estamos salvos!\! <br>Agora é de volta a assar...\!<br>\sinv[1]Pão fresco...\| Pão fresco...\| Pão fresco...\sinv[0]
 
 message_90:
       text: \n<BOLACHO>\sinv[1]Ohoo...\sinv[0]
