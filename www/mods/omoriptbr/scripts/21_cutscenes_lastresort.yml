@@ -556,7 +556,7 @@ message_109:
 #HERO attempts to walk out.
 
 message_110:
-      text: \n<SR.MANDÍBARÃO>Opa calma aí, HERO. Não tão rápido!\!<br>Você ainda tem um trabalho inacabado pra fazer.
+      text: \n<SR.MANDÍBARÃO>Opa, calma aí, HERO. Não tão rápido!\!<br>Você ainda tem um trabalho inacabado pra fazer.
 
 message_111:
       text: \n<SR.MANDÍBARÃO>Você ainda tem que inaugurar os VIPs pro leilão hoje!
