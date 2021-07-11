@@ -33,7 +33,7 @@ message_3:
 message_4:
       faceset: MainCharacters_DreamWorld
       faceindex: 7
-      text: \aub\{\Com[2]\QUAKE[1]Q-Que!? \!Onde!? \!\Com[2]Tira isso de mim!!\}\QUAKE[0]
+      text: \aub\{\Com[2]\QUAKE[1]Q-Quê!? \!Onde!? \!\Com[2]Tira isso de mim!!\}\QUAKE[0]
 
 message_5:
       faceset: MainCharacters_DreamWorld
