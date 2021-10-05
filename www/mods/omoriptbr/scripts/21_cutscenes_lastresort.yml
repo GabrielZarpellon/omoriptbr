@@ -351,7 +351,7 @@ message_64:
       text: \com[540]Eu vou enviar ele aí agora mesmo.\aub
 
 message_65:
-      text: \}Você também, AUBREY.\!<br><br>...\! \quake[1]Bzzt.\jaw
+      text: \n<SR.MANDÍBARÃO>\}Você também, AUBREY.\!<br><br>...\! \quake[1]Bzzt.
 
 message_66:
       faceset: MainCharacters_DreamWorld
@@ -595,7 +595,7 @@ message_118:
       text: Me desculpe, SR. MANDÍBARÃO...\!<br>Meus amigos são mais importantes que um mísero pedaço de papel.\her
 
 message_119:
-      text: \quake[1]Mísero...\! pedaço...\! de papel?\quake[0]\jaw
+      text: \n<SR.MANDÍBARÃO>\quake[1]Mísero...\! pedaço...\! de papel?\quake[0]
 
 message_120:
       text: \n<SR.MANDÍBARÃO>Você me desrespeita, garoto.\! Eu cuido de você... um jovenzinho sem experiência... e te transformo no empregado supremo!
